@@ -1,0 +1,211 @@
+```json
+[
+  {
+    "q0": 35485487,
+    "q5": "The game is enjoyable for those who like role-playing and are willing to invest time."
+  },
+  {
+    "q0": 35485486,
+    "q27": 2,
+    "q28": "The game is considered the least pay-to-win among turn-based games, allowing players to achieve what paying players have."
+  },
+  {
+    "q0": 35485452,
+    "q27": 2,
+    "q28": "The game is described as conscientious and not requiring spending or excessive time."
+  },
+  {
+    "q0": 35485444,
+    "q5": "The game is very enjoyable with many playable aspects."
+  },
+  {
+    "q0": 35485431,
+    "q29": -2,
+    "q30": "The game is described as quite costly."
+  },
+  {
+    "q0": 35485200,
+    "q5": "The graphics are very good, and the game is enjoyable without wasting time."
+  },
+  {
+    "q0": 35485197,
+    "q5": "The game's system and Tang Dynasty storyline are appealing, and it is playable without spending much."
+  },
+  {
+    "q0": 35485091,
+    "q41": "The user hopes for more pets or divine pets to be added."
+  },
+  {
+    "q0": 35485038,
+    "q27": 2,
+    "q28": "The game is favorable for non-paying players, especially in the first two months."
+  },
+  {
+    "q0": 35485037,
+    "q5": "The game is praised as genuine and enjoyable despite being a traditional turn-based mobile game."
+  },
+  {
+    "q0": 35485029,
+    "q5": "The game is a Chinese-style vertical screen mobile game worth experiencing."
+  },
+  {
+    "q0": 35484986,
+    "q5": "The game is conscientious with strong playability."
+  },
+  {
+    "q0": 35484976,
+    "q5": "The game's storyline is the most interesting among turn-based games, and the vertical screen and art style are praised."
+  },
+  {
+    "q0": 35484970,
+    "q5": "The game is enjoyable, especially when playing daily tasks with friends."
+  },
+  {
+    "q0": 35484262,
+    "q27": 2,
+    "q28": "Non-paying players can still acquire divine beasts and resources."
+  },
+  {
+    "q0": 35484913,
+    "q9": -2,
+    "q10": "Progression is hindered by a rating system that is difficult to improve."
+  },
+  {
+    "q0": 35484866,
+    "q27": 2,
+    "q28": "The game is considered conscientious, allowing players to achieve goals without spending."
+  },
+  {
+    "q0": 35484848,
+    "q5": "The game has many small details and mini-games that make it unique."
+  },
+  {
+    "q0": 35484788,
+    "q27": 2,
+    "q28": "The game is friendly to non-paying players, allowing them to enjoy the game if they are patient."
+  },
+  {
+    "q0": 35484764,
+    "q5": "The game is good, but hidden changes and probability mechanics are frustrating."
+  },
+  {
+    "q0": 35484741,
+    "q5": "The game is enjoyable, especially when playing with friends."
+  },
+  {
+    "q0": 35484717,
+    "q5": "The game is good for passing time and not too demanding."
+  },
+  {
+    "q0": 35484699,
+    "q27": 2,
+    "q28": "The game does not force spending, but some daily tasks require help from paying players."
+  },
+  {
+    "q0": 35484671,
+    "q5": "The game is enjoyable without requiring spending or excessive time."
+  },
+  {
+    "q0": 35484660,
+    "q27": 2,
+    "q28": "The game is accessible to non-paying players in terms of resources, growth, aesthetics, and spending."
+  },
+  {
+    "q0": 35484645,
+    "q27": 2,
+    "q28": "The game allows non-paying players to save up for divine beasts."
+  },
+  {
+    "q0": 35484634,
+    "q5": "The game is enjoyable, especially for those using three cards."
+  },
+  {
+    "q0": 35484618,
+    "q5": "The game is a good option for casual play during work breaks."
+  },
+  {
+    "q0": 35484610,
+    "q5": "Resource acquisition is heavily dependent on luck."
+  },
+  {
+    "q0": 35484537,
+    "q5": "The game is enjoyable, not demanding, and easy to develop in."
+  },
+  {
+    "q0": 35484510,
+    "q5": "The game has high playability and is suitable for casual play."
+  },
+  {
+    "q0": 35484478,
+    "q27": 2,
+    "q28": "The game allows non-paying players to acquire everything."
+  },
+  {
+    "q0": 35484442,
+    "q5": "The game is enjoyable and encourages spending."
+  },
+  {
+    "q0": 35484414,
+    "q5": "The game has good playability and requires patience in development."
+  },
+  {
+    "q0": 35484407,
+    "q5": "The game is conscientious, but the balance of divine beasts and pets needs improvement."
+  },
+  {
+    "q0": 35484400,
+    "q5": "The vertical screen is praised, but prolonged play may affect eyesight."
+  },
+  {
+    "q0": 35484383,
+    "q5": "The game is enjoyable and does not require spending."
+  },
+  {
+    "q0": 35484355,
+    "q5": "The game is so engaging that the user no longer wants to play Genshin Impact."
+  },
+  {
+    "q0": 35484344,
+    "q5": "The game has high playability, and the user hopes for more professions and gameplay."
+  },
+  {
+    "q0": 35484340,
+    "q5": "There are too few ways to acquire resources, and the game lacks leisure activities."
+  },
+  {
+    "q0": 35484313,
+    "q5": "The game is friendly and enjoyable, with a preferred art style."
+  },
+  {
+    "q0": 35484299,
+    "q29": -2,
+    "q30": "The game has a strong emphasis on spending, and luck is crucial."
+  },
+  {
+    "q0": 35484298,
+    "q29": -2,
+    "q30": "The game requires spending."
+  },
+  {
+    "q0": 35484287,
+    "q41": "The game has bugs and a problematic probability algorithm."
+  },
+  {
+    "q0": 35484286,
+    "q27": 2,
+    "q28": "Non-paying players can enjoy the game with the help of guild members."
+  },
+  {
+    "q0": 35484277,
+    "q5": "The game has a fresh look and is more casual, suitable for office workers."
+  },
+  {
+    "q0": 35484216,
+    "q41": "The game has too many ghost servers, and many studios exploit new servers."
+  },
+  {
+    "q0": 35483930,
+    "q41": "The game has issues with auction pricing and frequent changes."
+  }
+]
+```

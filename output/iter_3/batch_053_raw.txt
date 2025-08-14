@@ -1,0 +1,152 @@
+```json
+[
+  {
+    "q0": 28479656,
+    "q23": false,
+    "q24": "N/A"
+  },
+  {
+    "q0": 28454097,
+    "q15": "挂机",
+    "q16": false
+  },
+  {
+    "q0": 28364384,
+    "q13": -1,
+    "q14": "Vertical screen design limits player base.",
+    "q15": "Turn-based combat",
+    "q16": false
+  },
+  {
+    "q0": 28351159,
+    "q33": true,
+    "q34": "Chang'an Fantasy",
+    "q35": "N/A",
+    "q36": "N/A"
+  },
+  {
+    "q0": 28331869,
+    "q3": "Open-world capturing and nurturing of spirits",
+    "q4": -1,
+    "q5": "Lack of unique features",
+    "q15": "Nurturing spirits",
+    "q16": false
+  },
+  {
+    "q0": 28148602,
+    "q29": -1,
+    "q30": "Preference for buy-to-play model over continuous spending",
+    "q23": false,
+    "q24": "N/A"
+  },
+  {
+    "q0": 28147522,
+    "q3": "Turn-based combat",
+    "q4": 1,
+    "q5": "Nostalgic appeal for turn-based games",
+    "q6": "Resource management",
+    "q7": 1,
+    "q8": "Strategic use of resources for character development",
+    "q9": 1,
+    "q10": "Resource management allows for progression without waste",
+    "q15": "Resource exchange system",
+    "q16": false,
+    "q23": true,
+    "q24": "High-quality spirit guarantee",
+    "q25": 1,
+    "q26": "Ability to obtain high-quality spirits without spending",
+    "q27": 1,
+    "q28": "Non-paying users can progress comfortably",
+    "q31": 1,
+    "q32": "Free resources available through gameplay"
+  },
+  {
+    "q0": 28032244,
+    "q15": "Map exploration",
+    "q16": false,
+    "q23": false,
+    "q24": "N/A"
+  },
+  {
+    "q0": 27987563,
+    "q33": true,
+    "q34": "Manga",
+    "q35": "N/A",
+    "q36": "N/A"
+  },
+  {
+    "q0": 27937169,
+    "q3": "Turn-based combat",
+    "q4": 1,
+    "q5": "Preference for non-idle gameplay",
+    "q15": "Pet capturing",
+    "q16": false
+  },
+  {
+    "q0": 27918136,
+    "q3": "Turn-based combat with pet system",
+    "q4": 1,
+    "q5": "Unique characteristics for each spirit",
+    "q15": "Character and equipment development",
+    "q16": false
+  },
+  {
+    "q0": 27880292,
+    "q11": 1,
+    "q12": "Importance of class balance for game longevity"
+  },
+  {
+    "q0": 27785936,
+    "q33": true,
+    "q34": "Tang Dynasty",
+    "q35": "N/A",
+    "q36": "N/A"
+  },
+  {
+    "q0": 27747178,
+    "q33": true,
+    "q34": "N/A",
+    "q35": "N/A",
+    "q36": "N/A"
+  },
+  {
+    "q0": 27739225,
+    "q23": false,
+    "q24": "N/A"
+  },
+  {
+    "q0": 27732863,
+    "q29": 1,
+    "q30": "Preference for non-grindy gameplay"
+  },
+  {
+    "q0": 27644791,
+    "q29": -1,
+    "q30": "Concerns about excessive monetization"
+  },
+  {
+    "q0": 27572387,
+    "q11": 1,
+    "q12": "Importance of unique class features",
+    "q29": -1,
+    "q30": "Preference for non-pay-to-win progression"
+  },
+  {
+    "q0": 27540626,
+    "q15": "Life skills",
+    "q16": false
+  },
+  {
+    "q0": 27521298,
+    "q33": true,
+    "q34": "Manga",
+    "q35": "N/A",
+    "q36": "N/A"
+  },
+  {
+    "q0": 27490601,
+    "q15": "Social interaction",
+    "q16": false
+  }
+]
+```

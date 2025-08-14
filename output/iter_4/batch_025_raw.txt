@@ -1,0 +1,118 @@
+```json
+[
+  {
+    "q0": 34150639,
+    "q29": -2,
+    "q30": "The game is perceived as forcing players to spend money, leading to a negative rating."
+  },
+  {
+    "q0": 34148524,
+    "q3": "Turn-based combat",
+    "q4": -2,
+    "q5": "The reviewer lost interest upon discovering the game is turn-based."
+  },
+  {
+    "q0": 34025379,
+    "q23": TRUE,
+    "q24": "Key pets need to be obtained through gacha.",
+    "q29": -2,
+    "q30": "The game is perceived as a reskin and lacks transparency about the developer, leading to distrust.",
+    "q41": "The auction house currency is bound, limiting its use."
+  },
+  {
+    "q0": 34142076,
+    "q21": -2,
+    "q22": "The game is accused of false advertising and lacks the promised free trading system.",
+    "q29": -2,
+    "q30": "The developer's negative interaction with players and changes to the trading system have turned players away."
+  },
+  {
+    "q0": 34136671,
+    "q9": 1,
+    "q10": "The game allows for auto-completion of daily tasks, making progression easier.",
+    "q41": "Players may be left confused if team leaders leave during auto-play."
+  },
+  {
+    "q0": 34133406,
+    "q13": -1,
+    "q14": "The pet system is complex and confusing for newcomers, limiting team build diversity.",
+    "q29": -2,
+    "q30": "The game is perceived as flashy but lacks depth, failing to surpass existing games."
+  },
+  {
+    "q0": 34131707,
+    "q19": -1,
+    "q20": "Resources are perceived as scarce, and players desire more ways to obtain them."
+  },
+  {
+    "q0": 34131452,
+    "q29": -1,
+    "q30": "The game is demanding on device resources, making it difficult to play for extended periods."
+  },
+  {
+    "q0": 34131346,
+    "q13": -1,
+    "q14": "Unlocking spirits requires fixed levels, which may deter players.",
+    "q41": "The social system is incomplete, and limited-time events are difficult to access."
+  },
+  {
+    "q0": 34128686,
+    "q29": -2,
+    "q30": "The lack of a free trading system and concerns about the game's longevity and value retention deter players."
+  },
+  {
+    "q0": 34128242,
+    "q29": -1,
+    "q30": "The game is resource-intensive, draining battery life significantly."
+  },
+  {
+    "q0": 34122817,
+    "q9": -2,
+    "q10": "The game is criticized for stealth changes and forcibly limiting player levels."
+  },
+  {
+    "q0": 27588790,
+    "q21": -2,
+    "q22": "The removal of free trading and the game's similarity to other titles have led to a downgrade in expectations."
+  },
+  {
+    "q0": 34072240,
+    "q29": -2,
+    "q30": "The game is perceived as exploitative, focusing on extracting money from players."
+  },
+  {
+    "q0": 34067848,
+    "q9": -1,
+    "q10": "Daily tasks are time-consuming and cannot be fully automated, requiring team coordination."
+  },
+  {
+    "q0": 34065363,
+    "q9": 1,
+    "q10": "The game is seen as promising, with room for improvement in gameplay optimization."
+  },
+  {
+    "q0": 34036244,
+    "q9": 1,
+    "q10": "The game is praised for its voice acting and immersive experience, though combat animations need improvement."
+  },
+  {
+    "q0": 34034114,
+    "q41": "A bug in the storyline causes the game to freeze, preventing progress."
+  },
+  {
+    "q0": 34027058,
+    "q41": "Registration issues prevent new players from joining, and communication about these issues is lacking."
+  },
+  {
+    "q0": 34017099,
+    "q9": 1,
+    "q10": "The game is appreciated for its customization options and potential for social interaction.",
+    "q41": "There are concerns about the rigidity of combat animations and the lack of PvP content."
+  },
+  {
+    "q0": 27099713,
+    "q37": -2,
+    "q38": "The game is criticized for its character modeling and overall visual presentation."
+  }
+]
+```

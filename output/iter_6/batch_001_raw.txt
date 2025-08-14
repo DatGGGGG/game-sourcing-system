@@ -1,0 +1,92 @@
+```json
+[
+  {
+    "q0": 44370730,
+    "q4": -1,
+    "q5": "The player found the new version of the game frustrating and time-consuming, taking an entire afternoon to clear a level."
+  },
+  {
+    "q0": 44363382,
+    "q4": 1,
+    "q5": "The player appreciates the game's Q-style graphics and the ability to switch between horizontal and vertical screens, finding the skills average but overall enjoyable.",
+    "q13": 1,
+    "q14": "The player finds the game worth playing and enjoyable, indicating a positive view of the game's diversity."
+  },
+  {
+    "q0": 44340922,
+    "q4": 1,
+    "q5": "The player finds the game fun and appreciates the art style, comparing it favorably to another game."
+  },
+  {
+    "q0": 44338267,
+    "q39": -2,
+    "q40": "The player is frustrated with the automatic downloading of ads, which wastes their data."
+  },
+  {
+    "q0": 44335577,
+    "q4": 2,
+    "q5": "The player finds the game very enjoyable and fun without needing to explain further."
+  },
+  {
+    "q0": 44284368,
+    "q4": 1,
+    "q5": "The player appreciates the game's graphics and finds the beginner's experience smooth."
+  },
+  {
+    "q0": 44278603,
+    "q4": 1,
+    "q5": "The player finds the art style acceptable and the gameplay relaxing."
+  },
+  {
+    "q0": 44237907,
+    "q4": 2,
+    "q5": "The player finds the game fun and appreciates the ability to capture many pets, giving it a positive review."
+  },
+  {
+    "q0": 44236747,
+    "q4": 1,
+    "q5": "The player finds the game highly playable despite the slightly blurry graphics, indicating a high level of enjoyment.",
+    "q41": "The player notes the game is somewhat grindy."
+  },
+  {
+    "q0": 44199561,
+    "q4": 1,
+    "q5": "The player finds the game innovative and suggests improvements to remove meaningless elements.",
+    "q41": "The player suggests improving customer service."
+  },
+  {
+    "q0": 44133691,
+    "q4": 1,
+    "q5": "The player finds the game experience good, appreciating both the art style and gameplay."
+  },
+  {
+    "q0": 44103890,
+    "q4": 2,
+    "q5": "The player finds the game very fun, with perfect graphics and good character design."
+  },
+  {
+    "q0": 44083804,
+    "q4": 2,
+    "q5": "The player finds the game very fun and has been playing for almost three years without stopping."
+  },
+  {
+    "q0": 44079517,
+    "q4": 2,
+    "q5": "The player finds the game very fun and innovative, appreciating the ability to play in portrait mode."
+  },
+  {
+    "q0": 44047443,
+    "q4": 1,
+    "q5": "The player finds the game very fun and suitable as a casual game to play slowly."
+  },
+  {
+    "q0": 44045871,
+    "q4": -1,
+    "q5": "The player finds the game somewhat playable but is dissatisfied with the in-game economy, where selling items yields bound currency but purchasing requires real money."
+  },
+  {
+    "q0": 43939281,
+    "q41": "The player appreciates the game's reduced grind and encourages further improvements."
+  }
+]
+```

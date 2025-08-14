@@ -1,0 +1,204 @@
+```json
+[
+  {
+    "q0": 31008517,
+    "q5": "The user is dissatisfied with the game's operations and maintenance."
+  },
+  {
+    "q0": 30958016,
+    "q5": "The user is critical of the game's marketing strategy and accuses it of being a reskin game."
+  },
+  {
+    "q0": 30949450,
+    "q5": "The user criticizes the game for being a reskin with poor combat graphics and accuses it of being a cash grab."
+  },
+  {
+    "q0": 30949450,
+    "q4": -2,
+    "q5": "The user finds the combat graphics to be very poor, reminiscent of games from 3-4 years ago."
+  },
+  {
+    "q0": 30905586,
+    "q1": true,
+    "q2": "Cultural insensitivity",
+    "q5": "The user finds the art style offensive, perceiving it as a cultural misrepresentation."
+  },
+  {
+    "q0": 30797455,
+    "q5": "The user finds the art style and gameplay enjoyable and is looking forward to future updates."
+  },
+  {
+    "q0": 30797455,
+    "q4": 2,
+    "q5": "The user finds the gameplay enjoyable and the daily tasks not too time-consuming."
+  },
+  {
+    "q0": 30797455,
+    "q9": 2,
+    "q10": "The user finds the progression reasonable with daily tasks and activities not being too difficult."
+  },
+  {
+    "q0": 30763013,
+    "q5": "The user is frustrated with the pet leveling system and resource availability."
+  },
+  {
+    "q0": 30763013,
+    "q9": -2,
+    "q10": "The user finds the progression system frustrating due to the pet leveling mechanics and resource scarcity."
+  },
+  {
+    "q0": 30721149,
+    "q5": "The user finds the game enjoyable and has participated in multiple tests."
+  },
+  {
+    "q0": 30721149,
+    "q9": 2,
+    "q10": "The user finds the game enjoyable and has participated in multiple tests, indicating a positive progression experience."
+  },
+  {
+    "q0": 30721149,
+    "q31": -2,
+    "q32": "The user finds the rewards during the third test to be stingy."
+  },
+  {
+    "q0": 30682997,
+    "q5": "The user finds the game experience positive despite the content being limited and having bugs."
+  },
+  {
+    "q0": 30682997,
+    "q9": 1,
+    "q10": "The user finds the game experience positive despite the content being limited and having bugs."
+  },
+  {
+    "q0": 30613286,
+    "q5": "The user finds the gameplay satisfactory but feels the Tangmen faction lacks uniqueness."
+  },
+  {
+    "q0": 30613286,
+    "q11": -1,
+    "q12": "The user feels the Tangmen faction lacks uniqueness and balance compared to other factions."
+  },
+  {
+    "q0": 30532268,
+    "q5": "The user is dissatisfied with the pet nerf and feels disrespected by the developers."
+  },
+  {
+    "q0": 30532268,
+    "q11": -2,
+    "q12": "The user is dissatisfied with the pet nerf and feels it was not well-considered."
+  },
+  {
+    "q0": 30532268,
+    "q31": -2,
+    "q32": "The user finds the compensation for the pet nerf inadequate and disrespectful."
+  },
+  {
+    "q0": 30500708,
+    "q5": "The user finds the game promising and hopes for reduced monetization."
+  },
+  {
+    "q0": 30433132,
+    "q5": "The user finds the game enjoyable and appreciates the simplified daily tasks."
+  },
+  {
+    "q0": 30433132,
+    "q9": 2,
+    "q10": "The user appreciates the simplified daily tasks and hopes this continues in the official release."
+  },
+  {
+    "q0": 30433132,
+    "q11": -1,
+    "q12": "The user finds the Dragon Palace's awakening skill to be underwhelming."
+  },
+  {
+    "q0": 30386114,
+    "q5": "The user is frustrated by the inability to bring four companions."
+  },
+  {
+    "q0": 30357297,
+    "q5": "The user finds the vertical screen format acceptable and is curious about the official release date."
+  },
+  {
+    "q0": 30312792,
+    "q5": "The user finds the game fun."
+  },
+  {
+    "q0": 30026720,
+    "q5": "The user suggests adding entertainment features and rewards to enhance player engagement."
+  },
+  {
+    "q0": 30026720,
+    "q27": 2,
+    "q28": "The user suggests adding entertainment features and rewards to enhance player engagement."
+  },
+  {
+    "q0": 30014599,
+    "q5": "The user is cautious about potential monetization but is willing to try the game."
+  },
+  {
+    "q0": 29973528,
+    "q5": "The user is dissatisfied with the game being in vertical screen format."
+  },
+  {
+    "q0": 29927423,
+    "q5": "The user is anxious about the iOS release."
+  },
+  {
+    "q0": 28997053,
+    "q5": "The user finds the game to be heavily monetized."
+  },
+  {
+    "q0": 28997053,
+    "q29": -2,
+    "q30": "The user finds the game to be heavily monetized."
+  },
+  {
+    "q0": 28927551,
+    "q5": "The user is critical of the game's monetization strategy and vertical screen format."
+  },
+  {
+    "q0": 28927551,
+    "q29": -1,
+    "q30": "The user is critical of the game's monetization strategy."
+  },
+  {
+    "q0": 28920087,
+    "q5": "The user is dissatisfied with the combat mechanics and visual focus."
+  },
+  {
+    "q0": 28920087,
+    "q4": -2,
+    "q5": "The user is dissatisfied with the combat mechanics and visual focus."
+  },
+  {
+    "q0": 28908014,
+    "q5": "The user praises the game's art style, mechanics, and non-aggressive monetization."
+  },
+  {
+    "q0": 28908014,
+    "q4": 2,
+    "q5": "The user praises the game's art style, mechanics, and non-aggressive monetization."
+  },
+  {
+    "q0": 28837199,
+    "q5": "The user finds the game enjoyable with high quality and controlled monetization."
+  },
+  {
+    "q0": 28762398,
+    "q5": "The user is hopeful for a game that doesn't focus on monetization and repetitive content."
+  },
+  {
+    "q0": 28762398,
+    "q29": 1,
+    "q30": "The user is hopeful for a game that doesn't focus on monetization and repetitive content."
+  },
+  {
+    "q0": 28754017,
+    "q5": "The user is critical of the game and compares it to another game."
+  },
+  {
+    "q0": 28734820,
+    "q5": "The user hopes for a horizontal screen mode."
+  }
+]
+```

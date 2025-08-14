@@ -1,0 +1,132 @@
+```json
+[
+  {
+    "q0": 34206889,
+    "q41": "No benefits during beta test."
+  },
+  {
+    "q0": 34148810,
+    "q4": 2,
+    "q5": "The user finds the game fun."
+  },
+  {
+    "q0": 34147730,
+    "q3": "Turn-based mechanics",
+    "q4": -1,
+    "q5": "The user implies the game is a reskin of existing turn-based games."
+  },
+  {
+    "q0": 34142061,
+    "q41": "Concern about the game being more focused on promotion than quality."
+  },
+  {
+    "q0": 34135170,
+    "q41": "The user likes furry content."
+  },
+  {
+    "q0": 34131991,
+    "q6": "Team-based gameplay",
+    "q7": 1,
+    "q8": "Frequent team formation is mentioned.",
+    "q41": "User is waiting to see if there are many active players before committing."
+  },
+  {
+    "q0": 34127571,
+    "q41": "The game looks good to the user."
+  },
+  {
+    "q0": 34118225,
+    "q41": "The user likes the art style and is looking forward to the game."
+  },
+  {
+    "q0": 34086094,
+    "q41": "The user mentions AI artists."
+  },
+  {
+    "q0": 34075645,
+    "q41": "The user appreciates the choice of the game's icon."
+  },
+  {
+    "q0": 34067456,
+    "q41": "Discussion about healer speed strategy."
+  },
+  {
+    "q0": 34049587,
+    "q41": "The user loves the art style."
+  },
+  {
+    "q0": 34045178,
+    "q41": "Concern about character modeling proportions."
+  },
+  {
+    "q0": 34044486,
+    "q23": true,
+    "q24": "User mentions getting a specific pet after eight draws.",
+    "q41": "Limited pet choices early game."
+  },
+  {
+    "q0": 34043738,
+    "q41": "The game is compared to an older game, 'Dreamland'."
+  },
+  {
+    "q0": 34026956,
+    "q41": "The art style is good, but the game is hard to get into."
+  },
+  {
+    "q0": 34022470,
+    "q41": "The game lacks substantial promotional content."
+  },
+  {
+    "q0": 34020713,
+    "q41": "The game doesn't showcase its gameplay in videos."
+  },
+  {
+    "q0": 34016384,
+    "q41": "Testing process is cumbersome, requiring group joining."
+  },
+  {
+    "q0": 34015865,
+    "q41": "Unusual testing process requiring group joining."
+  },
+  {
+    "q0": 34003325,
+    "q41": "User suggests a change in the counterattack mechanic."
+  },
+  {
+    "q0": 33989277,
+    "q41": "The game is perceived as a reskin."
+  },
+  {
+    "q0": 33977983,
+    "q41": "The game has been in pre-registration for two years."
+  },
+  {
+    "q0": 33976061,
+    "q41": "User asks about free trading."
+  },
+  {
+    "q0": 33972240,
+    "q41": "User mentions taking a two-week leave."
+  },
+  {
+    "q0": 33972159,
+    "q41": "Resources are lacking."
+  },
+  {
+    "q0": 33958700,
+    "q41": "Discussion about popular choices for classes."
+  },
+  {
+    "q0": 33949579,
+    "q41": "Later creatures seem more powerful."
+  },
+  {
+    "q0": 33946415,
+    "q41": "The game uses unoriginal faction names."
+  },
+  {
+    "q0": 33941081,
+    "q41": "The art style is appreciated."
+  }
+]
+```

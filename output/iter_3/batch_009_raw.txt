@@ -1,0 +1,306 @@
+```json
+[
+  {
+    "q0": 37732720,
+    "q9": -2,
+    "q10": "Progression is hindered by the lack of equipment."
+  },
+  {
+    "q0": 37728962,
+    "q9": 2,
+    "q10": "The gameplay is relaxing and good for passing time."
+  },
+  {
+    "q0": 37724704,
+    "q23": true,
+    "q24": "The game has a gacha system involving events with draws for costumes and mounts.",
+    "q25": -2,
+    "q26": "The gacha system is perceived as exploitative.",
+    "q27": -2,
+    "q28": "Non-paying users struggle to keep up without spending.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money to keep up with events.",
+    "q31": -2,
+    "q32": "Free rewards are insufficient without spending money."
+  },
+  {
+    "q0": 37717626,
+    "q33": true,
+    "q34": "The game is similar to 'Wangzhe'."
+  },
+  {
+    "q0": 37717464,
+    "q21": -2,
+    "q22": "Frequent changes have worsened the game over time."
+  },
+  {
+    "q0": 37716012,
+    "q27": -2,
+    "q28": "The game does not consider feedback from non-paying players."
+  },
+  {
+    "q0": 37710823,
+    "q25": -2,
+    "q26": "The randomness in gacha pulls leads to poor outcomes."
+  },
+  {
+    "q0": 37710745,
+    "q6": "Mechanics research",
+    "q7": 2,
+    "q8": "Understanding mechanics makes difficult content achievable."
+  },
+  {
+    "q0": 37710699,
+    "q6": "Skill allocation",
+    "q7": 2,
+    "q8": "Skill allocation strategies are detailed and varied."
+  },
+  {
+    "q0": 37710645,
+    "q6": "Enhancement system",
+    "q7": 2,
+    "q8": "Enhancements can exceed limits with proper strategy."
+  },
+  {
+    "q0": 37710590,
+    "q6": "Equipment optimization",
+    "q7": 2,
+    "q8": "Players discuss optimizing equipment for performance."
+  },
+  {
+    "q0": 37710056,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased costs.",
+    "q27": -2,
+    "q28": "Recent changes have made it harder for non-paying users to progress."
+  },
+  {
+    "q0": 37708184,
+    "q6": "Equipment and stats balancing",
+    "q7": 2,
+    "q8": "Players balance stats for optimal performance."
+  },
+  {
+    "q0": 37707877,
+    "q6": "Enhancement system",
+    "q7": 2,
+    "q8": "Enhancements are crucial for growth and require strategy."
+  },
+  {
+    "q0": 37707876,
+    "q6": "Skill usage",
+    "q7": 2,
+    "q8": "Skill usage strategies are important for success."
+  },
+  {
+    "q0": 37695172,
+    "q41": "Auction house issues, inconsistent pricing, chaotic battles, unintelligent skill casting."
+  },
+  {
+    "q0": 37615182,
+    "q9": -2,
+    "q10": "Progression is hindered by rapid power inflation and difficulty in team formation.",
+    "q21": -2,
+    "q22": "Frequent system additions increase complexity and difficulty."
+  },
+  {
+    "q0": 37693451,
+    "q3": "Auto-battle with numerical progression",
+    "q4": -2,
+    "q5": "The game relies heavily on automatic progression."
+  },
+  {
+    "q0": 37687306,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The turn-based combat is appreciated."
+  },
+  {
+    "q0": 37684560,
+    "q21": -2,
+    "q22": "Recent updates have been disappointing."
+  },
+  {
+    "q0": 37682409,
+    "q41": "Limited inventory space requires spending money to expand."
+  },
+  {
+    "q0": 37678728,
+    "q27": -2,
+    "q28": "The game is difficult without spending money.",
+    "q31": -2,
+    "q32": "Free rewards are insufficient."
+  },
+  {
+    "q0": 37678648,
+    "q6": "Skill usage",
+    "q7": 2,
+    "q8": "Skill usage strategies are effective."
+  },
+  {
+    "q0": 36472672,
+    "q11": -2,
+    "q12": "Hero balance is poor with some heroes being too strong.",
+    "q21": -2,
+    "q22": "Updates have worsened the balance and increased spending pressure.",
+    "q27": -2,
+    "q28": "Non-paying users face significant disadvantages.",
+    "q29": -2,
+    "q30": "The game heavily pressures players to spend money."
+  },
+  {
+    "q0": 37677880,
+    "q6": "Team composition",
+    "q7": 2,
+    "q8": "Team composition strategies are discussed for various content."
+  },
+  {
+    "q0": 37677865,
+    "q6": "Class suitability",
+    "q7": 2,
+    "q8": "Certain classes are recommended for new players."
+  },
+  {
+    "q0": 37677859,
+    "q31": 2,
+    "q32": "The game provides ample resources if managed well."
+  },
+  {
+    "q0": 37677394,
+    "q21": -2,
+    "q22": "Recent updates have reduced player benefits."
+  },
+  {
+    "q0": 37676972,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending requirements."
+  },
+  {
+    "q0": 37676637,
+    "q21": -2,
+    "q22": "Updates have increased spending pressure and unresolved issues."
+  },
+  {
+    "q0": 37676141,
+    "q21": -2,
+    "q22": "Updates have significantly reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37673471,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending requirements."
+  },
+  {
+    "q0": 37669681,
+    "q21": -2,
+    "q22": "Updates have reduced rewards."
+  },
+  {
+    "q0": 37658668,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37658565,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37403254,
+    "q21": -2,
+    "q22": "Frequent changes and poor management have worsened the game."
+  },
+  {
+    "q0": 37656064,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37654955,
+    "q27": -2,
+    "q28": "The game is difficult to play without spending money."
+  },
+  {
+    "q0": 34862259,
+    "q25": -2,
+    "q26": "The gacha system is frustrating due to lack of choice."
+  },
+  {
+    "q0": 37652888,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37650509,
+    "q33": true,
+    "q34": "The game includes various mythical creatures from 'Shan Hai Jing'.",
+    "q35": 2,
+    "q36": "The integration of mythical creatures is extensive and varied."
+  },
+  {
+    "q0": 37650217,
+    "q21": -2,
+    "q22": "Updates have resulted in unfair disadvantages for some players."
+  },
+  {
+    "q0": 37649422,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37646452,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37636221,
+    "q21": -2,
+    "q22": "Frequent changes and poor management have worsened the game."
+  },
+  {
+    "q0": 37634905,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37632997,
+    "q27": -2,
+    "q28": "The game is difficult to play without spending money."
+  },
+  {
+    "q0": 37630404,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37626582,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37617828,
+    "q21": -2,
+    "q22": "Updates have reduced rewards and increased spending pressure."
+  },
+  {
+    "q0": 37232365,
+    "q27": -2,
+    "q28": "The game is difficult to play without spending money."
+  },
+  {
+    "q0": 35475783,
+    "q21": -2,
+    "q22": "Frequent changes have worsened the game."
+  },
+  {
+    "q0": 35274376,
+    "q21": -2,
+    "q22": "Frequent changes and poor management have worsened the game."
+  },
+  {
+    "q0": 37413071,
+    "q39": -2,
+    "q40": "The game is slow and lacks speed options."
+  }
+]
+```

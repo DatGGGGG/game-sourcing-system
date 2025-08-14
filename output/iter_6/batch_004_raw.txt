@@ -1,0 +1,89 @@
+```json
+[
+  {
+    "q0": 35485023,
+    "q19": 2,
+    "q20": "Good resource acquisition."
+  },
+  {
+    "q0": 35484834,
+    "q5": "The game experience is good and the art is excellent."
+  },
+  {
+    "q0": 35484810,
+    "q19": 2,
+    "q20": "Able to acquire desired characters without spending money."
+  },
+  {
+    "q0": 35484768,
+    "q19": 2,
+    "q20": "Resources can be acquired without spending money, and playing with friends is enjoyable."
+  },
+  {
+    "q0": 35484701,
+    "q9": 1,
+    "q10": "Growth experience is decent, allowing continued play."
+  },
+  {
+    "q0": 35484593,
+    "q19": 2,
+    "q20": "Able to progress without spending money."
+  },
+  {
+    "q0": 35484345,
+    "q5": "The game has changed negatively."
+  },
+  {
+    "q0": 35484317,
+    "q19": 2,
+    "q20": "Resource acquisition is good and can be done without spending money."
+  },
+  {
+    "q0": 35484230,
+    "q5": "The game lacks the quality of 'Journey to the West' but has its flaws."
+  },
+  {
+    "q0": 35484100,
+    "q5": "The game is quite good."
+  },
+  {
+    "q0": 35483919,
+    "q5": "The game is fun and not expensive."
+  },
+  {
+    "q0": 35483711,
+    "q19": 2,
+    "q20": "Daily resource acquisition is abundant and the game is fun."
+  },
+  {
+    "q0": 35483645,
+    "q19": 2,
+    "q20": "Resource acquisition is rated 5 stars."
+  },
+  {
+    "q0": 35483638,
+    "q31": 1,
+    "q32": "The game provides decent benefits."
+  },
+  {
+    "q0": 35483482,
+    "q5": "The game is engaging and addictive."
+  },
+  {
+    "q0": 35483389,
+    "q5": "The game is honest and suitable for moderate spenders."
+  },
+  {
+    "q0": 35483336,
+    "q5": "The game is the most enjoyable one recently played."
+  },
+  {
+    "q0": 35483258,
+    "q5": "The game offers a unique experience between lucky and unlucky players."
+  },
+  {
+    "q0": 35483154,
+    "q5": "The game is a good way to pass time and worth playing."
+  }
+]
+```

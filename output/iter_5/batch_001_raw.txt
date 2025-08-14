@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "q0": 44355222,
+    "q9": -2,
+    "q10": "The user is frustrated with the small inventory space, leading to daily management issues, which resulted in them deleting the game."
+  },
+  {
+    "q0": 44302974,
+    "q9": -2,
+    "q10": "The user describes numerous pitfalls and a lack of helpful customer service, leading to a poor progression experience.",
+    "q27": -2,
+    "q28": "The user feels that the game is full of pitfalls for new players, requiring guides to avoid wasting resources.",
+    "q29": -2,
+    "q30": "The user spent a significant amount of money without a satisfactory gaming experience, indicating heavy spending pressure.",
+    "q41": "The user is frustrated with the customer service and the game's pitfalls for new players."
+  },
+  {
+    "q0": 44251714,
+    "q29": -2,
+    "q30": "The user perceives a significant wealth gap and feels that suggestions are ignored, leading them to treat the game as a single-player experience."
+  },
+  {
+    "q0": 44251251,
+    "q29": -2,
+    "q30": "The user is frustrated with the forced team play aspect of the game."
+  },
+  {
+    "q0": 43947711,
+    "q29": -2,
+    "q30": "The user feels deceived by the game's announcements and advises against playing the game."
+  },
+  {
+    "q0": 43936772,
+    "q29": -2,
+    "q30": "The user states that the game requires a high level of spending and time commitment."
+  },
+  {
+    "q0": 43919607,
+    "q29": -2,
+    "q30": "The user is dissatisfied with the game's holiday rewards and perceives the developers as focused on monetization without providing adequate benefits to non-paying players."
+  }
+]
+```

@@ -1,0 +1,84 @@
+```json
+[
+  {
+    "q0": 23708306,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The user expresses a strong preference for turn-based games and hopes for fresh elements in this genre."
+  },
+  {
+    "q0": 23707652,
+    "q33": true,
+    "q34": "The game is based on a comic series that started in 2019.",
+    "q35": 2,
+    "q36": "The user appreciates the effort put into integrating the comic series into the game."
+  },
+  {
+    "q0": 23705890,
+    "q5": "The user finds the game very enjoyable and plans to continue playing it.",
+    "q9": 2,
+    "q10": "The user expresses a strong liking for the Chinese style and finds the game very fun."
+  },
+  {
+    "q0": 23702486,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The user is very excited about the game and enjoys turn-based combat.",
+    "q9": 2,
+    "q10": "The user is hopeful for a positive experience and expresses a strong preference for turn-based games."
+  },
+  {
+    "q0": 23702305,
+    "q5": "The user likes the game's art style and genre.",
+    "q9": 2,
+    "q10": "The user has pre-registered, indicating a strong interest in the game."
+  },
+  {
+    "q0": 23698601,
+    "q5": "The user is concerned about the game being a reskin of existing games.",
+    "q9": -2,
+    "q10": "The user is worried about repetitive content and lack of originality in MMORPGs."
+  },
+  {
+    "q0": 23690676,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The user is very fond of turn-based games and has pre-registered due to the appealing art style and cute pets."
+  },
+  {
+    "q0": 23689857,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The user is very excited and hopeful for the game, expressing a strong preference for turn-based combat."
+  },
+  {
+    "q0": 23689604,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The user has been eagerly waiting for a new turn-based game and is excited about the game's potential."
+  },
+  {
+    "q0": 23687339,
+    "q5": "The user hopes the game will meet their expectations.",
+    "q9": 2,
+    "q10": "The user is optimistic about the game being enjoyable."
+  },
+  {
+    "q0": 23687311,
+    "q9": 2,
+    "q10": "The user has high expectations for the game."
+  },
+  {
+    "q0": 23672688,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The user is a fan of turn-based games and hopes the game will improve over time."
+  },
+  {
+    "q0": 23672379,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The user is very excited about the game and appreciates the art style."
+  }
+]
+```

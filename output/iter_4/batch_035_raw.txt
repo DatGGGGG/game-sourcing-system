@@ -1,0 +1,163 @@
+```json
+[
+  {
+    "q0": 23686315,
+    "q3": "N/A",
+    "q5": "The reviewer appreciates the art style and finds the pets cute, expressing a positive outlook for the game's success.",
+    "q9": 2,
+    "q10": "The reviewer wishes for the game to be popular and successful, indicating high expectations for its progression.",
+    "q13": 2,
+    "q14": "The reviewer finds the art style and pets appealing, suggesting a positive view on character diversity."
+  },
+  {
+    "q0": 23680867,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer is excited about the turn-based combat system and expects it to be well-implemented.",
+    "q6": "Economic system",
+    "q7": 2,
+    "q8": "The reviewer hopes for a well-developed economic system, indicating expectations for strategic depth.",
+    "q9": 2,
+    "q10": "The reviewer expresses hope for the game's long-term development, indicating positive expectations for progression."
+  },
+  {
+    "q0": 23680757,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer is looking forward to the turn-based combat, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is excited about the game, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23679994,
+    "q9": 2,
+    "q10": "The reviewer is attracted by the art style and eagerly anticipates the game's release, indicating positive expectations for its progression."
+  },
+  {
+    "q0": 23678466,
+    "q15": "Idle gameplay",
+    "q16": "False",
+    "q17": 0,
+    "q18": "The reviewer notes the presence of idle gameplay but does not express a strong opinion on its complexity."
+  },
+  {
+    "q0": 23676831,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer is enthusiastic about the turn-based combat, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is excited about the game's art style and turn-based mechanics, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23674741,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer enjoys the combination of Chinese-style monster themes and turn-based combat, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is enthusiastic about the game's theme and mechanics, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23674181,
+    "q6": "Auto-battle, Auto-chain battle, Drop rate, Gacha",
+    "q7": 2,
+    "q8": "The reviewer hopes for features like auto-battle and high drop rates, indicating expectations for strategic depth.",
+    "q23": "True",
+    "q24": "The reviewer mentions a desire for high drop rates or gacha, suggesting the presence of a gacha system."
+  },
+  {
+    "q0": 23674125,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer gives a positive rating to the turn-based combat, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is optimistic about the game's progression, as indicated by the positive rating."
+  },
+  {
+    "q0": 23672153,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer is very excited about the turn-based combat, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is eager to play the game, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23672128,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer is enthusiastic about turn-based combat and hopes for innovative content, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is hopeful for innovative content, suggesting positive expectations for the game's progression."
+  },
+  {
+    "q0": 23672054,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer is hopeful for a good turn-based game, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is optimistic about the game's potential to revitalize the turn-based genre, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23671865,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer is very excited about the turn-based combat, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is eager to experience the game, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23671836,
+    "q9": 2,
+    "q10": "The reviewer is hopeful for innovation in the game, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23671815,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer is a fan of turn-based games and hopes for unique features, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is hopeful for unique features, suggesting positive expectations for the game's progression."
+  },
+  {
+    "q0": 23671395,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer is very positive about turn-based combat, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is hopeful for good game management, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23670891,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer is very excited about the turn-based combat, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is eager to play the game, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23670041,
+    "q9": 2,
+    "q10": "The reviewer is excited about the game's release, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23669645,
+    "q9": 2,
+    "q10": "The reviewer is impressed by the art style and expresses a positive outlook for the game."
+  },
+  {
+    "q0": 23669517,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer loves turn-based games and hopes for diverse pet designs, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is hopeful for minimal differences between promotional art and the game, suggesting positive expectations for its progression."
+  },
+  {
+    "q0": 23668412,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The reviewer likes turn-based games and is hopeful for surprises, indicating a positive expectation.",
+    "q9": 2,
+    "q10": "The reviewer is hopeful for surprises, suggesting positive expectations for the game's progression."
+  }
+]
+```

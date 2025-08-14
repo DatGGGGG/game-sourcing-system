@@ -1,0 +1,97 @@
+```json
+[
+  {
+    "q0": 34547819,
+    "q29": -2,
+    "q30": "The user feels that the game might require spending money to compensate for hiring a celebrity for endorsements."
+  },
+  {
+    "q0": 34547649,
+    "q29": -2,
+    "q30": "The user criticizes the game for manipulating reviews, implying a negative view of spending pressure."
+  },
+  {
+    "q0": 34543441,
+    "q41": "The user reports an issue with server selection being inconsistent for different accounts."
+  },
+  {
+    "q0": 34543078,
+    "q39": -2,
+    "q40": "The user is unable to install the game, indicating a poor download experience."
+  },
+  {
+    "q0": 34542845,
+    "q41": "The user previously stopped playing during beta due to the game being too demanding ('grindy')."
+  },
+  {
+    "q0": 34541891,
+    "q41": "The user reports receiving a call about loans shortly after starting the game, suggesting intrusive or suspicious behavior from the game company."
+  },
+  {
+    "q0": 34541881,
+    "q41": "The user criticizes both the main and battle interfaces."
+  },
+  {
+    "q0": 34541842,
+    "q41": "The user finds the game extremely boring."
+  },
+  {
+    "q0": 34541809,
+    "q29": -2,
+    "q30": "The user comments on the high spending required, indicating a negative view of spending pressure."
+  },
+  {
+    "q0": 34541796,
+    "q29": -2,
+    "q30": "The user describes the game as having traditional web game spending levels, suggesting high spending pressure."
+  },
+  {
+    "q0": 34541716,
+    "q29": -2,
+    "q30": "The user anticipates the game will require heavy spending, predicting a low rating."
+  },
+  {
+    "q0": 34541652,
+    "q41": "The user mentions multiple servers being full, implying artificial scarcity ('ghost soldiers') to create demand."
+  },
+  {
+    "q0": 34541521,
+    "q29": -2,
+    "q30": "The user criticizes the game for being a reskinned pay-to-win mobile game."
+  },
+  {
+    "q0": 34541513,
+    "q41": "The user reports long queue times to enter the game."
+  },
+  {
+    "q0": 34541373,
+    "q41": "The user finds the game unoriginal and not suitable for players over 15."
+  },
+  {
+    "q0": 34541317,
+    "q41": "The user finds the game tiring and not fitting the idle game category as advertised."
+  },
+  {
+    "q0": 34541290,
+    "q29": -2,
+    "q30": "The user describes high spending requirements and poor resource acquisition."
+  },
+  {
+    "q0": 34541178,
+    "q41": "The user reports long queue times, suggesting server issues."
+  },
+  {
+    "q0": 34541118,
+    "q41": "The user reports excessive queue times and predicts server shutdown."
+  },
+  {
+    "q0": 34541097,
+    "q41": "The user is frustrated with long queue times and poor server capacity."
+  },
+  {
+    "q0": 34540749,
+    "q29": -2,
+    "q30": "The user criticizes the game's monetization and server management, suggesting high spending pressure."
+  }
+]
+```

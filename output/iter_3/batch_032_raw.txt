@@ -1,0 +1,395 @@
+```json
+[
+  {
+    "q0": 34550869,
+    "q1": true,
+    "q2": "Sexual Content/Nudity",
+    "q3": "Turn-based combat with strategy elements, allowing for both manual and automatic skill casting.",
+    "q4": 0,
+    "q5": "Combat is described as lacking depth and heavily reliant on power levels.",
+    "q6": "Strategy in skill selection, team composition, and equipment choices.",
+    "q7": 0,
+    "q8": "Strategy is limited by power level differences, reducing its impact.",
+    "q9": -1,
+    "q10": "Progression is hindered by pay-to-win elements and repetitive tasks.",
+    "q11": -1,
+    "q12": "Hero balance is affected by pay-to-win mechanics.",
+    "q13": -1,
+    "q14": "Limited diversity due to the need for specific roles and high costs.",
+    "q15": "Monster capturing and training, with options for manual or automatic capture.",
+    "q16": false,
+    "q17": 0,
+    "q18": "Capturing monsters is straightforward but lacks engaging elements.",
+    "q19": -1,
+    "q20": "Resources are difficult to obtain without spending money.",
+    "q21": -1,
+    "q22": "Updates are not frequent enough to keep the game engaging.",
+    "q23": true,
+    "q24": "Players can inherit progress from old monsters to new ones.",
+    "q25": -1,
+    "q26": "High costs for gacha pulls and progression.",
+    "q27": -1,
+    "q28": "Non-paying users face significant limitations in progression.",
+    "q29": -1,
+    "q30": "Heavy spending pressure to keep up with other players.",
+    "q31": -1,
+    "q32": "Free rewards are insufficient for meaningful progression.",
+    "q33": false,
+    "q34": "N/A",
+    "q35": "N/A",
+    "q36": "N/A",
+    "q37": -1,
+    "q38": "Game causes device heating issues.",
+    "q39": -1,
+    "q40": "In-game downloads are large and cause performance issues.",
+    "q41": "The game lacks originality and has poor optimization."
+  },
+  {
+    "q0": 34561445,
+    "q3": "N/A",
+    "q4": -1,
+    "q5": "Combat is described as clunky and unengaging.",
+    "q9": -1,
+    "q10": "Progression is hindered by poor mechanics and lack of interest.",
+    "q41": "Weak storyline and poor graphics."
+  },
+  {
+    "q0": 34561386,
+    "q3": "N/A",
+    "q4": -1,
+    "q5": "Combat is limited by ineffective control mechanics.",
+    "q9": -1,
+    "q10": "Progression is slow and requires spending.",
+    "q41": "Limited control mechanics and forced spending."
+  },
+  {
+    "q0": 34561123,
+    "q1": true,
+    "q2": "Sexual Content/Nudity",
+    "q41": "Inappropriate character design with sexualized elements."
+  },
+  {
+    "q0": 34560996,
+    "q9": -1,
+    "q10": "Progression is slow and relies heavily on repetitive tasks.",
+    "q41": "Lack of engaging content and slow progression."
+  },
+  {
+    "q0": 34560994,
+    "q3": "Turn-based combat with repetitive mechanics.",
+    "q4": -1,
+    "q5": "Combat is described as more boring than other similar games.",
+    "q9": -1,
+    "q10": "Lack of engaging progression elements."
+  },
+  {
+    "q0": 34560892,
+    "q3": "N/A",
+    "q4": -1,
+    "q5": "Combat is outdated and lacks innovation.",
+    "q9": -1,
+    "q10": "Progression is hindered by outdated mechanics and lack of innovation.",
+    "q41": "Outdated gameplay and lack of innovation."
+  },
+  {
+    "q0": 34560888,
+    "q3": "N/A",
+    "q4": -1,
+    "q5": "Combat is a copy of other games with no originality.",
+    "q9": -1,
+    "q10": "Progression is hindered by lack of originality.",
+    "q41": "Game is a copy of other games with no originality."
+  },
+  {
+    "q0": 34560692,
+    "q41": "Presence of unauthorized third-party advertisements."
+  },
+  {
+    "q0": 34560536,
+    "q9": -1,
+    "q10": "Lack of engaging content and progression.",
+    "q41": "No standout features or engaging content."
+  },
+  {
+    "q0": 34560335,
+    "q9": -1,
+    "q10": "Lack of engaging content and progression.",
+    "q41": "No standout features or engaging content."
+  },
+  {
+    "q0": 34560261,
+    "q3": "N/A",
+    "q4": -1,
+    "q5": "Combat is a copy of other games with no originality.",
+    "q9": -1,
+    "q10": "Progression is hindered by lack of originality.",
+    "q41": "Game is a copy of other games with no originality."
+  },
+  {
+    "q0": 34560215,
+    "q9": -1,
+    "q10": "Progression is slow and lacks engaging elements.",
+    "q41": "Game is a simplified version of other similar games."
+  },
+  {
+    "q0": 34559899,
+    "q9": -1,
+    "q10": "Lack of engaging content and progression.",
+    "q41": "Game is described as boring."
+  },
+  {
+    "q0": 34559833,
+    "q9": -1,
+    "q10": "Progression is hindered by outdated mechanics.",
+    "q41": "Game is described as outdated."
+  },
+  {
+    "q0": 34559734,
+    "q3": "N/A",
+    "q4": -1,
+    "q5": "Combat is described as lacking engaging elements.",
+    "q41": "Lack of engaging content and poor graphics."
+  },
+  {
+    "q0": 34559713,
+    "q29": -2,
+    "q30": "Heavy spending pressure.",
+    "q41": "Game is described as too pay-to-win."
+  },
+  {
+    "q0": 34559698,
+    "q19": 1,
+    "q20": "Rich rewards from idle gameplay.",
+    "q41": "Idle gameplay provides good rewards."
+  },
+  {
+    "q0": 34559695,
+    "q3": "Standard turn-based combat.",
+    "q4": -1,
+    "q5": "Combat is described as having limited highlights.",
+    "q41": "Limited highlights in gameplay."
+  },
+  {
+    "q0": 34559580,
+    "q9": -1,
+    "q10": "Progression is hindered by outdated mechanics.",
+    "q41": "Game is described as outdated."
+  },
+  {
+    "q0": 34559544,
+    "q19": 1,
+    "q20": "Resources are described as adequate.",
+    "q41": "Resource acquisition is adequate."
+  },
+  {
+    "q0": 34559336,
+    "q41": "Presence of fake reviews and lack of genuine player feedback."
+  },
+  {
+    "q0": 34559320,
+    "q11": -1,
+    "q12": "Hero balance is affected by skill changes.",
+    "q41": "Skill changes affect hero balance."
+  },
+  {
+    "q0": 34559275,
+    "q9": -1,
+    "q10": "Progression is hindered by lack of engaging content.",
+    "q41": "Game experience has declined over time."
+  },
+  {
+    "q0": 34559069,
+    "q11": -1,
+    "q12": "Hero balance is affected by skill changes.",
+    "q41": "Skill changes affect hero balance."
+  },
+  {
+    "q0": 34558981,
+    "q9": -1,
+    "q10": "Progression is hindered by lack of engaging content.",
+    "q41": "Game is described as lacking engaging content."
+  },
+  {
+    "q0": 34558706,
+    "q11": 1,
+    "q12": "Recent changes have improved hero balance.",
+    "q41": "Hero balance has improved with recent changes."
+  },
+  {
+    "q0": 34558667,
+    "q3": "Turn-based combat.",
+    "q4": 0,
+    "q5": "Combat is described as standard for the genre.",
+    "q41": "Game lacks standout features."
+  },
+  {
+    "q0": 34558595,
+    "q9": -1,
+    "q10": "Progression is hindered by repetitive tasks.",
+    "q41": "Game is described as a chore."
+  },
+  {
+    "q0": 34558531,
+    "q4": -1,
+    "q5": "Combat is described as monotonous.",
+    "q41": "Combat is described as monotonous."
+  },
+  {
+    "q0": 34558497,
+    "q3": "Turn-based combat with character roles similar to other games.",
+    "q4": -1,
+    "q5": "Combat is described as lacking originality.",
+    "q41": "Game is described as a simplified version of other similar games."
+  },
+  {
+    "q0": 34558484,
+    "q41": "Game difficulty is affected by random skill triggers."
+  },
+  {
+    "q0": 34558305,
+    "q19": 1,
+    "q20": "Monster evolution provides satisfying progression.",
+    "q41": "Monster evolution is a highlight."
+  },
+  {
+    "q0": 34558225,
+    "q19": 1,
+    "q20": "Monster variety is described as adequate.",
+    "q41": "Monster variety is adequate."
+  },
+  {
+    "q0": 34558188,
+    "q41": "Forced team play is frustrating."
+  },
+  {
+    "q0": 34558065,
+    "q41": "Equipment system is restrictive."
+  },
+  {
+    "q0": 34558055,
+    "q41": "Game mechanics are frustrating and limit progression."
+  },
+  {
+    "q0": 34558046,
+    "q41": "Excessive cutscenes and dialogues."
+  },
+  {
+    "q0": 34558036,
+    "q41": "Game is described as a copy of other games with no originality."
+  },
+  {
+    "q0": 34557939,
+    "q41": "Game is described as pay-to-win."
+  },
+  {
+    "q0": 34557771,
+    "q41": "Game is described as a copy of other games with no originality."
+  },
+  {
+    "q0": 34557721,
+    "q41": "Game is described as cute but lacking depth."
+  },
+  {
+    "q0": 34557707,
+    "q41": "Game is described as a copy of other games with no originality."
+  },
+  {
+    "q0": 34557590,
+    "q41": "Graphics are described as good."
+  },
+  {
+    "q0": 34557565,
+    "q19": 1,
+    "q20": "Free pets are described as better than paid ones.",
+    "q41": "Free pets are better than paid ones."
+  },
+  {
+    "q0": 34557209,
+    "q41": "Game is described as outdated and lacking engaging content."
+  },
+  {
+    "q0": 34557090,
+    "q41": "Game is described as suitable for casual play."
+  },
+  {
+    "q0": 34556923,
+    "q41": "Game is described as inferior to other popular games."
+  },
+  {
+    "q0": 34556848,
+    "q41": "Game is described as empty and lacking content."
+  },
+  {
+    "q0": 34556796,
+    "q41": "Game is described as a copy of other games with no originality."
+  },
+  {
+    "q0": 34556668,
+    "q41": "Game is described as a copy of other games with no originality."
+  },
+  {
+    "q0": 34556462,
+    "q41": "Large in-game downloads without warning."
+  },
+  {
+    "q0": 34556397,
+    "q41": "Presence of unauthorized third-party advertisements."
+  },
+  {
+    "q0": 34556263,
+    "q41": "Server issues prevent access to the game."
+  },
+  {
+    "q0": 34556200,
+    "q41": "Game is described as a copy of other games with no originality."
+  },
+  {
+    "q0": 34556101,
+    "q41": "Game is described as a copy of other games with no originality."
+  },
+  {
+    "q0": 34556047,
+    "q41": "Game is described as lacking support."
+  },
+  {
+    "q0": 34555950,
+    "q41": "Game is described as a copy of other games with no originality."
+  },
+  {
+    "q0": 34555794,
+    "q41": "Game is described as having slow-paced storytelling."
+  },
+  {
+    "q0": 34555390,
+    "q41": "Game is described as pay-to-win."
+  },
+  {
+    "q0": 34555258,
+    "q41": "Game is described as a copy of other games with no originality."
+  },
+  {
+    "q0": 34555235,
+    "q41": "Game requires specific character choices for PvP."
+  },
+  {
+    "q0": 34555127,
+    "q41": "Game is described as easy to play."
+  },
+  {
+    "q0": 34555072,
+    "q41": "Game is described as a simplified version of other similar games."
+  },
+  {
+    "q0": 34554997,
+    "q41": "Game is described as having slow-paced storytelling."
+  },
+  {
+    "q0": 34554958,
+    "q41": "Game is described as having too many activities."
+  },
+  {
+    "q0": 34554948,
+    "q41": "Game is described as a copy of other games with no originality."
+  }
+]
+```

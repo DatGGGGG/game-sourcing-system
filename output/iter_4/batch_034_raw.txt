@@ -1,0 +1,123 @@
+```json
+[
+  {
+    "q0": 23956719,
+    "q29": -2,
+    "q30": "The user is concerned about the game being a money pit, similar to a previous experience."
+  },
+  {
+    "q0": 23932299,
+    "q6": "Trading system",
+    "q7": 2,
+    "q8": "The user is excited about the trading system and has given a 5-star rating in anticipation."
+  },
+  {
+    "q0": 23851176,
+    "q13": 2,
+    "q14": "The user appreciates the game's art and original drawings, suggesting a positive view on hero/team build diversity."
+  },
+  {
+    "q0": 23846881,
+    "q13": 2,
+    "q14": "The user gives a 5-star rating based on the game's ink painting style, indicating a positive view on diversity."
+  },
+  {
+    "q0": 23834664,
+    "q1": true,
+    "q2": "Sexual Content/Nudity",
+    "q13": 2,
+    "q14": "The user is excited about the pet art style, which they describe as 'sexy', indicating a positive view on diversity."
+  },
+  {
+    "q0": 23671795,
+    "q3": "Turn-based combat with options for skipping, speeding up, and automation.",
+    "q4": 1,
+    "q5": "The user is concerned about common issues in turn-based games but is hopeful for improvements.",
+    "q6": "Skill release with 3D effects, balancing of numerical values",
+    "q7": 1,
+    "q8": "The user suggests improvements in skill effects and balancing, indicating some strategic depth.",
+    "q9": 1,
+    "q10": "The user is hopeful for improvements in player experience and feedback collection.",
+    "q11": 1,
+    "q12": "The user mentions the importance of balanced numerical values across different levels.",
+    "q13": 2,
+    "q14": "The user appreciates the aesthetic and modeling of pets, indicating a positive view on diversity."
+  },
+  {
+    "q0": 23827668,
+    "q9": -1,
+    "q10": "The user is concerned about the length of the main storyline, hoping for continuous and engaging content."
+  },
+  {
+    "q0": 23760658,
+    "q15": "Social and business gameplay",
+    "q16": true,
+    "q17": 2,
+    "q18": "The user appreciates the added social and business gameplay elements.",
+    "q19": 2,
+    "q20": "The user believes the game has enough merchants and social elements to keep it engaging."
+  },
+  {
+    "q0": 23760033,
+    "q21": -1,
+    "q22": "The user hopes for increased promotion and less frequent new server openings."
+  },
+  {
+    "q0": 23753410,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The user is very excited and supportive of the turn-based combat system.",
+    "q9": 2,
+    "q10": "The user is very hopeful and supportive of the game's potential."
+  },
+  {
+    "q0": 23750325,
+    "q3": "Turn-based combat",
+    "q4": 1,
+    "q5": "The user is cautiously optimistic about the turn-based combat system.",
+    "q29": -1,
+    "q30": "The user is concerned about excessive monetization and hopes for a balanced approach."
+  },
+  {
+    "q0": 23750053,
+    "q29": -1,
+    "q30": "The user is concerned about the game being a money grab with leaderboard rewards."
+  },
+  {
+    "q0": 23746196,
+    "q29": -1,
+    "q30": "The user is skeptical about the company's past games and monetization strategies."
+  },
+  {
+    "q0": 23735241,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The user enjoys turn-based games and is hopeful for new gameplay features."
+  },
+  {
+    "q0": 23701215,
+    "q15": "Team up with friends for dungeons",
+    "q16": true,
+    "q17": 2,
+    "q18": "The user appreciates the ability to team up with friends, indicating a positive view on the secondary loop."
+  },
+  {
+    "q0": 23700088,
+    "q3": "Turn-based combat",
+    "q4": 1,
+    "q5": "The user is hopeful for a turn-based combat system without excessive monetization."
+  },
+  {
+    "q0": 23696735,
+    "q27": 1,
+    "q28": "The user hopes that free-to-play players can enjoy the game."
+  },
+  {
+    "q0": 23692171,
+    "q15": "Partner system",
+    "q16": true,
+    "q17": 1,
+    "q18": "The user mentions the partner system, indicating a positive view on the secondary loop."
+  }
+]
+```

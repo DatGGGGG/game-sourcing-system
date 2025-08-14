@@ -1,0 +1,163 @@
+```json
+[
+  {
+    "q0": 25980334,
+    "q6": "妖灵阶段外观选择功能"
+  },
+  {
+    "q0": 25965926,
+    "q6": "宝葫芦抓妖灵"
+  },
+  {
+    "q0": 25939296,
+    "q1": true,
+    "q2": "Sexual Content/Nudity"
+  },
+  {
+    "q0": 25809037,
+    "q6": "角色立绘",
+    "q13": 2,
+    "q14": "Players appreciate the detailed character illustrations."
+  },
+  {
+    "q0": 25788924,
+    "q3": "回合制 combat",
+    "q4": 2,
+    "q5": "The player expresses a strong preference for turn-based combat."
+  },
+  {
+    "q0": 25784094,
+    "q3": "回合制 combat",
+    "q4": 2,
+    "q5": "The player enjoys turn-based combat."
+  },
+  {
+    "q0": 25773211,
+    "q1": true,
+    "q2": "Religious/Political",
+    "q6": "剧情设定"
+  },
+  {
+    "q0": 25764338,
+    "q3": "回合制 combat",
+    "q4": 2,
+    "q5": "The player is very excited about the turn-based combat."
+  },
+  {
+    "q0": 25746982,
+    "q6": "休闲游戏",
+    "q7": 2,
+    "q8": "The player appreciates the game being less demanding."
+  },
+  {
+    "q0": 25746225,
+    "q6": "画面风格"
+  },
+  {
+    "q0": 25745888,
+    "q3": "回合制 combat",
+    "q4": 2,
+    "q5": "The player finds turn-based combat enjoyable."
+  },
+  {
+    "q0": 25737436,
+    "q6": "插画风格"
+  },
+  {
+    "q0": 25732799,
+    "q29": 2,
+    "q30": "The player hopes for a game that is not demanding in terms of time or money."
+  },
+  {
+    "q0": 25714625,
+    "q6": "优秀的系统"
+  },
+  {
+    "q0": 25714195,
+    "q6": "不太肝"
+  },
+  {
+    "q0": 25712399,
+    "q6": "角色设计"
+  },
+  {
+    "q0": 25711249,
+    "q6": "女性角色画风"
+  },
+  {
+    "q0": 25690631,
+    "q6": "古风画风"
+  },
+  {
+    "q0": 25683517,
+    "q6": "建模"
+  },
+  {
+    "q0": 25646589,
+    "q6": "活动本难度"
+  },
+  {
+    "q0": 25636037,
+    "q33": true,
+    "q34": "长安幻想动漫",
+    "q35": 2,
+    "q36": "The game is based on a popular anime, which excites players."
+  },
+  {
+    "q0": 25609811,
+    "q6": "宣传图"
+  },
+  {
+    "q0": 25578836,
+    "q6": "御姐建模"
+  },
+  {
+    "q0": 25559243,
+    "q6": "萌妹御灵师"
+  },
+  {
+    "q0": 25546215,
+    "q6": "国风立绘"
+  },
+  {
+    "q0": 25543076,
+    "q6": "唐朝长安城画风"
+  },
+  {
+    "q0": 25532974,
+    "q6": "公会系统"
+  },
+  {
+    "q0": 25532841,
+    "q6": "官方爆料视频"
+  },
+  {
+    "q0": 25519250,
+    "q6": "御剑与御灵"
+  },
+  {
+    "q0": 25509723,
+    "q6": "休闲游戏"
+  },
+  {
+    "q0": 25495341,
+    "q6": "Q版画风"
+  },
+  {
+    "q0": 25487107,
+    "q6": "横竖屏切换"
+  },
+  {
+    "q0": 25467760,
+    "q6": "剧情与漫画联系"
+  },
+  {
+    "q0": 25456604,
+    "q6": "国风回合手游"
+  },
+  {
+    "q0": 25440036,
+    "q6": "游戏设定"
+  }
+]
+```

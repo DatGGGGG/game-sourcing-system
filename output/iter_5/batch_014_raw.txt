@@ -1,0 +1,83 @@
+```json
+[
+  {
+    "q0": 33938454,
+    "q5": "The reviewer appreciates the game's art style and hopes future content maintains the cute style."
+  },
+  {
+    "q0": 33937894,
+    "q11": -1,
+    "q12": "The reviewer feels that higher-level characters are stronger, which may disadvantage players who do not level up."
+  },
+  {
+    "q0": 33893984,
+    "q8": "The reviewer appreciates the simplicity of the scoring system but suggests further development.",
+    "q9": 1,
+    "q10": "The reviewer finds the simplicity of the scoring system to be a positive aspect."
+  },
+  {
+    "q0": 33893590,
+    "q5": "The reviewer finds the voice chat feature unfriendly for socially anxious players.",
+    "q29": -1,
+    "q30": "The reviewer feels pressured by the need to use voice chat in group activities."
+  },
+  {
+    "q0": 33892774,
+    "q21": -1,
+    "q22": "The reviewer notes a decrease in community activity due to a lack of updates."
+  },
+  {
+    "q0": 33891353,
+    "q8": "The reviewer suggests adding more social features like mentorship or alliances.",
+    "q9": 1,
+    "q10": "The reviewer believes additional social features would enhance the game."
+  },
+  {
+    "q0": 33890911,
+    "q19": 2,
+    "q20": "The reviewer finds the equipment system rewarding, especially when obtaining high-level skills."
+  },
+  {
+    "q0": 33880770,
+    "q6": "The reviewer suggests adding more development paths for characters and pets.",
+    "q8": "The reviewer suggests adding more development paths for characters and pets."
+  },
+  {
+    "q0": 33800338,
+    "q9": -1,
+    "q10": "The reviewer feels that daily tasks become monotonous over time."
+  },
+  {
+    "q0": 33781108,
+    "q5": "The reviewer finds the game's music lacks uniqueness and impact."
+  },
+  {
+    "q0": 33749123,
+    "q5": "The reviewer finds the game difficult without spending money.",
+    "q29": -1,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 33744099,
+    "q5": "The reviewer suggests adding a feature to switch between portrait and landscape modes."
+  },
+  {
+    "q0": 33734387,
+    "q13": -1,
+    "q14": "The reviewer is attracted to the pet evolution system but finds the current selection of attractive pets limited."
+  },
+  {
+    "q0": 33725388,
+    "q5": "The reviewer appreciates the unique art style and vertical turn-based gameplay.",
+    "q11": -1,
+    "q12": "The reviewer feels that the starter pet is too strong compared to others."
+  },
+  {
+    "q0": 33723184,
+    "q27": 2,
+    "q28": "The reviewer has a positive experience without spending money and recommends the game.",
+    "q13": 1,
+    "q14": "The reviewer suggests different strategies for different roles, indicating diversity in team builds."
+  }
+]
+```

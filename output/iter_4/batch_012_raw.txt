@@ -1,0 +1,126 @@
+```json
+[
+  {
+    "q0": 35481847,
+    "q9": 2,
+    "q10": "The game is very friendly to non-paying players, allowing them to progress well by understanding the game mechanics and managing resources effectively."
+  },
+  {
+    "q0": 35483946,
+    "q31": 1,
+    "q32": "The game is considered better than another game by the same company, indicating a positive view on rewards."
+  },
+  {
+    "q0": 35483864,
+    "q31": 1,
+    "q32": "Resource acquisition is a bit slow, but the game is still playable and suitable for idle play."
+  },
+  {
+    "q0": 35483760,
+    "q27": 2,
+    "q28": "The game can be played without spending money."
+  },
+  {
+    "q0": 35483697,
+    "q27": 2,
+    "q28": "The game is very friendly to non-paying players, with plenty of free resources and rewards available."
+  },
+  {
+    "q0": 35483679,
+    "q27": 2,
+    "q28": "The game is friendly to both light spenders and non-spenders, allowing them to progress and enjoy the game."
+  },
+  {
+    "q0": 35483674,
+    "q37": 2,
+    "q38": "The vertical screen gameplay is appreciated for its convenience."
+  },
+  {
+    "q0": 35483670,
+    "q41": "There are some issues with certain features, such as a mismatch in dice roll results during an event."
+  },
+  {
+    "q0": 35483657,
+    "q27": 1,
+    "q28": "The game is friendly to light spenders, but there is a concern about potential pressure to spend more."
+  },
+  {
+    "q0": 35483627,
+    "q27": 2,
+    "q28": "The game integrates elements from other popular games and is enjoyable for turn-based game players."
+  },
+  {
+    "q0": 35483574,
+    "q15": "Pet development",
+    "q17": 2,
+    "q18": "The pet development system is refreshing and engaging."
+  },
+  {
+    "q0": 35483571,
+    "q41": "Some events are considered a waste of time."
+  },
+  {
+    "q0": 35483569,
+    "q41": "There are concerns about stealth changes in the game."
+  },
+  {
+    "q0": 35483478,
+    "q41": "There is anticipation for new classes to enhance the gaming experience."
+  },
+  {
+    "q0": 35483388,
+    "q29": 2,
+    "q30": "The game is suitable for casual play and does not pressure players to spend."
+  },
+  {
+    "q0": 35483375,
+    "q27": 2,
+    "q28": "The game can be enjoyed without spending money, and there are hopes for more classes."
+  },
+  {
+    "q0": 35483268,
+    "q27": 2,
+    "q28": "The game is enjoyable without spending money."
+  },
+  {
+    "q0": 35483239,
+    "q31": 2,
+    "q32": "Resource acquisition is relatively easy, allowing for progression without spending."
+  },
+  {
+    "q0": 35483227,
+    "q27": 2,
+    "q28": "The game provides good benefits for new players, allowing them to progress without spending."
+  },
+  {
+    "q0": 35483164,
+    "q29": 2,
+    "q30": "The game is suitable for casual play and does not pressure players to spend."
+  },
+  {
+    "q0": 35483095,
+    "q27": 2,
+    "q28": "The game provides a good experience for players with a monthly card."
+  },
+  {
+    "q0": 35483025,
+    "q27": 2,
+    "q28": "The game is suitable for casual play and does not require chasing high combat power."
+  },
+  {
+    "q0": 35482996,
+    "q21": 2,
+    "q22": "The game is responsive to player feedback and suggestions."
+  },
+  {
+    "q0": 35482971,
+    "q27": 2,
+    "q28": "The game allows non-paying players to progress and enjoy the game."
+  },
+  {
+    "q0": 35482912,
+    "q31": 2,
+    "q32": "The game offers good benefits and rewards, allowing players to acquire rare pets easily."
+  }
+]
+```

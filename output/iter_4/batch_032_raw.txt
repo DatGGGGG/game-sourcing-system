@@ -1,0 +1,171 @@
+```json
+[
+  {
+    "q0": 25428002,
+    "q41": "Concerns about the reservation reward system being stuck."
+  },
+  {
+    "q0": 25425223,
+    "q41": "Concerns about free trading leading to issues with bots and bugs."
+  },
+  {
+    "q0": 25414599,
+    "q41": "Concerns about game complexity and pay-to-win mechanics."
+  },
+  {
+    "q0": 25402074,
+    "q41": "Positive reaction to the use of unique historical characters and background stories."
+  },
+  {
+    "q0": 25397800,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "Enjoyment of turn-based games and entertainment value."
+  },
+  {
+    "q0": 25386243,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "Preference for turn-based games."
+  },
+  {
+    "q0": 25245321,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "Considered innovative in the domestic market.",
+    "q41": "Concerns about re-skinning and excessive limited-time events."
+  },
+  {
+    "q0": 25238432,
+    "q41": "Criticism of character name font style and placement."
+  },
+  {
+    "q0": 25216773,
+    "q41": "Concerns about pay-to-win mechanics and server population."
+  },
+  {
+    "q0": 25178330,
+    "q41": "Positive feedback on clean and comfortable interface."
+  },
+  {
+    "q0": 25149853,
+    "q41": "Positive feedback on art style and anticipation for release."
+  },
+  {
+    "q0": 24963996,
+    "q41": "Interest in the trading system."
+  },
+  {
+    "q0": 24826316,
+    "q41": "Positive feedback on game name and art style."
+  },
+  {
+    "q0": 24823648,
+    "q41": "Concerns about long wait time for game release."
+  },
+  {
+    "q0": 24823563,
+    "q41": "Concerns about the game being too pay-to-win."
+  },
+  {
+    "q0": 24798207,
+    "q41": "Positive feedback on character art and art style."
+  },
+  {
+    "q0": 24791807,
+    "q41": "Positive feedback from a local player and anticipation for the game."
+  },
+  {
+    "q0": 24774358,
+    "q41": "Interest in collection elements."
+  },
+  {
+    "q0": 24726910,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "Positive impression of turn-based vertical screen gameplay."
+  },
+  {
+    "q0": 24686702,
+    "q41": "Interest in game storyline and historical figures."
+  },
+  {
+    "q0": 24683893,
+    "q41": "Desire for strong social features and marriage system."
+  },
+  {
+    "q0": 24669020,
+    "q41": "Interest in a game that doesn't require much time."
+  },
+  {
+    "q0": 24654178,
+    "q41": "Concerns about team mechanics and partner system."
+  },
+  {
+    "q0": 24635761,
+    "q41": "Interest in character art and potential for more humanoid spirits."
+  },
+  {
+    "q0": 24631497,
+    "q41": "Interest in collection elements."
+  },
+  {
+    "q0": 24630268,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "Preference for turn-based games with idle mechanics."
+  },
+  {
+    "q0": 24602842,
+    "q41": "Frustration with delays in game testing and updates."
+  },
+  {
+    "q0": 24441898,
+    "q41": "Positive feedback on art, music, character design, and storyline."
+  },
+  {
+    "q0": 24437125,
+    "q41": "Preference for multiplayer, free trading, and concerns about pay-to-win mechanics."
+  },
+  {
+    "q0": 24428900,
+    "q41": "Positive feedback on art style and character design."
+  },
+  {
+    "q0": 24402220,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "Preference for turn-based games."
+  },
+  {
+    "q0": 24398222,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "Hope for a standout turn-based game."
+  },
+  {
+    "q0": 24390468,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "Preference for turn-based games and traditional Chinese style."
+  },
+  {
+    "q0": 24383168,
+    "q41": "Desire for pet-only battles and concerns about character involvement."
+  },
+  {
+    "q0": 24378264,
+    "q41": "Concerns about game monetization and developer-player communication."
+  },
+  {
+    "q0": 24372553,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "Interest in combination of monster-catching and turn-based mechanics."
+  },
+  {
+    "q0": 24367585,
+    "q41": "Preference for simplified daily tasks and light monetization."
+  }
+]
+```

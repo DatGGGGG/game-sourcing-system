@@ -1,0 +1,98 @@
+```json
+[
+  {
+    "q0": 44084161,
+    "q9": -2,
+    "q10": "Progression is hindered by task dependencies and lack of team support.",
+    "q27": -2,
+    "q28": "New players are forced into guilds and then kicked out, hindering progression."
+  },
+  {
+    "q0": 44067241,
+    "q27": -2,
+    "q28": "Players cannot fully participate in events due to server timing issues.",
+    "q29": -2,
+    "q30": "The game is perceived as a money grab due to event timing issues."
+  },
+  {
+    "q0": 44067222,
+    "q11": -2,
+    "q12": "Balance issues with nerfing existing creatures and boosting others.",
+    "q29": -2,
+    "q30": "Perception of changes being made solely for profit."
+  },
+  {
+    "q0": 44058420,
+    "q5": "The game is enjoyable and visually appealing.",
+    "q6": "Rich chat system, personal space, and detailed graphics.",
+    "q8": "The game offers a rich social experience and detailed visuals.",
+    "q13": 2,
+    "q14": "The game offers a variety of visual and interactive features."
+  },
+  {
+    "q0": 44041556,
+    "q5": "The game is enjoyable with engaging storylines.",
+    "q9": -1,
+    "q10": "Some activities lack value and progression can be slow.",
+    "q11": -1,
+    "q12": "Class balance is skewed, with some classes being overly powerful.",
+    "q13": -1,
+    "q14": "Class diversity is limited due to balance issues."
+  },
+  {
+    "q0": 43998113,
+    "q23": true,
+    "q24": "A visible pity system was added in recent updates.",
+    "q27": -1,
+    "q28": "Non-paying players have limited access to competitive content.",
+    "q29": -1,
+    "q30": "The game pressures players to spend to remain competitive.",
+    "q31": -1,
+    "q32": "Free rewards are limited and not sufficient for progression."
+  },
+  {
+    "q0": 43891581,
+    "q29": -2,
+    "q30": "The game is perceived as deceptive and manipulative towards players."
+  },
+  {
+    "q0": 43888798,
+    "q4": -2,
+    "q5": "Combat is slow and tedious without a speed-up option."
+  },
+  {
+    "q0": 43871899,
+    "q21": 1,
+    "q22": "Updates have improved the game by reducing the grind.",
+    "q37": -2,
+    "q38": "The game consumes a large amount of data and storage."
+  },
+  {
+    "q0": 43870046,
+    "q9": -2,
+    "q10": "Progression is hindered by server population issues and lack of support."
+  },
+  {
+    "q0": 43852723,
+    "q29": -2,
+    "q30": "The game seems to favor less active players, frustrating dedicated players."
+  },
+  {
+    "q0": 43775421,
+    "q37": -2,
+    "q38": "The game requires a large amount of storage space.",
+    "q39": -2,
+    "q40": "Frequent bugs and server issues disrupt the gameplay experience."
+  },
+  {
+    "q0": 43734836,
+    "q11": -1,
+    "q12": "The game requires spending to compete with top players."
+  },
+  {
+    "q0": 43667289,
+    "q39": -2,
+    "q40": "Frequent server crashes during events disrupt gameplay."
+  }
+]
+```

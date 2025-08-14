@@ -1,0 +1,200 @@
+```json
+[
+  {
+    "q0": 34607405,
+    "q4": 2,
+    "q5": "The user finds the game enjoyable as they easily caught rare creatures and progressed smoothly by leveling up characters."
+  },
+  {
+    "q0": 34607355,
+    "q9": -1,
+    "q10": "The user feels the game lacks new and interesting gameplay, similar to older games they have played."
+  },
+  {
+    "q0": 34606656,
+    "q37": 2,
+    "q38": "The game is praised for not being demanding on phone performance and having a power-saving mode.",
+    "q39": 2,
+    "q40": "The game can run in the background without consuming much battery, which is appreciated by the user."
+  },
+  {
+    "q0": 34606486,
+    "q41": "The game experiences crashes."
+  },
+  {
+    "q0": 34606242,
+    "q41": "The game has issues with long queue times and black screens."
+  },
+  {
+    "q0": 34605767,
+    "q33": TRUE,
+    "q34": "The game is compared to '梦幻西游' (Fantasy Westward Journey), suggesting it uses similar themes or mechanics.",
+    "q35": -1,
+    "q36": "The user feels the game is a reduced version of '梦幻西游', lacking originality."
+  },
+  {
+    "q0": 34571295,
+    "q4": 1,
+    "q5": "The user finds the pet system interesting and diverse, unlike other games.",
+    "q9": -1,
+    "q10": "The user finds progression boring and challenging, leading to uninstallation.",
+    "q11": 1,
+    "q12": "The user appreciates the unique skills and characteristics of pets.",
+    "q21": -1,
+    "q22": "The user feels the game's graphics and music are subpar compared to '梦幻西游'.",
+    "q27": 1,
+    "q28": "The game allows purchasing items with in-game currency, which is appreciated.",
+    "q29": 1,
+    "q30": "The game does not frequently prompt for purchases, which the user appreciates."
+  },
+  {
+    "q0": 34604880,
+    "q4": 1,
+    "q5": "The user finds the combat mechanics to be standard for Chinese MMO games.",
+    "q9": 1,
+    "q10": "The user finds the game progression typical for MMO games, with daily tasks and activities.",
+    "q21": -1,
+    "q22": "The user criticizes the server stability and frequent server openings.",
+    "q29": 1,
+    "q30": "The game does not heavily pressure users to spend money, which is appreciated."
+  },
+  {
+    "q0": 34604656,
+    "q9": -1,
+    "q10": "The user dislikes the forced social interactions required for progression."
+  },
+  {
+    "q0": 34604634,
+    "q29": -1,
+    "q30": "The user feels the game is more focused on monetization than quality gameplay.",
+    "q41": "The game has issues with connectivity and feedback mechanisms."
+  },
+  {
+    "q0": 34604444,
+    "q41": "The game has issues with disconnections and login failures."
+  },
+  {
+    "q0": 34604314,
+    "q41": "The game has long queue times for logging in."
+  },
+  {
+    "q0": 34604022,
+    "q41": "The game has frequent disconnection issues and ineffective feedback systems."
+  },
+  {
+    "q0": 34603774,
+    "q9": -1,
+    "q10": "The user finds the game lacks innovation and is repetitive."
+  },
+  {
+    "q0": 34603633,
+    "q6": "The user recommends a specific team composition focusing on a strong defensive and offensive strategy.",
+    "q7": 1,
+    "q8": "The user finds the recommended strategy effective and beneficial."
+  },
+  {
+    "q0": 34603542,
+    "q11": -1,
+    "q12": "The user finds certain characters to be less useful due to their low stats."
+  },
+  {
+    "q0": 34602853,
+    "q27": 2,
+    "q28": "The user feels that the game is playable without spending money."
+  },
+  {
+    "q0": 34565138,
+    "q9": -1,
+    "q10": "The user finds the game too time-consuming and repetitive.",
+    "q41": "The game lacks a fast-forward or skip feature for daily tasks."
+  },
+  {
+    "q0": 34601610,
+    "q29": -1,
+    "q30": "The user feels pressured to spend money due to the high difficulty of daily activities without premium characters."
+  },
+  {
+    "q0": 34600692,
+    "q29": -1,
+    "q30": "The user is frustrated by the inability to use free currency for purchases, feeling forced to spend real money."
+  },
+  {
+    "q0": 34598073,
+    "q21": -1,
+    "q22": "The game frequently opens new servers, which the user feels is a tactic to generate revenue.",
+    "q29": -1,
+    "q30": "The user feels the game is focused on short-term monetization."
+  },
+  {
+    "q0": 34597048,
+    "q29": -1,
+    "q30": "The user feels deceived by the game's promise of free trade, which is not delivered."
+  },
+  {
+    "q0": 34596719,
+    "q9": -1,
+    "q10": "The user is frustrated by the forced guidance and lack of available players for group tasks."
+  },
+  {
+    "q0": 34596512,
+    "q21": 1,
+    "q22": "The user appreciates the detailed art and small details in the game."
+  },
+  {
+    "q0": 34596459,
+    "q41": "The game lacks customization options for character names and visibility of opponent's health in battles."
+  },
+  {
+    "q0": 34595787,
+    "q29": -1,
+    "q30": "The user criticizes the auction system for requiring premium currency, which is seen as a pay-to-win mechanic."
+  },
+  {
+    "q0": 34595781,
+    "q4": -1,
+    "q5": "The user finds the gameplay mechanics and gacha system unsatisfactory."
+  },
+  {
+    "q0": 34595489,
+    "q9": -1,
+    "q10": "The user feels the game requires constant online presence to not miss out on rewards."
+  },
+  {
+    "q0": 34594702,
+    "q9": 1,
+    "q10": "The user appreciates the convenience of automated features in the game."
+  },
+  {
+    "q0": 34594657,
+    "q21": 1,
+    "q22": "The user enjoys the social interactions facilitated by in-game events."
+  },
+  {
+    "q0": 34594503,
+    "q21": 1,
+    "q22": "The user praises the game's art style and visual appeal."
+  },
+  {
+    "q0": 34593897,
+    "q6": "The user recommends a specific character for its life-saving abilities.",
+    "q7": 1,
+    "q8": "The recommended character is seen as highly beneficial in gameplay."
+  },
+  {
+    "q0": 34593709,
+    "q9": -1,
+    "q10": "The user is frustrated by the sudden increase in difficulty and the need for spending money to progress."
+  },
+  {
+    "q0": 34593516,
+    "q6": "The user mentions the need for strategic thinking in team composition.",
+    "q7": 1,
+    "q8": "The game requires players to think strategically about team composition to succeed."
+  },
+  {
+    "q0": 34592903,
+    "q21": 1,
+    "q22": "The user appreciates the cute and appealing art style of the game's pets."
+  }
+]
+```

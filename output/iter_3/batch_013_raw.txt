@@ -1,0 +1,208 @@
+```json
+[
+  {
+    "q0": 35483191,
+    "q5": "The user is dissatisfied with the game's management and secret modifications, leading to quitting."
+  },
+  {
+    "q0": 35651956,
+    "q5": "The user is generally satisfied with the game but suggests improving the graphics."
+  },
+  {
+    "q0": 35648760,
+    "q5": "The user is frustrated with the difficulty of a new event and perceives it as a tactic to force spending."
+  },
+  {
+    "q0": 35647347,
+    "q5": "The user enjoys the game but suggests adding exclusive events for a specific feature."
+  },
+  {
+    "q0": 35647164,
+    "q5": "The user finds the game enjoyable and suitable for casual play during work."
+  },
+  {
+    "q0": 35646342,
+    "q5": "The user requests resolution adjustment for the PC version."
+  },
+  {
+    "q0": 35645561,
+    "q5": "The user finds the game fun."
+  },
+  {
+    "q0": 35641741,
+    "q5": "The user is frustrated with the slow response to a bug, affecting their enjoyment."
+  },
+  {
+    "q0": 35506346,
+    "q5": "The user is frustrated with frequent secret modifications."
+  },
+  {
+    "q0": 35640033,
+    "q5": "The user appreciates the game for being friendly to non-paying players and not requiring heavy spending."
+  },
+  {
+    "q0": 35635973,
+    "q5": "The user finds the game enjoyable based on friends' recommendations."
+  },
+  {
+    "q0": 35634410,
+    "q5": "The user provides a detailed review, highlighting both positive and negative aspects, including the need for strategy and the fairness of certain mechanics."
+  },
+  {
+    "q0": 35634044,
+    "q5": "The user appreciates the game for being fairer than other games and hopes it won't become exploitative."
+  },
+  {
+    "q0": 35631868,
+    "q5": "The user appreciates the game's aesthetics."
+  },
+  {
+    "q0": 35629293,
+    "q5": "The user finds the game very good."
+  },
+  {
+    "q0": 35481925,
+    "q5": "The user is frustrated with game mechanics and secret modifications, leading to uninstalling."
+  },
+  {
+    "q0": 35628480,
+    "q5": "The user finds it strange that they can't see teammates' data during battles."
+  },
+  {
+    "q0": 35627024,
+    "q5": "The user is frustrated with being solicited by other games and perceives the game as declining."
+  },
+  {
+    "q0": 35624138,
+    "q5": "The user finds the game suitable for casual play but criticizes the shallow representation of Tang culture."
+  },
+  {
+    "q0": 35624171,
+    "q5": "The user is frustrated with the merging of test and official servers, feeling it affects game balance."
+  },
+  {
+    "q0": 35619604,
+    "q5": "The user feels that rewards are decreasing, leading to thoughts of quitting."
+  },
+  {
+    "q0": 35614749,
+    "q5": "The user appreciates the game's art style."
+  },
+  {
+    "q0": 35598378,
+    "q5": "The user finds the game enjoyable and not overly demanding."
+  },
+  {
+    "q0": 35598302,
+    "q5": "The user appreciates the game's art style and finds it enjoyable without heavy spending."
+  },
+  {
+    "q0": 35596997,
+    "q5": "The user appreciates the game for being suitable for working individuals and not heavily monetized."
+  },
+  {
+    "q0": 35565349,
+    "q5": "The user finds the game enjoyable but suggests reducing the number of tasks for working players."
+  },
+  {
+    "q0": 34551043,
+    "q5": "The user loves the game and provides detailed suggestions for improvement."
+  },
+  {
+    "q0": 35564888,
+    "q5": "The user is frustrated with the game's progression and resource management, leading to uninstalling."
+  },
+  {
+    "q0": 35562360,
+    "q5": "The user is frustrated with server merging and game balance issues."
+  },
+  {
+    "q0": 35561811,
+    "q5": "The user appreciates the game's growth experience, aesthetics, and resource acquisition."
+  },
+  {
+    "q0": 35559779,
+    "q5": "The user is frustrated with forced team play and does not recommend the game."
+  },
+  {
+    "q0": 35558513,
+    "q5": "The user finds the game suitable for non-paying players and working individuals."
+  },
+  {
+    "q0": 35557728,
+    "q5": "The user is frustrated with secret data modifications."
+  },
+  {
+    "q0": 35557367,
+    "q5": "The user is frustrated with repetitive events, bugs, and the marriage system."
+  },
+  {
+    "q0": 35556431,
+    "q5": "The user appreciates the game's improvements over other turn-based games but suggests further optimizations."
+  },
+  {
+    "q0": 35555406,
+    "q5": "The user finds the game difficult to play."
+  },
+  {
+    "q0": 35555274,
+    "q5": "The user is frustrated with forced team play."
+  },
+  {
+    "q0": 35554123,
+    "q5": "The user is frustrated with server merging and its impact on game balance."
+  },
+  {
+    "q0": 35548423,
+    "q5": "The user finds the game increasingly boring and suggests not spending money on it."
+  },
+  {
+    "q0": 35547434,
+    "q5": "The user finds the game acceptable and compares it to another game."
+  },
+  {
+    "q0": 35546817,
+    "q5": "The user is frustrated with the difficulty of finding teams and suggests improvements."
+  },
+  {
+    "q0": 35546611,
+    "q5": "The user finds the game friendly to non-paying players but suggests improvements to certain activities."
+  },
+  {
+    "q0": 35546540,
+    "q5": "The user is frustrated with the balance of a new character class."
+  },
+  {
+    "q0": 35525693,
+    "q5": "The user is frustrated with server merging and its impact on game balance."
+  },
+  {
+    "q0": 35524927,
+    "q5": "The user is frustrated with frequent secret modifications and balance issues."
+  },
+  {
+    "q0": 35524654,
+    "q5": "The user appreciates the game's art style and finds it relaxing."
+  },
+  {
+    "q0": 35524612,
+    "q5": "The user finds the game acceptable but criticizes customer service."
+  },
+  {
+    "q0": 23663142,
+    "q5": "The user is frustrated with secret modifications and suggests improvements for long-term success."
+  },
+  {
+    "q0": 35518785,
+    "q5": "The user is drawn to the game because of a celebrity endorsement."
+  },
+  {
+    "q0": 35518695,
+    "q5": "The user finds the game enjoyable without heavy spending."
+  },
+  {
+    "q0": 35518049,
+    "q5": "The user is pleased to find an enjoyable turn-based game."
+  }
+]
+```

@@ -1,0 +1,19 @@
+```json
+[
+  {
+    "q0": 24393228,
+    "q3": "Auto Chess?",
+    "q5": "The user is questioning if the game is an Auto Chess type."
+  },
+  {
+    "q0": 23920830,
+    "q3": "Turn-based",
+    "q5": "The user is looking for a turn-based game to play daily."
+  },
+  {
+    "q0": 23720029,
+    "q3": "Turn-based",
+    "q5": "The user mentions that there are not many turn-based games on the market."
+  }
+]
+```

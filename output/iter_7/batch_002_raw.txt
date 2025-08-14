@@ -1,0 +1,98 @@
+```json
+[
+  {
+    "q0": 42331551,
+    "q5": "The user expresses great enjoyment and satisfaction with the game, calling it the number one vertical screen game."
+  },
+  {
+    "q0": 42314674,
+    "q6": "Character and pet combinations, skill management",
+    "q7": 1,
+    "q8": "The user discusses specific character and pet combinations and skill management, indicating some level of strategic depth."
+  },
+  {
+    "q0": 42313773,
+    "q6": "Character and skill combinations",
+    "q7": 1,
+    "q8": "The user talks about different character and skill combinations, suggesting a level of strategic depth."
+  },
+  {
+    "q0": 42305261,
+    "q11": -1,
+    "q12": "The user mentions that a particular character remains overly strong, suggesting imbalance.",
+    "q13": -1,
+    "q14": "The dominance of a single character in PVP implies limited team build diversity."
+  },
+  {
+    "q0": 42310938,
+    "q29": -2,
+    "q30": "The user criticizes the game's focus on quick monetization and constant marketing, indicating heavy spending pressure."
+  },
+  {
+    "q0": 41059298,
+    "q27": 1,
+    "q28": "The user mentions playing in a new area without spending, suggesting non-paying users can access major features."
+  },
+  {
+    "q0": 40886768,
+    "q31": 1,
+    "q32": "The user suggests that resources can be stored and managed effectively, indicating a reasonable quantity of free rewards."
+  },
+  {
+    "q0": 38818742,
+    "q9": -1,
+    "q10": "The user finds the game playable but not engaging enough to continue beyond level 80, suggesting issues with game progression."
+  },
+  {
+    "q0": 38996040,
+    "q5": "The user finds the game enjoyable for passing time and hopes for more gameplay variety.",
+    "q9": 1,
+    "q10": "The user finds the game enjoyable for passing time, indicating satisfactory progression."
+  },
+  {
+    "q0": 38896288,
+    "q41": "The user is frustrated with queue times, indicating server or matchmaking issues."
+  },
+  {
+    "q0": 38389729,
+    "q9": -1,
+    "q10": "The user repeatedly stops playing at around level 20, suggesting issues with early game progression."
+  },
+  {
+    "q0": 35392518,
+    "q41": "The user notes a lack of players in certain areas, affecting gameplay experience."
+  },
+  {
+    "q0": 35788988,
+    "q41": "The user reports a bug where in-game currency turned negative."
+  },
+  {
+    "q0": 35741620,
+    "q29": -2,
+    "q30": "The user criticizes the game's monetization approach, indicating heavy spending pressure."
+  },
+  {
+    "q0": 35732686,
+    "q33": true,
+    "q34": "The game is compared to 'Dream of the Red Chamber,' suggesting IP integration.",
+    "q35": -1,
+    "q36": "The user finds the game to be a low-quality version of 'Dream of the Red Chamber,' indicating poor IP integration."
+  },
+  {
+    "q0": 35612877,
+    "q21": -1,
+    "q22": "The user mentions frequent updates that add content, suggesting an overwhelming update frequency."
+  },
+  {
+    "q0": 35515872,
+    "q41": "The user suggests removing a feature due to its lack of utility."
+  },
+  {
+    "q0": 35490605,
+    "q31": 1,
+    "q32": "The user finds daily rewards sufficient and comfortable for three-card players.",
+    "q11": -1,
+    "q12": "The user suggests that physical pets are weaker in PVP compared to magic pets, indicating balance issues."
+  }
+]
+```

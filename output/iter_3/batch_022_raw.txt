@@ -1,0 +1,522 @@
+```json
+[
+  {
+    "q0": 35359133,
+    "q4": 1,
+    "q5": "The reviewer finds the game to be good overall, though a bit grindy."
+  },
+  {
+    "q0": 35358324,
+    "q4": -2,
+    "q5": "The reviewer is very dissatisfied with the game due to frequent changes that increase difficulty without notice and poor rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money and is frustrated with the game's changes that seem to target non-paying players."
+  },
+  {
+    "q0": 35347985,
+    "q5": "The reviewer is unhappy with the game's performance issues, such as overheating and battery drain.",
+    "q41": "The game causes the phone to overheat and drains the battery quickly."
+  },
+  {
+    "q0": 35356707,
+    "q5": "The reviewer appreciates the new vertical turn-based gameplay but notes optimization issues.",
+    "q41": "The game is very power-hungry and needs optimization improvements."
+  },
+  {
+    "q0": 35355873,
+    "q4": -1,
+    "q5": "The reviewer initially found the game to be a good mobile game but later found it less enjoyable."
+  },
+  {
+    "q0": 35351338,
+    "q4": -2,
+    "q5": "The reviewer is very dissatisfied with the game, feeling that it has lost its initial appeal and integrity."
+  },
+  {
+    "q0": 35107675,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is poorly managed with frequent changes that seem to be aimed at extracting money from players."
+  },
+  {
+    "q0": 35355339,
+    "q4": 1,
+    "q5": "The reviewer finds the game to be good at the current stage."
+  },
+  {
+    "q0": 35354591,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent data changes in the game."
+  },
+  {
+    "q0": 35349155,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent secret changes and adjustments to the game's balance.",
+    "q29": -2,
+    "q30": "The reviewer is unhappy with the frequent secret changes that seem to be aimed at extracting money from players."
+  },
+  {
+    "q0": 35353495,
+    "q41": "The reviewer is looking for an emulator due to performance issues on mobile."
+  },
+  {
+    "q0": 35350685,
+    "q4": -2,
+    "q5": "The reviewer is very dissatisfied with the game, feeling that it is designed to exploit players financially.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35352413,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system, feeling that it forces players to spend money to advance.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35352380,
+    "q4": -1,
+    "q5": "The reviewer finds the game's graphics to be average and the playability to be low."
+  },
+  {
+    "q0": 35350916,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent secret changes and reduced player rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35351389,
+    "q4": -2,
+    "q5": "The reviewer is very dissatisfied with the game, feeling that it is exploitative and poorly managed."
+  },
+  {
+    "q0": 35350016,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent secret changes and reduced player rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35349457,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent secret changes and lack of transparency."
+  },
+  {
+    "q0": 35349450,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's management and lack of transparency."
+  },
+  {
+    "q0": 35203354,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is poorly managed with frequent changes that seem to be aimed at extracting money from players."
+  },
+  {
+    "q0": 35349321,
+    "q4": -2,
+    "q5": "The reviewer finds the game's progression to be very difficult and the rewards to be very low.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35349100,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent secret changes and reduced player rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35349068,
+    "q4": 1,
+    "q5": "The reviewer finds the game to be satisfactory at the current stage."
+  },
+  {
+    "q0": 35348779,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system, feeling that it forces players to spend money to advance.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35347998,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35347523,
+    "q4": -2,
+    "q5": "The reviewer finds the game to be too grindy and time-consuming, requiring constant team play.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35346421,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35346024,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35105070,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 23758436,
+    "q4": -1,
+    "q5": "The reviewer finds the game to be increasingly disappointing."
+  },
+  {
+    "q0": 35345359,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35169099,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35344895,
+    "q4": -2,
+    "q5": "The reviewer finds the game to be increasingly disappointing."
+  },
+  {
+    "q0": 35344836,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35344812,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35344593,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system, feeling that it forces players to spend money to advance.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35343915,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35344364,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35102995,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35342801,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35342702,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's management and lack of transparency."
+  },
+  {
+    "q0": 35341717,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent secret changes and lack of transparency."
+  },
+  {
+    "q0": 35340882,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35340614,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35340651,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35340483,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35339129,
+    "q4": 1,
+    "q5": "The reviewer finds the game to be enjoyable overall, though there are some issues with progression."
+  },
+  {
+    "q0": 35317371,
+    "q4": 2,
+    "q5": "The reviewer highly recommends the game, especially for its vertical screen format which suits their lifestyle."
+  },
+  {
+    "q0": 35317229,
+    "q4": -2,
+    "q5": "The reviewer finds the game's monetization to be excessive."
+  },
+  {
+    "q0": 35316207,
+    "q4": 1,
+    "q5": "The reviewer finds the game to be visually appealing and a good casual game."
+  },
+  {
+    "q0": 35315320,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's monetization and progression system, feeling that it is a money pit.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35314550,
+    "q4": -1,
+    "q5": "The reviewer finds the game to be similar to other games in its genre but is frustrated with its monetization model."
+  },
+  {
+    "q0": 35305891,
+    "q5": "The reviewer appreciates the customer service for being helpful and resolving their issue."
+  },
+  {
+    "q0": 35313579,
+    "q5": "The reviewer is curious about the frequent opening of new servers."
+  },
+  {
+    "q0": 35313040,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35311915,
+    "q5": "The reviewer finds the game's music and artwork to be good but is confused by the story."
+  },
+  {
+    "q0": 35311400,
+    "q5": "The reviewer finds the game's artwork to be good but feels that the turn-based format is limiting."
+  },
+  {
+    "q0": 35307008,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the reduction in rewards."
+  },
+  {
+    "q0": 35304680,
+    "q5": "The reviewer finds the game's graphics to be good but is frustrated with the lack of balance and strategy."
+  },
+  {
+    "q0": 35304303,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's bugs and lack of response to feedback."
+  },
+  {
+    "q0": 35299418,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent secret changes and lack of transparency."
+  },
+  {
+    "q0": 35298778,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's customer service and lack of transparency."
+  },
+  {
+    "q0": 35296711,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the increased difficulty and reduced rewards."
+  },
+  {
+    "q0": 35296251,
+    "q5": "The reviewer is frustrated with the game's customer service."
+  },
+  {
+    "q0": 35219804,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's management and lack of transparency."
+  },
+  {
+    "q0": 35292934,
+    "q5": "The reviewer finds the game to be visually appealing and worth trying."
+  },
+  {
+    "q0": 35292070,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35292059,
+    "q4": 2,
+    "q5": "The reviewer finds the game's graphics and sound quality to be excellent."
+  },
+  {
+    "q0": 35290891,
+    "q5": "The reviewer is requesting a horizontal screen mode for the game."
+  },
+  {
+    "q0": 35287800,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35284845,
+    "q5": "The reviewer finds the game's story and voice acting to be well done."
+  },
+  {
+    "q0": 35284790,
+    "q4": -1,
+    "q5": "The reviewer finds the game to be too grindy and time-consuming."
+  },
+  {
+    "q0": 35284423,
+    "q5": "The reviewer is comparing the game's summoning system to a gacha system."
+  },
+  {
+    "q0": 35045247,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35227411,
+    "q5": "The reviewer appreciates the timely bug fixes and compensation but notes an issue with server population."
+  },
+  {
+    "q0": 35278637,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's monetization and progression system, feeling that it is a money pit.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35278622,
+    "q5": "The reviewer finds the game to be friendly to non-paying players but suggests improving certain rewards."
+  },
+  {
+    "q0": 35276808,
+    "q5": "The reviewer suggests adding a horizontal screen mode to the game."
+  },
+  {
+    "q0": 35276343,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's hidden pitfalls and lack of enjoyment.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35267574,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35275178,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the increased difficulty and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35274778,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the reduced rewards."
+  },
+  {
+    "q0": 35273549,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's management and lack of transparency."
+  },
+  {
+    "q0": 35273498,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the frequent changes that negatively impact the experience.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35273435,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's hidden pitfalls and lack of enjoyment.",
+    "q29": -2,
+    "q30": "The reviewer feels that the game is heavily focused on extracting money from players."
+  },
+  {
+    "q0": 35176038,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the game's progression system and lack of improvement with leveling up.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35270434,
+    "q5": "The reviewer appreciates the game's social aspects but notes the high cost of in-game purchases."
+  },
+  {
+    "q0": 35269817,
+    "q4": -2,
+    "q5": "The reviewer is frustrated with the increased difficulty and reduced rewards.",
+    "q29": -2,
+    "q30": "The reviewer feels pressured to spend money to progress in the game."
+  },
+  {
+    "q0": 35268080,
+    "q5": "The reviewer finds the game's graphics to be appealing."
+  },
+  {
+    "q0": 35265889,
+    "q4": -1,
+    "q5": "The reviewer finds the game's progression to be slow and resource acquisition to be difficult."
+  }
+]
+```

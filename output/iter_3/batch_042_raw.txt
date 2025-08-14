@@ -1,0 +1,357 @@
+```json
+[
+  {
+    "q0": 34459791,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is heavily monetized, requiring significant investment to compete."
+  },
+  {
+    "q0": 34458245,
+    "q5": "The game experience is somewhat lacking."
+  },
+  {
+    "q0": 34457849,
+    "q21": 0,
+    "q22": "Players are waiting for the next announcement, indicating a lack of recent updates."
+  },
+  {
+    "q0": 34457327,
+    "q41": "Unjustified account bans"
+  },
+  {
+    "q0": 34457005,
+    "q5": "The game content is rich, and the overall experience is positive."
+  },
+  {
+    "q0": 34456961,
+    "q5": "The character and pet designs are appealing, with a strong national style and catering to anime fans."
+  },
+  {
+    "q0": 34456852,
+    "q11": 0,
+    "q12": "There is uncertainty about whether the strong character 'Little White Dragon' will be adjusted."
+  },
+  {
+    "q0": 34456722,
+    "q5": "The game is attractive due to its art, voice acting, and background setting."
+  },
+  {
+    "q0": 34456556,
+    "q41": "Achievements are not transparent, making it hard to set goals."
+  },
+  {
+    "q0": 34450052,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is designed to encourage heavy spending, with complex monetization systems."
+  },
+  {
+    "q0": 34453833,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is perceived as a money grab with poor art style and arbitrary bans."
+  },
+  {
+    "q0": 34453396,
+    "q41": "Frequent account bans and stealth changes"
+  },
+  {
+    "q0": 34434216,
+    "q31": 2,
+    "q32": "Weekly free rewards for management players are appreciated."
+  },
+  {
+    "q0": 34451074,
+    "q5": "The vertical screen and single-hand operation are convenient."
+  },
+  {
+    "q0": 34450850,
+    "q5": "The monster-catching gameplay is uninteresting."
+  },
+  {
+    "q0": 34450313,
+    "q5": "The game's art style is appreciated."
+  },
+  {
+    "q0": 34449797,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is seen as a poorly executed clone focused on monetization."
+  },
+  {
+    "q0": 34448128,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is perceived as a reskin with stealth changes and heavy monetization."
+  },
+  {
+    "q0": 34447552,
+    "q41": "Rewards are insufficient for daily expenses, and limited-time event rewards are poor."
+  },
+  {
+    "q0": 34447160,
+    "q41": "The game is criticized for copying existing features without innovation."
+  },
+  {
+    "q0": 34443577,
+    "q5": "The game has good graphics but lacks playability."
+  },
+  {
+    "q0": 34443306,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game requires spending for trading and has restrictive monetization policies."
+  },
+  {
+    "q0": 34440934,
+    "q5": "The developer's explanation was detailed, but players hope for no more issues."
+  },
+  {
+    "q0": 33586391,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is perceived as a cash grab with poor management direction."
+  },
+  {
+    "q0": 34438235,
+    "q5": "The quick response from the developers is appreciated, but more rewards are desired."
+  },
+  {
+    "q0": 34310539,
+    "q41": "High prices for ordinary items and arbitrary account bans"
+  },
+  {
+    "q0": 34437246,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is seen as heavily monetized with internal favoritism and arbitrary bans."
+  },
+  {
+    "q0": 34436899,
+    "q5": "The vertical turn-based gameplay lacks the feeling of capturing monsters."
+  },
+  {
+    "q0": 25005163,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game requires spending for trading, making it unappealing."
+  },
+  {
+    "q0": 34434996,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is criticized for arbitrary bans and monetization practices."
+  },
+  {
+    "q0": 34434624,
+    "q41": "The game is compared to a literary inquisition, suggesting severe censorship."
+  },
+  {
+    "q0": 34423030,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is heavily monetized, with dynamic pricing and restrictive trading."
+  },
+  {
+    "q0": 32282865,
+    "q41": "Frequent bugs and stealth changes, with monetization issues"
+  },
+  {
+    "q0": 34432618,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is perceived as a cash grab with poor management."
+  },
+  {
+    "q0": 34432117,
+    "q41": "Dynamic pricing and increased difficulty in obtaining rare items"
+  },
+  {
+    "q0": 34372741,
+    "q41": "Issues with the distribution of test accounts and perceived internal favoritism"
+  },
+  {
+    "q0": 34430911,
+    "q5": "The art style and cute monster designs are appreciated."
+  },
+  {
+    "q0": 34429843,
+    "q41": "Frequent stealth changes make the game unappealing."
+  },
+  {
+    "q0": 34429662,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is heavily monetized, with dissatisfaction among both new and old players."
+  },
+  {
+    "q0": 34429355,
+    "q41": "Frequent stealth changes and updates"
+  },
+  {
+    "q0": 30392671,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is heavily monetized, with frequent account bans and internal favoritism."
+  },
+  {
+    "q0": 34428373,
+    "q41": "Concerns about the introduction of gacha mechanics"
+  },
+  {
+    "q0": 34428016,
+    "q5": "The gameplay is seamless, but there are concerns about monetization and difficulty."
+  },
+  {
+    "q0": 34427620,
+    "q41": "Dynamic pricing and frequent stealth changes"
+  },
+  {
+    "q0": 34427607,
+    "q41": "Dynamic pricing and perceived disregard for player feedback"
+  },
+  {
+    "q0": 34427307,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is heavily monetized, with perceived favoritism and rule changes."
+  },
+  {
+    "q0": 34427142,
+    "q41": "Dynamic pricing and perceived disregard for player feedback"
+  },
+  {
+    "q0": 34426598,
+    "q41": "Misleading advertising"
+  },
+  {
+    "q0": 34310501,
+    "q41": "Perceived disregard for players and poor management"
+  },
+  {
+    "q0": 34425548,
+    "q41": "Frequent stealth changes and dynamic pricing"
+  },
+  {
+    "q0": 34425417,
+    "q41": "Frequent stealth changes and perceived disregard for player feedback"
+  },
+  {
+    "q0": 34424642,
+    "q41": "Frequent stealth changes and dynamic pricing"
+  },
+  {
+    "q0": 34424482,
+    "q41": "Frequent stealth changes and balance issues"
+  },
+  {
+    "q0": 34424457,
+    "q41": "Frequent stealth changes and balance issues"
+  },
+  {
+    "q0": 34424400,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is heavily monetized, with perceived internal favoritism and poor management."
+  },
+  {
+    "q0": 34424337,
+    "q41": "Dynamic pricing and balance issues"
+  },
+  {
+    "q0": 34424242,
+    "q41": "Perceived disregard for players and frequent stealth changes"
+  },
+  {
+    "q0": 34424241,
+    "q41": "Dynamic pricing and perceived disregard for player feedback"
+  },
+  {
+    "q0": 34423783,
+    "q41": "Dissatisfaction with compensation and rewards"
+  },
+  {
+    "q0": 34424160,
+    "q41": "Frequent stealth changes and poor future outlook"
+  },
+  {
+    "q0": 34424127,
+    "q41": "Frequent stealth changes and poor player experience"
+  },
+  {
+    "q0": 34424100,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is heavily monetized, with low daily rewards."
+  },
+  {
+    "q0": 34423757,
+    "q41": "Frequent stealth changes and balance issues"
+  },
+  {
+    "q0": 34424082,
+    "q41": "Frequent stealth changes and lack of content"
+  },
+  {
+    "q0": 34423906,
+    "q41": "Frequent stealth changes and poor player experience"
+  },
+  {
+    "q0": 34423796,
+    "q41": "Poor company reputation"
+  },
+  {
+    "q0": 34423738,
+    "q1": true,
+    "q2": "Heavy spending pressure",
+    "q29": -2,
+    "q30": "The game is heavily monetized, with frequent stealth changes and internal favoritism."
+  },
+  {
+    "q0": 34423684,
+    "q41": "Poor monetization practices"
+  },
+  {
+    "q0": 34423061,
+    "q41": "Perceived disregard for players and poor management"
+  },
+  {
+    "q0": 34422843,
+    "q41": "Concerns about fake reviews and poor management"
+  },
+  {
+    "q0": 34421151,
+    "q41": "Frequent stealth changes and dynamic pricing"
+  },
+  {
+    "q0": 34421041,
+    "q41": "Frequent stealth changes and dynamic pricing"
+  },
+  {
+    "q0": 34420992,
+    "q41": "Dynamic pricing and perceived disregard for player feedback"
+  },
+  {
+    "q0": 34420739,
+    "q41": "Frequent stealth changes and poor management"
+  }
+]
+```

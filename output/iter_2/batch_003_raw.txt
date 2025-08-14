@@ -1,0 +1,464 @@
+```json
+[
+  {
+    "q0": 43667091,
+    "q4": -2,
+    "q5": "Frequent crashes and lag during events."
+  },
+  {
+    "q0": 43667090,
+    "q4": -2,
+    "q5": "Severe lag during events and inadequate compensation."
+  },
+  {
+    "q0": 43667069,
+    "q4": -2,
+    "q5": "Severe lag during events and inadequate compensation."
+  },
+  {
+    "q0": 43667067,
+    "q4": -2,
+    "q5": "Persistent lag during events."
+  },
+  {
+    "q0": 43667065,
+    "q4": -2,
+    "q5": "Frequent lag during events."
+  },
+  {
+    "q0": 43667061,
+    "q4": -2,
+    "q5": "Poor experience due to lack of resources and lag."
+  },
+  {
+    "q0": 43667048,
+    "q4": -2,
+    "q5": "Severe lag and crashes during events."
+  },
+  {
+    "q0": 43667022,
+    "q4": -2,
+    "q5": "Frequent server crashes."
+  },
+  {
+    "q0": 43666994,
+    "q4": -2,
+    "q5": "Frequent lag during events."
+  },
+  {
+    "q0": 43666991,
+    "q4": -2,
+    "q5": "Frequent lag during events."
+  },
+  {
+    "q0": 43666979,
+    "q4": -2,
+    "q5": "Numerous bugs and focus on monetization."
+  },
+  {
+    "q0": 43666975,
+    "q4": -2,
+    "q5": "Frequent lag and inadequate compensation."
+  },
+  {
+    "q0": 43666963,
+    "q4": -2,
+    "q5": "Frequent lag and inadequate compensation."
+  },
+  {
+    "q0": 43666946,
+    "q4": -2,
+    "q5": "Severe lag and inadequate compensation."
+  },
+  {
+    "q0": 43666939,
+    "q4": -2,
+    "q5": "Lack of optimization and focus on monetization."
+  },
+  {
+    "q0": 43666929,
+    "q4": -2,
+    "q5": "Frequent lag and lack of fixes."
+  },
+  {
+    "q0": 43666918,
+    "q4": -2,
+    "q5": "Frequent lag and lack of resources."
+  },
+  {
+    "q0": 24288527,
+    "q4": -2,
+    "q5": "Frequent lag and inadequate compensation."
+  },
+  {
+    "q0": 43666890,
+    "q4": -2,
+    "q5": "Frequent lag and inadequate compensation."
+  },
+  {
+    "q0": 43664131,
+    "q4": -2,
+    "q5": "High difficulty and imbalance in game values."
+  },
+  {
+    "q0": 43654954,
+    "q4": -2,
+    "q5": "Lack of certain game features."
+  },
+  {
+    "q0": 43652555,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 42797514,
+    "q4": -2,
+    "q5": "Frequent disconnections and reduced benefits."
+  },
+  {
+    "q0": 43652079,
+    "q4": -2,
+    "q5": "Poor experience for non-paying players."
+  },
+  {
+    "q0": 43646409,
+    "q4": -2,
+    "q5": "Frequent lag during events and inadequate compensation."
+  },
+  {
+    "q0": 34024840,
+    "q4": -2,
+    "q5": "Frequent crashes during events."
+  },
+  {
+    "q0": 23932408,
+    "q4": -2,
+    "q5": "Frequent crashes and inadequate compensation."
+  },
+  {
+    "q0": 43627832,
+    "q11": -2,
+    "q12": "Imbalance in character abilities."
+  },
+  {
+    "q0": 43627767,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43636099,
+    "q4": 2,
+    "q5": "Good graphics and music."
+  },
+  {
+    "q0": 43629172,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43629081,
+    "q4": -2,
+    "q5": "Poor experience compared to older games."
+  },
+  {
+    "q0": 43627804,
+    "q4": -2,
+    "q5": "Difficulty in finding teams."
+  },
+  {
+    "q0": 43617846,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43626729,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43619202,
+    "q4": -2,
+    "q5": "Game quality has decreased over time."
+  },
+  {
+    "q0": 43609241,
+    "q4": -2,
+    "q5": "Frequent lag."
+  },
+  {
+    "q0": 43609228,
+    "q4": -2,
+    "q5": "Frequent crashes and incomplete features."
+  },
+  {
+    "q0": 43609223,
+    "q4": -2,
+    "q5": "Frequent lag and poor server performance."
+  },
+  {
+    "q0": 43609195,
+    "q4": -2,
+    "q5": "Poor event rewards and monetization focus."
+  },
+  {
+    "q0": 43609170,
+    "q4": -2,
+    "q5": "Frequent login issues."
+  },
+  {
+    "q0": 43609162,
+    "q4": -2,
+    "q5": "Frequent login issues."
+  },
+  {
+    "q0": 43609136,
+    "q4": -2,
+    "q5": "Frequent lag during events."
+  },
+  {
+    "q0": 43609124,
+    "q4": -2,
+    "q5": "Frequent crashes during events."
+  },
+  {
+    "q0": 43608348,
+    "q4": 2,
+    "q5": "Good graphics and gameplay."
+  },
+  {
+    "q0": 43607573,
+    "q4": -2,
+    "q5": "Poor optimization and incomplete features."
+  },
+  {
+    "q0": 43607069,
+    "q4": -2,
+    "q5": "Inadequate event rewards."
+  },
+  {
+    "q0": 43604427,
+    "q4": -2,
+    "q5": "Frequent crashes and inadequate compensation."
+  },
+  {
+    "q0": 43604153,
+    "q4": -2,
+    "q5": "Inappropriate game content."
+  },
+  {
+    "q0": 43596776,
+    "q4": -2,
+    "q5": "Unfair account bans and monetization focus."
+  },
+  {
+    "q0": 43599472,
+    "q4": -2,
+    "q5": "Poor game quality."
+  },
+  {
+    "q0": 43595554,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43591222,
+    "q4": -2,
+    "q5": "Frequent crashes and inadequate compensation."
+  },
+  {
+    "q0": 43576736,
+    "q4": -2,
+    "q5": "Incomplete features and poor new player experience."
+  },
+  {
+    "q0": 43590872,
+    "q4": -2,
+    "q5": "Frequent login issues."
+  },
+  {
+    "q0": 43589488,
+    "q4": -2,
+    "q5": "Account issues."
+  },
+  {
+    "q0": 43586561,
+    "q4": -2,
+    "q5": "Poor optimization and monetization focus."
+  },
+  {
+    "q0": 43585598,
+    "q4": -2,
+    "q5": "High spending pressure."
+  },
+  {
+    "q0": 43585276,
+    "q4": -2,
+    "q5": "Misleading promotion."
+  },
+  {
+    "q0": 43584290,
+    "q4": -2,
+    "q5": "Poor optimization."
+  },
+  {
+    "q0": 43583784,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43580348,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43579620,
+    "q4": -2,
+    "q5": "Annoying UI elements and monetization focus."
+  },
+  {
+    "q0": 43577611,
+    "q4": 2,
+    "q5": "Good game quality."
+  },
+  {
+    "q0": 43577509,
+    "q4": 2,
+    "q5": "Enjoyable gameplay for non-paying players."
+  },
+  {
+    "q0": 43577111,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43575013,
+    "q4": 2,
+    "q5": "Good game quality."
+  },
+  {
+    "q0": 34124641,
+    "q4": -2,
+    "q5": "Frequent changes to rewards without notice."
+  },
+  {
+    "q0": 43574654,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43568598,
+    "q4": -2,
+    "q5": "Focus on monetization."
+  },
+  {
+    "q0": 43564034,
+    "q4": -2,
+    "q5": "Platform compatibility issues."
+  },
+  {
+    "q0": 43560798,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43560307,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43559863,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43556616,
+    "q4": -2,
+    "q5": "Incomplete features."
+  },
+  {
+    "q0": 43488740,
+    "q4": -2,
+    "q5": "Poor new player experience and high spending pressure."
+  },
+  {
+    "q0": 43477836,
+    "q4": -2,
+    "q5": "Unfair account bans."
+  },
+  {
+    "q0": 43475738,
+    "q4": -2,
+    "q5": "High spending pressure and poor gameplay experience."
+  },
+  {
+    "q0": 43453168,
+    "q4": -2,
+    "q5": "Inadequate event rewards."
+  },
+  {
+    "q0": 43288001,
+    "q4": -2,
+    "q5": "Missing features."
+  },
+  {
+    "q0": 43202561,
+    "q4": -2,
+    "q5": "Repetitive game design."
+  },
+  {
+    "q0": 43200778,
+    "q4": -2,
+    "q5": "Unresolved bugs."
+  },
+  {
+    "q0": 43199948,
+    "q4": -2,
+    "q5": "Unresolved bugs."
+  },
+  {
+    "q0": 43189934,
+    "q4": -2,
+    "q5": "High spending pressure."
+  },
+  {
+    "q0": 43188737,
+    "q4": 2,
+    "q5": "Enjoyable gameplay."
+  },
+  {
+    "q0": 43187763,
+    "q4": -2,
+    "q5": "Poor game progression and server issues."
+  },
+  {
+    "q0": 43185628,
+    "q4": -2,
+    "q5": "Poor gacha system."
+  },
+  {
+    "q0": 43108901,
+    "q4": -2,
+    "q5": "Focus on monetization and poor rewards."
+  },
+  {
+    "q0": 43080591,
+    "q4": -2,
+    "q5": "Privacy concerns."
+  },
+  {
+    "q0": 43052466,
+    "q4": -2,
+    "q5": "Poor customer service."
+  },
+  {
+    "q0": 43037650,
+    "q4": -2,
+    "q5": "Frequent crashes."
+  },
+  {
+    "q0": 41898518,
+    "q4": -2,
+    "q5": "Frequent changes to game balance."
+  }
+]
+```

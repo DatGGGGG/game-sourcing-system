@@ -1,0 +1,82 @@
+```json
+[
+  {
+    "q0": 34534126,
+    "q5": "The user feels the vertical screen design is better for casual play, but the game might benefit from a horizontal screen design for exploration.",
+    "q13": -1,
+    "q14": "The user suggests that vertical screen games are better for casual play and lack exploration, implying limited diversity in gameplay."
+  },
+  {
+    "q0": 34533638,
+    "q11": -1,
+    "q12": "The user mentions that certain pets are more powerful, indicating imbalance.",
+    "q13": -1,
+    "q14": "The user implies limited diversity in hero/team builds by suggesting specific pets are more powerful."
+  },
+  {
+    "q0": 34532824,
+    "q5": "The user finds the world chat repetitive with requests for specific elements.",
+    "q13": -1,
+    "q14": "The user implies limited diversity in team builds, as players frequently request specific elements."
+  },
+  {
+    "q0": 34532190,
+    "q11": 1,
+    "q12": "The user suggests that except for team PvP, the healer role is generally effective.",
+    "q13": 1,
+    "q14": "The user finds the healer role effective, indicating diversity in team roles."
+  },
+  {
+    "q0": 34532174,
+    "q3": "Turn-based combat",
+    "q4": 2,
+    "q5": "The user is very positive about the turn-based combat and expects high playability."
+  },
+  {
+    "q0": 34532046,
+    "q3": "Physical and skill-based combat with cooldowns",
+    "q4": 1,
+    "q5": "The user describes various skills and their effects, indicating satisfaction with combat mechanics.",
+    "q6": "Skill-based combat with cooldowns",
+    "q7": 1,
+    "q8": "The user describes strategic use of skills and cooldowns, indicating some depth.",
+    "q11": 1,
+    "q12": "The user describes different skills and roles, indicating some balance.",
+    "q13": 1,
+    "q14": "The user describes various skills and roles, indicating diversity in team builds."
+  },
+  {
+    "q0": 34531912,
+    "q13": 1,
+    "q14": "The user is focused on nurturing and collecting, indicating diversity in gameplay."
+  },
+  {
+    "q0": 34528797,
+    "q5": "The user is curious if the game will motivate spending despite its free-to-play nature.",
+    "q29": -1,
+    "q30": "The user mentions high costs for mythical creatures, indicating spending pressure."
+  },
+  {
+    "q0": 34468309,
+    "q5": "The user is dissatisfied with changes to rewards and resources.",
+    "q19": -2,
+    "q20": "The user mentions reduced rewards, indicating dissatisfaction with resource earnings."
+  },
+  {
+    "q0": 34466990,
+    "q5": "The user praises the game's visuals as refreshing and clear."
+  },
+  {
+    "q0": 34469602,
+    "q5": "The user finds the game simple and nostalgic."
+  },
+  {
+    "q0": 34469585,
+    "q5": "The user finds it difficult to participate in time-limited events due to time constraints."
+  },
+  {
+    "q0": 34468884,
+    "q5": "The user is concerned about the fast pace of updates and the need to invest time and resources."
+  }
+]
+```

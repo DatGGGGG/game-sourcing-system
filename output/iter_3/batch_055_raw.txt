@@ -1,0 +1,116 @@
+```json
+[
+  {
+    "q0": 26420989,
+    "q5": "The user appreciates the game's storyline and setting, which allows players to smoothly enter an ancient Chang'an."
+  },
+  {
+    "q0": 26397273,
+    "q5": "The user expresses affection for a character and hopes for further optimization of the character models."
+  },
+  {
+    "q0": 26347143,
+    "q5": "The user is attracted by the game's traditional Chinese art style, which they find very immersive."
+  },
+  {
+    "q0": 26338936,
+    "q5": "The user appreciates the Q-version character modeling and the detailed art style that matches the comic."
+  },
+  {
+    "q0": 26332819,
+    "q5": "The user praises the game's graphics and suggests bold innovations in trading to make the game popular."
+  },
+  {
+    "q0": 26287206,
+    "q5": "The user hopes for the option to switch between landscape and portrait modes for battles, as they are accustomed to landscape turn-based games."
+  },
+  {
+    "q0": 26263777,
+    "q5": "The user believes the game is good based on leaks, appreciates the effort in features like spirit capture and free trading, and is willing to wait patiently."
+  },
+  {
+    "q0": 26252268,
+    "q5": "The user criticizes the game's font, especially the damage font and color scheme, and suggests improvements to avoid misunderstandings."
+  },
+  {
+    "q0": 26217464,
+    "q5": "The user hopes for balance in the spirit master system and suggests following the comic's storyline for early gameplay."
+  },
+  {
+    "q0": 26158647,
+    "q5": "The user finds the gameplay and art style exquisite but hopes the spirit cultivation aspect isn't too grindy for students with limited time."
+  },
+  {
+    "q0": 26125881,
+    "q5": "The user is looking forward to the game after seeing battle images and is an experienced turn-based player."
+  },
+  {
+    "q0": 26121160,
+    "q5": "The user is generally okay with the game but cannot accept the human-faced beast bodies and hopes for changes."
+  },
+  {
+    "q0": 26113684,
+    "q5": "The user is excited about the art style and game setting, enjoys the spirit capture feature, and hopes for a good storyline."
+  },
+  {
+    "q0": 26085081,
+    "q5": "The user is drawn to the traditional Chinese art style and believes the game will attract anime and story fans if it follows the comic's plot."
+  },
+  {
+    "q0": 26064427,
+    "q5": "The user is curious about the storyline's immersion and hopes to experience the friendship from the comic."
+  },
+  {
+    "q0": 26026380,
+    "q5": "The user, a comic fan, finds the spirit master system well-replicated and is willing to give the game four stars for now."
+  },
+  {
+    "q0": 25985558,
+    "q5": "The user feels that strategy and effort can help raise spirits but is concerned about the potential grind."
+  },
+  {
+    "q0": 25967111,
+    "q5": "The user hopes for features like capturing pets, trading with some restrictions, and faster pet leveling to allow players to train multiple pets."
+  },
+  {
+    "q0": 25910938,
+    "q5": "The user appreciates the turn-based gameplay with spirit capturing and praises the game's art."
+  },
+  {
+    "q0": 25908742,
+    "q5": "The user is excited about the game's features like free trading and portrait mode but is concerned about excessive monetization prompts."
+  },
+  {
+    "q0": 25899216,
+    "q5": "The user finds the art style appealing and appreciates the innovative spirit capturing feature, making the game worth anticipating."
+  },
+  {
+    "q0": 25882914,
+    "q5": "The user believes the game's focus on cultivation suits older players looking for a laid-back experience."
+  },
+  {
+    "q0": 25855603,
+    "q5": "The user loves the traditional Chinese fantasy art style and appreciates the developers' willingness to listen to player feedback."
+  },
+  {
+    "q0": 25835546,
+    "q5": "The user expects the game to offer a mix of anime watching, gaming, and nurturing, rather than being a simple idle game."
+  },
+  {
+    "q0": 25823682,
+    "q5": "The user is excited about the art style and pet system but hopes pets aren't purely monetized."
+  },
+  {
+    "q0": 25804094,
+    "q5": "The user loves the cute art style but hopes for unique features in the turn-based gameplay to stand out in the market."
+  },
+  {
+    "q0": 25750693,
+    "q5": "The user is attracted to the Tang Dynasty theme and finds the turn-based card gameplay appealing and not mentally taxing."
+  },
+  {
+    "q0": 25729030,
+    "q5": "The user suggests allowing free trading to enhance the game but acknowledges the potential increase in operational costs."
+  }
+]
+```

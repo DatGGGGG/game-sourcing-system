@@ -1,0 +1,422 @@
+```json
+[
+  {
+    "q0": 37359355,
+    "q4": -1,
+    "q5": "The player expresses frustration about the current version, indicating that the character is easily defeated in PvP."
+  },
+  {
+    "q0": 37359340,
+    "q4": 1,
+    "q5": "The player describes different strategies for PvP and PvE, indicating satisfaction with the combat mechanics."
+  },
+  {
+    "q0": 37349876,
+    "q6": "Pet skill washing",
+    "q7": 1,
+    "q8": "The player is seeking advice on optimizing pet skills, indicating a level of strategic depth."
+  },
+  {
+    "q0": 37344640,
+    "q41": "Poor image quality"
+  },
+  {
+    "q0": 37333901,
+    "q41": "Issue with cooking system not updating effects"
+  },
+  {
+    "q0": 37333840,
+    "q4": 1,
+    "q5": "The player describes a successful strategy involving agility and attack power."
+  },
+  {
+    "q0": 37333819,
+    "q4": 1,
+    "q5": "The player describes a successful defensive strategy against multiple opponents."
+  },
+  {
+    "q0": 37324321,
+    "q4": 1,
+    "q5": "The player finds the game satisfactory."
+  },
+  {
+    "q0": 37317834,
+    "q6": "Skill selection for pet",
+    "q7": 1,
+    "q8": "The player is considering different skills for improving survival or output, indicating strategic depth."
+  },
+  {
+    "q0": 37317804,
+    "q6": "Skill selection for pet",
+    "q7": 1,
+    "q8": "The player is seeking advice on skill optimization for a pet, indicating strategic depth."
+  },
+  {
+    "q0": 37317787,
+    "q4": 0,
+    "q5": "The player finds the combat mechanics underwhelming, with no impressive results."
+  },
+  {
+    "q0": 37317774,
+    "q4": -1,
+    "q5": "The player finds the character difficult to play solo and challenging in tasks, leading to a negative experience."
+  },
+  {
+    "q0": 37317754,
+    "q4": -1,
+    "q5": "The player feels their character is underperforming compared to others."
+  },
+  {
+    "q0": 37309215,
+    "q4": -2,
+    "q5": "The player is frustrated with the game's equipment and resource system, finding it a waste of resources.",
+    "q27": -1,
+    "q28": "The player finds resource acquisition limited and frustrating.",
+    "q29": -2,
+    "q30": "The player feels pressured to spend due to the lack of progress and resource acquisition.",
+    "q31": -2,
+    "q32": "The player finds the free rewards insufficient and unsatisfactory."
+  },
+  {
+    "q0": 37305269,
+    "q41": "The player emphasizes the importance of having a fixed team for continued enjoyment."
+  },
+  {
+    "q0": 37293897,
+    "q41": "The player is frustrated with the inventory system and lack of new gameplay features."
+  },
+  {
+    "q0": 37281230,
+    "q4": 2,
+    "q5": "The player finds the game very enjoyable and recommends it."
+  },
+  {
+    "q0": 37275458,
+    "q4": 0,
+    "q5": "The player finds the game initially enjoyable but loses interest over time."
+  },
+  {
+    "q0": 37270737,
+    "q4": 1,
+    "q5": "The player describes a strategic shift in gameplay due to new card mechanics."
+  },
+  {
+    "q0": 37270230,
+    "q41": "The player is seeking advice on acquiring rare items and understanding skill effects."
+  },
+  {
+    "q0": 37270148,
+    "q41": "The player is confused about the turn order mechanics."
+  },
+  {
+    "q0": 37270046,
+    "q41": "The player is frustrated with changes that require redoing pet builds."
+  },
+  {
+    "q0": 37256332,
+    "q41": "The player advises against relying on chance-based mechanics and highlights the game's expense."
+  },
+  {
+    "q0": 37254491,
+    "q41": "The player appreciates the game's storyline."
+  },
+  {
+    "q0": 37223121,
+    "q41": "The player finds the game to be a repetitive card-swapping game."
+  },
+  {
+    "q0": 37215846,
+    "q4": 2,
+    "q5": "The player enjoys the game without spending money and finds it not too time-consuming.",
+    "q27": 2,
+    "q28": "The player finds the game enjoyable without spending money.",
+    "q31": 2,
+    "q32": "The player appreciates the free rewards and finds them sufficient."
+  },
+  {
+    "q0": 37210900,
+    "q41": "The player is frustrated with the high cost of changing professions."
+  },
+  {
+    "q0": 37197362,
+    "q41": "The player reports overheating issues with their phone while playing."
+  },
+  {
+    "q0": 37181117,
+    "q4": 2,
+    "q5": "The player finds the game interesting and visually appealing, with anticipation for future updates."
+  },
+  {
+    "q0": 37149414,
+    "q4": 1,
+    "q5": "The player describes a powerful combat experience with a specific character."
+  },
+  {
+    "q0": 37148835,
+    "q41": "The player discusses the challenges of competing with speed-focused characters."
+  },
+  {
+    "q0": 37148745,
+    "q41": "The player describes a strategy for maximizing damage output with a specific character."
+  },
+  {
+    "q0": 37148680,
+    "q41": "The player finds a specific character build ineffective in certain situations."
+  },
+  {
+    "q0": 37131405,
+    "q41": "The player seeks advice on skill optimization for a specific character."
+  },
+  {
+    "q0": 37131004,
+    "q41": "The player discusses the importance of high-level skills for effective gameplay."
+  },
+  {
+    "q0": 37130905,
+    "q41": "The player is seeking advice on optimizing character builds and strategies."
+  },
+  {
+    "q0": 37130742,
+    "q41": "The player seeks advice on character builds and strategies for specific gameplay modes."
+  },
+  {
+    "q0": 37116428,
+    "q41": "The player finds a specific character underperforming in certain game modes."
+  },
+  {
+    "q0": 37116339,
+    "q41": "The player discusses strategies for targeting specific characters in combat."
+  },
+  {
+    "q0": 37115956,
+    "q41": "The player is frustrated with the game's character progression system."
+  },
+  {
+    "q0": 37115912,
+    "q41": "The player is frustrated with the cost and mechanics of changing professions and equipment."
+  },
+  {
+    "q0": 37115824,
+    "q41": "The player is frustrated with the lack of guarantee in chance-based mechanics and the high cost of progression."
+  },
+  {
+    "q0": 37100135,
+    "q41": "The player discusses the importance of aggressive strategies in combat."
+  },
+  {
+    "q0": 37097152,
+    "q41": "The player is frustrated with guild management issues."
+  },
+  {
+    "q0": 37077645,
+    "q41": "The player discusses strategies for optimizing skill usage."
+  },
+  {
+    "q0": 37077403,
+    "q41": "The player finds a specific character build challenging to maintain."
+  },
+  {
+    "q0": 37076955,
+    "q41": "The player is confused about the effectiveness of certain character builds."
+  },
+  {
+    "q0": 37076739,
+    "q41": "The player seeks advice on optimizing equipment and skills for a specific character."
+  },
+  {
+    "q0": 37072886,
+    "q41": "The player finds a specific gameplay mode too difficult."
+  },
+  {
+    "q0": 37054976,
+    "q41": "The player finds the game unsuitable for players with limited time."
+  },
+  {
+    "q0": 37040255,
+    "q41": "The player experiences issues with the game requiring re-login after switching apps."
+  },
+  {
+    "q0": 37034975,
+    "q41": "The player discusses strategies for optimizing character builds in the current version."
+  },
+  {
+    "q0": 37034888,
+    "q41": "The player finds a specific character less effective in higher-level content."
+  },
+  {
+    "q0": 37034831,
+    "q41": "The player is unsure about the effectiveness of certain character builds."
+  },
+  {
+    "q0": 37012946,
+    "q41": "The player compares the effectiveness of different character builds."
+  },
+  {
+    "q0": 37012926,
+    "q41": "The player finds a specific character build more efficient for certain tasks."
+  },
+  {
+    "q0": 37012906,
+    "q41": "The player is frustrated with being frequently targeted in combat."
+  },
+  {
+    "q0": 37012887,
+    "q41": "The player discusses strategies for optimizing combat effectiveness."
+  },
+  {
+    "q0": 37006427,
+    "q41": "The player is frustrated with cheating in a specific game mode."
+  },
+  {
+    "q0": 37001095,
+    "q41": "The player is frustrated with the lack of new server openings."
+  },
+  {
+    "q0": 36956504,
+    "q41": "The player finds the new update beneficial for non-paying players."
+  },
+  {
+    "q0": 36954408,
+    "q41": "The player finds similarities between this game and another game."
+  },
+  {
+    "q0": 36946086,
+    "q41": "The player warns about scams involving third-party communication."
+  },
+  {
+    "q0": 36941983,
+    "q41": "The player finds a specific character build effective for progression."
+  },
+  {
+    "q0": 36941958,
+    "q41": "The player discusses the balance and popularity of certain character classes."
+  },
+  {
+    "q0": 36941931,
+    "q41": "The player finds a specific character build very effective for PvE."
+  },
+  {
+    "q0": 36941916,
+    "q41": "The player discusses the effectiveness of a specific character build."
+  },
+  {
+    "q0": 36941485,
+    "q41": "The player seeks advice on character builds and strategies."
+  },
+  {
+    "q0": 36941447,
+    "q41": "The player discusses the benefits of staying at a certain level cap."
+  },
+  {
+    "q0": 36941428,
+    "q41": "The player discusses the pros and cons of staying at a certain level cap."
+  },
+  {
+    "q0": 36908337,
+    "q41": "The player discusses the benefits of staying at a certain level cap."
+  },
+  {
+    "q0": 36906949,
+    "q41": "The player seeks advice on equipment optimization for a specific character."
+  },
+  {
+    "q0": 36906390,
+    "q41": "The player is considering character builds for future updates."
+  },
+  {
+    "q0": 36905943,
+    "q41": "The player discusses the challenges of progressing without a fixed team."
+  },
+  {
+    "q0": 36901253,
+    "q41": "The player is frustrated with the localization of a new feature."
+  },
+  {
+    "q0": 36872746,
+    "q41": "The player discusses strategies for optimizing character builds."
+  },
+  {
+    "q0": 36872636,
+    "q41": "The player finds the experience gain from certain activities insufficient."
+  },
+  {
+    "q0": 36872029,
+    "q41": "The player is considering character builds for specific game modes."
+  },
+  {
+    "q0": 36871771,
+    "q41": "The player is frustrated with the obsolescence of previously acquired items."
+  },
+  {
+    "q0": 36863286,
+    "q41": "The player experiences issues with accessing the game."
+  },
+  {
+    "q0": 36857791,
+    "q4": 1,
+    "q5": "The player finds the game enjoyable and visually appealing."
+  },
+  {
+    "q0": 36853148,
+    "q41": "The player wishes for more simplified daily tasks."
+  },
+  {
+    "q0": 36853058,
+    "q41": "The player is frustrated with the difficulty of obtaining desired pet skills."
+  },
+  {
+    "q0": 36853014,
+    "q41": "The player finds certain game modes more enjoyable than others."
+  },
+  {
+    "q0": 36852959,
+    "q41": "The player is considering the viability of previously acquired characters."
+  },
+  {
+    "q0": 36852883,
+    "q41": "The player finds certain character builds less effective than others."
+  },
+  {
+    "q0": 36837360,
+    "q41": "The player discusses strategies for optimizing character builds."
+  },
+  {
+    "q0": 36837348,
+    "q41": "The player is frustrated with the increased difficulty of a specific game mode."
+  },
+  {
+    "q0": 36837328,
+    "q41": "The player is concerned about the viability of previously acquired characters."
+  },
+  {
+    "q0": 36837315,
+    "q41": "The player is frustrated with the increased difficulty of a specific game mode."
+  },
+  {
+    "q0": 36837303,
+    "q4": 2,
+    "q5": "The player finds the game's visuals appealing and enjoys the new cosmetic items."
+  },
+  {
+    "q0": 36829104,
+    "q41": "The player is frustrated with the game's reliance on luck over spending."
+  },
+  {
+    "q0": 34259174,
+    "q4": 2,
+    "q5": "The player finds the game to be the most fair and enjoyable in its genre.",
+    "q27": 2,
+    "q28": "The player finds the game accessible for all players.",
+    "q31": 2,
+    "q32": "The player appreciates the availability of in-game rewards."
+  },
+  {
+    "q0": 36820914,
+    "q41": "The player finds a specific character build effective for combat."
+  },
+  {
+    "q0": 36820913,
+    "q41": "The player wishes for more casual and lifestyle features in the game."
+  }
+]
+```

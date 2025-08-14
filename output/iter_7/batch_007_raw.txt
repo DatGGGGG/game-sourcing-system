@@ -1,0 +1,175 @@
+```json
+[
+  {
+    "q0": 32195336,
+    "q4": 2,
+    "q5": "The user finds the game to be a pleasant surprise with its classic turn-based mechanics and new gameplay elements.",
+    "q9": 2,
+    "q10": "The user is pleasantly surprised by the game's new elements and overall experience.",
+    "q13": 2,
+    "q14": "The game includes new gameplay elements and a variety of features that enhance the experience."
+  },
+  {
+    "q0": 32201581,
+    "q5": "The user appreciates the variety of gameplay and the unique features that keep the game interesting.",
+    "q9": 2,
+    "q10": "The user enjoys the variety of gameplay and the social aspects of the game.",
+    "q31": 2,
+    "q32": "The user enjoys the social aspects and the variety of gameplay, which keeps the game engaging."
+  },
+  {
+    "q0": 32200841,
+    "q5": "The user is impressed by the visual appeal and freedom of exploration in the game.",
+    "q9": 2,
+    "q10": "The user enjoys the visual appeal and freedom of exploration, enhancing the overall experience."
+  },
+  {
+    "q0": 31723177,
+    "q5": "The user appreciates the game's graphics and the variety of gameplay and pet designs.",
+    "q9": 2,
+    "q10": "The user is impressed by the graphics and variety of gameplay, though initial pet designs are not very surprising.",
+    "q31": 2,
+    "q32": "The user finds the game's rewards satisfactory and the graphics impressive."
+  },
+  {
+    "q0": 31734387,
+    "q5": "The user is attracted to the pet evolution system but finds some pet designs lacking.",
+    "q13": -1,
+    "q14": "The user finds some pet designs unattractive, impacting the diversity of team builds."
+  },
+  {
+    "q0": 31723427,
+    "q5": "The user is excited about the game's art style and the concept of a turn-based pet-catching game.",
+    "q9": 2,
+    "q10": "The user is highly excited about the game's art style and concept, indicating strong anticipation."
+  },
+  {
+    "q0": 32261309,
+    "q5": "The user finds the main storyline interesting but feels it lacks a clear direction.",
+    "q9": 1,
+    "q10": "The user enjoys the storyline but feels it could benefit from more structure.",
+    "q31": 1,
+    "q32": "The user finds the storyline interesting but feels it could be more structured."
+  },
+  {
+    "q0": 31723163,
+    "q5": "The user finds the game highly playable and is looking forward to its official release.",
+    "q9": 2,
+    "q10": "The user finds the game highly playable and is eagerly anticipating its release."
+  },
+  {
+    "q0": 31744099,
+    "q5": "The user finds the game enjoyable and suggests a feature for screen orientation switching.",
+    "q9": 2,
+    "q10": "The user enjoys the game and suggests a feature for screen orientation switching."
+  },
+  {
+    "q0": 31783127,
+    "q5": "The user finds the graphics satisfactory but the gameplay lacking in engagement.",
+    "q9": -1,
+    "q10": "The user finds the gameplay lacking in engagement despite satisfactory graphics."
+  },
+  {
+    "q0": 31779267,
+    "q5": "The user is withholding judgment on gameplay aspects due to the game's beta status.",
+    "q9": "N/A",
+    "q10": "The user is withholding judgment on gameplay aspects due to the game's beta status."
+  },
+  {
+    "q0": 31740292,
+    "q5": "The user finds the game enjoyable and mentions a feature related to in-game purchases.",
+    "q9": 2,
+    "q10": "The user finds the game enjoyable and mentions a feature related to in-game purchases."
+  },
+  {
+    "q0": 31786859,
+    "q5": "The user compares the game to another popular game, indicating high expectations.",
+    "q9": 1,
+    "q10": "The user has high expectations for the game based on comparisons to another popular game."
+  },
+  {
+    "q0": 31704864,
+    "q5": "The user describes the game as a combination of a popular game and card-based pet collection.",
+    "q9": 1,
+    "q10": "The user describes the game as a combination of a popular game and card-based pet collection."
+  },
+  {
+    "q0": 31797567,
+    "q5": "The user expresses frustration over the game's delayed release.",
+    "q9": -1,
+    "q10": "The user is frustrated by the game's delayed release."
+  },
+  {
+    "q0": 31733739,
+    "q5": "The user mentions a specific in-game element, indicating interest.",
+    "q9": "N/A",
+    "q10": "The user mentions a specific in-game element, indicating interest."
+  },
+  {
+    "q0": 31700523,
+    "q5": "The user expresses frustration over the game's delayed release.",
+    "q9": -1,
+    "q10": "The user is frustrated by the game's delayed release."
+  },
+  {
+    "q0": 31640008,
+    "q5": "The user expresses frustration over the game's testing process.",
+    "q9": -1,
+    "q10": "The user is frustrated by the game's testing process."
+  },
+  {
+    "q0": 31644302,
+    "q5": "The user expresses frustration over the game's testing process.",
+    "q9": -1,
+    "q10": "The user is frustrated by the game's testing process."
+  },
+  {
+    "q0": 31643610,
+    "q5": "The user expresses frustration over the game's testing process.",
+    "q9": -1,
+    "q10": "The user is frustrated by the game's testing process."
+  },
+  {
+    "q0": 31638342,
+    "q5": "The user expresses frustration over the game's delayed release.",
+    "q9": -1,
+    "q10": "The user is frustrated by the game's delayed release."
+  },
+  {
+    "q0": 31595980,
+    "q5": "The user questions the game's high rating based on gameplay videos.",
+    "q9": -1,
+    "q10": "The user questions the game's high rating based on gameplay videos."
+  },
+  {
+    "q0": 31572764,
+    "q5": "The user expresses frustration over the game's delayed release.",
+    "q9": -1,
+    "q10": "The user is frustrated by the game's delayed release."
+  },
+  {
+    "q0": 31477548,
+    "q5": "The user finds the game enjoyable.",
+    "q9": 2,
+    "q10": "The user finds the game enjoyable."
+  },
+  {
+    "q0": 31457091,
+    "q5": "The user is eagerly anticipating the game's official release.",
+    "q9": 2,
+    "q10": "The user is eagerly anticipating the game's official release."
+  },
+  {
+    "q0": 31407306,
+    "q5": "The user is excited about the game's art style.",
+    "q9": 2,
+    "q10": "The user is excited about the game's art style."
+  },
+  {
+    "q0": 31345684,
+    "q5": "The user expresses frustration over the game's delayed release.",
+    "q9": -1,
+    "q10": "The user is frustrated by the game's delayed release."
+  }
+]
+```

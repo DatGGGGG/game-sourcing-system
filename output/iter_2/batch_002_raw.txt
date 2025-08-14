@@ -1,0 +1,267 @@
+```json
+[
+  {
+    "q0": 44103792,
+    "q4": 1,
+    "q5": "The user finds the operation and graphics of the game to be good."
+  },
+  {
+    "q0": 43899887,
+    "q4": 1,
+    "q5": "The user finds the game interesting and engaging despite being tiring."
+  },
+  {
+    "q0": 44090402,
+    "q6": "Skill stacking, critical hits, multi-segment skills",
+    "q7": 1,
+    "q8": "The user discusses strategic choices regarding skill stacking and critical hits."
+  },
+  {
+    "q0": 44086631,
+    "q11": -1,
+    "q12": "The user mentions that certain classes are not viable in the new season's dungeons.",
+    "q13": -1,
+    "q14": "The user notes that some classes have limited employment opportunities in the new season."
+  },
+  {
+    "q0": 44084161,
+    "q9": -1,
+    "q10": "The user mentions progression issues due to task interdependencies and lack of team members.",
+    "q27": -1,
+    "q28": "The user experiences issues with guilds being forcibly disbanded and new players being kicked out."
+  },
+  {
+    "q0": 44083804,
+    "q4": 2,
+    "q5": "The user finds the game very fun and has been playing for almost 3 years."
+  },
+  {
+    "q0": 44079517,
+    "q4": 2,
+    "q5": "The user finds the game very fun and innovative, with the ability to play in portrait mode."
+  },
+  {
+    "q0": 44072506,
+    "q27": 2,
+    "q28": "The user mentions that the game is playable for free and offers a good experience for non-paying players."
+  },
+  {
+    "q0": 44067241,
+    "q27": -1,
+    "q28": "The user complains about missing out on event rewards due to server issues, calling it a money-grabbing game."
+  },
+  {
+    "q0": 44067222,
+    "q11": -1,
+    "q12": "The user mentions nerfs to certain creatures and buffs to others, indicating imbalance.",
+    "q29": -2,
+    "q30": "The user accuses the game of being purely for profit by making changes to encourage spending."
+  },
+  {
+    "q0": 44058420,
+    "q4": 2,
+    "q5": "The user finds the game more enjoyable compared to other similar games due to its detailed graphics and chat system.",
+    "q37": 1,
+    "q38": "The user appreciates the portrait mode which is more suitable for mobile play."
+  },
+  {
+    "q0": 44047443,
+    "q4": 2,
+    "q5": "The user finds the game very fun and suitable as a casual game."
+  },
+  {
+    "q0": 44045871,
+    "q29": -1,
+    "q30": "The user is uncomfortable with the monetization system where selling items gives bound currency but buying requires real money."
+  },
+  {
+    "q0": 44041556,
+    "q4": 1,
+    "q5": "The user finds the game enjoyable with engaging storylines and good graphics.",
+    "q11": -1,
+    "q12": "The user mentions severe class imbalance and suggests the need for new classes or rebalancing.",
+    "q27": 1,
+    "q28": "The game is friendly to non-paying and low-spending players, though progression may require spending."
+  },
+  {
+    "q0": 44033970,
+    "q13": -1,
+    "q14": "The user suggests that certain creatures are unnecessary, indicating limited diversity in team building."
+  },
+  {
+    "q0": 44023320,
+    "q6": "Skill selection, pet strategy",
+    "q7": 1,
+    "q8": "The user discusses strategic choices regarding skill selection for pets."
+  },
+  {
+    "q0": 44014665,
+    "q13": 1,
+    "q14": "The user discusses different character combinations, indicating diversity in team building."
+  },
+  {
+    "q0": 44008882,
+    "q29": -1,
+    "q30": "The user warns about pre-charging not unlocking first charge rewards, indicating spending pressure."
+  },
+  {
+    "q0": 43998113,
+    "q23": true,
+    "q24": "The game has a visible pity system for gacha pulls.",
+    "q25": -1,
+    "q26": "The user suggests that the game is not very friendly to non-spending players, recommending at least a monthly card.",
+    "q27": -1,
+    "q28": "The game is not very friendly to non-spending players, with PVP being difficult without spending.",
+    "q31": 1,
+    "q32": "The game has reduced the time required to earn resources through updates."
+  },
+  {
+    "q0": 43986015,
+    "q6": "Rule explanations, strategy guides",
+    "q7": 1,
+    "q8": "The user suggests reading in-game rules to avoid mistakes, indicating strategic depth."
+  },
+  {
+    "q0": 43947711,
+    "q29": -2,
+    "q30": "The user feels deceived by the game's announcements and monetization practices."
+  },
+  {
+    "q0": 43939281,
+    "q29": 1,
+    "q30": "The user appreciates the game's efforts to reduce grind and improve the experience."
+  },
+  {
+    "q0": 43936772,
+    "q29": -1,
+    "q30": "The user finds the game both expensive and grind-heavy."
+  },
+  {
+    "q0": 43928360,
+    "q29": 1,
+    "q30": "The user suggests improvements to the trading system to attract more players."
+  },
+  {
+    "q0": 43921196,
+    "q29": -2,
+    "q30": "The user is frustrated with the game's stingy event rewards."
+  },
+  {
+    "q0": 43920383,
+    "q27": 2,
+    "q28": "The user finds the game very enjoyable and rewarding for non-paying players."
+  },
+  {
+    "q0": 43919607,
+    "q29": -2,
+    "q30": "The user criticizes the game's lack of meaningful rewards for non-paying players."
+  },
+  {
+    "q0": 43914443,
+    "q27": 2,
+    "q28": "The user finds the game comfortable to play for free."
+  },
+  {
+    "q0": 43908596,
+    "q6": "Battle strategy, team composition",
+    "q7": 1,
+    "q8": "The user provides a detailed strategy for a specific battle scenario."
+  },
+  {
+    "q0": 43908018,
+    "q39": -2,
+    "q40": "The user experiences severe issues with the PC version, unable to start the game."
+  },
+  {
+    "q0": 43892494,
+    "q39": -2,
+    "q40": "The user experiences frequent game crashes and technical issues."
+  },
+  {
+    "q0": 43891581,
+    "q29": -2,
+    "q30": "The user accuses the game of deceptive practices and poor optimization."
+  },
+  {
+    "q0": 43888798,
+    "q4": -2,
+    "q5": "The user finds the battles long and tedious without a speed-up option."
+  },
+  {
+    "q0": 43881055,
+    "q9": -1,
+    "q10": "The user struggles with finding team members for tasks, hindering progression."
+  },
+  {
+    "q0": 43871899,
+    "q31": 1,
+    "q32": "The user finds the game less grind-heavy and more rewarding than before.",
+    "q39": -1,
+    "q40": "The user finds the game consumes too much data and has large updates."
+  },
+  {
+    "q0": 43870046,
+    "q9": -2,
+    "q10": "The user faces progression issues due to server population and support problems."
+  },
+  {
+    "q0": 43852723,
+    "q29": -1,
+    "q30": "The user feels that being more active leads to worse rewards, indicating unfairness."
+  },
+  {
+    "q0": 43842188,
+    "q29": -2,
+    "q30": "The user is frustrated with auction house rules that seem designed to disadvantage players."
+  },
+  {
+    "q0": 43839620,
+    "q29": -2,
+    "q30": "The user feels the game is designed to trick players into spending money."
+  },
+  {
+    "q0": 43838297,
+    "q29": -2,
+    "q30": "The user accuses the game of bait-and-switch tactics with event rewards."
+  },
+  {
+    "q0": 43669970,
+    "q29": -2,
+    "q30": "The user accuses the game of canceling promised rewards, leading to player dissatisfaction."
+  },
+  {
+    "q0": 43782636,
+    "q11": -2,
+    "q12": "The user finds significant imbalance in both character classes and pets."
+  },
+  {
+    "q0": 43775421,
+    "q37": -2,
+    "q38": "The user finds the game very large in size and memory usage.",
+    "q39": -2,
+    "q40": "The user experiences frequent bugs and issues with the game's technical performance."
+  },
+  {
+    "q0": 43734836,
+    "q4": 1,
+    "q5": "The user appreciates the game's traditional turn-based gameplay and art style.",
+    "q29": -1,
+    "q30": "The user mentions that serious play requires spending money."
+  },
+  {
+    "q0": 43710499,
+    "q13": 1,
+    "q14": "The user considers different class options for returning to the game, indicating diversity."
+  },
+  {
+    "q0": 43667289,
+    "q39": -2,
+    "q40": "The user experiences frequent server crashes during events, leading to poor game experience."
+  },
+  {
+    "q0": 43667138,
+    "q29": -2,
+    "q30": "The user is frustrated with server issues and inadequate compensation for problems."
+  }
+]
+```

@@ -1,0 +1,250 @@
+```json
+[
+  {
+    "q0": 36747201,
+    "q5": "The gameplay becomes tiresome and feels like work due to repetitive activities.",
+    "q9": -1,
+    "q10": "Progression feels like work, especially for working adults.",
+    "q27": -1,
+    "q28": "Non-paying players struggle with resource management and social aspects.",
+    "q29": -1,
+    "q30": "Significant differences between paying and non-paying players.",
+    "q41": "The game heavily relies on social interactions, and without a fixed team, it's hard to progress."
+  },
+  {
+    "q0": 36725699,
+    "q5": "The gameplay is difficult and confusing.",
+    "q9": -2,
+    "q10": "The game is hard to play and progress.",
+    "q29": -2,
+    "q30": "There are many scammers and pressure to spend money.",
+    "q41": "The game has many scammers and requires joining guilds to progress."
+  },
+  {
+    "q0": 36720336,
+    "q5": "The game has been secretly modified to reduce drop rates.",
+    "q9": -2,
+    "q10": "Higher levels have lower drop rates, making progression difficult.",
+    "q41": "Secret modifications have reduced drop rates, affecting progression."
+  },
+  {
+    "q0": 36719174,
+    "q5": "The game is user-friendly with automation features.",
+    "q9": 2,
+    "q10": "The game offers automation and user-friendly features for progression.",
+    "q27": 2,
+    "q28": "The game is accessible for non-paying players with automation features.",
+    "q41": "The game offers automation features that make it user-friendly."
+  },
+  {
+    "q0": 36715945,
+    "q5": "The game initially seemed fair but became frustrating due to constant changes.",
+    "q9": -2,
+    "q10": "Constant changes to the game make progression frustrating.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money with constant changes.",
+    "q41": "The game constantly changes, making it frustrating for players."
+  },
+  {
+    "q0": 36707558,
+    "q5": "The only interesting aspect is capturing creatures.",
+    "q9": -1,
+    "q10": "The game lacks engaging content beyond creature capture.",
+    "q41": "The game lacks engaging content beyond creature capture."
+  },
+  {
+    "q0": 36704059,
+    "q5": "Certain classes are essential for team composition.",
+    "q13": -1,
+    "q14": "Team composition is limited to specific classes.",
+    "q41": "Certain classes are essential for team composition, limiting diversity."
+  },
+  {
+    "q0": 36651400,
+    "q5": "The game has arbitrary bans and forced spending.",
+    "q9": -2,
+    "q10": "Progression is hindered by arbitrary bans and forced spending.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money with forced spending.",
+    "q41": "The game has arbitrary bans and forced spending."
+  },
+  {
+    "q0": 36645187,
+    "q5": "The game lacks balance and has arbitrary changes.",
+    "q11": -2,
+    "q12": "The game lacks balance with arbitrary changes.",
+    "q41": "The game lacks balance and has arbitrary changes."
+  },
+  {
+    "q0": 36629197,
+    "q5": "The game has arbitrary bans without explanation.",
+    "q9": -2,
+    "q10": "Progression is hindered by arbitrary bans without explanation.",
+    "q41": "The game has arbitrary bans without explanation."
+  },
+  {
+    "q0": 36615123,
+    "q5": "The game has numerous bugs and secret changes.",
+    "q9": -2,
+    "q10": "Progression is hindered by numerous bugs and secret changes.",
+    "q41": "The game has numerous bugs and secret changes."
+  },
+  {
+    "q0": 36606452,
+    "q5": "The game has severe resistance issues with certain classes.",
+    "q11": -2,
+    "q12": "The game has severe resistance issues with certain classes.",
+    "q41": "The game has severe resistance issues with certain classes."
+  },
+  {
+    "q0": 36553540,
+    "q5": "The game has numerous bugs and poor customer service.",
+    "q9": -2,
+    "q10": "Progression is hindered by numerous bugs and poor customer service.",
+    "q41": "The game has numerous bugs and poor customer service."
+  },
+  {
+    "q0": 36546263,
+    "q5": "The game has unresolved bugs for months.",
+    "q9": -2,
+    "q10": "Progression is hindered by unresolved bugs for months.",
+    "q41": "The game has unresolved bugs for months."
+  },
+  {
+    "q0": 36528135,
+    "q5": "The game has a strong social aspect with team play.",
+    "q9": 2,
+    "q10": "The game offers strong social features for progression.",
+    "q41": "The game has a strong social aspect with team play."
+  },
+  {
+    "q0": 36527910,
+    "q5": "The game has limited content and unfair matchmaking.",
+    "q9": -1,
+    "q10": "Progression is hindered by limited content and unfair matchmaking.",
+    "q41": "The game has limited content and unfair matchmaking."
+  },
+  {
+    "q0": 36521077,
+    "q5": "The game has a toxic social environment.",
+    "q9": -2,
+    "q10": "Progression is hindered by a toxic social environment.",
+    "q41": "The game has a toxic social environment."
+  },
+  {
+    "q0": 36492514,
+    "q5": "The game requires significant time investment for progression.",
+    "q9": -1,
+    "q10": "Progression requires significant time investment.",
+    "q41": "The game requires significant time investment for progression."
+  },
+  {
+    "q0": 36454958,
+    "q5": "The game has numerous secret changes to increase difficulty.",
+    "q9": -2,
+    "q10": "Progression is hindered by numerous secret changes.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money with secret changes.",
+    "q41": "The game has numerous secret changes to increase difficulty."
+  },
+  {
+    "q0": 36424547,
+    "q5": "The game is complex and time-consuming.",
+    "q9": -2,
+    "q10": "Progression is hindered by complexity and time requirements.",
+    "q41": "The game is complex and time-consuming."
+  },
+  {
+    "q0": 36417500,
+    "q5": "The game is friendly to non-paying players.",
+    "q27": 2,
+    "q28": "The game is accessible for non-paying players.",
+    "q41": "The game is friendly to non-paying players."
+  },
+  {
+    "q0": 36404229,
+    "q5": "The game is playable without spending money.",
+    "q27": 1,
+    "q28": "The game is accessible for non-paying players.",
+    "q41": "The game is playable without spending money."
+  },
+  {
+    "q0": 36373762,
+    "q5": "The game is confusing and lacks clear instructions.",
+    "q9": -2,
+    "q10": "Progression is hindered by confusing instructions.",
+    "q41": "The game is confusing and lacks clear instructions."
+  },
+  {
+    "q0": 36364725,
+    "q5": "The game frequently reduces resource availability.",
+    "q9": -2,
+    "q10": "Progression is hindered by reduced resource availability.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money with reduced resources.",
+    "q41": "The game frequently reduces resource availability."
+  },
+  {
+    "q0": 36356296,
+    "q5": "The game is average and unremarkable.",
+    "q9": -1,
+    "q10": "Progression is unremarkable and lacks excitement.",
+    "q41": "The game is average and unremarkable."
+  },
+  {
+    "q0": 36184942,
+    "q5": "The game has fixed activity times that are inconvenient.",
+    "q9": -1,
+    "q10": "Progression is hindered by inconvenient activity times.",
+    "q41": "The game has fixed activity times that are inconvenient."
+  },
+  {
+    "q0": 36176530,
+    "q5": "The game requires specific creatures for progression.",
+    "q9": -1,
+    "q10": "Progression requires specific creatures.",
+    "q41": "The game requires specific creatures for progression."
+  },
+  {
+    "q0": 36160970,
+    "q5": "The game frequently reduces resource availability.",
+    "q9": -2,
+    "q10": "Progression is hindered by reduced resource availability.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money with reduced resources.",
+    "q41": "The game frequently reduces resource availability."
+  },
+  {
+    "q0": 36106696,
+    "q5": "The game has low drop rates and focuses on monetization.",
+    "q9": -2,
+    "q10": "Progression is hindered by low drop rates.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money with low drop rates.",
+    "q41": "The game has low drop rates and focuses on monetization."
+  },
+  {
+    "q0": 35777771,
+    "q5": "The game frequently changes content to encourage spending.",
+    "q9": -2,
+    "q10": "Progression is hindered by frequent content changes.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money with frequent changes.",
+    "q41": "The game frequently changes content to encourage spending."
+  },
+  {
+    "q0": 36084550,
+    "q5": "The game has poorly designed events.",
+    "q9": -1,
+    "q10": "Progression is hindered by poorly designed events.",
+    "q41": "The game has poorly designed events."
+  },
+  {
+    "q0": 36081103,
+    "q5": "The game is suitable for casual play.",
+    "q9": 1,
+    "q10": "Progression is suitable for casual play.",
+    "q41": "The game is suitable for casual play."
+  }
+]
+```

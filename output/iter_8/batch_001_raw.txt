@@ -1,0 +1,177 @@
+```json
+[
+    {
+        "q0": 35739757,
+        "q41": "Account suspension issues due to alleged use of scripts or software."
+    },
+    {
+        "q0": 44258499,
+        "q6": "Team composition and strategy involving physical attack and defense.",
+        "q7": 1,
+        "q8": "Discussion of team composition and strategy for new dungeons.",
+        "q41": "High physical defense in new dungeons."
+    },
+    {
+        "q0": 44256808,
+        "q41": "Pet quality and management tips."
+    },
+    {
+        "q0": 44254618,
+        "q5": "The user finds the game fun and engaging."
+    },
+    {
+        "q0": 44154122,
+        "q41": "Discussion on character attribute optimization."
+    },
+    {
+        "q0": 44149886,
+        "q5": "The game is less demanding compared to others."
+    },
+    {
+        "q0": 44145371,
+        "q41": "Strategy for character progression and skill usage."
+    },
+    {
+        "q0": 44142243,
+        "q41": "Discussion on character selection and strategy."
+    },
+    {
+        "q0": 44136482,
+        "q41": "Strategy for playing passively in teams."
+    },
+    {
+        "q0": 44133289,
+        "q41": "Strategy for managing game resources."
+    },
+    {
+        "q0": 44126868,
+        "q41": "Discussion on character roles and updates."
+    },
+    {
+        "q0": 44126100,
+        "q41": "Character popularity and server dynamics."
+    },
+    {
+        "q0": 44123723,
+        "q5": "The game has user-friendly updates."
+    },
+    {
+        "q0": 44123036,
+        "q41": "Frustration with team strategy and time management in matches."
+    },
+    {
+        "q0": 44112790,
+        "q41": "Character progression and resource management."
+    },
+    {
+        "q0": 44103792,
+        "q5": "The user appreciates the game's controls and graphics."
+    },
+    {
+        "q0": 43899887,
+        "q5": "The game is engaging but can be tiring.",
+        "q41": "Suitable for students or those looking for a casual game."
+    },
+    {
+        "q0": 43984983,
+        "q41": "Comparison of player performance and character strength."
+    },
+    {
+        "q0": 43944668,
+        "q41": "In-game purchases and resource management."
+    },
+    {
+        "q0": 43817320,
+        "q41": "Request for a character deletion feature."
+    },
+    {
+        "q0": 43744922,
+        "q41": "Anticipation for new game content."
+    },
+    {
+        "q0": 43905336,
+        "q41": "User engagement and curiosity."
+    },
+    {
+        "q0": 42867219,
+        "q41": "Uncertainty about what to comment."
+    },
+    {
+        "q0": 42678531,
+        "q41": "Server population information."
+    },
+    {
+        "q0": 42614894,
+        "q41": "Game mode suggestion (vertical turn-based)."
+    },
+    {
+        "q0": 42511103,
+        "q5": "Initial positive impression of the game."
+    },
+    {
+        "q0": 42422420,
+        "q5": "The user considers the game to be fair."
+    },
+    {
+        "q0": 35015251,
+        "q41": "Suggestion for character roles and in-game trading."
+    },
+    {
+        "q0": 40776231,
+        "q41": "Challenges in character development and resource management."
+    },
+    {
+        "q0": 39792087,
+        "q41": "Inquiry about player population on specific servers."
+    },
+    {
+        "q0": 39429322,
+        "q41": "Request for equal treatment across different server types."
+    },
+    {
+        "q0": 39208109,
+        "q41": "Frustration with recurring game issues."
+    },
+    {
+        "q0": 38960254,
+        "q41": "Technical issues with game access."
+    },
+    {
+        "q0": 38625822,
+        "q41": "Frustration with game mechanics."
+    },
+    {
+        "q0": 37029873,
+        "q41": "Player returning to the game and looking for companions."
+    },
+    {
+        "q0": 36688992,
+        "q41": "Interest in related media (comics)."
+    },
+    {
+        "q0": 36463197,
+        "q41": "Inquiry about the game version."
+    },
+    {
+        "q0": 36354264,
+        "q41": "Technical issues with game access."
+    },
+    {
+        "q0": 36343615,
+        "q5": "The game is enjoyable for casual play during work."
+    },
+    {
+        "q0": 36285911,
+        "q41": "Advice on game difficulty management."
+    },
+    {
+        "q0": 36098896,
+        "q19": 2,
+        "q20": "Resources are widely available."
+    },
+    {
+        "q0": 36075300,
+        "q41": "Character design feedback."
+    }
+]
+```

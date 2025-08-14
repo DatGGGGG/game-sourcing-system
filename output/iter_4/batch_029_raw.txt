@@ -1,0 +1,150 @@
+```json
+[
+  {
+    "q0": 28665190,
+    "q21": -2,
+    "q22": "The game has been delayed for 5 months due to licensing issues, causing significant frustration among users."
+  },
+  {
+    "q0": 28376335,
+    "q15": "The game features a vertical screen design, which some users find more user-friendly."
+  },
+  {
+    "q0": 27881841,
+    "q15": "The game is designed for vertical screen play, which is a feature some users appreciate."
+  },
+  {
+    "q0": 28079111,
+    "q3": "The game includes cute pet-like creatures and showcases gameplay visuals.",
+    "q4": 2,
+    "q5": "The presence of cute creatures and appealing visuals generates excitement and positive anticipation."
+  },
+  {
+    "q0": 28078320,
+    "q6": "The game is expected to have high-quality modeling and a top-tier PvP mechanism.",
+    "q7": 2,
+    "q8": "The expectation of high-quality modeling and PvP mechanics indicates a positive outlook on the game's strategic depth."
+  },
+  {
+    "q0": 28041265,
+    "q4": 0,
+    "q5": "The gameplay is described as old but stable, suggesting a neutral stance on combat satisfaction."
+  },
+  {
+    "q0": 28023437,
+    "q5": "The user hopes the game will not be overly monetized like other vertical screen turn-based games."
+  },
+  {
+    "q0": 27885222,
+    "q6": "The game features a storyline centered around Chang'an with historical character interactions.",
+    "q7": 2,
+    "q8": "The anticipation of a rich storyline with historical character interactions suggests a high strategic depth."
+  },
+  {
+    "q0": 27778861,
+    "q3": "The game features appealing art style and character design.",
+    "q4": 2,
+    "q5": "The user expresses a strong liking for the art style and character design, indicating high satisfaction."
+  },
+  {
+    "q0": 27767626,
+    "q13": 0,
+    "q14": "The user notes a lack of female DPS classes, suggesting limited diversity in character roles."
+  },
+  {
+    "q0": 27765094,
+    "q15": "The user inquires about the presence of fishing or life-simulation elements, indicating interest in secondary gameplay features."
+  },
+  {
+    "q0": 27736798,
+    "q11": 0,
+    "q12": "The user hopes for distinct features for each class to avoid uniformity, indicating concerns about class balance."
+  },
+  {
+    "q0": 27734843,
+    "q15": "The game allows capturing of pets or spirits, which is a common feature in similar games."
+  },
+  {
+    "q0": 27723809,
+    "q15": "The game is designed for vertical screen play, but the user wishes for an option to switch between vertical and horizontal screens."
+  },
+  {
+    "q0": 27722860,
+    "q11": 2,
+    "q12": "The user emphasizes the importance of balanced values in turn-based games for long-term playability."
+  },
+  {
+    "q0": 27717766,
+    "q6": "The game features a well-written background story with emotional depth.",
+    "q7": 2,
+    "q8": "The presence of a compelling background story suggests a high level of strategic depth."
+  },
+  {
+    "q0": 27692655,
+    "q3": "The game features a visually appealing art style and character design.",
+    "q4": 2,
+    "q5": "The user is highly impressed with the art style and character design, indicating high satisfaction."
+  },
+  {
+    "q0": 27689163,
+    "q15": "The game allows capturing of spirits, which is a feature the user is particularly fond of."
+  },
+  {
+    "q0": 27685985,
+    "q6": "The game includes a faction with support-oriented skills, which can significantly benefit team compositions.",
+    "q7": 2,
+    "q8": "The presence of support-oriented skills in a faction suggests a high level of strategic depth."
+  },
+  {
+    "q0": 27680794,
+    "q6": "The game features innovative character designs and skills.",
+    "q7": 2,
+    "q8": "The innovative designs and skills indicate a high level of strategic depth."
+  },
+  {
+    "q0": 27660966,
+    "q15": "The game is a nurturing type, focusing on the growth and development of characters."
+  },
+  {
+    "q0": 27653774,
+    "q23": false,
+    "q24": "The game is a turn-based game without a gacha system, which is rare."
+  },
+  {
+    "q0": 27625371,
+    "q15": "The game is designed for vertical screen play, which the user finds convenient for casual play."
+  },
+  {
+    "q0": 27615132,
+    "q15": "The user requests a feature to switch between vertical and horizontal screen modes."
+  },
+  {
+    "q0": 27594420,
+    "q23": false,
+    "q24": "The game is a turn-based game without a gacha system, which is rare."
+  },
+  {
+    "q0": 27506193,
+    "q15": "The game features a nurturing mechanism for spirits, with an emphasis on not using materials to block progress."
+  },
+  {
+    "q0": 27493510,
+    "q21": -2,
+    "q22": "The user expresses frustration over the delayed release of the game."
+  },
+  {
+    "q0": 27414002,
+    "q15": "The user requests the ability to skip story content to focus on acquiring spirits."
+  },
+  {
+    "q0": 27395645,
+    "q6": "The game combines a traditional Chinese style with nurturing elements.",
+    "q7": 2,
+    "q8": "The combination of traditional Chinese style and nurturing elements suggests a high level of strategic depth."
+  },
+  {
+    "q0": 27263873,
+    "q15": "The game is a turn-based nurturing game, which the user hopes will have a relaxed pace."
+  }
+]
+```

@@ -1,0 +1,176 @@
+```json
+[
+  {
+    "q0": 36005130,
+    "q9": -2,
+    "q10": "The game requires too much time investment for daily tasks.",
+    "q27": 2,
+    "q28": "Non-paying users can still progress and get good resources.",
+    "q29": -2,
+    "q30": "Heavy time investment required for progression.",
+    "q31": 2,
+    "q32": "Good resources can be obtained even without spending money."
+  },
+  {
+    "q0": 35992310,
+    "q9": -2,
+    "q10": "Unable to obtain equipment despite significant investment.",
+    "q27": -2,
+    "q28": "Major features are inaccessible without significant spending."
+  },
+  {
+    "q0": 35933425,
+    "q9": 2,
+    "q10": "Convenient for casual play with minimal daily tasks.",
+    "q29": 2,
+    "q30": "The game allows for casual play without pressure to spend."
+  },
+  {
+    "q0": 35931897,
+    "q9": -2,
+    "q10": "The storyline is too long and tedious for new players."
+  },
+  {
+    "q0": 34868230,
+    "q27": -2,
+    "q28": "The game is not playable without spending money."
+  },
+  {
+    "q0": 35926374,
+    "q13": 2,
+    "q14": "The game offers a variety of characters and scenery suitable for new players."
+  },
+  {
+    "q0": 35918926,
+    "q9": 2,
+    "q10": "The game is considered fair and more generous compared to similar games.",
+    "q21": -2,
+    "q22": "New servers are opened too quickly, causing player attrition."
+  },
+  {
+    "q0": 35918432,
+    "q37": 2,
+    "q38": "The game is praised for its vertical screen and improved character modeling."
+  },
+  {
+    "q0": 35903562,
+    "q41": "Cannot see teammate data in the battle interface."
+  },
+  {
+    "q0": 35895815,
+    "q27": -2,
+    "q28": "High difficulty without spending money, leading to exclusion from groups."
+  },
+  {
+    "q0": 35893972,
+    "q9": 2,
+    "q10": "The game provides a rewarding experience for helping new players.",
+    "q29": -2,
+    "q30": "The game encourages grinding for rewards."
+  },
+  {
+    "q0": 35186998,
+    "q9": -2,
+    "q10": "Decreasing rewards and increasing costs make the game less enjoyable.",
+    "q29": -2,
+    "q30": "The game pressures players to spend due to low rewards and high costs."
+  },
+  {
+    "q0": 34874487,
+    "q11": -2,
+    "q12": "The game has balance issues with certain abilities triggering too frequently.",
+    "q27": -2,
+    "q28": "Players feel disadvantaged without spending money."
+  },
+  {
+    "q0": 35887557,
+    "q9": 2,
+    "q10": "Consistent participation in daily activities leads to steady progress."
+  },
+  {
+    "q0": 35483460,
+    "q9": -2,
+    "q10": "Activities are too difficult for average players."
+  },
+  {
+    "q0": 35873472,
+    "q29": -2,
+    "q30": "Events require spending to achieve full rewards."
+  },
+  {
+    "q0": 35863211,
+    "q9": -2,
+    "q10": "The game becomes repetitive and less engaging after a certain level.",
+    "q23": TRUE,
+    "q24": "Frequent card drawing events.",
+    "q29": -2,
+    "q30": "Frequent card drawing events pressure players to spend."
+  },
+  {
+    "q0": 35862539,
+    "q9": 2,
+    "q10": "The game is enjoyable with good graphics and engaging content.",
+    "q41": "Battles feel too long and activities are limited."
+  },
+  {
+    "q0": 35858467,
+    "q37": -2,
+    "q38": "The game causes the device to overheat quickly."
+  },
+  {
+    "q0": 35786818,
+    "q41": "Developers mistakenly issued rewards and deducted them, causing negative balances."
+  },
+  {
+    "q0": 35780754,
+    "q41": "Auction house items cannot be purchased with bound currency."
+  },
+  {
+    "q0": 35755559,
+    "q9": 2,
+    "q10": "The game offers various ways to earn resources without spending money.",
+    "q27": 2,
+    "q28": "Non-paying users can access all game features.",
+    "q29": 2,
+    "q30": "The game allows for progression without spending pressure.",
+    "q31": 2,
+    "q32": "Free resources are abundant and accessible."
+  },
+  {
+    "q0": 35742616,
+    "q9": -2,
+    "q10": "The game becomes frustrating due to balance issues and resource gaps.",
+    "q11": -2,
+    "q12": "Imbalanced matchmaking and resource gaps between players.",
+    "q27": -2,
+    "q28": "Significant resource gaps between paying and non-paying users."
+  },
+  {
+    "q0": 35711191,
+    "q11": -2,
+    "q12": "The game has balance issues with frequent changes based on player feedback.",
+    "q23": TRUE,
+    "q24": "Gacha system with unlisted probabilities.",
+    "q25": -2,
+    "q26": "Lack of transparency and inconsistencies in gacha probabilities."
+  },
+  {
+    "q0": 35703761,
+    "q13": -2,
+    "q14": "Limited pet options restrict strategic diversity."
+  },
+  {
+    "q0": 35680372,
+    "q37": -2,
+    "q38": "The game causes significant device overheating.",
+    "q41": "Poor customer service and lack of response to feedback."
+  },
+  {
+    "q0": 35603632,
+    "q13": -2,
+    "q14": "Limited pet options lead to repetitive strategies.",
+    "q27": -2,
+    "q28": "The game heavily favors paying users for progression."
+  }
+]
+```

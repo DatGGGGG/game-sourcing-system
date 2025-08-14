@@ -1,0 +1,72 @@
+```json
+[
+  {
+    "q0": 26654007,
+    "q3": "Vertical turn-based and vertical legend modes",
+    "q4": -1,
+    "q5": "The user finds vertical turn-based and vertical legend modes impractical and suggests a horizontal screen."
+  },
+  {
+    "q0": 26629856,
+    "q41": "Concerns about character modeling not matching the quality of illustrations."
+  },
+  {
+    "q0": 26598383,
+    "q41": "Positive feedback on the design of female characters and a request for better voice acting."
+  },
+  {
+    "q0": 26579779,
+    "q41": "Positive feedback on the game's storyline and immersion, with a request for improvements in character and weapon models."
+  },
+  {
+    "q0": 26493629,
+    "q3": "Turn-based combat",
+    "q5": "The user likes turn-based games with a national style.",
+    "q41": "Inquiry about pet lifespan mechanics."
+  },
+  {
+    "q0": 25824280,
+    "q41": "Interest in raising beginner pets."
+  },
+  {
+    "q0": 25806403,
+    "q41": "Finds national style games nice but a bit boring."
+  },
+  {
+    "q0": 25761764,
+    "q41": "Positive feedback on the cute art style and adorable pets."
+  },
+  {
+    "q0": 25759477,
+    "q41": "Hopes for good skill effects."
+  },
+  {
+    "q0": 25747000,
+    "q41": "Likes the art style and urges for faster release."
+  },
+  {
+    "q0": 25706699,
+    "q41": "Loves the art style."
+  },
+  {
+    "q0": 25609056,
+    "q41": "Positive feedback on the art style."
+  },
+  {
+    "q0": 25508913,
+    "q41": "Positive feedback on the illustrations."
+  },
+  {
+    "q0": 25486134,
+    "q41": "Positive feedback on the illustrations and anticipation for the game."
+  },
+  {
+    "q0": 25425348,
+    "q41": "Inquiry about AR features similar to another game."
+  },
+  {
+    "q0": 25307808,
+    "q41": "Inquiry about the connection between the game and the comic, with positive feedback on the art style."
+  }
+]
+```

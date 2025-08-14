@@ -1,0 +1,116 @@
+```json
+[
+  {
+    "q0": 34202142,
+    "q4": 1,
+    "q5": "The overall art style is quite good.",
+    "q9": -1,
+    "q10": "The game is too grindy."
+  },
+  {
+    "q0": 34195441,
+    "q4": 0,
+    "q5": "The gameplay needs to reduce the grind.",
+    "q9": -1,
+    "q10": "The game is too grindy, with too many limited-time events."
+  },
+  {
+    "q0": 34190605,
+    "q9": -2,
+    "q10": "The changes in the game have significantly weakened the experience for non-paying players and made it difficult to progress."
+  },
+  {
+    "q0": 34182116,
+    "q9": -2,
+    "q10": "The resources required are too many and hard to obtain, making the game too difficult to play."
+  },
+  {
+    "q0": 34180721,
+    "q9": -2,
+    "q10": "The game account was reclaimed by the official after a long effort, and customer service was unhelpful."
+  },
+  {
+    "q0": 33565173,
+    "q9": -2,
+    "q10": "The game is too pay-to-win, requiring too many resources and luck to obtain good equipment and pets.",
+    "q29": -2,
+    "q30": "The game is heavily pay-to-win, requiring significant spending to progress."
+  },
+  {
+    "q0": 34171532,
+    "q4": 2,
+    "q5": "The game has a good automatic system without a waiting time, making it enjoyable.",
+    "q9": 2,
+    "q10": "The game is less grindy compared to others, with fewer limited-time events.",
+    "q29": 2,
+    "q30": "The game does not require spending a few hundred dollars to be competitive."
+  },
+  {
+    "q0": 34165906,
+    "q3": "The game includes turn-based combat with various elements like formations, spirit masters, and spirit creatures.",
+    "q4": 2,
+    "q5": "The game offers a variety of combat styles, including both manual and automatic battles.",
+    "q6": "Formation, spirit masters, spirit creatures.",
+    "q7": 2,
+    "q8": "The game includes strategic elements like formations and spirit creatures, catering to different playstyles."
+  },
+  {
+    "q0": 34165259,
+    "q9": -2,
+    "q10": "The game has a heavy tax system in the auction house, making it difficult to progress without spending money.",
+    "q29": -2,
+    "q30": "The game has a heavy spending pressure due to the auction house tax and the need to recharge to buy items."
+  },
+  {
+    "q0": 34161370,
+    "q3": "The game includes strategy and card-based turn-based combat.",
+    "q4": 1,
+    "q5": "The game offers a strategy and card-based turn-based combat system, which is enjoyable.",
+    "q6": "Strategy, card-based turn-based combat.",
+    "q7": 1,
+    "q8": "The game has strategic elements, but some battles can be completed with automatic combat, reducing the strategic depth."
+  },
+  {
+    "q0": 34161353,
+    "q9": 1,
+    "q10": "The game offers various spirit creatures to nurture, providing a good progression experience."
+  },
+  {
+    "q0": 34156402,
+    "q9": -2,
+    "q10": "The game requires too much time for daily activities, making it exhausting to play.",
+    "q29": -2,
+    "q30": "The game has a heavy spending pressure due to the lack of free rewards and the need to recharge to progress."
+  },
+  {
+    "q0": 34152459,
+    "q9": -2,
+    "q10": "The game has many bugs and issues, making it difficult to progress without spending money.",
+    "q29": -2,
+    "q30": "The game has a heavy spending pressure due to the need to buy experience books and the lack of free rewards."
+  },
+  {
+    "q0": 34088374,
+    "q9": -2,
+    "q10": "The daily activities are too time-consuming, making it difficult to progress without spending money.",
+    "q29": -2,
+    "q30": "The game has a heavy spending pressure due to the auction house system and the need to recharge to buy items."
+  },
+  {
+    "q0": 34063431,
+    "q3": "The game includes turn-based combat with various classes and pet development.",
+    "q4": 2,
+    "q5": "The game offers a variety of combat styles and pet development, making it enjoyable.",
+    "q6": "Classes, pet development.",
+    "q7": 2,
+    "q8": "The game includes strategic elements like classes and pet development, catering to different playstyles.",
+    "q9": 2,
+    "q10": "The game offers a good progression experience with various tasks and activities."
+  },
+  {
+    "q0": 34057063,
+    "q9": -1,
+    "q10": "The game requires too much time for team activities and limited-time events, making it difficult to play."
+  }
+]
+```

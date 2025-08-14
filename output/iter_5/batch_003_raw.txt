@@ -1,0 +1,230 @@
+```json
+[
+  {
+    "q0": 40813100,
+    "q5": "The user finds the skills useful but suggests a balanced approach rather than maximizing output.",
+    "q8": "The user suggests balancing skills rather than maximizing output."
+  },
+  {
+    "q0": 40796823,
+    "q5": "The user appreciates recent updates that enhance player experience.",
+    "q9": 2,
+    "q10": "The user finds the game to be a top choice for turn-based games and suggests improvements for cross-server competitions."
+  },
+  {
+    "q0": 40793903,
+    "q5": "The user values the game's storyline and believes it should be the soul of the game.",
+    "q9": 2,
+    "q10": "The user appreciates the unfolding of the protagonist's story line as the game progresses."
+  },
+  {
+    "q0": 40773156,
+    "q5": "The user finds the graphics and audio pleasing and appreciates the smooth gameplay experience.",
+    "q9": 1,
+    "q10": "The user feels the game is average but enjoys the art style and smooth transitions."
+  },
+  {
+    "q0": 40704192,
+    "q9": -1,
+    "q10": "The user notes a decline in the status of certain characters as the game progresses."
+  },
+  {
+    "q0": 40647903,
+    "q5": "The user notes a shift in team composition due to the effectiveness of support characters.",
+    "q9": -1,
+    "q10": "The user observes changes in team dynamics due to the introduction of new characters."
+  },
+  {
+    "q0": 40618094,
+    "q5": "The user suggests a specific team composition for high difficulty activities.",
+    "q8": "The user discusses team composition strategies for high difficulty activities."
+  },
+  {
+    "q0": 40554561,
+    "q5": "The user reminisces about the game and highlights the importance of companions.",
+    "q9": 1,
+    "q10": "The user finds the game enjoyable but notes the need to keep up with resources."
+  },
+  {
+    "q0": 40521032,
+    "q5": "The user discusses the importance of speed in battles.",
+    "q8": "The user highlights the strategic importance of speed in battles."
+  },
+  {
+    "q0": 40528856,
+    "q5": "The user is frustrated with their character's performance compared to others.",
+    "q9": -1,
+    "q10": "The user is dissatisfied with their character's performance and balance."
+  },
+  {
+    "q0": 40523191,
+    "q5": "The user discusses the effectiveness of a specific character in battles.",
+    "q8": "The user analyzes the strategic use of a character in battles."
+  },
+  {
+    "q0": 39880801,
+    "q5": "The user suggests deleting the game for certain characters to reduce frustration.",
+    "q9": -2,
+    "q10": "The user is highly dissatisfied with the game experience for certain characters."
+  },
+  {
+    "q0": 39665481,
+    "q5": "The user compares the game unfavorably to another game, citing pay-to-win aspects.",
+    "q9": -1,
+    "q10": "The user is dissatisfied with the game's pay-to-win aspects compared to another game."
+  },
+  {
+    "q0": 39504848,
+    "q5": "The user expresses a strong liking for the game's art style.",
+    "q9": 2,
+    "q10": "The user is very satisfied with the game's art style."
+  },
+  {
+    "q0": 24906541,
+    "q5": "The user is disappointed with the game's increasing difficulty and decreasing rewards.",
+    "q9": -2,
+    "q10": "The user feels the game has deteriorated due to changes in difficulty and rewards."
+  },
+  {
+    "q0": 39496681,
+    "q5": "The user finds the game generally playable but criticizes a specific event.",
+    "q9": 0,
+    "q10": "The user has mixed feelings about the game, with specific criticism of an event."
+  },
+  {
+    "q0": 39474428,
+    "q5": "The user experiences technical issues with a specific feature.",
+    "q41": "The user reports technical issues with the fishing feature."
+  },
+  {
+    "q0": 39465740,
+    "q5": "The user finds the game reminiscent of Pokémon.",
+    "q9": 1,
+    "q10": "The user appreciates the game's similarity to Pokémon."
+  },
+  {
+    "q0": 39446573,
+    "q5": "The user is frustrated with undisclosed changes in the game.",
+    "q9": -2,
+    "q10": "The user is very dissatisfied with undisclosed changes in the game."
+  },
+  {
+    "q0": 39435712,
+    "q5": "The user praises the game's art style, storyline, voice acting, and combat experience.",
+    "q9": 2,
+    "q10": "The user is very satisfied with multiple aspects of the game."
+  },
+  {
+    "q0": 39423046,
+    "q5": "The user finds the game somewhat interesting but criticizes the cover art.",
+    "q9": 0,
+    "q10": "The user has mixed feelings about the game, with specific criticism of the cover art."
+  },
+  {
+    "q0": 39025093,
+    "q5": "The user is annoyed by aggressive advertising tactics.",
+    "q41": "The user reports aggressive advertising tactics."
+  },
+  {
+    "q0": 38886903,
+    "q5": "The user appreciates the variety of creatures available in the game.",
+    "q9": 1,
+    "q10": "The user is satisfied with the variety of creatures in the game."
+  },
+  {
+    "q0": 38741651,
+    "q5": "The user considers quitting the game after acquiring a specific item.",
+    "q9": -1,
+    "q10": "The user is dissatisfied with the game after acquiring a specific item."
+  },
+  {
+    "q0": 38669072,
+    "q5": "The user notes a decline in player population as they progressed in the game.",
+    "q9": -1,
+    "q10": "The user is dissatisfied with the declining player population."
+  },
+  {
+    "q0": 38472200,
+    "q5": "The user finds the game enjoyable and considers buying a higher-level account.",
+    "q9": 1,
+    "q10": "The user is satisfied with the game and considers further investment."
+  },
+  {
+    "q0": 38451090,
+    "q5": "The user is frustrated with the game's monetization and resource requirements.",
+    "q9": -2,
+    "q10": "The user is highly dissatisfied with the game's monetization and resource requirements."
+  },
+  {
+    "q0": 38367159,
+    "q5": "The user is frustrated with the difficulty of a specific game mechanic.",
+    "q9": -1,
+    "q10": "The user is dissatisfied with the difficulty of a specific game mechanic."
+  },
+  {
+    "q0": 38125706,
+    "q5": "The user appreciates the game's graphics and music.",
+    "q9": 1,
+    "q10": "The user is satisfied with the game's graphics and music."
+  },
+  {
+    "q0": 37991666,
+    "q5": "The user finds the game's aesthetics appealing.",
+    "q9": 2,
+    "q10": "The user is very satisfied with the game's aesthetics."
+  },
+  {
+    "q0": 37047970,
+    "q5": "The user is frustrated with changes to game mechanics and resources.",
+    "q9": -2,
+    "q10": "The user is highly dissatisfied with changes to game mechanics and resources."
+  },
+  {
+    "q0": 37634156,
+    "q5": "The user does not like the game's art style.",
+    "q9": -1,
+    "q10": "The user is dissatisfied with the game's art style."
+  },
+  {
+    "q0": 37571570,
+    "q5": "The user finds the game very enjoyable.",
+    "q9": 2,
+    "q10": "The user is very satisfied with the game."
+  },
+  {
+    "q0": 37388048,
+    "q5": "The user promotes the game and provides invitation codes.",
+    "q9": 1,
+    "q10": "The user is satisfied with the game and actively promotes it."
+  },
+  {
+    "q0": 36278421,
+    "q5": "The user discusses the necessity of spending money for competitive play.",
+    "q9": 0,
+    "q10": "The user has mixed feelings about the game's monetization model."
+  },
+  {
+    "q0": 34565770,
+    "q5": "The user is frustrated with the game's requirement for fixed login times.",
+    "q9": -1,
+    "q10": "The user is dissatisfied with the game's fixed login time requirement."
+  },
+  {
+    "q0": 36077568,
+    "q5": "The user is confused by in-game interactions.",
+    "q41": "The user reports confusing in-game interactions."
+  },
+  {
+    "q0": 36059801,
+    "q5": "The user finds the game suitable for casual play but suggests finding a consistent team for better experience.",
+    "q9": 1,
+    "q10": "The user is satisfied with the game's suitability for casual play."
+  },
+  {
+    "q0": 36058698,
+    "q5": "The user finds the game framework familiar but notes it can become tiresome.",
+    "q9": 0,
+    "q10": "The user has mixed feelings about the game's framework and energy consumption."
+  }
+]
+```

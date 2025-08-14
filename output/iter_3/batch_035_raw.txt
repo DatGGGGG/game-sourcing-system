@@ -1,0 +1,385 @@
+```json
+[
+  {
+    "q0": 34547389,
+    "q41": "Chat system issues, causing frustration."
+  },
+  {
+    "q0": 34547291,
+    "q27": 0,
+    "q28": "Currently, no aspect requires mandatory spending to progress.",
+    "q29": 1,
+    "q30": "Spending is not mandatory, but enjoyable spending is desired."
+  },
+  {
+    "q0": 34547270,
+    "q41": "Interesting fusion of elements: Tang Dynasty, anime, and mythical beasts."
+  },
+  {
+    "q0": 34547223,
+    "q41": "Continuous auto-pathing and idling, questioning the fun aspect."
+  },
+  {
+    "q0": 34547220,
+    "q29": -1,
+    "q30": "Concerns about forced spending based on previous experiences with the company."
+  },
+  {
+    "q0": 34547166,
+    "q41": "Feels like a web game."
+  },
+  {
+    "q0": 34546755,
+    "q31": -2,
+    "q32": "Very stingy with rewards, no free draws, and minimal compensation.",
+    "q41": "Poor modeling and music, misleading pet capture mechanics, long and unskippable tutorials, and lag issues."
+  },
+  {
+    "q0": 34546969,
+    "q41": "Auto-pathing is boring, storyline is cliché, and limited pets."
+  },
+  {
+    "q0": 34546939,
+    "q41": "Uninteresting, chibi-style legendary game."
+  },
+  {
+    "q0": 34546930,
+    "q4": 2,
+    "q5": "High damage and flashy skill effects, suitable for casual players.",
+    "q41": "Recommended Dragon Palace faction for casual players."
+  },
+  {
+    "q0": 34546899,
+    "q9": -2,
+    "q10": "Long and unskippable storyline, level progression issues.",
+    "q31": -2,
+    "q32": "Minimal rewards, requiring a large amount of items for significant rewards."
+  },
+  {
+    "q0": 34546800,
+    "q41": "Similar to Dream of the Red Chamber, lacks innovation."
+  },
+  {
+    "q0": 34546779,
+    "q41": "Game lacks identity."
+  },
+  {
+    "q0": 34546775,
+    "q41": "Rollback issues causing loss of legendary pets."
+  },
+  {
+    "q0": 25707207,
+    "q29": -2,
+    "q30": "Game is unplayable without spending."
+  },
+  {
+    "q0": 34546680,
+    "q41": "Copy of Dream of the Red Chamber with poor execution, limited map visibility, and forced manual tasks."
+  },
+  {
+    "q0": 34546669,
+    "q41": "Tangmen faction is powerful but requires high investment."
+  },
+  {
+    "q0": 34546650,
+    "q41": "Limited pet variety, repetitive tasks, and lack of innovation."
+  },
+  {
+    "q0": 34546629,
+    "q41": "Reskinned card game with automatic tasks and battles."
+  },
+  {
+    "q0": 34546557,
+    "q41": "Minimal rewards at game launch."
+  },
+  {
+    "q0": 34541149,
+    "q41": "Server queue issues preventing gameplay."
+  },
+  {
+    "q0": 34546480,
+    "q29": 1,
+    "q30": "Friendly to non-spending players, with optional spending for rare items.",
+    "q41": "Slow combat and lack of resource visibility."
+  },
+  {
+    "q0": 34546477,
+    "q29": -2,
+    "q30": "Heavy spending required with minimal rewards."
+  },
+  {
+    "q0": 34546429,
+    "q41": "Low playability and lack of innovation."
+  },
+  {
+    "q0": 34546395,
+    "q41": "Recommended team composition for effective gameplay."
+  },
+  {
+    "q0": 34546392,
+    "q41": "Lacks engaging content to retain players."
+  },
+  {
+    "q0": 34546390,
+    "q41": "Lack of promised rewards and misleading promotional content."
+  },
+  {
+    "q0": 34546377,
+    "q41": "Positive feedback on character design and aesthetics."
+  },
+  {
+    "q0": 34546096,
+    "q41": "Reskinned game with lack of innovation and potential presence of bots."
+  },
+  {
+    "q0": 34546303,
+    "q41": "Misleading promotional content, lacks originality."
+  },
+  {
+    "q0": 34546276,
+    "q41": "Low playability and issues with turn-based mechanics."
+  },
+  {
+    "q0": 34546268,
+    "q29": 1,
+    "q30": "Optional spending with reasonable rewards for non-spenders.",
+    "q41": "Presence of bugs and misleading promotional content."
+  },
+  {
+    "q0": 34546243,
+    "q41": "Low-quality production and lack of originality."
+  },
+  {
+    "q0": 34546229,
+    "q41": "Limited registration options for international players."
+  },
+  {
+    "q0": 34546191,
+    "q41": "Poorly executed storyline."
+  },
+  {
+    "q0": 34546150,
+    "q41": "High data usage for minimal gameplay."
+  },
+  {
+    "q0": 34546085,
+    "q41": "Forced team play and time-consuming tasks."
+  },
+  {
+    "q0": 34546030,
+    "q41": "Lack of early game experience for Dragon Palace faction."
+  },
+  {
+    "q0": 34546021,
+    "q41": "Repetitive content and lack of innovation."
+  },
+  {
+    "q0": 34546012,
+    "q41": "Inferior economic system compared to other games."
+  },
+  {
+    "q0": 34545049,
+    "q41": "Issues with server stability and in-game economy."
+  },
+  {
+    "q0": 34545913,
+    "q41": "Extremely boring and outdated gameplay."
+  },
+  {
+    "q0": 34545887,
+    "q41": "Positive feedback on storyline."
+  },
+  {
+    "q0": 34545824,
+    "q41": "Challenging account creation process."
+  },
+  {
+    "q0": 34545795,
+    "q41": "Overwhelming and uninteresting content."
+  },
+  {
+    "q0": 34545739,
+    "q41": "Poor pet design and uncomfortable UI."
+  },
+  {
+    "q0": 34545713,
+    "q41": "Desire for more mythical creatures."
+  },
+  {
+    "q0": 34545692,
+    "q41": "Similar to Shenwu."
+  },
+  {
+    "q0": 34540723,
+    "q41": "Server issues and presence of bots."
+  },
+  {
+    "q0": 34545672,
+    "q41": "Boring and lengthy tutorials."
+  },
+  {
+    "q0": 34545653,
+    "q41": "Reskinned web game with poor quality."
+  },
+  {
+    "q0": 34545588,
+    "q41": "Misleading promotional content."
+  },
+  {
+    "q0": 34545581,
+    "q41": "Advice on resource management for long-term play."
+  },
+  {
+    "q0": 34545577,
+    "q41": "Simplified version of Dream of the Red Chamber."
+  },
+  {
+    "q0": 34545571,
+    "q41": "Server queue issues affecting gameplay."
+  },
+  {
+    "q0": 34545559,
+    "q41": "Reskinned idle game with numerous spending opportunities."
+  },
+  {
+    "q0": 34545450,
+    "q41": "Strategy for a challenging event."
+  },
+  {
+    "q0": 34545370,
+    "q41": "Lack of innovation and outdated gameplay."
+  },
+  {
+    "q0": 34545348,
+    "q41": "Similar to Dream of the Red Chamber with poor execution."
+  },
+  {
+    "q0": 34545272,
+    "q41": "Strategy for a challenging event."
+  },
+  {
+    "q0": 34545265,
+    "q41": "Frequent updates causing inconvenience."
+  },
+  {
+    "q0": 34545250,
+    "q41": "Uninteresting gameplay."
+  },
+  {
+    "q0": 34545197,
+    "q41": "Repetitive and unskippable storyline."
+  },
+  {
+    "q0": 34545124,
+    "q41": "Unreasonable pricing for in-game items."
+  },
+  {
+    "q0": 34545110,
+    "q41": "Vertical version of Dream of the Red Chamber."
+  },
+  {
+    "q0": 34545098,
+    "q41": "Recommendation for using a specific pet."
+  },
+  {
+    "q0": 34545079,
+    "q41": "Positive feedback on gameplay."
+  },
+  {
+    "q0": 34544965,
+    "q41": "Misleading promotional content and lack of rewards."
+  },
+  {
+    "q0": 34544907,
+    "q41": "Simplified version of Dream of the Red Chamber with limited pet variety."
+  },
+  {
+    "q0": 34544792,
+    "q41": "Misleading promotional content regarding pet capture."
+  },
+  {
+    "q0": 34544790,
+    "q41": "Uninteresting storyline."
+  },
+  {
+    "q0": 34544783,
+    "q41": "Low rating for turn-based games."
+  },
+  {
+    "q0": 34544746,
+    "q41": "Positive feedback on gameplay."
+  },
+  {
+    "q0": 34544738,
+    "q41": "New player rewards require payment."
+  },
+  {
+    "q0": 34544685,
+    "q41": "Auto-pathing feature disliked."
+  },
+  {
+    "q0": 34544614,
+    "q41": "Poor quality compared to mini-programs."
+  },
+  {
+    "q0": 34544557,
+    "q41": "Positive feedback on graphics."
+  },
+  {
+    "q0": 34544537,
+    "q41": "Poor execution of copied content."
+  },
+  {
+    "q0": 34544529,
+    "q41": "Misleading promotional content regarding trading."
+  },
+  {
+    "q0": 34544460,
+    "q41": "Dislike for slow-paced turn-based combat."
+  },
+  {
+    "q0": 34544375,
+    "q41": "Negative feedback on game design and management."
+  },
+  {
+    "q0": 34544367,
+    "q41": "Poor quality reskinned web game."
+  },
+  {
+    "q0": 34478885,
+    "q41": "Server issues and high cost of in-game items."
+  },
+  {
+    "q0": 34544350,
+    "q41": "Server registration issues."
+  },
+  {
+    "q0": 34544317,
+    "q41": "Positive feedback on audio design."
+  },
+  {
+    "q0": 34544272,
+    "q41": "Ability to create custom skill builds."
+  },
+  {
+    "q0": 34544246,
+    "q41": "Positive feedback on vertical screen and spending options."
+  },
+  {
+    "q0": 34543983,
+    "q41": "Disappointment with misleading promotional content and server management."
+  },
+  {
+    "q0": 34544144,
+    "q41": "Lack of engaging content and poor management."
+  },
+  {
+    "q0": 34544124,
+    "q41": "Uninteresting gameplay."
+  },
+  {
+    "q0": 34544112,
+    "q41": "Outdated gameplay and heavy spending requirements."
+  }
+]
+```

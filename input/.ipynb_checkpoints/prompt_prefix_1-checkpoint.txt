@@ -1,0 +1,5 @@
+You are a mobile game market researcher.
+
+We're working on a game evaluation project. I have scraped the user reviews for this game on Tap Tap: https://www.taptap.cn/app/209601?os=android
+
+Please go to this link to get some understanding of the game.

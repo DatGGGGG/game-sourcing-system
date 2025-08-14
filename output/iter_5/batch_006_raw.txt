@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "q0": 35483423,
+    "q19": 2,
+    "q20": "Resources are easy to obtain."
+  },
+  {
+    "q0": 35483313,
+    "q27": 2,
+    "q28": "The game can be played without spending money."
+  },
+  {
+    "q0": 35483301,
+    "q15": "Guild activities with red envelopes.",
+    "q16": false
+  },
+  {
+    "q0": 35483280,
+    "q27": 2,
+    "q28": "The game is playable with just a monthly card."
+  },
+  {
+    "q0": 35483256,
+    "q15": "Social interactions and resource management.",
+    "q16": false
+  },
+  {
+    "q0": 35483004,
+    "q9": 2,
+    "q10": "The game is beginner-friendly with many guides."
+  },
+  {
+    "q0": 35482889,
+    "q9": -1,
+    "q10": "Game performance is okay, but rewards have been reduced."
+  },
+  {
+    "q0": 35482846,
+    "q19": 2,
+    "q20": "Very good for resource acquisition in a casual setting."
+  },
+  {
+    "q0": 35482504,
+    "q15": "Casual gameplay without intense grinding.",
+    "q16": false
+  },
+  {
+    "q0": 35482271,
+    "q9": 2,
+    "q10": "The game is very playable with strong longevity."
+  }
+]
+```

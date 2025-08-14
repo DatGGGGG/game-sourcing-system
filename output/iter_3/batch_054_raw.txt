@@ -1,0 +1,91 @@
+```json
+[
+  {
+    "q0": 27310411,
+    "q3": "Players become spirit masters to capture and control spirits, maintaining balance between humans and spirits.",
+    "q4": 2,
+    "q5": "Players are tasked with capturing spirits and maintaining balance, which is engaging.",
+    "q6": "Capturing spirits, maintaining balance between humans and spirits.",
+    "q7": 2,
+    "q8": "The strategic element of capturing and controlling spirits adds depth.",
+    "q9": 2,
+    "q10": "The progression involves becoming a spirit master and capturing spirits.",
+    "q13": 2,
+    "q14": "Diverse spirits to capture and control offer varied team compositions."
+  },
+  {
+    "q0": 27195908,
+    "q23": false,
+    "q25": -1,
+    "q26": "Concerns about the capture system being more exploitative than gacha.",
+    "q31": -1,
+    "q32": "Concerns about the capture system being more exploitative than gacha."
+  },
+  {
+    "q0": 27050622,
+    "q6": "Character roles, race-specific skills, tactical support, and unique race abilities.",
+    "q7": 2,
+    "q8": "Detailed suggestions for race-specific skills and tactical support indicate depth.",
+    "q25": -1,
+    "q26": "Preference for non-gacha systems, suggesting buy-to-play and cosmetic monetization.",
+    "q27": 2,
+    "q28": "Suggestions for non-gacha monetization imply better access for non-paying users.",
+    "q29": 2,
+    "q30": "Preference for cosmetic monetization, avoiding pay-to-win elements.",
+    "q31": 2,
+    "q32": "Preference for non-gacha monetization, focusing on cosmetics."
+  },
+  {
+    "q0": 26890928,
+    "q21": 2,
+    "q22": "Active forum presence and frequent posts by developers indicate regular updates.",
+    "q29": -2,
+    "q30": "Concerns about heavy monetization and the impact on game longevity."
+  },
+  {
+    "q0": 26789621,
+    "q23": false,
+    "q25": 2,
+    "q26": "Positive feedback for not having a gacha system."
+  },
+  {
+    "q0": 26739166,
+    "q29": 1,
+    "q30": "Willingness to spend for aesthetics, but not under pressure."
+  },
+  {
+    "q0": 26646048,
+    "q29": -2,
+    "q30": "Dislike for games with constant prompts to spend money."
+  },
+  {
+    "q0": 26594294,
+    "q3": "Capture system for spirits with progression through stages.",
+    "q4": 1,
+    "q5": "Capture and progression system adds interest.",
+    "q6": "Capture system, progression through stages, spirit balance.",
+    "q7": 2,
+    "q8": "Capture and progression system adds strategic depth.",
+    "q9": 2,
+    "q10": "Capture and progression system provides a clear path.",
+    "q11": 2,
+    "q12": "Emphasis on balancing spirits for fair gameplay.",
+    "q13": 2,
+    "q14": "Diverse spirit types allow for varied team compositions.",
+    "q23": false,
+    "q25": 2,
+    "q26": "Capture system praised for not relying on gacha."
+  },
+  {
+    "q0": 26442957,
+    "q3": "Spirit capture system with various spirit types.",
+    "q4": 2,
+    "q5": "Capture system with diverse spirits is engaging.",
+    "q6": "Spirit capture system, diverse spirit types.",
+    "q7": 2,
+    "q8": "Capture system with diverse spirits offers strategic depth.",
+    "q13": 2,
+    "q14": "Diverse spirit types allow for varied team compositions."
+  }
+]
+```

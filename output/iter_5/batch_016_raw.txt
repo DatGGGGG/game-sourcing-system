@@ -1,0 +1,112 @@
+```json
+[
+  {
+    "q0": 28262601,
+    "q5": "The user is frustrated with the delay and has decided not to wait any longer, indicating dissatisfaction with the game's release schedule."
+  },
+  {
+    "q0": 28139254,
+    "q5": "The user expresses a positive opinion about the art style and is looking forward to the game's release."
+  },
+  {
+    "q0": 28068393,
+    "q5": "The user's daughter appreciates the game's graphics, indicating a positive reception of the visual design."
+  },
+  {
+    "q0": 27986353,
+    "q5": "The user suggests that 'Shu Ling' could be more interactive, indicating a desire for more engaging features."
+  },
+  {
+    "q0": 27780279,
+    "q5": "The user appreciates the design of a character, 'Di Da Ren,' despite it differing from their initial expectations."
+  },
+  {
+    "q0": 27704919,
+    "q5": "The user suggests the game could develop into a healing-themed mobile game due to its elements like cats and dogs, indicating a positive reception of these elements."
+  },
+  {
+    "q0": 27646819,
+    "q5": "The user is frustrated with the game's delayed release, comparing it to a company with empty promises."
+  },
+  {
+    "q0": 24968931,
+    "q5": "The user has been waiting since 2020 and is frustrated with the repeated delays and lack of communication from the developers."
+  },
+  {
+    "q0": 27580221,
+    "q5": "The user is frustrated with the game's repeated delays, indicating dissatisfaction with the release schedule."
+  },
+  {
+    "q0": 27571794,
+    "q5": "The user appreciates the game's art style and cute characters but hopes the game won't be too demanding in terms of gameplay."
+  },
+  {
+    "q0": 27567203,
+    "q5": "The user has high expectations for the game and hopes it will meet them upon release."
+  },
+  {
+    "q0": 27504521,
+    "q5": "The user expresses a positive opinion about the characters' designs, indicating satisfaction with the game's art style."
+  },
+  {
+    "q0": 27480267,
+    "q5": "The user appreciates the art style but is waiting for more information on gameplay."
+  },
+  {
+    "q0": 27478690,
+    "q5": "The user suggests potential collaborations with domestic animations or movies featuring animals, indicating a positive reception of the game's animal-themed elements."
+  },
+  {
+    "q0": 27217914,
+    "q5": "The user is curious about potential synergies between characters, indicating interest in strategic gameplay elements."
+  },
+  {
+    "q0": 27195395,
+    "q5": "The user is attracted to the game's art style and cute characters, indicating a positive reception of these elements."
+  },
+  {
+    "q0": 27181349,
+    "q5": "The user prefers games that are not in portrait mode, indicating a preference for landscape orientation."
+  },
+  {
+    "q0": 27005540,
+    "q5": "The user finds the game's cute characters uplifting and suggests adding interaction features with them."
+  },
+  {
+    "q0": 26992857,
+    "q5": "The user appreciates the game's art and design, noting the cat-themed elements."
+  },
+  {
+    "q0": 26914630,
+    "q5": "The user suggests a PC version for better graphics, indicating a desire for high-quality visuals."
+  },
+  {
+    "q0": 26894883,
+    "q5": "The user has high expectations for the game and is willing to wait for a well-made release."
+  },
+  {
+    "q0": 26872185,
+    "q5": "The user hopes the developers focus on making a good game rather than monetization."
+  },
+  {
+    "q0": 26811882,
+    "q5": "The user is impressed with the character designs and hopes obtaining certain characters won't be too difficult."
+  },
+  {
+    "q0": 26751947,
+    "q5": "The user accuses the game of copying models from other games, indicating dissatisfaction with originality."
+  },
+  {
+    "q0": 26746808,
+    "q5": "The user is attracted to the game's art style and character designs, indicating a positive reception of these elements."
+  },
+  {
+    "q0": 26678985,
+    "q5": "The user finds the art style very appealing and praises the character designs."
+  },
+  {
+    "q0": 26675512,
+    "q5": "The user, being from Xi'an, is curious about how the game will incorporate local landmarks into its world."
+  }
+]
+```

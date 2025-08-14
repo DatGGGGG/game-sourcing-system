@@ -1,0 +1,215 @@
+```json
+[
+  {
+    "q0": 34537348,
+    "q9": 1,
+    "q10": "The early game is challenging, but once past it, the game becomes enjoyable with rich content."
+  },
+  {
+    "q0": 34537063,
+    "q9": 2,
+    "q10": "The game content is rich and enjoyable, with a learning curve that can be overcome with guides."
+  },
+  {
+    "q0": 34537056,
+    "q25": 2,
+    "q26": "High drop rates and good value for daily outputs."
+  },
+  {
+    "q0": 34536948,
+    "q3": "Dragon Palace focuses on group attacks with high total output but low single-target damage.",
+    "q4": 1,
+    "q5": "Group attacks are effective in team settings, and the healer role is essential in teams.",
+    "q11": 1,
+    "q12": "Different roles like Dragon Palace and healer have distinct strengths in team settings."
+  },
+  {
+    "q0": 34536873,
+    "q21": 2,
+    "q22": "The art and scene construction are exquisite, with detailed light and shadow effects."
+  },
+  {
+    "q0": 34536831,
+    "q15": "Buying discounted items in the Ghost Market and reselling them for profit.",
+    "q16": false,
+    "q17": 2,
+    "q18": "Simple and profitable secondary loop.",
+    "q19": 2,
+    "q20": "Profitable due to price differences in the market."
+  },
+  {
+    "q0": 34536656,
+    "q9": 2,
+    "q10": "Certain characters like Earth Spirit Fox are very useful and easy to acquire early on."
+  },
+  {
+    "q0": 34536631,
+    "q11": 2,
+    "q12": "Character design is highly effective and well-balanced."
+  },
+  {
+    "q0": 34536382,
+    "q15": "Magic treasures have different qualities affecting attributes and talent slots.",
+    "q16": false,
+    "q17": 1,
+    "q18": "The system is straightforward with clear quality progression."
+  },
+  {
+    "q0": 34536357,
+    "q27": -2,
+    "q28": "Non-paying users have limited access to major features.",
+    "q29": -2,
+    "q30": "The game is heavily pay-to-win, with significant advantages for paying users."
+  },
+  {
+    "q0": 34483718,
+    "q3": "The game is less grindy with flexible team requirements for daily activities.",
+    "q4": 2,
+    "q5": "Daily activities can be completed in about an hour without needing fixed teams.",
+    "q6": "Unique skills for each spirit, similar to card games.",
+    "q7": 2,
+    "q8": "Each spirit has unique skills and mechanics, adding depth to gameplay.",
+    "q21": 1,
+    "q22": "The game has plans for new content to address repetitive gameplay at higher levels."
+  },
+  {
+    "q0": 34536146,
+    "q6": "Different factions have unique roles like healing, control, and damage.",
+    "q7": 1,
+    "q8": "Each faction has distinct roles, allowing for strategic team compositions."
+  },
+  {
+    "q0": 34536080,
+    "q41": "Concerns about the game being a re-skin with no meaningful content."
+  },
+  {
+    "q0": 34535989,
+    "q15": "Catching mutant pets using gourds or refining them.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple mechanics for obtaining and refining mutant pets."
+  },
+  {
+    "q0": 34535898,
+    "q3": "Control and nurturing gameplay with spirits.",
+    "q4": 2,
+    "q5": "Spirits can be powerful with the right nurturing, offering diverse gameplay options.",
+    "q11": 1,
+    "q12": "Different factions and spirits offer varied gameplay experiences."
+  },
+  {
+    "q0": 34535770,
+    "q3": "Turn-based card strategy game with faction and spirit choices.",
+    "q4": 1,
+    "q5": "The game combines turn-based mechanics with strategic choices in factions and spirits."
+  },
+  {
+    "q0": 34535739,
+    "q15": "Semi-automatic monster fighting with card mechanics.",
+    "q16": false,
+    "q17": 1,
+    "q18": "The secondary loop is straightforward with clear mechanics.",
+    "q19": 1,
+    "q20": "The game offers reasonable rewards for participation."
+  },
+  {
+    "q0": 34535652,
+    "q3": "PvP gameplay with ranking matches and five-gate challenges.",
+    "q4": 1,
+    "q5": "PvP offers strategic depth with team composition and role selection.",
+    "q6": "Team composition with damage and support roles.",
+    "q7": 1,
+    "q8": "Strategic team compositions are important for success in PvP."
+  },
+  {
+    "q0": 34535560,
+    "q15": "Maximizing resource acquisition through market and shop purchases.",
+    "q16": false,
+    "q17": 1,
+    "q18": "The system encourages strategic spending for resource optimization.",
+    "q19": 1,
+    "q20": "The game offers opportunities to acquire valuable resources through strategic purchases."
+  },
+  {
+    "q0": 34535416,
+    "q41": "The game lacks a joystick for movement, making navigation awkward."
+  },
+  {
+    "q0": 34535179,
+    "q11": 1,
+    "q12": "The reviewer hopes for balanced characters and diverse team compositions.",
+    "q13": 1,
+    "q14": "The reviewer desires more diverse team compositions and strategies."
+  },
+  {
+    "q0": 34535079,
+    "q29": -1,
+    "q30": "The game lacks innovation and relies on chat for engagement.",
+    "q31": -1,
+    "q32": "The game could benefit from new gameplay features to keep players engaged."
+  },
+  {
+    "q0": 34534978,
+    "q21": 1,
+    "q22": "The game features unique character designs and voice acting, enhancing the experience."
+  },
+  {
+    "q0": 34534877,
+    "q21": 1,
+    "q22": "The game is mature, but feedback should be considered for improvements."
+  },
+  {
+    "q0": 34534745,
+    "q21": 1,
+    "q22": "The game shows signs of improvement with new features like fashion."
+  },
+  {
+    "q0": 34534625,
+    "q21": -1,
+    "q22": "Interesting gameplay features are limited-time, reducing accessibility."
+  },
+  {
+    "q0": 34534499,
+    "q11": -1,
+    "q12": "The game lacks diversity in faction choices, leading to overcrowding in certain roles."
+  },
+  {
+    "q0": 34534161,
+    "q21": 1,
+    "q22": "The game has well-voiced NPCs, but the background music needs improvement."
+  },
+  {
+    "q0": 34534091,
+    "q29": 1,
+    "q30": "The game is not heavily pay-to-win, allowing free players to enjoy it."
+  },
+  {
+    "q0": 34533989,
+    "q41": "The game has challenging elements like Thunder, which can be frustrating."
+  },
+  {
+    "q0": 34533870,
+    "q15": "Purchasing items in the Ghost Market and guild shop to improve scores.",
+    "q16": false,
+    "q17": 1,
+    "q18": "The system encourages strategic purchases for score improvement.",
+    "q19": 1,
+    "q20": "The game offers valuable items for purchase to enhance gameplay."
+  },
+  {
+    "q0": 34533807,
+    "q11": -1,
+    "q12": "The Tangmen class is perceived as weak and in need of improvement."
+  },
+  {
+    "q0": 34533527,
+    "q21": 1,
+    "q22": "The game has a good art style but relies on traditional turn-based mechanics."
+  },
+  {
+    "q0": 34533036,
+    "q21": 1,
+    "q22": "The game appears enjoyable and has potential."
+  }
+]
+```

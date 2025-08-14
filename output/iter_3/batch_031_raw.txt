@@ -1,0 +1,406 @@
+```json
+[
+  {
+    "q0": 34570710,
+    "q6": "Different equipment parts have different attributes and effects."
+  },
+  {
+    "q0": 34570702,
+    "q4": 2,
+    "q5": "The game has absorbed the essence of many excellent turn-based games and created its own style."
+  },
+  {
+    "q0": 34570562,
+    "q11": -1,
+    "q12": "Faction balance needs improvement as some factions are more popular but not necessarily stronger."
+  },
+  {
+    "q0": 34558016,
+    "q9": -2,
+    "q10": "The game is boring, has forced social interactions, and poor welfare.",
+    "q27": -2,
+    "q28": "Free players have a poor experience.",
+    "q29": -2,
+    "q30": "There are many monetization points, making it difficult for free players."
+  },
+  {
+    "q0": 34570370,
+    "q13": 1,
+    "q14": "The game allows for different team builds, such as using a bear as a tank."
+  },
+  {
+    "q0": 34570348,
+    "q4": 2,
+    "q5": "The game has improved graphics and gameplay compared to similar games.",
+    "q11": 1,
+    "q12": "The game balance is decent, allowing non-paying players to enjoy the game."
+  },
+  {
+    "q0": 34570244,
+    "q9": 1,
+    "q10": "Game progression becomes more exciting after reaching level 64 with new abilities.",
+    "q11": 1,
+    "q12": "Certain classes become significantly stronger at higher levels."
+  },
+  {
+    "q0": 34570233,
+    "q9": -1,
+    "q10": "The game lacks a job change feature, making it difficult for players who chose the wrong class."
+  },
+  {
+    "q0": 34570221,
+    "q4": -1,
+    "q5": "The game is a copy of other games and lacks originality.",
+    "q15": "Pet evolution system similar to another game.",
+    "q17": -1,
+    "q18": "The secondary loop is not as enjoyable as other games."
+  },
+  {
+    "q0": 34570131,
+    "q9": -2,
+    "q10": "The game feels like a job with daily tasks."
+  },
+  {
+    "q0": 34570102,
+    "q13": 1,
+    "q14": "Certain pets, like the Kirin, are very effective for specific tasks like tower climbing."
+  },
+  {
+    "q0": 34569985,
+    "q6": "Equipment has different attributes and effects; pets have complex skill combinations.",
+    "q13": 1,
+    "q14": "The game offers a wide variety of pets and skill combinations."
+  },
+  {
+    "q0": 34569977,
+    "q11": -1,
+    "q12": "Certain classes are not recommended for beginners due to their weaker performance in early stages."
+  },
+  {
+    "q0": 34569928,
+    "q4": 1,
+    "q5": "The combat system is simple but requires strategic thinking.",
+    "q6": "Strategy involves choosing the right team composition for different monsters.",
+    "q7": 1,
+    "q8": "The game requires players to think strategically about team composition."
+  },
+  {
+    "q0": 34569914,
+    "q9": -2,
+    "q10": "The game feels repetitive and lacks engaging content.",
+    "q27": -2,
+    "q28": "Free players have limited access to engaging content.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money to enjoy more content."
+  },
+  {
+    "q0": 34569831,
+    "q29": 1,
+    "q30": "Spending is manageable if players control their spending habits."
+  },
+  {
+    "q0": 34569665,
+    "q9": -2,
+    "q10": "The game has poor art and outdated gameplay."
+  },
+  {
+    "q0": 34569216,
+    "q29": 1,
+    "q30": "Most items can be purchased with in-game currency."
+  },
+  {
+    "q0": 34569054,
+    "q9": -2,
+    "q10": "The game feels like a job with scheduled tasks.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money, even on beginner benefits."
+  },
+  {
+    "q0": 34569006,
+    "q9": -2,
+    "q10": "The game is not enjoyable."
+  },
+  {
+    "q0": 34568996,
+    "q21": -2,
+    "q22": "The game frequently undergoes maintenance without announcements."
+  },
+  {
+    "q0": 34568770,
+    "q15": "Social interactions and forming relationships with other players."
+  },
+  {
+    "q0": 34568661,
+    "q15": "Helping others with quests and forming friendships through gameplay."
+  },
+  {
+    "q0": 34568558,
+    "q15": "Reaching level 38 unlocks the relationship feature."
+  },
+  {
+    "q0": 34568544,
+    "q9": 1,
+    "q10": "The game offers interesting character designs and art."
+  },
+  {
+    "q0": 34568535,
+    "q9": 1,
+    "q10": "The game has a nice art style and allows for group play."
+  },
+  {
+    "q0": 34568482,
+    "q9": 1,
+    "q10": "The game features unique and well-designed maps."
+  },
+  {
+    "q0": 34568382,
+    "q9": 1,
+    "q10": "The game has an appealing art style that attracts players."
+  },
+  {
+    "q0": 34568298,
+    "q9": 1,
+    "q10": "The game offers a lot of content and resources."
+  },
+  {
+    "q0": 34568211,
+    "q9": 1,
+    "q10": "The game features impressive character designs."
+  },
+  {
+    "q0": 34568166,
+    "q9": 1,
+    "q10": "The game has cute and appealing elements."
+  },
+  {
+    "q0": 34568163,
+    "q9": 1,
+    "q10": "The game features attractive character designs."
+  },
+  {
+    "q0": 34568127,
+    "q29": -2,
+    "q30": "The game constantly changes and pressures players to spend money."
+  },
+  {
+    "q0": 34568071,
+    "q13": 1,
+    "q14": "The game allows for strategic pet combinations to reduce pressure on certain characters."
+  },
+  {
+    "q0": 34568040,
+    "q4": -1,
+    "q5": "The game is a copy of another game with little originality."
+  },
+  {
+    "q0": 34568000,
+    "q15": "Upgrading equipment using in-game currency."
+  },
+  {
+    "q0": 34567989,
+    "q11": -1,
+    "q12": "Certain characters have clear strengths and weaknesses, leading to imbalance."
+  },
+  {
+    "q0": 34567981,
+    "q9": -2,
+    "q10": "The game requires a lot of time commitment daily."
+  },
+  {
+    "q0": 34567963,
+    "q9": 1,
+    "q10": "The game is enjoyable for casual play."
+  },
+  {
+    "q0": 34567946,
+    "q15": "The relationship feature is highly anticipated by players."
+  },
+  {
+    "q0": 34567921,
+    "q21": 1,
+    "q22": "Players are looking forward to new updates and content."
+  },
+  {
+    "q0": 34567894,
+    "q6": "The game features a treasure system that can be equipped by players."
+  },
+  {
+    "q0": 34567706,
+    "q9": 1,
+    "q10": "The game has an appealing art style that attracts players."
+  },
+  {
+    "q0": 34562912,
+    "q29": -2,
+    "q30": "The game heavily pressures players to spend money to progress.",
+    "q31": -2,
+    "q32": "The game offers very little in terms of free rewards for non-paying players."
+  },
+  {
+    "q0": 34565171,
+    "q11": -1,
+    "q12": "Certain classes are easier to play than others."
+  },
+  {
+    "q0": 34565004,
+    "q4": 1,
+    "q5": "The combat system is interesting, with battles involving multiple enemies.",
+    "q6": "Players can use pets like foxes to handle multiple enemies."
+  },
+  {
+    "q0": 34564867,
+    "q9": 1,
+    "q10": "The game has good music and is well-made for a vertical screen game."
+  },
+  {
+    "q0": 34564824,
+    "q11": 1,
+    "q12": "Certain characters can achieve high damage output with the right setup."
+  },
+  {
+    "q0": 34564806,
+    "q11": 1,
+    "q12": "Certain characters are strong in both PvP and PvE."
+  },
+  {
+    "q0": 34564724,
+    "q15": "The game has a strong social aspect with various features."
+  },
+  {
+    "q0": 34564567,
+    "q11": -1,
+    "q12": "Certain classes are difficult to play effectively."
+  },
+  {
+    "q0": 34564520,
+    "q11": 1,
+    "q12": "Certain classes are more suitable for non-paying players."
+  },
+  {
+    "q0": 34564505,
+    "q11": 1,
+    "q12": "Certain classes are easier to find teams for."
+  },
+  {
+    "q0": 34564432,
+    "q9": 1,
+    "q10": "The game requires resource accumulation for progression."
+  },
+  {
+    "q0": 34564316,
+    "q29": -2,
+    "q30": "The game pressures players to spend money on various items."
+  },
+  {
+    "q0": 34564259,
+    "q9": 1,
+    "q10": "The game offers a variety of desirable characters."
+  },
+  {
+    "q0": 34564170,
+    "q11": 1,
+    "q12": "Certain classes are more versatile and can be used in various activities."
+  },
+  {
+    "q0": 34564077,
+    "q11": 1,
+    "q12": "Certain classes are effective for team play."
+  },
+  {
+    "q0": 34564001,
+    "q11": 1,
+    "q12": "Certain characters have high sustained damage output."
+  },
+  {
+    "q0": 34563896,
+    "q11": 1,
+    "q12": "Certain characters are highly desirable and valuable."
+  },
+  {
+    "q0": 34563892,
+    "q4": -1,
+    "q5": "The combat lacks speed-up options, making it tedious."
+  },
+  {
+    "q0": 34563444,
+    "q9": -2,
+    "q10": "The game feels like a job with scheduled tasks.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money to progress."
+  },
+  {
+    "q0": 34563191,
+    "q31": -2,
+    "q32": "The game offers very little in terms of free rewards."
+  },
+  {
+    "q0": 34563102,
+    "q29": -2,
+    "q30": "The game heavily pressures players to spend money on expensive items."
+  },
+  {
+    "q0": 34553328,
+    "q9": -1,
+    "q10": "The game has issues with level progression and resource acquisition.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money to progress."
+  },
+  {
+    "q0": 34562968,
+    "q29": -2,
+    "q30": "The game pressures players to spend money from the start."
+  },
+  {
+    "q0": 34562963,
+    "q9": -1,
+    "q10": "The game has limited content and progression once daily tasks are completed."
+  },
+  {
+    "q0": 34562954,
+    "q11": -1,
+    "q12": "The game has balance issues with certain enemies being too difficult."
+  },
+  {
+    "q0": 34562930,
+    "q29": -2,
+    "q30": "The game heavily pressures players to spend money to progress."
+  },
+  {
+    "q0": 34562872,
+    "q29": -2,
+    "q30": "The game has issues with currency binding, affecting spending."
+  },
+  {
+    "q0": 34562600,
+    "q29": -2,
+    "q30": "The game pressures players to spend money to progress."
+  },
+  {
+    "q0": 34560787,
+    "q29": -2,
+    "q30": "The game pressures players to spend money to be accepted in teams.",
+    "q31": -2,
+    "q32": "The game offers very little in terms of free rewards."
+  },
+  {
+    "q0": 34562328,
+    "q9": -1,
+    "q10": "The game has become less enjoyable with updates."
+  },
+  {
+    "q0": 34562002,
+    "q21": -1,
+    "q22": "The game has issues with constant changes and lack of optimization."
+  },
+  {
+    "q0": 34561944,
+    "q29": -2,
+    "q30": "The game pressures players to spend money to progress."
+  },
+  {
+    "q0": 34561888,
+    "q9": -2,
+    "q10": "The game has a fixed progression system with limited content."
+  }
+]
+```

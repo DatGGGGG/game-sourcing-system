@@ -1,0 +1,435 @@
+```json
+[
+  {
+    "q0": 33113645,
+    "q41": "The display of the blue bar is not very clear, sometimes it's gone without notice."
+  },
+  {
+    "q0": 33112842,
+    "q41": "It's hard to find teammates in the afternoon, everyone seems to finish their daily tasks early."
+  },
+  {
+    "q0": 33104252,
+    "q41": "Enjoyable to chat while auto-playing dungeons."
+  },
+  {
+    "q0": 33103270,
+    "q41": "Chatting with friends in-game is a way to pass time."
+  },
+  {
+    "q0": 33102502,
+    "q41": "Joining a guild with few people is boring."
+  },
+  {
+    "q0": 33101691,
+    "q41": "Without games to play, chatting in groups is the only option."
+  },
+  {
+    "q0": 33096574,
+    "q41": "Eagerly waiting for game updates."
+  },
+  {
+    "q0": 33087716,
+    "q21": 2,
+    "q22": "Many new features and optimizations are planned for testing, showing developers have ideas.",
+    "q41": "Excited about upcoming features and optimizations."
+  },
+  {
+    "q0": 33086706,
+    "q9": 2,
+    "q10": "The game's difficulty exceeded expectations, especially the tower levels.",
+    "q41": "The game becomes more exciting as it progresses."
+  },
+  {
+    "q0": 33085393,
+    "q41": "Three stars for art, two more for anticipation, urging for a quicker release."
+  },
+  {
+    "q0": 33083978,
+    "q41": "Questioning if player feedback is considered, as changes seem odd."
+  },
+  {
+    "q0": 33072580,
+    "q41": "Checking daily for updates on pre-registered games."
+  },
+  {
+    "q0": 33071944,
+    "q41": "Summer is ending, and the game is still not released."
+  },
+  {
+    "q0": 33069909,
+    "q41": "Asking if character classes will have different body types like loli or shota."
+  },
+  {
+    "q0": 33064259,
+    "q41": "Loves the art style and hopes the game isn't too grindy, repeating the hope three times."
+  },
+  {
+    "q0": 33058662,
+    "q41": "Gives a 5-star rating and urges for an early release."
+  },
+  {
+    "q0": 33056076,
+    "q41": "The game exceeded expectations in gameplay and graphics, pledging continued support."
+  },
+  {
+    "q0": 33048200,
+    "q41": "Made many new friends with similar interests in the game."
+  },
+  {
+    "q0": 33047359,
+    "q4": 1,
+    "q5": "Combat scenes are good, but skill effects are simple and combat speed is a bit slow."
+  },
+  {
+    "q0": 33039077,
+    "q41": "Believes anything made with care will be good, hopeful for the game's future."
+  },
+  {
+    "q0": 33037264,
+    "q41": "Came for the art style, found the content surprisingly good."
+  },
+  {
+    "q0": 33033575,
+    "q3": "Turn-based combat",
+    "q4": 1,
+    "q5": "The game is a typical turn-based game, but it's satisfying as it doesn't require much thinking."
+  },
+  {
+    "q0": 33031706,
+    "q41": "Vertical version is interesting, plans to try it during the test."
+  },
+  {
+    "q0": 33027289,
+    "q41": "Wondering if the current test is the final one before release."
+  },
+  {
+    "q0": 33023344,
+    "q41": "Asking for a download link."
+  },
+  {
+    "q0": 33021532,
+    "q41": "Missed previous tests, eager to try the game."
+  },
+  {
+    "q0": 33006293,
+    "q41": "Loves the art style and theme, eagerly waiting."
+  },
+  {
+    "q0": 23753540,
+    "q23": false,
+    "q25": -2,
+    "q26": "The game has become pay-to-win, with changes weakening resources for non-paying players.",
+    "q29": -2,
+    "q30": "The game is heavily monetized, pushing players to spend.",
+    "q41": "The game is heavily monetized, pushing players to spend."
+  },
+  {
+    "q0": 32998857,
+    "q3": "Tower climbing with manual operation",
+    "q4": 1,
+    "q5": "Enjoys manual operation during tower climbing, though the difficulty isn't very high."
+  },
+  {
+    "q0": 32991988,
+    "q4": 2,
+    "q5": "Combat scenes are visually impressive and enjoyable."
+  },
+  {
+    "q0": 32989303,
+    "q41": "Feels the game focuses more on development, but resources are insufficient for raising multiple characters."
+  },
+  {
+    "q0": 32988646,
+    "q41": "Asking where to download the test server."
+  },
+  {
+    "q0": 32986069,
+    "q41": "Optimistic about the game's potential, urging for good management."
+  },
+  {
+    "q0": 32983115,
+    "q23": false,
+    "q25": -2,
+    "q26": "The game is a cash grab, with monetization points released after initial spending.",
+    "q29": -2,
+    "q30": "The game is a cash grab, with monetization points released after initial spending.",
+    "q41": "The game is a cash grab, with monetization points released after initial spending."
+  },
+  {
+    "q0": 32976111,
+    "q41": "Frustrated with the long wait for the game release."
+  },
+  {
+    "q0": 31703265,
+    "q4": -1,
+    "q5": "The game is mediocre and lacks unique features compared to other games.",
+    "q9": -1,
+    "q10": "The game lacks innovation and may not survive in a competitive market.",
+    "q29": -2,
+    "q30": "The game is heavily monetized, with significant differences between paying and non-paying players.",
+    "q41": "The game is heavily monetized, with significant differences between paying and non-paying players."
+  },
+  {
+    "q0": 32969982,
+    "q41": "The gameplay and art style are similar to another game, but prefers vertical screen."
+  },
+  {
+    "q0": 32969961,
+    "q41": "Asking when the game will be playable."
+  },
+  {
+    "q0": 32966896,
+    "q41": "Mentioned another game being downloaded and played."
+  },
+  {
+    "q0": 32964322,
+    "q41": "Prefers horizontal screen over vertical, feels vertical limits graphics and modeling."
+  },
+  {
+    "q0": 32942628,
+    "q41": "Asking about the testing schedule."
+  },
+  {
+    "q0": 32928658,
+    "q41": "Loves the visuals and cute animals."
+  },
+  {
+    "q0": 32927796,
+    "q41": "Likes the cute, traditional Chinese art style and detailed NPC illustrations."
+  },
+  {
+    "q0": 32926538,
+    "q41": "Eagerly waiting for the open beta of the turn-based game."
+  },
+  {
+    "q0": 32919378,
+    "q3": "Turn-based card + MMORPG",
+    "q4": 2,
+    "q5": "The combination of turn-based card and MMORPG is innovative and successful.",
+    "q41": "The combination of turn-based card and MMORPG is innovative and successful."
+  },
+  {
+    "q0": 32918506,
+    "q41": "Advice for new players to complete team dungeons early in the day."
+  },
+  {
+    "q0": 32913018,
+    "q41": "Noticed that official responses in the comments are serious and positive."
+  },
+  {
+    "q0": 32883781,
+    "q41": "Asking when the open beta will start."
+  },
+  {
+    "q0": 32873092,
+    "q41": "Hasn't played yet, eagerly waiting for the game to be available."
+  },
+  {
+    "q0": 32870673,
+    "q41": "Initially found the game very fresh and engaging."
+  },
+  {
+    "q0": 32869170,
+    "q41": "The game is convenient to play anytime, even during short breaks."
+  },
+  {
+    "q0": 32867961,
+    "q41": "Prefers a specific pet for its excellent single-target damage."
+  },
+  {
+    "q0": 32864977,
+    "q41": "Feels bored without the game, eagerly waiting for its release."
+  },
+  {
+    "q0": 32856586,
+    "q41": "Switched from a similar game, giving a 5-star rating."
+  },
+  {
+    "q0": 32840845,
+    "q41": "The game is more fun with friends, less enjoyable alone."
+  },
+  {
+    "q0": 32820260,
+    "q41": "Hasn't participated in tests, but the game seems well-developed."
+  },
+  {
+    "q0": 32818042,
+    "q41": "Frustrated with the prolonged testing phase, suggesting later promotion."
+  },
+  {
+    "q0": 32814168,
+    "q41": "Development plans are good, but some changes miss the mark."
+  },
+  {
+    "q0": 32813044,
+    "q41": "Unsure of the usefulness of certain characters, as most players focus on damage dealers."
+  },
+  {
+    "q0": 32800225,
+    "q41": "Certain classes are more favored in dungeons, while others are less effective."
+  },
+  {
+    "q0": 32798363,
+    "q41": "Curious about the role of a new class, asking for information."
+  },
+  {
+    "q0": 32794008,
+    "q41": "Regrets investing in a character that is only useful in early stages."
+  },
+  {
+    "q0": 32792486,
+    "q41": "Feels there are too few characters and limited variety in damage dealing."
+  },
+  {
+    "q0": 32749597,
+    "q41": "Initially felt resources were insufficient, but later found them excessive."
+  },
+  {
+    "q0": 32739450,
+    "q41": "Unable to join a group after several days."
+  },
+  {
+    "q0": 32723090,
+    "q41": "Daily experience points seem insufficient, but double rewards later help."
+  },
+  {
+    "q0": 32684816,
+    "q41": "Enjoys playing the game as a development game."
+  },
+  {
+    "q0": 32648570,
+    "q41": "Joined the game at the start of the test, finding it slightly better than expected."
+  },
+  {
+    "q0": 32647593,
+    "q41": "The art style is pleasing and fits personal taste."
+  },
+  {
+    "q0": 32646085,
+    "q41": "Feels currency is insufficient, especially for purchasing gems."
+  },
+  {
+    "q0": 32642246,
+    "q41": "Daily activities are repetitive, lacking new events."
+  },
+  {
+    "q0": 32627174,
+    "q41": "Waiting for the second season of the comic to be released."
+  },
+  {
+    "q0": 32620272,
+    "q41": "Enjoys the traditional Chinese style and interesting gameplay."
+  },
+  {
+    "q0": 32619796,
+    "q41": "Eagerly waiting for the open beta."
+  },
+  {
+    "q0": 32605568,
+    "q41": "Loves development games, enjoys the sense of progression."
+  },
+  {
+    "q0": 32596882,
+    "q41": "Excited for a traditional Chinese mobile game after a long time."
+  },
+  {
+    "q0": 32582180,
+    "q41": "The game can be both grindy and relaxing, with daily tasks completed in teams."
+  },
+  {
+    "q0": 32529191,
+    "q41": "Enjoys the pet system and its evolution, reminiscent of past games."
+  },
+  {
+    "q0": 32528543,
+    "q41": "A relaxing game, enjoys the theme."
+  },
+  {
+    "q0": 32526082,
+    "q41": "Hopes the game maintains its fresh and cute style with Chinese elements."
+  },
+  {
+    "q0": 27951516,
+    "q41": "Experiencing a long wait for the game."
+  },
+  {
+    "q0": 32492553,
+    "q41": "Urges for the game to go directly to open beta without further changes."
+  },
+  {
+    "q0": 32484146,
+    "q27": 2,
+    "q28": "The game is friendly to low-spending and free players, with reasonable resource acquisition.",
+    "q41": "The game is friendly to low-spending and free players, with reasonable resource acquisition."
+  },
+  {
+    "q0": 32483623,
+    "q41": "Feels that most classes are similar, hoping for more distinct styles."
+  },
+  {
+    "q0": 32469232,
+    "q41": "Enjoys the gameplay but prefers high freedom for exploration."
+  },
+  {
+    "q0": 32467586,
+    "q41": "Participated in the test, hoping for exclusive titles or costumes in the open beta."
+  },
+  {
+    "q0": 32466060,
+    "q41": "Dislikes the equipment crafting system, feels it's a resource sink with little return."
+  },
+  {
+    "q0": 32465395,
+    "q41": "Appreciates the simple interface and easy-to-learn gameplay."
+  },
+  {
+    "q0": 32449323,
+    "q41": "Enjoys the vertical screen and cute characters, hoping for more content."
+  },
+  {
+    "q0": 32448991,
+    "q41": "Had high expectations and was not disappointed, hoping for continued improvement."
+  },
+  {
+    "q0": 32446359,
+    "q41": "Attracted by the promotional video, enjoys pet development and diverse gameplay."
+  },
+  {
+    "q0": 32445824,
+    "q41": "The game has rich gameplay, including development and gacha, with a cute art style."
+  },
+  {
+    "q0": 32441971,
+    "q41": "Prefers vertical screen as a unique feature, suggests optional horizontal mode."
+  },
+  {
+    "q0": 32440993,
+    "q41": "Asks about full-screen effects and skins for characters."
+  },
+  {
+    "q0": 32440265,
+    "q41": "Finds it inconvenient to give commands to teammates, suggesting better communication tools."
+  },
+  {
+    "q0": 32439673,
+    "q41": "Hopes the game maintains its unique style and potential."
+  },
+  {
+    "q0": 32429219,
+    "q41": "Attracted by the game's style and relaxed environment, eagerly waiting for the open beta."
+  },
+  {
+    "q0": 32429134,
+    "q41": "First experience with turn-based games, hopes for unique features in the final version."
+  },
+  {
+    "q0": 32428053,
+    "q41": "Played multiple tests, hoping for more content and better character balance."
+  },
+  {
+    "q0": 32425822,
+    "q41": "Believes it's the best game tried in recent years, hoping it surpasses popular games."
+  }
+]
+```

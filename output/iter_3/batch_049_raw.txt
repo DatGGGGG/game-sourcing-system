@@ -1,0 +1,592 @@
+```json
+[
+    {
+        "q0": 33357917,
+        "q5": "Concern about adding too many features post-launch, leading to overwhelming content.",
+        "q10": "Concern about content becoming overwhelming post-launch.",
+        "q41": "Concern about overwhelming content and repetitive activities."
+    },
+    {
+        "q0": 33355966,
+        "q5": "The storyline is engaging with unexpected twists.",
+        "q10": "The storyline is engaging with unexpected twists."
+    },
+    {
+        "q0": 33354565,
+        "q5": "Preference for support roles over flashy DPS due to past experiences.",
+        "q10": "Preference for support roles over flashy DPS due to past experiences."
+    },
+    {
+        "q0": 33346673,
+        "q5": "Uninstall due to lack of interest and perceived similarity to other games.",
+        "q10": "Uninstall due to lack of interest and perceived similarity to other games.",
+        "q41": "Perceived similarity to other games and lack of interest."
+    },
+    {
+        "q0": 33345216,
+        "q5": "Desire for more casual and relaxing gameplay elements.",
+        "q10": "Desire for more casual and relaxing gameplay elements.",
+        "q41": "Desire for more casual gameplay elements."
+    },
+    {
+        "q0": 33344215,
+        "q5": "Daily tasks feel like work with little reward.",
+        "q10": "Daily tasks feel like work with little reward.",
+        "q41": "Daily tasks feel like work with little reward."
+    },
+    {
+        "q0": 33343321,
+        "q5": "Enjoys casual play without heavy investment.",
+        "q10": "Enjoys casual play without heavy investment.",
+        "q41": "Enjoys casual play without heavy investment."
+    },
+    {
+        "q0": 33342537,
+        "q5": "Most players focus on DPS pets, others are less popular.",
+        "q10": "Most players focus on DPS pets, others are less popular.",
+        "q41": "Most players focus on DPS pets, others are less popular."
+    },
+    {
+        "q0": 33341282,
+        "q5": "Concern about the length of the test and lack of new content.",
+        "q10": "Concern about the length of the test and lack of new content.",
+        "q41": "Concern about the length of the test and lack of new content."
+    },
+    {
+        "q0": 33340399,
+        "q5": "Good character and pet design, but combat interface and impact are lacking.",
+        "q10": "Good character and pet design, but combat interface and impact are lacking.",
+        "q41": "Good character and pet design, but combat interface and impact are lacking."
+    },
+    {
+        "q0": 33339614,
+        "q5": "Initial purchase character is strong, but limited in use.",
+        "q10": "Initial purchase character is strong, but limited in use.",
+        "q41": "Initial purchase character is strong, but limited in use."
+    },
+    {
+        "q0": 33322371,
+        "q5": "Dislike for scheduled activities and perceived imbalance in hero abilities.",
+        "q10": "Dislike for scheduled activities and perceived imbalance in hero abilities.",
+        "q11": -2,
+        "q12": "Perceived imbalance in hero abilities.",
+        "q41": "Dislike for scheduled activities and perceived imbalance in hero abilities."
+    },
+    {
+        "q0": 33332417,
+        "q5": "Game is not heavily pay-to-win, with some advantages for paying players.",
+        "q10": "Game is not heavily pay-to-win, with some advantages for paying players.",
+        "q41": "Game is not heavily pay-to-win, with some advantages for paying players."
+    },
+    {
+        "q0": 33331830,
+        "q5": "Game is enjoyable with good rewards and graphics.",
+        "q10": "Game is enjoyable with good rewards and graphics.",
+        "q41": "Game is enjoyable with good rewards and graphics."
+    },
+    {
+        "q0": 33315899,
+        "q5": "Output roles are easier to start with, but support roles improve later.",
+        "q10": "Output roles are easier to start with, but support roles improve later.",
+        "q41": "Output roles are easier to start with, but support roles improve later."
+    },
+    {
+        "q0": 33312039,
+        "q5": "Classic turn-based gameplay with some missing features.",
+        "q10": "Classic turn-based gameplay with some missing features.",
+        "q41": "Classic turn-based gameplay with some missing features."
+    },
+    {
+        "q0": 33308880,
+        "q5": "Plans to play a support role in the future.",
+        "q10": "Plans to play a support role in the future.",
+        "q41": "Plans to play a support role in the future."
+    },
+    {
+        "q0": 33308013,
+        "q5": "Uncertainty about spending money on the game.",
+        "q10": "Uncertainty about spending money on the game.",
+        "q41": "Uncertainty about spending money on the game."
+    },
+    {
+        "q0": 33307527,
+        "q5": "Pet conversion and training are costly.",
+        "q10": "Pet conversion and training are costly.",
+        "q41": "Pet conversion and training are costly."
+    },
+    {
+        "q0": 33305066,
+        "q5": "Desire for more daily content and faster combat.",
+        "q10": "Desire for more daily content and faster combat.",
+        "q41": "Desire for more daily content and faster combat."
+    },
+    {
+        "q0": 33299134,
+        "q5": "Hesitant about the game due to mixed reviews.",
+        "q10": "Hesitant about the game due to mixed reviews.",
+        "q41": "Hesitant about the game due to mixed reviews."
+    },
+    {
+        "q0": 25715702,
+        "q5": "Disappointment with the game being similar to a web game.",
+        "q10": "Disappointment with the game being similar to a web game.",
+        "q41": "Disappointment with the game being similar to a web game."
+    },
+    {
+        "q0": 33290814,
+        "q5": "Storyline becomes less engaging over time.",
+        "q10": "Storyline becomes less engaging over time.",
+        "q41": "Storyline becomes less engaging over time."
+    },
+    {
+        "q0": 33289967,
+        "q5": "Attracted by the vertical screen format.",
+        "q10": "Attracted by the vertical screen format.",
+        "q41": "Attracted by the vertical screen format."
+    },
+    {
+        "q0": 33289053,
+        "q5": "Lack of activities and unreasonable mechanics.",
+        "q10": "Lack of activities and unreasonable mechanics.",
+        "q41": "Lack of activities and unreasonable mechanics."
+    },
+    {
+        "q0": 33288537,
+        "q5": "Impressed by the art and storyline.",
+        "q10": "Impressed by the art and storyline.",
+        "q41": "Impressed by the art and storyline."
+    },
+    {
+        "q0": 33286542,
+        "q5": "Frustration with slow storyline and rapid pet updates.",
+        "q10": "Frustration with slow storyline and rapid pet updates.",
+        "q41": "Frustration with slow storyline and rapid pet updates."
+    },
+    {
+        "q0": 33284120,
+        "q5": "Frustration with slow gameplay and server issues.",
+        "q10": "Frustration with slow gameplay and server issues.",
+        "q41": "Frustration with slow gameplay and server issues."
+    },
+    {
+        "q0": 33278586,
+        "q5": "Strong ability to maintain low health.",
+        "q10": "Strong ability to maintain low health.",
+        "q41": "Strong ability to maintain low health."
+    },
+    {
+        "q0": 33272645,
+        "q5": "Appreciation for quick implementation of changes.",
+        "q10": "Appreciation for quick implementation of changes.",
+        "q41": "Appreciation for quick implementation of changes."
+    },
+    {
+        "q0": 33271598,
+        "q5": "Frustration with forced combat mechanics.",
+        "q10": "Frustration with forced combat mechanics.",
+        "q41": "Frustration with forced combat mechanics."
+    },
+    {
+        "q0": 33271196,
+        "q5": "Difficulty finding support or community.",
+        "q10": "Difficulty finding support or community.",
+        "q41": "Difficulty finding support or community."
+    },
+    {
+        "q0": 33268267,
+        "q5": "Frustration with tedious tasks and resource demands.",
+        "q10": "Frustration with tedious tasks and resource demands.",
+        "q41": "Frustration with tedious tasks and resource demands."
+    },
+    {
+        "q0": 33263397,
+        "q5": "Suggestions for UI improvements and resource adjustments.",
+        "q10": "Suggestions for UI improvements and resource adjustments.",
+        "q41": "Suggestions for UI improvements and resource adjustments."
+    },
+    {
+        "q0": 33260514,
+        "q5": "Good effects and modeling, appealing art style.",
+        "q10": "Good effects and modeling, appealing art style.",
+        "q41": "Good effects and modeling, appealing art style."
+    },
+    {
+        "q0": 33258591,
+        "q5": "Curiosity about future class advancements.",
+        "q10": "Curiosity about future class advancements.",
+        "q41": "Curiosity about future class advancements."
+    },
+    {
+        "q0": 33257965,
+        "q5": "Appreciation for the game's quality compared to others.",
+        "q10": "Appreciation for the game's quality compared to others.",
+        "q41": "Appreciation for the game's quality compared to others."
+    },
+    {
+        "q0": 33257403,
+        "q5": "Heavy emphasis on spending and DPS roles.",
+        "q10": "Heavy emphasis on spending and DPS roles.",
+        "q41": "Heavy emphasis on spending and DPS roles."
+    },
+    {
+        "q0": 33257359,
+        "q5": "Desire for the game to launch soon.",
+        "q10": "Desire for the game to launch soon.",
+        "q41": "Desire for the game to launch soon."
+    },
+    {
+        "q0": 33254615,
+        "q5": "Comparison to other turn-based games with a focus on daily tasks.",
+        "q10": "Comparison to other turn-based games with a focus on daily tasks.",
+        "q41": "Comparison to other turn-based games with a focus on daily tasks."
+    },
+    {
+        "q0": 33254257,
+        "q5": "Desire for more casual gameplay elements.",
+        "q10": "Desire for more casual gameplay elements.",
+        "q41": "Desire for more casual gameplay elements."
+    },
+    {
+        "q0": 33253372,
+        "q5": "Enjoyment of social aspects despite repetitive tasks.",
+        "q10": "Enjoyment of social aspects despite repetitive tasks.",
+        "q41": "Enjoyment of social aspects despite repetitive tasks."
+    },
+    {
+        "q0": 33244200,
+        "q5": "Frustration with lack of iOS testing opportunities.",
+        "q10": "Frustration with lack of iOS testing opportunities.",
+        "q41": "Frustration with lack of iOS testing opportunities."
+    },
+    {
+        "q0": 33243330,
+        "q5": "Curiosity about server capacity at launch.",
+        "q10": "Curiosity about server capacity at launch.",
+        "q41": "Curiosity about server capacity at launch."
+    },
+    {
+        "q0": 33242449,
+        "q5": "Difficulty in achieving desired attributes and effects.",
+        "q10": "Difficulty in achieving desired attributes and effects.",
+        "q41": "Difficulty in achieving desired attributes and effects."
+    },
+    {
+        "q0": 33242401,
+        "q5": "Mixed feelings about graphics and gameplay pace.",
+        "q10": "Mixed feelings about graphics and gameplay pace.",
+        "q41": "Mixed feelings about graphics and gameplay pace."
+    },
+    {
+        "q0": 26434963,
+        "q5": "Disappointment with the game being similar to a web game.",
+        "q10": "Disappointment with the game being similar to a web game.",
+        "q41": "Disappointment with the game being similar to a web game."
+    },
+    {
+        "q0": 33241743,
+        "q5": "Appreciation for unique weapon designs.",
+        "q10": "Appreciation for unique weapon designs.",
+        "q41": "Appreciation for unique weapon designs."
+    },
+    {
+        "q0": 33241007,
+        "q5": "Social interactions make repetitive tasks more enjoyable.",
+        "q10": "Social interactions make repetitive tasks more enjoyable.",
+        "q41": "Social interactions make repetitive tasks more enjoyable."
+    },
+    {
+        "q0": 33239864,
+        "q5": "Enjoyment of the game despite competitive elements.",
+        "q10": "Enjoyment of the game despite competitive elements.",
+        "q41": "Enjoyment of the game despite competitive elements."
+    },
+    {
+        "q0": 33238673,
+        "q5": "Frustration with unfair pricing and lack of transparency.",
+        "q10": "Frustration with unfair pricing and lack of transparency.",
+        "q41": "Frustration with unfair pricing and lack of transparency."
+    },
+    {
+        "q0": 33238164,
+        "q5": "Game is enjoyable for passing time.",
+        "q10": "Game is enjoyable for passing time.",
+        "q41": "Game is enjoyable for passing time."
+    },
+    {
+        "q0": 33235975,
+        "q5": "Frustration with long task times and scheduled activities.",
+        "q10": "Frustration with long task times and scheduled activities.",
+        "q41": "Frustration with long task times and scheduled activities."
+    },
+    {
+        "q0": 33233072,
+        "q5": "Desire for faster or skippable story elements.",
+        "q10": "Desire for faster or skippable story elements.",
+        "q41": "Desire for faster or skippable story elements."
+    },
+    {
+        "q0": 33231837,
+        "q5": "Frustration with slow combat pace.",
+        "q10": "Frustration with slow combat pace.",
+        "q41": "Frustration with slow combat pace."
+    },
+    {
+        "q0": 33231172,
+        "q5": "Enjoyment of social interactions.",
+        "q10": "Enjoyment of social interactions.",
+        "q41": "Enjoyment of social interactions."
+    },
+    {
+        "q0": 33230354,
+        "q5": "Disappointment with lack of innovation and similarity to other games.",
+        "q10": "Disappointment with lack of innovation and similarity to other games.",
+        "q41": "Disappointment with lack of innovation and similarity to other games."
+    },
+    {
+        "q0": 33228684,
+        "q5": "Appreciation for vertical screen format and graphics.",
+        "q10": "Appreciation for vertical screen format and graphics.",
+        "q41": "Appreciation for vertical screen format and graphics."
+    },
+    {
+        "q0": 33227227,
+        "q5": "Pleasantly surprised by the game's quality.",
+        "q10": "Pleasantly surprised by the game's quality.",
+        "q41": "Pleasantly surprised by the game's quality."
+    },
+    {
+        "q0": 33226432,
+        "q5": "Desire for skippable main storyline.",
+        "q10": "Desire for skippable main storyline.",
+        "q41": "Desire for skippable main storyline."
+    },
+    {
+        "q0": 33225246,
+        "q5": "Frustration with inability to download the game.",
+        "q10": "Frustration with inability to download the game.",
+        "q41": "Frustration with inability to download the game."
+    },
+    {
+        "q0": 33224437,
+        "q5": "Enjoyment of turn-based gameplay.",
+        "q10": "Enjoyment of turn-based gameplay.",
+        "q41": "Enjoyment of turn-based gameplay."
+    },
+    {
+        "q0": 33221039,
+        "q5": "Appreciation for art and gameplay.",
+        "q10": "Appreciation for art and gameplay.",
+        "q41": "Appreciation for art and gameplay."
+    },
+    {
+        "q0": 33219455,
+        "q5": "Appreciation for NPC design and skills.",
+        "q10": "Appreciation for NPC design and skills.",
+        "q41": "Appreciation for NPC design and skills."
+    },
+    {
+        "q0": 33218527,
+        "q5": "Hope for meaningful gameplay features.",
+        "q10": "Hope for meaningful gameplay features.",
+        "q41": "Hope for meaningful gameplay features."
+    },
+    {
+        "q0": 33217990,
+        "q5": "Content with doing daily tasks without PvP.",
+        "q10": "Content with doing daily tasks without PvP.",
+        "q41": "Content with doing daily tasks without PvP."
+    },
+    {
+        "q0": 33216911,
+        "q5": "High drop rate for golden pets and good graphics.",
+        "q10": "High drop rate for golden pets and good graphics.",
+        "q41": "High drop rate for golden pets and good graphics."
+    },
+    {
+        "q0": 33215705,
+        "q5": "Game is beginner-friendly with easy progression.",
+        "q10": "Game is beginner-friendly with easy progression.",
+        "q41": "Game is beginner-friendly with easy progression."
+    },
+    {
+        "q0": 33214862,
+        "q5": "Desire for home-building features.",
+        "q10": "Desire for home-building features.",
+        "q41": "Desire for home-building features."
+    },
+    {
+        "q0": 33214594,
+        "q5": "Mixed feelings about pet usefulness and gameplay mechanics.",
+        "q10": "Mixed feelings about pet usefulness and gameplay mechanics.",
+        "q41": "Mixed feelings about pet usefulness and gameplay mechanics."
+    },
+    {
+        "q0": 33213584,
+        "q5": "Game is enjoyable and relaxing.",
+        "q10": "Game is enjoyable and relaxing.",
+        "q41": "Game is enjoyable and relaxing."
+    },
+    {
+        "q0": 33205432,
+        "q5": "Game is fun with good graphics.",
+        "q10": "Game is fun with good graphics.",
+        "q41": "Game is fun with good graphics."
+    },
+    {
+        "q0": 33204125,
+        "q5": "Appreciation for simple UI design.",
+        "q10": "Appreciation for simple UI design.",
+        "q41": "Appreciation for simple UI design."
+    },
+    {
+        "q0": 33203934,
+        "q5": "Disappointment with the current test phase.",
+        "q10": "Disappointment with the current test phase.",
+        "q41": "Disappointment with the current test phase."
+    },
+    {
+        "q0": 33202885,
+        "q5": "Enjoyment of the game over time.",
+        "q10": "Enjoyment of the game over time.",
+        "q41": "Enjoyment of the game over time."
+    },
+    {
+        "q0": 33202226,
+        "q5": "Social interactions are a key aspect.",
+        "q10": "Social interactions are a key aspect.",
+        "q41": "Social interactions are a key aspect."
+    },
+    {
+        "q0": 33201744,
+        "q5": "Excitement for the game's launch.",
+        "q10": "Excitement for the game's launch.",
+        "q41": "Excitement for the game's launch."
+    },
+    {
+        "q0": 33194904,
+        "q5": "Good graphics and interesting dungeons.",
+        "q10": "Good graphics and interesting dungeons.",
+        "q41": "Good graphics and interesting dungeons."
+    },
+    {
+        "q0": 33192743,
+        "q5": "High resource cost for pet development.",
+        "q10": "High resource cost for pet development.",
+        "q41": "High resource cost for pet development."
+    },
+    {
+        "q0": 33191990,
+        "q5": "Frustration with long wait for game release.",
+        "q10": "Frustration with long wait for game release.",
+        "q41": "Frustration with long wait for game release."
+    },
+    {
+        "q0": 33189910,
+        "q5": "Enjoyment of graphics and gameplay.",
+        "q10": "Enjoyment of graphics and gameplay.",
+        "q41": "Enjoyment of graphics and gameplay."
+    },
+    {
+        "q0": 33173012,
+        "q5": "Interesting theme and gameplay.",
+        "q10": "Interesting theme and gameplay.",
+        "q41": "Interesting theme and gameplay."
+    },
+    {
+        "q0": 33171918,
+        "q5": "Enjoyment of collection mechanics.",
+        "q10": "Enjoyment of collection mechanics.",
+        "q41": "Enjoyment of collection mechanics."
+    },
+    {
+        "q0": 33152891,
+        "q5": "High DPS and low resource consumption for beginners.",
+        "q10": "High DPS and low resource consumption for beginners.",
+        "q41": "High DPS and low resource consumption for beginners."
+    },
+    {
+        "q0": 33151566,
+        "q5": "Desire for game art as wallpapers.",
+        "q10": "Desire for game art as wallpapers.",
+        "q41": "Desire for game art as wallpapers."
+    },
+    {
+        "q0": 33151465,
+        "q5": "Interest in new factions.",
+        "q10": "Interest in new factions.",
+        "q41": "Interest in new factions."
+    },
+    {
+        "q0": 33150181,
+        "q5": "Frustration with long wait for game release.",
+        "q10": "Frustration with long wait for game release.",
+        "q41": "Frustration with long wait for game release."
+    },
+    {
+        "q0": 33148761,
+        "q5": "Limited cosmetic options and paywall.",
+        "q10": "Limited cosmetic options and paywall.",
+        "q41": "Limited cosmetic options and paywall."
+    },
+    {
+        "q0": 33147610,
+        "q5": "Feeling outperformed by support characters.",
+        "q10": "Feeling outperformed by support characters.",
+        "q41": "Feeling outperformed by support characters."
+    },
+    {
+        "q0": 33130332,
+        "q5": "Lack of healers requires potion use.",
+        "q10": "Lack of healers requires potion use.",
+        "q41": "Lack of healers requires potion use."
+    },
+    {
+        "q0": 33129741,
+        "q5": "Enjoyment of character and pet progression.",
+        "q10": "Enjoyment of character and pet progression.",
+        "q41": "Enjoyment of character and pet progression."
+    },
+    {
+        "q0": 33129089,
+        "q5": "Social interactions are a key aspect.",
+        "q10": "Social interactions are a key aspect.",
+        "q41": "Social interactions are a key aspect."
+    },
+    {
+        "q0": 33120410,
+        "q5": "Desire for improved healing abilities.",
+        "q10": "Desire for improved healing abilities.",
+        "q41": "Desire for improved healing abilities."
+    },
+    {
+        "q0": 33119018,
+        "q5": "Desire for group cleansing abilities.",
+        "q10": "Desire for group cleansing abilities.",
+        "q41": "Desire for group cleansing abilities."
+    },
+    {
+        "q0": 33118151,
+        "q5": "Frustration with low success rate of abilities.",
+        "q10": "Frustration with low success rate of abilities.",
+        "q41": "Frustration with low success rate of abilities."
+    },
+    {
+        "q0": 33117495,
+        "q5": "Slow leveling process.",
+        "q10": "Slow leveling process.",
+        "q41": "Slow leveling process."
+    },
+    {
+        "q0": 33116386,
+        "q5": "Frustration with crafting system.",
+        "q10": "Frustration with crafting system.",
+        "q41": "Frustration with crafting system."
+    },
+    {
+        "q0": 33114985,
+        "q5": "Enjoyment of gameplay with focus on DPS.",
+        "q10": "Enjoyment of gameplay with focus on DPS.",
+        "q41": "Enjoyment of gameplay with focus on DPS."
+    }
+]
+```

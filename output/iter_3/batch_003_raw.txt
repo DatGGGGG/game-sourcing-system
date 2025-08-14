@@ -1,0 +1,321 @@
+```json
+[
+  {
+    "q0": 43667091,
+    "q5": "The game experiences severe lag during events, causing frustration among players."
+  },
+  {
+    "q0": 43667090,
+    "q4": -1,
+    "q5": "The game has significant lag issues during events.",
+    "q29": -2,
+    "q30": "Players feel pressured to spend money due to insufficient compensation and event issues."
+  },
+  {
+    "q0": 43667069,
+    "q5": "The game lags severely during events, and compensation is inadequate."
+  },
+  {
+    "q0": 43667067,
+    "q5": "The game's optimization is poor, causing lag during events."
+  },
+  {
+    "q0": 43667065,
+    "q5": "The game experiences frequent lag during events."
+  },
+  {
+    "q0": 43667061,
+    "q5": "Players experience poor game performance and insufficient rewards."
+  },
+  {
+    "q0": 43667048,
+    "q5": "The game has severe lag and disconnection issues during events, leading to player frustration.",
+    "q29": -2,
+    "q30": "Players feel the game is designed to exploit their spending."
+  },
+  {
+    "q0": 43667022,
+    "q5": "The server crashes frequently, leading to player dissatisfaction."
+  },
+  {
+    "q0": 43666994,
+    "q5": "Players express frustration with the game's performance and server issues."
+  },
+  {
+    "q0": 43666991,
+    "q5": "The game lags severely during events, causing frustration among players."
+  },
+  {
+    "q0": 43666979,
+    "q5": "The game has numerous bugs and issues, leading to player dissatisfaction.",
+    "q29": -2,
+    "q30": "Players feel the game is focused on monetization rather than quality."
+  },
+  {
+    "q0": 43666975,
+    "q5": "The game lags severely during events, and compensation is inadequate.",
+    "q29": -2,
+    "q30": "Players feel the game is designed to exploit their spending."
+  },
+  {
+    "q0": 43666963,
+    "q5": "The game experiences severe lag during events, leading to player frustration."
+  },
+  {
+    "q0": 43666946,
+    "q5": "Players experience lag and inadequate compensation during events."
+  },
+  {
+    "q0": 43666939,
+    "q5": "The game lacks optimization and focuses on monetization."
+  },
+  {
+    "q0": 43666929,
+    "q5": "The game experiences frequent lag, and developers are not addressing the issues."
+  },
+  {
+    "q0": 43666918,
+    "q5": "The game experiences severe lag during events, leading to player frustration."
+  },
+  {
+    "q0": 24288527,
+    "q5": "Players experience lag and feel that developers are not addressing issues adequately."
+  },
+  {
+    "q0": 43666890,
+    "q5": "The game experiences frequent lag, and compensation is inadequate."
+  },
+  {
+    "q0": 43664131,
+    "q5": "The game has a high level of difficulty and significant balance issues."
+  },
+  {
+    "q0": 43654954,
+    "q5": "Players feel that certain game features are not being utilized effectively."
+  },
+  {
+    "q0": 43652555,
+    "q5": "The player enjoys the game and requests more in-game rewards."
+  },
+  {
+    "q0": 42797514,
+    "q5": "The game experiences frequent disconnections and reduced rewards."
+  },
+  {
+    "q0": 43652079,
+    "q5": "The game is challenging for non-paying players."
+  },
+  {
+    "q0": 43646409,
+    "q5": "The game experiences severe lag during events, leading to player frustration."
+  },
+  {
+    "q0": 34024840,
+    "q5": "The game crashes frequently during events, leading to player frustration."
+  },
+  {
+    "q0": 23932408,
+    "q5": "The game has mature gameplay systems but lacks innovation and has poor character modeling."
+  },
+  {
+    "q0": 43627832,
+    "q5": "Players feel that certain character abilities are unbalanced."
+  },
+  {
+    "q0": 43627767,
+    "q5": "Players are unsure about character builds and strategies."
+  },
+  {
+    "q0": 43636099,
+    "q5": "The game has good graphics and music, but players suggest extending event durations."
+  },
+  {
+    "q0": 43629172,
+    "q5": "Players are unsure about character progression and suggest alternatives."
+  },
+  {
+    "q0": 43629081,
+    "q5": "Players feel the game is inferior to older games."
+  },
+  {
+    "q0": 43627804,
+    "q5": "Players find it difficult to form teams."
+  },
+  {
+    "q0": 43617846,
+    "q5": "Players feel certain character abilities are underpowered."
+  },
+  {
+    "q0": 43619202,
+    "q5": "Players feel the game has worsened with updates."
+  },
+  {
+    "q0": 43609241,
+    "q5": "The game experiences frequent lag, leading to player frustration."
+  },
+  {
+    "q0": 43609228,
+    "q5": "The game has severe lag and disconnection issues during events."
+  },
+  {
+    "q0": 43609223,
+    "q5": "The game experiences severe lag during events, leading to player frustration."
+  },
+  {
+    "q0": 43609195,
+    "q5": "Players feel the game lacks meaningful rewards and events."
+  },
+  {
+    "q0": 43609170,
+    "q5": "Players experience login issues."
+  },
+  {
+    "q0": 43609162,
+    "q5": "Players experience login issues."
+  },
+  {
+    "q0": 43609136,
+    "q5": "The game experiences severe lag during events, leading to player frustration."
+  },
+  {
+    "q0": 43609124,
+    "q5": "The game experiences frequent crashes during events."
+  },
+  {
+    "q0": 43608348,
+    "q5": "The game has good graphics and a variety of gameplay features, but progression is heavily monetized."
+  },
+  {
+    "q0": 43607573,
+    "q5": "The game has poor optimization and graphical issues."
+  },
+  {
+    "q0": 43607069,
+    "q5": "Players feel the game's anniversary rewards are inadequate."
+  },
+  {
+    "q0": 43604427,
+    "q5": "Players feel the game's compensation and event management are inadequate."
+  },
+  {
+    "q0": 43604153,
+    "q5": "Players are confused by the game's opening animation."
+  },
+  {
+    "q0": 43596776,
+    "q5": "Players feel the game's account management is unfair and exploitative."
+  },
+  {
+    "q0": 43599472,
+    "q5": "Players feel the game is disappointing despite its appearance."
+  },
+  {
+    "q0": 43591222,
+    "q5": "The game experiences frequent server issues, leading to player frustration."
+  },
+  {
+    "q0": 43576736,
+    "q5": "The game has poor horizontal screen implementation and is not beginner-friendly."
+  },
+  {
+    "q0": 43590872,
+    "q5": "Players experience login issues during events."
+  },
+  {
+    "q0": 43586561,
+    "q5": "Players feel the game is focused on monetization rather than quality."
+  },
+  {
+    "q0": 43585598,
+    "q5": "Players feel the game requires excessive spending."
+  },
+  {
+    "q0": 43584290,
+    "q5": "The game has poor performance on iOS devices."
+  },
+  {
+    "q0": 43579620,
+    "q5": "Players are frustrated by persistent notifications and limited storage access."
+  },
+  {
+    "q0": 43577509,
+    "q5": "The game is playable without spending, but requires patience and strategy."
+  },
+  {
+    "q0": 43577111,
+    "q5": "Players are unsure about character selection and strategy."
+  },
+  {
+    "q0": 43575013,
+    "q5": "The game is generally good, but players wish for fewer bugs."
+  },
+  {
+    "q0": 34124641,
+    "q5": "Players feel the game unfairly changes rewards without notice."
+  },
+  {
+    "q0": 43574654,
+    "q5": "The game is enjoyable, especially with friends."
+  },
+  {
+    "q0": 43568598,
+    "q5": "Players feel the game is focused on monetization."
+  },
+  {
+    "q0": 43560798,
+    "q5": "Players discuss character and strategy preferences."
+  },
+  {
+    "q0": 43556616,
+    "q5": "Players are disappointed with the game's screen orientation."
+  },
+  {
+    "q0": 43488740,
+    "q5": "The game has poor rewards and high resource consumption."
+  },
+  {
+    "q0": 43477836,
+    "q5": "Players experience unfair account bans."
+  },
+  {
+    "q0": 43475738,
+    "q5": "The game is heavily monetized and lacks playability."
+  },
+  {
+    "q0": 43453168,
+    "q5": "Players feel the game's promotions are misleading and inadequate."
+  },
+  {
+    "q0": 43202561,
+    "q5": "Players feel the game is a reskin of previous titles."
+  },
+  {
+    "q0": 43189934,
+    "q5": "The game is heavily monetized and has too many events."
+  },
+  {
+    "q0": 43187763,
+    "q5": "The game is initially engaging but becomes boring over time."
+  },
+  {
+    "q0": 43185628,
+    "q5": "Players feel the game's gacha system is unfair."
+  },
+  {
+    "q0": 43108901,
+    "q5": "Players feel the game has poor rewards and treats players unfairly."
+  },
+  {
+    "q0": 43080591,
+    "q5": "Players are concerned about the game's permissions and privacy."
+  },
+  {
+    "q0": 43052466,
+    "q5": "Players are dissatisfied with customer support."
+  },
+  {
+    "q0": 41898518,
+    "q5": "Players feel the game unfairly changes character balance."
+  }
+]
+```

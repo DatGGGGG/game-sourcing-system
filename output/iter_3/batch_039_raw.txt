@@ -1,0 +1,336 @@
+```json
+[
+  {
+    "q0": 34540768,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540765,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540766,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540762,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540758,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540757,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540754,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540751,
+    "q41": "Negative perception of game being a web game port"
+  },
+  {
+    "q0": 34540748,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540740,
+    "q41": "Server issues, negative bias due to previous games"
+  },
+  {
+    "q0": 34540589,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540737,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540734,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540732,
+    "q41": "Server issues, poor server quality"
+  },
+  {
+    "q0": 34540731,
+    "q41": "Server queue issues, rewards weakened"
+  },
+  {
+    "q0": 34540729,
+    "q41": "Server queue issues, suspicion of fake queues"
+  },
+  {
+    "q0": 34540722,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540720,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540710,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540706,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540704,
+    "q41": "Server queue issues, suspicion of marketing strategy"
+  },
+  {
+    "q0": 34540696,
+    "q41": "Server issues, suspicion of marketing strategy"
+  },
+  {
+    "q0": 34540684,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540682,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540673,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540637,
+    "q41": "Server queue issues"
+  },
+  {
+    "q0": 34540672,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540667,
+    "q41": "Negative perception of vertical screen design"
+  },
+  {
+    "q0": 34540657,
+    "q41": "Server issues, suspicion of monetization focus"
+  },
+  {
+    "q0": 34540647,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540636,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540634,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540633,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540629,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540625,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540624,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540621,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540617,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540613,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540610,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540599,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540597,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540596,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540595,
+    "q41": "Server issues, awaiting official response"
+  },
+  {
+    "q0": 34540579,
+    "q41": "Server issues, negative perception of pre-download feature"
+  },
+  {
+    "q0": 34540580,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540578,
+    "q41": "Server issues, negative perception of server reliability"
+  },
+  {
+    "q0": 34540568,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540566,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540565,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540556,
+    "q41": "Server issues, game stuck"
+  },
+  {
+    "q0": 34540553,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540548,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540547,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540545,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540539,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540535,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540525,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540518,
+    "q41": "Server issues, suspicion of external attacks"
+  },
+  {
+    "q0": 34540516,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540509,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540505,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540501,
+    "q41": "Server issues, unable to enter game"
+  },
+  {
+    "q0": 34540495,
+    "q41": "Speculation about game rating drop"
+  },
+  {
+    "q0": 34540489,
+    "q41": "Negative perception of game being pay-to-win"
+  },
+  {
+    "q0": 34540466,
+    "q41": "Negative perception of pay-to-win mechanics"
+  },
+  {
+    "q0": 34540265,
+    "q41": "Negative perception of game being pay-to-win"
+  },
+  {
+    "q0": 34540166,
+    "q41": "Negative perception of game being a web game"
+  },
+  {
+    "q0": 34540068,
+    "q41": "Speculation about game being pay-to-win"
+  },
+  {
+    "q0": 34540048,
+    "q41": "Negative perception of game quality"
+  },
+  {
+    "q0": 34540045,
+    "q41": "Decision not to spend money on the game"
+  },
+  {
+    "q0": 34539974,
+    "q41": "Game includes gacha and idle mechanics"
+  },
+  {
+    "q0": 34539942,
+    "q41": "Negative perception of game progression"
+  },
+  {
+    "q0": 34539919,
+    "q41": "Negative perception of game being low-cost and pay-to-win"
+  },
+  {
+    "q0": 34539784,
+    "q41": "Negative perception of game being pay-to-win"
+  },
+  {
+    "q0": 34539361,
+    "q41": "Suspicion of fake reviews"
+  },
+  {
+    "q0": 34539242,
+    "q41": "Negative perception of game being pay-to-win"
+  },
+  {
+    "q0": 34539063,
+    "q41": "Suspicion of fake reviews"
+  },
+  {
+    "q0": 34538711,
+    "q41": "Negative perception of vertical screen design"
+  },
+  {
+    "q0": 34538485,
+    "q41": "Issues with registration method"
+  },
+  {
+    "q0": 34538448,
+    "q41": "Issues with registration method"
+  },
+  {
+    "q0": 34537988,
+    "q41": "Negative perception of game being a clone"
+  },
+  {
+    "q0": 34537555,
+    "q41": "Negative perception of game being pay-to-win"
+  }
+]
+```

@@ -1,0 +1,342 @@
+```json
+[
+  {
+    "q0": 34649183,
+    "q27": -2,
+    "q28": "The game requires spending money to become stronger."
+  },
+  {
+    "q0": 34648744,
+    "q27": -2,
+    "q28": "Non-paying players struggle to compete due to the advantage paying players have with powerful pets."
+  },
+  {
+    "q0": 34648645,
+    "q23": true,
+    "q24": "The game has a guarantee system for obtaining powerful items.",
+    "q27": 2,
+    "q28": "The game is suitable for busy players and fans of turn-based games."
+  },
+  {
+    "q0": 34647530,
+    "q11": -2,
+    "q12": "The pet 'Little White Dragon' is considered weak compared to regular pets."
+  },
+  {
+    "q0": 34647476,
+    "q9": -2,
+    "q10": "The game feels repetitive and lacks innovation, leading to boredom after a few days.",
+    "q37": -2,
+    "q38": "The vertical screen sometimes obstructs the view of the back row, causing inconvenience."
+  },
+  {
+    "q0": 34647172,
+    "q27": -2,
+    "q28": "The game heavily relies on spending money to progress, especially with the tower climbing and experience systems.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money to keep up with experience and power levels."
+  },
+  {
+    "q0": 34646801,
+    "q9": -2,
+    "q10": "The game is criticized for being a rehash of existing turn-based games with no innovation.",
+    "q29": -2,
+    "q30": "The game is seen as a cash grab with little effort put into innovation."
+  },
+  {
+    "q0": 34646764,
+    "q27": -2,
+    "q28": "The game is heavily monetized, making it less appealing compared to other similar games."
+  },
+  {
+    "q0": 34644581,
+    "q9": -2,
+    "q10": "The game lacks motivation to continue playing despite being an average turn-based game."
+  },
+  {
+    "q0": 34643921,
+    "q5": "The game is considered boring and improves sleep quality.",
+    "q29": 2,
+    "q30": "The game is seen as beneficial for relaxation and sleep."
+  },
+  {
+    "q0": 34643496,
+    "q9": -2,
+    "q10": "The game has a decent story but lacks elements to keep players engaged."
+  },
+  {
+    "q0": 34540864,
+    "q37": 2,
+    "q38": "The vertical screen and UI are appreciated for their comfort.",
+    "q21": 2,
+    "q22": "The game is seen as a good time-killer with potential for more content."
+  },
+  {
+    "q0": 34620627,
+    "q19": 2,
+    "q20": "Resource acquisition is considered friendly compared to other turn-based games."
+  },
+  {
+    "q0": 34618180,
+    "q29": 2,
+    "q30": "The game has a low spending requirement compared to other games."
+  },
+  {
+    "q0": 34616089,
+    "q5": "The game's character modeling and artwork are appreciated."
+  },
+  {
+    "q0": 34610433,
+    "q13": 2,
+    "q14": "There is a wide variety of skill books available, making team builds versatile."
+  },
+  {
+    "q0": 34610110,
+    "q29": 2,
+    "q30": "The game is not demanding, allowing players to achieve everything through consistent play."
+  },
+  {
+    "q0": 34609998,
+    "q9": -2,
+    "q10": "The game feels stagnant with a decline in active players.",
+    "q29": -2,
+    "q30": "The game has a fixed routine that limits player enjoyment."
+  },
+  {
+    "q0": 34609941,
+    "q41": "Issues with customer service and reward redemption."
+  },
+  {
+    "q0": 34609029,
+    "q37": -2,
+    "q38": "The UI and interaction design are considered poor and inconvenient.",
+    "q39": -2,
+    "q40": "The game lacks content and has a small file size, making it feel cramped."
+  },
+  {
+    "q0": 34609018,
+    "q41": "Concerns about the presence of fake players."
+  },
+  {
+    "q0": 34549596,
+    "q5": "The game is addictive, especially for pet lovers, but the color scheme is considered outdated."
+  },
+  {
+    "q0": 34608149,
+    "q5": "The battle animations and pet behavior are lacking in excitement and detail."
+  },
+  {
+    "q0": 34607947,
+    "q41": "Server lag issues."
+  },
+  {
+    "q0": 34607937,
+    "q19": 2,
+    "q20": "Daily rewards are sufficient for most needs, making the game friendly for non-paying players."
+  },
+  {
+    "q0": 34607755,
+    "q19": 2,
+    "q20": "Resources are mostly obtainable without spending money, although the game has a high spending atmosphere."
+  },
+  {
+    "q0": 34607486,
+    "q5": "The skill animations are considered impressive and stylish."
+  },
+  {
+    "q0": 34605677,
+    "q5": "The game has some playability and potential for improvement."
+  },
+  {
+    "q0": 34604400,
+    "q41": "Server issues causing lag."
+  },
+  {
+    "q0": 34603640,
+    "q41": "Difficulty finding players for team activities."
+  },
+  {
+    "q0": 34601688,
+    "q41": "Lack of limited-time events during holidays."
+  },
+  {
+    "q0": 34601608,
+    "q5": "Playing with friends enhances the enjoyment of the game."
+  },
+  {
+    "q0": 34601470,
+    "q33": true,
+    "q34": "The game uses a Tang Dynasty theme with national style elements.",
+    "q35": 2,
+    "q36": "The integration of the Tang Dynasty theme and national style elements is well-received."
+  },
+  {
+    "q0": 34601148,
+    "q6": "Skill book recommendations for different playstyles.",
+    "q7": 2,
+    "q8": "The game offers diverse strategies with skill book combinations."
+  },
+  {
+    "q0": 34601005,
+    "q5": "The storyline has intriguing character developments."
+  },
+  {
+    "q0": 34600150,
+    "q41": "Lack of a desktop version affects gameplay experience."
+  },
+  {
+    "q0": 34600096,
+    "q5": "The game requires constant attention and has a long, tedious combat process."
+  },
+  {
+    "q0": 34599640,
+    "q5": "The game is considered boring and overrated."
+  },
+  {
+    "q0": 34599127,
+    "q29": -2,
+    "q30": "The game is seen as heavily monetized with expensive in-game purchases."
+  },
+  {
+    "q0": 34598482,
+    "q29": -2,
+    "q30": "The game requires significant spending for powerful items."
+  },
+  {
+    "q0": 34598115,
+    "q5": "The combat mechanics are frustrating due to overpowered enemies."
+  },
+  {
+    "q0": 34598020,
+    "q5": "The game is playable without spending much, but timed events are easy to miss.",
+    "q13": 2,
+    "q14": "Different pets have unique roles, adding to team build diversity."
+  },
+  {
+    "q0": 34597522,
+    "q6": "Different formations for strategic advantages.",
+    "q7": 2,
+    "q8": "The game offers strategic depth with various formation options."
+  },
+  {
+    "q0": 34597420,
+    "q5": "The game motivates players to improve their ratings with item collection."
+  },
+  {
+    "q0": 34597357,
+    "q5": "New players are recommended to play support roles for ease of team inclusion."
+  },
+  {
+    "q0": 34597151,
+    "q5": "The game offers valuable rewards for completing certain activities."
+  },
+  {
+    "q0": 34596990,
+    "q5": "The game has detailed graphics but could use more interactive elements."
+  },
+  {
+    "q0": 34596711,
+    "q5": "The game introduces new gameplay features as players level up."
+  },
+  {
+    "q0": 34596461,
+    "q5": "Single-target pets are useful for specific combat scenarios."
+  },
+  {
+    "q0": 34596243,
+    "q6": "Tower climbing with specific class advantages.",
+    "q7": 2,
+    "q8": "Certain classes excel in tower climbing, adding strategic depth."
+  },
+  {
+    "q0": 34595804,
+    "q41": "Event timing conflicts with real-life schedules."
+  },
+  {
+    "q0": 34595703,
+    "q19": 2,
+    "q20": "Guild events provide valuable rewards."
+  },
+  {
+    "q0": 34595631,
+    "q41": "Difficulty finding players for certain classes in team activities."
+  },
+  {
+    "q0": 34595555,
+    "q5": "The game has too many team-based activities, limiting solo play."
+  },
+  {
+    "q0": 34595461,
+    "q5": "The game offers a variety of customizable appearances."
+  },
+  {
+    "q0": 34595350,
+    "q5": "Team coordination is important for dealing with high-defense enemies."
+  },
+  {
+    "q0": 34595225,
+    "q5": "The game is considered a waste of time."
+  },
+  {
+    "q0": 34595184,
+    "q5": "The game has specific team compositions for optimal performance."
+  },
+  {
+    "q0": 34594956,
+    "q5": "Certain pets are highly effective for tower climbing."
+  },
+  {
+    "q0": 34594919,
+    "q5": "Early game progression focuses on leveling up rather than gear."
+  },
+  {
+    "q0": 34594890,
+    "q5": "Certain pets are recommended for their effectiveness."
+  },
+  {
+    "q0": 34548713,
+    "q5": "The game is considered a boring and outdated turn-based game."
+  },
+  {
+    "q0": 34594759,
+    "q5": "The game is enjoyable for passing time, but concerns about power differences in the future."
+  },
+  {
+    "q0": 34594545,
+    "q5": "Certain pets are useful early on, but may become obsolete as new content is released."
+  },
+  {
+    "q0": 34594473,
+    "q5": "The game offers valuable tutorials for PvP strategies."
+  },
+  {
+    "q0": 34594455,
+    "q19": 2,
+    "q20": "Guild events provide useful resources for progression."
+  },
+  {
+    "q0": 34594420,
+    "q5": "The game offers multiple ways to gather resources."
+  },
+  {
+    "q0": 34594418,
+    "q5": "Joining an active guild enhances the gameplay experience."
+  },
+  {
+    "q0": 34594414,
+    "q5": "The game is considered boring with childish graphics."
+  },
+  {
+    "q0": 34594394,
+    "q5": "High-level content requires powerful pets, limiting accessibility."
+  },
+  {
+    "q0": 34594311,
+    "q5": "The game offers enjoyable activities with a sense of achievement."
+  },
+  {
+    "q0": 34594269,
+    "q5": "The game is praised for its rich content and detailed character designs."
+  }
+]
+```

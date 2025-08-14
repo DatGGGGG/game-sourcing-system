@@ -1,0 +1,164 @@
+```json
+[
+  {
+    "q0": 34893560,
+    "q4": -2,
+    "q5": "The game is described as having lag issues and being time-consuming, akin to clocking in at work, which affects the combat experience negatively.",
+    "q9": -2,
+    "q10": "Game progression is criticized for being too rigid and time-consuming, with fixed activities and lack of things to do for players with more time.",
+    "q23": true,
+    "q24": "Players mention having to spend additional resources to obtain desired characters, indicating a gacha system.",
+    "q27": -2,
+    "q28": "Non-paying users seem to have limited access to desired characters without spending additional resources.",
+    "q29": -2,
+    "q30": "There is a strong pressure to spend money to obtain better characters, which is frustrating for players."
+  },
+  {
+    "q0": 34890836,
+    "q4": -2,
+    "q5": "Combat is described as repetitive and lacking depth, making it feel like a chore.",
+    "q6": "PVE content, limited gameplay variety",
+    "q7": -2,
+    "q8": "The game is criticized for having shallow gameplay with limited PVE content and repetitive tasks.",
+    "q9": -2,
+    "q10": "Progression is hindered by experience limits and frequent updates that negatively affect player benefits.",
+    "q11": -2,
+    "q12": "Certain characters and factions are described as significantly weaker and not being addressed in updates.",
+    "q27": -2,
+    "q28": "Non-paying users face challenges due to frequent updates that reduce player benefits and progression.",
+    "q29": -2,
+    "q30": "Frequent updates and changes that reduce player benefits create a strong pressure to spend money."
+  },
+  {
+    "q0": 34890291,
+    "q11": -2,
+    "q12": "The Tangmen class is described as being very weak and requiring heavy spending to be viable.",
+    "q27": -2,
+    "q28": "Non-paying users struggle with certain classes that require heavy spending to be viable."
+  },
+  {
+    "q0": 34889553,
+    "q4": -2,
+    "q5": "The game is criticized for having a poor new player experience, with issues in the new player guide and team dynamics.",
+    "q9": -2,
+    "q10": "New players face significant challenges due to poor guidance and team dynamics, making progression difficult.",
+    "q21": -2,
+    "q22": "The game is criticized for not addressing significant issues in the new player experience.",
+    "q27": -2,
+    "q28": "Non-paying users face challenges due to poor new player guidance and team dynamics.",
+    "q29": -2,
+    "q30": "Players feel frustrated by the poor new player experience and lack of support for progression."
+  },
+  {
+    "q0": 34569863,
+    "q27": -2,
+    "q28": "Non-paying users face challenges due to issues with guild dynamics and server management.",
+    "q29": -2,
+    "q30": "The game is criticized for having issues with guild dynamics and server management, which affects player experience."
+  },
+  {
+    "q0": 34833020,
+    "q41": "Players have issues with daily activity points not reaching expected levels, suggesting a need for adjustment."
+  },
+  {
+    "q0": 34826145,
+    "q41": "Players are seeking guidance on how to efficiently gather resources and build characters."
+  },
+  {
+    "q0": 34825173,
+    "q4": -2,
+    "q5": "Combat is criticized for lacking visibility on team resources, making coordination difficult.",
+    "q9": -2,
+    "q10": "Progression is hindered by poor visibility on team resources and limited benefits from activities.",
+    "q27": -2,
+    "q28": "Non-paying users face challenges due to limited benefits from activities and poor visibility on team resources.",
+    "q29": -2,
+    "q30": "Players feel frustrated by the lack of visibility on team resources and limited benefits from activities."
+  },
+  {
+    "q0": 34543886,
+    "q27": -2,
+    "q28": "Non-paying users face challenges due to high prices for cosmetic items.",
+    "q29": -2,
+    "q30": "Players feel frustrated by the high prices for cosmetic items and the perceived use of fake reviews."
+  },
+  {
+    "q0": 34823385,
+    "q21": -2,
+    "q22": "The game is criticized for poor event planning and execution, particularly during the New Year event.",
+    "q27": -2,
+    "q28": "Non-paying users face challenges due to poor event planning and execution.",
+    "q29": -2,
+    "q30": "Players feel frustrated by poor event planning and execution, particularly during the New Year event."
+  },
+  {
+    "q0": 34822723,
+    "q11": -2,
+    "q12": "The Tangmen class is described as being very weak and not desired in team compositions.",
+    "q27": -2,
+    "q28": "Non-paying users face challenges due to certain classes being very weak and not desired in team compositions."
+  },
+  {
+    "q0": 34822094,
+    "q29": -2,
+    "q30": "The game is criticized for focusing on monetization through gacha mechanics and attribute-boosting items."
+  },
+  {
+    "q0": 30397948,
+    "q29": -2,
+    "q30": "The game is criticized for having many monetization traps and being unfriendly to new players."
+  },
+  {
+    "q0": 34821877,
+    "q29": -2,
+    "q30": "The game is criticized for having expensive gacha mechanics and attribute-boosting items, creating spending pressure."
+  },
+  {
+    "q0": 34795013,
+    "q29": -2,
+    "q30": "The game is criticized for not supporting non-paying players, creating a strong pressure to spend money."
+  },
+  {
+    "q0": 34780974,
+    "q29": -2,
+    "q30": "The game is criticized for requiring spending to access certain content, creating a strong pressure to spend money."
+  },
+  {
+    "q0": 34778466,
+    "q13": -2,
+    "q14": "Pet diversity is criticized for being limited, with only a few viable options and a lack of balance.",
+    "q27": -2,
+    "q28": "Non-paying users face challenges due to limited pet diversity and balance issues."
+  },
+  {
+    "q0": 34747651,
+    "q29": -2,
+    "q30": "The game is criticized for having low drop rates and not listening to player feedback, creating spending pressure."
+  },
+  {
+    "q0": 34746683,
+    "q29": -2,
+    "q30": "The game is criticized for having an unreasonable currency system and requiring spending to progress."
+  },
+  {
+    "q0": 34746337,
+    "q29": -2,
+    "q30": "The game is criticized for requiring spending to access certain content, creating a strong pressure to spend money."
+  },
+  {
+    "q0": 34740654,
+    "q29": -2,
+    "q30": "The game is criticized for lacking cross-server functionality and requiring player teams for activities, creating spending pressure."
+  },
+  {
+    "q0": 34700751,
+    "q29": -2,
+    "q30": "The game is criticized for requiring spending to progress and having a tedious gameplay loop."
+  },
+  {
+    "q0": 34696651,
+    "q29": -2,
+    "q30": "The game is criticized for having fixed activity times that interfere with players' schedules, creating spending pressure."
+  }
+]
+```

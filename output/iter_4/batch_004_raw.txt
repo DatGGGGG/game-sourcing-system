@@ -1,0 +1,499 @@
+```json
+[
+  {
+    "q0": 40524423,
+    "q5": "The user suggests adding more multiplayer mini-games and removing high-effort, low-reward activities.",
+    "q41": "Suggestions for game improvement."
+  },
+  {
+    "q0": 40520702,
+    "q5": "The user discusses the current meta and the effectiveness of certain pets and characters.",
+    "q41": "Discussion on meta and character effectiveness."
+  },
+  {
+    "q0": 40519904,
+    "q5": "The user describes the effectiveness of a character's skill and the difference between free and paying players.",
+    "q41": "Skill effectiveness and player type differences."
+  },
+  {
+    "q0": 40515036,
+    "q5": "The user compares the strengths of different characters and their skills.",
+    "q41": "Character and skill comparison."
+  },
+  {
+    "q0": 40513215,
+    "q5": "The user describes a strategic scenario in combat involving specific characters and skills.",
+    "q41": "Combat strategy description."
+  },
+  {
+    "q0": 40512076,
+    "q5": "The user describes a combat scenario and the effectiveness of certain characters and skills.",
+    "q41": "Combat scenario and character effectiveness."
+  },
+  {
+    "q0": 40501509,
+    "q5": "The user discusses the advantages of level capping and resource management.",
+    "q41": "Level capping and resource management."
+  },
+  {
+    "q0": 40509513,
+    "q5": "The user discusses cross-server competitions and the differences in pet attributes.",
+    "q41": "Cross-server competition and pet attribute differences."
+  },
+  {
+    "q0": 40505301,
+    "q5": "The user describes a combat scenario involving skill prediction.",
+    "q41": "Combat skill prediction."
+  },
+  {
+    "q0": 40495722,
+    "q5": "The user compares different characters and their effectiveness in combat.",
+    "q41": "Character effectiveness comparison."
+  },
+  {
+    "q0": 40501082,
+    "q5": "The user expresses uncertainty about character usage and decision-making.",
+    "q41": "Character usage uncertainty."
+  },
+  {
+    "q0": 40492928,
+    "q5": "The user discusses team formation and the reluctance of players to lead teams.",
+    "q41": "Team formation and leadership reluctance."
+  },
+  {
+    "q0": 40502453,
+    "q5": "The user expresses concern about game updates deviating from the original intent.",
+    "q41": "Concern about game updates."
+  },
+  {
+    "q0": 40491237,
+    "q5": "The user discusses the effectiveness of certain skills and character builds.",
+    "q41": "Skill and character build effectiveness."
+  },
+  {
+    "q0": 40494622,
+    "q5": "The user advises new players on character selection and strategy.",
+    "q41": "New player advice on character selection."
+  },
+  {
+    "q0": 40492226,
+    "q5": "The user describes their current character and strategy in the game.",
+    "q41": "Character and strategy description."
+  },
+  {
+    "q0": 40493148,
+    "q5": "The user describes a game feature and its importance in daily gameplay.",
+    "q41": "Game feature importance in daily gameplay."
+  },
+  {
+    "q0": 40496157,
+    "q5": "The user expresses appreciation for the game's art style and details.",
+    "q41": "Appreciation for art style and details."
+  },
+  {
+    "q0": 40484652,
+    "q5": "The user discusses a character's effectiveness in the current game version.",
+    "q41": "Character effectiveness in current version."
+  },
+  {
+    "q0": 40494696,
+    "q5": "The user criticizes the matchmaking system and level disparity in competitions.",
+    "q41": "Criticism of matchmaking and level disparity."
+  },
+  {
+    "q0": 40486159,
+    "q5": "The user discusses skill selection and character survivability.",
+    "q41": "Skill selection and character survivability."
+  },
+  {
+    "q0": 40477004,
+    "q5": "The user provides advice on equipment and resource management.",
+    "q41": "Equipment and resource management advice."
+  },
+  {
+    "q0": 40483794,
+    "q5": "The user criticizes common misconceptions about character roles.",
+    "q41": "Criticism of character role misconceptions."
+  },
+  {
+    "q0": 40486239,
+    "q5": "The user discusses the importance of understanding skills and strategy.",
+    "q41": "Importance of skill understanding and strategy."
+  },
+  {
+    "q0": 40487004,
+    "q5": "The user discusses character builds and skill effectiveness.",
+    "q41": "Character builds and skill effectiveness."
+  },
+  {
+    "q0": 40474286,
+    "q5": "The user discusses the effectiveness of a combat strategy.",
+    "q41": "Combat strategy effectiveness."
+  },
+  {
+    "q0": 40473853,
+    "q5": "The user expresses enjoyment of the game and its convenience for casual play.",
+    "q41": "Enjoyment and convenience for casual play."
+  },
+  {
+    "q0": 40475482,
+    "q5": "The user provides advice on skill selection for character builds.",
+    "q41": "Skill selection advice for character builds."
+  },
+  {
+    "q0": 40477421,
+    "q5": "The user appreciates the game's art style and setting.",
+    "q41": "Appreciation for art style and setting."
+  },
+  {
+    "q0": 40481454,
+    "q5": "The user appreciates the game's depth in character development and evolution.",
+    "q41": "Appreciation for character development depth."
+  },
+  {
+    "q0": 40481071,
+    "q5": "The user reports frequent bugs and login issues.",
+    "q41": "Frequent bugs and login issues."
+  },
+  {
+    "q0": 40481066,
+    "q5": "The user reports login issues and expresses concern about game balance.",
+    "q41": "Login issues and game balance concern."
+  },
+  {
+    "q0": 40467247,
+    "q5": "The user discusses character progression and strategy in PvP.",
+    "q41": "Character progression and PvP strategy."
+  },
+  {
+    "q0": 40469451,
+    "q5": "The user discusses the effectiveness of equipment and skills.",
+    "q41": "Equipment and skill effectiveness."
+  },
+  {
+    "q0": 40468160,
+    "q5": "The user discusses the strategic aspect of a character in PvP.",
+    "q41": "Strategic aspect of character in PvP."
+  },
+  {
+    "q0": 40473366,
+    "q5": "The user categorizes players based on spending and time commitment.",
+    "q41": "Player categorization based on spending and time."
+  },
+  {
+    "q0": 40466212,
+    "q5": "The user criticizes the game's monetization and resource acquisition.",
+    "q41": "Criticism of monetization and resource acquisition."
+  },
+  {
+    "q0": 40458823,
+    "q5": "The user discusses character acquisition and resource management.",
+    "q41": "Character acquisition and resource management."
+  },
+  {
+    "q0": 40447825,
+    "q5": "The user appreciates the game's art and gameplay mechanics.",
+    "q41": "Appreciation for art and gameplay mechanics."
+  },
+  {
+    "q0": 40452863,
+    "q5": "The user discusses character changes and skill effectiveness.",
+    "q41": "Character changes and skill effectiveness."
+  },
+  {
+    "q0": 40453378,
+    "q5": "The user appreciates the game's automation and requests more cosmetic options.",
+    "q41": "Appreciation for automation and cosmetic requests."
+  },
+  {
+    "q0": 40443821,
+    "q5": "The user expresses uncertainty about character usage.",
+    "q41": "Uncertainty about character usage."
+  },
+  {
+    "q0": 40443399,
+    "q5": "The user suggests improvements to cultural and character depth.",
+    "q41": "Suggestions for cultural and character depth improvements."
+  },
+  {
+    "q0": 40448591,
+    "q5": "The user appreciates the game's depth in character development and evolution.",
+    "q41": "Appreciation for character development depth."
+  },
+  {
+    "q0": 40450776,
+    "q5": "The user criticizes the game's monetization and resource demands.",
+    "q41": "Criticism of monetization and resource demands."
+  },
+  {
+    "q0": 40449385,
+    "q5": "The user expresses satisfaction with a recent purchase.",
+    "q41": "Satisfaction with recent purchase."
+  },
+  {
+    "q0": 40428802,
+    "q5": "The user discusses the randomness of skill and attribute acquisition.",
+    "q41": "Randomness of skill and attribute acquisition."
+  },
+  {
+    "q0": 40446057,
+    "q5": "The user mentions a related comic.",
+    "q41": "Mention of related comic."
+  },
+  {
+    "q0": 40445426,
+    "q5": "The user appreciates the game's long-term playability and casual elements.",
+    "q41": "Appreciation for long-term playability and casual elements."
+  },
+  {
+    "q0": 40428647,
+    "q5": "The user discusses the effectiveness of a skill in combat.",
+    "q41": "Skill effectiveness in combat."
+  },
+  {
+    "q0": 40418108,
+    "q5": "The user criticizes the effectiveness of certain skills and attributes.",
+    "q41": "Criticism of skill and attribute effectiveness."
+  },
+  {
+    "q0": 40412139,
+    "q5": "The user discusses the challenges of forming teams and using formations.",
+    "q41": "Challenges of team formation and usage."
+  },
+  {
+    "q0": 40410389,
+    "q5": "The user compares the effectiveness of different character builds.",
+    "q41": "Comparison of character build effectiveness."
+  },
+  {
+    "q0": 40416443,
+    "q5": "The user appreciates the game's graphics and balance.",
+    "q41": "Appreciation for graphics and balance."
+  },
+  {
+    "q0": 40400244,
+    "q5": "The user appreciates the game's historical elements and art style.",
+    "q41": "Appreciation for historical elements and art style."
+  },
+  {
+    "q0": 40365481,
+    "q5": "The user discusses character evolution and resource management.",
+    "q41": "Character evolution and resource management."
+  },
+  {
+    "q0": 40363296,
+    "q5": "The user suggests more flexible gameplay options.",
+    "q41": "Suggestion for flexible gameplay options."
+  },
+  {
+    "q0": 40366895,
+    "q5": "The user criticizes the game's demands on time and money.",
+    "q41": "Criticism of time and money demands."
+  },
+  {
+    "q0": 40340137,
+    "q5": "The user appreciates the game's art and plays casually.",
+    "q41": "Appreciation for art and casual play."
+  },
+  {
+    "q0": 40356805,
+    "q5": "The user appreciates game improvements and suggests further reduction in tasks.",
+    "q41": "Appreciation for improvements and task reduction suggestion."
+  },
+  {
+    "q0": 40307701,
+    "q5": "The user describes the game as a simple pet-catching RPG.",
+    "q41": "Description of game as simple RPG."
+  },
+  {
+    "q0": 40343973,
+    "q5": "The user asks for help with game navigation.",
+    "q41": "Request for help with game navigation."
+  },
+  {
+    "q0": 40343361,
+    "q5": "The user criticizes in-game promotions and suggests improvements.",
+    "q41": "Criticism of promotions and improvement suggestions."
+  },
+  {
+    "q0": 40305655,
+    "q5": "The user discusses the effectiveness of a skill and its priority.",
+    "q41": "Skill effectiveness and priority discussion."
+  },
+  {
+    "q0": 35893937,
+    "q5": "The user questions a recent game update and its impact on gameplay.",
+    "q41": "Questioning of game update impact."
+  },
+  {
+    "q0": 40335578,
+    "q5": "The user questions character design choices.",
+    "q41": "Questioning of character design choices."
+  },
+  {
+    "q0": 40324728,
+    "q5": "The user appreciates the game's vertical screen design.",
+    "q41": "Appreciation for vertical screen design."
+  },
+  {
+    "q0": 40255067,
+    "q5": "The user suggests more weekend activities.",
+    "q41": "Suggestion for more weekend activities."
+  },
+  {
+    "q0": 40249091,
+    "q5": "The user compares the game to another popular game.",
+    "q41": "Comparison to another popular game."
+  },
+  {
+    "q0": 40214074,
+    "q5": "The user appreciates the game's quest design and storytelling.",
+    "q41": "Appreciation for quest design and storytelling."
+  },
+  {
+    "q0": 40212003,
+    "q5": "The user discusses the effectiveness of certain skills and characters.",
+    "q41": "Effectiveness of skills and characters."
+  },
+  {
+    "q0": 40170610,
+    "q5": "The user discusses skill and character management.",
+    "q41": "Skill and character management discussion."
+  },
+  {
+    "q0": 40159832,
+    "q5": "The user discusses resource management and spending strategy.",
+    "q41": "Resource management and spending strategy."
+  },
+  {
+    "q0": 40160360,
+    "q5": "The user suggests improvements to game exploration and rewards.",
+    "q41": "Suggestion for exploration and rewards improvement."
+  },
+  {
+    "q0": 40135346,
+    "q5": "The user discusses the benefits of a subscription and resource management.",
+    "q41": "Subscription benefits and resource management."
+  },
+  {
+    "q0": 34687307,
+    "q5": "The user criticizes the abundance of scheduled activities.",
+    "q41": "Criticism of scheduled activities."
+  },
+  {
+    "q0": 40149273,
+    "q5": "The user appreciates the game's art but criticizes task length.",
+    "q41": "Appreciation for art and task length criticism."
+  },
+  {
+    "q0": 40137865,
+    "q5": "The user criticizes the game's monetization and time demands.",
+    "q41": "Criticism of monetization and time demands."
+  },
+  {
+    "q0": 40127813,
+    "q5": "The user discusses character effectiveness in combat.",
+    "q41": "Character effectiveness in combat."
+  },
+  {
+    "q0": 34543621,
+    "q5": "The user criticizes the game's reliance on team play.",
+    "q41": "Criticism of team play reliance."
+  },
+  {
+    "q0": 40126854,
+    "q5": "The user advises caution in resource management.",
+    "q41": "Caution in resource management advice."
+  },
+  {
+    "q0": 40093884,
+    "q5": "The user discusses skill effectiveness in combat.",
+    "q41": "Skill effectiveness in combat."
+  },
+  {
+    "q0": 40100886,
+    "q5": "The user criticizes the game's social and difficulty aspects.",
+    "q41": "Criticism of social and difficulty aspects."
+  },
+  {
+    "q0": 40090999,
+    "q5": "The user criticizes the auction house system.",
+    "q41": "Criticism of auction house system."
+  },
+  {
+    "q0": 40087418,
+    "q5": "The user finds the game suitable for casual play.",
+    "q41": "Suitability for casual play."
+  },
+  {
+    "q0": 40083800,
+    "q5": "The user appreciates the game's convenience and casual nature.",
+    "q41": "Appreciation for convenience and casual nature."
+  },
+  {
+    "q0": 40047033,
+    "q5": "The user discusses equipment attributes and their impact.",
+    "q41": "Discussion of equipment attributes impact."
+  },
+  {
+    "q0": 40079156,
+    "q5": "The user advises perseverance in gameplay.",
+    "q41": "Advice for perseverance in gameplay."
+  },
+  {
+    "q0": 40078291,
+    "q5": "The user criticizes the game's demands on time and money.",
+    "q41": "Criticism of time and money demands."
+  },
+  {
+    "q0": 40078239,
+    "q5": "The user criticizes the game's progression and monetization.",
+    "q41": "Criticism of progression and monetization."
+  },
+  {
+    "q0": 40068459,
+    "q5": "The user appreciates the game's art and character design.",
+    "q41": "Appreciation for art and character design."
+  },
+  {
+    "q0": 40068075,
+    "q5": "The user appreciates the game's art and suggests improvements to gacha rates.",
+    "q41": "Appreciation for art and gacha rate suggestion."
+  },
+  {
+    "q0": 40067727,
+    "q5": "The user expresses overall satisfaction with the game.",
+    "q41": "Overall satisfaction with the game."
+  },
+  {
+    "q0": 40053384,
+    "q5": "The user suggests more consideration for player schedules.",
+    "q41": "Suggestion for player schedule consideration."
+  },
+  {
+    "q0": 40026386,
+    "q5": "The user expresses satisfaction with the game.",
+    "q41": "Satisfaction with the game."
+  },
+  {
+    "q0": 40024852,
+    "q5": "The user appreciates the game's aesthetics.",
+    "q41": "Appreciation for aesthetics."
+  },
+  {
+    "q0": 40017493,
+    "q5": "The user appreciates the game's design and convenience.",
+    "q41": "Appreciation for design and convenience."
+  },
+  {
+    "q0": 40015122,
+    "q5": "The user appreciates the game's art style.",
+    "q41": "Appreciation for art style."
+  },
+  {
+    "q0": 39999560,
+    "q5": "The user discusses resource investment and character development.",
+    "q41": "Resource investment and character development discussion."
+  }
+]
+```

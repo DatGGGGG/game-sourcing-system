@@ -1,0 +1,334 @@
+```json
+[
+  {
+    "q0": 34938259,
+    "q4": -1,
+    "q5": "Combat is too slow, taking too much time for daily tasks.",
+    "q9": -1,
+    "q10": "Daily tasks take too long, about 3 hours, which is not suitable for working individuals.",
+    "q15": "N/A",
+    "q16": false,
+    "q17": -1,
+    "q18": "Daily tasks are time-consuming and repetitive.",
+    "q29": -1,
+    "q30": "The game is grindy and requires significant time investment.",
+    "q41": "Suggests reducing the number of daily tasks and increasing combat speed."
+  },
+  {
+    "q0": 34934148,
+    "q4": 2,
+    "q5": "Despite being a reskin, the game is considered the most sincere of its kind.",
+    "q9": 2,
+    "q10": "The game is considered worth playing and is praised for its sincerity."
+  },
+  {
+    "q0": 34934091,
+    "q21": -1,
+    "q22": "Bug fixes are slow, with only one out of three issues resolved.",
+    "q41": "The game has bugs and slow response to feedback."
+  },
+  {
+    "q0": 34932919,
+    "q41": "False advertising regarding portrait mode."
+  },
+  {
+    "q0": 34616156,
+    "q41": "Level restrictions make progression difficult, suggesting a virtual level system."
+  },
+  {
+    "q0": 34928518,
+    "q4": -1,
+    "q5": "Daily tasks are repetitive and time-consuming.",
+    "q9": -1,
+    "q10": "The game is grindy and requires significant time investment.",
+    "q29": -2,
+    "q30": "The game is both grindy and pay-to-win, with poor events focused on spending."
+  },
+  {
+    "q0": 34927752,
+    "q4": -1,
+    "q5": "The game mechanics are not sustainable long-term.",
+    "q9": -1,
+    "q10": "The game is repetitive and lacks meaningful progression.",
+    "q15": "Tower climbing and idle gameplay.",
+    "q16": false,
+    "q17": -1,
+    "q18": "The secondary loop is repetitive and lacks depth.",
+    "q29": -2,
+    "q30": "The game is heavily reliant on spending, especially for rare items and progression.",
+    "q41": "The game is compared to a WeChat mini-program, with forced team play and poor server population."
+  },
+  {
+    "q0": 34923500,
+    "q41": "Poor customer service and new player experience."
+  },
+  {
+    "q0": 34922450,
+    "q9": -1,
+    "q10": "Daily tasks are too complex and time-consuming.",
+    "q41": "Forced team play is frustrating and leads to quitting if unable to find teammates."
+  },
+  {
+    "q0": 34922004,
+    "q41": "The game lacks polish and was released prematurely."
+  },
+  {
+    "q0": 34920788,
+    "q11": -2,
+    "q12": "Significant imbalance between characters, with one being much stronger than others."
+  },
+  {
+    "q0": 34920663,
+    "q41": "Customer service is unresponsive and focused on advertising rather than technical support."
+  },
+  {
+    "q0": 34686008,
+    "q41": "Level cap issues and poor matchmaking in PvP."
+  },
+  {
+    "q0": 34914184,
+    "q41": "Matchmaking issues in ranked play, with lower levels matched against higher levels."
+  },
+  {
+    "q0": 34913283,
+    "q41": "Game is affordable for casual players."
+  },
+  {
+    "q0": 34588815,
+    "q29": -2,
+    "q30": "The game heavily pressures spending, with auction house restrictions and imbalanced pet effects.",
+    "q41": "Auction house currency restrictions and imbalanced pet effects."
+  },
+  {
+    "q0": 34882589,
+    "q41": "Team leader inactivity prevents task completion, causing frustration."
+  },
+  {
+    "q0": 34882304,
+    "q41": "Despite promotions, player population remains low."
+  },
+  {
+    "q0": 34881515,
+    "q41": "Server merging issues and concerns about character design originality."
+  },
+  {
+    "q0": 34881106,
+    "q41": "The game does not support foldable screens."
+  },
+  {
+    "q0": 34878450,
+    "q41": "Late registration leads to difficulty catching up in levels."
+  },
+  {
+    "q0": 34877959,
+    "q41": "Training issues with pets not benefiting from certain commands."
+  },
+  {
+    "q0": 34877507,
+    "q11": -2,
+    "q12": "Significant imbalance between classes, with support roles being less viable.",
+    "q29": -2,
+    "q30": "The game is heavily pay-to-win, with optimization issues and time constraints."
+  },
+  {
+    "q0": 34877657,
+    "q41": "Frequent new server openings lead to declining player populations in older servers."
+  },
+  {
+    "q0": 34875980,
+    "q29": -2,
+    "q30": "The game uses gambling mechanics to encourage spending, with poor rewards and high costs.",
+    "q41": "Level caps, poor rewards, and gambling mechanics create an unfair game environment."
+  },
+  {
+    "q0": 34875343,
+    "q41": "The game is suitable for non-paying players but primarily serves as an idle game."
+  },
+  {
+    "q0": 34149533,
+    "q29": -2,
+    "q30": "The game is heavily pay-to-win, with hidden changes and poor balance.",
+    "q41": "Frequent changes to encourage spending and poor balance between paying and non-paying players."
+  },
+  {
+    "q0": 34874656,
+    "q41": "Complaints about fairness in a free-to-play game."
+  },
+  {
+    "q0": 34874522,
+    "q41": "The game combines outdated PC mechanics with traditional mobile gameplay."
+  },
+  {
+    "q0": 34872059,
+    "q41": "The game allows for strategic saving and spending on rare creatures."
+  },
+  {
+    "q0": 34871909,
+    "q41": "Joining a new server is recommended to avoid level disparities."
+  },
+  {
+    "q0": 34871012,
+    "q41": "The game is enjoyable but suffers from performance issues."
+  },
+  {
+    "q0": 34865149,
+    "q41": "The game does not pressure spending heavily, but spending enhances the experience."
+  },
+  {
+    "q0": 34864765,
+    "q41": "Surprised the game hasn't failed yet."
+  },
+  {
+    "q0": 34864645,
+    "q41": "The introductory storyline is too long and cannot be skipped."
+  },
+  {
+    "q0": 34863412,
+    "q41": "The game has a frustrating and unrewarding manual gameplay mode."
+  },
+  {
+    "q0": 34863170,
+    "q41": "Important activities require mandatory team play, which is frustrating."
+  },
+  {
+    "q0": 34863014,
+    "q41": "Limited-time events are annoying due to their restrictive nature."
+  },
+  {
+    "q0": 34860178,
+    "q41": "Non-paying players struggle in combat and team activities."
+  },
+  {
+    "q0": 34856461,
+    "q41": "Currency restrictions and cluttered interface lead to a poor experience."
+  },
+  {
+    "q0": 34855273,
+    "q41": "The combat interface lacks important information about teammates."
+  },
+  {
+    "q0": 34851121,
+    "q41": "The game contacts players to encourage them to log in."
+  },
+  {
+    "q0": 34850552,
+    "q41": "Limited pet variety and level caps make the game less engaging."
+  },
+  {
+    "q0": 34849123,
+    "q41": "The game is dominated by high-spending players, leaving little room for casual players."
+  },
+  {
+    "q0": 34848858,
+    "q41": "The game heavily favors paying players and uses influencers to promote spending."
+  },
+  {
+    "q0": 34846727,
+    "q41": "Daily rewards have been secretly reduced."
+  },
+  {
+    "q0": 34842209,
+    "q41": "The game frequently makes secret changes to player rewards."
+  },
+  {
+    "q0": 34752384,
+    "q41": "Misleading information about event rewards leads to frustration."
+  },
+  {
+    "q0": 34838869,
+    "q41": "Only a few rare creatures are considered useful."
+  },
+  {
+    "q0": 34838859,
+    "q41": "Regret over investing resources into a weak creature."
+  },
+  {
+    "q0": 34837754,
+    "q41": "Events are designed to exploit players rather than provide value."
+  },
+  {
+    "q0": 34837734,
+    "q41": "Queue times for certain activities are excessively long."
+  },
+  {
+    "q0": 34733772,
+    "q41": "Concerns about frequent server openings and secret changes to game mechanics."
+  },
+  {
+    "q0": 34833965,
+    "q41": "Customer service is lacking, and there are issues with item binding."
+  },
+  {
+    "q0": 34832639,
+    "q41": "High costs for cosmetic items and exploitative gacha mechanics."
+  },
+  {
+    "q0": 34832260,
+    "q41": "Performance issues on certain devices."
+  },
+  {
+    "q0": 34831015,
+    "q41": "Customer service is unhelpful and dismissive."
+  },
+  {
+    "q0": 34830844,
+    "q41": "Customer service is unresponsive to issues with in-game purchases."
+  },
+  {
+    "q0": 34830619,
+    "q41": "Lack of transparency in skill descriptions and frequent server openings."
+  },
+  {
+    "q0": 34828173,
+    "q41": "Concerns about pay-to-win mechanics with cosmetic items providing bonuses."
+  },
+  {
+    "q0": 34821293,
+    "q41": "The game does not disclose probability rates for in-game mechanics."
+  },
+  {
+    "q0": 34603218,
+    "q41": "Frequent server openings are seen as a short-sighted strategy."
+  },
+  {
+    "q0": 34819997,
+    "q41": "Lack of transparency in event probability rates leads to player frustration."
+  },
+  {
+    "q0": 34819797,
+    "q41": "Concerns about pay-to-win mechanics and lack of future content development."
+  },
+  {
+    "q0": 34818059,
+    "q41": "Concerns about auction house restrictions, secret changes, and lack of transparency."
+  },
+  {
+    "q0": 34816290,
+    "q41": "Imbalance between rare creatures, with some being significantly weaker."
+  },
+  {
+    "q0": 34815830,
+    "q41": "The game is heavily reliant on spending for progression and lacks player-to-player trading."
+  },
+  {
+    "q0": 34811549,
+    "q41": "Misleading event descriptions lead to player frustration."
+  },
+  {
+    "q0": 34811487,
+    "q41": "The game has stability issues with frequent crashes."
+  },
+  {
+    "q0": 34811397,
+    "q41": "The game is less pay-to-win compared to others, with some innovative features."
+  },
+  {
+    "q0": 34809550,
+    "q41": "Frequent new content releases pressure players to spend money."
+  },
+  {
+    "q0": 34783672,
+    "q41": "Customer service is unhelpful with resolving issues related to in-game errors."
+  }
+]
+```

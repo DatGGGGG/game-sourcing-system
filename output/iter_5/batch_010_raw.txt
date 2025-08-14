@@ -1,0 +1,136 @@
+```json
+[
+    {
+        "q0": 34541308,
+        "q5": "The game is perceived as a reskin of a 10-year-old game, not worth the time to play."
+    },
+    {
+        "q0": 34542928,
+        "q5": "The game is considered not fun."
+    },
+    {
+        "q0": 34542694,
+        "q5": "The game is found to be uninteresting after a few minutes of play."
+    },
+    {
+        "q0": 34261353,
+        "q5": "The game is easy to operate and provides a lot of free items upon launch, which is appreciated."
+    },
+    {
+        "q0": 34542287,
+        "q5": "The game is seen as a reskin pay-to-win browser game."
+    },
+    {
+        "q0": 34542168,
+        "q5": "The game is boring enough to make the player fall asleep within a minute."
+    },
+    {
+        "q0": 34542124,
+        "q5": "The game feels like a browser game from 20 years ago."
+    },
+    {
+        "q0": 34542076,
+        "q5": "Reporting abusive language in world chat requires an item, which is seen as a negative aspect."
+    },
+    {
+        "q0": 34542043,
+        "q5": "The game has paid promoters in chat to influence others to spend money, which is seen negatively."
+    },
+    {
+        "q0": 34541973,
+        "q5": "The game is considered boring and similar to a web game."
+    },
+    {
+        "q0": 34107812,
+        "q5": "The game lacks acceleration, making it time-consuming, and is perceived as a reskin of other games with little original content."
+    },
+    {
+        "q0": 34541811,
+        "q5": "The game is found to be boring with no enjoyable experience."
+    },
+    {
+        "q0": 34541779,
+        "q5": "The new characters are visually appealing, and the faction system is interesting."
+    },
+    {
+        "q0": 34541772,
+        "q5": "The game prevents players from spending money, leading to player frustration."
+    },
+    {
+        "q0": 34541746,
+        "q5": "The game is similar to the turn-based gameplay of an older game, Dream of the Red Chamber, with no significant differences."
+    },
+    {
+        "q0": 34541668,
+        "q5": "The game uses a model of paid promoters and monetization, which is seen negatively."
+    },
+    {
+        "q0": 34541658,
+        "q5": "The game is no different from a browser game, leading to disappointment after long promotion."
+    },
+    {
+        "q0": 34541591,
+        "q5": "The game is perceived as requiring spending money to play effectively."
+    },
+    {
+        "q0": 34541432,
+        "q5": "The game is perceived as a browser game and is unplayable."
+    },
+    {
+        "q0": 34541286,
+        "q5": "The game is seen as a reskin browser game, yet some people still praise it."
+    },
+    {
+        "q0": 34541110,
+        "q5": "The requirement to queue to enter the game is off-putting."
+    },
+    {
+        "q0": 34541099,
+        "q5": "The need to queue is frustrating, leading to uninstallation."
+    },
+    {
+        "q0": 34541084,
+        "q5": "Long queue times to enter the game are frustrating."
+    },
+    {
+        "q0": 34541056,
+        "q5": "The game has long queues, which is seen as a negative aspect."
+    },
+    {
+        "q0": 34540978,
+        "q5": "The game was uninstalled after 5 minutes of play."
+    },
+    {
+        "q0": 34540977,
+        "q5": "The game has many servers but still requires queuing, leading to frustration."
+    },
+    {
+        "q0": 34540940,
+        "q5": "The game crashes upon launch."
+    },
+    {
+        "q0": 34540895,
+        "q5": "The game requires queuing upon launch, which is frustrating."
+    },
+    {
+        "q0": 34540859,
+        "q5": "The game requires a 4-hour queue to play."
+    },
+    {
+        "q0": 34540717,
+        "q5": "The game is difficult to access and requires a 3-hour queue."
+    },
+    {
+        "q0": 34540581,
+        "q5": "The game is inaccessible."
+    },
+    {
+        "q0": 34540567,
+        "q5": "The game cannot be opened."
+    },
+    {
+        "q0": 34540493,
+        "q5": "The game is inaccessible."
+    }
+]
+```

@@ -1,0 +1,248 @@
+```json
+[
+  {
+    "q0": 35484177,
+    "q3": "Physical output professions include Yi Jian and Tang Men, while magic output professions include Long Gong and Gao Lao Zhuang. Sealing profession is Qing Qiu, and the healer is Pu Tuo.",
+    "q4": 2,
+    "q5": "The user finds the game enjoyable and has a positive experience with the combat mechanics.",
+    "q6": "Resource hoarding and strategic pet selection.",
+    "q7": 2,
+    "q8": "The user emphasizes the importance of resource management and strategic decisions in pet selection.",
+    "q9": 2,
+    "q10": "The user has progressed to level 75 and has acquired desired characters, indicating satisfaction with progression.",
+    "q27": 2,
+    "q28": "The user mentions that even players who spend minimally can enjoy the game comfortably.",
+    "q29": 2,
+    "q30": "The user suggests that minimal spending is sufficient for a good experience."
+  },
+  {
+    "q0": 35484173,
+    "q27": 2,
+    "q28": "The user notes that free-to-play players receive good benefits.",
+    "q29": 2,
+    "q30": "The user implies that spending is optional and not necessary for enjoyment."
+  },
+  {
+    "q0": 35484169,
+    "q9": -1,
+    "q10": "The user suggests that the game lacks unique features compared to others."
+  },
+  {
+    "q0": 35484167,
+    "q27": 2,
+    "q28": "The user suggests that spending time can allow players to compete with paying players."
+  },
+  {
+    "q0": 35484148,
+    "q41": "The user dislikes the randomness in equipment crafting and pet enhancement."
+  },
+  {
+    "q0": 35484141,
+    "q21": 0,
+    "q22": "The user suggests adding more activities and resource rewards."
+  },
+  {
+    "q0": 35484130,
+    "q1": FALSE,
+    "q4": 2,
+    "q5": "The user finds the game enjoyable and appreciates the strategic elements.",
+    "q6": "Strategic gameplay and social content.",
+    "q7": 2,
+    "q8": "The user emphasizes the importance of strategy and social interaction.",
+    "q27": 2,
+    "q28": "The user mentions that spending is mostly on cosmetic items and not necessary for progress.",
+    "q29": 2,
+    "q30": "The user appreciates the non-intrusive monetization model."
+  },
+  {
+    "q0": 35484118,
+    "q41": "The user feels that the game's micro design needs improvement."
+  },
+  {
+    "q0": 35484115,
+    "q27": 2,
+    "q28": "The user finds the game more accessible and easier to understand than others.",
+    "q29": 2,
+    "q30": "The user suggests that the game is enjoyable without heavy spending."
+  },
+  {
+    "q0": 35484114,
+    "q9": 2,
+    "q10": "The user enjoys the game's longevity and the feeling of progression.",
+    "q15": "Character development and social interaction.",
+    "q27": 2,
+    "q28": "The user finds the game accessible and enjoyable without spending.",
+    "q29": 2,
+    "q30": "The user suggests that the game offers good value without heavy spending.",
+    "q31": 1,
+    "q32": "The user appreciates the game's rewards but suggests more could be offered."
+  },
+  {
+    "q0": 35484103,
+    "q21": -1,
+    "q22": "The user mentions frequent bugs that need improvement."
+  },
+  {
+    "q0": 35484079,
+    "q21": -2,
+    "q22": "The user is frustrated with the frequent opening of new servers, which affects existing players."
+  },
+  {
+    "q0": 35484070,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable with friends and spending is optional."
+  },
+  {
+    "q0": 35484044,
+    "q41": "The user feels that capturing pets lacks an epic feeling."
+  },
+  {
+    "q0": 35484025,
+    "q19": 2,
+    "q20": "The user finds resource acquisition easy."
+  },
+  {
+    "q0": 35484022,
+    "q9": 1,
+    "q10": "The user finds the game interesting and engaging."
+  },
+  {
+    "q0": 35484012,
+    "q11": 2,
+    "q12": "The user finds the game's faction system balanced.",
+    "q27": 2,
+    "q28": "The user suggests that the game is accessible to non-paying players."
+  },
+  {
+    "q0": 35190465,
+    "q41": "The user appreciates the storyline and character design but desires more animations similar to Genshin Impact."
+  },
+  {
+    "q0": 35483920,
+    "q9": 2,
+    "q10": "The user enjoys the simplified daily tasks compared to PC games.",
+    "q27": 2,
+    "q28": "The user finds the game enjoyable with minimal spending."
+  },
+  {
+    "q0": 35483867,
+    "q19": 1,
+    "q20": "The user finds resource acquisition relatively simple.",
+    "q29": 0,
+    "q30": "The user notes the presence of spending temptations but finds it manageable."
+  },
+  {
+    "q0": 35483862,
+    "q6": "Pet skills and equipment customization.",
+    "q7": 2,
+    "q8": "The user appreciates the challenge in customizing pets and equipment."
+  },
+  {
+    "q0": 35483831,
+    "q9": 1,
+    "q10": "The user finds the game engaging but notes difficulty in certain aspects.",
+    "q41": "The user suggests improving the balance for level 69 players in guild battles."
+  },
+  {
+    "q0": 35483781,
+    "q27": 2,
+    "q28": "The user finds the game friendly to free-to-play players.",
+    "q29": 2,
+    "q30": "The user appreciates the ability to acquire powerful items without spending."
+  },
+  {
+    "q0": 35483778,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable without spending or excessive playtime."
+  },
+  {
+    "q0": 35483597,
+    "q41": "The user mentions issues with game economy and social dynamics."
+  },
+  {
+    "q0": 35483581,
+    "q6": "Skill and resource management.",
+    "q7": 2,
+    "q8": "The user appreciates the improvements in skills and resource management.",
+    "q19": 1,
+    "q20": "The user finds the resource system clear and rewarding."
+  },
+  {
+    "q0": 35483577,
+    "q19": 1,
+    "q20": "The user finds resource acquisition manageable for non-paying players."
+  },
+  {
+    "q0": 35483570,
+    "q21": 0,
+    "q22": "The user suggests adding more individual gameplay features.",
+    "q41": "The user finds the game schedule too tight, leading to missed content."
+  },
+  {
+    "q0": 35483563,
+    "q19": 0,
+    "q20": "The user finds the game friendly to free-to-play players but notes a difficulty spike after level 80."
+  },
+  {
+    "q0": 35483521,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable for players who prefer a slow-paced experience."
+  },
+  {
+    "q0": 35483510,
+    "q41": "The user experiences performance issues with the game causing phone overheating."
+  },
+  {
+    "q0": 35483500,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable with minimal spending.",
+    "q29": 2,
+    "q30": "The user appreciates the non-intrusive monetization model."
+  },
+  {
+    "q0": 35483483,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable for free-to-play players.",
+    "q29": 2,
+    "q30": "The user experiences no pressure to spend money."
+  },
+  {
+    "q0": 35483467,
+    "q21": 0,
+    "q22": "The user suggests enhancing PvP gameplay and adding new factions."
+  },
+  {
+    "q0": 35483453,
+    "q6": "Rich gameplay features.",
+    "q7": 2,
+    "q8": "The user appreciates the variety of gameplay features."
+  },
+  {
+    "q0": 35483398,
+    "q9": 1,
+    "q10": "The user finds the game enjoyable but suggests not aiming for top-tier play."
+  },
+  {
+    "q0": 35483378,
+    "q27": 2,
+    "q28": "The user finds the game accessible to non-paying players."
+  },
+  {
+    "q0": 35483373,
+    "q21": 1,
+    "q22": "The user appreciates the continuous updates and improvements.",
+    "q27": 2,
+    "q28": "The user finds the game friendly to free-to-play players."
+  },
+  {
+    "q0": 35483366,
+    "q19": 2,
+    "q20": "The user appreciates the rewards from major updates."
+  },
+  {
+    "q0": 35483314,
+    "q19": 1,
+    "q20": "The user finds resource acquisition manageable for non-paying players."
+  }
+]
+```

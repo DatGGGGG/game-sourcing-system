@@ -1,0 +1,39 @@
+```json
+[
+  {
+    "q0": 35481996,
+    "q5": "The user has played the game for over a month, indicating a positive experience."
+  },
+  {
+    "q0": 35481937,
+    "q27": 2,
+    "q28": "The user mentions that it is possible to reach the top 300 without spending money, suggesting good access for non-paying users."
+  },
+  {
+    "q0": 35481803,
+    "q27": 2,
+    "q28": "The user states that the game can be played without spending money and without excessive grinding."
+  },
+  {
+    "q0": 35481714,
+    "q5": "The user finds the game fun and describes it as a nurturing turn-based game."
+  },
+  {
+    "q0": 35481711,
+    "q5": "The user describes the game as relaxing and entertaining, not requiring constant attention."
+  },
+  {
+    "q0": 35481701,
+    "q19": 2,
+    "q20": "The user finds resource accumulation manageable and enjoys collecting items and fashion."
+  },
+  {
+    "q0": 35481696,
+    "q5": "The user compares the game to a refined version of 'Dream of the Red Chamber,' indicating a positive experience."
+  },
+  {
+    "q0": 35479242,
+    "q5": "The user appreciates the game for being suitable for playing during work and not requiring intense grinding."
+  }
+]
+```

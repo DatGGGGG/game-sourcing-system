@@ -1,0 +1,229 @@
+```json
+[
+  {
+    "q0": 33966638,
+    "q9": -1,
+    "q10": "The player feels daily tasks are burdensome and highlights the difficulty in keeping up with others."
+  },
+  {
+    "q0": 33965877,
+    "q9": 1,
+    "q10": "The player is motivated by the non-deletion test and the prospect of new content and gameplay."
+  },
+  {
+    "q0": 33965066,
+    "q6": "The player mentions the importance of defensive pets like the Earth Spirit Fox and functional pets like Qingqiu and Putuo.",
+    "q7": 1,
+    "q8": "The player provides a strategy for pet selection based on their roles and abilities."
+  },
+  {
+    "q0": 33959266,
+    "q15": "The player describes crafting equipment and the randomness involved in achieving desired results.",
+    "q16": false,
+    "q17": 0,
+    "q18": "The crafting system is straightforward but relies heavily on luck.",
+    "q19": 1,
+    "q20": "The player finds it easy to obtain red equipment, suggesting a decent reward system."
+  },
+  {
+    "q0": 33958075,
+    "q11": -1,
+    "q12": "The player feels the sealing limit unfairly restricts Qingqiu's abilities.",
+    "q13": -1,
+    "q14": "The player is hesitant to use certain pets due to ability restrictions."
+  },
+  {
+    "q0": 33956557,
+    "q41": "The player criticizes the game as a reskin of existing games."
+  },
+  {
+    "q0": 33955261,
+    "q31": 2,
+    "q32": "The player is highly impressed by the game's art style and considers it a major draw."
+  },
+  {
+    "q0": 33950869,
+    "q33": true,
+    "q34": "The game is set in the Tang Dynasty.",
+    "q35": 1,
+    "q36": "The player is attracted to the game's setting and hopes it aligns with the art style."
+  },
+  {
+    "q0": 33950171,
+    "q21": 1,
+    "q22": "The player appreciates the scheduling of limited-time events on weekends."
+  },
+  {
+    "q0": 33949058,
+    "q41": "The player expresses fatigue with similar games and predicts a drop in ratings after launch."
+  },
+  {
+    "q0": 33948001,
+    "q15": "The game includes a wardrobe and fashion system.",
+    "q16": false,
+    "q17": 1,
+    "q18": "The player appreciates the ongoing improvements to the fashion system."
+  },
+  {
+    "q0": 33947767,
+    "q31": 1,
+    "q32": "The player is drawn to the game's art style, particularly the furry aesthetic."
+  },
+  {
+    "q0": 33947621,
+    "q9": 1,
+    "q10": "The player finds the game mechanics simple and not overly complicated."
+  },
+  {
+    "q0": 33945713,
+    "q9": 1,
+    "q10": "The player appreciates the game's comprehensive gameplay and unique features."
+  },
+  {
+    "q0": 33942018,
+    "q31": 1,
+    "q32": "The player finds the vertical screen format surprisingly enjoyable."
+  },
+  {
+    "q0": 33938181,
+    "q11": 2,
+    "q12": "The player finds the divine beasts to be very powerful and effective in combat."
+  },
+  {
+    "q0": 33936600,
+    "q33": true,
+    "q34": "The game features elements from the Tang Dynasty.",
+    "q35": 1,
+    "q36": "The player appreciates the historical setting and suggests adding more historical figures."
+  },
+  {
+    "q0": 33936334,
+    "q9": 2,
+    "q10": "The player is impressed with the game's storyline and tutorial, indicating thorough preparation."
+  },
+  {
+    "q0": 33936100,
+    "q9": -1,
+    "q10": "The player is frustrated with the lack of new content during testing."
+  },
+  {
+    "q0": 33935861,
+    "q21": 1,
+    "q22": "The player is excited about the upcoming test and new content."
+  },
+  {
+    "q0": 33935332,
+    "q21": 1,
+    "q22": "The player is looking forward to the non-deletion test and public release."
+  },
+  {
+    "q0": 33923398,
+    "q4": -2,
+    "q5": "The player criticizes the combat system as unbalanced and frustrating.",
+    "q9": -2,
+    "q10": "The player finds the game progression and matchmaking poorly designed.",
+    "q29": -2,
+    "q30": "The player is frustrated with the game's monetization and currency systems."
+  },
+  {
+    "q0": 33919884,
+    "q15": "The game features a fashion system with new outfits available through events.",
+    "q16": false,
+    "q17": 1,
+    "q18": "The player hopes for free access to new outfits.",
+    "q19": -1,
+    "q20": "The player is concerned about the accessibility of new outfits without spending money."
+  },
+  {
+    "q0": 33918348,
+    "q15": "The game includes a crafting system for cooking and alchemy.",
+    "q16": true,
+    "q17": -1,
+    "q18": "The player finds the crafting system limited in terms of earning currency.",
+    "q19": -1,
+    "q20": "The player finds the currency earned from crafting insufficient."
+  },
+  {
+    "q0": 33917619,
+    "q11": -1,
+    "q12": "The player expresses dissatisfaction with the current balance of professions and abilities."
+  },
+  {
+    "q0": 33916662,
+    "q31": 2,
+    "q32": "The player finds the resource system reasonable and highly recommends the game."
+  },
+  {
+    "q0": 33883782,
+    "q9": 1,
+    "q10": "The player is looking forward to the non-deletion test and hopes for more solo gameplay options."
+  },
+  {
+    "q0": 33882624,
+    "q41": "The player is concerned about potential issues with game publishers."
+  },
+  {
+    "q0": 33880362,
+    "q21": -1,
+    "q22": "The player is frustrated with the lack of communication regarding testing schedules."
+  },
+  {
+    "q0": 33879082,
+    "q31": 1,
+    "q32": "The player finds the game suitable for a wide audience and recommends it."
+  },
+  {
+    "q0": 33869977,
+    "q15": "The player inquires about the potential addition of a mentor system.",
+    "q16": false,
+    "q17": 1,
+    "q18": "The player is interested in social features like a mentor system."
+  },
+  {
+    "q0": 33862122,
+    "q21": -1,
+    "q22": "The player is frustrated with the lack of communication and transparency from the developers."
+  },
+  {
+    "q0": 33847295,
+    "q3": "The game is turn-based.",
+    "q4": -1,
+    "q5": "The player is not interested in turn-based games."
+  },
+  {
+    "q0": 33823278,
+    "q13": 1,
+    "q14": "The player suggests a system where players can develop their preferred characters without strict level constraints."
+  },
+  {
+    "q0": 33821279,
+    "q3": "The game is a strategy game.",
+    "q4": 1,
+    "q5": "The player finds the game worth playing due to its strategic elements."
+  },
+  {
+    "q0": 33801292,
+    "q15": "The player suggests adding a home system with activities like farming and fishing.",
+    "q16": true,
+    "q17": 1,
+    "q18": "The player believes these activities would extend gameplay time and appeal to casual players."
+  },
+  {
+    "q0": 33800822,
+    "q33": true,
+    "q34": "The game is set in the Tang Dynasty.",
+    "q35": 1,
+    "q36": "The player suggests incorporating more Tang Dynasty figures as characters."
+  },
+  {
+    "q0": 33790839,
+    "q31": 1,
+    "q32": "The player is impressed with the pet evolution system and art style."
+  },
+  {
+    "q0": 33790123,
+    "q13": 1,
+    "q14": "The player appreciates the ability to choose character gender and suggests more development paths for professions."
+  }
+]
+```

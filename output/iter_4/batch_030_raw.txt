@@ -1,0 +1,254 @@
+```json
+[
+  {
+    "q0": 27100081,
+    "q3": "The user prefers playing pure damage roles and enjoys using swords as weapons.",
+    "q5": "The user finds the concept of using swords, which are rich in Chinese cultural heritage, appealing."
+  },
+  {
+    "q0": 27081298,
+    "q3": "The user expresses a desire for a nurturing interface with the character Di Renjie.",
+    "q5": "The user loves nurturing elements and finds the character's artwork appealing."
+  },
+  {
+    "q0": 27078421,
+    "q3": "The game is a turn-based game, which is typically a very playable nurturing game.",
+    "q5": "The user has expectations for the game to manage prices and resource output to achieve a sustainable effect."
+  },
+  {
+    "q0": 27057800,
+    "q21": 0,
+    "q22": "The user hopes the game's storyline can be associated with the comic but not too closely, to avoid predictability."
+  },
+  {
+    "q0": 27042815,
+    "q3": "The user suggests an event called 'Tang Poetry' where famous poets from the Tang Dynasty could make appearances.",
+    "q5": "The user believes this could be an interesting way to test players' memory and understanding of poetry."
+  },
+  {
+    "q0": 27014696,
+    "q3": "The user expresses a preference for choosing female characters based on appearance.",
+    "q5": "The user hopes that both female and male character models and illustrations are attractive."
+  },
+  {
+    "q0": 26963004,
+    "q3": "The user mentions that the skills revealed in the game are quite rich.",
+    "q5": "The user likes the character design of Putuo, especially characters that can heal and deal damage."
+  },
+  {
+    "q0": 26926088,
+    "q3": "The user hopes for a feature to choose the appearance of the demon spirits at different stages.",
+    "q5": "The user suggests adding costumes or skins for demon spirits."
+  },
+  {
+    "q0": 26896318,
+    "q3": "The user feels that the artist is a cat enthusiast, as the released demon spirits resemble cats.",
+    "q5": "The user finds the artwork amusing and cat-like."
+  },
+  {
+    "q0": 26842977,
+    "q3": "The user suggests that the nurturing mechanism should not be too complex.",
+    "q5": "The user prefers a simpler nurturing mechanism, especially if it's a dual nurturing system."
+  },
+  {
+    "q0": 26837732,
+    "q3": "The user finds the gameplay difficulty not very high and the battle screen simple.",
+    "q5": "The user appreciates that the game doesn't seem too grindy and feels it will be relaxing."
+  },
+  {
+    "q0": 26825453,
+    "q3": "The user likes the art style of Chang'an, which gives a unique feeling.",
+    "q5": "The user is drawn to the art style, possibly due to the presence of Totoro."
+  },
+  {
+    "q0": 26724551,
+    "q3": "The user hopes the nurturing mechanism is not too complex and suggests level sharing.",
+    "q5": "The user wants to enjoy multiple cute demon spirits and rotate them in gameplay."
+  },
+  {
+    "q0": 26693832,
+    "q3": "The user recalls a promise that even after reaching the third stage, players can use the first stage animal form.",
+    "q5": "The user appreciates the flexibility in choosing forms."
+  },
+  {
+    "q0": 26691814,
+    "q3": "The user feels that through strategy and effort, players can nurture demon spirits.",
+    "q5": "The user is concerned about the game's grind level but appreciates the effort put into the game's art."
+  },
+  {
+    "q0": 26644784,
+    "q3": "The user hopes the game is related to the same-name comic and wishes to see the continuation of the storyline.",
+    "q5": "The user is a fan of the comic and hopes the game will provide more content."
+  },
+  {
+    "q0": 26635160,
+    "q3": "The user is excited about the artwork of the Qingqiu Fox and the concept of cloud pet raising.",
+    "q5": "The user finds the idea of virtual pet raising appealing."
+  },
+  {
+    "q0": 26614568,
+    "q3": "The user is interested in the pet progression system in Chang'an Fantasy.",
+    "q5": "The user appreciates the variety of pets and their evolving appearances."
+  },
+  {
+    "q0": 26570196,
+    "q3": "The game combines nurturing (character) and casual (demon catching) gameplay.",
+    "q5": "The user believes the artwork will attract many players."
+  },
+  {
+    "q0": 26547993,
+    "q3": "The user is attracted to the information about the demon spirits and hopes for more in the future.",
+    "q5": "The user is a collection enthusiast and looks forward to collecting more demon spirits."
+  },
+  {
+    "q0": 26544270,
+    "q3": "The user is impressed by the artwork of Huohua, describing it as both elegant and cute.",
+    "q5": "The user finds the artwork of Huohua very appealing."
+  },
+  {
+    "q0": 26542876,
+    "q3": "The user is impressed by the artwork of Huohua, describing it as both elegant and cute.",
+    "q5": "The user finds the artwork of Huohua very appealing."
+  },
+  {
+    "q0": 26482589,
+    "q3": "The game is adapted from the Chang'an Fantasy anime and has a similar art style.",
+    "q5": "The user finds the art style appealing and hopes for a storyline-driven character development."
+  },
+  {
+    "q0": 26457832,
+    "q3": "The game features character nurturing and demon spirit progression, aligning with the comic's theme.",
+    "q5": "The user is excited about the alignment of the game with the comic's theme."
+  },
+  {
+    "q0": 26424005,
+    "q3": "The user appreciates the pet collection and nurturing aspect of the game.",
+    "q5": "The user is impressed by the artwork and the evolving appearances of the demon spirits."
+  },
+  {
+    "q0": 26378704,
+    "q3": "The user wonders if the game will have the nine-stage system from the comic.",
+    "q5": "The user is curious about the game's progression system."
+  },
+  {
+    "q0": 26371945,
+    "q3": "The user is impressed by the demon spirit system and gives a five-star rating.",
+    "q5": "The user finds the demon spirit system appealing."
+  },
+  {
+    "q0": 26352745,
+    "q3": "The user is eager for the game to launch.",
+    "q5": "The user is impatient for the game's release."
+  },
+  {
+    "q0": 26345566,
+    "q3": "The user is curious about the game's testing phase.",
+    "q5": "The user is eager to know when the game will be available for testing."
+  },
+  {
+    "q0": 26309047,
+    "q3": "The user is frustrated with the delay in the game's launch.",
+    "q5": "The user compares the delay to another game, expressing impatience."
+  },
+  {
+    "q0": 26299175,
+    "q3": "The user suggests referencing the Shenwu mobile game for content ideas.",
+    "q5": "The user hopes the game will improve and not disappoint players."
+  },
+  {
+    "q0": 26297710,
+    "q3": "The user wonders if the game will require players to earn money to buy talismans.",
+    "q5": "The user is curious about the game's mechanics related to spellcasting."
+  },
+  {
+    "q0": 26205434,
+    "q3": "The user is impressed by the character design of Putuo, the game's main healer.",
+    "q5": "The user finds the character design appealing and considers Putuo their new favorite."
+  },
+  {
+    "q0": 26127728,
+    "q3": "The user is frustrated with the game's delayed release.",
+    "q5": "The user sarcastically comments on the timing of the game's release."
+  },
+  {
+    "q0": 26116746,
+    "q3": "The user hopes to see the character Li Chunfeng from the comic in the game.",
+    "q5": "The user is a fan of Li Chunfeng and wants to see them in the game."
+  },
+  {
+    "q0": 26110844,
+    "q3": "The user expresses hope that the game will not disappoint.",
+    "q5": "The user is cautiously optimistic about the game's release."
+  },
+  {
+    "q0": 26109756,
+    "q3": "The user is very excited about the game.",
+    "q5": "The user expresses strong anticipation for the game's release."
+  },
+  {
+    "q0": 26109275,
+    "q3": "The user finds the game's cover design very attractive.",
+    "q5": "The user is impressed by the game's visual appeal."
+  },
+  {
+    "q0": 25338827,
+    "q3": "The user was initially excited about the vertical turn-based game but is now frustrated with the official group.",
+    "q5": "The user is upset about being muted in the official group chat."
+  },
+  {
+    "q0": 26092417,
+    "q3": "The user is waiting for the game's release.",
+    "q5": "The user has been waiting for two months and continues to wait."
+  },
+  {
+    "q0": 26089045,
+    "q3": "The user humorously compares Di Renjie and Zhu Ge to dreams of the people of Chang'an.",
+    "q5": "The user finds the characters appealing and humorous."
+  },
+  {
+    "q0": 26081515,
+    "q3": "The user is frustrated with the lack of updates about the game.",
+    "q5": "The user expresses dissatisfaction with the game's progress."
+  },
+  {
+    "q0": 26052889,
+    "q3": "The user hopes to see the character Yuan Tiangang from the comic in the game.",
+    "q5": "The user is a fan of Yuan Tiangang and wants to see them in the game."
+  },
+  {
+    "q0": 26050608,
+    "q3": "The user is curious about the game's public testing phase.",
+    "q5": "The user is eager to participate in the game's testing."
+  },
+  {
+    "q0": 26047090,
+    "q3": "The user wonders if the game will launch during the Spring Festival.",
+    "q5": "The user is concerned about the game's release timing."
+  },
+  {
+    "q0": 26033143,
+    "q3": "The user is a loyal fan of the Chang'an comic and is eagerly anticipating the game.",
+    "q5": "The user is excited about the game's release and its connection to the comic."
+  },
+  {
+    "q0": 26023980,
+    "q3": "The user is curious about the game's public release date.",
+    "q5": "The user is eager for the game's release."
+  },
+  {
+    "q0": 26011243,
+    "q3": "The user is eagerly anticipating the perfect recreation of Di Renjie.",
+    "q5": "The user is a fan of Di Renjie and looks forward to their portrayal in the game."
+  },
+  {
+    "q0": 26008879,
+    "q3": "The user is very impressed by the artwork of Chang'an.",
+    "q5": "The user finds the artwork deeply impactful."
+  },
+  {
+    "q0": 26006423,
+    "q3": "The user finds the gameplay too simple, mostly involving map progression.",
+    "q5": "The user is impressed by the artwork of Qingqiu Fox and hopes for future updates."
+  }
+]
+```

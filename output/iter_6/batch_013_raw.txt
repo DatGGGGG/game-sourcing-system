@@ -1,0 +1,72 @@
+```json
+[
+  {
+    "q0": 24936903,
+    "q5": "The user suggests testing with a large number of players to identify and fix issues, indicating a positive attitude towards continuous improvement."
+  },
+  {
+    "q0": 24934262,
+    "q5": "The user expresses excitement upon seeing a specific element, 'Qingqiu,' indicating a positive impression."
+  },
+  {
+    "q0": 24928581,
+    "q3": "Turn-based, vertical screen",
+    "q4": 2,
+    "q5": "The user expresses love for turn-based and vertical screen mechanics, indicating high satisfaction."
+  },
+  {
+    "q0": 24694174,
+    "q3": "Yao Ling as main combat power",
+    "q5": "The user is curious about the complexity of capturing Yao Ling, indicating an interest in the combat mechanics."
+  },
+  {
+    "q0": 23750322,
+    "q5": "The user hopes for new gameplay and experience, indicating a desire for innovation."
+  },
+  {
+    "q0": 23736138,
+    "q5": "The user appreciates the detailed art style and full characters, indicating a positive impression."
+  },
+  {
+    "q0": 23734734,
+    "q5": "The user hopes the actual game matches the promotional graphics, indicating high expectations for visual quality."
+  },
+  {
+    "q0": 23734180,
+    "q5": "The user finds the game promising based on the introduction, indicating positive anticipation for the gameplay."
+  },
+  {
+    "q0": 23724831,
+    "q3": "Turn-based, vertical screen",
+    "q4": 2,
+    "q5": "The user gives a high rating due to the story background, art style, and mechanics, indicating high satisfaction."
+  },
+  {
+    "q0": 23722382,
+    "q3": "Turn-based",
+    "q5": "The user likes turn-based games and appreciates the art style, indicating a positive impression."
+  },
+  {
+    "q0": 23720955,
+    "q3": "Turn-based",
+    "q5": "The user is a fan of turn-based games and is eager for the public test, indicating high anticipation."
+  },
+  {
+    "q0": 23714506,
+    "q3": "Turn-based",
+    "q5": "The user expresses high expectations for the turn-based mechanics, indicating positive anticipation."
+  },
+  {
+    "q0": 23714364,
+    "q5": "The user is impressed by the promotional video and eager to see the in-game graphics, indicating high anticipation."
+  },
+  {
+    "q0": 23713544,
+    "q5": "The user hopes the game doesn't follow a disliked format, indicating concern about potential gameplay issues."
+  },
+  {
+    "q0": 23710826,
+    "q5": "The user loves the art style and hopes for fair treatment of non-paying players, indicating positive anticipation and concern for fairness."
+  }
+]
+```

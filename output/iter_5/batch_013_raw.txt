@@ -1,0 +1,125 @@
+```json
+[
+  {
+    "q0": 34190228,
+    "q5": "The reviewer is questioning the quality of the game's modeling and art, implying dissatisfaction."
+  },
+  {
+    "q0": 34176784,
+    "q5": "The reviewer expresses dissatisfaction with the game being a card-drawing turn-based game in 2022."
+  },
+  {
+    "q0": 34167716,
+    "q5": "The reviewer criticizes the lack of free trade and the taxation system, implying dissatisfaction with the game's economy."
+  },
+  {
+    "q0": 34167644,
+    "q5": "The reviewer finds the game acceptable and the graphics satisfactory."
+  },
+  {
+    "q0": 34160185,
+    "q5": "The reviewer feels the art style is reminiscent of Genshin Impact."
+  },
+  {
+    "q0": 34139694,
+    "q6": "The review mentions strategic elements like choosing between different fox spirits with unique abilities and stat allocation strategies.",
+    "q8": "The reviewer discusses strategic choices regarding character builds and abilities."
+  },
+  {
+    "q0": 34139622,
+    "q5": "The reviewer appreciates the art, story, and voice acting but criticizes the modeling and fashion interface."
+  },
+  {
+    "q0": 34107596,
+    "q5": "The reviewer finds the game enjoyable and praises the Dragon Palace character design."
+  },
+  {
+    "q0": 34094659,
+    "q5": "The reviewer initially thought the game was similar to another but found it different and highly recommends it."
+  },
+  {
+    "q0": 34055000,
+    "q5": "The reviewer criticizes the limited access to the open beta, suggesting it restricts feedback diversity."
+  },
+  {
+    "q0": 34053879,
+    "q6": "The review mentions the strategic limitation of only acquiring spirits through gacha.",
+    "q8": "The reviewer feels the gacha system limits strategic choices in spirit selection."
+  },
+  {
+    "q0": 34044032,
+    "q5": "The reviewer finds the game very enjoyable, especially praising the voice acting."
+  },
+  {
+    "q0": 34043678,
+    "q5": "The reviewer initially found the game interesting but later felt it became repetitive like a chore."
+  },
+  {
+    "q0": 34040381,
+    "q5": "The reviewer expresses frustration with the randomness and difficulty of obtaining desired skills or stats."
+  },
+  {
+    "q0": 34011342,
+    "q5": "The reviewer accuses the game of being a reskin and suggests reviews are artificially inflated."
+  },
+  {
+    "q0": 33998148,
+    "q5": "The reviewer enjoys turn-based games but finds them easy to abandon due to inconvenient playtimes and difficulty finding teammates."
+  },
+  {
+    "q0": 33981389,
+    "q5": "The reviewer appreciates the game's vibrant colors and comic-like art style."
+  },
+  {
+    "q0": 33980013,
+    "q6": "The review discusses team composition strategies involving different types of damage and support roles.",
+    "q8": "The reviewer analyzes strategic team composition and role specialization."
+  },
+  {
+    "q0": 33979581,
+    "q6": "The review highlights the importance of understanding skill effects in strategy games.",
+    "q8": "The reviewer emphasizes the need for strategic consideration of skills in combat."
+  },
+  {
+    "q0": 33978926,
+    "q5": "The reviewer suggests the game should be more casual due to its portrait orientation and appreciates ongoing adjustments."
+  },
+  {
+    "q0": 33978536,
+    "q5": "The reviewer is interested in the popular Dragon Palace class and its appeal due to AoE spells."
+  },
+  {
+    "q0": 33968764,
+    "q6": "The review mentions strategic team composition involving physical and magical damage pets with support.",
+    "q8": "The reviewer discusses strategic pet selection for versatility in combat."
+  },
+  {
+    "q0": 33968096,
+    "q5": "The reviewer praises the powerful performance of a character before it was nerfed."
+  },
+  {
+    "q0": 33967416,
+    "q5": "The reviewer enjoys reading guides and strategies, indicating a desire for strategic depth."
+  },
+  {
+    "q0": 33958346,
+    "q5": "The reviewer is curious about the appearance of a character's different forms."
+  },
+  {
+    "q0": 33956449,
+    "q5": "The reviewer is surprised that a cute character is actually a damage dealer."
+  },
+  {
+    "q0": 33948894,
+    "q5": "The reviewer is curious about the skills of a specific artifact and seeks more information."
+  },
+  {
+    "q0": 33943155,
+    "q5": "The reviewer is pleased with the game being a portrait-oriented game."
+  },
+  {
+    "q0": 33943130,
+    "q5": "The reviewer appreciates the game's art style."
+  }
+]
+```

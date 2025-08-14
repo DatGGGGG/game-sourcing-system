@@ -1,0 +1,74 @@
+```json
+[
+  {
+    "q0": 24815365,
+    "q5": "The user suggests that the game may not be worth checking out due to its low rating and lack of testing."
+  },
+  {
+    "q0": 24794285,
+    "q5": "The user is attracted to the game's cute pet designs and is eager to try it."
+  },
+  {
+    "q0": 24742474,
+    "q3": "Turn-based combat",
+    "q5": "The user supports turn-based combat."
+  },
+  {
+    "q0": 24696896,
+    "q5": "The user questions if the game is a re-skinned version of 'Fantasy Westward Journey'."
+  },
+  {
+    "q0": 24696735,
+    "q5": "The user hopes for diverse gameplay elements and better rewards from side quests."
+  },
+  {
+    "q0": 24606958,
+    "q5": "The user believes that if the battle scenes match the pictures, it would be unique."
+  },
+  {
+    "q0": 24581179,
+    "q5": "The user likes the game but is tired of lengthy turn-based routines."
+  },
+  {
+    "q0": 24533788,
+    "q5": "The user is a fan of turn-based games and is curious about level cap mechanics and equipment attributes."
+  },
+  {
+    "q0": 24517143,
+    "q5": "The user is interested in the presence of 'shota' characters and is eager to see more in the game."
+  },
+  {
+    "q0": 24407182,
+    "q5": "The user is very excited about the game and hopes it won't require heavy spending."
+  },
+  {
+    "q0": 24384581,
+    "q5": "The user finds the game to be of a type they like."
+  },
+  {
+    "q0": 24376527,
+    "q5": "The user is very positive and finds the game to be exactly what they have been looking for."
+  },
+  {
+    "q0": 24360080,
+    "q3": "Vertical screen turn-based combat",
+    "q5": "The user enjoys the vertical screen turn-based combat and hopes the game is fun and durable."
+  },
+  {
+    "q0": 23976635,
+    "q5": "The user is excited about capturing and training a specific pet in the game."
+  },
+  {
+    "q0": 23822627,
+    "q5": "The user is in a gaming slump and hopes the game will be fun, promising to spend money if it is."
+  },
+  {
+    "q0": 23750399,
+    "q5": "The user likes the art style and pet designs but hopes for cuter evolutions."
+  },
+  {
+    "q0": 23717661,
+    "q5": "The user is a veteran of turn-based games and appreciates the clean art style, hoping for good game management."
+  }
+]
+```

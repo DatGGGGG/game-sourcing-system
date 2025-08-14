@@ -1,0 +1,169 @@
+```json
+[
+  {
+    "q0": 37372737,
+    "q9": 2,
+    "q10": "The user finds the game enjoyable and comfortable to play, especially for a turn-based game."
+  },
+  {
+    "q0": 37359393,
+    "q9": 1,
+    "q10": "The user suggests staying at level 69 for a while before jumping to level 80, indicating a strategic approach to game progression."
+  },
+  {
+    "q0": 37352189,
+    "q9": -1,
+    "q10": "The user finds the daily tasks time-consuming, requiring an hour to complete, making it hard to keep up without dedicating a lot of time."
+  },
+  {
+    "q0": 37349813,
+    "q4": -2,
+    "q5": "The user is frustrated with the combat mechanics as their character's abilities did not trigger as expected during battles."
+  },
+  {
+    "q0": 37349785,
+    "q9": 1,
+    "q10": "The game is seen as less demanding compared to other turn-based games, allowing for more casual play."
+  },
+  {
+    "q0": 37331310,
+    "q9": -1,
+    "q10": "The user describes the game as having a polarized experience, with significant differences between paying and non-paying players."
+  },
+  {
+    "q0": 37331310,
+    "q29": -2,
+    "q30": "The game is described as both grindy and pay-to-win, with strong spending pressure on players."
+  },
+  {
+    "q0": 37176012,
+    "q9": -2,
+    "q10": "The user is frustrated with the game's progression, particularly with overpowered characters given to returning players."
+  },
+  {
+    "q0": 37176012,
+    "q11": -2,
+    "q12": "The user criticizes the balance of characters, mentioning an overpowered character that disrupts gameplay."
+  },
+  {
+    "q0": 37176012,
+    "q27": -2,
+    "q28": "The user feels that non-paying players have a poor experience due to the imbalance in character strength."
+  },
+  {
+    "q0": 37094785,
+    "q21": -2,
+    "q22": "The user criticizes the game for lacking new content and updates, leading to player dissatisfaction."
+  },
+  {
+    "q0": 37094785,
+    "q27": -2,
+    "q28": "The user feels that the game is heavily monetized, with updates focused on revenue generation rather than player experience."
+  },
+  {
+    "q0": 37094785,
+    "q29": -2,
+    "q30": "The user perceives the game as heavily monetized, with updates focused on revenue generation rather than player experience."
+  },
+  {
+    "q0": 37073345,
+    "q9": -1,
+    "q10": "The user finds the game's storyline too lengthy and the gameplay slow, making it time-consuming."
+  },
+  {
+    "q0": 37073345,
+    "q4": -1,
+    "q5": "The user finds the combat mechanics slow and time-consuming, with long skill animations."
+  },
+  {
+    "q0": 37073345,
+    "q29": -1,
+    "q30": "The user finds the game time-consuming, with lengthy storylines and slow combat mechanics."
+  },
+  {
+    "q0": 37053325,
+    "q9": -1,
+    "q10": "The user finds the game boring, indicating a lack of engaging progression."
+  },
+  {
+    "q0": 37051757,
+    "q4": 2,
+    "q5": "The user enjoys the combat mechanics, finding their character build satisfying and effective."
+  },
+  {
+    "q0": 37051757,
+    "q9": 1,
+    "q10": "The user finds their character build satisfying and effective, indicating a positive progression experience."
+  },
+  {
+    "q0": 37043916,
+    "q41": "The user is confused about how to operate a feature in the game and lacks support from the game team."
+  },
+  {
+    "q0": 37039536,
+    "q21": -1,
+    "q22": "The user is dissatisfied with a recent update that removed a useful feature, indicating poor update decisions."
+  },
+  {
+    "q0": 37033081,
+    "q41": "The user experienced toxic behavior from other players, leading to a negative social experience."
+  },
+  {
+    "q0": 36990978,
+    "q9": 2,
+    "q10": "The user finds the game enjoyable, indicating a positive progression experience."
+  },
+  {
+    "q0": 36956914,
+    "q29": -1,
+    "q30": "The user advises against spending resources unwisely, indicating a need for strategic resource management."
+  },
+  {
+    "q0": 36954549,
+    "q41": "The user is frustrated with the matchmaking system, finding it unfair and leading to repeated losses."
+  },
+  {
+    "q0": 36953130,
+    "q41": "The user is frustrated with the increasing material requirements for crafting, indicating a potential imbalance in resource demands."
+  },
+  {
+    "q0": 36952944,
+    "q9": -1,
+    "q10": "The user finds the game similar to a card game, indicating a lack of engaging progression."
+  },
+  {
+    "q0": 36944576,
+    "q41": "The user is frustrated with cheating in the game, which affects their overall experience."
+  },
+  {
+    "q0": 36932979,
+    "q9": -1,
+    "q10": "The user finds the game progression slow and dependent on spending, with a lack of engaging content."
+  },
+  {
+    "q0": 36932979,
+    "q29": -1,
+    "q30": "The user finds the game progression slow and dependent on spending, with a lack of engaging content."
+  },
+  {
+    "q0": 36882388,
+    "q9": -2,
+    "q10": "The user is frustrated with the game's progression, citing issues with balance and monetization."
+  },
+  {
+    "q0": 36882388,
+    "q27": -2,
+    "q28": "The user feels that non-paying players have a poor experience due to the imbalance in character strength."
+  },
+  {
+    "q0": 36882388,
+    "q29": -2,
+    "q30": "The user perceives the game as heavily monetized, with updates focused on revenue generation rather than player experience."
+  },
+  {
+    "q0": 36882388,
+    "q31": -2,
+    "q32": "The user finds the daily rewards insufficient, indicating a lack of meaningful free rewards."
+  }
+]
+```

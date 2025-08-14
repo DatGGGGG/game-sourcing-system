@@ -1,0 +1,136 @@
+```json
+[
+  {
+    "q0": 35481669,
+    "q41": "Mention of specific server and user ID."
+  },
+  {
+    "q0": 35481761,
+    "q19": 2,
+    "q20": "Daily resources are plentiful.",
+    "q41": "Mentions availability of costumes."
+  },
+  {
+    "q0": 35481758,
+    "q9": 2,
+    "q10": "Mythical beasts are relatively easy to acquire."
+  },
+  {
+    "q0": 35481753,
+    "q9": 2,
+    "q10": "Progression is phased and not overly stressful; early game pace is comfortable."
+  },
+  {
+    "q0": 35481752,
+    "q9": 2,
+    "q10": "The game has been engaging for over three months.",
+    "q41": "Simple art style but complex gameplay."
+  },
+  {
+    "q0": 35481747,
+    "q41": "Request for more casual activities."
+  },
+  {
+    "q0": 35481698,
+    "q41": "Game is described as relaxing."
+  },
+  {
+    "q0": 35481697,
+    "q41": "Game and graphics are described as good."
+  },
+  {
+    "q0": 35481680,
+    "q9": 2,
+    "q10": "Game has been enjoyable for over three months."
+  },
+  {
+    "q0": 35481678,
+    "q41": "Player has been consistently playing for several days."
+  },
+  {
+    "q0": 35480573,
+    "q41": "Game emphasizes companionship."
+  },
+  {
+    "q0": 35480071,
+    "q41": "Character named Wang Yue is described as cute."
+  },
+  {
+    "q0": 35414078,
+    "q41": "Game is a vertical turn-based game."
+  },
+  {
+    "q0": 35359279,
+    "q41": "Discussion of damage calculation differences between attack types."
+  },
+  {
+    "q0": 35242992,
+    "q41": "Frustration over lack of resources after significant gameplay."
+  },
+  {
+    "q0": 35021530,
+    "q41": "Game is compared to 'Dream' and suggests following guides to avoid falling behind."
+  },
+  {
+    "q0": 34755907,
+    "q41": "Discussion on game being a 'Frankenstein' of other games."
+  },
+  {
+    "q0": 34680928,
+    "q33": true,
+    "q34": "The game is based on a manga.",
+    "q41": "Inquiry about the release of the second season of the manga."
+  },
+  {
+    "q0": 34649411,
+    "q29": 2,
+    "q30": "Game is more affordable compared to 'Dream' and can be played without spending.",
+    "q41": "Game is described as a nurturing game."
+  },
+  {
+    "q0": 34624434,
+    "q29": 2,
+    "q30": "Game is described as not requiring spending."
+  },
+  {
+    "q0": 34603936,
+    "q41": "Complaint about lack of customer service response."
+  },
+  {
+    "q0": 34602749,
+    "q41": "Issue with login failure."
+  },
+  {
+    "q0": 34600139,
+    "q41": "Lack of player-to-player trading is criticized."
+  },
+  {
+    "q0": 34600021,
+    "q41": "Issue with in-game currency calculation."
+  },
+  {
+    "q0": 34598877,
+    "q41": "Comment about players with money playing the game."
+  },
+  {
+    "q0": 34597267,
+    "q41": "Daily routine includes discussing gameplay strategies."
+  },
+  {
+    "q0": 34596016,
+    "q41": "Issue with playing the game overseas without a Chinese phone number."
+  },
+  {
+    "q0": 34584066,
+    "q41": "Player reflects on their experience from beta testing to current gameplay."
+  },
+  {
+    "q0": 34552041,
+    "q41": "Question about item disposal methods."
+  },
+  {
+    "q0": 34542888,
+    "q41": "Game is described as a vertical version of 'Dream'."
+  }
+]
+```

@@ -1,0 +1,127 @@
+```json
+[
+  {
+    "q0": 43886247,
+    "q6": "进击",
+    "q7": 0,
+    "q8": "Mentions a skill but does not elaborate on its strategic depth."
+  },
+  {
+    "q0": 43885859,
+    "q23": true,
+    "q24": "Used several hundred jade to get a level 6 skill.",
+    "q25": -1,
+    "q26": "Spent a lot of resources for a single skill, indicating high cost."
+  },
+  {
+    "q0": 43872216,
+    "q6": "Team composition with three support units and specific pets.",
+    "q7": 1,
+    "q8": "Mentions specific team composition and roles, indicating some strategic depth."
+  },
+  {
+    "q0": 43669970,
+    "q29": -2,
+    "q30": "Players feel cheated due to changes in promised rewards, leading to dissatisfaction.",
+    "q41": "Players are considering filing complaints due to perceived fraud."
+  },
+  {
+    "q0": 43831226,
+    "q41": "Level restrictions prevent players from teaming up effectively."
+  },
+  {
+    "q0": 43821082,
+    "q11": 1,
+    "q12": "Mentions a strong team composition that can easily defeat enemies.",
+    "q13": 1,
+    "q14": "Indicates a viable team composition with specific roles."
+  },
+  {
+    "q0": 43789303,
+    "q41": "Players are frustrated with unskippable, lengthy, and outdated story content."
+  },
+  {
+    "q0": 35049588,
+    "q29": -2,
+    "q30": "Players feel the game is becoming more pay-to-win, with reduced rewards for non-paying players.",
+    "q41": "Players are frustrated with changes that widen the gap between paying and non-paying players."
+  },
+  {
+    "q0": 43785051,
+    "q41": "Players are frustrated with repetitive daily tasks that feel like a chore."
+  },
+  {
+    "q0": 43782636,
+    "q11": -2,
+    "q12": "Mentions poor balance in both professions and pets.",
+    "q41": "Players are frustrated with the lack of balance adjustments for unpopular pets."
+  },
+  {
+    "q0": 43745338,
+    "q37": -2,
+    "q38": "The game has a large installation size, causing inconvenience for players."
+  },
+  {
+    "q0": 34707530,
+    "q31": 1,
+    "q32": "Mentions receiving many free rewards, indicating a good quantity of free content."
+  },
+  {
+    "q0": 43744459,
+    "q31": 1,
+    "q32": "Mentions that free resources are generally sufficient for non-paying players."
+  },
+  {
+    "q0": 43688731,
+    "q13": 1,
+    "q14": "Mentions diverse skill choices for certain professions, indicating variety."
+  },
+  {
+    "q0": 43681189,
+    "q13": 2,
+    "q14": "Praises the unique characteristics of each pet, indicating high diversity."
+  },
+  {
+    "q0": 43669790,
+    "q41": "Players are frustrated with performance issues, specifically lag."
+  },
+  {
+    "q0": 43646370,
+    "q41": "Frequent server issues causing frustration among players."
+  },
+  {
+    "q0": 42187298,
+    "q29": -2,
+    "q30": "Players feel the game is too demanding in terms of time and money."
+  },
+  {
+    "q0": 42178089,
+    "q11": -2,
+    "q12": "Mentions poor balance in professions, with frequent numerical adjustments."
+  },
+  {
+    "q0": 42149163,
+    "q11": -1,
+    "q12": "Mentions an overpowered skill with little downtime, indicating imbalance."
+  },
+  {
+    "q0": 42089181,
+    "q41": "Players are frustrated with the time-consuming nature of daily tasks."
+  },
+  {
+    "q0": 42191225,
+    "q37": -2,
+    "q38": "Large download size without prior warning, causing inconvenience."
+  },
+  {
+    "q0": 42192526,
+    "q29": -2,
+    "q30": "Mentions various monetization activities, indicating high spending pressure."
+  },
+  {
+    "q0": 42193638,
+    "q29": -1,
+    "q30": "Mentions daily recharge packs, indicating some spending pressure."
+  }
+]
+```

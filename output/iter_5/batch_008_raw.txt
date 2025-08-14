@@ -1,0 +1,429 @@
+```json
+[
+  {
+    "q0": 35337822,
+    "q4": 2,
+    "q5": "The user enjoys the turn-based gameplay and praises the art style and game mechanics."
+  },
+  {
+    "q0": 35337577,
+    "q5": "The user is frustrated with the mechanics of a specific game mode where players leave after entering, affecting the ability to earn rewards."
+  },
+  {
+    "q0": 35333542,
+    "q19": 0,
+    "q20": "The user finds resource acquisition to be average."
+  },
+  {
+    "q0": 35333001,
+    "q9": -1,
+    "q10": "The user is frustrated with changes in game difficulty and rewards, indicating poor progression management."
+  },
+  {
+    "q0": 35332389,
+    "q27": -1,
+    "q28": "The user is frustrated with the auction house mechanics, indicating limited access for non-paying users."
+  },
+  {
+    "q0": 35328003,
+    "q15": "The user describes a daily routine involving various in-game activities, indicating a structured secondary loop.",
+    "q17": 1,
+    "q18": "The user finds the daily routine fulfilling, suggesting a well-structured secondary loop."
+  },
+  {
+    "q0": 35326832,
+    "q21": 1,
+    "q22": "The user suggests focusing on small details and appreciates ongoing updates."
+  },
+  {
+    "q0": 35324308,
+    "q41": "The user finds a specific weapon design unattractive."
+  },
+  {
+    "q0": 35322989,
+    "q41": "The user is unsure about the best strategy for raising pets, indicating potential balance issues."
+  },
+  {
+    "q0": 35321253,
+    "q41": "The user is unable to access the game after maintenance, indicating a technical issue."
+  },
+  {
+    "q0": 35319925,
+    "q4": 2,
+    "q5": "The user finds the game very enjoyable."
+  },
+  {
+    "q0": 35317119,
+    "q41": "The user is amused by the game's censorship of their chosen name."
+  },
+  {
+    "q0": 35305500,
+    "q4": 1,
+    "q5": "The user finds the game to be good."
+  },
+  {
+    "q0": 35302877,
+    "q41": "The user intends to leave the same comment on every game, indicating a lack of specific feedback."
+  },
+  {
+    "q0": 34590398,
+    "q41": "The user likes a character named Song Tie but dislikes the appearance of another character."
+  },
+  {
+    "q0": 35249241,
+    "q4": 2,
+    "q5": "The user finds the game very fun."
+  },
+  {
+    "q0": 35240390,
+    "q41": "The user prefers horizontal gameplay and wishes for a manual switch option."
+  },
+  {
+    "q0": 35236917,
+    "q29": -2,
+    "q30": "The user is frustrated with the auction house mechanics, indicating a heavy spending pressure."
+  },
+  {
+    "q0": 35233941,
+    "q4": 2,
+    "q5": "The user finds the game fun."
+  },
+  {
+    "q0": 35230317,
+    "q41": "The user appreciates the art but finds other aspects lacking."
+  },
+  {
+    "q0": 35225931,
+    "q41": "The user is frustrated with the probability mechanics, indicating a potential issue with game balance."
+  },
+  {
+    "q0": 35110374,
+    "q41": "The user is confused about the distribution of a resource called Star Jade."
+  },
+  {
+    "q0": 34832094,
+    "q21": -2,
+    "q22": "The user is frustrated with frequent changes and bugs, indicating poor update management."
+  },
+  {
+    "q0": 35109766,
+    "q41": "The user requests a dedicated storage for potions and cooking items."
+  },
+  {
+    "q0": 35109657,
+    "q4": 1,
+    "q5": "The user finds the game playable."
+  },
+  {
+    "q0": 35109592,
+    "q21": -1,
+    "q22": "The user is frustrated with frequent changes and slow issue resolution."
+  },
+  {
+    "q0": 35108948,
+    "q41": "The user is frustrated with a bug related to Star Jade and the developer's response."
+  },
+  {
+    "q0": 35107821,
+    "q41": "The user is unable to find a character named Song Tie, indicating a potential issue with game content."
+  },
+  {
+    "q0": 35107467,
+    "q4": -1,
+    "q5": "The user finds the game not fun."
+  },
+  {
+    "q0": 35043597,
+    "q41": "The user warns that reducing player rewards will drive players away."
+  },
+  {
+    "q0": 35107134,
+    "q21": -1,
+    "q22": "The user is frustrated with a decrease in drop rates after an update."
+  },
+  {
+    "q0": 35046101,
+    "q41": "The user is frustrated with misleading information about rewards in a battle pass."
+  },
+  {
+    "q0": 35106283,
+    "q41": "The user is interested in exploiting bugs for personal gain."
+  },
+  {
+    "q0": 34604926,
+    "q21": -2,
+    "q22": "The user lists numerous issues with the game, indicating poor update management."
+  },
+  {
+    "q0": 35105110,
+    "q41": "The user finds the pet system lacking in variety and the main storyline unengaging."
+  },
+  {
+    "q0": 35072836,
+    "q4": 1,
+    "q5": "The user finds the game acceptable."
+  },
+  {
+    "q0": 35062233,
+    "q4": 2,
+    "q5": "The user gives a high rating despite not having played the game yet."
+  },
+  {
+    "q0": 35056650,
+    "q41": "The user is seeking a code for in-game benefits."
+  },
+  {
+    "q0": 35052210,
+    "q4": 1,
+    "q5": "The user finds the game somewhat enjoyable."
+  },
+  {
+    "q0": 35045048,
+    "q41": "The user appreciates the developer's responsiveness to feedback."
+  },
+  {
+    "q0": 35045220,
+    "q4": 2,
+    "q5": "The user finds the game fun."
+  },
+  {
+    "q0": 35027571,
+    "q27": 1,
+    "q28": "The user finds the game fair for non-paying players."
+  },
+  {
+    "q0": 35026085,
+    "q41": "The user finds the game similar to other turn-based games and suggests following guides to avoid falling behind."
+  },
+  {
+    "q0": 35018412,
+    "q29": -1,
+    "q30": "The user is frustrated with decreasing drop rates and the game's impact on player mindset."
+  },
+  {
+    "q0": 35018244,
+    "q41": "The user hopes for improvements in the pet-catching gameplay."
+  },
+  {
+    "q0": 35010409,
+    "q41": "The user is curious about the purpose of the review request."
+  },
+  {
+    "q0": 35008479,
+    "q4": 1,
+    "q5": "The user finds the game enjoyable and not time-consuming."
+  },
+  {
+    "q0": 35007628,
+    "q41": "The user regrets spending money on the game."
+  },
+  {
+    "q0": 35007391,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable without spending money, indicating good access for non-paying users."
+  },
+  {
+    "q0": 34967180,
+    "q41": "The user is inquiring about the game's monetization model."
+  },
+  {
+    "q0": 34958775,
+    "q11": 2,
+    "q12": "The user praises the game's balance."
+  },
+  {
+    "q0": 34945231,
+    "q41": "The user reports an issue with a specific time in the game's interface."
+  },
+  {
+    "q0": 34943452,
+    "q41": "The user is satisfied with the character designs and hopes for more attractive characters."
+  },
+  {
+    "q0": 34943391,
+    "q41": "The user finds the game addictive."
+  },
+  {
+    "q0": 34938363,
+    "q41": "The user is stuck at a certain point in the game."
+  },
+  {
+    "q0": 34925044,
+    "q41": "The user requests a feature to delete characters."
+  },
+  {
+    "q0": 25446871,
+    "q41": "The user is disappointed by the lack of innovation."
+  },
+  {
+    "q0": 34905194,
+    "q41": "The user is frustrated with discrepancies between advertisements and actual gameplay."
+  },
+  {
+    "q0": 34900338,
+    "q41": "The user is skeptical about the game's popularity and intends to criticize it if unsatisfied."
+  },
+  {
+    "q0": 34899817,
+    "q41": "The user questions the purpose of a character named Little White Dragon."
+  },
+  {
+    "q0": 34899675,
+    "q41": "The user is frustrated with low drop rates and poor rewards."
+  },
+  {
+    "q0": 34899034,
+    "q4": 2,
+    "q5": "The user finds the game very fun."
+  },
+  {
+    "q0": 34897904,
+    "q4": 2,
+    "q5": "The user finds the game quite fun."
+  },
+  {
+    "q0": 34592846,
+    "q41": "The user praises the story and voice acting but criticizes the game's optimization and overheating issues."
+  },
+  {
+    "q0": 34890445,
+    "q4": 2,
+    "q5": "The user finds the game addictive."
+  },
+  {
+    "q0": 34889885,
+    "q4": 1,
+    "q5": "The user finds the game suitable for passing time."
+  },
+  {
+    "q0": 34884078,
+    "q41": "The user finds the game better than another game called Westward Journey."
+  },
+  {
+    "q0": 34881851,
+    "q41": "The user is concerned about the removal of QQ and WeChat login options."
+  },
+  {
+    "q0": 34863327,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable without spending money, indicating good access for non-paying users."
+  },
+  {
+    "q0": 34861913,
+    "q41": "The user finds the art style good but does not mention any major issues."
+  },
+  {
+    "q0": 34861491,
+    "q41": "The user is seeking information about a level 85 pet."
+  },
+  {
+    "q0": 34852748,
+    "q4": 1,
+    "q5": "The user finds the game good."
+  },
+  {
+    "q0": 34852355,
+    "q4": 1,
+    "q5": "The user finds the game acceptable."
+  },
+  {
+    "q0": 34851362,
+    "q41": "The user is frustrated with spending money on the game and reminisces about a different game."
+  },
+  {
+    "q0": 34848896,
+    "q41": "The user requests a feature to delete characters."
+  },
+  {
+    "q0": 34842315,
+    "q41": "The user is frustrated with a visual issue related to character customization."
+  },
+  {
+    "q0": 34841667,
+    "q41": "The user promotes an in-game event and shares a referral link."
+  },
+  {
+    "q0": 34839594,
+    "q41": "The user finds the graphics good."
+  },
+  {
+    "q0": 34830989,
+    "q41": "The user shares a tip for acquiring in-game resources efficiently."
+  },
+  {
+    "q0": 34828468,
+    "q41": "The user appreciates the art and music but finds the combat system limiting."
+  },
+  {
+    "q0": 34827223,
+    "q41": "The user suggests not adding too many new features to maintain game balance."
+  },
+  {
+    "q0": 34827196,
+    "q21": -1,
+    "q22": "The user is frustrated with frequent unannounced updates and changes."
+  },
+  {
+    "q0": 34826125,
+    "q41": "The user seeks guidance on pet strategies and resource accumulation."
+  },
+  {
+    "q0": 34529583,
+    "q41": "The user is concerned about the potential impact of cosmetic items on gameplay balance."
+  },
+  {
+    "q0": 34822666,
+    "q41": "The user is concerned about the introduction of cosmetic items with attributes."
+  },
+  {
+    "q0": 34822136,
+    "q41": "The user is frustrated with the monetization strategy for holiday costumes."
+  },
+  {
+    "q0": 34821777,
+    "q41": "The user is frustrated with the introduction of cosmetic items with attributes."
+  },
+  {
+    "q0": 34821581,
+    "q41": "The user is frustrated with the monetization strategy and feels overwhelmed by the game's demands."
+  },
+  {
+    "q0": 34820047,
+    "q41": "The user is frustrated with an event mechanic involving a creature that escapes quickly."
+  },
+  {
+    "q0": 34808352,
+    "q41": "The user is unable to open the game, indicating a technical issue."
+  },
+  {
+    "q0": 34795913,
+    "q41": "The user mentions a collaboration or crossover with other brands or individuals."
+  },
+  {
+    "q0": 34795403,
+    "q41": "The user finds the game both time-consuming and monetization-heavy."
+  },
+  {
+    "q0": 34794446,
+    "q41": "The user enjoys the game but is frustrated with limited team formation options in a specific mode."
+  },
+  {
+    "q0": 34782946,
+    "q41": "The user does not recommend the game due to its time-consuming nature."
+  },
+  {
+    "q0": 34692012,
+    "q4": 1,
+    "q5": "The user finds the game enjoyable despite initial skepticism."
+  },
+  {
+    "q0": 34782118,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable without spending money, indicating good access for non-paying users."
+  },
+  {
+    "q0": 34778196,
+    "q41": "The user enjoys the pet and book system but is leaving due to friends playing another game."
+  }
+]
+```

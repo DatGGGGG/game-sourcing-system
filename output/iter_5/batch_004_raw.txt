@@ -1,0 +1,227 @@
+```json
+[
+  {
+    "q0": 36006463,
+    "q4": 2,
+    "q5": "The user finds the game very enjoyable and has a good experience."
+  },
+  {
+    "q0": 35996910,
+    "q27": 2,
+    "q28": "The user implies that the game does not pressure players to spend money.",
+    "q29": 2,
+    "q30": "The user prefers games that do not pressure players to spend money."
+  },
+  {
+    "q0": 35927961,
+    "q3": "Turn-based development",
+    "q4": 0,
+    "q5": "The user finds the game average and suitable for casual play."
+  },
+  {
+    "q0": 35902416,
+    "q27": 2,
+    "q28": "The user finds the game comfortable to play without spending money."
+  },
+  {
+    "q0": 35895617,
+    "q4": 2,
+    "q5": "The user finds the game good and appreciates the graphics and characters."
+  },
+  {
+    "q0": 35882128,
+    "q41": "The user accuses the game of copying a character from another source."
+  },
+  {
+    "q0": 35866743,
+    "q21": -2,
+    "q22": "The user mentions frequent updates without spending money.",
+    "q27": 2,
+    "q28": "The user does not spend money and plays for a short time daily."
+  },
+  {
+    "q0": 35856552,
+    "q21": -2,
+    "q22": "The user experienced an unexpected update that prevented them from playing."
+  },
+  {
+    "q0": 35853712,
+    "q4": -2,
+    "q5": "The user finds the game boring and unengaging."
+  },
+  {
+    "q0": 35808902,
+    "q21": -2,
+    "q22": "The user mentions frequent stealth changes affecting gameplay.",
+    "q27": -2,
+    "q28": "The user feels that not spending money significantly decreases chances of success."
+  },
+  {
+    "q0": 35797699,
+    "q41": "The user finds the game and its community unpleasant."
+  },
+  {
+    "q0": 35794277,
+    "q4": 1,
+    "q5": "The user has a positive impression of the game despite some differences from expectations."
+  },
+  {
+    "q0": 35786859,
+    "q41": "The user reports a bug where players ended up in debt due to a mistake in reward distribution."
+  },
+  {
+    "q0": 35786218,
+    "q21": -2,
+    "q22": "The user mentions frequent stealth changes affecting gameplay."
+  },
+  {
+    "q0": 35769715,
+    "q19": 2,
+    "q20": "The user finds resource acquisition not difficult and appreciates the game's aesthetics.",
+    "q27": 2,
+    "q28": "The user mentions that non-paying players can progress using time."
+  },
+  {
+    "q0": 35760462,
+    "q9": -1,
+    "q10": "The user is frustrated with slow progression due to level caps and limited activities."
+  },
+  {
+    "q0": 35759237,
+    "q41": "The user notes an issue with not being able to see teammate data during battles."
+  },
+  {
+    "q0": 35757163,
+    "q41": "The user is frustrated with the merging of test and official servers, leading to resource disparities."
+  },
+  {
+    "q0": 35752388,
+    "q3": "Vertical turn-based",
+    "q4": -1,
+    "q5": "The user finds the vertical turn-based format amusing."
+  },
+  {
+    "q0": 35747709,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable without spending money but suggests more freedom in PvP."
+  },
+  {
+    "q0": 35739758,
+    "q27": 2,
+    "q28": "The user suggests that non-paying players can enjoy PvE content."
+  },
+  {
+    "q0": 35739293,
+    "q27": 2,
+    "q28": "The user finds the game friendly to non-paying players but suggests improvements for charm unbinding."
+  },
+  {
+    "q0": 35731975,
+    "q41": "The user is frustrated with matchmaking and experience decay issues in the martial arts tournament."
+  },
+  {
+    "q0": 35712717,
+    "q29": -1,
+    "q30": "The user finds spending money gives an advantage, but the game is similar to others."
+  },
+  {
+    "q0": 35703652,
+    "q29": -2,
+    "q30": "The user finds the spending pressure high with frequent changes to encourage spending."
+  },
+  {
+    "q0": 34709008,
+    "q41": "The user provides detailed feedback on changes to a character's skills and their impact on gameplay."
+  },
+  {
+    "q0": 35697260,
+    "q27": 2,
+    "q28": "The user finds the game friendly to non-paying and low-spending players."
+  },
+  {
+    "q0": 35691925,
+    "q4": 2,
+    "q5": "The user finds the game very good with high graphics quality and smooth gameplay.",
+    "q27": 2,
+    "q28": "The user notes that the game does not pressure players to spend money."
+  },
+  {
+    "q0": 35687157,
+    "q4": 2,
+    "q5": "The user finds the game very good with high playability and good value for money."
+  },
+  {
+    "q0": 35686430,
+    "q41": "The user reports a negative experience with other players and scammers."
+  },
+  {
+    "q0": 35675861,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable without spending money, with opportunities to earn in-game currency."
+  },
+  {
+    "q0": 35669917,
+    "q4": -1,
+    "q5": "The user finds the game boring and repetitive with no new elements."
+  },
+  {
+    "q0": 35665706,
+    "q41": "The user is frustrated with changes to skill book mechanics, implying greed from developers."
+  },
+  {
+    "q0": 35665215,
+    "q41": "The user is frustrated with the inability to find teammates for trials in older servers."
+  },
+  {
+    "q0": 35655076,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable with light grind and spending requirements, appreciating pet mechanics."
+  },
+  {
+    "q0": 35608474,
+    "q4": -2,
+    "q5": "The user finds the game extremely boring and a waste of time with frequent stealth changes."
+  },
+  {
+    "q0": 35608183,
+    "q41": "The user finds a specific game mode too difficult and time-consuming."
+  },
+  {
+    "q0": 35608161,
+    "q41": "The user is frustrated with the new social feature binding."
+  },
+  {
+    "q0": 35600392,
+    "q41": "The user is frustrated with the lack of action against script users."
+  },
+  {
+    "q0": 35599747,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable for monthly card players but notes a lack of content."
+  },
+  {
+    "q0": 35597300,
+    "q4": 2,
+    "q5": "The user enjoys the game, particularly the music and art style."
+  },
+  {
+    "q0": 35547429,
+    "q4": 2,
+    "q5": "The user finds the game very enjoyable and engaging."
+  },
+  {
+    "q0": 35542892,
+    "q27": 2,
+    "q28": "The user finds the game playable for non-paying players but notes discomfort in PvP."
+  },
+  {
+    "q0": 35524069,
+    "q41": "The user is in the process of downloading the game."
+  },
+  {
+    "q0": 35492916,
+    "q27": 2,
+    "q28": "The user finds the game enjoyable without spending money."
+  }
+]
+```

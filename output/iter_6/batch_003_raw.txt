@@ -1,0 +1,94 @@
+```json
+[
+    {
+        "q0": 36357553,
+        "q27": -2,
+        "q28": "The game encourages spending money.",
+        "q29": -2,
+        "q30": "The game heavily pressures players to spend money."
+    },
+    {
+        "q0": 35318304,
+        "q27": -1,
+        "q28": "The game is playable without spending money, but there is a significant gap between paying and non-paying players.",
+        "q31": 1,
+        "q32": "Resources are relatively abundant, allowing players to earn significant rewards over time."
+    },
+    {
+        "q0": 34477378,
+        "q41": "Customer service is unresponsive and unhelpful, leading to frustration."
+    },
+    {
+        "q0": 36338970,
+        "q27": -2,
+        "q28": "Players feel disadvantaged without spending money."
+    },
+    {
+        "q0": 35183335,
+        "q27": 1,
+        "q28": "Certain classes, like 青丘, can be competitive without heavy spending.",
+        "q31": 1,
+        "q32": "Players can achieve good progress with minimal spending."
+    },
+    {
+        "q0": 36074964,
+        "q15": "Idle gameplay",
+        "q16": false,
+        "q17": 1,
+        "q18": "The game allows for idle play, making it easy to progress with minimal interaction."
+    },
+    {
+        "q0": 36065676,
+        "q4": -2,
+        "q5": "The game is not enjoyable and is considered a bad game."
+    },
+    {
+        "q0": 35759411,
+        "q37": -1,
+        "q38": "The game experiences lag and crashes, affecting the overall experience."
+    },
+    {
+        "q0": 36063737,
+        "q41": "There is a bug where pet attributes are not saved after washing."
+    },
+    {
+        "q0": 36037821,
+        "q6": "Traditional card gameplay",
+        "q7": -1,
+        "q8": "The game lacks innovation and relies on traditional card mechanics."
+    },
+    {
+        "q0": 36019554,
+        "q21": -1,
+        "q22": "Players are waiting for new content updates, such as new 光武."
+    },
+    {
+        "q0": 35688893,
+        "q41": "The game does not live up to its advertisements and resembles older web games."
+    },
+    {
+        "q0": 35658357,
+        "q41": "Issues with receiving verification codes during registration."
+    },
+    {
+        "q0": 35720242,
+        "q41": "Players experience issues with receiving verification codes, affecting gameplay."
+    },
+    {
+        "q0": 35693064,
+        "q41": "Players feel betrayed by the company."
+    },
+    {
+        "q0": 35611214,
+        "q41": "The desktop version does not remember login credentials, requiring frequent re-login."
+    },
+    {
+        "q0": 35604148,
+        "q41": "The game is currently enjoyable."
+    },
+    {
+        "q0": 35551163,
+        "q41": "Players are not accustomed to vertical screen gameplay and prefer horizontal options."
+    }
+]
+```

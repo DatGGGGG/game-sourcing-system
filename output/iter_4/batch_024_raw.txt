@@ -1,0 +1,139 @@
+```json
+[
+  {
+    "q0": 34345595,
+    "q5": "The reviewer feels the art style is not good."
+  },
+  {
+    "q0": 34342708,
+    "q3": "Turn-based combat",
+    "q5": "The reviewer questions the choice of portrait orientation for a turn-based game, suggesting landscape might be better."
+  },
+  {
+    "q0": 34342273,
+    "q5": "The reviewer mentions daily tasks and random encounter tasks, indicating a casual approach to completing them."
+  },
+  {
+    "q0": 34342033,
+    "q5": "The reviewer is curious about the timing of guild activities and whether there are larger events on weekends."
+  },
+  {
+    "q0": 34341865,
+    "q5": "The reviewer wants more experience points from daily tasks to level up faster."
+  },
+  {
+    "q0": 34330486,
+    "q5": "The reviewer hopes that all equipment can be earned through gameplay and that spending money should only reduce grinding time, not directly affect game power."
+  },
+  {
+    "q0": 34323309,
+    "q5": "The reviewer criticizes the game as a cash-grab reskin with little innovation and questions the high ratings."
+  },
+  {
+    "q0": 34322051,
+    "q5": "The reviewer is inquiring about the game's monetization model, whether it's subscription-based or relies on microtransactions."
+  },
+  {
+    "q0": 34320592,
+    "q5": "The reviewer is excited about the game due to its Chang'an theme and appealing art style."
+  },
+  {
+    "q0": 34296645,
+    "q5": "The reviewer is attracted to the game's art style and hopes it won't be too grind-heavy. They also express interest in cloud gaming due to phone limitations."
+  },
+  {
+    "q0": 34284259,
+    "q5": "The reviewer criticizes the game's monetization, stating that buying experience books is necessary to keep up in competitive play, which is costly and time-consuming."
+  },
+  {
+    "q0": 34279664,
+    "q1": true,
+    "q2": "Religious/Political",
+    "q5": "The reviewer criticizes the use of Japanese yokai in a game about Chang'an, suggesting it inappropriately mixes cultural elements."
+  },
+  {
+    "q0": 34278946,
+    "q5": "The reviewer finds the game enjoyable and less stressful compared to others, mentioning a sense of accomplishment in gameplay."
+  },
+  {
+    "q0": 34277803,
+    "q5": "The reviewer is confused by the developer's focus on humanoid characters and hopes the game maintains its focus on beast-like creatures."
+  },
+  {
+    "q0": 34277431,
+    "q5": "The reviewer notes similarities with other games and expresses concern about the game's originality and potential cash-grab nature."
+  },
+  {
+    "q0": 34275514,
+    "q5": "The reviewer finds the game accessible and enjoyable, having already obtained a rare creature."
+  },
+  {
+    "q0": 34272308,
+    "q5": "The reviewer finds the game playable for free players but criticizes the pet system as a potential money sink."
+  },
+  {
+    "q0": 34270290,
+    "q5": "The reviewer finds the game content becomes boring after two days, mentioning the pet system's elemental and evolution features."
+  },
+  {
+    "q0": 34268876,
+    "q5": "The reviewer suggests fewer servers and activities to reduce player burden, noting the time commitment required for daily tasks."
+  },
+  {
+    "q0": 34260541,
+    "q5": "The reviewer finds the game enjoyable."
+  },
+  {
+    "q0": 34250906,
+    "q5": "The reviewer emphasizes the importance of balance in turn-based games and suggests a structured approach to resource management for new players."
+  },
+  {
+    "q0": 34246612,
+    "q5": "The reviewer finds it inconvenient that gameplay information is not readily available and must be sought out in forums."
+  },
+  {
+    "q0": 34244867,
+    "q5": "The reviewer prefers the art style of a previous game but criticizes its repetitive gameplay and poor balance."
+  },
+  {
+    "q0": 34058316,
+    "q5": "The reviewer describes a closed-loop trading system where purchases require real money, but sales yield bound currency."
+  },
+  {
+    "q0": 23673136,
+    "q5": "The reviewer finds the game experience very poor after reaching level 60."
+  },
+  {
+    "q0": 34207842,
+    "q5": "The reviewer expects the game to be casual due to its portrait orientation and mentions a one-click feature."
+  },
+  {
+    "q0": 34206980,
+    "q5": "The reviewer criticizes the game's customer service, noting limited communication options and censorship in forums."
+  },
+  {
+    "q0": 34200875,
+    "q5": "The reviewer is disappointed by the lack of a free trade system and criticizes the game's monetization."
+  },
+  {
+    "q0": 34183449,
+    "q5": "The reviewer hopes the game won't be too grind-heavy or require heavy spending."
+  },
+  {
+    "q0": 34165031,
+    "q5": "The reviewer criticizes the game's complex daily tasks and questions the balance and trade system."
+  },
+  {
+    "q0": 34161486,
+    "q5": "The reviewer acknowledges the game's high completion level but suggests improvements in player experience and combat."
+  },
+  {
+    "q0": 34156132,
+    "q5": "The reviewer is interested in the game due to its historical theme and praises its graphics and storyline."
+  },
+  {
+    "q0": 33975305,
+    "q5": "The reviewer suspects the game is a reskinned cash-grab and criticizes its graphics as misleading."
+  }
+]
+```

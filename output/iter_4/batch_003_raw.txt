@@ -1,0 +1,155 @@
+```json
+[
+  {
+    "q0": 43200778,
+    "q41": "Bug in main storyline chapter 2."
+  },
+  {
+    "q0": 43199948,
+    "q41": "Main storyline unplayable after first recharge."
+  },
+  {
+    "q0": 43188737,
+    "q5": "The game is fun, relaxing, and enjoyable."
+  },
+  {
+    "q0": 43135706,
+    "q5": "The game is described as relaxing."
+  },
+  {
+    "q0": 43037650,
+    "q41": "App crashes after system update on OnePlus 12."
+  },
+  {
+    "q0": 42886971,
+    "q41": "Guilds do not accept inactive players."
+  },
+  {
+    "q0": 42882999,
+    "q41": "Difficulty finding team due to low player count."
+  },
+  {
+    "q0": 42857958,
+    "q41": "Long wait times for team-based gameplay."
+  },
+  {
+    "q0": 42825073,
+    "q41": "Inheritance system issues between old and new servers."
+  },
+  {
+    "q0": 42813113,
+    "q11": -2,
+    "q12": "Severe imbalance in class balance.",
+    "q29": -2,
+    "q30": "Heavy emphasis on spending for progression.",
+    "q41": "Bots and reduced rewards in game."
+  },
+  {
+    "q0": 37677231,
+    "q29": -2,
+    "q30": "Frequent changes to rewards and monetization.",
+    "q41": "Negative changes in rewards and monetization."
+  },
+  {
+    "q0": 42808846,
+    "q11": -2,
+    "q12": "Poor game balance."
+  },
+  {
+    "q0": 31088120,
+    "q41": "False advertising regarding in-game gifts."
+  },
+  {
+    "q0": 42785710,
+    "q41": "Game bugs not optimized, focus on recharge events."
+  },
+  {
+    "q0": 42781034,
+    "q41": "Difficulty in forming teams for daily activities."
+  },
+  {
+    "q0": 42092915,
+    "q41": "Unjustified bans and poor customer service."
+  },
+  {
+    "q0": 42776233,
+    "q29": -2,
+    "q30": "Reduced rewards and monetization changes.",
+    "q41": "Unfavorable changes in rewards and monetization."
+  },
+  {
+    "q0": 42724221,
+    "q5": "The game is described as fun."
+  },
+  {
+    "q0": 42718348,
+    "q5": "The game is described as enjoyable."
+  },
+  {
+    "q0": 42676747,
+    "q41": "Issues with game events."
+  },
+  {
+    "q0": 42608641,
+    "q27": 2,
+    "q28": "Non-paying users can still enjoy the game."
+  },
+  {
+    "q0": 42593185,
+    "q41": "Unjustified bans and poor customer service."
+  },
+  {
+    "q0": 42510266,
+    "q27": 2,
+    "q28": "Non-paying users can gradually earn resources."
+  },
+  {
+    "q0": 34782345,
+    "q11": 2,
+    "q12": "Positive experience with class balance.",
+    "q27": 2,
+    "q28": "Non-paying users can enjoy the game.",
+    "q41": "Positive feedback on game balance and accessibility."
+  },
+  {
+    "q0": 42485425,
+    "q41": "Suggestions for pet progression."
+  },
+  {
+    "q0": 42039245,
+    "q5": "The game is fun with good art style and social features."
+  },
+  {
+    "q0": 42036003,
+    "q27": 2,
+    "q28": "Good experience for non-paying users."
+  },
+  {
+    "q0": 42012993,
+    "q29": -2,
+    "q30": "Negative changes in rewards and monetization.",
+    "q41": "Issues with game updates and monetization."
+  },
+  {
+    "q0": 41994678,
+    "q5": "The game is fun and has been enjoyable for over a year."
+  },
+  {
+    "q0": 41846040,
+    "q31": -2,
+    "q32": "Insufficient free rewards."
+  },
+  {
+    "q0": 40778758,
+    "q41": "Disappointment with gacha system and character design."
+  },
+  {
+    "q0": 40708212,
+    "q41": "Issues with character and pet progression."
+  },
+  {
+    "q0": 40601168,
+    "q41": "Potential for IP collaborations."
+  }
+]
+```

@@ -1,0 +1,216 @@
+```json
+[
+  {
+    "q0": 34531282,
+    "q5": "The user feels the daily tasks and limited-time events make the game feel like a job.",
+    "q6": "Team play, daily tasks, limited-time events",
+    "q8": "The user feels the game mode makes it feel like a job.",
+    "q10": "The user feels the game mode makes it feel like a job."
+  },
+  {
+    "q0": 34530655,
+    "q5": "The user is disappointed with the game, calling it a rehash of old games.",
+    "q22": "The user mentions the game is a rehash of old games.",
+    "q28": "The user is disappointed with the game, calling it a rehash of old games."
+  },
+  {
+    "q0": 34021639,
+    "q5": "The user criticizes the game for being a copy of existing turn-based games.",
+    "q10": "The user criticizes the game for being a copy of existing turn-based games.",
+    "q22": "The user mentions the game is a rehash of old games.",
+    "q28": "The user criticizes the game for being a copy of existing turn-based games.",
+    "q30": "The user criticizes the game for being a copy of existing turn-based games.",
+    "q41": "The user criticizes the game for being a copy of existing turn-based games."
+  },
+  {
+    "q0": 34527189,
+    "q5": "The user is frustrated with the game's server issues and changes to rewards.",
+    "q22": "The user is frustrated with the game's server issues and changes to rewards.",
+    "q28": "The user is frustrated with the game's server issues and changes to rewards.",
+    "q30": "The user is frustrated with the game's server issues and changes to rewards.",
+    "q41": "The user is frustrated with the game's server issues and changes to rewards."
+  },
+  {
+    "q0": 34526283,
+    "q5": "The user feels the game's art is its main competitive advantage.",
+    "q22": "The user feels the game's art is its main competitive advantage."
+  },
+  {
+    "q0": 34526085,
+    "q5": "The user suggests removing limited-time events for more casual play.",
+    "q6": "Limited-time events",
+    "q8": "The user suggests removing limited-time events for more casual play."
+  },
+  {
+    "q0": 34525946,
+    "q5": "The user appreciates the producer for being close to players."
+  },
+  {
+    "q0": 34525894,
+    "q5": "The user suggests increasing the production of the beast soul.",
+    "q22": "The user suggests increasing the production of the beast soul."
+  },
+  {
+    "q0": 34525563,
+    "q5": "The user hopes the game won't use dirty tricks like in another game."
+  },
+  {
+    "q0": 34523203,
+    "q5": "The user is frustrated with the game's trading system.",
+    "q22": "The user is frustrated with the game's trading system.",
+    "q28": "The user is frustrated with the game's trading system.",
+    "q30": "The user is frustrated with the game's trading system."
+  },
+  {
+    "q0": 34520489,
+    "q5": "The user finds the game's graphics and gameplay refreshing."
+  },
+  {
+    "q0": 34514995,
+    "q5": "The user is concerned about resource availability."
+  },
+  {
+    "q0": 34514874,
+    "q5": "The user finds the art style good but hasn't experienced the game yet."
+  },
+  {
+    "q0": 34514587,
+    "q5": "The user finds the spirit setting interesting with diverse attributes.",
+    "q14": "The user finds the spirit setting interesting with diverse attributes."
+  },
+  {
+    "q0": 34514486,
+    "q5": "The user appreciates the art style and the artist's skill."
+  },
+  {
+    "q0": 34513595,
+    "q5": "The user is concerned about the balance of skills."
+  },
+  {
+    "q0": 34513575,
+    "q5": "The user finds the gameplay innovative and continuously updated.",
+    "q22": "The user finds the gameplay innovative and continuously updated."
+  },
+  {
+    "q0": 34513299,
+    "q5": "The user finds the game both grindy and pay-to-win."
+  },
+  {
+    "q0": 34512204,
+    "q5": "The user finds the character design appealing."
+  },
+  {
+    "q0": 34504984,
+    "q5": "The user finds the game's interface clean and simple."
+  },
+  {
+    "q0": 34504899,
+    "q5": "The user likes the art style but hasn't played the game yet."
+  },
+  {
+    "q0": 34504590,
+    "q5": "The user suggests new players start with a specific class to learn combat details."
+  },
+  {
+    "q0": 34504198,
+    "q5": "The user suggests keeping the tutorial short for experienced players."
+  },
+  {
+    "q0": 34503727,
+    "q5": "The user likes the story background and the openness of the Tang Dynasty."
+  },
+  {
+    "q0": 34503683,
+    "q5": "The user is unsure about which class to choose due to the variety."
+  },
+  {
+    "q0": 34503168,
+    "q5": "The user finds the game's quality promising and hopes for more spirits at launch."
+  },
+  {
+    "q0": 34498137,
+    "q5": "The user is looking forward to the game's release."
+  },
+  {
+    "q0": 34495163,
+    "q5": "The user criticizes the game for being a reskin of other games."
+  },
+  {
+    "q0": 34493965,
+    "q5": "The user finds the game worth trying due to its solid foundation and good art."
+  },
+  {
+    "q0": 34493938,
+    "q5": "The user finds the game suitable for low spenders and free-to-play players.",
+    "q22": "The user finds the game suitable for low spenders and free-to-play players.",
+    "q28": "The user finds the game suitable for low spenders and free-to-play players.",
+    "q30": "The user finds the game suitable for low spenders and free-to-play players."
+  },
+  {
+    "q0": 34492132,
+    "q5": "The user criticizes the game's trading system for requiring real money.",
+    "q22": "The user criticizes the game's trading system for requiring real money.",
+    "q28": "The user criticizes the game's trading system for requiring real money.",
+    "q30": "The user criticizes the game's trading system for requiring real money."
+  },
+  {
+    "q0": 34491395,
+    "q5": "The user hopes for a free trading system in the game."
+  },
+  {
+    "q0": 34487536,
+    "q5": "The user is hopeful for a traditional turn-based game experience."
+  },
+  {
+    "q0": 34486783,
+    "q5": "The user finds the game boring and a reskin of other turn-based games."
+  },
+  {
+    "q0": 34334417,
+    "q5": "The user criticizes the game for removing free trading and reducing rewards.",
+    "q22": "The user criticizes the game for removing free trading and reducing rewards.",
+    "q28": "The user criticizes the game for removing free trading and reducing rewards.",
+    "q30": "The user criticizes the game for removing free trading and reducing rewards."
+  },
+  {
+    "q0": 34480268,
+    "q5": "The user is cautiously optimistic about the game's release."
+  },
+  {
+    "q0": 34477571,
+    "q5": "The user appreciates the game's art and cultural elements but criticizes certain gameplay aspects.",
+    "q22": "The user appreciates the game's art and cultural elements but criticizes certain gameplay aspects.",
+    "q28": "The user appreciates the game's art and cultural elements but criticizes certain gameplay aspects.",
+    "q30": "The user appreciates the game's art and cultural elements but criticizes certain gameplay aspects."
+  },
+  {
+    "q0": 34476480,
+    "q5": "The user advises against forced online and pay-to-win mechanics."
+  },
+  {
+    "q0": 34476141,
+    "q5": "The user appreciates the art of the spirits and hopes for good game operation."
+  },
+  {
+    "q0": 34475805,
+    "q5": "The user is cautiously optimistic and hopes for better rewards and horizontal screen support.",
+    "q22": "The user is cautiously optimistic and hopes for better rewards and horizontal screen support.",
+    "q28": "The user is cautiously optimistic and hopes for better rewards and horizontal screen support.",
+    "q30": "The user is cautiously optimistic and hopes for better rewards and horizontal screen support."
+  },
+  {
+    "q0": 34465394,
+    "q5": "The user criticizes the game for reducing rewards and making it unfriendly to low spenders.",
+    "q22": "The user criticizes the game for reducing rewards and making it unfriendly to low spenders.",
+    "q28": "The user criticizes the game for reducing rewards and making it unfriendly to low spenders.",
+    "q30": "The user criticizes the game for reducing rewards and making it unfriendly to low spenders."
+  },
+  {
+    "q0": 34324387,
+    "q5": "The user criticizes the company for using fake reviews and focusing on monetization.",
+    "q22": "The user criticizes the company for using fake reviews and focusing on monetization.",
+    "q28": "The user criticizes the company for using fake reviews and focusing on monetization.",
+    "q30": "The user criticizes the company for using fake reviews and focusing on monetization."
+  }
+]
+```

@@ -1,0 +1,305 @@
+```json
+[
+  {
+    "q0": 34541284,
+    "q41": "The review mentions a high number of bots or fake accounts."
+  },
+  {
+    "q0": 34541277,
+    "q4": -2,
+    "q5": "The reviewer finds the game not enjoyable and dislikes the vertical screen format."
+  },
+  {
+    "q0": 34541275,
+    "q9": -2,
+    "q10": "The reviewer feels the game becomes uninteresting after just half an hour, with a lack of engaging content."
+  },
+  {
+    "q0": 34541237,
+    "q41": "The review mentions more bots than players, indicating a lack of genuine player base."
+  },
+  {
+    "q0": 34541225,
+    "q27": 2,
+    "q28": "The reviewer appreciates the cross-platform account compatibility between Android and iOS."
+  },
+  {
+    "q0": 34541210,
+    "q41": "The review criticizes the game's art style and mentions dissatisfaction with the opening event being a paid monthly card."
+  },
+  {
+    "q0": 34541201,
+    "q41": "The review criticizes both the graphics and the storyline."
+  },
+  {
+    "q0": 34541184,
+    "q4": -2,
+    "q5": "The reviewer finds the game lacking in playability and criticizes the character design as childish."
+  },
+  {
+    "q0": 34541181,
+    "q41": "The review mentions long queue times of up to 4 hours to enter the game."
+  },
+  {
+    "q0": 34541180,
+    "q41": "The review criticizes the game for being a template with no UI setup and issues with progression."
+  },
+  {
+    "q0": 34541177,
+    "q29": -2,
+    "q30": "The reviewer mentions a high degree of monetization pressure and lack of free trading."
+  },
+  {
+    "q0": 34541167,
+    "q41": "The review mentions poor game quality and long queue times."
+  },
+  {
+    "q0": 34541156,
+    "q41": "The review criticizes the game for long queue times and suggests it is a money-grabbing game."
+  },
+  {
+    "q0": 34541153,
+    "q41": "The review mentions server issues and accuses the game of using fake accounts to boost numbers."
+  },
+  {
+    "q0": 34541148,
+    "q41": "The review describes the game as boring."
+  },
+  {
+    "q0": 34541143,
+    "q41": "The review mentions server issues and fake accounts."
+  },
+  {
+    "q0": 34541142,
+    "q41": "The review criticizes server stability and mentions fake accounts."
+  },
+  {
+    "q0": 34541135,
+    "q41": "The review describes the game as a pay-to-win tower climbing game."
+  },
+  {
+    "q0": 34541026,
+    "q41": "The review mentions long queue times with over 10,000 players."
+  },
+  {
+    "q0": 34541091,
+    "q41": "The review appreciates the artwork but mentions it is subjective."
+  },
+  {
+    "q0": 34541085,
+    "q41": "The review criticizes the lengthy storyline."
+  },
+  {
+    "q0": 34541081,
+    "q41": "The review criticizes the game for having only recharge events."
+  },
+  {
+    "q0": 34541069,
+    "q41": "The review questions the legitimacy of the high number of players in queues."
+  },
+  {
+    "q0": 34541061,
+    "q41": "The review mentions celebrity endorsements and fake accounts."
+  },
+  {
+    "q0": 34541036,
+    "q41": "The review mentions high data usage of 2GB in 20 minutes."
+  },
+  {
+    "q0": 34541010,
+    "q41": "The review criticizes the game for using fake accounts to boost popularity."
+  },
+  {
+    "q0": 34541009,
+    "q4": -2,
+    "q5": "The reviewer finds the game not enjoyable and difficult to understand."
+  },
+  {
+    "q0": 34541007,
+    "q41": "The review criticizes the game for being boring and accuses it of using fake accounts for promotion."
+  },
+  {
+    "q0": 34541000,
+    "q19": 2,
+    "q20": "The reviewer finds the in-game resources plentiful, especially in the early stages."
+  },
+  {
+    "q0": 34540997,
+    "q41": "The review mentions long queue times with fake accounts."
+  },
+  {
+    "q0": 34540961,
+    "q41": "The review criticizes the game for bugs and long queue times."
+  },
+  {
+    "q0": 34540960,
+    "q41": "The review mentions being attracted to the game by a specific character."
+  },
+  {
+    "q0": 34540959,
+    "q41": "The review mentions long queue times relative to short gameplay."
+  },
+  {
+    "q0": 34540941,
+    "q41": "The review criticizes the game for long queue times."
+  },
+  {
+    "q0": 34540928,
+    "q41": "The review mentions server issues and fake accounts."
+  },
+  {
+    "q0": 34540926,
+    "q41": "The review criticizes the game for lack of playability and high monetization."
+  },
+  {
+    "q0": 34540925,
+    "q41": "The review mentions long queue times with over 11,000 players."
+  },
+  {
+    "q0": 34540510,
+    "q41": "The review criticizes the game for server issues and fake accounts."
+  },
+  {
+    "q0": 34540917,
+    "q41": "The review criticizes the game for using fake accounts to boost numbers."
+  },
+  {
+    "q0": 34540910,
+    "q41": "The review mentions long queue times with over 10,000 players."
+  },
+  {
+    "q0": 34540907,
+    "q41": "The review criticizes the game for using fake accounts to boost numbers."
+  },
+  {
+    "q0": 34540905,
+    "q41": "The review questions the legitimacy of the high number of players in queues."
+  },
+  {
+    "q0": 34540902,
+    "q41": "The review criticizes the game for using fake accounts to boost numbers."
+  },
+  {
+    "q0": 34540898,
+    "q41": "The review mentions discrepancies in download numbers and player counts."
+  },
+  {
+    "q0": 34540879,
+    "q41": "The review mentions server issues and long queue times."
+  },
+  {
+    "q0": 34540876,
+    "q41": "The review mentions server congestion and the need for optimization."
+  },
+  {
+    "q0": 34540858,
+    "q41": "The review criticizes the game for server issues and fake accounts."
+  },
+  {
+    "q0": 34540854,
+    "q41": "The review criticizes the game for server issues and fake accounts."
+  },
+  {
+    "q0": 34540849,
+    "q41": "The review criticizes the game for server issues and fake accounts."
+  },
+  {
+    "q0": 34540848,
+    "q41": "The review criticizes the game for server issues and fake accounts."
+  },
+  {
+    "q0": 34540845,
+    "q41": "The review questions the legitimacy of the high number of players in queues."
+  },
+  {
+    "q0": 34540844,
+    "q31": 2,
+    "q32": "The reviewer appreciates the game's casual nature and the ability to play without pressure."
+  },
+  {
+    "q0": 34540838,
+    "q29": -2,
+    "q30": "The reviewer indicates a high degree of monetization pressure."
+  },
+  {
+    "q0": 34540820,
+    "q41": "The review criticizes the game for various issues at launch."
+  },
+  {
+    "q0": 34540818,
+    "q41": "The review mentions long queue times and advises against playing."
+  },
+  {
+    "q0": 34540809,
+    "q41": "The review criticizes the game for long queue times."
+  },
+  {
+    "q0": 34540805,
+    "q41": "The review sarcastically praises the game for long queue times."
+  },
+  {
+    "q0": 34540804,
+    "q41": "The review criticizes the game for long queue times and advises against downloading."
+  },
+  {
+    "q0": 34540801,
+    "q41": "The review criticizes the game for server issues and suggests the developer should close down."
+  },
+  {
+    "q0": 34540799,
+    "q41": "The review criticizes the game's storyline as uninteresting."
+  },
+  {
+    "q0": 34540798,
+    "q41": "The review criticizes the game for server issues and long queue times."
+  },
+  {
+    "q0": 34540797,
+    "q41": "The review mentions server issues and long queue times."
+  },
+  {
+    "q0": 34540795,
+    "q41": "The review criticizes the game for using fake accounts to boost numbers."
+  },
+  {
+    "q0": 34540796,
+    "q41": "The review criticizes the game for server issues and fake accounts."
+  },
+  {
+    "q0": 34540791,
+    "q41": "The review mentions server issues and long queue times."
+  },
+  {
+    "q0": 34540785,
+    "q41": "The review criticizes the game for using fake accounts to boost numbers."
+  },
+  {
+    "q0": 34540784,
+    "q41": "The review mentions long queue times with over 30,000 players."
+  },
+  {
+    "q0": 34540783,
+    "q41": "The review criticizes the game for server issues and expresses disappointment with TapTap's rating system."
+  },
+  {
+    "q0": 34540781,
+    "q41": "The review criticizes the game for using fake accounts to boost numbers."
+  },
+  {
+    "q0": 34540780,
+    "q41": "The review questions the legitimacy of the high number of players in queues."
+  },
+  {
+    "q0": 34540777,
+    "q41": "The review criticizes the game for server issues and fake accounts."
+  },
+  {
+    "q0": 34540771,
+    "q41": "The review criticizes the game for using fake accounts to boost numbers."
+  },
+  {
+    "q0": 34540769,
+    "q41": "The review criticizes the game for using fake accounts to boost numbers."
+  }
+]
+```

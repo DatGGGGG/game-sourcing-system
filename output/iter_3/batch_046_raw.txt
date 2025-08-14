@@ -1,0 +1,70 @@
+```json
+[
+  {
+    "q0": 34024550,
+    "q29": -2,
+    "q30": "The game follows a high payment route which the reviewer cannot afford."
+  },
+  {
+    "q0": 34024384,
+    "q41": "Too many people on the same screen affects the experience negatively."
+  },
+  {
+    "q0": 34020185,
+    "q3": "Turn-based combat with tasks like ghost hunting and treasure digging.",
+    "q4": -2,
+    "q5": "Combat is seen as outdated and lacks features like pet synthesis.",
+    "q6": "Treasure digging, ghost hunting.",
+    "q7": -2,
+    "q8": "The game is compared to a 20-year-old turn-based game, lacking innovation.",
+    "q9": -2,
+    "q10": "Progression is hindered by lack of features and outdated mechanics.",
+    "q13": -2,
+    "q14": "No pet synthesis limits team build diversity."
+  },
+  {
+    "q0": 34017576,
+    "q23": TRUE,
+    "q24": "Monsters are obtained through a gacha-like system.",
+    "q29": -2,
+    "q30": "The gacha system removes the fun of capturing pets in a turn-based game."
+  },
+  {
+    "q0": 34016913,
+    "q29": -2,
+    "q30": "The game is perceived as a cash grab with frequent internal tests and limited public access.",
+    "q41": "The game is criticized for using fake reviews and having a poor testing process."
+  },
+  {
+    "q0": 33996559,
+    "q41": "Toxic community management with language attacks and unfair bans."
+  },
+  {
+    "q0": 33994838,
+    "q41": "Resource scarcity in the later stages of the game."
+  },
+  {
+    "q0": 33969553,
+    "q41": "Lack of flexibility in professions makes the game less interesting."
+  },
+  {
+    "q0": 33968414,
+    "q6": "Sealing and ensuring team output during PvP and tower climbing.",
+    "q7": 1,
+    "q8": "Sealing is important, but requires strategic balance with team output."
+  },
+  {
+    "q0": 33965348,
+    "q41": "Scarcity of in-game currency like copper coins and ingots."
+  },
+  {
+    "q0": 33921992,
+    "q3": "Card drawing and development system.",
+    "q4": 2,
+    "q5": "The card drawing and development system is enjoyable and not overly complex.",
+    "q6": "Card drawing, development system.",
+    "q7": 2,
+    "q8": "The development system is simple and not too demanding."
+  }
+]
+```

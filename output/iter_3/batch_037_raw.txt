@@ -1,0 +1,263 @@
+```json
+[
+  {
+    "q0": 34542524,
+    "q4": -2,
+    "q5": "The game is described as bland and uninteresting, with no highlights."
+  },
+  {
+    "q0": 34542504,
+    "q4": 2,
+    "q5": "The game is popular and crowded, with many players joining at launch.",
+    "q31": 2,
+    "q32": "The game offers a lot of benefits and rewards."
+  },
+  {
+    "q0": 34542501,
+    "q9": -2,
+    "q10": "Progression is hindered by level caps and waiting for resources."
+  },
+  {
+    "q0": 34542495,
+    "q4": -2,
+    "q5": "The game is described as a waste of time with very few gameplay options.",
+    "q31": -2,
+    "q32": "The game offers very few rewards, and the operation is stingy."
+  },
+  {
+    "q0": 34542465,
+    "q4": -2,
+    "q5": "The game feels like a browser game."
+  },
+  {
+    "q0": 34542445,
+    "q4": -2,
+    "q5": "The game is less enjoyable than a simple WeChat mini-game."
+  },
+  {
+    "q0": 34542442,
+    "q4": -2,
+    "q5": "The game is described as too classical and lacking surprises."
+  },
+  {
+    "q0": 34542405,
+    "q4": -2,
+    "q5": "Despite heavy advertising, the gameplay is described as poor and uninteresting."
+  },
+  {
+    "q0": 34542400,
+    "q4": -2,
+    "q5": "The game lacks player agency and feels like watching rather than playing.",
+    "q29": -2,
+    "q30": "The game pressures players to spend money to progress."
+  },
+  {
+    "q0": 34542379,
+    "q4": -2,
+    "q5": "The game is compared unfavorably to other games and considered boring."
+  },
+  {
+    "q0": 34542378,
+    "q4": -2,
+    "q5": "The game is described as a reskinned browser game with poor aesthetics."
+  },
+  {
+    "q0": 34542351,
+    "q4": -2,
+    "q5": "The game is described as unoriginal and lacking engaging content."
+  },
+  {
+    "q0": 34542336,
+    "q29": -2,
+    "q30": "The game is heavily reliant on spending money to enjoy."
+  },
+  {
+    "q0": 34542234,
+    "q4": -2,
+    "q5": "The game is described as a reskinned browser game with outdated mechanics."
+  },
+  {
+    "q0": 34542279,
+    "q4": -2,
+    "q5": "The game's graphics are outdated and not up to modern standards."
+  },
+  {
+    "q0": 34542277,
+    "q4": 1,
+    "q5": "The game has a unique art style and is less grindy compared to similar games.",
+    "q13": 1,
+    "q14": "The game offers a unique art style and adjustments to gameplay difficulty."
+  },
+  {
+    "q0": 34542261,
+    "q41": "The game has many bugs, including issues with core mechanics."
+  },
+  {
+    "q0": 34542223,
+    "q4": 1,
+    "q5": "The turn-based combat is appreciated, but lacks a skip feature."
+  },
+  {
+    "q0": 34542217,
+    "q4": -2,
+    "q5": "The game's design is described as tasteless and cheap."
+  },
+  {
+    "q0": 34542215,
+    "q4": -2,
+    "q5": "The game is described as a poorly executed cash grab."
+  },
+  {
+    "q0": 34542210,
+    "q4": -2,
+    "q5": "The combat and skills are unsatisfying and poorly executed."
+  },
+  {
+    "q0": 34542173,
+    "q4": -2,
+    "q5": "The game is considered a clone with no innovation."
+  },
+  {
+    "q0": 34542152,
+    "q4": -2,
+    "q5": "The game does not match its promotional material and feels outdated."
+  },
+  {
+    "q0": 34542133,
+    "q29": -2,
+    "q30": "The game heavily pressures players to spend money."
+  },
+  {
+    "q0": 34542123,
+    "q31": -2,
+    "q32": "The game offers little to no free rewards, with initial rewards tied to spending."
+  },
+  {
+    "q0": 34542067,
+    "q41": "The game has bugs that cause it to freeze, requiring restarts."
+  },
+  {
+    "q0": 34542013,
+    "q29": -2,
+    "q30": "The game has high spending requirements for in-game items."
+  },
+  {
+    "q0": 34542001,
+    "q4": -2,
+    "q5": "The game is described as a simplified version of other games with outdated mechanics.",
+    "q29": -2,
+    "q30": "The game has high spending requirements, contrary to its promotional claims."
+  },
+  {
+    "q0": 34541982,
+    "q29": -2,
+    "q30": "The game is misleading in its mechanics, focusing on gacha pulls."
+  },
+  {
+    "q0": 34541977,
+    "q4": -2,
+    "q5": "The game is described as having outdated gameplay and poor execution."
+  },
+  {
+    "q0": 34541952,
+    "q4": -2,
+    "q5": "The game feels outdated and lacks engaging content."
+  },
+  {
+    "q0": 34541926,
+    "q4": -2,
+    "q5": "The game is described as a clone of another game with no originality."
+  },
+  {
+    "q0": 34541864,
+    "q4": -2,
+    "q5": "The game is described as boring with unskippable dialogue and poor rewards."
+  },
+  {
+    "q0": 34541844,
+    "q4": -2,
+    "q5": "The game is criticized for misrepresenting its core mechanics."
+  },
+  {
+    "q0": 34541837,
+    "q41": "The game has long queues and server issues on launch day."
+  },
+  {
+    "q0": 34541836,
+    "q41": "The game has server stability issues, preventing players from logging in."
+  },
+  {
+    "q0": 34541814,
+    "q41": "The game has region locking issues, preventing access to certain areas."
+  },
+  {
+    "q0": 34541685,
+    "q4": 1,
+    "q5": "The game has a rich content and well-designed maps, which is rare for turn-based games."
+  },
+  {
+    "q0": 34541647,
+    "q41": "The game has issues with data usage and low rewards."
+  },
+  {
+    "q0": 34541597,
+    "q4": -2,
+    "q5": "The game feels outdated and lacks depth in character skills."
+  },
+  {
+    "q0": 34541585,
+    "q41": "The game has issues with automatic gameplay and misleading rewards."
+  },
+  {
+    "q0": 34541561,
+    "q4": -2,
+    "q5": "The game is boring and puts players to sleep."
+  },
+  {
+    "q0": 34541486,
+    "q31": -2,
+    "q32": "The game offers little to no rewards, with initial rewards tied to spending."
+  },
+  {
+    "q0": 34541441,
+    "q4": -2,
+    "q5": "The game has outdated mechanics and lacks engaging content."
+  },
+  {
+    "q0": 34541439,
+    "q41": "The game has numerous bugs and server issues."
+  },
+  {
+    "q0": 34541428,
+    "q4": -2,
+    "q5": "The game is described as a clone with no originality."
+  },
+  {
+    "q0": 34541422,
+    "q41": "The game has issues with misleading guidance in mechanics."
+  },
+  {
+    "q0": 34541388,
+    "q41": "The game has bugs that prevent progress in certain mechanics."
+  },
+  {
+    "q0": 34541336,
+    "q41": "The game has server issues and long queues on launch day."
+  },
+  {
+    "q0": 34541333,
+    "q4": -2,
+    "q5": "The game is described as a small-scale production with limited content."
+  },
+  {
+    "q0": 34541328,
+    "q31": -2,
+    "q32": "The game offers little to no free rewards, with initial rewards tied to spending."
+  },
+  {
+    "q0": 34541316,
+    "q4": -2,
+    "q5": "The game is described as outdated and focused on monetization."
+  }
+]
+```

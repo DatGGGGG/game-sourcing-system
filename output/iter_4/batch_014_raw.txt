@@ -1,0 +1,185 @@
+```json
+[
+  {
+    "q0": 35482083,
+    "q5": "The game is considered a good way to pass time."
+  },
+  {
+    "q0": 35482054,
+    "q5": "The user likes the game's art style and graphics."
+  },
+  {
+    "q0": 35482033,
+    "q3": "Turn-based combat",
+    "q5": "The game is a turn-based game and is considered good for casual play."
+  },
+  {
+    "q0": 35482019,
+    "q5": "The game does not require heavy grinding or spending, and can be completed in 2 hours."
+  },
+  {
+    "q0": 35482017,
+    "q5": "The game is suitable for light spending and passing time."
+  },
+  {
+    "q0": 35482009,
+    "q5": "The game is considered a conscientious game and is recommended."
+  },
+  {
+    "q0": 35482006,
+    "q5": "The user finds the resource acquisition manageable and the growth experience satisfactory. The game is visually appealing."
+  },
+  {
+    "q0": 35481770,
+    "q5": "The game is suitable for players who cannot play for long periods and provides a good experience without spending money."
+  },
+  {
+    "q0": 35482002,
+    "q5": "The game is enjoyable with friends and has a good community atmosphere, but has many immature aspects that need improvement."
+  },
+  {
+    "q0": 35481995,
+    "q3": "Turn-based combat",
+    "q5": "The game is considered the most perfect vertical turn-based game, and the user hopes for continued improvement."
+  },
+  {
+    "q0": 35481994,
+    "q3": "Turn-based combat",
+    "q5": "The game is enjoyable and allows for both strategic and idle play."
+  },
+  {
+    "q0": 35481992,
+    "q5": "The game has attractive graphics and is creative, but there is a temptation to spend money."
+  },
+  {
+    "q0": 35481987,
+    "q5": "The game is suitable for passing time and can be played with or without spending money."
+  },
+  {
+    "q0": 35481961,
+    "q5": "The game is a vertical screen game suitable for casual play."
+  },
+  {
+    "q0": 35481959,
+    "q5": "The game is perceived as being for players who spend money."
+  },
+  {
+    "q0": 35481944,
+    "q3": "Turn-based combat",
+    "q5": "The game is a turn-based mobile game worth playing."
+  },
+  {
+    "q0": 35481941,
+    "q5": "The game could offer more benefits."
+  },
+  {
+    "q0": 35481936,
+    "q5": "The user finds the clothing unattractive and expresses dissatisfaction."
+  },
+  {
+    "q0": 35481934,
+    "q5": "The user finds the game very fun and is seeking specific in-game items."
+  },
+  {
+    "q0": 35481930,
+    "q5": "The game is interesting but the developer is making poor decisions."
+  },
+  {
+    "q0": 35481929,
+    "q5": "The game provides ample resources through daily activities, and the user is able to progress without spending money."
+  },
+  {
+    "q0": 35481927,
+    "q3": "Turn-based combat",
+    "q5": "The game is a turn-based game that can be played without spending money, but resource management is important."
+  },
+  {
+    "q0": 35481926,
+    "q5": "The game is easy to acquire resources in and can be played without spending money, with decent graphics."
+  },
+  {
+    "q0": 35481922,
+    "q5": "The game is worth playing but should avoid becoming too focused on spending."
+  },
+  {
+    "q0": 35481920,
+    "q5": "The game is grindy and requires spending for progression, with a cycle of acquiring and upgrading pets."
+  },
+  {
+    "q0": 35481917,
+    "q5": "The game is suitable for casual play."
+  },
+  {
+    "q0": 35481913,
+    "q5": "The game is a reskin and may not offer new experiences."
+  },
+  {
+    "q0": 35481884,
+    "q5": "The user has been playing the game for several months."
+  },
+  {
+    "q0": 35481873,
+    "q5": "The game involves daily activities and collaboration with friends, which is enjoyable."
+  },
+  {
+    "q0": 35481855,
+    "q5": "The game has a nice art style and gameplay, but the user made a mistake in spending, affecting their progress."
+  },
+  {
+    "q0": 35481844,
+    "q5": "The game has innovation but still resembles another game, requiring further effort."
+  },
+  {
+    "q0": 35481842,
+    "q5": "The game is good for passing time and has many female players, with no need for heavy spending."
+  },
+  {
+    "q0": 35481841,
+    "q5": "The user has been playing for over three months and finds the game good."
+  },
+  {
+    "q0": 35481837,
+    "q5": "The game is convenient for casual play with a vertical screen."
+  },
+  {
+    "q0": 35481811,
+    "q5": "The game is suitable for both short and long play sessions, with options for idling and resource management."
+  },
+  {
+    "q0": 35481805,
+    "q5": "The game allows for easy resource acquisition and has high playability."
+  },
+  {
+    "q0": 35481775,
+    "q5": "The game is playable for free players, and the developers listen to player feedback."
+  },
+  {
+    "q0": 35481771,
+    "q5": "The game is generally good, but task times should be optimized for working players."
+  },
+  {
+    "q0": 35481767,
+    "q5": "The game provides sufficient daily resources and does not require heavy grinding or spending."
+  },
+  {
+    "q0": 35481749,
+    "q5": "The game offers a good experience for free and low-spending players, but the user suggests improving the appearance of outfits."
+  },
+  {
+    "q0": 35481745,
+    "q5": "The game offers a good experience for free and low-spending players, and is relaxing."
+  },
+  {
+    "q0": 35481743,
+    "q5": "The game can be played without spending money or heavy grinding, but not following guides can lead to resource wastage."
+  },
+  {
+    "q0": 35481741,
+    "q5": "The game is generally good but could offer more benefits."
+  },
+  {
+    "q0": 35481734,
+    "q5": "The game is good for casual play and is favorable for free players."
+  }
+]
+```

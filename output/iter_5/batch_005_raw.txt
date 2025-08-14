@@ -1,0 +1,59 @@
+```json
+[
+    {
+        "q0": 35485968,
+        "q5": "The game is fun and relaxing."
+    },
+    {
+        "q0": 35485927,
+        "q10": "The progression experience is described as 'headache', indicating some dissatisfaction."
+    },
+    {
+        "q0": 35485407,
+        "q27": 2,
+        "q28": "The game can be played without spending money."
+    },
+    {
+        "q0": 35485380,
+        "q3": "Turn-based combat",
+        "q5": "Turn-based games are considered rare nowadays."
+    },
+    {
+        "q0": 35485341,
+        "q19": 2,
+        "q20": "Resources are easily obtainable, and non-paying players can catch up with paying players over time."
+    },
+    {
+        "q0": 35485310,
+        "q15": "Pet development",
+        "q18": "The pet development aspect is considered interesting."
+    },
+    {
+        "q0": 35484415,
+        "q27": 2,
+        "q28": "The game is playable regardless of spending."
+    },
+    {
+        "q0": 35484329,
+        "q41": "The game is not very friendly to level 69 players."
+    },
+    {
+        "q0": 35484245,
+        "q21": 2,
+        "q22": "The game receives frequent updates with new content and features."
+    },
+    {
+        "q0": 35484231,
+        "q5": "The player has been engaged with the game for a long time, indicating satisfaction."
+    },
+    {
+        "q0": 35484063,
+        "q5": "The game is considered a conscientious turn-based game."
+    },
+    {
+        "q0": 35483673,
+        "q3": "Vertical turn-based combat",
+        "q5": "The player enjoys the vertical turn-based combat and can play without heavy spending."
+    }
+]
+```

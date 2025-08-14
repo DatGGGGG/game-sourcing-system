@@ -1,0 +1,373 @@
+```json
+[
+  {
+    "q0": 35596482,
+    "q4": -1,
+    "q5": "The user is not interested in turn-based games."
+  },
+  {
+    "q0": 35481949,
+    "q4": -1,
+    "q5": "The user is not impressed with the game."
+  },
+  {
+    "q0": 35191427,
+    "q1": true,
+    "q2": "Political",
+    "q21": -2,
+    "q22": "The user criticizes the game for being heavily focused on monetization and poor handling of player feedback.",
+    "q29": -2,
+    "q30": "The game is perceived as heavily monetized with frequent cash events and lack of bug fixes.",
+    "q41": "The game is criticized for poor player feedback handling and excessive monetization."
+  },
+  {
+    "q0": 35588040,
+    "q21": -2,
+    "q22": "The user mentions frequent updates without transparency and merging of test and public servers.",
+    "q41": "Frequent updates without transparency."
+  },
+  {
+    "q0": 35587492,
+    "q4": 2,
+    "q5": "The user finds the game very fun with unique story and pet development.",
+    "q27": 2,
+    "q28": "All items in the store can be obtained for free, making it friendly for non-paying players."
+  },
+  {
+    "q0": 35585701,
+    "q4": -1,
+    "q5": "The user finds the combat mechanics reminiscent of other turn-based games but criticizes the reduction in rewards and resource acquisition difficulty.",
+    "q9": -1,
+    "q10": "The user mentions that rewards decrease significantly after level 65, making progression harder.",
+    "q21": -1,
+    "q22": "Frequent small updates that do not seem to improve the game.",
+    "q41": "Rewards and resource acquisition become difficult after level 65."
+  },
+  {
+    "q0": 35226912,
+    "q9": -1,
+    "q10": "The user mentions that the game becomes similar to others after the initial phase, with reduced rewards and increased difficulty.",
+    "q21": -1,
+    "q22": "Merging of test and public servers is criticized.",
+    "q41": "The game becomes similar to others after the initial phase."
+  },
+  {
+    "q0": 35578166,
+    "q33": true,
+    "q34": "The game is based on cultural history and expresses an oriental impression.",
+    "q35": 2,
+    "q36": "The game integrates cultural history and oriental impressions well, creating a unique experience."
+  },
+  {
+    "q0": 35578072,
+    "q19": -1,
+    "q20": "The user is disappointed with the low quality of rewards from difficult dungeons.",
+    "q41": "Rewards from difficult dungeons are perceived as low quality."
+  },
+  {
+    "q0": 35577583,
+    "q11": -1,
+    "q12": "The user criticizes the low value of agility compared to other attributes, making it difficult to balance hero builds.",
+    "q41": "Agility is perceived as a low-value attribute."
+  },
+  {
+    "q0": 35577239,
+    "q11": 1,
+    "q12": "The user finds the overall game balance to be good."
+  },
+  {
+    "q0": 35576918,
+    "q27": 2,
+    "q28": "The game is friendly to non-paying players as long as they avoid PvP."
+  },
+  {
+    "q0": 35575382,
+    "q41": "The user requests longer guild battle times."
+  },
+  {
+    "q0": 35574210,
+    "q41": "The user suggests adding a bounty system for certain tasks."
+  },
+  {
+    "q0": 35574133,
+    "q41": "The user is impressed by the appearance of a character leader."
+  },
+  {
+    "q0": 35571798,
+    "q41": "The user faces issues with identity verification and customer support."
+  },
+  {
+    "q0": 35570305,
+    "q29": -2,
+    "q30": "The user finds the game tasks to be long and tedious, similar to a job.",
+    "q41": "The game is criticized for having long and tedious tasks."
+  },
+  {
+    "q0": 35570119,
+    "q21": -2,
+    "q22": "Frequent updates with hidden changes and no communication.",
+    "q41": "Frequent updates with hidden changes."
+  },
+  {
+    "q0": 35568003,
+    "q4": 2,
+    "q5": "The user finds the game highly enjoyable."
+  },
+  {
+    "q0": 35567801,
+    "q27": 2,
+    "q28": "The game does not pressure players to spend money."
+  },
+  {
+    "q0": 35566484,
+    "q19": 1,
+    "q20": "Resource acquisition is good for patient players."
+  },
+  {
+    "q0": 35565500,
+    "q41": "The user is frustrated with constant matchmaking."
+  },
+  {
+    "q0": 35562503,
+    "q21": -2,
+    "q22": "The user criticizes the merging of test and public servers and poor resource distribution.",
+    "q41": "Criticism of server merging and resource distribution."
+  },
+  {
+    "q0": 35559817,
+    "q41": "The user questions the implementation of a horizontal pseudo-3D mode."
+  },
+  {
+    "q0": 35559148,
+    "q19": 1,
+    "q20": "Resource acquisition is perceived as good."
+  },
+  {
+    "q0": 35557410,
+    "q41": "The user requests more costumes."
+  },
+  {
+    "q0": 35555741,
+    "q41": "The user is frustrated with phone number login requirement."
+  },
+  {
+    "q0": 35554502,
+    "q41": "The user lost their account after spending a significant amount of money."
+  },
+  {
+    "q0": 35554031,
+    "q41": "The user appreciates that the developers listen to player feedback."
+  },
+  {
+    "q0": 35550519,
+    "q27": 2,
+    "q28": "The game is enjoyable for non-paying players."
+  },
+  {
+    "q0": 35549788,
+    "q19": 1,
+    "q20": "Resource acquisition is currently not too monetized."
+  },
+  {
+    "q0": 35549577,
+    "q41": "The user is waiting for a new class that fits their style."
+  },
+  {
+    "q0": 35548009,
+    "q21": -1,
+    "q22": "The user mentions frequent updates with hidden changes and server merging.",
+    "q41": "Frequent updates with hidden changes and server merging."
+  },
+  {
+    "q0": 35547783,
+    "q21": -2,
+    "q22": "The user criticizes the game for frequent updates that lead to player dissatisfaction.",
+    "q41": "Frequent updates lead to player dissatisfaction."
+  },
+  {
+    "q0": 35547752,
+    "q41": "The user appreciates the game's art style."
+  },
+  {
+    "q0": 35546799,
+    "q41": "The user finds the game similar to 'Dream of the Red Chamber' but struggles with social interaction and team play."
+  },
+  {
+    "q0": 35544754,
+    "q21": -2,
+    "q22": "The user criticizes the merging of test and public servers and reduced resource acquisition.",
+    "q41": "Criticism of server merging and reduced resource acquisition."
+  },
+  {
+    "q0": 35542902,
+    "q41": "The user finds the growth experience to be average."
+  },
+  {
+    "q0": 35542689,
+    "q41": "The user suggests improvements for level 69 activities and daily rewards."
+  },
+  {
+    "q0": 35542498,
+    "q27": 2,
+    "q28": "The game is friendly for non-paying and low-spending players."
+  },
+  {
+    "q0": 35541497,
+    "q41": "The user suggests playing as a healer for non-paying players."
+  },
+  {
+    "q0": 35343756,
+    "q21": -2,
+    "q22": "The user criticizes frequent hidden changes and server merging.",
+    "q41": "Criticism of frequent hidden changes and server merging."
+  },
+  {
+    "q0": 35344513,
+    "q21": -2,
+    "q22": "The user criticizes the merging of test and public servers.",
+    "q41": "Criticism of server merging."
+  },
+  {
+    "q0": 35537265,
+    "q27": 2,
+    "q28": "The game is playable without spending money."
+  },
+  {
+    "q0": 35536817,
+    "q21": -2,
+    "q22": "The user criticizes the game for focusing on marketing rather than improving game content.",
+    "q41": "Criticism of marketing focus over game content."
+  },
+  {
+    "q0": 35536463,
+    "q27": 2,
+    "q28": "The game is playable with minimal spending."
+  },
+  {
+    "q0": 35534728,
+    "q23": false,
+    "q25": -2,
+    "q26": "The user is frustrated with low gacha rates and poor game experience."
+  },
+  {
+    "q0": 35392591,
+    "q21": -2,
+    "q22": "The user criticizes frequent updates that reduce rewards and poor customer support.",
+    "q29": -2,
+    "q30": "The game is perceived as heavily monetized with reduced rewards.",
+    "q41": "Criticism of frequent updates reducing rewards and poor customer support."
+  },
+  {
+    "q0": 35527928,
+    "q41": "The user criticizes the game's daily tasks as frustrating."
+  },
+  {
+    "q0": 35523073,
+    "q41": "The user questions the game's difference from 'Dream of the Red Chamber'."
+  },
+  {
+    "q0": 35511995,
+    "q41": "The user appreciates the game's vertical screen mode for discreet play."
+  },
+  {
+    "q0": 35510538,
+    "q41": "The user appreciates the game's nostalgic feel and unique pets."
+  },
+  {
+    "q0": 35508785,
+    "q41": "The user enjoys the game as an idle game."
+  },
+  {
+    "q0": 35507380,
+    "q41": "The user appreciates the game's art style and hopes for continued good rewards."
+  },
+  {
+    "q0": 35506198,
+    "q33": true,
+    "q34": "The game is based on a comic.",
+    "q35": 1,
+    "q36": "The game is based on a comic, attracting fans."
+  },
+  {
+    "q0": 35495911,
+    "q41": "The user finds the game relaxing."
+  },
+  {
+    "q0": 35492750,
+    "q41": "The user appreciates the game's consideration for players, especially in pet customization."
+  },
+  {
+    "q0": 35492533,
+    "q29": -2,
+    "q30": "The game is perceived as heavily monetized, favoring big spenders."
+  },
+  {
+    "q0": 35492322,
+    "q41": "The user is satisfied with the game's playability and art style."
+  },
+  {
+    "q0": 35491971,
+    "q41": "The user finds the game simple and easy to operate."
+  },
+  {
+    "q0": 35491108,
+    "q41": "The user finds the game to be a very fair mobile game with beautiful graphics."
+  },
+  {
+    "q0": 35490771,
+    "q41": "The user enjoys the game for its daily tasks and achievements."
+  },
+  {
+    "q0": 35490728,
+    "q41": "The user finds the game enjoyable and not stressful."
+  },
+  {
+    "q0": 35490421,
+    "q41": "The user finds the game's story engaging but too grindy."
+  },
+  {
+    "q0": 35490284,
+    "q41": "The user has a positive experience with the game after trying multiple accounts."
+  },
+  {
+    "q0": 35488655,
+    "q41": "The user finds the game less enjoyable without spending money after level 69."
+  },
+  {
+    "q0": 35488580,
+    "q41": "The user finds the game enjoyable without spending money."
+  },
+  {
+    "q0": 35487847,
+    "q41": "The user finds the game addictive."
+  },
+  {
+    "q0": 35487745,
+    "q41": "The user recommends the game for those interested in turn-based games."
+  },
+  {
+    "q0": 35487711,
+    "q41": "The user hopes the game becomes more popular."
+  },
+  {
+    "q0": 35487678,
+    "q41": "The user finds the game's art style appealing but mentions reduced rewards."
+  },
+  {
+    "q0": 35487641,
+    "q41": "The user finds some game operations to be unintelligent."
+  },
+  {
+    "q0": 35487474,
+    "q41": "The user enjoys the game's mode."
+  },
+  {
+    "q0": 35487330,
+    "q41": "The user finds the game generous with resources for strategic planning."
+  },
+  {
+    "q0": 35487185,
+    "q41": "The user suggests improving resource acquisition."
+  }
+]
+```

@@ -1,0 +1,422 @@
+```json
+[
+  {
+    "q0": 34592802,
+    "q5": "The user feels the game is outdated, similar to games from 20 years ago."
+  },
+  {
+    "q0": 34592797,
+    "q6": "Prioritize upgrading the Water Spirit Fox pet.",
+    "q8": "The user suggests prioritizing the Water Spirit Fox, indicating some level of strategic depth."
+  },
+  {
+    "q0": 34592796,
+    "q6": "Prioritize clearing the Ghost Market for good items.",
+    "q8": "The user suggests strategic prioritization of resources in the Ghost Market."
+  },
+  {
+    "q0": 34592747,
+    "q5": "The user describes the game as similar to web games, implying a lack of depth or quality."
+  },
+  {
+    "q0": 34592706,
+    "q5": "The user appreciates the Giant Wave Bear for its automatic protection and high health.",
+    "q11": 2,
+    "q12": "The user finds the Giant Wave Bear to be a strong and useful character."
+  },
+  {
+    "q0": 34592691,
+    "q5": "The user is experiencing level blocking and is concerned about resource management."
+  },
+  {
+    "q0": 34592661,
+    "q5": "The user is unsure about the quality level needed for the demon spirits."
+  },
+  {
+    "q0": 34592629,
+    "q5": "The user finds the beginner's guide to be detailed and helpful."
+  },
+  {
+    "q0": 34592597,
+    "q5": "The user is skeptical about the high ratings and criticizes the game's outdated style."
+  },
+  {
+    "q0": 34592575,
+    "q5": "The user finds the game to be of good quality and high completion."
+  },
+  {
+    "q0": 34592542,
+    "q5": "The user initially enjoyed the game but quickly lost interest due to repetitive gameplay.",
+    "q9": -2,
+    "q10": "The user experienced diminishing enjoyment over a few days, leading to uninstallation."
+  },
+  {
+    "q0": 34592508,
+    "q5": "The user suggests implementing double experience for initial daily activities."
+  },
+  {
+    "q0": 34592469,
+    "q5": "The user suggests automatic level breakthroughs to avoid resource hoarding."
+  },
+  {
+    "q0": 34592446,
+    "q5": "The user prefers playing a high-difficulty faction and focuses on late-game team building."
+  },
+  {
+    "q0": 34592356,
+    "q5": "The user hopes for seamless inheritance of artifact nurturing levels."
+  },
+  {
+    "q0": 34592094,
+    "q5": "The user believes level blocking is mainly for resource accumulation."
+  },
+  {
+    "q0": 34592087,
+    "q5": "The user appreciates level blocking for allowing time to complete other activities."
+  },
+  {
+    "q0": 34592061,
+    "q5": "The user inquires about the strength of physical factions like Tang Sect."
+  },
+  {
+    "q0": 34591966,
+    "q5": "The user finds the turn-based game interesting and not overly reliant on spending."
+  },
+  {
+    "q0": 34591887,
+    "q5": "The user criticizes the game for having monotonous gameplay and being too luck-dependent."
+  },
+  {
+    "q0": 34591793,
+    "q5": "The user is inquiring about the opening of a new server."
+  },
+  {
+    "q0": 34591775,
+    "q5": "The user finds daily tasks time-consuming and team requirements burdensome."
+  },
+  {
+    "q0": 34591403,
+    "q5": "The user is frustrated with being unable to purchase items despite having enough currency."
+  },
+  {
+    "q0": 34591315,
+    "q5": "The user is seeking advice on the best books for their team in tower climbing."
+  },
+  {
+    "q0": 34591149,
+    "q5": "The user finds pet skill books overwhelming despite the simplicity of pet book usage."
+  },
+  {
+    "q0": 34591101,
+    "q5": "The user criticizes the game for lack of unique gameplay and issues with purchases and customer service.",
+    "q29": -2,
+    "q30": "The user feels the game pressures spending through misleading recharge offers."
+  },
+  {
+    "q0": 34422321,
+    "q5": "The user is concerned about reduced rewards and censorship in discussions but finds weekly pet acquisition manageable.",
+    "q31": 1,
+    "q32": "The user finds the weekly acquisition of a complete pet to be simple."
+  },
+  {
+    "q0": 34573541,
+    "q5": "The user is frustrated with the 3v3 event and monetization of opening events.",
+    "q29": -2,
+    "q30": "The user feels pressured by monetization of events and dissatisfaction with matchmaking."
+  },
+  {
+    "q0": 34590484,
+    "q5": "The user criticizes the game's outdated polish, fixed event times, and suggests developers play their own game."
+  },
+  {
+    "q0": 34590473,
+    "q5": "The user finds the game initially promising but ultimately pay-to-win with significant spending pressure.",
+    "q29": -2,
+    "q30": "The user feels pressured by the need to spend to compete effectively."
+  },
+  {
+    "q0": 34590448,
+    "q5": "The user refuses to play games endorsed by celebrities, viewing them as money-grabbing."
+  },
+  {
+    "q0": 23675667,
+    "q5": "The user criticizes the game for pay-to-win elements and suggests improvements for trading and pet systems.",
+    "q29": -2,
+    "q30": "The user feels the game is heavily monetized with a focus on pay-to-win elements."
+  },
+  {
+    "q0": 34590177,
+    "q5": "The user experiences frequent crashes and long event durations, affecting enjoyment."
+  },
+  {
+    "q0": 34590106,
+    "q5": "The user finds the game enjoyable."
+  },
+  {
+    "q0": 34589856,
+    "q5": "The user is frustrated with the auction system requiring real money for purchases."
+  },
+  {
+    "q0": 34589821,
+    "q5": "The user finds the game to be quite good."
+  },
+  {
+    "q0": 34589770,
+    "q5": "The user describes the main storyline as tedious and daily tasks as lengthy."
+  },
+  {
+    "q0": 34589711,
+    "q5": "The user criticizes the combat curve and describes the game as a 'flow game' with a monthly cycle."
+  },
+  {
+    "q0": 34589709,
+    "q5": "The user criticizes the game's inconsistent cultural setting."
+  },
+  {
+    "q0": 29430894,
+    "q5": "The user was initially interested in the vertical screen but found the content lacking."
+  },
+  {
+    "q0": 34589406,
+    "q5": "The user finds the game time-consuming and lacking in beginner rewards, requiring spending."
+  },
+  {
+    "q0": 34589300,
+    "q5": "The user finds the game to be acceptable."
+  },
+  {
+    "q0": 34589260,
+    "q5": "The user believes the game is beyond saving, criticizing its lack of originality and pay-to-win elements."
+  },
+  {
+    "q0": 34589190,
+    "q5": "The user experiences frequent crashes during team activities."
+  },
+  {
+    "q0": 34589054,
+    "q5": "The user is experiencing issues with response times."
+  },
+  {
+    "q0": 34588862,
+    "q5": "The user experiences severe lag and crashes, making the game unplayable."
+  },
+  {
+    "q0": 34588786,
+    "q5": "The user is disappointed with the game's lack of features similar to Pokémon and criticizes its monetization."
+  },
+  {
+    "q0": 34588519,
+    "q5": "The user finds the Dragon Palace class cost-effective in the early game."
+  },
+  {
+    "q0": 34588403,
+    "q5": "The user finds the game to be a good choice for casual play due to its turn-based nature."
+  },
+  {
+    "q0": 34588337,
+    "q5": "The user encountered issues with currency deductions and feels scammed."
+  },
+  {
+    "q0": 34588324,
+    "q5": "The user finds the character Yinghuo's ultimate skill underwhelming."
+  },
+  {
+    "q0": 34588300,
+    "q5": "The user finds the Qingqiu profession unfriendly due to monster immunity."
+  },
+  {
+    "q0": 34588286,
+    "q5": "The user advises buying high-level books early if currency allows."
+  },
+  {
+    "q0": 34588036,
+    "q5": "The user compares the game to a job."
+  },
+  {
+    "q0": 34588019,
+    "q5": "The user finds daily tasks to be too time-consuming."
+  },
+  {
+    "q0": 34587982,
+    "q5": "The user criticizes the game for using outdated gameplay mechanics."
+  },
+  {
+    "q0": 34587954,
+    "q5": "The user is frustrated with the lack of a speed-up feature, feeling it unnecessarily extends playtime."
+  },
+  {
+    "q0": 34587942,
+    "q5": "The user notices frequent opening of new servers."
+  },
+  {
+    "q0": 34587916,
+    "q5": "The user discusses tower climbing strategies, indicating personal preference for certain characters."
+  },
+  {
+    "q0": 34587894,
+    "q5": "The user finds the game generous with rewards, having acquired ten demon spirits quickly."
+  },
+  {
+    "q0": 34587865,
+    "q5": "The user finds the game suitable for casual play, similar to their previous game."
+  },
+  {
+    "q0": 34587848,
+    "q5": "The user is seeking advice on skill books for their monkey character."
+  },
+  {
+    "q0": 34587761,
+    "q5": "The user is seeking advice on attribute distribution for the Putuo class."
+  },
+  {
+    "q0": 34587753,
+    "q5": "The user is frustrated with being unable to bond with a divine beast despite having enough currency."
+  },
+  {
+    "q0": 34587725,
+    "q5": "The user finds the Water Qilin's skills to be effective and stable."
+  },
+  {
+    "q0": 34587719,
+    "q5": "The user is frustrated with opponents' frequent use of flash skills in competition."
+  },
+  {
+    "q0": 34587659,
+    "q5": "The user criticizes level blocking and finds character illustrations appealing despite slow plot progression."
+  },
+  {
+    "q0": 34587657,
+    "q5": "The user is frustrated with slow resource accumulation and is tempted to spend."
+  },
+  {
+    "q0": 34587651,
+    "q5": "The user finds the graphics good and experiences no lag."
+  },
+  {
+    "q0": 34587632,
+    "q5": "The user is committed to playing Chang'an Fantasy exclusively this year."
+  },
+  {
+    "q0": 34587584,
+    "q5": "The user is considering saving pet gourds for use after level 40."
+  },
+  {
+    "q0": 34587493,
+    "q5": "The user is stuck on main quests and seeks alternative ways to level up."
+  },
+  {
+    "q0": 34587478,
+    "q5": "The user finds the fox pet to be a well-rounded control pet."
+  },
+  {
+    "q0": 34587460,
+    "q5": "The user finds leveling to be fast with a moderate game pace."
+  },
+  {
+    "q0": 34587412,
+    "q5": "The user suggests using different characters for different combat roles."
+  },
+  {
+    "q0": 34587404,
+    "q5": "The user finds the game to be fair for small spenders and appreciates the skill effects."
+  },
+  {
+    "q0": 34587342,
+    "q5": "The user enjoys the combination of critical hits and combos for high damage."
+  },
+  {
+    "q0": 34587302,
+    "q5": "The user finds daily tasks to be lengthy and time-consuming."
+  },
+  {
+    "q0": 34587236,
+    "q5": "The user recommends using the Divine Dog with its skills for effective combat."
+  },
+  {
+    "q0": 34587235,
+    "q5": "The user wishes for poison skills for the Tang Sect in tower climbing."
+  },
+  {
+    "q0": 34587223,
+    "q5": "The user expresses gratitude for being helped by experienced players."
+  },
+  {
+    "q0": 34587180,
+    "q5": "The user describes the Divine Dog's skills as powerful and beneficial in combat."
+  },
+  {
+    "q0": 34587173,
+    "q5": "The user criticizes the game for being pay-to-win and time-consuming, but appreciates the pet designs.",
+    "q29": -2,
+    "q30": "The user feels the game is heavily monetized, affecting gameplay enjoyment."
+  },
+  {
+    "q0": 34587166,
+    "q5": "The user advises focusing on equipment only when upgrading to red gear."
+  },
+  {
+    "q0": 34587052,
+    "q5": "The user finds attribute distribution to be a challenging aspect of the game."
+  },
+  {
+    "q0": 34587019,
+    "q5": "The user loses interest upon seeing the vertical screen layout."
+  },
+  {
+    "q0": 34586996,
+    "q5": "The user finds the Totoro's skill effective against buff-stacking enemies."
+  },
+  {
+    "q0": 34586920,
+    "q5": "The user is seeking clarification on skill stacking for demon spirits."
+  },
+  {
+    "q0": 34586879,
+    "q5": "The user finds higher-level content more challenging due to enemy abilities."
+  },
+  {
+    "q0": 34586822,
+    "q5": "The user finds the game lacks replayability due to fixed event times."
+  },
+  {
+    "q0": 34586587,
+    "q5": "The user mentions a promotion for discounted recharges."
+  },
+  {
+    "q0": 34586585,
+    "q5": "The user criticizes the game for being outdated and lacking innovation."
+  },
+  {
+    "q0": 34586447,
+    "q5": "The user finds the game disappointing due to its web game style and lack of engaging content."
+  },
+  {
+    "q0": 34586294,
+    "q5": "The user is skeptical about the legitimacy of in-game events and rewards."
+  },
+  {
+    "q0": 34586165,
+    "q5": "The user advises against playing the game due to its high grind and monetization.",
+    "q29": -2,
+    "q30": "The user feels the game is heavily monetized and warns against playing."
+  },
+  {
+    "q0": 34586045,
+    "q5": "The user is frustrated with unexpected conversion to third-party recharges."
+  },
+  {
+    "q0": 34586035,
+    "q5": "The user experiences frequent screen freezes."
+  },
+  {
+    "q0": 34585879,
+    "q5": "The user finds the game to be heavily monetized and lacking in engaging content.",
+    "q29": -2,
+    "q30": "The user feels the game is heavily monetized with little engaging content."
+  },
+  {
+    "q0": 34585836,
+    "q5": "The user finds the game to be good."
+  }
+]
+```

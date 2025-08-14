@@ -1,0 +1,86 @@
+```json
+[
+  {
+    "q0": 27215696,
+    "q5": "The user appreciates the art style and compares it favorably to a comic."
+  },
+  {
+    "q0": 26847518,
+    "q5": "The user praises the art style and shares it with friends."
+  },
+  {
+    "q0": 26691406,
+    "q5": "The user likes the character designs."
+  },
+  {
+    "q0": 26671989,
+    "q5": "The user suggests focusing on game content to make the first test interesting."
+  },
+  {
+    "q0": 26594159,
+    "q3": "Turn-based combat",
+    "q5": "The user is intrigued by the vertical turn-based combat."
+  },
+  {
+    "q0": 26581054,
+    "q5": "The user is excited about the character designs, especially for fans of aesthetics."
+  },
+  {
+    "q0": 26402837,
+    "q5": "The user is frustrated with the delay in game release."
+  },
+  {
+    "q0": 26397914,
+    "q5": "The user hopes for an early release."
+  },
+  {
+    "q0": 26392716,
+    "q3": "Vertical format",
+    "q5": "The user is curious about the vertical format of the game."
+  },
+  {
+    "q0": 25852245,
+    "q5": "The user is concerned about the game's survival, noting it's a comic adaptation."
+  },
+  {
+    "q0": 25786901,
+    "q5": "The user is frustrated with the delay in testing."
+  },
+  {
+    "q0": 25757997,
+    "q5": "The user likes the art style and is eagerly awaiting the game's release."
+  },
+  {
+    "q0": 25714580,
+    "q5": "The user hopes for innovation and good management in the game."
+  },
+  {
+    "q0": 25708019,
+    "q5": "The user is excited for the game's release and wishes it success."
+  },
+  {
+    "q0": 25655813,
+    "q5": "The user is impatient for the game's public test."
+  },
+  {
+    "q0": 25521061,
+    "q5": "The user is concerned about the game's potential failure, comparing it to previous games."
+  },
+  {
+    "q0": 25505623,
+    "q5": "The user finds the game visually appealing and is excited for its release."
+  },
+  {
+    "q0": 25492048,
+    "q5": "The user is hopeful for the game, noting the unique art style in the turn-based genre."
+  },
+  {
+    "q0": 25434779,
+    "q5": "The user is drawn in by the community's activity and is eager to play."
+  },
+  {
+    "q0": 25338092,
+    "q5": "The user is concerned that delays might diminish player excitement."
+  }
+]
+```

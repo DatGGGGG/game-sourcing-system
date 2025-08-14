@@ -1,0 +1,106 @@
+```json
+[
+  {
+    "q0": 33916064,
+    "q9": -1,
+    "q10": "Players feel limited by the small selection of pets at each level, and higher-level pets are mostly offensive, lacking variety."
+  },
+  {
+    "q0": 33915309,
+    "q21": 1,
+    "q22": "The game has been updated with interesting content over time, though some areas like comics and wallpapers have not been updated recently."
+  },
+  {
+    "q0": 33914986,
+    "q21": -1,
+    "q22": "Concerns about opening too many servers, which could lead to player dispersion and difficulty in forming active guilds."
+  },
+  {
+    "q0": 33906801,
+    "q9": -1,
+    "q10": "Daily tasks are time-consuming and cannot be paused, leading to a passive gaming experience."
+  },
+  {
+    "q0": 33906007,
+    "q21": 1,
+    "q22": "Previous updates have turned NPCs into playable characters, with hopes for more such updates."
+  },
+  {
+    "q0": 33905690,
+    "q9": -1,
+    "q10": "The tower climbing feature is considered painful due to the presence of 'heavenly thunder,' suggesting it should be removed or adjusted."
+  },
+  {
+    "q0": 33904758,
+    "q37": 2,
+    "q38": "The interface is simple, and the art style is refreshing and better than expected."
+  },
+  {
+    "q0": 33904380,
+    "q13": 1,
+    "q14": "Players are interested in new factions and functional pets, suggesting a desire for more diversity."
+  },
+  {
+    "q0": 33897899,
+    "q29": -1,
+    "q30": "There is concern about the game being a 'cash grab,' with a call for a balanced approach to monetization that does not pressure players."
+  },
+  {
+    "q0": 33896653,
+    "q13": -1,
+    "q14": "Team compositions lack variety, with a suggestion to allow smaller teams with more pets or characters."
+  },
+  {
+    "q0": 33896130,
+    "q15": "Players desire puzzle-like gameplay such as auto chess or match-three games.",
+    "q16": false,
+    "q17": 1,
+    "q18": "The suggestion of adding puzzle-like gameplay indicates a desire for more engaging secondary activities."
+  },
+  {
+    "q0": 33884291,
+    "q9": -1,
+    "q10": "Pet development feels lacking, with limited choices available."
+  },
+  {
+    "q0": 33882903,
+    "q29": -1,
+    "q30": "The game feels like a typical turn-based game with no unique selling points, leading to a lack of motivation."
+  },
+  {
+    "q0": 33878270,
+    "q9": -1,
+    "q10": "The daily tasks are complex and time-limited, leading to missed opportunities and a desire for more flexible task completion."
+  },
+  {
+    "q0": 33802450,
+    "q11": -1,
+    "q12": "There is a lack of differentiation among classes, with most being focused on output and little variation in playstyle."
+  },
+  {
+    "q0": 33801887,
+    "q37": 2,
+    "q38": "The graphics and battle scenes are detailed, with cute pets and attractive NPCs."
+  },
+  {
+    "q0": 33751660,
+    "q4": -1,
+    "q5": "The battle process lacks excitement, with pets appearing static and lacking dynamic poses."
+  },
+  {
+    "q0": 33742384,
+    "q4": -1,
+    "q5": "The battle music and effects lack impact, making the combat feel less engaging."
+  },
+  {
+    "q0": 33740014,
+    "q11": -1,
+    "q12": "Class balance is not well-executed, with some classes and pets underperforming compared to others."
+  },
+  {
+    "q0": 33700818,
+    "q9": -1,
+    "q10": "The game relies heavily on luck for progression, with limited social interaction leading to player drop-off."
+  }
+]
+```

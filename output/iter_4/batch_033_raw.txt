@@ -1,0 +1,408 @@
+```json
+[
+  {
+    "q0": 24360000,
+    "q5": "The user gave a 5-star rating, indicating they are very satisfied with the game."
+  },
+  {
+    "q0": 24359665,
+    "q5": "The user is observing the game with a 5-star rating, indicating initial positive interest."
+  },
+  {
+    "q0": 24359605,
+    "q5": "The user is enthusiastic about the game, especially due to its Chinese style and turn-based mechanics."
+  },
+  {
+    "q0": 24359358,
+    "q5": "The user is expressing anticipation for the game."
+  },
+  {
+    "q0": 23674750,
+    "q5": "The user is eager for the public test to start."
+  },
+  {
+    "q0": 24358873,
+    "q5": "The user is expressing anticipation with a 5-star rating."
+  },
+  {
+    "q0": 24358374,
+    "q5": "The user is expressing anticipation with a 5-star rating and wants the public test to start soon."
+  },
+  {
+    "q0": 24358351,
+    "q5": "The user finds the game appealing and is eager for the test to start."
+  },
+  {
+    "q0": 24358276,
+    "q5": "The user is expressing eagerness for the game."
+  },
+  {
+    "q0": 24358217,
+    "q5": "The user is expressing anticipation with a 4-star rating."
+  },
+  {
+    "q0": 24358151,
+    "q5": "The user likes the game type and is eager for testing."
+  },
+  {
+    "q0": 24357718,
+    "q5": "The user hopes the game is not too demanding and wishes for its success."
+  },
+  {
+    "q0": 24357707,
+    "q5": "The user is expressing anticipation for the game."
+  },
+  {
+    "q0": 23672572,
+    "q5": "The user is hopeful and anticipates the game but hopes it is not too demanding."
+  },
+  {
+    "q0": 24357624,
+    "q5": "The user is eager for the game to be released."
+  },
+  {
+    "q0": 24357513,
+    "q5": "The user is very enthusiastic and full of anticipation for the game."
+  },
+  {
+    "q0": 24355730,
+    "q5": "The user is eager for the game to be released and gives a positive review in anticipation."
+  },
+  {
+    "q0": 24355276,
+    "q5": "The user is very eager for the game to start soon to avoid losing interest."
+  },
+  {
+    "q0": 24355252,
+    "q5": "The user is expressing anticipation for the game's test phase."
+  },
+  {
+    "q0": 24355086,
+    "q5": "The user is expressing anticipation for the game."
+  },
+  {
+    "q0": 24354524,
+    "q5": "The user is expressing anticipation for the game."
+  },
+  {
+    "q0": 24353738,
+    "q5": "The user hopes for the game's success during public testing."
+  },
+  {
+    "q0": 24353531,
+    "q5": "The user is observing the game with a full score, indicating initial positive interest."
+  },
+  {
+    "q0": 24353444,
+    "q5": "The user wishes the game success and good fortune for its testing phase."
+  },
+  {
+    "q0": 24353375,
+    "q5": "The user wishes the game success and good fortune."
+  },
+  {
+    "q0": 24352703,
+    "q5": "The user likes pet-catching games and is observing with a 5-star rating."
+  },
+  {
+    "q0": 24352664,
+    "q5": "The user wishes the game success and prosperity."
+  },
+  {
+    "q0": 24352203,
+    "q5": "The user gives a positive review without having played the game."
+  },
+  {
+    "q0": 24352117,
+    "q5": "The user is expressing anticipation for the game."
+  },
+  {
+    "q0": 24351764,
+    "q5": "The user is expressing anticipation and hopes the game improves over time."
+  },
+  {
+    "q0": 24351370,
+    "q5": "The user is eager for the public test to start."
+  },
+  {
+    "q0": 24351296,
+    "q5": "The user is eager for the public test to start."
+  },
+  {
+    "q0": 24351232,
+    "q5": "The user is eager for the game to be released soon."
+  },
+  {
+    "q0": 24351010,
+    "q5": "The user is expressing anticipation for the game."
+  },
+  {
+    "q0": 24347170,
+    "q5": "The user is unfamiliar with the developer but gives a 5-star rating to encourage them."
+  },
+  {
+    "q0": 24342178,
+    "q5": "The user is very eager for the game and likes this type of game."
+  },
+  {
+    "q0": 24338158,
+    "q5": "The user is warning about potential furry content."
+  },
+  {
+    "q0": 24334667,
+    "q5": "The user is eager to see the game's graphics and is anticipating the test phase."
+  },
+  {
+    "q0": 24333763,
+    "q5": "The user hopes the game is not pay-to-win and can be enjoyed without spending money."
+  },
+  {
+    "q0": 24331847,
+    "q5": "The user is frustrated with the lack of female character reveals and feels teased."
+  },
+  {
+    "q0": 24312394,
+    "q5": "The user is charmed by the wolf characters and desires a feeding system."
+  },
+  {
+    "q0": 24309134,
+    "q5": "The user loves the art style and is eagerly anticipating the test phase."
+  },
+  {
+    "q0": 24305450,
+    "q5": "The user is eager for the game to be released and suggests an internal test."
+  },
+  {
+    "q0": 24302857,
+    "q5": "The user is interested in the vertical screen turn-based mechanics and has pre-registered."
+  },
+  {
+    "q0": 24302684,
+    "q5": "The user is interested in the free trade aspect of the game."
+  },
+  {
+    "q0": 24301293,
+    "q5": "The user hopes the game's modeling is not disappointing."
+  },
+  {
+    "q0": 24300231,
+    "q5": "The user is inquiring about the presence of a trading system."
+  },
+  {
+    "q0": 24281441,
+    "q5": "The user is eager for the game to be released soon due to a lack of games to play."
+  },
+  {
+    "q0": 24280303,
+    "q5": "The user is curious about the cover character and gives a 5-star rating for observation."
+  },
+  {
+    "q0": 24267303,
+    "q5": "The user is unsure about the game's differences from another pet-catching game."
+  },
+  {
+    "q0": 24261193,
+    "q5": "The user is interested in a treasure map system for stable income."
+  },
+  {
+    "q0": 24256080,
+    "q5": "The user is hopeful and anticipates the game being good."
+  },
+  {
+    "q0": 24221873,
+    "q5": "The user is curious about when the game will be playable."
+  },
+  {
+    "q0": 24201171,
+    "q5": "The user is inquiring if the game is made by a furry developer."
+  },
+  {
+    "q0": 24195718,
+    "q5": "The user hopes the game maintains high ratings after public testing."
+  },
+  {
+    "q0": 24181363,
+    "q5": "The user is interested in free trade but warns about potential economic issues."
+  },
+  {
+    "q0": 24180294,
+    "q5": "The user is curious if the game involves nurturing mechanics."
+  },
+  {
+    "q0": 24178834,
+    "q5": "The user is curious about the public test date."
+  },
+  {
+    "q0": 24177424,
+    "q5": "The user is inquiring about the game's release date."
+  },
+  {
+    "q0": 24177159,
+    "q5": "The user hopes the skills are inspired by another game."
+  },
+  {
+    "q0": 24174242,
+    "q5": "The user is skeptical about high-rated games maintaining quality after release."
+  },
+  {
+    "q0": 24169979,
+    "q5": "The user is curious about the internal test date."
+  },
+  {
+    "q0": 24168966,
+    "q5": "The user gives a 5-star rating for encouragement."
+  },
+  {
+    "q0": 24165433,
+    "q5": "The user is curious about the game's release date."
+  },
+  {
+    "q0": 24165347,
+    "q5": "The user loves the anime style of the game."
+  },
+  {
+    "q0": 24164555,
+    "q5": "The user is curious about the game's release date."
+  },
+  {
+    "q0": 24164509,
+    "q5": "The user finds the art style cute and appreciates the developers' efforts."
+  },
+  {
+    "q0": 24161470,
+    "q5": "The user is inquiring about a related comic."
+  },
+  {
+    "q0": 24157643,
+    "q5": "The user is making a humorous comparison to another game."
+  },
+  {
+    "q0": 24153304,
+    "q5": "The user is curious about the game's release date."
+  },
+  {
+    "q0": 24152043,
+    "q5": "The user suggests making an animation instead of the game."
+  },
+  {
+    "q0": 24146671,
+    "q5": "The user is interested in the vertical screen aspect of the game."
+  },
+  {
+    "q0": 24145847,
+    "q5": "The user loves pet-collecting games and hopes for map exploration."
+  },
+  {
+    "q0": 24144647,
+    "q5": "The user is curious about the public test date."
+  },
+  {
+    "q0": 24144249,
+    "q5": "The user feels their pre-registration was in vain due to delays."
+  },
+  {
+    "q0": 24142846,
+    "q5": "The user is concerned about the game's accessibility for single players."
+  },
+  {
+    "q0": 24142093,
+    "q5": "The user is inquiring about the game's release date."
+  },
+  {
+    "q0": 24140216,
+    "q5": "The user is curious about the public test date."
+  },
+  {
+    "q0": 24138423,
+    "q5": "The user hopes the game is not similar to another AR game."
+  },
+  {
+    "q0": 24135167,
+    "q5": "The user is curious about the test and public release dates."
+  },
+  {
+    "q0": 24124450,
+    "q5": "The user finds the game quite good."
+  },
+  {
+    "q0": 24122204,
+    "q5": "The user is very eager and has been observing the game for some time."
+  },
+  {
+    "q0": 24111408,
+    "q5": "The user is concerned about the game's graphics and hopes for innovative gameplay."
+  },
+  {
+    "q0": 24100046,
+    "q5": "The user is optimistic about the game's art style and overall potential."
+  },
+  {
+    "q0": 24094271,
+    "q5": "The user is wary of AR mechanics but praises the artwork."
+  },
+  {
+    "q0": 24059007,
+    "q5": "The user is frustrated with long wait times for game releases."
+  },
+  {
+    "q0": 24056648,
+    "q5": "The user is fond of the pet designs, particularly a soft and cuddly creature."
+  },
+  {
+    "q0": 24055077,
+    "q5": "The user hopes the game is free of ads, which they find disruptive."
+  },
+  {
+    "q0": 24053692,
+    "q5": "The user finds the concept of teaming up with historical figures poetic and appealing."
+  },
+  {
+    "q0": 24049559,
+    "q5": "The user is hopeful and anticipates the game being enjoyable."
+  },
+  {
+    "q0": 24041849,
+    "q5": "The user loves this type of game and hopes it meets expectations."
+  },
+  {
+    "q0": 24035218,
+    "q5": "The user is eager for the game to be released due to a lack of games to play."
+  },
+  {
+    "q0": 24030181,
+    "q5": "The user is expressing anticipation for the game."
+  },
+  {
+    "q0": 24019262,
+    "q5": "The user is very eager and hopes for pleasant surprises."
+  },
+  {
+    "q0": 24015219,
+    "q5": "The user is curious about the game's release date and gives a 3-star rating for observation."
+  },
+  {
+    "q0": 24014385,
+    "q5": "The user is expressing anticipation and finds the game promising."
+  },
+  {
+    "q0": 24004462,
+    "q5": "The user is expressing anticipation with a 5-star rating and comments on character design."
+  },
+  {
+    "q0": 24000508,
+    "q5": "The user finds the game okay."
+  },
+  {
+    "q0": 23671778,
+    "q5": "The user finds the art style satisfactory and is expressing anticipation."
+  },
+  {
+    "q0": 23989334,
+    "q5": "The user deducted two stars due to dissatisfaction with pets."
+  },
+  {
+    "q0": 23989158,
+    "q5": "The user finds the game quite good."
+  }
+]
+```

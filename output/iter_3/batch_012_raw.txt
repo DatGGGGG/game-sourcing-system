@@ -1,0 +1,206 @@
+```json
+[
+  {
+    "q0": 36071368,
+    "q4": -2,
+    "q5": "The user expresses a very negative experience due to poor probability mechanics and bad operational services.",
+    "q9": 1,
+    "q10": "The game has a shorter development cycle and easier resource acquisition, which is appreciated.",
+    "q21": -2,
+    "q22": "The user criticizes the operational services, indicating a lack of restrictions on certain behaviors.",
+    "q27": 1,
+    "q28": "The game is easier in terms of resource acquisition compared to others in the genre."
+  },
+  {
+    "q0": 36067445,
+    "q4": -2,
+    "q5": "The user is frustrated with hidden changes and reduced rewards, making the game experience negative.",
+    "q9": -2,
+    "q10": "The user feels that the game forces progression and spending, making it a negative experience.",
+    "q21": -2,
+    "q22": "The user mentions frequent hidden changes that negatively affect the game experience.",
+    "q29": -2,
+    "q30": "The user feels pressured to spend due to reduced rewards and forced progression."
+  },
+  {
+    "q0": 36064984,
+    "q9": -2,
+    "q10": "The user feels that without spending money, progression is severely hindered.",
+    "q29": -2,
+    "q30": "The user feels that spending is necessary to progress in the game."
+  },
+  {
+    "q0": 35970697,
+    "q9": 1,
+    "q10": "The user finds the game friendly for non-spending players and suggests ways to enjoy it without spending.",
+    "q27": 1,
+    "q28": "The game allows for non-spending players to enjoy a significant portion of the game.",
+    "q29": 1,
+    "q30": "The user suggests that spending is optional and not necessary to enjoy the game."
+  },
+  {
+    "q0": 35965782,
+    "q4": -2,
+    "q5": "The user is frustrated with the game's updates that force spending and progression.",
+    "q9": -2,
+    "q10": "The user feels that the updates force progression and spending, making it a negative experience.",
+    "q21": -2,
+    "q22": "The user mentions updates that negatively affect the game experience by forcing progression and spending.",
+    "q29": -2,
+    "q30": "The user feels pressured to spend due to updates that force progression."
+  },
+  {
+    "q0": 35484284,
+    "q21": -2,
+    "q22": "The user criticizes the frequent updates that do not communicate changes, leading to a negative experience.",
+    "q29": -2,
+    "q30": "The user feels that spending is necessary due to limited-time rewards."
+  },
+  {
+    "q0": 35959457,
+    "q4": -2,
+    "q5": "The user finds the story animations too lengthy, negatively affecting the game experience."
+  },
+  {
+    "q0": 35948676,
+    "q37": -2,
+    "q38": "The game installation size increased significantly over time, leading to a negative experience."
+  },
+  {
+    "q0": 35943783,
+    "q4": -2,
+    "q5": "The user is frustrated with the inability to see teammate data during battles."
+  },
+  {
+    "q0": 35938234,
+    "q29": -2,
+    "q30": "The user feels that the game is heavily focused on spending money."
+  },
+  {
+    "q0": 35936448,
+    "q11": -2,
+    "q12": "The user feels that there is a significant disparity in class strength.",
+    "q13": -2,
+    "q14": "The user warns new players about the significant differences in class strength."
+  },
+  {
+    "q0": 34424509,
+    "q21": -2,
+    "q22": "The user criticizes the frequent hidden changes and lack of customer service.",
+    "q29": -2,
+    "q30": "The user feels that the game is heavily focused on spending money."
+  },
+  {
+    "q0": 35933436,
+    "q29": -2,
+    "q30": "The user feels that the game is heavily focused on spending money.",
+    "q31": -2,
+    "q32": "The user criticizes the unfairness in event rewards and resource acquisition."
+  },
+  {
+    "q0": 35919138,
+    "q31": -2,
+    "q32": "The user is frustrated with the inability to leave a team, leading to wasted resources."
+  },
+  {
+    "q0": 35911360,
+    "q29": -2,
+    "q30": "The user feels that the game is heavily focused on spending money.",
+    "q31": -2,
+    "q32": "The user criticizes the auction system and the loss of players."
+  },
+  {
+    "q0": 35908464,
+    "q11": -2,
+    "q12": "The user feels that there is a significant imbalance in class strength.",
+    "q29": -2,
+    "q30": "The user feels that the game is heavily focused on spending money.",
+    "q31": -2,
+    "q32": "The user criticizes the low drop rates and the necessity of spending money."
+  },
+  {
+    "q0": 35894341,
+    "q29": -2,
+    "q30": "The user feels that the game is not friendly to solo players due to forced social interactions."
+  },
+  {
+    "q0": 35836814,
+    "q11": -2,
+    "q12": "The user feels that there is a significant imbalance in class strength.",
+    "q29": -2,
+    "q30": "The user feels that the game is not suitable for non-spending players."
+  },
+  {
+    "q0": 35832669,
+    "q4": 1,
+    "q5": "The user appreciates the strategic features in combat, such as setting commands for NPCs.",
+    "q6": "Setting commands for NPCs, strategic combat",
+    "q7": 1,
+    "q8": "The user appreciates the ability to set commands for NPCs, adding strategic depth.",
+    "q13": 1,
+    "q14": "The user appreciates the evolution and customization of characters, adding diversity."
+  },
+  {
+    "q0": 34602864,
+    "q21": -2,
+    "q22": "The user criticizes the frequent hidden changes and lack of communication.",
+    "q29": -2,
+    "q30": "The user feels that the game is heavily focused on spending money."
+  },
+  {
+    "q0": 35809129,
+    "q11": -2,
+    "q12": "The user feels that there is a significant imbalance in class strength.",
+    "q21": -2,
+    "q22": "The user criticizes the frequent hidden changes and lack of communication.",
+    "q29": -2,
+    "q30": "The user feels that the game is heavily focused on spending money."
+  },
+  {
+    "q0": 35729698,
+    "q21": -2,
+    "q22": "The user criticizes the frequent hidden changes and lack of communication.",
+    "q29": -2,
+    "q30": "The user feels that the game is heavily focused on spending money."
+  },
+  {
+    "q0": 35410446,
+    "q4": -2,
+    "q5": "The user finds the combat mechanics lengthy and tedious.",
+    "q9": -2,
+    "q10": "The user feels that progression is heavily tied to spending money.",
+    "q11": -2,
+    "q12": "The user feels that there is a significant imbalance in class strength.",
+    "q29": -2,
+    "q30": "The user feels that the game is heavily focused on spending money."
+  },
+  {
+    "q0": 35701069,
+    "q11": -2,
+    "q12": "The user feels that there is a significant imbalance in class strength.",
+    "q29": -2,
+    "q30": "The user feels that the game is heavily focused on spending money."
+  },
+  {
+    "q0": 35678806,
+    "q29": -2,
+    "q30": "The user feels that the game does not treat players well."
+  },
+  {
+    "q0": 35674015,
+    "q4": -2,
+    "q5": "The user believes there is a hidden system that affects combat outcomes based on power levels."
+  },
+  {
+    "q0": 35668544,
+    "q6": "Social features, strategic combat",
+    "q7": 1,
+    "q8": "The user appreciates the social features and strategic depth in combat."
+  },
+  {
+    "q0": 35663097,
+    "q29": -2,
+    "q30": "The user criticizes the unfairness in event rewards and resource acquisition."
+  }
+]
+```

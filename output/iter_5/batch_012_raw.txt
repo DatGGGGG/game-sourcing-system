@@ -1,0 +1,192 @@
+```json
+[
+  {
+    "q0": 34427016,
+    "q5": "The reviewer appreciates the developers for listening to player feedback and responding quickly."
+  },
+  {
+    "q0": 34424110,
+    "q5": "The reviewer is very excited and has plans to play the game with friends after exams."
+  },
+  {
+    "q0": 34424106,
+    "q5": "The reviewer is dissatisfied with the changes made to the game."
+  },
+  {
+    "q0": 34420092,
+    "q5": "The reviewer expresses a very positive sentiment towards the game."
+  },
+  {
+    "q0": 34417016,
+    "q5": "The reviewer finds the character '麒麟' interesting and hopes for good luck when the server opens."
+  },
+  {
+    "q0": 34411396,
+    "q5": "The reviewer has a positive impression of the game."
+  },
+  {
+    "q0": 34405185,
+    "q5": "The reviewer is looking forward to playing the game in their spare time."
+  },
+  {
+    "q0": 34393192,
+    "q5": "The reviewer has a positive impression of the game."
+  },
+  {
+    "q0": 31544159,
+    "q5": "The reviewer mentions issues with character deletion and accuses the game of having too many fake reviews, leading to a negative rating."
+  },
+  {
+    "q0": 34153159,
+    "q5": "The reviewer accuses the game of having many fake reviews and advises others to look at lower-rated reviews for a more accurate picture."
+  },
+  {
+    "q0": 34388218,
+    "q5": "The reviewer criticizes the company for being exploitative towards players."
+  },
+  {
+    "q0": 34388146,
+    "q5": "The reviewer criticizes the game's modeling and questions the authenticity of its popularity."
+  },
+  {
+    "q0": 34386120,
+    "q5": "The reviewer finds the game content to be rich and interesting."
+  },
+  {
+    "q0": 34380903,
+    "q5": "The reviewer is very excited and hopeful for a unique experience."
+  },
+  {
+    "q0": 34375911,
+    "q5": "The reviewer hopes for a game experience filled with randomness and interaction, unlike '洛克王国'."
+  },
+  {
+    "q0": 34365807,
+    "q5": "The reviewer suggests that the game would be better and more elegant if it were horizontal."
+  },
+  {
+    "q0": 34364476,
+    "q5": "The reviewer appreciates the art style and is looking forward to exploring more."
+  },
+  {
+    "q0": 34220867,
+    "q5": "The reviewer is dissatisfied with the game's changes, feeling they have made the game worse."
+  },
+  {
+    "q0": 34362394,
+    "q5": "The reviewer is very excited about the game and hopes to win a prize."
+  },
+  {
+    "q0": 34353189,
+    "q5": "The reviewer is confused about the high rating given the game mechanics."
+  },
+  {
+    "q0": 34348026,
+    "q5": "The reviewer is disappointed that the game is in portrait mode."
+  },
+  {
+    "q0": 34342169,
+    "q5": "The reviewer is very excited about the game."
+  },
+  {
+    "q0": 34339503,
+    "q5": "The reviewer is excited and advises caution with the modeling."
+  },
+  {
+    "q0": 34332936,
+    "q5": "The reviewer notes that the art style is very similar to another character, suggesting a lack of originality."
+  },
+  {
+    "q0": 34328092,
+    "q5": "The reviewer appreciates the art style and suggests it could be used for merchandise."
+  },
+  {
+    "q0": 34327790,
+    "q5": "The reviewer finds a character's name intimidating but the art style cute, creating a contrast."
+  },
+  {
+    "q0": 34326493,
+    "q5": "The reviewer suggests having more random tasks at each level."
+  },
+  {
+    "q0": 34321076,
+    "q5": "The reviewer is inquiring about the possibility of trading in the game."
+  },
+  {
+    "q0": 34318993,
+    "q5": "The reviewer is willing to give a high rating in exchange for seeing certain content."
+  },
+  {
+    "q0": 34314304,
+    "q5": "The reviewer points out that even the clothing designs are similar, suggesting a lack of originality."
+  },
+  {
+    "q0": 34312346,
+    "q5": "The reviewer finds the game acceptable but notes there are areas for improvement."
+  },
+  {
+    "q0": 34302968,
+    "q5": "The reviewer has not played a satisfying turn-based game in a long time."
+  },
+  {
+    "q0": 34295429,
+    "q5": "The reviewer notes improvements in the game, such as level capping and equipment flexibility, leading to a more relaxed gameplay experience."
+  },
+  {
+    "q0": 34292556,
+    "q5": "The reviewer is interested in the pet system and hopes for customization options."
+  },
+  {
+    "q0": 34292417,
+    "q5": "The reviewer is drawn to the game primarily for its art style."
+  },
+  {
+    "q0": 34287395,
+    "q5": "The reviewer feels that the quality of the game has met their expectations after a long wait."
+  },
+  {
+    "q0": 34285496,
+    "q5": "The reviewer is looking for a simple game suitable for casual play."
+  },
+  {
+    "q0": 34281598,
+    "q5": "The reviewer is excited about a Pokémon-style turn-based game."
+  },
+  {
+    "q0": 34269551,
+    "q5": "The reviewer hopes the game can capture the essence of a manga they enjoyed."
+  },
+  {
+    "q0": 34265393,
+    "q5": "The reviewer has been following the game for two years and is still interested."
+  },
+  {
+    "q0": 34262566,
+    "q5": "The reviewer emphasizes the importance of social features in a turn-based game."
+  },
+  {
+    "q0": 34247859,
+    "q5": "The reviewer supports the national style and plans to adjust their rating after playing."
+  },
+  {
+    "q0": 34228734,
+    "q5": "The reviewer is skeptical about the game being in portrait mode and not purely turn-based."
+  },
+  {
+    "q0": 34227938,
+    "q5": "The reviewer is concerned about the game's file size affecting the quality of the modeling."
+  },
+  {
+    "q0": 34217567,
+    "q5": "The reviewer is very excited and hopes for a unique and joyful experience."
+  },
+  {
+    "q0": 34208077,
+    "q5": "The reviewer has a positive inclination towards historical games but is cautious about the quality."
+  },
+  {
+    "q0": 34207734,
+    "q5": "The reviewer is enthusiastic about the prospect of free trading in the game."
+  }
+]
+```

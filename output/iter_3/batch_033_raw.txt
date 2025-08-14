@@ -1,0 +1,231 @@
+```json
+[
+  {
+    "q0": 34554947,
+    "q9": 1,
+    "q10": "Progression tied to tower climbing with increasing rewards."
+  },
+  {
+    "q0": 34554915,
+    "q27": -2,
+    "q28": "Complaints about lack of rewards for non-paying users.",
+    "q29": -2,
+    "q30": "Heavy spending pressure and dissatisfaction with rewards.",
+    "q31": -2,
+    "q32": "Very few free rewards, leading to dissatisfaction."
+  },
+  {
+    "q0": 34554879,
+    "q6": "Strategic combat with boss challenges and ranked matches.",
+    "q7": 2,
+    "q8": "Variety of strategic options available for different player types.",
+    "q15": "Home building, baby raising, and achievement pursuit.",
+    "q16": true,
+    "q17": 2,
+    "q18": "Diverse secondary activities for different player interests."
+  },
+  {
+    "q0": 34554836,
+    "q9": 1,
+    "q10": "Player enjoys the game and spends significant time online."
+  },
+  {
+    "q0": 34554773,
+    "q21": 2,
+    "q22": "Positive feedback on the game's storyline and updates."
+  },
+  {
+    "q0": 34156027,
+    "q23": false,
+    "q25": -2,
+    "q26": "High cost for mythical beasts and other in-game items.",
+    "q27": -2,
+    "q28": "Non-paying users face significant disadvantages.",
+    "q29": -2,
+    "q30": "Heavy spending pressure with high costs for progression.",
+    "q33": true,
+    "q34": "Game has been rebranded multiple times with similar gameplay.",
+    "q35": -2,
+    "q36": "Rebranding does not change the core gameplay, leading to dissatisfaction."
+  },
+  {
+    "q0": 34554648,
+    "q5": "Negative feedback on the tutorial and storyline length.",
+    "q9": -2,
+    "q10": "Unskippable tutorial and long storyline create a poor experience."
+  },
+  {
+    "q0": 34554611,
+    "q4": 2,
+    "q5": "Positive feedback on skill effects and smooth gameplay."
+  },
+  {
+    "q0": 34554590,
+    "q15": "Catching and evolving spirits.",
+    "q16": true,
+    "q17": 1,
+    "q18": "Enjoyment in choosing and evolving spirits."
+  },
+  {
+    "q0": 34554516,
+    "q5": "Negative feedback on forced cuteness and childish storyline.",
+    "q9": -2,
+    "q10": "Lack of motivation to continue playing due to poor storyline."
+  },
+  {
+    "q0": 34554504,
+    "q5": "Negative feedback on repetitive and time-consuming tasks.",
+    "q9": -2,
+    "q10": "Repetitive tasks and time constraints negatively impact progression."
+  },
+  {
+    "q0": 34554421,
+    "q25": -2,
+    "q26": "High cost for in-game purchases and subscriptions.",
+    "q29": -2,
+    "q30": "Heavy spending pressure with multiple purchase options."
+  },
+  {
+    "q0": 34554467,
+    "q27": -2,
+    "q28": "Game perceived as a cash grab with poor value for non-paying users."
+  },
+  {
+    "q0": 34554269,
+    "q29": -2,
+    "q30": "Concerns about third-party charging and spending pressure."
+  },
+  {
+    "q0": 34554130,
+    "q3": "Traditional turn-based combat.",
+    "q4": 1,
+    "q5": "Appreciation for the game's unique take on traditional mechanics.",
+    "q6": "Spirit evolution and strategic combat.",
+    "q7": 1,
+    "q8": "Unique spirit evolution adds depth to strategy.",
+    "q9": 1,
+    "q10": "Positive feedback on game progression and testing phases.",
+    "q15": "Spirit evolution and pet management.",
+    "q16": true,
+    "q17": 2,
+    "q18": "Enjoyment in evolving and managing pets.",
+    "q21": 1,
+    "q22": "Positive feedback on game updates and testing phases.",
+    "q27": 1,
+    "q28": "Game allows for enjoyable play without heavy spending.",
+    "q31": 1,
+    "q32": "Satisfactory free rewards and progression."
+  },
+  {
+    "q0": 34553982,
+    "q4": 1,
+    "q5": "Positive feedback on game mechanics and effects.",
+    "q11": 1,
+    "q12": "Balanced hero abilities with some room for improvement.",
+    "q13": 1,
+    "q14": "Diverse hero abilities and team compositions."
+  },
+  {
+    "q0": 34553947,
+    "q27": 1,
+    "q28": "Game provides a satisfactory experience for non-paying users.",
+    "q31": 1,
+    "q32": "Adequate free rewards and activities."
+  },
+  {
+    "q0": 34553888,
+    "q6": "Ranked matches and strategic combat.",
+    "q7": 1,
+    "q8": "Interesting strategic choices and competitive play."
+  },
+  {
+    "q0": 34553818,
+    "q11": 1,
+    "q12": "Balanced hero classes with diverse abilities.",
+    "q13": 1,
+    "q14": "Diverse team compositions and hero abilities."
+  },
+  {
+    "q0": 34553773,
+    "q15": "Idle and turn-based combat combination.",
+    "q16": true,
+    "q17": 1,
+    "q18": "Combination of idle and turn-based mechanics.",
+    "q19": 1,
+    "q20": "Adequate resource generation from secondary loop."
+  },
+  {
+    "q0": 34553684,
+    "q6": "Resource acquisition through daily tasks and strategy.",
+    "q7": 1,
+    "q8": "Strategic resource management and acquisition.",
+    "q19": 1,
+    "q20": "Adequate resource generation through daily activities."
+  },
+  {
+    "q0": 34553519,
+    "q27": 1,
+    "q28": "Game allows for enjoyable play without heavy spending.",
+    "q31": 1,
+    "q32": "Satisfactory free rewards and progression."
+  },
+  {
+    "q0": 34553226,
+    "q15": "Mirage gameplay with unique monster traits.",
+    "q16": true,
+    "q17": 2,
+    "q18": "Enjoyable and rewarding secondary gameplay loop.",
+    "q19": 2,
+    "q20": "High resource generation from secondary loop."
+  },
+  {
+    "q0": 34553222,
+    "q21": 1,
+    "q22": "Positive feedback on game features and updates."
+  },
+  {
+    "q0": 34553113,
+    "q33": true,
+    "q34": "Integration of Tang Dynasty and trainer elements.",
+    "q35": 1,
+    "q36": "Positive feedback on IP integration and gameplay."
+  },
+  {
+    "q0": 34552981,
+    "q31": 2,
+    "q32": "High satisfaction with free rewards and aesthetics."
+  },
+  {
+    "q0": 34552817,
+    "q15": "Tower climbing with strategic decision-making.",
+    "q16": true,
+    "q17": 2,
+    "q18": "Enjoyable and challenging secondary gameplay loop."
+  },
+  {
+    "q0": 34552357,
+    "q31": 1,
+    "q32": "Adequate free rewards and resource distribution."
+  },
+  {
+    "q0": 34552188,
+    "q4": 1,
+    "q5": "Positive feedback on skill mechanics and effects."
+  },
+  {
+    "q0": 34543721,
+    "q27": -2,
+    "q28": "Game perceived as unplayable for non-paying users.",
+    "q29": -2,
+    "q30": "Heavy spending pressure with multiple currencies."
+  },
+  {
+    "q0": 34551589,
+    "q23": false,
+    "q25": -2,
+    "q26": "High cost for mythical beasts and other in-game items.",
+    "q29": -2,
+    "q30": "Heavy spending pressure with high costs for progression."
+  }
+]
+```

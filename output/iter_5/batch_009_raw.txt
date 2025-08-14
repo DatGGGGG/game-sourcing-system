@@ -1,0 +1,345 @@
+```json
+[
+  {
+    "q0": 34769026,
+    "q5": "The game is considered a good turn-based game, enjoyable for all levels.",
+    "q9": 2,
+    "q10": "The game is praised for being enjoyable across different player levels."
+  },
+  {
+    "q0": 34767908,
+    "q5": "The game is fun and visually appealing, with a social aspect.",
+    "q9": 2,
+    "q10": "The game is described as fun and visually appealing, with opportunities to make friends."
+  },
+  {
+    "q0": 34755436,
+    "q5": "The battle system's end determination is criticized for being unfair.",
+    "q9": -2,
+    "q10": "The battle system is criticized for unfairly determining the end of battles, affecting pet development."
+  },
+  {
+    "q0": 34754408,
+    "q5": "There is dissatisfaction with the modeling of a character not matching its original artwork.",
+    "q9": -1,
+    "q10": "The discrepancy between character artwork and modeling leads to dissatisfaction."
+  },
+  {
+    "q0": 34752449,
+    "q5": "There is frustration over unannounced changes to in-game item prices.",
+    "q9": -2,
+    "q10": "Unannounced changes to item prices cause frustration and dissatisfaction."
+  },
+  {
+    "q0": 34750778,
+    "q9": -1,
+    "q10": "Progression is hindered by level gates in the main storyline."
+  },
+  {
+    "q0": 34750397,
+    "q5": "The game is described as lacking flavor but not entirely dismissible.",
+    "q9": -1,
+    "q10": "The game is described as lacking flavor, making it less engaging."
+  },
+  {
+    "q0": 34749290,
+    "q5": "The game is enjoyable for non-paying players but has some progression issues.",
+    "q9": 1,
+    "q10": "The game is enjoyable for non-paying players but has issues with increasing difficulty and auction house limitations."
+  },
+  {
+    "q0": 34747971,
+    "q5": "The game has optimization issues and requires frequent logins for certain activities.",
+    "q9": -1,
+    "q10": "Optimization issues and frequent logins for activities detract from the experience."
+  },
+  {
+    "q0": 34745208,
+    "q5": "The game is good but suffers from severe lag issues.",
+    "q9": -1,
+    "q10": "Severe lag issues affect the overall enjoyment of the game."
+  },
+  {
+    "q0": 34744140,
+    "q5": "The game is fun.",
+    "q9": 2,
+    "q10": "The game is described as fun."
+  },
+  {
+    "q0": 34739197,
+    "q5": "The game is enjoyable for non-paying players.",
+    "q9": 2,
+    "q10": "The game is enjoyable for non-paying players."
+  },
+  {
+    "q0": 34723250,
+    "q5": "The game mode is liked but there are issues with luck.",
+    "q9": 1,
+    "q10": "The game mode is liked, but luck issues are mentioned."
+  },
+  {
+    "q0": 34711062,
+    "q5": "There are issues with server stability.",
+    "q9": -1,
+    "q10": "Server stability issues are mentioned."
+  },
+  {
+    "q0": 31737727,
+    "q5": "The game is generally good for small to moderate spending players.",
+    "q9": 1,
+    "q10": "The game is generally good for small to moderate spending players, with some content limitations."
+  },
+  {
+    "q0": 34708202,
+    "q5": "The game requires either spending or significant time investment.",
+    "q9": -1,
+    "q10": "The game requires either spending or significant time investment to progress."
+  },
+  {
+    "q0": 34706616,
+    "q5": "The auction house changes are seen as detrimental to non-paying players.",
+    "q9": -2,
+    "q10": "Auction house changes are seen as detrimental to non-paying players."
+  },
+  {
+    "q0": 34706326,
+    "q5": "The game is tedious for non-paying players, with a focus on high-level players.",
+    "q9": -1,
+    "q10": "The game is tedious for non-paying players, with a focus on high-level players."
+  },
+  {
+    "q0": 34705322,
+    "q5": "The game is not enjoyable due to character class issues.",
+    "q9": -1,
+    "q10": "Character class issues make the game less enjoyable."
+  },
+  {
+    "q0": 34704836,
+    "q5": "The game is not enjoyable due to resource scarcity and queue times.",
+    "q9": -1,
+    "q10": "Resource scarcity and queue times make the game less enjoyable."
+  },
+  {
+    "q0": 34704766,
+    "q5": "The game is fun.",
+    "q9": 2,
+    "q10": "The game is described as fun."
+  },
+  {
+    "q0": 34700910,
+    "q5": "There are concerns about unnecessary permissions requested by the game.",
+    "q9": -1,
+    "q10": "Concerns about unnecessary permissions requested by the game."
+  },
+  {
+    "q0": 34697787,
+    "q5": "The game has strange character modeling and the main character feels less important.",
+    "q9": -1,
+    "q10": "Strange character modeling and the main character feeling less important detract from the experience."
+  },
+  {
+    "q0": 34696601,
+    "q5": "The game is good but has high battery consumption.",
+    "q9": -1,
+    "q10": "High battery consumption affects the overall enjoyment of the game."
+  },
+  {
+    "q0": 34695861,
+    "q5": "Playing as a healer is challenging and less rewarding.",
+    "q9": -1,
+    "q10": "Playing as a healer is challenging and less rewarding."
+  },
+  {
+    "q0": 34695701,
+    "q5": "The game interface is cluttered and lacks engaging content.",
+    "q9": -1,
+    "q10": "The game interface is cluttered and lacks engaging content."
+  },
+  {
+    "q0": 34694440,
+    "q5": "The game is seen as a re-skin of an older game.",
+    "q9": -1,
+    "q10": "The game is seen as a re-skin of an older game."
+  },
+  {
+    "q0": 34691420,
+    "q5": "The game is a decent turn-based game with appealing art.",
+    "q9": 2,
+    "q10": "The game is a decent turn-based game with appealing art."
+  },
+  {
+    "q0": 34679371,
+    "q5": "The game is very pay-to-win.",
+    "q9": -2,
+    "q10": "The game is very pay-to-win."
+  },
+  {
+    "q0": 34599404,
+    "q5": "The game is very pay-to-win.",
+    "q9": -2,
+    "q10": "The game is very pay-to-win."
+  },
+  {
+    "q0": 34675172,
+    "q5": "The game is not very pay-to-win compared to similar games.",
+    "q9": 1,
+    "q10": "The game is not very pay-to-win compared to similar games."
+  },
+  {
+    "q0": 34674822,
+    "q5": "The character class Tangmen is seen as underpowered.",
+    "q9": -1,
+    "q10": "The character class Tangmen is seen as underpowered."
+  },
+  {
+    "q0": 34673676,
+    "q5": "The game is enjoyable.",
+    "q9": 2,
+    "q10": "The game is described as enjoyable."
+  },
+  {
+    "q0": 34646505,
+    "q5": "The game feels like a job.",
+    "q9": -1,
+    "q10": "The game feels like a job."
+  },
+  {
+    "q0": 34620611,
+    "q5": "There are concerns about server stability.",
+    "q9": -1,
+    "q10": "Concerns about server stability are mentioned."
+  },
+  {
+    "q0": 34610918,
+    "q5": "The game feels like a low-budget version of another game.",
+    "q9": -1,
+    "q10": "The game feels like a low-budget version of another game."
+  },
+  {
+    "q0": 34610424,
+    "q5": "The game is a low-budget version of another game.",
+    "q9": -1,
+    "q10": "The game is a low-budget version of another game."
+  },
+  {
+    "q0": 34598898,
+    "q5": "The game is casual and can be easily uninstalled if not enjoyable.",
+    "q9": 1,
+    "q10": "The game is casual and can be easily uninstalled if not enjoyable."
+  },
+  {
+    "q0": 34598127,
+    "q5": "Daily tasks are time-consuming.",
+    "q9": -1,
+    "q10": "Daily tasks are time-consuming."
+  },
+  {
+    "q0": 34596408,
+    "q5": "The game is simple and not as difficult as expected.",
+    "q9": 1,
+    "q10": "The game is simple and not as difficult as expected."
+  },
+  {
+    "q0": 34595612,
+    "q5": "The game consumes battery quickly.",
+    "q9": -1,
+    "q10": "The game consumes battery quickly."
+  },
+  {
+    "q0": 34595504,
+    "q5": "There is a bug with team joining.",
+    "q9": -1,
+    "q10": "A bug with team joining affects the experience."
+  },
+  {
+    "q0": 34594766,
+    "q5": "The player broke their rule of not buying divine beasts.",
+    "q9": 1,
+    "q10": "The player broke their rule of not buying divine beasts."
+  },
+  {
+    "q0": 34594528,
+    "q5": "The game is good but loses a star for not meeting expectations.",
+    "q9": 1,
+    "q10": "The game is good but loses a star for not meeting expectations."
+  },
+  {
+    "q0": 34594155,
+    "q5": "The game allows for anthropomorphic development of spirits.",
+    "q9": 2,
+    "q10": "The game allows for anthropomorphic development of spirits."
+  },
+  {
+    "q0": 34573353,
+    "q5": "The game is enjoyable without ranked play, but ranked play is frustrating.",
+    "q9": -1,
+    "q10": "Ranked play is frustrating due to lack of communication and strong opponents."
+  },
+  {
+    "q0": 34567551,
+    "q5": "The game is good.",
+    "q9": 2,
+    "q10": "The game is described as good."
+  },
+  {
+    "q0": 34549572,
+    "q5": "The game is good.",
+    "q9": 2,
+    "q10": "The game is described as good."
+  },
+  {
+    "q0": 34547795,
+    "q5": "The game frequently opens new servers.",
+    "q9": -1,
+    "q10": "Frequent server openings can be disruptive."
+  },
+  {
+    "q0": 34547787,
+    "q5": "The game is full of surprises.",
+    "q9": 2,
+    "q10": "The game is described as full of surprises."
+  },
+  {
+    "q0": 34547699,
+    "q5": "The game is outdated and boring.",
+    "q9": -1,
+    "q10": "The game is outdated and boring."
+  },
+  {
+    "q0": 34547604,
+    "q5": "The game is difficult to play.",
+    "q9": -1,
+    "q10": "The game is difficult to play."
+  },
+  {
+    "q0": 34547530,
+    "q5": "The graphics are decent but require more playtime for a full assessment.",
+    "q9": 1,
+    "q10": "The graphics are decent but require more playtime for a full assessment."
+  },
+  {
+    "q0": 34543672,
+    "q5": "The game is very good.",
+    "q9": 2,
+    "q10": "The game is described as very good."
+  },
+  {
+    "q0": 34543464,
+    "q5": "The game is boring and uninteresting.",
+    "q9": -1,
+    "q10": "The game is boring and uninteresting."
+  },
+  {
+    "q0": 34543428,
+    "q5": "The game is boring.",
+    "q9": -1,
+    "q10": "The game is boring."
+  },
+  {
+    "q0": 34543187,
+    "q5": "The game is not fun.",
+    "q9": -1,
+    "q10": "The game is not fun."
+  }
+]
+```

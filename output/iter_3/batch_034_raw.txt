@@ -1,0 +1,462 @@
+```json
+[
+  {
+    "q0": 34550761,
+    "q5": "The reviewer criticizes the game for its heavy monetization, indicating that players need to spend a lot to progress, especially in raising pets. The resources are hard to obtain, and the rewards are mostly useless.",
+    "q9": -2,
+    "q10": "The game progression is criticized for being heavily reliant on spending money, with little to no meaningful evolution or change in gameplay.",
+    "q27": -2,
+    "q28": "Non-paying users have very limited access to major features, as the game requires significant spending to progress.",
+    "q29": -2,
+    "q30": "The game is described as heavily monetized, with a strong emphasis on spending money to advance."
+  },
+  {
+    "q0": 34550653,
+    "q5": "The reviewer finds the game uninteresting and lacking in unique features, describing it as generic.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34550579,
+    "q5": "The reviewer appreciates the graphics but finds the gameplay to be old-fashioned and unremarkable.",
+    "q9": -1,
+    "q10": "The game is described as having outdated gameplay mechanics, making it less engaging."
+  },
+  {
+    "q0": 34550459,
+    "q5": "The reviewer appreciates certain aspects like the non-deletion test and vertical screen but criticizes the lack of free trading and the need to spend money to acquire certain features.",
+    "q9": -1,
+    "q10": "The game is described as having limitations in progression without spending money.",
+    "q27": -2,
+    "q28": "Non-paying users have limited access to features like divine beasts, which require spending."
+  },
+  {
+    "q0": 34550253,
+    "q5": "The reviewer finds the game generally good and worth trying.",
+    "q9": 1,
+    "q10": "The game is described as generally good, indicating a positive progression experience."
+  },
+  {
+    "q0": 34550234,
+    "q5": "The reviewer criticizes the lack of free rewards and the need to spend money to progress, indicating dissatisfaction with the game's reward system.",
+    "q9": -2,
+    "q10": "The game progression is criticized for being heavily reliant on spending money, with little to no meaningful free rewards.",
+    "q27": -2,
+    "q28": "Non-paying users have very limited access to major features, as the game requires significant spending to progress.",
+    "q31": -2,
+    "q32": "The game is criticized for having very few free rewards, making it less appealing for non-paying users."
+  },
+  {
+    "q0": 34549924,
+    "q5": "The reviewer criticizes the game's mechanics and the need to spend a lot to progress, indicating dissatisfaction with the game's systems.",
+    "q9": -2,
+    "q10": "The game progression is criticized for being heavily reliant on spending money, with little to no meaningful free rewards.",
+    "q27": -2,
+    "q28": "Non-paying users have very limited access to major features, as the game requires significant spending to progress."
+  },
+  {
+    "q0": 34550174,
+    "q5": "The reviewer finds the game uninteresting and repetitive, describing it as a click-based game.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34550133,
+    "q5": "The reviewer criticizes the game for being time-consuming and not aligning with its advertised casual nature.",
+    "q9": -1,
+    "q10": "The game is described as being more demanding than advertised, making it less appealing for casual players."
+  },
+  {
+    "q0": 34550077,
+    "q5": "The reviewer finds a bug in the experience system, indicating dissatisfaction with the game's mechanics.",
+    "q9": -2,
+    "q10": "The game progression is criticized for having bugs that affect the experience system, making it frustrating for players."
+  },
+  {
+    "q0": 23690030,
+    "q5": "The reviewer criticizes the game for being too automated and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34550040,
+    "q5": "The reviewer criticizes the game for having forced social interactions, making it less appealing for players who prefer solo play.",
+    "q9": -1,
+    "q10": "The game is described as having forced social interactions, making it less appealing for players who prefer solo play."
+  },
+  {
+    "q0": 34550007,
+    "q5": "The reviewer criticizes the game for having bugs and issues with the redemption code system.",
+    "q9": -2,
+    "q10": "The game progression is criticized for having bugs that affect the redemption code system, making it frustrating for players."
+  },
+  {
+    "q0": 34549849,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34549799,
+    "q5": "The reviewer is unsure about the balance of different divine beasts, indicating uncertainty about the game's balance.",
+    "q11": -1,
+    "q12": "The reviewer is unsure about the balance of different divine beasts, indicating uncertainty about the game's balance."
+  },
+  {
+    "q0": 34549793,
+    "q5": "The reviewer criticizes the game for having issues with the redemption code system and feeling discriminated against.",
+    "q9": -2,
+    "q10": "The game progression is criticized for having issues with the redemption code system, making it frustrating for players."
+  },
+  {
+    "q0": 34549782,
+    "q5": "The reviewer criticizes the game for being heavily monetized, indicating dissatisfaction with the game's systems.",
+    "q9": -2,
+    "q10": "The game progression is criticized for being heavily reliant on spending money, with little to no meaningful free rewards.",
+    "q27": -2,
+    "q28": "Non-paying users have very limited access to major features, as the game requires significant spending to progress."
+  },
+  {
+    "q0": 34549672,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34549777,
+    "q5": "The reviewer appreciates the initial rewards but does not provide further details.",
+    "q31": 1,
+    "q32": "The game is described as providing a good amount of initial rewards."
+  },
+  {
+    "q0": 34549612,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34549590,
+    "q5": "The reviewer criticizes the game for manipulating reviews and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34549524,
+    "q5": "The reviewer criticizes the game for having lengthy and tedious dialogue and animations.",
+    "q9": -1,
+    "q10": "The game is described as having lengthy and tedious dialogue and animations, making it less engaging."
+  },
+  {
+    "q0": 34549517,
+    "q5": "The reviewer appreciates the game's event system and upcoming new features.",
+    "q9": 1,
+    "q10": "The game is described as having a good event system and upcoming new features, making it engaging."
+  },
+  {
+    "q0": 34371814,
+    "q5": "The reviewer criticizes the game for manipulating reviews and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34548876,
+    "q5": "The reviewer criticizes the game for lacking in free rewards and having outdated graphics.",
+    "q9": -2,
+    "q10": "The game progression is criticized for lacking in free rewards and having outdated graphics.",
+    "q31": -2,
+    "q32": "The game is criticized for having very few free rewards, making it less appealing for non-paying users."
+  },
+  {
+    "q0": 34549423,
+    "q5": "The reviewer criticizes the game for using celebrity endorsements and being a cash grab.",
+    "q9": -2,
+    "q10": "The game is described as being a cash grab with little long-term appeal."
+  },
+  {
+    "q0": 34549417,
+    "q5": "The reviewer suggests improving the game's rewards and providing more opportunities for players to earn resources.",
+    "q31": -1,
+    "q32": "The game is criticized for having limited rewards and opportunities to earn resources."
+  },
+  {
+    "q0": 34549408,
+    "q5": "The reviewer finds the game boring and uninteresting.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34549338,
+    "q5": "The reviewer criticizes the game for being outdated and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34549273,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34549202,
+    "q5": "The reviewer finds the game disappointing and not meeting expectations.",
+    "q9": -2,
+    "q10": "The game is described as not meeting expectations, making it unappealing to play."
+  },
+  {
+    "q0": 34549166,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34549164,
+    "q5": "The reviewer finds the game unbalanced, with certain classes being more in demand than others.",
+    "q11": -1,
+    "q12": "The game is described as having an imbalance in class demand, making it less appealing for players."
+  },
+  {
+    "q0": 34549135,
+    "q5": "The reviewer criticizes the game for being too demanding and requiring excessive time commitment.",
+    "q9": -2,
+    "q10": "The game is described as being too demanding and requiring excessive time commitment, making it unappealing for casual players."
+  },
+  {
+    "q0": 34549090,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34549081,
+    "q5": "The reviewer appreciates the game's unique art style and character designs.",
+    "q9": 1,
+    "q10": "The game is described as having a unique art style and character designs, making it appealing to play."
+  },
+  {
+    "q0": 34549048,
+    "q5": "The reviewer appreciates the game's high level of freedom and the ability to trade items.",
+    "q9": 1,
+    "q10": "The game is described as having a high level of freedom and the ability to trade items, making it engaging."
+  },
+  {
+    "q0": 34548930,
+    "q5": "The reviewer criticizes the game for being heavily monetized and having slow progression.",
+    "q9": -2,
+    "q10": "The game progression is criticized for being heavily reliant on spending money and having slow progression.",
+    "q27": -2,
+    "q28": "Non-paying users have very limited access to major features, as the game requires significant spending to progress."
+  },
+  {
+    "q0": 34548909,
+    "q5": "The reviewer criticizes the game for being uninteresting and not worth playing.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34548892,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34548860,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34548839,
+    "q5": "The reviewer criticizes the game for having too many limited-time events and being too demanding.",
+    "q9": -2,
+    "q10": "The game is described as having too many limited-time events and being too demanding, making it unappealing for casual players."
+  },
+  {
+    "q0": 34548520,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34548481,
+    "q5": "The reviewer criticizes the game for having outdated graphics and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34548379,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34548332,
+    "q5": "The reviewer appreciates the game's character designs and models.",
+    "q9": 1,
+    "q10": "The game is described as having appealing character designs and models, making it engaging."
+  },
+  {
+    "q0": 34548238,
+    "q5": "The reviewer criticizes the game for having slow team formation and being too demanding.",
+    "q9": -2,
+    "q10": "The game is described as having slow team formation and being too demanding, making it unappealing for casual players."
+  },
+  {
+    "q0": 34548188,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34548111,
+    "q5": "The reviewer criticizes the game for lacking in engaging content and being too repetitive.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content and being too repetitive, making it unappealing to play."
+  },
+  {
+    "q0": 34548012,
+    "q5": "The reviewer criticizes the game for being heavily monetized and having unbalanced classes.",
+    "q9": -2,
+    "q10": "The game progression is criticized for being heavily reliant on spending money and having unbalanced classes.",
+    "q11": -2,
+    "q12": "The game is described as having unbalanced classes, making it less appealing for players.",
+    "q27": -2,
+    "q28": "Non-paying users have very limited access to major features, as the game requires significant spending to progress."
+  },
+  {
+    "q0": 34547868,
+    "q5": "The reviewer criticizes the game for having outdated gameplay and lacking in engaging content.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34547854,
+    "q5": "The reviewer criticizes the game for lacking in innovation and engaging content.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34547823,
+    "q5": "The reviewer criticizes the game for being heavily monetized and lacking in engaging content.",
+    "q9": -2,
+    "q10": "The game progression is criticized for being heavily reliant on spending money and lacking in engaging content.",
+    "q27": -2,
+    "q28": "Non-paying users have very limited access to major features, as the game requires significant spending to progress."
+  },
+  {
+    "q0": 34547818,
+    "q5": "The reviewer criticizes the game for having unbalanced classes and being heavily monetized.",
+    "q9": -2,
+    "q10": "The game progression is criticized for being heavily reliant on spending money and having unbalanced classes.",
+    "q11": -2,
+    "q12": "The game is described as having unbalanced classes, making it less appealing for players.",
+    "q27": -2,
+    "q28": "Non-paying users have very limited access to major features, as the game requires significant spending to progress."
+  },
+  {
+    "q0": 34547769,
+    "q5": "The reviewer criticizes the game for lacking in engaging content and being too repetitive.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content and being too repetitive, making it unappealing to play."
+  },
+  {
+    "q0": 34547739,
+    "q5": "The reviewer appreciates the game's balance and variety of classes.",
+    "q9": 1,
+    "q10": "The game is described as having a good balance and variety of classes, making it engaging.",
+    "q11": 1,
+    "q12": "The game is described as having a good balance of classes, making it appealing for players."
+  },
+  {
+    "q0": 34547675,
+    "q5": "The reviewer appreciates the game's depth and variety of features.",
+    "q9": 1,
+    "q10": "The game is described as having a good depth and variety of features, making it engaging.",
+    "q7": 1,
+    "q8": "The game is described as having a good depth and variety of features, making it engaging."
+  },
+  {
+    "q0": 34547658,
+    "q5": "The reviewer criticizes the game for having outdated gameplay and lacking in engaging content.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34547639,
+    "q5": "The reviewer suggests improving the game's rewards and providing more opportunities for players to earn resources.",
+    "q31": -1,
+    "q32": "The game is criticized for having limited rewards and opportunities to earn resources."
+  },
+  {
+    "q0": 34547611,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34547594,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34547555,
+    "q5": "The reviewer criticizes the game for having outdated gameplay and lacking in engaging content.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34547538,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34547529,
+    "q5": "The reviewer criticizes the game for being heavily monetized and lacking in engaging content.",
+    "q9": -2,
+    "q10": "The game progression is criticized for being heavily reliant on spending money and lacking in engaging content.",
+    "q27": -2,
+    "q28": "Non-paying users have very limited access to major features, as the game requires significant spending to progress."
+  },
+  {
+    "q0": 34547452,
+    "q5": "The reviewer criticizes the game for lacking in innovation and engaging content.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34547448,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34547436,
+    "q5": "The reviewer criticizes the game for having lengthy and tedious dialogue and animations.",
+    "q9": -1,
+    "q10": "The game is described as having lengthy and tedious dialogue and animations, making it less engaging."
+  },
+  {
+    "q0": 34547419,
+    "q5": "The reviewer criticizes the game for being a reskin of another game and lacking in engaging gameplay.",
+    "q9": -2,
+    "q10": "The game is described as lacking in engaging content, making it unappealing to play."
+  },
+  {
+    "q0": 34542754,
+    "q5": "The reviewer appreciates the game's lack of aggressive monetization and finds it enjoyable.",
+    "q9": 1,
+    "q10": "The game is described as having a good balance of monetization and engaging content, making it appealing to play.",
+    "q27": 1,
+    "q28": "Non-paying users have good access to major features, as the game is not heavily reliant on spending money to progress."
+  },
+  {
+    "q0": 34547392,
+    "q5": "The reviewer criticizes the game for being heavily monetized and lacking in engaging content.",
+    "q9": -2,
+    "q10": "The game progression is criticized for being heavily reliant on spending money and lacking in engaging content.",
+    "q27": -2,
+    "q28": "Non-paying users have very limited access to major features, as the game requires significant spending to progress."
+  }
+]
+```

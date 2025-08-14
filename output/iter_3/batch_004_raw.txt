@@ -1,0 +1,330 @@
+```json
+[
+  {
+    "q0": 42910191,
+    "q5": "The review mentions that the game has multiple fun gameplay mechanics and a good art style.",
+    "q9": 0,
+    "q10": "The game is described as having standard progression.",
+    "q27": 0,
+    "q28": "The game is described as having standard spending requirements."
+  },
+  {
+    "q0": 42897528,
+    "q5": "The reviewer feels the game is good but notes a significant player drop-off in each server.",
+    "q9": 0,
+    "q10": "The review mentions player retention issues.",
+    "q41": "Significant player drop-off in each server."
+  },
+  {
+    "q0": 42745918,
+    "q5": "The review mentions dissatisfaction with the combat mechanics related to the four spirit treasures.",
+    "q11": -1,
+    "q12": "The review mentions imbalance in the hero system, with dissatisfaction regarding the four spirit treasures.",
+    "q41": "Dissatisfaction with the combat mechanics related to the four spirit treasures."
+  },
+  {
+    "q0": 36003423,
+    "q5": "The review criticizes the game's PVP focus and the expensive nature of obtaining and evolving divine beasts.",
+    "q9": -2,
+    "q10": "The progression is heavily criticized for being pay-to-win, especially in obtaining divine beasts.",
+    "q27": -2,
+    "q28": "The review indicates that non-paying users have a very hard time progressing due to the game's pay-to-win mechanics.",
+    "q29": -2,
+    "q30": "The review describes heavy spending pressure, especially for obtaining divine beasts.",
+    "q31": -2,
+    "q32": "The review indicates that free rewards are insufficient compared to the costs of progression.",
+    "q41": "Criticism of the game's PVP focus, expensive divine beasts, and pay-to-win mechanics."
+  },
+  {
+    "q0": 42741781,
+    "q3": "The review describes a simple strategy for dungeons using two supports and three magic pets.",
+    "q5": "The review provides a strategy for dungeons, indicating some satisfaction with combat mechanics.",
+    "q6": "Strategy involves using two supports and three magic pets for dungeons.",
+    "q7": 1,
+    "q8": "The review provides a specific strategy for dungeons, indicating some depth in tactical planning."
+  },
+  {
+    "q0": 42738247,
+    "q5": "The review mentions that non-paying users struggle to find groups for dungeons in the late game.",
+    "q27": -2,
+    "q28": "Non-paying users struggle to find groups for dungeons in the late game.",
+    "q41": "Non-paying users struggle to find groups for dungeons in the late game."
+  },
+  {
+    "q0": 42727067,
+    "q5": "The review mentions the game is fun but suggests that more benefits would improve it.",
+    "q31": 0,
+    "q32": "The review suggests that increasing the benefits would improve the game."
+  },
+  {
+    "q0": 42715049,
+    "q5": "The review is positive but notes a lack of benefits.",
+    "q31": -1,
+    "q32": "The review notes a lack of benefits."
+  },
+  {
+    "q0": 42705785,
+    "q5": "The review mentions that resources are scarce and prices are high.",
+    "q29": -2,
+    "q30": "The review indicates heavy spending pressure due to high prices and scarce resources.",
+    "q41": "Scarce resources and high prices."
+  },
+  {
+    "q0": 42695444,
+    "q5": "The review mentions dissatisfaction with combat due to nerfs and buffs affecting gameplay.",
+    "q4": -1,
+    "q5": "The review mentions dissatisfaction with combat due to nerfs and buffs affecting gameplay.",
+    "q41": "Dissatisfaction with combat due to nerfs and buffs affecting gameplay."
+  },
+  {
+    "q0": 42699187,
+    "q5": "The review criticizes the game for being too pay-to-win.",
+    "q29": -2,
+    "q30": "The review criticizes the game for being too pay-to-win.",
+    "q41": "Criticism of the game for being too pay-to-win."
+  },
+  {
+    "q0": 42677423,
+    "q5": "The review criticizes the game for not delivering promised rewards due to a bug.",
+    "q41": "Criticism for not delivering promised rewards due to a bug."
+  },
+  {
+    "q0": 42676812,
+    "q5": "The review criticizes the game for not delivering promised rewards.",
+    "q41": "Criticism for not delivering promised rewards."
+  },
+  {
+    "q0": 42676668,
+    "q5": "The review criticizes the game for not delivering promised rewards and poor customer service.",
+    "q41": "Criticism for not delivering promised rewards and poor customer service."
+  },
+  {
+    "q0": 42676391,
+    "q5": "The review criticizes the game for not delivering promised rewards and demands a refund.",
+    "q41": "Criticism for not delivering promised rewards and demands a refund."
+  },
+  {
+    "q0": 42644097,
+    "q5": "The review mentions a strategy for combining items and criticizes the difficulty of obtaining good items.",
+    "q6": "Strategy involves combining items for better results.",
+    "q7": 0,
+    "q8": "The review mentions a strategy but also criticizes the difficulty of obtaining good items.",
+    "q41": "Criticism of the difficulty of obtaining good items."
+  },
+  {
+    "q0": 42643620,
+    "q5": "The review criticizes the game for having a large gap between paying and non-paying users.",
+    "q27": -2,
+    "q28": "The review criticizes the game for having a large gap between paying and non-paying users.",
+    "q41": "Criticism of the large gap between paying and non-paying users."
+  },
+  {
+    "q0": 42571222,
+    "q5": "The review criticizes the game for poor balance, lack of customer service, and pay-to-win mechanics.",
+    "q9": -2,
+    "q10": "The review criticizes the game for poor balance, lack of customer service, and pay-to-win mechanics.",
+    "q11": -2,
+    "q12": "The review criticizes the game for poor balance.",
+    "q27": -2,
+    "q28": "The review criticizes the game for being pay-to-win.",
+    "q41": "Criticism of poor balance, lack of customer service, and pay-to-win mechanics."
+  },
+  {
+    "q0": 42508447,
+    "q5": "The review mentions that new servers quickly become inactive, making it hard to find groups.",
+    "q41": "New servers quickly become inactive, making it hard to find groups."
+  },
+  {
+    "q0": 42501467,
+    "q5": "The review criticizes the game for poor balance and the difficulty of playing without spending money.",
+    "q11": -2,
+    "q12": "The review criticizes the game for poor balance.",
+    "q27": -2,
+    "q28": "The review criticizes the game for the difficulty of playing without spending money.",
+    "q41": "Criticism of poor balance and the difficulty of playing without spending money."
+  },
+  {
+    "q0": 42487431,
+    "q5": "The review criticizes the game for poor balance and frequent changes.",
+    "q11": -2,
+    "q12": "The review criticizes the game for poor balance.",
+    "q41": "Criticism of poor balance and frequent changes."
+  },
+  {
+    "q0": 42480611,
+    "q5": "The review criticizes the game for having too few resources and suggests adding a level cap.",
+    "q41": "Criticism of having too few resources and suggests adding a level cap."
+  },
+  {
+    "q0": 42478435,
+    "q5": "The review criticizes the game for changing skill mechanics and difficulty in finding groups.",
+    "q41": "Criticism of changing skill mechanics and difficulty in finding groups."
+  },
+  {
+    "q0": 42402547,
+    "q5": "The review mentions that the game is enjoyable but criticizes the lack of need for divine beasts.",
+    "q41": "Criticism of the lack of need for divine beasts."
+  },
+  {
+    "q0": 42401154,
+    "q5": "The review criticizes the game for frequent changes and the burden of daily tasks.",
+    "q41": "Criticism of frequent changes and the burden of daily tasks."
+  },
+  {
+    "q0": 42394928,
+    "q5": "The review sarcastically praises the game for its randomness and gambling mechanics.",
+    "q41": "Sarcastic praise for randomness and gambling mechanics."
+  },
+  {
+    "q0": 42371344,
+    "q5": "The review accuses the game of internal manipulation.",
+    "q41": "Accusation of internal manipulation."
+  },
+  {
+    "q0": 42338126,
+    "q5": "The review criticizes the game for having too many daily tasks.",
+    "q41": "Criticism of having too many daily tasks."
+  },
+  {
+    "q0": 42330241,
+    "q5": "The review criticizes the game for forcing guild mergers and kicking players out.",
+    "q41": "Criticism of forcing guild mergers and kicking players out."
+  },
+  {
+    "q0": 42314760,
+    "q5": "The review mentions difficulty in finding groups and slow combat.",
+    "q41": "Difficulty in finding groups and slow combat."
+  },
+  {
+    "q0": 42297222,
+    "q5": "The review criticizes the game for being time-consuming and having low rewards.",
+    "q41": "Criticism of being time-consuming and having low rewards."
+  },
+  {
+    "q0": 42274938,
+    "q5": "The review criticizes the game for not progressing and not adding a horizontal mode.",
+    "q41": "Criticism of not progressing and not adding a horizontal mode."
+  },
+  {
+    "q0": 42244533,
+    "q5": "The review praises the game's art style and variety of gameplay mechanics.",
+    "q41": "Praise for art style and variety of gameplay mechanics."
+  },
+  {
+    "q0": 42221254,
+    "q5": "The review praises the game's features but criticizes frequent crashes.",
+    "q41": "Praise for features but criticism of frequent crashes."
+  },
+  {
+    "q0": 42218218,
+    "q5": "The review criticizes the game for being pay-to-win and having frequent events.",
+    "q41": "Criticism of being pay-to-win and having frequent events."
+  },
+  {
+    "q0": 41998607,
+    "q5": "The review is positive about the game.",
+    "q41": "Positive review."
+  },
+  {
+    "q0": 41996817,
+    "q5": "The review mentions that many activities require grouping, which can be difficult for introverted players.",
+    "q41": "Grouping required for many activities, difficult for introverted players."
+  },
+  {
+    "q0": 41962584,
+    "q5": "The review criticizes frequent changes and nerfs in the game.",
+    "q41": "Criticism of frequent changes and nerfs."
+  },
+  {
+    "q0": 41957976,
+    "q5": "The review mentions that the game is playable without spending but can be stressful.",
+    "q29": -1,
+    "q30": "The review mentions that the game can be stressful despite being playable without spending.",
+    "q41": "Playable without spending but can be stressful."
+  },
+  {
+    "q0": 41954849,
+    "q5": "The review suggests that the game is not worth playing without spending money.",
+    "q27": -2,
+    "q28": "The review suggests that the game is not worth playing without spending money.",
+    "q41": "Not worth playing without spending money."
+  },
+  {
+    "q0": 41892868,
+    "q5": "The review criticizes the game for unfair account bans.",
+    "q41": "Criticism of unfair account bans."
+  },
+  {
+    "q0": 41821713,
+    "q5": "The review criticizes the game for poor customer service and issues with recharging.",
+    "q41": "Criticism of poor customer service and issues with recharging."
+  },
+  {
+    "q0": 41807627,
+    "q5": "The review mentions that new servers quickly become inactive.",
+    "q41": "New servers quickly become inactive."
+  },
+  {
+    "q0": 41736413,
+    "q5": "The review mentions difficulty in gameplay due to speed mechanics.",
+    "q41": "Difficulty in gameplay due to speed mechanics."
+  },
+  {
+    "q0": 41453009,
+    "q5": "The review criticizes the game for poor balance between physical and magical classes.",
+    "q11": -2,
+    "q12": "The review criticizes the game for poor balance between physical and magical classes.",
+    "q41": "Criticism of poor balance between physical and magical classes."
+  },
+  {
+    "q0": 41351451,
+    "q5": "The review criticizes the game for slow combat.",
+    "q41": "Criticism of slow combat."
+  },
+  {
+    "q0": 34624729,
+    "q5": "The review criticizes the game for poor optimization leading to overheating and battery drain.",
+    "q41": "Criticism of poor optimization leading to overheating and battery drain."
+  },
+  {
+    "q0": 41181941,
+    "q5": "The review criticizes the game for not allowing the inheritance of mounts.",
+    "q41": "Criticism of not allowing the inheritance of mounts."
+  },
+  {
+    "q0": 41155034,
+    "q5": "The review criticizes the game for bugs and poor optimization.",
+    "q41": "Criticism of bugs and poor optimization."
+  },
+  {
+    "q0": 41154962,
+    "q5": "The review criticizes the game for poor balance in new classes.",
+    "q41": "Criticism of poor balance in new classes."
+  },
+  {
+    "q0": 39605805,
+    "q5": "The review criticizes the game for low drop rates and slow leveling.",
+    "q41": "Criticism of low drop rates and slow leveling."
+  },
+  {
+    "q0": 41120744,
+    "q5": "The review criticizes the game for issues with recharging.",
+    "q41": "Criticism of issues with recharging."
+  },
+  {
+    "q0": 41117826,
+    "q5": "The review criticizes the game for spammy advertising.",
+    "q41": "Criticism of spammy advertising."
+  },
+  {
+    "q0": 41046816,
+    "q5": "The review criticizes the game for lack of innovation and poor pet system.",
+    "q41": "Criticism of lack of innovation and poor pet system."
+  },
+  {
+    "q0": 41029989,
+    "q5": "The review criticizes the game for not delivering promised new content.",
+    "q41": "Criticism of not delivering promised new content."
+  }
+]
+```

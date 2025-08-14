@@ -1,0 +1,34 @@
+```json
+[
+  {
+    "q0": 32193617,
+    "q9": -1,
+    "q10": "Finding a fixed team is difficult, making events and dungeons cumbersome."
+  },
+  {
+    "q0": 31878486,
+    "q9": -1,
+    "q10": "The game has been delayed for a long time and other aspects are considered average or uninteresting."
+  },
+  {
+    "q0": 31849765,
+    "q21": -1,
+    "q22": "Frequent adjustments and nerfs have led to disappointment."
+  },
+  {
+    "q0": 29595502,
+    "q21": -2,
+    "q22": "The game has been in optimization for years without a clear release, leading to frustration."
+  },
+  {
+    "q0": 24704251,
+    "q9": 2,
+    "q10": "The overall in-game experience during two beta tests was positive."
+  },
+  {
+    "q0": 27724766,
+    "q13": 2,
+    "q14": "The ability to use lower-tier forms strategically is appreciated."
+  }
+]
+```

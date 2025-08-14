@@ -1,0 +1,146 @@
+```json
+[
+  {
+    "q0": 41020165,
+    "q9": -1,
+    "q10": "The daily activities are too demanding, making the game feel like a job rather than a leisure activity."
+  },
+  {
+    "q0": 40977801,
+    "q9": -2,
+    "q10": "The game becomes increasingly difficult to progress without spending money, making it feel like a trap."
+  },
+  {
+    "q0": 40876529,
+    "q27": -2,
+    "q28": "The game is filled with bots, making it not worth spending money."
+  },
+  {
+    "q0": 40815719,
+    "q11": -1,
+    "q12": "Certain characters are more useful than others, making some less desirable in both PVP and PVE."
+  },
+  {
+    "q0": 40804188,
+    "q37": 2,
+    "q38": "The game is designed to be played in portrait mode, making it convenient for casual play."
+  },
+  {
+    "q0": 40797772,
+    "q27": -2,
+    "q28": "Despite spending a significant amount of money, the player struggles to find teams, indicating poor access for non-paying users."
+  },
+  {
+    "q0": 40773486,
+    "q9": 1,
+    "q10": "The game has a rich world with various classes and skills, and the gameplay is automated and easy to pick up."
+  },
+  {
+    "q0": 40765671,
+    "q9": -2,
+    "q10": "The storyline is unappealing, and the early game experience lacks engaging elements."
+  },
+  {
+    "q0": 40764020,
+    "q21": -2,
+    "q22": "Recent updates have negatively impacted gameplay, such as reduced effectiveness of certain abilities."
+  },
+  {
+    "q0": 40695642,
+    "q9": -2,
+    "q10": "The game has become overly complex and demanding, leading to player burnout."
+  },
+  {
+    "q0": 40685201,
+    "q21": 2,
+    "q22": "Frequent updates and new content keep the game fresh and engaging."
+  },
+  {
+    "q0": 40633003,
+    "q9": 1,
+    "q10": "The game features beautiful graphics and a well-developed world, enhancing the progression experience."
+  },
+  {
+    "q0": 40603941,
+    "q33": TRUE,
+    "q34": "The game includes a character reminiscent of Kung Fu Panda, adding charm and humor."
+  },
+  {
+    "q0": 40548274,
+    "q31": -2,
+    "q32": "The rewards for activities are insufficient, making the time investment feel unrewarding."
+  },
+  {
+    "q0": 40541650,
+    "q31": 2,
+    "q32": "The game offers beautiful art and engaging voice acting, making it enjoyable even without spending money."
+  },
+  {
+    "q0": 40537215,
+    "q27": -2,
+    "q28": "Server merges lead to significant disadvantages for players, with insufficient compensation."
+  },
+  {
+    "q0": 40533414,
+    "q25": -2,
+    "q26": "The gacha system is heavily reliant on luck, leading to significant disparities in rewards."
+  },
+  {
+    "q0": 40508255,
+    "q31": -2,
+    "q32": "The game provides minimal resources, making it difficult to progress without spending money."
+  },
+  {
+    "q0": 40504241,
+    "q9": 2,
+    "q10": "The game allows for strategic play, enabling players to succeed against stronger opponents."
+  },
+  {
+    "q0": 40449080,
+    "q27": -2,
+    "q28": "The game requires group participation for many activities, but finding teammates is difficult."
+  },
+  {
+    "q0": 40448008,
+    "q41": "The game has issues with false advertising and using other games for promotion."
+  },
+  {
+    "q0": 40422579,
+    "q9": -1,
+    "q10": "The daily rewards do not scale with increased level and resource consumption."
+  },
+  {
+    "q0": 40418889,
+    "q31": 2,
+    "q32": "The game allows players to obtain powerful creatures without spending money, and the art is top-notch."
+  },
+  {
+    "q0": 40414577,
+    "q27": -2,
+    "q28": "The game is difficult to play without spending money."
+  },
+  {
+    "q0": 40407352,
+    "q41": "The player is unable to replay story content."
+  },
+  {
+    "q0": 40372078,
+    "q29": -2,
+    "q30": "The game heavily pressures players to spend money, especially after updates."
+  },
+  {
+    "q0": 40369659,
+    "q29": -2,
+    "q30": "The game requires spending money to keep up with progression."
+  },
+  {
+    "q0": 40362748,
+    "q41": "The game has graphical bugs such as overlapping and flashing screens."
+  },
+  {
+    "q0": 40329649,
+    "q31": 1,
+    "q32": "The game allows players to progress by saving resources and participating in auctions."
+  }
+]
+```

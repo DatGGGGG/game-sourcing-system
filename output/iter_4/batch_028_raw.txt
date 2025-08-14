@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "q0": 31680893,
+    "q29": -2,
+    "q30": "The reviewer dislikes certain monetization strategies in turn-based games, such as being forced to spend money to progress or purchase items."
+  },
+  {
+    "q0": 31653451,
+    "q29": -2,
+    "q30": "The reviewer criticizes the game as a reskin with a low rating, suggesting dissatisfaction with the game's originality and possibly its monetization."
+  },
+  {
+    "q0": 31472285,
+    "q11": -1,
+    "q12": "The reviewer suggests that humanoid pets feel strange and that high-level pets should not be too powerful, indicating a concern with balance.",
+    "q13": 1,
+    "q14": "The reviewer desires each pet to have a role, suggesting a preference for diversity in team builds."
+  },
+  {
+    "q0": 31057686,
+    "q29": -2,
+    "q30": "The reviewer is wary of games that require significant spending to progress, indicating a dislike for heavy monetization."
+  },
+  {
+    "q0": 29797933,
+    "q29": -2,
+    "q30": "The reviewer is concerned about the potential for the game to require heavy spending to obtain and maintain pets."
+  },
+  {
+    "q0": 29769004,
+    "q29": 1,
+    "q30": "The reviewer suggests monetizing cosmetic items rather than gameplay-affecting elements, indicating a preference for subtle monetization."
+  },
+  {
+    "q0": 29746094,
+    "q37": -1,
+    "q38": "The reviewer is discouraged by the game's portrait mode, suggesting it negatively impacts their experience."
+  },
+  {
+    "q0": 29241734,
+    "q6": "Turn-based and gacha mechanics",
+    "q7": 1,
+    "q8": "The combination of turn-based and gacha mechanics suggests some level of strategic depth."
+  },
+  {
+    "q0": 29145775,
+    "q23": true,
+    "q24": "The reviewer mentions a lack of guaranteed rare pet captures, implying the absence of a gacha guarantee system.",
+    "q29": -1,
+    "q30": "The reviewer expresses frustration with not capturing rare pets, suggesting dissatisfaction with the gacha system."
+  }
+]
+```

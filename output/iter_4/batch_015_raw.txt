@@ -1,0 +1,242 @@
+```json
+[
+  {
+    "q0": 35481733,
+    "q5": "The game is considered good overall, though not as mature as some other games, but it is compact and has all necessary features."
+  },
+  {
+    "q0": 35481730,
+    "q5": "The game requires spending too much money on weapons and suggests increasing rewards or removing certain activities."
+  },
+  {
+    "q0": 35481729,
+    "q5": "The game is playable but there is a hope that there will be no more stealth changes."
+  },
+  {
+    "q0": 35481716,
+    "q5": "The player has made significant progress in three months without spending excessively."
+  },
+  {
+    "q0": 35481692,
+    "q5": "Resource acquisition is very grind-heavy."
+  },
+  {
+    "q0": 35481681,
+    "q5": "The game is good but spending money is very easy."
+  },
+  {
+    "q0": 35481675,
+    "q5": "The player spent a week trying to get a specific item but was unsuccessful."
+  },
+  {
+    "q0": 35481674,
+    "q5": "The player was satisfied with the results of their efforts in the game."
+  },
+  {
+    "q0": 35481673,
+    "q5": "The spending level is acceptable, and the game can be played with a basic investment."
+  },
+  {
+    "q0": 35481672,
+    "q5": "The review is incomplete and does not provide specific information."
+  },
+  {
+    "q0": 35481663,
+    "q5": "The player hopes for more game benefits and improvements."
+  },
+  {
+    "q0": 35481642,
+    "q5": "The game is considered affordable for acquiring mythical creatures."
+  },
+  {
+    "q0": 35481630,
+    "q5": "The game is considered fun and enjoyable."
+  },
+  {
+    "q0": 35480734,
+    "q5": "The player hopes the game continues to improve."
+  },
+  {
+    "q0": 35269026,
+    "q1": "TRUE",
+    "q2": "Violence/Gore",
+    "q5": "The game has become more pay-to-win and difficult, with stealth changes making it less enjoyable."
+  },
+  {
+    "q0": 35480264,
+    "q5": "The game is heavily pay-to-win and difficult, with unreasonable balance and frequent stealth changes."
+  },
+  {
+    "q0": 35480118,
+    "q5": "The game is fair, allowing players to obtain good items without spending money."
+  },
+  {
+    "q0": 35480028,
+    "q5": "The game is enjoyable, but there are issues with overheating and the need for better rewards."
+  },
+  {
+    "q0": 35479989,
+    "q5": "Resource acquisition is insufficient for higher levels."
+  },
+  {
+    "q0": 35479661,
+    "q5": "The player is content with the current state of the game."
+  },
+  {
+    "q0": 35479271,
+    "q5": "The game initially seemed complicated, but became enjoyable with teamwork."
+  },
+  {
+    "q0": 35479241,
+    "q5": "The game is enjoyable for a casual player, but there are issues with stealth changes and monetization."
+  },
+  {
+    "q0": 35479178,
+    "q5": "Without spending money, the player feels left behind compared to others."
+  },
+  {
+    "q0": 35476396,
+    "q5": "The player is unsure why they continue to play the game."
+  },
+  {
+    "q0": 35461851,
+    "q5": "There is a discrepancy between advertised and actual game features."
+  },
+  {
+    "q0": 35453166,
+    "q5": "The game has stealth changes that affect player progress."
+  },
+  {
+    "q0": 35452500,
+    "q5": "The game is considered the most fair turn-based mobile game."
+  },
+  {
+    "q0": 35184251,
+    "q5": "The game is more player-friendly compared to others, but has issues with stealth changes."
+  },
+  {
+    "q0": 35450109,
+    "q5": "The game requires too much time daily."
+  },
+  {
+    "q0": 34882078,
+    "q5": "The game is simpler and more affordable compared to others."
+  },
+  {
+    "q0": 35433757,
+    "q5": "The player is frustrated with the inability to adjust team members during battles."
+  },
+  {
+    "q0": 35343023,
+    "q5": "The game frequently makes stealth changes that negatively impact players."
+  },
+  {
+    "q0": 35412911,
+    "q5": "The game needs optimization and more content, as it currently has bugs and limited gameplay."
+  },
+  {
+    "q0": 35411217,
+    "q5": "The game is good but has frequent stealth changes and poor customer service."
+  },
+  {
+    "q0": 35405517,
+    "q5": "The player describes a specific strategy involving poison and speed."
+  },
+  {
+    "q0": 35401839,
+    "q5": "The game is well-designed with good balance, art, and operations, but lacks visibility."
+  },
+  {
+    "q0": 35397667,
+    "q5": "The player is frustrated with resource depletion and unsuccessful attempts."
+  },
+  {
+    "q0": 35394227,
+    "q5": "Resource acquisition is slow, and the game lacks players compared to previous launches."
+  },
+  {
+    "q0": 35393704,
+    "q5": "The game is too time-consuming to be considered a casual game."
+  },
+  {
+    "q0": 35391652,
+    "q5": "The player is frustrated with the game's mechanics and rewards."
+  },
+  {
+    "q0": 35390906,
+    "q5": "The player criticizes the game's monetization and rental system."
+  },
+  {
+    "q0": 35390845,
+    "q5": "The game is playable, but resource acquisition has been reduced without notice."
+  },
+  {
+    "q0": 35385632,
+    "q5": "The player requests a feature to unbind pets using currency."
+  },
+  {
+    "q0": 35384942,
+    "q5": "The player criticizes the game's currency system and suggests improvements for better player experience."
+  },
+  {
+    "q0": 35381994,
+    "q5": "The game is difficult to play without spending money, leading to frustration and quitting."
+  },
+  {
+    "q0": 35381622,
+    "q5": "The game is outdated in terms of gameplay and graphics."
+  },
+  {
+    "q0": 35381186,
+    "q5": "The game lacks content and becomes boring over time."
+  },
+  {
+    "q0": 35380763,
+    "q5": "The game frequently makes stealth changes that negatively impact players, leading to frustration."
+  },
+  {
+    "q0": 35344139,
+    "q5": "The player quits due to lack of new content and frequent stealth changes."
+  },
+  {
+    "q0": 34546536,
+    "q5": "The game has potential but suffers from frequent stealth changes and poor design decisions."
+  },
+  {
+    "q0": 35379271,
+    "q5": "The game's skills are not as impressive as advertised."
+  },
+  {
+    "q0": 35378362,
+    "q5": "The player is frustrated with the lack of valuable items from treasure hunts."
+  },
+  {
+    "q0": 35377915,
+    "q5": "The player is frustrated with bugs and lack of response from developers."
+  },
+  {
+    "q0": 35377601,
+    "q5": "The game is criticized for using popular characters unrelated to the game's theme."
+  },
+  {
+    "q0": 35376769,
+    "q5": "The game frequently makes stealth changes that negatively impact players."
+  },
+  {
+    "q0": 35373230,
+    "q5": "The game is too demanding and feels like a job."
+  },
+  {
+    "q0": 35343913,
+    "q5": "The game frequently makes stealth changes that negatively impact players."
+  },
+  {
+    "q0": 35370016,
+    "q5": "The game frequently makes stealth changes that negatively impact players."
+  },
+  {
+    "q0": 35369090,
+    "q5": "The game frequently makes stealth changes and is heavily pay-to-win."
+  }
+]
+```

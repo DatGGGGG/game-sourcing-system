@@ -1,0 +1,393 @@
+```json
+[
+  {
+    "q0": 34594187,
+    "q29": 2,
+    "q30": "The game hides its monetization options well, making it feel less intrusive."
+  },
+  {
+    "q0": 34594128,
+    "q41": "Login issues with phone verification and customer service unresponsiveness."
+  },
+  {
+    "q0": 34594117,
+    "q41": "The tutorial is too long and covers unnecessary basics."
+  },
+  {
+    "q0": 34594075,
+    "q41": "Negative experience with main storyline interactions."
+  },
+  {
+    "q0": 34594063,
+    "q23": true,
+    "q24": "There is a guarantee system where after several attempts, a good result is ensured.",
+    "q41": "Suggestion for a mentorship system."
+  },
+  {
+    "q0": 34594057,
+    "q41": "Questions about the ability to purchase a battle pass."
+  },
+  {
+    "q0": 34593987,
+    "q9": 2,
+    "q10": "Early game is easy with given resources, and saving resources helps in progression.",
+    "q41": "Advice for new players to save resources for future development."
+  },
+  {
+    "q0": 34593946,
+    "q13": 2,
+    "q14": "The game allows for diverse team compositions, such as a pure seal team."
+  },
+  {
+    "q0": 34593644,
+    "q11": 2,
+    "q12": "Character enhancement is crucial, and spirits are just an addition."
+  },
+  {
+    "q0": 34593587,
+    "q41": "Recommendation for new players to start with a healer for ease of play."
+  },
+  {
+    "q0": 34592992,
+    "q41": "Desire for more daily activities."
+  },
+  {
+    "q0": 34592980,
+    "q1": true,
+    "q2": "Violence/Gore",
+    "q41": "Encounter with a toxic player."
+  },
+  {
+    "q0": 34592852,
+    "q41": "Interest in speed-focused gameplay."
+  },
+  {
+    "q0": 34585348,
+    "q41": "Complaints about long idle times and imbalance in pet evolution resources."
+  },
+  {
+    "q0": 34585289,
+    "q41": "The game is described as boring and a copy-paste of other games."
+  },
+  {
+    "q0": 34585230,
+    "q9": 2,
+    "q10": "The game has rich content and a variety of gameplay options.",
+    "q41": "Positive feedback on game modeling and content richness."
+  },
+  {
+    "q0": 34584851,
+    "q41": "Criticism for lack of innovation and copying from other games."
+  },
+  {
+    "q0": 34584803,
+    "q41": "Accusation of plagiarism."
+  },
+  {
+    "q0": 34584750,
+    "q4": 2,
+    "q5": "Skill effects are good, and the game allows for multiple faction experiences.",
+    "q41": "Positive feedback on skill effects and faction diversity."
+  },
+  {
+    "q0": 34584630,
+    "q41": "Personal preference against turn-based games, but positive feedback on pets and art style."
+  },
+  {
+    "q0": 34584617,
+    "q41": "Positive feedback on character models and specific character abilities."
+  },
+  {
+    "q0": 34584568,
+    "q9": -2,
+    "q10": "The game is described as grindy and pay-to-win, with a steep difficulty curve.",
+    "q41": "Complaints about grind and pay-to-win aspects."
+  },
+  {
+    "q0": 34584519,
+    "q25": -2,
+    "q26": "The game is heavily monetized, with expensive purchases required for progression."
+  },
+  {
+    "q0": 34584053,
+    "q27": -2,
+    "q28": "The game is not friendly to free-to-play players."
+  },
+  {
+    "q0": 34583873,
+    "q9": 2,
+    "q10": "The game is enjoyable and meets the player's expectations."
+  },
+  {
+    "q0": 34583862,
+    "q11": 2,
+    "q12": "The game has good faction balance and is recommended for players."
+  },
+  {
+    "q0": 34583835,
+    "q41": "The player returned to the game due to celebrity endorsement but ultimately uninstalled it."
+  },
+  {
+    "q0": 34583752,
+    "q41": "The game is recommended for turn-based game enthusiasts."
+  },
+  {
+    "q0": 34573489,
+    "q27": 2,
+    "q28": "The game offers good value for money with its monetization options.",
+    "q41": "Positive feedback on the game's vertical format and social features."
+  },
+  {
+    "q0": 34573435,
+    "q41": "Regret over faction choice and discussion on pet strengths."
+  },
+  {
+    "q0": 34573412,
+    "q41": "Positive feedback on game design, character and pet development."
+  },
+  {
+    "q0": 34573358,
+    "q41": "Difficulty in ranked matches due to lack of communication and strong opponents."
+  },
+  {
+    "q0": 34573315,
+    "q41": "Positive feedback on game effects and community engagement."
+  },
+  {
+    "q0": 34573311,
+    "q41": "Criticism of the game's monetization and limited availability of certain items."
+  },
+  {
+    "q0": 34573217,
+    "q41": "Positive feedback on game updates and player communication."
+  },
+  {
+    "q0": 34573205,
+    "q41": "Complaint about inventory management."
+  },
+  {
+    "q0": 34573167,
+    "q41": "The game is compared to a simple mini-program."
+  },
+  {
+    "q0": 34573144,
+    "q41": "Difficulty in understanding game mechanics and regret over initial choices."
+  },
+  {
+    "q0": 34573055,
+    "q41": "Suggestions for improved social features and team activities."
+  },
+  {
+    "q0": 34572979,
+    "q41": "The game is described as a routine task with no excitement."
+  },
+  {
+    "q0": 34572919,
+    "q41": "Discussion on new pet strengths and community opinions."
+  },
+  {
+    "q0": 34572724,
+    "q41": "The game is too grindy for the player."
+  },
+  {
+    "q0": 34568453,
+    "q41": "Confusion over character attributes and equipment."
+  },
+  {
+    "q0": 34567986,
+    "q41": "Positive feedback on game storyline."
+  },
+  {
+    "q0": 34567603,
+    "q41": "Discussion on new pet strengths."
+  },
+  {
+    "q0": 34567470,
+    "q41": "Question about pet growth potential."
+  },
+  {
+    "q0": 34567353,
+    "q41": "Criticism of the game as a copy of others."
+  },
+  {
+    "q0": 34567306,
+    "q41": "Desire for less forced social interaction."
+  },
+  {
+    "q0": 34567166,
+    "q41": "Request for faster battle options."
+  },
+  {
+    "q0": 34447654,
+    "q41": "Criticism of the game's monetization and event structure."
+  },
+  {
+    "q0": 34566868,
+    "q41": "Call to resist copycat monetized games."
+  },
+  {
+    "q0": 34566534,
+    "q41": "The game is described as outdated and uninteresting."
+  },
+  {
+    "q0": 34566529,
+    "q41": "Discussion on character build strategies."
+  },
+  {
+    "q0": 34566419,
+    "q41": "Positive feedback on the absence of ads."
+  },
+  {
+    "q0": 34566417,
+    "q41": "Criticism of forced team play and monetization."
+  },
+  {
+    "q0": 34566013,
+    "q41": "Criticism of the game's monetization and limited rewards."
+  },
+  {
+    "q0": 34424233,
+    "q41": "Hope for future game development and horizontal screen support."
+  },
+  {
+    "q0": 33953383,
+    "q41": "Criticism of timed activities and desire for more flexible play."
+  },
+  {
+    "q0": 34565413,
+    "q41": "Prediction of popular characters."
+  },
+  {
+    "q0": 34564863,
+    "q41": "Disappointment with the game's social features."
+  },
+  {
+    "q0": 34564289,
+    "q41": "Complaint about forced item sales."
+  },
+  {
+    "q0": 34564212,
+    "q41": "Positive feedback on pet acquisition options."
+  },
+  {
+    "q0": 34564164,
+    "q41": "Discussion on pet strengths and balance."
+  },
+  {
+    "q0": 34564088,
+    "q41": "Expectation of character buffs."
+  },
+  {
+    "q0": 34563806,
+    "q41": "The game is described as a casual time filler."
+  },
+  {
+    "q0": 34563750,
+    "q41": "The game is described as difficult."
+  },
+  {
+    "q0": 34563342,
+    "q41": "Criticism of the game's lack of innovation."
+  },
+  {
+    "q0": 34563310,
+    "q41": "Criticism of the game's monetization practices."
+  },
+  {
+    "q0": 34563175,
+    "q41": "The game is described as a combination of several other games."
+  },
+  {
+    "q0": 34563017,
+    "q41": "Mention of celebrity endorsement."
+  },
+  {
+    "q0": 34562667,
+    "q41": "Positive feedback on art style."
+  },
+  {
+    "q0": 34562616,
+    "q41": "Accusation of the game having fake players."
+  },
+  {
+    "q0": 34562443,
+    "q41": "Difficulty accessing the game."
+  },
+  {
+    "q0": 34562179,
+    "q41": "Criticism of the game as a browser game on mobile."
+  },
+  {
+    "q0": 34562098,
+    "q41": "The game is described as okay."
+  },
+  {
+    "q0": 34561833,
+    "q41": "The game is enjoyable and meets the player's expectations."
+  },
+  {
+    "q0": 34561606,
+    "q41": "The game is described as fun."
+  },
+  {
+    "q0": 34561166,
+    "q41": "Criticism of the game as a reskin with no motivation to continue playing."
+  },
+  {
+    "q0": 34560683,
+    "q41": "The game is described as outdated and uninstalled."
+  },
+  {
+    "q0": 34559656,
+    "q41": "Criticism of the game's popularity."
+  },
+  {
+    "q0": 34559500,
+    "q41": "Criticism of the game's fake events and bots."
+  },
+  {
+    "q0": 34559348,
+    "q41": "Suggestion for improved monster display."
+  },
+  {
+    "q0": 34559126,
+    "q41": "Positive feedback on art style, with uncertainty about game content."
+  },
+  {
+    "q0": 34559043,
+    "q41": "Suggestion for improved guild communication features."
+  },
+  {
+    "q0": 34558826,
+    "q41": "Positive feedback on celebrity endorsement."
+  },
+  {
+    "q0": 34558770,
+    "q41": "Positive feedback on art style and pet design."
+  },
+  {
+    "q0": 34558704,
+    "q41": "The game is described as boring."
+  },
+  {
+    "q0": 34558610,
+    "q41": "Advice on playing the game slowly and concerns about the game's longevity."
+  },
+  {
+    "q0": 23820524,
+    "q41": "The game is described as grindy and not requiring social interaction."
+  },
+  {
+    "q0": 34558189,
+    "q41": "Recommendation for a specific pet due to its usefulness."
+  },
+  {
+    "q0": 34558131,
+    "q41": "Discussion on pet evolution requirements."
+  },
+  {
+    "q0": 34558014,
+    "q41": "The game is described as highly monetized."
+  }
+]
+```

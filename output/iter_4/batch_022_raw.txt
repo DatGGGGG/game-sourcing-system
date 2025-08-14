@@ -1,0 +1,68 @@
+```json
+[
+  {
+    "q0": 34540616,
+    "q41": "Server issues causing long queue times."
+  },
+  {
+    "q0": 34537622,
+    "q5": "The core mechanics are surprisingly good despite initial expectations.",
+    "q10": "The game is enjoyable enough to continue playing.",
+    "q28": "The game exceeded initial expectations, leading to continued play."
+  },
+  {
+    "q0": 34537426,
+    "q10": "The game has some shortcomings but is generally well-received.",
+    "q28": "The game is recommended despite some flaws."
+  },
+  {
+    "q0": 34536084,
+    "q12": "Tangmen is perceived as very strong.",
+    "q14": "Tangmen is recommended for its strength."
+  },
+  {
+    "q0": 34535872,
+    "q6": "Each faction has unique awakening skills.",
+    "q8": "The game features unique skills for each faction."
+  },
+  {
+    "q0": 34507451,
+    "q6": "Team play is important, with roles like healer being less criticized.",
+    "q8": "Team play involves strategic role selection.",
+    "q10": "Bots are used to fill teams, which can be beneficial.",
+    "q28": "Bots are used to fill teams, which can be beneficial."
+  },
+  {
+    "q0": 34534623,
+    "q12": "Qingqiu's role is more competitive than Putuo.",
+    "q14": "Qingqiu is more competitive, but Putuo is recommended for casual players."
+  },
+  {
+    "q0": 34534362,
+    "q12": "High agility builds are effective in PvP but not in PvE.",
+    "q14": "Different builds are needed for PvP and PvE."
+  },
+  {
+    "q0": 34534080,
+    "q41": "The game uses a vertical screen design."
+  },
+  {
+    "q0": 34533728,
+    "q28": "Spending money does not create significant differences in player power."
+  },
+  {
+    "q0": 34533954,
+    "q28": "Non-paying players can still achieve goals like obtaining rare beasts."
+  },
+  {
+    "q0": 34533802,
+    "q28": "The game can be played casually without excessive grinding."
+  },
+  {
+    "q0": 34531608,
+    "q15": "Players can evolve and grow with their pets.",
+    "q16": false,
+    "q18": "The evolution mechanic is unique and engaging."
+  }
+]
+```

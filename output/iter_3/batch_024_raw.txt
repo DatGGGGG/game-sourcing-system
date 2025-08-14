@@ -1,0 +1,411 @@
+```json
+[
+  {
+    "q0": 35086382,
+    "q27": -2,
+    "q28": "The game is heavily pay-to-win, making it difficult to progress without spending money.",
+    "q13": -2,
+    "q14": "The artwork and modeling are inconsistent and poorly done, resembling a college flash project."
+  },
+  {
+    "q0": 35036022,
+    "q6": "Pet evolution and development, life mode with cooking and alchemy, ranking mode",
+    "q7": -1,
+    "q8": "Pet evolution is underwhelming and lacks impact; life mode is too simple and lacks depth; ranking mode is limited to once a week.",
+    "q9": -1,
+    "q10": "Game progression is hindered by limited pet development and lack of engaging life mode.",
+    "q21": 1,
+    "q22": "The game introduces different daily activities, enhancing the gaming experience.",
+    "q27": -1,
+    "q28": "The game does not offer enough freedom of choice for non-paying users, limiting pet development options."
+  },
+  {
+    "q0": 35082944,
+    "q13": 1,
+    "q14": "The art style is praised for being cute and healing, though the storyline is considered childish.",
+    "q41": "Frequent bugs and server issues are mentioned."
+  },
+  {
+    "q0": 35079471,
+    "q3": "PvE gameplay with boss battles",
+    "q4": -1,
+    "q5": "PvE gameplay is criticized for being repetitive and lacking originality.",
+    "q41": "The game is criticized for its lack of innovation in PvE content."
+  },
+  {
+    "q0": 34823786,
+    "q41": "The game is criticized for limited availability of certain characters and frustrating mechanics."
+  },
+  {
+    "q0": 35077611,
+    "q6": "Ranking mode",
+    "q7": 1,
+    "q8": "Ranking mode is appreciated but criticized for being too infrequent.",
+    "q41": "The player suggests making ranking matches more frequent."
+  },
+  {
+    "q0": 35075734,
+    "q41": "Limited-time gameplay is discouraging for players who prefer flexibility."
+  },
+  {
+    "q0": 35072980,
+    "q41": "The game is criticized for bugs and poor optimization, affecting the overall experience."
+  },
+  {
+    "q0": 35070770,
+    "q27": -1,
+    "q28": "The game falsely advertised free player trading, leading to disappointment.",
+    "q41": "The player criticizes the false advertising of free trading."
+  },
+  {
+    "q0": 35070598,
+    "q5": "The game is not enjoyable."
+  },
+  {
+    "q0": 35068709,
+    "q27": 1,
+    "q28": "The game offers enjoyable activities and a lottery system, making it worth returning to.",
+    "q31": 1,
+    "q32": "The game provides enough activities and rewards to keep players engaged."
+  },
+  {
+    "q0": 35068630,
+    "q33": TRUE,
+    "q34": "The game integrates IP through collaborations.",
+    "q35": -1,
+    "q36": "The collaboration is seen as unnecessary and not well-received."
+  },
+  {
+    "q0": 35067437,
+    "q27": 1,
+    "q28": "The game is not overly demanding in terms of time or money, allowing for a more relaxed experience.",
+    "q41": "The game is criticized for bugs and slow response to feedback."
+  },
+  {
+    "q0": 35066248,
+    "q41": "The game is accused of being a copy of another game, with inferior modeling."
+  },
+  {
+    "q0": 35065508,
+    "q27": -1,
+    "q28": "The game offers limited rewards and requires significant effort for minimal gain.",
+    "q41": "The game is criticized for poor reward distribution and matchmaking issues."
+  },
+  {
+    "q0": 35064860,
+    "q41": "Items were changed from permanent to temporary without notice, causing frustration."
+  },
+  {
+    "q0": 35064681,
+    "q5": "The player is reserving judgment for future updates."
+  },
+  {
+    "q0": 35064368,
+    "q41": "The game is criticized for its resource management and lack of engaging content."
+  },
+  {
+    "q0": 35064024,
+    "q27": 1,
+    "q28": "The game offers a good social experience, making it enjoyable for couples.",
+    "q31": 1,
+    "q32": "The game provides a good experience with strong social elements."
+  },
+  {
+    "q0": 35063567,
+    "q27": -1,
+    "q28": "The game offers limited rewards and progression, leading to player dissatisfaction.",
+    "q41": "The game is criticized for poor reward distribution and frequent server issues."
+  },
+  {
+    "q0": 35060423,
+    "q41": "The game has issues with long wait times in battles and poor interface design."
+  },
+  {
+    "q0": 35057216,
+    "q41": "The event rewards are criticized for being poorly structured and unfair."
+  },
+  {
+    "q0": 35055019,
+    "q11": 1,
+    "q12": "The game maintains a strong position for divine beasts, ensuring their strength.",
+    "q13": 1,
+    "q14": "Divine beasts are expected to be strengthened, maintaining their importance."
+  },
+  {
+    "q0": 35054876,
+    "q11": 1,
+    "q12": "Different pets have unique strengths, providing strategic options."
+  },
+  {
+    "q0": 35054204,
+    "q41": "The player expresses frustration with poor luck in obtaining desired items."
+  },
+  {
+    "q0": 35054023,
+    "q27": 1,
+    "q28": "The game is suitable for casual players and does not pressure spending."
+  },
+  {
+    "q0": 35052793,
+    "q21": 1,
+    "q22": "The player hopes for more new content to maintain interest."
+  },
+  {
+    "q0": 35051704,
+    "q27": -1,
+    "q28": "The game is heavily pay-to-win, making it difficult to progress without spending money."
+  },
+  {
+    "q0": 35049913,
+    "q27": 1,
+    "q28": "The game is praised for its high playability and fair experience for all players."
+  },
+  {
+    "q0": 35047507,
+    "q41": "The game is criticized for its time-restricted events, making it difficult for working players."
+  },
+  {
+    "q0": 35046569,
+    "q27": -1,
+    "q28": "The game is criticized for its pay-to-win events and unfair reward distribution."
+  },
+  {
+    "q0": 35017016,
+    "q21": 1,
+    "q22": "The game is responsive to feedback and makes improvements to events."
+  },
+  {
+    "q0": 35046461,
+    "q41": "The game is criticized for being too demanding and time-consuming."
+  },
+  {
+    "q0": 35045636,
+    "q41": "The game is criticized for its time-consuming and forced social activities."
+  },
+  {
+    "q0": 35046161,
+    "q41": "The game causes overheating issues on mobile devices."
+  },
+  {
+    "q0": 35045985,
+    "q21": 1,
+    "q22": "The game is responsive to feedback and provides compensation for issues."
+  },
+  {
+    "q0": 35045514,
+    "q21": 1,
+    "q22": "The game is responsive to feedback and makes quick changes based on player input."
+  },
+  {
+    "q0": 35044455,
+    "q41": "The game is criticized for poorly designed events, but the developers are responsive to feedback."
+  },
+  {
+    "q0": 35045742,
+    "q41": "The game is criticized for its time-consuming and complex event requirements."
+  },
+  {
+    "q0": 35045595,
+    "q41": "The game is criticized for its exploitative event mechanics."
+  },
+  {
+    "q0": 35045543,
+    "q27": -1,
+    "q28": "The game is criticized for its exploitative events and reduced rewards.",
+    "q41": "The game is criticized for its exploitative event mechanics and reduced rewards."
+  },
+  {
+    "q0": 35045542,
+    "q41": "The game is criticized for its exploitative event mechanics and poor rewards."
+  },
+  {
+    "q0": 35045426,
+    "q41": "The game is criticized for its exploitative event mechanics and poor rewards."
+  },
+  {
+    "q0": 35045156,
+    "q41": "The game is criticized for its exploitative event mechanics and poor rewards."
+  },
+  {
+    "q0": 35045068,
+    "q41": "The game is criticized for its exploitative event mechanics and poor rewards."
+  },
+  {
+    "q0": 35044864,
+    "q41": "The game is criticized for its exploitative event mechanics and poor rewards."
+  },
+  {
+    "q0": 35044747,
+    "q27": -2,
+    "q28": "The game is heavily pay-to-win, with events designed to encourage spending.",
+    "q41": "The game is criticized for its exploitative event mechanics and poor rewards."
+  },
+  {
+    "q0": 35044723,
+    "q41": "The game is criticized for its exploitative event mechanics and poor rewards."
+  },
+  {
+    "q0": 35044683,
+    "q41": "The game is criticized for its exploitative event mechanics and poor rewards."
+  },
+  {
+    "q0": 35044265,
+    "q27": 1,
+    "q28": "The game is praised for being fairer than other similar games."
+  },
+  {
+    "q0": 35043242,
+    "q31": 1,
+    "q32": "The game provides good rewards for new server players."
+  },
+  {
+    "q0": 35008901,
+    "q13": -1,
+    "q14": "The player is frustrated with obtaining multiple unwanted pets.",
+    "q41": "The player is frustrated with obtaining multiple unwanted pets."
+  },
+  {
+    "q0": 35035686,
+    "q41": "The game is criticized for its inconvenient event timing, making it difficult for players to participate."
+  },
+  {
+    "q0": 35004325,
+    "q41": "The game is criticized for its forced social mechanics and lack of refund for failed guild creation."
+  },
+  {
+    "q0": 35003978,
+    "q27": 1,
+    "q28": "The game is praised for being accessible to free players and not overly demanding.",
+    "q31": 1,
+    "q32": "The game provides a good experience for free players."
+  },
+  {
+    "q0": 28289606,
+    "q41": "The game is criticized for its limited content and exploitative event mechanics."
+  },
+  {
+    "q0": 35001643,
+    "q41": "The game is criticized for its lack of engaging content."
+  },
+  {
+    "q0": 35001356,
+    "q27": 1,
+    "q28": "The game is praised for being fairer than other similar games."
+  },
+  {
+    "q0": 35000987,
+    "q41": "The game is criticized for its pay-to-win mechanics and lack of engaging content."
+  },
+  {
+    "q0": 34716322,
+    "q41": "The game is criticized for its time-consuming mechanics."
+  },
+  {
+    "q0": 34996511,
+    "q41": "The game is criticized for its lack of engaging content."
+  },
+  {
+    "q0": 34995883,
+    "q41": "The game is criticized for its lack of engaging content."
+  },
+  {
+    "q0": 34994471,
+    "q41": "The player is curious about potential IP collaborations."
+  },
+  {
+    "q0": 34989238,
+    "q41": "The game is criticized for its lack of engaging content."
+  },
+  {
+    "q0": 34987977,
+    "q41": "The game is criticized for its forced social mechanics and lack of engaging content."
+  },
+  {
+    "q0": 34550515,
+    "q41": "The game is criticized for its pay-to-win mechanics and lack of engaging content."
+  },
+  {
+    "q0": 34821855,
+    "q31": 1,
+    "q32": "The game provides a good experience for free players."
+  },
+  {
+    "q0": 34985755,
+    "q41": "The game is praised for its social elements and ability to connect players."
+  },
+  {
+    "q0": 34985630,
+    "q27": 1,
+    "q28": "The game is praised for its fair monetization and engaging gameplay."
+  },
+  {
+    "q0": 34984751,
+    "q41": "The game is criticized for its time-consuming mechanics and reliance on divine beasts."
+  },
+  {
+    "q0": 34983004,
+    "q41": "The game is criticized for its limited strategic options for free players."
+  },
+  {
+    "q0": 34979491,
+    "q41": "The game is criticized for its pay-to-win mechanics and lack of engaging content."
+  },
+  {
+    "q0": 34978590,
+    "q31": 1,
+    "q32": "The game provides a good experience for free players."
+  },
+  {
+    "q0": 34587702,
+    "q41": "The game is criticized for its time-consuming mechanics."
+  },
+  {
+    "q0": 34972910,
+    "q41": "The game is criticized for its time-consuming mechanics and exploitative event mechanics."
+  },
+  {
+    "q0": 34969419,
+    "q41": "The game is criticized for its bugs."
+  },
+  {
+    "q0": 34963554,
+    "q41": "The game is criticized for its lack of character deletion options."
+  },
+  {
+    "q0": 34961744,
+    "q41": "The game is criticized for its level cap mechanics."
+  },
+  {
+    "q0": 34961318,
+    "q41": "The game is criticized for its time-consuming mechanics."
+  },
+  {
+    "q0": 34958369,
+    "q41": "The game is criticized for its forced social mechanics and lack of engaging content."
+  },
+  {
+    "q0": 34956546,
+    "q41": "The game is criticized for its pay-to-win mechanics and lack of engaging content."
+  },
+  {
+    "q0": 34955867,
+    "q41": "The game is criticized for its pay-to-win mechanics and lack of engaging content."
+  },
+  {
+    "q0": 34954879,
+    "q41": "The game is criticized for its exploitative event mechanics and lack of engaging content."
+  },
+  {
+    "q0": 34954845,
+    "q41": "The game is criticized for its exploitative event mechanics and lack of engaging content."
+  },
+  {
+    "q0": 34954730,
+    "q41": "The game is criticized for its exploitative event mechanics and lack of engaging content."
+  },
+  {
+    "q0": 34703494,
+    "q41": "The game is criticized for its exploitative event mechanics and lack of engaging content."
+  }
+]
+```

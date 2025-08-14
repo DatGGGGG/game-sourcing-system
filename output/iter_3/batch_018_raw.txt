@@ -1,0 +1,266 @@
+```json
+[
+  {
+    "q0": 35482596,
+    "q4": -1,
+    "q5": "PvP gameplay has an imbalanced input-output ratio.",
+    "q6": "Fixed routine in gameplay, lack of innovation.",
+    "q7": -1,
+    "q8": "Gameplay lacks innovation and follows a fixed routine.",
+    "q9": -1,
+    "q10": "Events lack features and rewards are insufficient.",
+    "q11": 1,
+    "q12": "Easier to obtain pets with 'Divine Beast' title."
+  },
+  {
+    "q0": 35482591,
+    "q9": 1,
+    "q10": "First divine beast can be obtained without spending."
+  },
+  {
+    "q0": 35482583,
+    "q39": 2,
+    "q40": "The graphics are very good."
+  },
+  {
+    "q0": 35482578,
+    "q4": 2,
+    "q5": "Best turn-based mobile game in portrait mode.",
+    "q21": 1,
+    "q22": "Hope for a PC version soon."
+  },
+  {
+    "q0": 35482575,
+    "q4": 2,
+    "q5": "High playability."
+  },
+  {
+    "q0": 35482569,
+    "q4": 1,
+    "q5": "Traditional gameplay but with noticeable innovation.",
+    "q19": 1,
+    "q20": "Resource acquisition is decent, can choose to spend or not.",
+    "q27": 1,
+    "q28": "Resource acquisition is decent, can choose to spend or not."
+  },
+  {
+    "q0": 35482566,
+    "q9": 1,
+    "q10": "Good game experience with a focus on teamwork and patience."
+  },
+  {
+    "q0": 35482452,
+    "q4": 1,
+    "q5": "The game is suitable for casual play with a good art style and mechanics."
+  },
+  {
+    "q0": 35482542,
+    "q19": 1,
+    "q20": "Yuanbao (in-game currency) is not hard to obtain."
+  },
+  {
+    "q0": 35482539,
+    "q4": 2,
+    "q5": "Favorite turn-based mobile game."
+  },
+  {
+    "q0": 35482534,
+    "q4": 1,
+    "q5": "High playability with daily tasks not taking too much time."
+  },
+  {
+    "q0": 35482451,
+    "q9": 1,
+    "q10": "Comfortable gameplay experience without the need for heavy spending."
+  },
+  {
+    "q0": 35482447,
+    "q4": 2,
+    "q5": "Enjoyable activities like catching pets, tower climbing, and PK."
+  },
+  {
+    "q0": 35482427,
+    "q19": 2,
+    "q20": "Resources can be obtained through grinding."
+  },
+  {
+    "q0": 35482412,
+    "q9": 1,
+    "q10": "Smooth progression with well-rounded pet acquisition and training.",
+    "q11": 1,
+    "q12": "Faction balance is generally good except for Tangmen, which requires more spending."
+  },
+  {
+    "q0": 35482409,
+    "q19": 2,
+    "q20": "Abundant daily resources, good for patient players.",
+    "q39": 2,
+    "q40": "Liked the art style."
+  },
+  {
+    "q0": 35482400,
+    "q21": 1,
+    "q22": "Timely feedback from the developers.",
+    "q27": 1,
+    "q28": "Affordable for casual players with a decent auction house."
+  },
+  {
+    "q0": 35482394,
+    "q4": 2,
+    "q5": "More enjoyable with more players."
+  },
+  {
+    "q0": 35482385,
+    "q9": 1,
+    "q10": "Considered a conscientious game compared to other turn-based games."
+  },
+  {
+    "q0": 35482374,
+    "q4": 1,
+    "q5": "Combines elements from classic turn-based games with innovative graphics."
+  },
+  {
+    "q0": 35482371,
+    "q9": 1,
+    "q10": "Game is fair with proper resource management.",
+    "q27": 1,
+    "q28": "Game is fair with proper resource management."
+  },
+  {
+    "q0": 35482363,
+    "q4": 2,
+    "q5": "Exciting gameplay with unique pets."
+  },
+  {
+    "q0": 35482359,
+    "q4": 1,
+    "q5": "Considered a conscientious game among turn-based mobile games."
+  },
+  {
+    "q0": 35482357,
+    "q4": -1,
+    "q5": "Game is becoming less enjoyable."
+  },
+  {
+    "q0": 35482347,
+    "q27": 1,
+    "q28": "Playable for non-paying players but not competitive with high spenders."
+  },
+  {
+    "q0": 35482346,
+    "q19": 1,
+    "q20": "Resources are sufficient for daily tasks.",
+    "q9": 1,
+    "q10": "Smooth progression with mainline tasks."
+  },
+  {
+    "q0": 35482334,
+    "q29": -1,
+    "q30": "Game is grindy and requires spending."
+  },
+  {
+    "q0": 35482320,
+    "q4": 2,
+    "q5": "Conscientious turn-based game with convenient portrait mode."
+  },
+  {
+    "q0": 35482317,
+    "q27": 2,
+    "q28": "Playable without spending, even for zero-spend players."
+  },
+  {
+    "q0": 35482308,
+    "q19": 1,
+    "q20": "Resources can be obtained without spending.",
+    "q39": 1,
+    "q40": "Simple and professional graphics suitable for casual play."
+  },
+  {
+    "q0": 35482306,
+    "q19": 2,
+    "q20": "High resource acquisition and simple gameplay."
+  },
+  {
+    "q0": 35482300,
+    "q21": -1,
+    "q22": "Game focuses more on promotion than on improving gameplay."
+  },
+  {
+    "q0": 35482278,
+    "q4": 2,
+    "q5": "Fun to play without spending."
+  },
+  {
+    "q0": 35482265,
+    "q4": 1,
+    "q5": "Moderate grind and spending requirements.",
+    "q29": 1,
+    "q30": "Moderate grind and spending requirements."
+  },
+  {
+    "q0": 35482250,
+    "q4": 2,
+    "q5": "Enjoyable cartoon-style turn-based game with portrait mode."
+  },
+  {
+    "q0": 35482245,
+    "q19": -1,
+    "q20": "Resources are becoming harder to obtain."
+  },
+  {
+    "q0": 35482221,
+    "q19": 2,
+    "q20": "Playable without spending, enjoyable for non-spenders."
+  },
+  {
+    "q0": 35482213,
+    "q27": 1,
+    "q28": "Good experience for zero-spend players."
+  },
+  {
+    "q0": 35482205,
+    "q39": 2,
+    "q40": "Good graphics and no need for heavy spending."
+  },
+  {
+    "q0": 35482206,
+    "q27": 1,
+    "q28": "Good experience with three-card system."
+  },
+  {
+    "q0": 35482200,
+    "q21": 1,
+    "q22": "Hopes for more benefits and rewards."
+  },
+  {
+    "q0": 35482193,
+    "q4": 2,
+    "q5": "Fun without grind or spending."
+  },
+  {
+    "q0": 35482191,
+    "q4": 2,
+    "q5": "Impressed by the game after playing other turn-based games."
+  },
+  {
+    "q0": 35482190,
+    "q21": -1,
+    "q22": "Complaints about drop rates and task rewards."
+  },
+  {
+    "q0": 35482134,
+    "q29": -1,
+    "q30": "Game becomes more exploitative over time."
+  },
+  {
+    "q0": 35482131,
+    "q19": 2,
+    "q20": "Fast resource acquisition with patience."
+  },
+  {
+    "q0": 35482130,
+    "q39": 2,
+    "q40": "Great game elements with a good initial experience."
+  }
+]
+```

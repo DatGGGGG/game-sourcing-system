@@ -1,0 +1,56 @@
+```json
+[
+  {
+    "q0": 34477203,
+    "q1": false,
+    "q3": "The review humorously describes a scenario where the player is eager to play the game even after death, suggesting a strong attachment to the game.",
+    "q5": "The player expresses a humorous and strong desire to play the game, indicating positive anticipation.",
+    "q9": 2,
+    "q10": "The review humorously suggests a strong attachment and anticipation for the game's release.",
+    "q29": 2,
+    "q30": "The review humorously depicts a strong desire to play the game, indicating no pressure felt.",
+    "q41": "The review uses a humorous narrative to express excitement and anticipation for the game."
+  },
+  {
+    "q0": 34514784,
+    "q6": "The review mentions starting with a specific character or faction, indicating some level of strategic choice.",
+    "q7": 1,
+    "q8": "The player plans to start with a specific character, suggesting some strategic planning."
+  },
+  {
+    "q0": 34503369,
+    "q41": "The reviewer requests the ability to switch between landscape and portrait modes, indicating a preference for customizable display options."
+  },
+  {
+    "q0": 34477961,
+    "q15": "The review suggests adding a feature to increase intimacy with creatures, indicating a secondary loop related to creature interaction.",
+    "q16": false,
+    "q17": 1,
+    "q18": "The suggestion of adding an intimacy feature indicates a desire for more depth in creature interaction.",
+    "q19": 1,
+    "q20": "The review implies that increasing intimacy with creatures could provide additional benefits or resources."
+  },
+  {
+    "q0": 34468324,
+    "q11": -1,
+    "q12": "The review mentions the limitation of creatures being specialized for either PVP or tower pushing, indicating balance issues."
+  },
+  {
+    "q0": 34475994,
+    "q1": true,
+    "q2": "The review humorously mentions the ability to marry in the game, which could imply some level of mature content."
+  },
+  {
+    "q0": 34427107,
+    "q29": -2,
+    "q30": "The review humorously suggests spending money is inevitable, indicating a feeling of spending pressure."
+  },
+  {
+    "q0": 34245156,
+    "q9": -1,
+    "q10": "The review mentions reduced daily rewards, indicating dissatisfaction with game progression.",
+    "q29": -1,
+    "q30": "The review mentions dissatisfaction with daily rewards and spending requirements, indicating spending pressure."
+  }
+]
+```

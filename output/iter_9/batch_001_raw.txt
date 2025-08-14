@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "q0": 41113345,
+    "q5": "The user is disappointed with the rewards received after saving for a long time."
+  },
+  {
+    "q0": 44106152,
+    "q5": "The user is confused or surprised by the promotional material."
+  },
+  {
+    "q0": 44008882,
+    "q5": "The user is warning others that pre-charging does not unlock the first charge benefits."
+  },
+  {
+    "q0": 42708722,
+    "q5": "The user is requesting a horizontal version of the game."
+  },
+  {
+    "q0": 41740248,
+    "q5": "The user is requesting a notification when the screen orientation changes."
+  },
+  {
+    "q0": 39280370,
+    "q5": "The user is experiencing crashes in the game."
+  },
+  {
+    "q0": 38780862,
+    "q5": "The user is looking for a guild or team in the new server."
+  },
+  {
+    "q0": 35488172,
+    "q5": "The user is expressing dissatisfaction with a feature or aspect of the game."
+  },
+  {
+    "q0": 36132110,
+    "q5": "The user shares a poetic or narrative description, possibly unrelated to the game."
+  },
+  {
+    "q0": 35508121,
+    "q5": "The user mentions a location or feature within the game."
+  },
+  {
+    "q0": 33977242,
+    "q5": "The user has been playing for almost half a year."
+  },
+  {
+    "q0": 33965302,
+    "q5": "The user is expressing excitement and anticipation."
+  },
+  {
+    "q0": 33939366,
+    "q5": "The user is frustrated with delays in the game's release schedule."
+  },
+  {
+    "q0": 33938758,
+    "q5": "The user is discussing a feature related to mounts in the game."
+  },
+  {
+    "q0": 33917996,
+    "q5": "The user is discussing strategy involving fire-type characters and their abilities."
+  }
+]
+```

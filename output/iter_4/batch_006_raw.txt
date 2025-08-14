@@ -1,0 +1,450 @@
+```json
+[
+  {
+    "q0": 38115624,
+    "q5": "The user feels the game is not suitable for solo play as it requires teaming up.",
+    "q6": "Teaming up with other players",
+    "q7": -1,
+    "q8": "The user does not like the requirement to team up.",
+    "q10": "The user appreciates the art style and characters."
+  },
+  {
+    "q0": 38102290,
+    "q5": "The user has a positive opinion about the game."
+  },
+  {
+    "q0": 38091846,
+    "q5": "The user loves the fashion system with various styles available.",
+    "q15": "Fashion system with various styles of clothing"
+  },
+  {
+    "q0": 38091571,
+    "q5": "The user finds the game okay but prefers not to team up with others.",
+    "q6": "Teaming up with other players",
+    "q7": -1,
+    "q8": "The user prefers solo play or AI teammates."
+  },
+  {
+    "q0": 38091168,
+    "q5": "The user appreciates the social system for teaming up and making friends.",
+    "q6": "Teaming up with other players, Social system",
+    "q7": 2,
+    "q8": "The user enjoys the social aspect and making friends."
+  },
+  {
+    "q0": 38090830,
+    "q5": "The user is impressed by the appearance system and enjoys changing outfits daily.",
+    "q15": "Appearance system with daily outfit changes"
+  },
+  {
+    "q0": 38079897,
+    "q5": "The user is attracted to the game's features like PvP tournaments and PvE challenges.",
+    "q6": "PvP tournaments, PvE challenges",
+    "q7": 2,
+    "q8": "The user finds the features very attractive and recommends participation."
+  },
+  {
+    "q0": 38059984,
+    "q3": "Turn-based combat system",
+    "q4": 2,
+    "q5": "The user is impressed by the combat system, character design, and audio-visuals.",
+    "q6": "Turn-based combat",
+    "q7": 2,
+    "q8": "The unique turn-based system allows more thinking time."
+  },
+  {
+    "q0": 38059663,
+    "q5": "The user enjoys trying different gameplay styles and challenges.",
+    "q6": "Different gameplay styles and challenges",
+    "q7": 2,
+    "q8": "The user appreciates the variety of gameplay options."
+  },
+  {
+    "q0": 38059367,
+    "q5": "The user is pleasantly surprised by the vertical screen visuals.",
+    "q10": "The user finds the visuals very impressive."
+  },
+  {
+    "q0": 38058741,
+    "q5": "The user appreciates the social system for chatting, trading, and joining guilds.",
+    "q6": "Chatting, Trading, Joining guilds",
+    "q7": 2,
+    "q8": "The user enjoys the social interactions and activities."
+  },
+  {
+    "q0": 38058387,
+    "q5": "The user enjoys the freedom to explore and trigger events.",
+    "q6": "Exploration and event triggering",
+    "q7": 2,
+    "q8": "The user finds the exploration aspect impressive."
+  },
+  {
+    "q0": 38048597,
+    "q11": 2,
+    "q12": "The user believes the balance is well done with opportunities for all classes and spirits."
+  },
+  {
+    "q0": 38048288,
+    "q5": "The user enjoys making friends and gifting appearance items.",
+    "q6": "Making friends, Gifting appearance items",
+    "q7": 2,
+    "q8": "The user appreciates the social aspect and gifting system."
+  },
+  {
+    "q0": 38047855,
+    "q5": "The user finds higher difficulty instances more engaging.",
+    "q6": "Higher difficulty instances",
+    "q7": 2,
+    "q8": "The user appreciates the challenge and engagement."
+  },
+  {
+    "q0": 38047387,
+    "q5": "The user enjoys the unique skills and combinations of each class.",
+    "q6": "Unique skills and class combinations",
+    "q7": 2,
+    "q8": "The user appreciates the diversity and experimentation with classes."
+  },
+  {
+    "q0": 38046812,
+    "q5": "The user finds the storyline captivating and wants to know more.",
+    "q10": "The user is drawn to the storyline and character backgrounds."
+  },
+  {
+    "q0": 38041184,
+    "q5": "The user finds the graphics beautiful and gameplay simple.",
+    "q10": "The user finds the game flow satisfactory but events challenging."
+  },
+  {
+    "q0": 38038148,
+    "q5": "The user enjoys the graphics and daily sign-in rewards.",
+    "q31": 2,
+    "q32": "The daily sign-in rewards make the user look forward to logging in."
+  },
+  {
+    "q0": 38036931,
+    "q5": "The user finds characters cute and events rewarding.",
+    "q31": 2,
+    "q32": "The event rewards are significantly better than daily ones."
+  },
+  {
+    "q0": 38036692,
+    "q5": "The user enjoys unlocking new skills and fashion options.",
+    "q6": "Unlocking new skills and fashion options",
+    "q7": 2,
+    "q8": "The user appreciates the progression and customization."
+  },
+  {
+    "q0": 38036498,
+    "q5": "The user finds the game generous with rewards.",
+    "q31": 2,
+    "q32": "The user appreciates the abundance of rewards and daily tasks."
+  },
+  {
+    "q0": 38036246,
+    "q5": "The user finds the game fun and rewarding with a cute art style.",
+    "q31": 2,
+    "q32": "The user appreciates the game's generosity and simplicity."
+  },
+  {
+    "q0": 38034629,
+    "q4": -2,
+    "q5": "The user is frustrated with the PvP and PvE mechanics.",
+    "q11": -2,
+    "q12": "The user feels the balance is poor with certain roles being ineffective.",
+    "q13": -2,
+    "q14": "The user feels the team build diversity is lacking."
+  },
+  {
+    "q0": 38029909,
+    "q5": "The user dislikes the vertical screen format.",
+    "q37": -2,
+    "q38": "The user finds the vertical screen format uncomfortable and limiting."
+  },
+  {
+    "q0": 38028274,
+    "q5": "The user feels a sense of accomplishment when leveling up.",
+    "q9": 2,
+    "q10": "The user enjoys the progression and leveling system."
+  },
+  {
+    "q0": 38028120,
+    "q5": "The user finds the game generous with rewards and progression.",
+    "q31": 2,
+    "q32": "The user appreciates the game's generosity and progression system."
+  },
+  {
+    "q0": 38027698,
+    "q5": "The user enjoys the unique features of each class and the cute art style.",
+    "q6": "Unique class features",
+    "q7": 2,
+    "q8": "The user appreciates the diversity and art style."
+  },
+  {
+    "q0": 38027501,
+    "q5": "The user finds the game fun with a cute art style and good music.",
+    "q10": "The user appreciates the art style and music."
+  },
+  {
+    "q0": 38020746,
+    "q5": "The user finds the game relaxing and rewarding.",
+    "q31": 2,
+    "q32": "The user appreciates the game's relaxing nature and rewards."
+  },
+  {
+    "q0": 38020602,
+    "q5": "The user enjoys the collection elements of pets, mounts, and skills.",
+    "q6": "Collection of pets, mounts, and skills",
+    "q7": 2,
+    "q8": "The user appreciates the collection and customization options."
+  },
+  {
+    "q0": 38020451,
+    "q5": "The user finds the growth system reasonable and rewarding.",
+    "q9": 2,
+    "q10": "The user appreciates the growth system and rewards."
+  },
+  {
+    "q0": 38020148,
+    "q5": "The user enjoys the variety of daily tasks and rewards.",
+    "q31": 2,
+    "q32": "The user appreciates the variety and rewards of daily tasks."
+  },
+  {
+    "q0": 38019909,
+    "q5": "The user enjoys the team play and guild system.",
+    "q6": "Team play and guild system",
+    "q7": 2,
+    "q8": "The user appreciates the social and cooperative aspects."
+  },
+  {
+    "q0": 37903275,
+    "q5": "The user finds the game too demanding in terms of time and difficulty.",
+    "q9": -1,
+    "q10": "The user feels the game requires too much time and effort.",
+    "q29": -1,
+    "q30": "The user feels pressured by the game's demands."
+  },
+  {
+    "q0": 37897057,
+    "q5": "The user finds the layout confusing and hard to navigate."
+  },
+  {
+    "q0": 37896184,
+    "q5": "The user expected a horizontal screen and different mechanics."
+  },
+  {
+    "q0": 37895422,
+    "q5": "The user enjoys the competitive aspect but dislikes losing frequently.",
+    "q29": -1,
+    "q30": "The user feels pressured by the competitive nature."
+  },
+  {
+    "q0": 37895131,
+    "q5": "The user discusses character builds and skill changes."
+  },
+  {
+    "q0": 37895013,
+    "q5": "The user discusses character builds and skill usage."
+  },
+  {
+    "q0": 37893140,
+    "q5": "The user is concerned about resource availability for character development."
+  },
+  {
+    "q0": 37892394,
+    "q5": "The user is concerned about changes in team formation requirements."
+  },
+  {
+    "q0": 37891676,
+    "q5": "The user discusses character strategies and skill usage."
+  },
+  {
+    "q0": 37880155,
+    "q5": "The user discusses character builds and performance in different modes."
+  },
+  {
+    "q0": 37879077,
+    "q5": "The user seeks advice on character builds and skill selection."
+  },
+  {
+    "q0": 37878723,
+    "q5": "The user is considering investing in a character for specific game modes."
+  },
+  {
+    "q0": 37871937,
+    "q5": "The user finds the game confusing and feels it requires spending to progress."
+  },
+  {
+    "q0": 37871563,
+    "q5": "The user is torn between playing this game and another."
+  },
+  {
+    "q0": 37731970,
+    "q5": "The user finds the game to be a good representation of Chinese culture."
+  },
+  {
+    "q0": 37687257,
+    "q5": "The user seeks advice on character builds for specific tasks."
+  },
+  {
+    "q0": 37669393,
+    "q5": "The user finds the game suitable for working individuals."
+  },
+  {
+    "q0": 37669303,
+    "q5": "The user is confused about a specific game challenge."
+  },
+  {
+    "q0": 37668231,
+    "q5": "The user appreciates the character development system."
+  },
+  {
+    "q0": 37663718,
+    "q5": "The user is dissatisfied with recent updates."
+  },
+  {
+    "q0": 37660149,
+    "q5": "The user finds the game visually appealing but time-consuming."
+  },
+  {
+    "q0": 37639016,
+    "q5": "The user discusses character builds and strategies."
+  },
+  {
+    "q0": 37628567,
+    "q5": "The user discusses character builds and strategies for different modes."
+  },
+  {
+    "q0": 37628025,
+    "q5": "The user discusses character builds and strategies for different levels."
+  },
+  {
+    "q0": 37627799,
+    "q5": "The user discusses character builds and strategies for different modes."
+  },
+  {
+    "q0": 37611643,
+    "q5": "The user finds the game suitable for passing time but not innovative."
+  },
+  {
+    "q0": 34589427,
+    "q5": "The user discusses character development and resource availability."
+  },
+  {
+    "q0": 37596749,
+    "q5": "The user finds the game visually appealing but lacking in preferred character types."
+  },
+  {
+    "q0": 37593875,
+    "q5": "The user recommends the game for turn-based combat enthusiasts."
+  },
+  {
+    "q0": 37587253,
+    "q5": "The user is frustrated with the game's loading issues.",
+    "q39": -2,
+    "q40": "The user experiences prolonged loading times."
+  },
+  {
+    "q0": 37580278,
+    "q5": "The user discusses character builds and performance in different modes."
+  },
+  {
+    "q0": 37580266,
+    "q5": "The user discusses character builds and strategies for specific challenges."
+  },
+  {
+    "q0": 37576178,
+    "q5": "The user is frustrated with team formation requirements for a specific task."
+  },
+  {
+    "q0": 37574801,
+    "q5": "The user is concerned about the game's compatibility with non-standard screens."
+  },
+  {
+    "q0": 37574065,
+    "q5": "The user seeks a fixed team for a better gaming experience."
+  },
+  {
+    "q0": 37571886,
+    "q5": "The user finds the game suitable for casual play and appreciates the community."
+  },
+  {
+    "q0": 37569284,
+    "q5": "The user discusses character builds and performance in different modes."
+  },
+  {
+    "q0": 37569102,
+    "q5": "The user is frustrated with the randomness of item boxes."
+  },
+  {
+    "q0": 37569100,
+    "q5": "The user finds PvP enjoyable and balanced at a specific level."
+  },
+  {
+    "q0": 37569092,
+    "q5": "The user discusses character combinations for PvE and PvP."
+  },
+  {
+    "q0": 37569091,
+    "q5": "The user seeks advice on character builds and skill selection."
+  },
+  {
+    "q0": 37569089,
+    "q5": "The user discusses character builds and skill selection."
+  },
+  {
+    "q0": 37565531,
+    "q5": "The user finds the game suitable for casual play."
+  },
+  {
+    "q0": 37519209,
+    "q5": "The user is frustrated with forced social interactions and balance issues."
+  },
+  {
+    "q0": 37511850,
+    "q5": "The user finds the game repetitive and unengaging."
+  },
+  {
+    "q0": 37467954,
+    "q5": "The user is frustrated with the lack of value in the game's monetization.",
+    "q29": -2,
+    "q30": "The user feels pressured by the game's monetization."
+  },
+  {
+    "q0": 37420432,
+    "q5": "The user seeks advice on character builds and skill selection."
+  },
+  {
+    "q0": 37420381,
+    "q5": "The user advises against certain character builds."
+  },
+  {
+    "q0": 37399545,
+    "q5": "The user dislikes the game's art style."
+  },
+  {
+    "q0": 37388436,
+    "q5": "The user finds team formation manageable with practice."
+  },
+  {
+    "q0": 37385510,
+    "q5": "The user is frustrated with a bug and its consequences."
+  },
+  {
+    "q0": 37385272,
+    "q5": "The user is concerned about changes in character skill mechanics."
+  },
+  {
+    "q0": 37375352,
+    "q5": "The user discusses character balance and upcoming changes."
+  },
+  {
+    "q0": 37373828,
+    "q5": "The user is frustrated with the game's technical limitations."
+  },
+  {
+    "q0": 37359423,
+    "q5": "The user seeks advice on character skills and mechanics."
+  }
+]
+```

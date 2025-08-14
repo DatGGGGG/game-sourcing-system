@@ -1,0 +1,390 @@
+```json
+[
+  {
+    "q0": 44455300,
+    "q21": -2,
+    "q22": "Frequent changes in the game."
+  },
+  {
+    "q0": 44454543,
+    "q11": -1,
+    "q12": "Request to strengthen a specific hero, indicating imbalance."
+  },
+  {
+    "q0": 44443894,
+    "q27": 2,
+    "q28": "Non-paying users can play well.",
+    "q31": 2,
+    "q32": "The game is generous with events and rewards."
+  },
+  {
+    "q0": 44442712,
+    "q3": "Turn-based combat.",
+    "q4": 1,
+    "q5": "Limited options for turn-based vertical games.",
+    "q27": 1,
+    "q28": "Non-paying users can still enjoy the game."
+  },
+  {
+    "q0": 44439686,
+    "q5": "Unique gameplay attracts players."
+  },
+  {
+    "q0": 44439228,
+    "q9": -2,
+    "q10": "Difficulty in completing beginner tasks.",
+    "q27": -2,
+    "q28": "Spending money did not improve experience."
+  },
+  {
+    "q0": 44437437,
+    "q11": -1,
+    "q12": "Changes in hero speed and strategy over time."
+  },
+  {
+    "q0": 44436533,
+    "q11": -1,
+    "q12": "A specific hero is too powerful in later stages."
+  },
+  {
+    "q0": 44428538,
+    "q13": 1,
+    "q14": "Discussion on pet skills and progression."
+  },
+  {
+    "q0": 44427551,
+    "q19": -1,
+    "q20": "Inconsistency in item pricing related to level."
+  },
+  {
+    "q0": 44421749,
+    "q6": "Pet skills and strategy for PVP.",
+    "q7": 1,
+    "q8": "Strategic use of pet skills in PVP."
+  },
+  {
+    "q0": 44420592,
+    "q11": -1,
+    "q12": "Specific hero's healing ability is insufficient."
+  },
+  {
+    "q0": 36088428,
+    "q9": -2,
+    "q10": "Game becomes difficult and frustrating over time.",
+    "q27": -2,
+    "q28": "Game designed for paying users.",
+    "q29": -2,
+    "q30": "Heavy spending pressure for progression."
+  },
+  {
+    "q0": 44415901,
+    "q9": 1,
+    "q10": "Mid-game experience is highlighted as positive."
+  },
+  {
+    "q0": 44414734,
+    "q27": 1,
+    "q28": "Non-paying users can still play, but not as well as paying users."
+  },
+  {
+    "q0": 44409309,
+    "q9": -1,
+    "q10": "Significant resource requirements for progression.",
+    "q27": 1,
+    "q28": "Non-paying users can still acquire resources over time."
+  },
+  {
+    "q0": 44403061,
+    "q27": 1,
+    "q28": "Non-paying users can still enjoy the game."
+  },
+  {
+    "q0": 44402934,
+    "q13": -1,
+    "q14": "Lack of diversity in hero selection."
+  },
+  {
+    "q0": 44398186,
+    "q3": "Vertical screen orientation.",
+    "q4": -1,
+    "q5": "Player dislikes vertical screen orientation."
+  },
+  {
+    "q0": 44390304,
+    "q11": 1,
+    "q12": "Specific heroes are strong in current version."
+  },
+  {
+    "q0": 44385680,
+    "q27": -1,
+    "q28": "Inability to delete characters is frustrating."
+  },
+  {
+    "q0": 44385162,
+    "q9": 1,
+    "q10": "Game progression is balanced and optimized.",
+    "q27": 1,
+    "q28": "Non-paying users can still enjoy the game.",
+    "q29": 1,
+    "q30": "Spending is not heavily pressured."
+  },
+  {
+    "q0": 44383692,
+    "q27": -1,
+    "q28": "Resource management is challenging and frustrating."
+  },
+  {
+    "q0": 44381154,
+    "q27": -2,
+    "q28": "Game punishes players without evidence, forcing spending."
+  },
+  {
+    "q0": 44370730,
+    "q9": -1,
+    "q10": "New content is challenging and time-consuming."
+  },
+  {
+    "q0": 44368923,
+    "q6": "Resource management and hero progression strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for hero and resource progression."
+  },
+  {
+    "q0": 44366903,
+    "q6": "Mount and equipment strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for mounts and equipment."
+  },
+  {
+    "q0": 44363382,
+    "q3": "Q-style art and horizontal/vertical screen options.",
+    "q4": 1,
+    "q5": "Art style and screen options are appealing."
+  },
+  {
+    "q0": 44359127,
+    "q6": "Team composition strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for team composition."
+  },
+  {
+    "q0": 44355222,
+    "q27": -1,
+    "q28": "Limited inventory space is frustrating."
+  },
+  {
+    "q0": 44350547,
+    "q6": "Pet strategy for progression.",
+    "q7": 1,
+    "q8": "Strategic planning for pet progression."
+  },
+  {
+    "q0": 44331803,
+    "q6": "Team composition and strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for team composition."
+  },
+  {
+    "q0": 44328228,
+    "q11": -1,
+    "q12": "Specific hero is marginalized.",
+    "q13": 1,
+    "q14": "Strong hero is popular in various activities."
+  },
+  {
+    "q0": 44318949,
+    "q1": TRUE,
+    "q2": "Religious content.",
+    "q6": "Hero and team composition strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for hero and team composition."
+  },
+  {
+    "q0": 44318463,
+    "q11": 1,
+    "q12": "Specific hero is popular and effective."
+  },
+  {
+    "q0": 44312289,
+    "q6": "Pet strategy for PVP.",
+    "q7": 1,
+    "q8": "Strategic planning for pet use in PVP."
+  },
+  {
+    "q0": 44311109,
+    "q6": "Pet strategy for early game.",
+    "q7": 1,
+    "q8": "Strategic planning for pet use in early game."
+  },
+  {
+    "q0": 44304588,
+    "q11": -1,
+    "q12": "Specific hero is not effective."
+  },
+  {
+    "q0": 44304306,
+    "q6": "Mount and equipment strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for mounts and equipment."
+  },
+  {
+    "q0": 44303639,
+    "q6": "Pet progression strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for pet progression."
+  },
+  {
+    "q0": 44302974,
+    "q27": -2,
+    "q28": "New players face many challenges and pitfalls.",
+    "q29": -2,
+    "q30": "Heavy spending pressure for progression."
+  },
+  {
+    "q0": 44286494,
+    "q9": -1,
+    "q10": "Resource management is challenging for new players."
+  },
+  {
+    "q0": 44285802,
+    "q6": "Team composition strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for team composition."
+  },
+  {
+    "q0": 44274471,
+    "q27": -2,
+    "q28": "Heavy spending pressure for PVP.",
+    "q29": -2,
+    "q30": "Heavy spending pressure for progression."
+  },
+  {
+    "q0": 44275210,
+    "q21": 1,
+    "q22": "New event content."
+  },
+  {
+    "q0": 44272380,
+    "q31": 1,
+    "q32": "Generous rewards for returning players."
+  },
+  {
+    "q0": 44256247,
+    "q23": TRUE,
+    "q24": "Gacha system with high probability of duplicates.",
+    "q25": -1,
+    "q26": "Unreasonable gacha probabilities."
+  },
+  {
+    "q0": 44251714,
+    "q27": -2,
+    "q28": "Significant disparity between paying and non-paying users."
+  },
+  {
+    "q0": 44251251,
+    "q27": -1,
+    "q28": "Forced team play is frustrating."
+  },
+  {
+    "q0": 44248872,
+    "q6": "Hero skill strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for hero skills."
+  },
+  {
+    "q0": 44241801,
+    "q6": "Hero skill strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for hero skills."
+  },
+  {
+    "q0": 44240175,
+    "q6": "Mount skill strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for mount skills."
+  },
+  {
+    "q0": 44237907,
+    "q27": 1,
+    "q28": "Non-paying users can still enjoy the game."
+  },
+  {
+    "q0": 44236747,
+    "q5": "High playability despite graphics quality."
+  },
+  {
+    "q0": 44227064,
+    "q27": 1,
+    "q28": "Non-paying users can still enjoy the game.",
+    "q31": 1,
+    "q32": "Generous rewards for non-paying users."
+  },
+  {
+    "q0": 44222285,
+    "q6": "Hero and pet strategy.",
+    "q7": 1,
+    "q8": "Strategic planning for hero and pet use."
+  },
+  {
+    "q0": 44200347,
+    "q9": -2,
+    "q10": "Bugs prevent progression for new players."
+  },
+  {
+    "q0": 44199561,
+    "q5": "Game has innovative elements but lacks excitement.",
+    "q29": -1,
+    "q30": "Spending pressure for progression."
+  },
+  {
+    "q0": 44192502,
+    "q23": TRUE,
+    "q24": "Gacha system with a guarantee after a certain number of pulls."
+  },
+  {
+    "q0": 44189868,
+    "q27": -1,
+    "q28": "Non-paying users face challenges in progression."
+  },
+  {
+    "q0": 44180773,
+    "q27": 1,
+    "q28": "Non-paying users can still enjoy the game."
+  },
+  {
+    "q0": 44176463,
+    "q3": "Vertical screen orientation.",
+    "q4": -1,
+    "q5": "Player dislikes vertical screen orientation."
+  },
+  {
+    "q0": 44175736,
+    "q3": "Turn-based combat.",
+    "q4": 2,
+    "q5": "Highly praised as a turn-based game."
+  },
+  {
+    "q0": 44167119,
+    "q27": 1,
+    "q28": "Non-paying users can still enjoy the game.",
+    "q31": 1,
+    "q32": "Generous rewards for non-paying users."
+  },
+  {
+    "q0": 44162914,
+    "q9": -1,
+    "q10": "Bugs prevent progression for new players."
+  },
+  {
+    "q0": 44149886,
+    "q3": "Comparison to another game.",
+    "q4": 1,
+    "q5": "More comfortable experience compared to another game."
+  },
+  {
+    "q0": 44132112,
+    "q27": 1,
+    "q28": "Customer service resolved an issue after some delay."
+  }
+]
+```

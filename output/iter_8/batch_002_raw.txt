@@ -1,0 +1,112 @@
+```json
+[
+  {
+    "q0": 36068643,
+    "q5": "The user appreciates the art style of the game."
+  },
+  {
+    "q0": 36060941,
+    "q5": "The user finds the art style cute and has a positive impression of the game."
+  },
+  {
+    "q0": 36017816,
+    "q5": "The user refers to the game as a battery killer, indicating it may drain the device's battery quickly."
+  },
+  {
+    "q0": 36012871,
+    "q5": "The user is seeking guidance and a mentor for the game, indicating a desire to learn and improve."
+  },
+  {
+    "q0": 35943146,
+    "q5": "The user prefers another game, suggesting they did not enjoy this one as much."
+  },
+  {
+    "q0": 35932052,
+    "q5": "The user does not want to be forced to participate in a specific in-game activity."
+  },
+  {
+    "q0": 35849421,
+    "q5": "The user mentions a comic related to the game that has not been updated due to financial issues."
+  },
+  {
+    "q0": 35847091,
+    "q5": "The user finds the game reminiscent of another game called '仙灵物语'."
+  },
+  {
+    "q0": 35789694,
+    "q5": "The user appreciates the official's patient response and plans to continue playing."
+  },
+  {
+    "q0": 35785089,
+    "q5": "The user finds the game to be good."
+  },
+  {
+    "q0": 35746779,
+    "q5": "The user criticizes the game for not learning from another game called '梦幻精英'."
+  },
+  {
+    "q0": 35725973,
+    "q5": "The user requests a security lock feature to prevent account and equipment loss."
+  },
+  {
+    "q0": 35724445,
+    "q5": "The user suggests that spending more money increases luck in the game."
+  },
+  {
+    "q0": 35720307,
+    "q5": "The user is confused about the changing requirements for a game event."
+  },
+  {
+    "q0": 35607780,
+    "q5": "The user is frustrated with not receiving good equipment drops."
+  },
+  {
+    "q0": 35605840,
+    "q5": "The user appreciates that the game is in portrait mode."
+  },
+  {
+    "q0": 35604422,
+    "q5": "The user finds resource acquisition plentiful and character development good, enhancing player experience."
+  },
+  {
+    "q0": 35515843,
+    "q5": "The user feels the game is a combination of many other games but is still willing to try it."
+  },
+  {
+    "q0": 35488812,
+    "q5": "The user finds the game to be a good turn-based online game."
+  },
+  {
+    "q0": 35493069,
+    "q5": "The user finds resource acquisition to be good."
+  },
+  {
+    "q0": 35492642,
+    "q5": "The user finds the game friendly for low-spending players and appreciates its aesthetic."
+  },
+  {
+    "q0": 35494500,
+    "q5": "The user finds the game very fun."
+  },
+  {
+    "q0": 33972677,
+    "q5": "The user finds the game to be really good."
+  },
+  {
+    "q0": 33598901,
+    "q5": "The user is confused about the non-wipe test server and criticizes the lead planner's attitude."
+  },
+  {
+    "q0": 33563619,
+    "q5": "The user feels betrayed as a beta player due to lack of rewards for the first non-wipe test server."
+  },
+  {
+    "q0": 33563160,
+    "q5": "The user is frustrated with the sudden non-wipe closed beta test, feeling disregarded as a player."
+  },
+  {
+    "q0": 26845984,
+    "q5": "The user finds the game uninteresting and feels it resembles a typical domestic game with repetitive tasks."
+  }
+]
+```

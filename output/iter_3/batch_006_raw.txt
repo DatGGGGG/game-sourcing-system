@@ -1,0 +1,138 @@
+```json
+[
+  {
+    "q0": 40326956,
+    "q5": "The user feels that the game lacks the appeal of divine beasts and that raising them requires significant resources, impacting the enjoyment of the game."
+  },
+  {
+    "q0": 40313193,
+    "q4": -2,
+    "q5": "The user is very dissatisfied with the combat due to low draw rates and poor pet cultivation.",
+    "q7": -2,
+    "q8": "The user finds the strategic/tactical depth lacking due to the necessity of team play and poor pet cultivation.",
+    "q9": -2,
+    "q10": "The game progression is hindered by excessive daily tasks and low resource value.",
+    "q11": 2,
+    "q12": "The user praises the game for excellent class balance.",
+    "q29": -2,
+    "q30": "The user feels the game is very grind-heavy and requires excessive time commitment."
+  },
+  {
+    "q0": 40308951,
+    "q5": "The user finds the game relaxing and not demanding, providing a good casual experience."
+  },
+  {
+    "q0": 40284450,
+    "q41": "The user reports an issue with the game not loading properly."
+  },
+  {
+    "q0": 40275529,
+    "q5": "The user mentions that luck plays a significant role in progressing through the game.",
+    "q19": 2,
+    "q20": "The game provides opportunities and time to accumulate resources."
+  },
+  {
+    "q0": 40275580,
+    "q21": -2,
+    "q22": "The user mentions frequent bugs and issues with updates.",
+    "q11": -2,
+    "q12": "The user feels that certain classes are overpowered and not balanced well.",
+    "q41": "The user reports issues with community engagement and customer service."
+  },
+  {
+    "q0": 40272054,
+    "q11": -2,
+    "q12": "The user feels that the hero balance is poor, with certain classes being significantly weaker."
+  },
+  {
+    "q0": 40258816,
+    "q9": -2,
+    "q10": "The user finds the game too grind-heavy with too many daily activities.",
+    "q41": "The user reports issues with battery consumption and overheating."
+  },
+  {
+    "q0": 40254093,
+    "q5": "The user appreciates the game's art and music and finds it convenient for casual play.",
+    "q29": 2,
+    "q30": "The user feels the game is not heavily monetized compared to others."
+  },
+  {
+    "q0": 40193056,
+    "q6": "The user suggests raising two divine beasts for strategic advantage.",
+    "q8": "The user provides specific strategies for raising divine beasts."
+  },
+  {
+    "q0": 40198331,
+    "q5": "The user finds the combat experience enjoyable with well-equipped characters.",
+    "q13": 2,
+    "q14": "The user finds diversity in team builds with different strategies."
+  },
+  {
+    "q0": 40156289,
+    "q29": 2,
+    "q30": "The user feels the game allows for both free and paid playstyles.",
+    "q9": -2,
+    "q10": "The user feels progression is slow without spending money."
+  },
+  {
+    "q0": 40073284,
+    "q23": true,
+    "q24": "The game has a gacha system with a five-time double red guarantee.",
+    "q25": -2,
+    "q26": "The user feels the gacha pull price is unreasonable without a hundred-time self-select guarantee.",
+    "q29": 2,
+    "q30": "The user feels the game allows for resource accumulation without heavy spending."
+  },
+  {
+    "q0": 40032785,
+    "q5": "The user finds the game's mechanics frustrating and misleading.",
+    "q25": -2,
+    "q26": "The user feels the gacha pull price is unreasonable due to misleading mechanics.",
+    "q29": -2,
+    "q30": "The user feels the game is heavily monetized and frustrating."
+  },
+  {
+    "q0": 40010492,
+    "q5": "The user finds the game relaxing and appreciates the art style."
+  },
+  {
+    "q0": 39988216,
+    "q29": -2,
+    "q30": "The user feels the game requires too much time commitment with scheduled activities."
+  },
+  {
+    "q0": 39956141,
+    "q29": -2,
+    "q30": "The user feels the game is too grind-heavy and requires excessive time commitment."
+  },
+  {
+    "q0": 39939276,
+    "q29": -2,
+    "q30": "The user feels the game is heavily monetized."
+  },
+  {
+    "q0": 39904738,
+    "q29": -2,
+    "q30": "The user feels the game is heavily monetized with high costs for participation."
+  },
+  {
+    "q0": 39890046,
+    "q29": -2,
+    "q30": "The user feels the game is heavily monetized and requires excessive time commitment."
+  },
+  {
+    "q0": 39886803,
+    "q29": -2,
+    "q30": "The user feels the game is heavily monetized with different levels of spending required for a good experience."
+  },
+  {
+    "q0": 37855461,
+    "q29": -2,
+    "q30": "The user feels the game is heavily monetized with diminishing returns over time."
+  },
+  {
+    "q0": 36864699,
+    "q41": "The user reports issues with stealth changes and resource investment devaluation."
+  }
+]
+```

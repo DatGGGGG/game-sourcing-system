@@ -1,0 +1,345 @@
+```json
+[
+  {
+    "q0": 34806398,
+    "q5": "The reviewer is dissatisfied with the game's aesthetics and character modeling."
+  },
+  {
+    "q0": 34802656,
+    "q5": "The reviewer is frustrated with the game's time-consuming tasks and lack of content."
+  },
+  {
+    "q0": 34801756,
+    "q4": 2,
+    "q5": "The reviewer is very satisfied with the character ultimate move design."
+  },
+  {
+    "q0": 34797653,
+    "q12": "-2",
+    "q13": "-2",
+    "q14": "The reviewer is unhappy with the nerfing of a character, which affects hero balance and diversity."
+  },
+  {
+    "q0": 34797589,
+    "q12": "-2",
+    "q14": "The reviewer is dissatisfied with the balance and diversity due to getting a weak character after saving resources."
+  },
+  {
+    "q0": 34797473,
+    "q9": "-2",
+    "q10": "The reviewer feels the game is very demanding and exhausting, similar to having a job.",
+    "q27": "-2",
+    "q28": "The reviewer feels non-paying users have a hard time keeping up with the game."
+  },
+  {
+    "q0": 34797305,
+    "q29": 1,
+    "q30": "The reviewer appreciates the current state of monetization and hopes it remains subtle."
+  },
+  {
+    "q0": 34794305,
+    "q29": "-2",
+    "q30": "The reviewer feels the game is heavily focused on forcing players to spend money."
+  },
+  {
+    "q0": 34793026,
+    "q9": "-2",
+    "q10": "The reviewer finds the game progression confusing and overwhelming due to the fast leveling and forced team activities.",
+    "q27": "-2",
+    "q28": "The reviewer feels non-paying users struggle with progression and team activities."
+  },
+  {
+    "q0": 34792034,
+    "q12": "-2",
+    "q14": "The reviewer is unhappy with the randomness and dissatisfaction of character selection."
+  },
+  {
+    "q0": 34788172,
+    "q27": "-2",
+    "q28": "The reviewer feels non-paying users are at a significant disadvantage without spending money."
+  },
+  {
+    "q0": 34786515,
+    "q41": "The reviewer mentions an issue with the chat system's character limit."
+  },
+  {
+    "q0": 34786460,
+    "q39": "-2",
+    "q40": "The reviewer experiences frequent crashes and slow performance, indicating a poor in-game download experience."
+  },
+  {
+    "q0": 34786097,
+    "q3": "Turn-based combat similar to classic turn-based games.",
+    "q5": "The reviewer finds the combat mechanics similar to other turn-based games."
+  },
+  {
+    "q0": 34786066,
+    "q5": "The reviewer appreciates the game's design and feels it combines elements from other games well."
+  },
+  {
+    "q0": 34424168,
+    "q29": "-2",
+    "q30": "The reviewer feels the game has become more monetized and less rewarding over time."
+  },
+  {
+    "q0": 34782698,
+    "q27": "-2",
+    "q28": "The reviewer is frustrated with the restrictive trading system for non-paying users."
+  },
+  {
+    "q0": 34782416,
+    "q29": "-2",
+    "q30": "The reviewer feels the game heavily pressures players to spend money."
+  },
+  {
+    "q0": 34778111,
+    "q39": "-2",
+    "q40": "The reviewer experiences frequent game freezes and issues with the trading system."
+  },
+  {
+    "q0": 34777968,
+    "q9": "-2",
+    "q10": "The reviewer is frustrated with the loss of progress and resources due to game changes."
+  },
+  {
+    "q0": 34775028,
+    "q9": "-2",
+    "q10": "The reviewer feels the game progression is inconsistent and becomes increasingly difficult.",
+    "q13": "-2",
+    "q14": "The reviewer feels there is a lack of diversity in character skills."
+  },
+  {
+    "q0": 34771479,
+    "q31": "-2",
+    "q32": "The reviewer feels the game offers insufficient rewards and lacks first-time purchase bonuses."
+  },
+  {
+    "q0": 34768775,
+    "q29": "-2",
+    "q30": "The reviewer feels pressured to constantly be online due to the game's monetization and activity requirements."
+  },
+  {
+    "q0": 34768468,
+    "q12": "-2",
+    "q14": "The reviewer is frustrated with the imbalance and randomness of character selection."
+  },
+  {
+    "q0": 34766420,
+    "q5": "The reviewer feels the game is better than its rating suggests."
+  },
+  {
+    "q0": 34764139,
+    "q27": 2,
+    "q28": "The reviewer appreciates the ability to earn significant rewards without spending money."
+  },
+  {
+    "q0": 34762434,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the game's fixed activity times and the impact on work-life balance."
+  },
+  {
+    "q0": 34738542,
+    "q5": "The reviewer finds some enjoyment in the game's strategic elements despite its challenges."
+  },
+  {
+    "q0": 34636242,
+    "q3": "Turn-based combat with skill targeting and team coordination.",
+    "q5": "The reviewer feels the combat system is standard but appreciates the command feature for NPCs.",
+    "q6": "Command system for NPCs during combat.",
+    "q8": "The reviewer appreciates the ability to command NPCs, adding depth to combat."
+  },
+  {
+    "q0": 34737030,
+    "q41": "The reviewer is frustrated with the imbalance in faction wars."
+  },
+  {
+    "q0": 34735179,
+    "q9": "-2",
+    "q10": "The reviewer is stuck due to lack of available tasks and progression options."
+  },
+  {
+    "q0": 34733270,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the fixed activity times and stealth changes."
+  },
+  {
+    "q0": 24315338,
+    "q41": "The reviewer is frustrated with the game's bugs and lack of response to player feedback."
+  },
+  {
+    "q0": 34730869,
+    "q9": "-2",
+    "q10": "The reviewer is frustrated with the time-consuming tasks and limited character options.",
+    "q12": "-2",
+    "q14": "The reviewer is unhappy with the balance and effectiveness of certain characters."
+  },
+  {
+    "q0": 34729563,
+    "q39": "-2",
+    "q40": "The reviewer experiences frequent crashes on iOS devices."
+  },
+  {
+    "q0": 34649882,
+    "q9": "-2",
+    "q10": "The reviewer feels the game is too automated and lacks meaningful engagement.",
+    "q27": "-2",
+    "q28": "The reviewer feels non-paying users face significant disadvantages in progression."
+  },
+  {
+    "q0": 34725584,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the high cost of in-game resources."
+  },
+  {
+    "q0": 34725004,
+    "q41": "The reviewer is frustrated with the game's stealth changes to resources."
+  },
+  {
+    "q0": 34623069,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the game's stealth changes and high difficulty."
+  },
+  {
+    "q0": 34722078,
+    "q29": "-2",
+    "q30": "The reviewer feels the game lacks innovation and has poor monetization practices."
+  },
+  {
+    "q0": 34721292,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the game's stealth changes to resource acquisition."
+  },
+  {
+    "q0": 34720767,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the game's stealth changes and resource nerfs."
+  },
+  {
+    "q0": 34693126,
+    "q29": "-2",
+    "q30": "The reviewer finds the game increasingly boring and lacking innovation."
+  },
+  {
+    "q0": 34719577,
+    "q5": "The reviewer appreciates the game's design and hopes for good management."
+  },
+  {
+    "q0": 34719312,
+    "q29": "-2",
+    "q30": "The reviewer feels the game is heavily monetized and lacks originality."
+  },
+  {
+    "q0": 34719244,
+    "q5": "The reviewer is optimistic about their progression and character development."
+  },
+  {
+    "q0": 34718233,
+    "q5": "The reviewer is satisfied with the game and hopes for good luck in character acquisition."
+  },
+  {
+    "q0": 34718192,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the restrictive trading system and resource changes."
+  },
+  {
+    "q0": 34717883,
+    "q29": "-2",
+    "q30": "The reviewer feels the game heavily pressures players to spend money."
+  },
+  {
+    "q0": 34715441,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the game's monetization and activity scheduling."
+  },
+  {
+    "q0": 34716068,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the game's time-consuming tasks."
+  },
+  {
+    "q0": 34713659,
+    "q29": "-2",
+    "q30": "The reviewer feels the game is too demanding and exhausting."
+  },
+  {
+    "q0": 34713205,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the repetitive tasks and lack of progression."
+  },
+  {
+    "q0": 34694303,
+    "q5": "The reviewer is dissatisfied with the game's quality."
+  },
+  {
+    "q0": 34689925,
+    "q29": "-2",
+    "q30": "The reviewer feels the game is heavily monetized and difficult for non-paying users."
+  },
+  {
+    "q0": 34689752,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the randomness and cost of character acquisition."
+  },
+  {
+    "q0": 34688941,
+    "q12": "-2",
+    "q14": "The reviewer is frustrated with the imbalance and effectiveness of certain characters."
+  },
+  {
+    "q0": 34686617,
+    "q5": "The reviewer appreciates the game but is frustrated with the trading system."
+  },
+  {
+    "q0": 34684604,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the game's high difficulty and monetization."
+  },
+  {
+    "q0": 34683613,
+    "q29": "-2",
+    "q30": "The reviewer is concerned about the game's monetization and character balance."
+  },
+  {
+    "q0": 34682932,
+    "q5": "The reviewer is dissatisfied with the game's vertical screen design."
+  },
+  {
+    "q0": 34681362,
+    "q5": "The reviewer appreciates the game and hopes for more content."
+  },
+  {
+    "q0": 34572466,
+    "q5": "The reviewer appreciates the game's design but hopes for better graphics."
+  },
+  {
+    "q0": 34680233,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the game's monetization and performance issues."
+  },
+  {
+    "q0": 34679453,
+    "q29": "-2",
+    "q30": "The reviewer feels the game is too demanding and exhausting."
+  },
+  {
+    "q0": 34678251,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the randomness and effectiveness of character acquisition."
+  },
+  {
+    "q0": 34676699,
+    "q29": "-2",
+    "q30": "The reviewer feels the game heavily pressures players to spend money."
+  },
+  {
+    "q0": 34676616,
+    "q39": "-2",
+    "q40": "The reviewer experiences frequent crashes during team activities."
+  },
+  {
+    "q0": 34673324,
+    "q29": "-2",
+    "q30": "The reviewer is frustrated with the game's monetization and activity scheduling."
+  }
+]
+```

@@ -1,0 +1,91 @@
+```json
+[
+  {
+    "q0": 44537218,
+    "q5": "The reviewer finds the game frustrating due to the significant luck disparity between accounts, but acknowledges that the game is still rewarding despite nerfs. The presence of a team enhances the experience.",
+    "q28": "The game can be played comfortably with a three-card setup, and zero-spending players can still enjoy the game.",
+    "q30": "The game has undergone changes to improve player experience, but the reviewer advises against actions that betray players."
+  },
+  {
+    "q0": 44536451,
+    "q5": "The reviewer mentions the importance of speed in combat, suggesting that it affects the ability to join teams.",
+    "q6": "Speed is crucial for combat effectiveness.",
+    "q8": "Speed is a tactical feature that affects team dynamics and combat effectiveness."
+  },
+  {
+    "q0": 44532959,
+    "q5": "The reviewer discusses character abilities and their impact on combat, indicating a level of depth in strategy.",
+    "q6": "Character abilities and their interactions in combat.",
+    "q8": "The review highlights the importance of character abilities and their strategic use in combat."
+  },
+  {
+    "q0": 44522083,
+    "q28": "The game is enjoyable with a three-card setup, and the reviewer finds the experience satisfactory.",
+    "q30": "The reviewer acknowledges the difference between non-paying and paying players but finds the experience acceptable."
+  },
+  {
+    "q0": 44517437,
+    "q28": "The game can be played for an hour a day, indicating a manageable level of commitment.",
+    "q30": "The game requires a moderate amount of time investment, but it is not excessive."
+  },
+  {
+    "q0": 44517423,
+    "q5": "The reviewer finds the combat mechanics to be standard and lacking innovation.",
+    "q6": "The game lacks strategic innovation.",
+    "q8": "The reviewer feels that the game does not offer new strategic elements.",
+    "q28": "The game is comfortable to play with flexible screen orientations and a visually pleasing interface."
+  },
+  {
+    "q0": 44512891,
+    "q28": "The game is enjoyable and fair, but the reviewer wishes for more rewards.",
+    "q32": "The reviewer appreciates the game's fairness but desires more free rewards."
+  },
+  {
+    "q0": 44490308,
+    "q28": "The game is engaging, but the reviewer finds it requires significant time investment.",
+    "q30": "The game demands a lot of time, which may be a barrier for some players."
+  },
+  {
+    "q0": 44471174,
+    "q5": "The reviewer considers the game the best turn-based mobile game they have played.",
+    "q28": "The reviewer is highly satisfied with the game, considering it the best in its genre."
+  },
+  {
+    "q0": 42881638,
+    "q5": "The reviewer feels the game has become more pay-to-win over time, making it difficult for free players.",
+    "q28": "The game has shifted towards catering to paying players, making it less accessible for free players.",
+    "q30": "The game has become more focused on monetization, which is frustrating for non-paying players."
+  },
+  {
+    "q0": 44466854,
+    "q28": "The game allows for free play, and the reviewer notes an improvement in its rating.",
+    "q32": "The game offers opportunities for free play, contributing to its improved rating."
+  },
+  {
+    "q0": 44272380,
+    "q28": "The game offers many rewards for returning players, making it suitable for long-term play.",
+    "q32": "The game provides ample rewards for returning players, enhancing the experience."
+  },
+  {
+    "q0": 44180773,
+    "q28": "The game is enjoyable with a fixed team, and the reviewer appreciates the game's overall design.",
+    "q30": "The game is more enjoyable with a fixed team, and the reviewer finds the overall experience positive."
+  },
+  {
+    "q0": 44141165,
+    "q28": "The game is playable with a three-card setup, and zero-spending players can still enjoy it.",
+    "q30": "The game offers a fair experience for both paying and non-paying players.",
+    "q32": "The game provides a reasonable amount of resources and rewards for players."
+  },
+  {
+    "q0": 44123692,
+    "q28": "The game is heavily monetized, with many bugs and issues affecting the experience.",
+    "q30": "The game has a high level of monetization, which may be off-putting for some players."
+  },
+  {
+    "q0": 44072506,
+    "q28": "The game is accessible to free players, and the reviewer plans to provide a guide for others.",
+    "q32": "The game is accessible to free players, and the reviewer intends to share their experience."
+  }
+]
+```

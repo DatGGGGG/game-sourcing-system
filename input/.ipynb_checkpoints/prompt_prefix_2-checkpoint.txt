@@ -1,0 +1,134 @@
+Instruction:
+
+Now I want you to go through the user reviews that I will give to you at the end of this prompt, analyze them and extract user opinion about the game from each review.
+
+Q0: review_id
+ 
+Q1: Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)
+Q2: List the sensitive content mentioned, if any.
+
+Q3: Summarize the core combat mechanics (or “N/A” if not mentioned).
+Q4: Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”
+Q5: Reason for previous question’s rating
+
+Q6: List the strategic/tactical features mentioned, if any.
+Q7: Rate strategic/tactical depth: -2 to 2 or “N/A”
+Q8: Reason for previous question’s rating
+
+Q9: Rate game progression: -2 to 2 or “N/A”
+Q10: Reason for previous question’s rating
+
+Q11: Rate hero balance: -2 to 2 or “N/A”
+Q12: Reason for previous question’s rating
+
+Q13: Rate hero/team build diversity: -2 to 2 or “N/A”
+Q14: Reason for previous question’s rating
+
+Q15: Describe the secondary core loop (or “N/A”)
+Q16: Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)
+Q17: Rate simplicity of the secondary loop: -2 to 2 or “N/A”
+Q18: Reason for previous question’s rating
+Q19: Rate resources earned from the secondary loop: -2 to 2 or “N/A”
+Q20: Reason for previous question’s rating
+
+Q21: Rate frequency of content/meta updates: -2 to 2 or “N/A”
+Q22: Reason for previous question’s rating
+
+Q23: Does the game have a gacha guarantee system? (True/False/“N/A”)
+Q24: Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”
+Q25: Rate reasonableness of gacha pull price: -2 to 2 or “N/A”
+Q26: Reason for previous question’s rating
+
+Q27: Rate major feature access for non-paying users: -2 to 2 or “N/A”
+Q28: Reason for previous question’s rating
+Q29: Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”
+Q30: Reason for previous question’s rating
+Q31: Rate quality/quantity of free rewards: -2 to 2 or “N/A”
+Q32: Reason for previous question’s rating
+
+Q33: Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.
+Q34: Briefly describe the IP if answer to previous question is True, else answer “N/A”
+Q35: Rate IP integration depth: -2 to 2 or “N/A”
+Q36: Reason for previous question’s rating
+
+Q37: Rate lightness of installation file: -2 to 2 or “N/A”
+Q38: Reason for previous question’s rating
+Q39: Rate in-game download experience: -2 to 2 or “N/A”
+Q40: Reason for previous question’s rating
+
+Q41: Briefly list other issues (not captured by the questions above)
+
+Output Requirements:
+- ALL RESPONSES MUST BE IN ENGLISH!
+- Return only a JSON array that contains the analysis results for the input reviews —no markdown, explanations, or extra text
+- Each JSON property corresponds to a question above through the question code (Q1, Q2, Q3, etc.)
+- Exclude lines having answers being “N/A”. Only include non - N/A answers in the JSON output! However, for those reviews whose answers are all N/A then still include the property “q0” (the review_id) in returning result
+- Use this JSON structure:
+[
+  {
+    "q0": INTEGER,
+
+    "q1": true or false or "N/A",
+    "q2": STRING or "N/A",
+
+    "q3": STRING or "N/A",
+    "q4": -2 to 2 or "N/A",
+    "q5": STRING or "N/A",
+
+    "q6": STRING or "N/A",
+    "q7": -2 to 2 or "N/A",
+    "q8": STRING or "N/A",
+
+    "q9": -2 to 2 or "N/A",
+    "q10": STRING or "N/A",
+
+    "q11": -2 to 2 or "N/A",
+    "q12": STRING or "N/A",
+
+    "q13": -2 to 2 or "N/A",
+    "q14": STRING or "N/A",
+
+    "q15": STRING or "N/A",
+    "q16": true or false or "N/A",
+    "q17": -2 to 2 or "N/A",
+    "q18": STRING or "N/A",
+    "q19": -2 to 2 or "N/A",
+    "q20": STRING or "N/A",
+
+    "q21": -2 to 2 or "N/A",
+    "q22": STRING or "N/A",
+
+    "q23": true or false or "N/A",
+    "q24": STRING or "N/A",
+    "q25": -2 to 2 or "N/A",
+    "q26": STRING or "N/A",
+
+    "q27": -2 to 2 or "N/A",
+    "q28": STRING or "N/A",
+    "q29": -2 to 2 or "N/A",
+    "q30": STRING or "N/A",
+    "q31": -2 to 2 or "N/A",
+    "q32": STRING or "N/A",
+
+    "q33": true or false or "N/A",
+    "q34": STRING or "N/A",
+    "q35": -2 to 2 or "N/A",
+    "q36": STRING or "N/A",
+
+    "q37": -2 to 2 or "N/A",
+    "q38": STRING or "N/A",
+    "q39": -2 to 2 or "N/A"
+    "q40": STRING or "N/A",
+
+    "q41": STRING or "N/A",
+  },
+ {
+    "q0": INTEGER,
+
+    "q1": true or false or "N/A",
+    "q2": STRING or "N/A",
+    …
+},
+…
+]
+

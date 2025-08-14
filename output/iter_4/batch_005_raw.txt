@@ -1,0 +1,252 @@
+```json
+[
+  {
+    "q0": 39983277,
+    "q5": "The user finds the game enjoyable and easy in the early stages with the right resources."
+  },
+  {
+    "q0": 39996993,
+    "q5": "The user finds the game quite good and worth recommending."
+  },
+  {
+    "q0": 39996426,
+    "q5": "The user lost their account after spending a lot of money, leading to dissatisfaction."
+  },
+  {
+    "q0": 39969631,
+    "q5": "The user feels the daily tasks are too long and tedious, making the game feel like a job."
+  },
+  {
+    "q0": 39940905,
+    "q5": "The user finds the game boring with poor graphics and too many game agents."
+  },
+  {
+    "q0": 39826432,
+    "q5": "The user dislikes the AI-generated illustrations, finding them disgusting."
+  },
+  {
+    "q0": 39818707,
+    "q5": "The user dislikes the vertical screen format but appreciates the art."
+  },
+  {
+    "q0": 39805040,
+    "q5": "The user finds the graphics excellent and the game very enjoyable."
+  },
+  {
+    "q0": 39801001,
+    "q5": "The user finds the game grindy and slow-paced without spending money."
+  },
+  {
+    "q0": 39784544,
+    "q5": "The user finds the game boring with limited rewards and repetitive tasks."
+  },
+  {
+    "q0": 39749509,
+    "q5": "The user appreciates the art and content but finds it overwhelming."
+  },
+  {
+    "q0": 39699219,
+    "q5": "The user is frustrated with unchangeable attributes and poor customer service."
+  },
+  {
+    "q0": 39695441,
+    "q5": "The user is frustrated with the daily tasks and poor rewards."
+  },
+  {
+    "q0": 39671188,
+    "q5": "The user finds the number of activities overwhelming."
+  },
+  {
+    "q0": 39583002,
+    "q5": "The user is frustrated with the pay-to-win aspects and poor customer service."
+  },
+  {
+    "q0": 39628142,
+    "q5": "The user is frustrated with the lack of rewards and poor customer service."
+  },
+  {
+    "q0": 39626444,
+    "q5": "The user finds the game complex and difficult to play alone."
+  },
+  {
+    "q0": 39602121,
+    "q5": "The user is frustrated with account bans and poor customer service."
+  },
+  {
+    "q0": 39586293,
+    "q5": "The user finds the game not too grindy or pay-to-win."
+  },
+  {
+    "q0": 34656303,
+    "q5": "The user finds the game fair in terms of spending and appreciates the art."
+  },
+  {
+    "q0": 39507840,
+    "q5": "The user finds the events lacking in sincerity and filled with pay-to-win elements."
+  },
+  {
+    "q0": 39489227,
+    "q5": "The user is frustrated with the poor balance of game professions."
+  },
+  {
+    "q0": 39433521,
+    "q5": "The user is frustrated with the large data download without warning."
+  },
+  {
+    "q0": 39430566,
+    "q5": "The user is frustrated with the lack of communication and transparency from the developers."
+  },
+  {
+    "q0": 39429394,
+    "q5": "The user finds the game too pay-to-win."
+  },
+  {
+    "q0": 39414411,
+    "q5": "The user is frustrated with account bans."
+  },
+  {
+    "q0": 39404904,
+    "q5": "The user finds it difficult to find team members and feels the game is filled with bots."
+  },
+  {
+    "q0": 39288028,
+    "q5": "The user finds the gameplay too traditional."
+  },
+  {
+    "q0": 39202152,
+    "q5": "The user feels the game should not be compared to 'Wen Dao' due to its free-to-play nature."
+  },
+  {
+    "q0": 39174911,
+    "q5": "The user finds the game similar to the advertisement but the graphics cluttered."
+  },
+  {
+    "q0": 39089856,
+    "q5": "The user finds the game very enjoyable despite quitting for some time."
+  },
+  {
+    "q0": 38990119,
+    "q5": "The user finds the game boring and similar to 'Da Hua Xi You'."
+  },
+  {
+    "q0": 38926974,
+    "q5": "The user is seeking clarification on game mechanics and strategies."
+  },
+  {
+    "q0": 38893810,
+    "q5": "The user finds the anniversary event underwhelming and lacking in rewards."
+  },
+  {
+    "q0": 38881247,
+    "q5": "The user finds the anniversary event disappointing and lacking in rewards."
+  },
+  {
+    "q0": 38851690,
+    "q5": "The user finds the game different from the promotional material and similar to web games."
+  },
+  {
+    "q0": 38753747,
+    "q5": "The user finds the game's quality lacking."
+  },
+  {
+    "q0": 38710230,
+    "q5": "The user finds the game boring and repetitive."
+  },
+  {
+    "q0": 38669829,
+    "q5": "The user finds the game enjoyable and relaxing."
+  },
+  {
+    "q0": 38652693,
+    "q5": "The user finds the game too focused on monetization."
+  },
+  {
+    "q0": 38569693,
+    "q5": "The user finds the game filled with bots and difficult to find team members."
+  },
+  {
+    "q0": 38566230,
+    "q5": "The user finds the game environment unfriendly to newcomers."
+  },
+  {
+    "q0": 38432461,
+    "q5": "The user is frustrated with the game downloading data without warning."
+  },
+  {
+    "q0": 38380224,
+    "q5": "The user finds the game relaxing and not too grindy."
+  },
+  {
+    "q0": 38379400,
+    "q5": "The user finds the graphics and storyline impeccable."
+  },
+  {
+    "q0": 38365051,
+    "q5": "The user finds the game good but lacking in players."
+  },
+  {
+    "q0": 38312241,
+    "q5": "The user finds the game more enjoyable than expected and not too time-consuming."
+  },
+  {
+    "q0": 38318236,
+    "q5": "The user is frustrated with account bans and poor customer service."
+  },
+  {
+    "q0": 38305387,
+    "q5": "The user finds the game less pay-to-win compared to others and enjoyable."
+  },
+  {
+    "q0": 38304211,
+    "q5": "The user finds the game too focused on PvP and pay-to-win."
+  },
+  {
+    "q0": 38257106,
+    "q5": "The user finds the game enjoyable, especially with friends, but challenging solo."
+  },
+  {
+    "q0": 38254097,
+    "q5": "The user is frustrated with the monetization and binding of resources."
+  },
+  {
+    "q0": 38238777,
+    "q5": "The user provides tips on resource management and progression."
+  },
+  {
+    "q0": 38223071,
+    "q5": "The user finds the game enjoyable but too pay-to-win for free players."
+  },
+  {
+    "q0": 38214272,
+    "q5": "The user is frustrated with the lack of control and poor rewards."
+  },
+  {
+    "q0": 38203639,
+    "q5": "The user finds the game's advertising tactics annoying."
+  },
+  {
+    "q0": 38198835,
+    "q5": "The user finds the game very enjoyable and engaging."
+  },
+  {
+    "q0": 38178604,
+    "q5": "The user finds the game too grindy and pay-to-win."
+  },
+  {
+    "q0": 38154309,
+    "q5": "The user finds the game requires too much teamwork and lacks solo play options."
+  },
+  {
+    "q0": 38145312,
+    "q5": "The user finds the game very enjoyable and appreciates the lack of monetization pressure."
+  },
+  {
+    "q0": 35385189,
+    "q5": "The user is frustrated with frequent changes and lack of transparency."
+  },
+  {
+    "q0": 38127277,
+    "q5": "The user finds the game exciting and captivating."
+  }
+]
+```

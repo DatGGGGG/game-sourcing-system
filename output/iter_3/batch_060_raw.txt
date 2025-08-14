@@ -1,0 +1,77 @@
+```json
+[
+  {
+    "q0": 23707983,
+    "q5": "The user is concerned about the repetitive mechanics of capturing pets and the potential for heavy monetization.",
+    "q29": -2,
+    "q30": "The user mentions the game could be a monetization trap with heavy spending required."
+  },
+  {
+    "q0": 23707050,
+    "q5": "The user hopes for improvements in gameplay beyond just aesthetics.",
+    "q27": 0,
+    "q28": "The user requests the game to be more friendly to light spenders."
+  },
+  {
+    "q0": 23706857,
+    "q5": "The user hopes for balanced mechanics that allow non-paying players to enjoy the game.",
+    "q27": 0,
+    "q28": "The user desires a balanced game where non-paying players can still enjoy the game."
+  },
+  {
+    "q0": 23704188,
+    "q5": "The user will rate the game poorly if it resembles '梦幻西游'."
+  },
+  {
+    "q0": 23702814,
+    "q5": "The user is concerned about short-term monetization events.",
+    "q29": -2,
+    "q30": "The user is wary of monetization strategies that rely on frequent events to encourage spending."
+  },
+  {
+    "q0": 23687663,
+    "q5": "The user criticizes the game for being a reskin of existing games.",
+    "q29": -2,
+    "q30": "The user feels the game is not innovative and is just a reskin of existing games."
+  },
+  {
+    "q0": 23686969,
+    "q5": "The user is not optimistic about the gameplay despite liking the art style."
+  },
+  {
+    "q0": 23686726,
+    "q29": -2,
+    "q30": "The user is concerned about frequent monetization prompts and the pressure to spend."
+  },
+  {
+    "q0": 23685315,
+    "q5": "The user prefers real-time combat over turn-based due to time efficiency."
+  },
+  {
+    "q0": 23684191,
+    "q5": "The user appreciates the art style and turn-based gameplay but desires good optimization and simplicity in UI.",
+    "q29": 0,
+    "q30": "The user hopes for a balanced monetization approach."
+  },
+  {
+    "q0": 23681105,
+    "q5": "The user is concerned about the need to spend money to be strong in the game.",
+    "q29": -2,
+    "q30": "The user has experienced similar games where spending is necessary to progress."
+  },
+  {
+    "q0": 23675340,
+    "q5": "The user is excited about a new turn-based game but concerned about potential monetization issues.",
+    "q29": -2,
+    "q30": "The user hopes the game does not incorporate heavy monetization from card games."
+  },
+  {
+    "q0": 23672415,
+    "q5": "The user perceives the game as potentially requiring heavy spending."
+  },
+  {
+    "q0": 23669687,
+    "q5": "The user suspects the game might be a re-skinned version of another game."
+  }
+]
+```

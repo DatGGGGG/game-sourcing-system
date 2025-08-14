@@ -1,0 +1,297 @@
+```json
+[
+    {
+        "q0": 33697831,
+        "q5": "The user likes the art style but finds it difficult to remember to log in for limited-time events."
+    },
+    {
+        "q0": 33697236,
+        "q5": "The user is unsure about the usefulness of certain characters and was surprised by the healing abilities of a character they did not expect."
+    },
+    {
+        "q0": 33696156,
+        "q5": "The user finds certain character combinations essential for tower climbing but suggests changing the output character for better performance."
+    },
+    {
+        "q0": 33694920,
+        "q5": "The user is frustrated with the gem system, finding it costly and difficult to obtain gems outside of limited sources."
+    },
+    {
+        "q0": 33693818,
+        "q14": "The user appreciates the diversity in pet choices, noting that pets can be upgraded and are not strictly better based on tier."
+    },
+    {
+        "q0": 33687071,
+        "q5": "The user feels that the reward from the first recharge is not useful for their character and wishes for better control abilities."
+    },
+    {
+        "q0": 33686507,
+        "q5": "The user is dissatisfied with the healing capabilities in the game and suggests improvements."
+    },
+    {
+        "q0": 33683973,
+        "q5": "The user is concerned about the timing of rebates and suggests they should be distributed earlier for more impact."
+    },
+    {
+        "q0": 33683380,
+        "q21": -1,
+        "q22": "The user feels that recent tests have not brought significant changes to gameplay and suggests more frequent updates based on player feedback."
+    },
+    {
+        "q0": 33682932,
+        "q5": "The user supports the art style and idle rewards but finds the team instances too complex for a vertical game meant for casual play."
+    },
+    {
+        "q0": 33676168,
+        "q5": "The user finds fixed teams unnecessary unless all members can log in at the same time, as daily tasks are often done individually."
+    },
+    {
+        "q0": 33673373,
+        "q5": "The user finds the early game story repetitive and cannot skip the tutorial, which diminishes their patience."
+    },
+    {
+        "q0": 33672570,
+        "q5": "The user is frustrated with the main storyline's repetition and the design of a specific tower-climbing mechanic."
+    },
+    {
+        "q0": 33665976,
+        "q5": "The user appreciates the art but feels the gameplay does not live up to its potential."
+    },
+    {
+        "q0": 33655539,
+        "q5": "The user is dissatisfied with the art style, finding it inconsistent with the game's theme."
+    },
+    {
+        "q0": 33645256,
+        "q5": "The user suggests the game should remain casual and vertical, with more common gameplay styles for vertical games."
+    },
+    {
+        "q0": 33636525,
+        "q5": "The user finds the camera angle uncomfortable and suggests an alternative."
+    },
+    {
+        "q0": 33624918,
+        "q21": -1,
+        "q22": "The user is concerned about the lack of new pets and factions in updates."
+    },
+    {
+        "q0": 33617785,
+        "q5": "The user finds a specific character strong and suggests strategies for maximizing its damage output."
+    },
+    {
+        "q0": 33617342,
+        "q5": "The user is surprised by the presence of discounted recharges in a test game."
+    },
+    {
+        "q0": 33617083,
+        "q5": "The user is confused about the mana system and suggests adding a mana bar for clarity."
+    },
+    {
+        "q0": 33616004,
+        "q5": "The user appreciates the increased customization options in the wardrobe and suggests similar features for pets."
+    },
+    {
+        "q0": 33613529,
+        "q5": "The user often forgets to participate in limited-time events, leading to missed rewards."
+    },
+    {
+        "q0": 33611800,
+        "q5": "The user finds a specific item cheap and abundant, making it a preferred choice for upgrading attributes."
+    },
+    {
+        "q0": 33611012,
+        "q5": "The user praises a specific character for its strong stats and ability to quickly eliminate opponents."
+    },
+    {
+        "q0": 33610269,
+        "q5": "The user is impressed with a character's skill that allows for multiple attacks, suggesting high damage potential."
+    },
+    {
+        "q0": 33606726,
+        "q33": true,
+        "q34": "The game may have integrated elements from 'Peach Blossom Spring'.",
+        "q35": -1,
+        "q36": "The user suggests that the game may have used intellectual property without proper licensing."
+    },
+    {
+        "q0": 33604886,
+        "q5": "The user suggests a more flexible system for acquiring and focusing resources on specific characters."
+    },
+    {
+        "q0": 33604142,
+        "q5": "The user is frustrated with the need to frequently upgrade pets every 10 levels due to resource constraints."
+    },
+    {
+        "q0": 33602145,
+        "q5": "The user is highly critical of the game's monetization strategy and the treatment of players, especially during testing phases."
+    },
+    {
+        "q0": 33602104,
+        "q5": "The user discusses the effectiveness of specific skills and the variability in their success rates."
+    },
+    {
+        "q0": 33565087,
+        "q5": "The user is critical of the game's testing strategy and the perceived disregard for paying players."
+    },
+    {
+        "q0": 33554220,
+        "q5": "The user finds limited-time events detrimental to the game experience."
+    },
+    {
+        "q0": 33546148,
+        "q5": "The user appreciates the variety of factions, allowing for balanced team compositions."
+    },
+    {
+        "q0": 33544820,
+        "q5": "The user finds it challenging to maintain a fixed team due to differing schedules."
+    },
+    {
+        "q0": 33540442,
+        "q5": "The user suggests simplifying daily tasks and making certain activities available all day to accommodate players' schedules."
+    },
+    {
+        "q0": 33496236,
+        "q5": "The user finds the game lacks freedom and is repetitive, primarily involving team-based activities."
+    },
+    {
+        "q0": 33484685,
+        "q5": "The user finds a specific character very useful in both offensive and supportive roles."
+    },
+    {
+        "q0": 33449945,
+        "q5": "The user feels the battle scenes lack dynamism and presence, making them feel static."
+    },
+    {
+        "q0": 33441051,
+        "q5": "The user appreciates the cute style but desires more diversity in character and pet appearances."
+    },
+    {
+        "q0": 33440409,
+        "q5": "The user finds team instances cumbersome due to scheduling conflicts and suggests more solo content."
+    },
+    {
+        "q0": 33439909,
+        "q5": "The user finds the game demanding and not as relaxing as expected for a vertical game."
+    },
+    {
+        "q0": 33439222,
+        "q5": "The user finds the introductory story too long and repetitive, especially for those who have seen it multiple times."
+    },
+    {
+        "q0": 33438453,
+        "q5": "The user enjoys the strategic aspect of the game, particularly in tower climbing."
+    },
+    {
+        "q0": 33437760,
+        "q5": "The user finds the game unfriendly to working adults due to the time commitment required for daily tasks."
+    },
+    {
+        "q0": 33434531,
+        "q5": "The user finds the acquisition of certain items insufficient and costly."
+    },
+    {
+        "q0": 33432650,
+        "q5": "The user feels a specific faction needs strengthening to be more competitive."
+    },
+    {
+        "q0": 33423210,
+        "q5": "The user is concerned about class balance, feeling that some classes are unfairly restricted."
+    },
+    {
+        "q0": 33421732,
+        "q5": "The user appreciates the social system but suggests additional features to enhance interaction."
+    },
+    {
+        "q0": 33420346,
+        "q5": "The user likes the collection feature and suggests adding a pet synthesis function."
+    },
+    {
+        "q0": 33419698,
+        "q5": "The user is disappointed that a character customization feature was removed in recent tests."
+    },
+    {
+        "q0": 33419073,
+        "q5": "The user desires more visual customization options for pets."
+    },
+    {
+        "q0": 33418417,
+        "q5": "The user is disappointed that some pets do not have humanoid final forms."
+    },
+    {
+        "q0": 33416634,
+        "q5": "The user finds the game's quality acceptable."
+    },
+    {
+        "q0": 31366598,
+        "q5": "The user finds the number of story animations excessive and annoying."
+    },
+    {
+        "q0": 33409503,
+        "q5": "The user finds the game more demanding than expected for a vertical game, which they thought would be more casual."
+    },
+    {
+        "q0": 33408397,
+        "q5": "The user appreciates the vertical format and certain features but hopes for additional systems in the future."
+    },
+    {
+        "q0": 33407916,
+        "q5": "The user finds daily tasks tedious and wishes for a more streamlined process."
+    },
+    {
+        "q0": 33406249,
+        "q5": "The user finds the game lacks innovation, with familiar gameplay elements."
+    },
+    {
+        "q0": 33397480,
+        "q5": "The user was surprised by the team-based gameplay, finding it a novel approach for a vertical MMO."
+    },
+    {
+        "q0": 33396301,
+        "q5": "The user has shifted from competitive play to treating the game as a collection experience."
+    },
+    {
+        "q0": 33396252,
+        "q5": "The user suggests removing limited-time events, which are inconvenient for working players."
+    },
+    {
+        "q0": 33395541,
+        "q5": "The user finds the game's interface simple and more comfortable compared to other vertical games."
+    },
+    {
+        "q0": 33387463,
+        "q5": "The user regrets their class choice due to its lack of demand in team compositions."
+    },
+    {
+        "q0": 33386750,
+        "q5": "The user enjoys the challenge of high-level content and feels their class is essential for certain activities."
+    },
+    {
+        "q0": 33386021,
+        "q5": "The user finds early game resources sufficient and suggests saving premium currency for other uses."
+    },
+    {
+        "q0": 33384392,
+        "q5": "The user feels overwhelmed trying to keep up with top players and has decided to play more casually."
+    },
+    {
+        "q0": 33382710,
+        "q5": "The user finds their equipment lacking compared to others and suggests further upgrading."
+    },
+    {
+        "q0": 33372305,
+        "q5": "The user finds keeping up with the game's progression exhausting and difficult to maintain."
+    },
+    {
+        "q0": 33370579,
+        "q5": "The user feels the game's classes lack distinctiveness, with output and support being the primary roles."
+    },
+    {
+        "q0": 33368314,
+        "q5": "The user appreciates the gradual unlocking of gameplay features as they level up."
+    },
+    {
+        "q0": 33366785,
+        "q5": "The user finds daily tasks burdensome, likening them to work."
+    }
+]
+```

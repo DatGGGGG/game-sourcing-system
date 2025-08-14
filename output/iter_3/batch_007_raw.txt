@@ -1,0 +1,107 @@
+```json
+[
+  {
+    "q0": 39398965,
+    "q29": -2,
+    "q30": "The game is too pay-to-win."
+  },
+  {
+    "q0": 39377871,
+    "q41": "Forced to watch cutscenes, which is annoying."
+  },
+  {
+    "q0": 39363940,
+    "q5": "The gameplay feels a bit complicated.",
+    "q6": "Complex gameplay mechanics."
+  },
+  {
+    "q0": 34543449,
+    "q9": -2,
+    "q10": "Progression becomes very difficult and expensive after level 89.",
+    "q29": -2,
+    "q30": "Heavy spending required to progress after level 89."
+  },
+  {
+    "q0": 39297487,
+    "q21": -2,
+    "q22": "No noteworthy events since launch."
+  },
+  {
+    "q0": 39237410,
+    "q29": -2,
+    "q30": "Free players are forced to be punching bags for paying players."
+  },
+  {
+    "q0": 39148719,
+    "q9": -2,
+    "q10": "Difficult for new players to progress without a team.",
+    "q41": "New players struggle to find teams to complete tasks."
+  },
+  {
+    "q0": 39138286,
+    "q41": "Fixed online times make it hard for players with unstable schedules."
+  },
+  {
+    "q0": 39115208,
+    "q41": "Good graphics and cute pets."
+  },
+  {
+    "q0": 39033268,
+    "q37": -2,
+    "q38": "The game secretly downloads large amounts of data without notifying the player."
+  },
+  {
+    "q0": 38978220,
+    "q41": "Good character art, but not enough tasks."
+  },
+  {
+    "q0": 38936862,
+    "q41": "Game not optimized for full-screen displays, causing black bars."
+  },
+  {
+    "q0": 38926836,
+    "q41": "Certain characters and strategies require significant resources."
+  },
+  {
+    "q0": 38902559,
+    "q41": "High resource requirements for certain characters and strategies."
+  },
+  {
+    "q0": 38903473,
+    "q41": "Server issues during anniversary event, making it difficult to participate."
+  },
+  {
+    "q0": 38902090,
+    "q41": "Frequent bugs during events."
+  },
+  {
+    "q0": 38884574,
+    "q29": -2,
+    "q30": "Players feel forced to spend money to obtain certain items."
+  },
+  {
+    "q0": 38871506,
+    "q41": "Issues with reserving new server slots."
+  },
+  {
+    "q0": 38227619,
+    "q29": -2,
+    "q30": "Significant time investment required, with many players purchasing monthly cards.",
+    "q41": "Balanced character and pet mechanics, with a need for social interaction."
+  },
+  {
+    "q0": 38298366,
+    "q29": -2,
+    "q30": "Game environment feels heavily monetized and exploitative."
+  },
+  {
+    "q0": 38282045,
+    "q29": -2,
+    "q30": "High spending required to compete with top players."
+  },
+  {
+    "q0": 38072541,
+    "q41": "Many game promoters encourage spending money."
+  }
+]
+```

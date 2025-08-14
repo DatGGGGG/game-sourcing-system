@@ -1,0 +1,242 @@
+```json
+[
+  {
+    "q0": 36820066,
+    "q5": "The user is frustrated with bugs that prevent task completion and level progression."
+  },
+  {
+    "q0": 36819790,
+    "q5": "The user finds the character 聂隐娘 very useful and mentions improvements in the 唐门 class, making team formation easier."
+  },
+  {
+    "q0": 36818422,
+    "q5": "The user feels it's difficult to keep up with top players in terms of level progression."
+  },
+  {
+    "q0": 36800175,
+    "q5": "The user is frustrated with poor event management and the introduction of new exchange items after previous ones are used up."
+  },
+  {
+    "q0": 36780561,
+    "q5": "The user is disappointed that the 粽子 transformation cannot be experienced in advance and wishes it were a permanent item."
+  },
+  {
+    "q0": 36772973,
+    "q5": "The user suggests simplifying daily tasks with one-click management or using currency to retrieve rewards."
+  },
+  {
+    "q0": 36772626,
+    "q5": "The user finds the 小书灵 accessory cute and wonders about future similar items."
+  },
+  {
+    "q0": 36772196,
+    "q5": "The user notes a pattern of level caps every 20 levels, causing progression delays."
+  },
+  {
+    "q0": 36771421,
+    "q5": "The user finds the 双生花's ability to protect both halves impressive but is unsure about setting the starting order."
+  },
+  {
+    "q0": 36763034,
+    "q5": "The user finds the game too ordinary with an unappealing art style reminiscent of web games."
+  },
+  {
+    "q0": 36726803,
+    "q5": "The user is inquiring about the opening of a new server to start playing."
+  },
+  {
+    "q0": 35250540,
+    "q1": true,
+    "q2": "Heavy monetization, stealth changes",
+    "q5": "The user criticizes the game for heavy monetization and stealth changes, making it difficult for non-paying players to compete in PvP."
+  },
+  {
+    "q0": 36659999,
+    "q5": "The user is frustrated with the increasing number of limited-time events and the difficulty of finding team members."
+  },
+  {
+    "q0": 36617446,
+    "q5": "The user finds the graphics crude but appreciates the moderate difficulty of the turn-based gameplay."
+  },
+  {
+    "q0": 36598620,
+    "q5": "The user finds the game very enjoyable with unique gameplay combinations that become more engaging over time."
+  },
+  {
+    "q0": 36572588,
+    "q5": "The user appreciates the good graphics and smooth network performance."
+  },
+  {
+    "q0": 33940498,
+    "q5": "The user provides detailed insights into gameplay, emphasizing the importance of strategic planning and resource management."
+  },
+  {
+    "q0": 34486987,
+    "q5": "The user has decided to quit the game due to dissatisfaction with the current state and changes in the game."
+  },
+  {
+    "q0": 36169148,
+    "q5": "The user is frustrated with the imbalance in class adjustments, feeling that some classes are unfairly weakened."
+  },
+  {
+    "q0": 36462766,
+    "q5": "The user suspects a significant number of fake players or '托' in the game."
+  },
+  {
+    "q0": 36462633,
+    "q5": "The user is upset about stealth changes to the 资质丹, feeling the game is only focused on stealth changes."
+  },
+  {
+    "q0": 36460253,
+    "q5": "The user finds the art style childish and the vertical interface only suitable for casual play."
+  },
+  {
+    "q0": 36459188,
+    "q5": "The user is frustrated with the prevalence of game promoters and the pressure to spend money."
+  },
+  {
+    "q0": 36455932,
+    "q5": "The user is inquiring about adjustments to the 唐门 class and is considering returning if changes are made."
+  },
+  {
+    "q0": 36442166,
+    "q5": "The user is upset about the 资质丹 incident, feeling it tarnishes an otherwise good game."
+  },
+  {
+    "q0": 36440880,
+    "q5": "The user is frustrated with aggressive monetization prompts during level-ups."
+  },
+  {
+    "q0": 36439231,
+    "q5": "The user is frustrated with the prevalence of paid players and the game's monetization model."
+  },
+  {
+    "q0": 36433595,
+    "q5": "The user finds the game's art style lacking and the combat scenes unimpressive."
+  },
+  {
+    "q0": 36404392,
+    "q5": "The user is frustrated with the game's stealth changes affecting resource acquisition."
+  },
+  {
+    "q0": 36374017,
+    "q5": "The user appreciates the character art but finds the content lacking."
+  },
+  {
+    "q0": 36372942,
+    "q5": "The user finds the game relaxing and suitable for casual play."
+  },
+  {
+    "q0": 36323013,
+    "q5": "The user enjoys the game but feels the character design could be improved."
+  },
+  {
+    "q0": 36316207,
+    "q5": "The user finds the art style and storyline unappealing."
+  },
+  {
+    "q0": 35484559,
+    "q5": "The user finds the game enjoyable with a fixed team and appreciates the vertical screen format."
+  },
+  {
+    "q0": 36291302,
+    "q5": "The user finds the game experience poor due to repetitive tasks and bugs."
+  },
+  {
+    "q0": 36287917,
+    "q5": "The user finds the game enjoyable but time-consuming, leading to quitting due to lack of time."
+  },
+  {
+    "q0": 36273874,
+    "q5": "The user is frustrated with the expiration of exchange coupons and poor event management."
+  },
+  {
+    "q0": 36255847,
+    "q5": "The user is frustrated with being permanently banned without playing due to alleged data anomalies."
+  },
+  {
+    "q0": 36232739,
+    "q5": "The user feels that it's impossible to succeed in the game without spending money."
+  },
+  {
+    "q0": 36232697,
+    "q5": "The user finds the game a simplified version of 大话西游 with less appealing graphics."
+  },
+  {
+    "q0": 36227217,
+    "q5": "The user wishes for both horizontal and vertical screen compatibility and appreciates the game's accessibility for low-spending players."
+  },
+  {
+    "q0": 36212261,
+    "q5": "The user finds the game grindy and time-consuming, with a heavy reliance on luck."
+  },
+  {
+    "q0": 35924946,
+    "q5": "The user criticizes the game for being a 'frankenstein' product with poor gameplay despite not being heavily monetized."
+  },
+  {
+    "q0": 36175456,
+    "q5": "The user is skeptical about the game due to its association with a known company."
+  },
+  {
+    "q0": 36157193,
+    "q5": "The user appreciates the beautiful graphics."
+  },
+  {
+    "q0": 36137708,
+    "q5": "The user is exhausted from spending too much time on repetitive tasks like ghost hunting."
+  },
+  {
+    "q0": 36134042,
+    "q5": "The user appreciates the improved matchmaking speed after server merges."
+  },
+  {
+    "q0": 36131514,
+    "q5": "The user finds the game enjoyable for non-spenders but emphasizes the importance of luck in PvE."
+  },
+  {
+    "q0": 36129672,
+    "q5": "The user is frustrated with the new version's binding system, suggesting it should be a single-player game."
+  },
+  {
+    "q0": 36123747,
+    "q5": "The user finds it easy to earn in-game currency but criticizes the lack of free trade."
+  },
+  {
+    "q0": 36116383,
+    "q5": "The user is bored with the gameplay and finds the new costumes unattractive."
+  },
+  {
+    "q0": 36083309,
+    "q5": "The user finds the game unique but feels it's a 'frankenstein' product."
+  },
+  {
+    "q0": 36080158,
+    "q5": "The user finds the game enjoyable for low-spending players."
+  },
+  {
+    "q0": 36075079,
+    "q5": "The user is frustrated with the requirement to play all instances online and the difficulty in finding teammates."
+  },
+  {
+    "q0": 36056449,
+    "q5": "The user finds the game a waste of time with difficult team formations and repetitive tasks."
+  },
+  {
+    "q0": 36038443,
+    "q5": "The user is frustrated with the game's daily routine and the inefficiency of resource acquisition."
+  },
+  {
+    "q0": 36036744,
+    "q5": "The user is frustrated with the game's monetization and poor customer service."
+  },
+  {
+    "q0": 36032372,
+    "q5": "The user recommends the game and finds it enjoyable."
+  },
+  {
+    "q0": 36017053,
+    "q5": "The user finds the game playable for non-spenders but criticizes the monetization model."
+  }
+]
+```

@@ -1,0 +1,163 @@
+```json
+[
+  {
+    "q0": 43967732,
+    "q5": "The review describes the game as the most conscientious among all turn-based games played by the user, indicating a very positive satisfaction with the combat mechanics.",
+    "q9": 2,
+    "q10": "The game is described as the most conscientious turn-based game, suggesting a positive progression experience.",
+    "q27": 2,
+    "q28": "The review implies that the game is fair and considerate, likely offering good access to features for non-paying users."
+  },
+  {
+    "q0": 43959014,
+    "q5": "The user finds the game satisfactory for a turn-based game, indicating a positive combat experience.",
+    "q9": 1,
+    "q10": "The user finds the game satisfactory but suggests more benefits, indicating a generally positive progression with room for improvement.",
+    "q31": 1,
+    "q32": "The user hopes for more benefits, suggesting that while there are free rewards, they could be more generous."
+  },
+  {
+    "q0": 43957612,
+    "q15": "The game is described as a nurturing game, suggesting a secondary core loop of character or pet development.",
+    "q16": false,
+    "q17": 1,
+    "q18": "The game is playable without comparison, indicating a simple secondary loop.",
+    "q27": 1,
+    "q28": "The game is playable with a good mindset, suggesting reasonable access to features for non-paying users."
+  },
+  {
+    "q0": 43920383,
+    "q5": "The game is described as very fun and a long-term game, indicating a very positive combat experience.",
+    "q9": 2,
+    "q10": "The game is described as very fun and suitable for long-term play, indicating positive progression.",
+    "q27": 2,
+    "q28": "The game is described as providing many benefits for non-paying players, indicating good access to features.",
+    "q31": 2,
+    "q32": "The user mentions many benefits for non-paying players, indicating a generous amount of free rewards."
+  },
+  {
+    "q0": 43914443,
+    "q27": 2,
+    "q28": "The game is described as comfortable for non-paying players, indicating good access to features."
+  },
+  {
+    "q0": 43909501,
+    "q5": "The user praises the game's graphics, indicating satisfaction with the visual aspect of the game."
+  },
+  {
+    "q0": 43908018,
+    "q39": -2,
+    "q40": "The user experiences severe issues with the PC version, indicating a very negative in-game download experience."
+  },
+  {
+    "q0": 43892494,
+    "q39": -2,
+    "q40": "The user experiences frequent lag and issues, leading to a very negative in-game experience."
+  },
+  {
+    "q0": 43881055,
+    "q41": "The user struggles with finding team members for tasks, indicating issues with forced team play."
+  },
+  {
+    "q0": 43876312,
+    "q5": "The user finds the game very enjoyable, indicating a very positive combat experience."
+  },
+  {
+    "q0": 43846628,
+    "q41": "The user describes the server as a 'ghost server,' indicating a lack of active players."
+  },
+  {
+    "q0": 43842188,
+    "q41": "The user criticizes the auction system and event rules, indicating dissatisfaction with these features."
+  },
+  {
+    "q0": 43839620,
+    "q41": "The user describes the game as deceptive, with misleading events and announcements."
+  },
+  {
+    "q0": 43838297,
+    "q41": "The user reports inconsistencies in event rewards, indicating dissatisfaction with the game's reliability."
+  },
+  {
+    "q0": 43690553,
+    "q41": "The user is frustrated with the requirement to team up for all activities, indicating a lack of solo play options."
+  },
+  {
+    "q0": 43671248,
+    "q41": "The user reports frequent server issues and insufficient compensation, indicating dissatisfaction with server stability."
+  },
+  {
+    "q0": 43670673,
+    "q41": "The user is frustrated with event-related lag and insufficient compensation."
+  },
+  {
+    "q0": 43669858,
+    "q37": -2,
+    "q38": "The user is dissatisfied with the large installation file size."
+  },
+  {
+    "q0": 43668853,
+    "q41": "The user criticizes the lack of customer service and frequent disconnections."
+  },
+  {
+    "q0": 43668620,
+    "q41": "The user reports severe lag during events and insufficient compensation."
+  },
+  {
+    "q0": 43667712,
+    "q41": "The user describes the game as fraudulent with severe server issues."
+  },
+  {
+    "q0": 43667551,
+    "q41": "The user reports severe lag and issues with event participation."
+  },
+  {
+    "q0": 43667419,
+    "q41": "The user is frustrated with frequent lag during events."
+  },
+  {
+    "q0": 43667253,
+    "q41": "The user criticizes the server capacity and frequent lag, describing the game as money-focused."
+  },
+  {
+    "q0": 43667237,
+    "q41": "The user reports frequent lag and insufficient compensation, questioning the game's integrity."
+  },
+  {
+    "q0": 43667162,
+    "q41": "The user is frustrated with server issues and frequent disconnections."
+  },
+  {
+    "q0": 43667153,
+    "q41": "The user reports frequent lag and disconnections during events."
+  },
+  {
+    "q0": 43667147,
+    "q41": "The user suggests requesting refunds due to poor server performance and false advertising."
+  },
+  {
+    "q0": 43667138,
+    "q41": "The user reports severe lag and insufficient compensation during major events."
+  },
+  {
+    "q0": 43667137,
+    "q41": "The user criticizes server performance and insufficient compensation during events."
+  },
+  {
+    "q0": 43667104,
+    "q41": "The user reports frequent issues with specific events and insufficient compensation."
+  },
+  {
+    "q0": 43585276,
+    "q41": "The user finds the game different from its promotion, leading to disappointment."
+  },
+  {
+    "q0": 43577611,
+    "q5": "The user describes the game as one of the most conscientious, indicating a very positive combat experience."
+  },
+  {
+    "q0": 43564034,
+    "q41": "The user questions whether iOS and Android players are separated."
+  }
+]
+```

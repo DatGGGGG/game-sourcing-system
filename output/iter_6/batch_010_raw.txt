@@ -1,0 +1,48 @@
+```json
+[
+  {
+    "q0": 33083576,
+    "q5": "The combat mechanics have issues with target selection and UI problems, making it difficult to select target characters during battles.",
+    "q9": -1,
+    "q10": "The progression is hindered by UI issues and the complexity of finding tasks and challenges.",
+    "q11": -1,
+    "q12": "The balance is questioned due to the availability of powerful pets early on.",
+    "q27": -1,
+    "q28": "Non-paying users face challenges due to complex currency systems and low-value microtransactions.",
+    "q29": -1,
+    "q30": "The spending pressure is high due to low-value microtransactions and complex currency systems.",
+    "q31": 1,
+    "q32": "There are generous aspects like the ability to undo actions and well-crafted storylines.",
+    "q41": "UI issues, complex currency systems, and potential economic system instability."
+  },
+  {
+    "q0": 33707269,
+    "q27": 2,
+    "q28": "The game is described as not requiring spending money to enjoy, indicating good access for non-paying users."
+  },
+  {
+    "q0": 33704269,
+    "q41": "The importance of listening to player feedback is emphasized."
+  },
+  {
+    "q0": 31749123,
+    "q27": -1,
+    "q28": "The game is difficult to play without spending money, indicating limited access for non-paying users."
+  },
+  {
+    "q0": 31748925,
+    "q29": -1,
+    "q30": "Daily tasks are time-consuming, creating pressure to spend time or money."
+  },
+  {
+    "q0": 31725388,
+    "q11": -1,
+    "q12": "The balance is questioned as a starter pet is perceived to be stronger than many premium pets."
+  },
+  {
+    "q0": 31723184,
+    "q27": 2,
+    "q28": "The game is enjoyable without spending money, indicating good access for non-paying users."
+  }
+]
+```

@@ -1,0 +1,194 @@
+```json
+[
+  {
+    "q0": 35045194,
+    "q9": -2,
+    "q10": "Frequent changes without notice, perceived as negative by players.",
+    "q27": -2,
+    "q28": "Players feel pressured to spend money due to frequent changes.",
+    "q29": -2,
+    "q30": "Players feel the game is starting to exploit them financially."
+  },
+  {
+    "q0": 35201918,
+    "q9": -2,
+    "q10": "Game progression is perceived negatively due to increased difficulty and reduced rewards.",
+    "q27": -2,
+    "q28": "Non-paying users are pressured by changes that favor spending.",
+    "q29": -2,
+    "q30": "Players feel forced to spend money due to increased difficulty and reduced rewards."
+  },
+  {
+    "q0": 35363419,
+    "q27": -2,
+    "q28": "Players feel that updates have made it impossible to play without spending money."
+  },
+  {
+    "q0": 35363271,
+    "q19": -2,
+    "q20": "Players feel that resource acquisition has been significantly reduced.",
+    "q27": -2,
+    "q28": "Players feel that non-paying users have no chance due to reduced resources and paywalls."
+  },
+  {
+    "q0": 35363085,
+    "q9": -2,
+    "q10": "Frequent unannounced changes negatively impact player experience."
+  },
+  {
+    "q0": 34903520,
+    "q27": -2,
+    "q28": "Players feel misled by promises of free trade and are forced to spend money.",
+    "q29": -2,
+    "q30": "Players feel pressured to spend due to misleading game mechanics."
+  },
+  {
+    "q0": 35360141,
+    "q27": -2,
+    "q28": "Players feel cheated by the game mechanics and demand refunds."
+  },
+  {
+    "q0": 35332329,
+    "q11": -2,
+    "q12": "Players feel that monster and class balance is very poor.",
+    "q13": -2,
+    "q14": "Players feel that skill usage is too restricted and lacks impact.",
+    "q29": -2,
+    "q30": "Players feel pressured to spend due to unbalanced matchmaking."
+  },
+  {
+    "q0": 34249632,
+    "q9": -2,
+    "q10": "Frequent unannounced changes and poor management negatively impact progression.",
+    "q27": -2,
+    "q28": "Players feel that spending is necessary due to poor management and frequent changes.",
+    "q29": -2,
+    "q30": "Players feel pressured to spend due to poor management and frequent changes."
+  },
+  {
+    "q0": 35330419,
+    "q9": -2,
+    "q10": "Frequent unannounced changes and increased difficulty negatively impact progression.",
+    "q27": -2,
+    "q28": "Players feel that spending is necessary due to increased difficulty and reduced rewards.",
+    "q29": -2,
+    "q30": "Players feel pressured to spend due to increased difficulty and reduced rewards."
+  },
+  {
+    "q0": 35324976,
+    "q9": 2,
+    "q10": "Players appreciate the game as a good turn-based game for dedicated players."
+  },
+  {
+    "q0": 35324622,
+    "q9": 2,
+    "q10": "Players find the game enjoyable and easy to get into with the right guidance."
+  },
+  {
+    "q0": 35250538,
+    "q27": -2,
+    "q28": "Players feel that non-paying users are at a significant disadvantage without gear.",
+    "q29": -2,
+    "q30": "Players feel pressured to spend due to high gear costs."
+  },
+  {
+    "q0": 35250470,
+    "q11": -2,
+    "q12": "Players feel that class balance is extremely poor.",
+    "q27": -2,
+    "q28": "Players feel that spending is necessary due to poor balance and high costs.",
+    "q29": -2,
+    "q30": "Players feel pressured to spend due to poor balance and high costs."
+  },
+  {
+    "q0": 35245893,
+    "q9": -2,
+    "q10": "Players feel that mandatory team play limits progression in low-population areas."
+  },
+  {
+    "q0": 35242951,
+    "q9": 2,
+    "q10": "Players find the game stable and worth trying despite limited adventure elements."
+  },
+  {
+    "q0": 35242386,
+    "q3": "Pet combat is interesting and playable.",
+    "q4": 2,
+    "q5": "Players find pet combat enjoyable and well-designed."
+  },
+  {
+    "q0": 35234659,
+    "q27": 0,
+    "q28": "Players feel that spending is a personal choice and not necessary."
+  },
+  {
+    "q0": 35230554,
+    "q3": "Pets like 天狼 and 天兵 are useful in both PvE and PvP.",
+    "q4": 2,
+    "q5": "Players find certain pets very effective in combat."
+  },
+  {
+    "q0": 35230117,
+    "q3": "荧惑 is very useful for its stealth and poison abilities.",
+    "q4": 2,
+    "q5": "Players find certain pets very effective in combat."
+  },
+  {
+    "q0": 35223955,
+    "q27": 0,
+    "q28": "Players feel that spending is acceptable and not overly pressured."
+  },
+  {
+    "q0": 35110213,
+    "q27": -2,
+    "q28": "Players feel unfairly punished for following game mechanics."
+  },
+  {
+    "q0": 35107834,
+    "q3": "Combat speed is slow, suitable for players who enjoy taking their time.",
+    "q4": 0,
+    "q5": "Players find the combat speed slow but acceptable for those who enjoy it."
+  },
+  {
+    "q0": 35031129,
+    "q19": -2,
+    "q20": "Players feel that resource acquisition is insufficient for non-paying users.",
+    "q27": -2,
+    "q28": "Players feel that non-paying users are at a disadvantage due to high costs."
+  },
+  {
+    "q0": 35029391,
+    "q9": 0,
+    "q10": "Players find the game enjoyable but note issues with new servers and market prices.",
+    "q27": 0,
+    "q28": "Players feel that spending is not necessary but note issues with market prices."
+  },
+  {
+    "q0": 35020465,
+    "q3": "Combat has an intelligent auto feature with skill cooldowns.",
+    "q4": 1,
+    "q5": "Players appreciate the auto feature and skill cooldowns in combat.",
+    "q27": 0,
+    "q28": "Players feel that spending is not necessary for a good experience."
+  },
+  {
+    "q0": 35019478,
+    "q9": -2,
+    "q10": "Players feel that the game is too demanding and requires constant online presence.",
+    "q27": -2,
+    "q28": "Players feel that spending is necessary due to the demanding nature of the game.",
+    "q29": -2,
+    "q30": "Players feel pressured to spend due to the demanding nature of the game."
+  },
+  {
+    "q0": 35018794,
+    "q27": 0,
+    "q28": "Players feel that spending is not necessary for a good experience."
+  },
+  {
+    "q0": 35009188,
+    "q33": TRUE,
+    "q34": "The game is similar to 梦幻新诛仙 in gameplay and features."
+  }
+]
+```

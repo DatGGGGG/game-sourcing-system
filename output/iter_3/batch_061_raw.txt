@@ -1,0 +1,212 @@
+```json
+[
+    {
+        "q0": 23668316,
+        "q5": "The user feels nostalgic about the game but cannot recapture the feeling of playing it in the past."
+    },
+    {
+        "q0": 23667389,
+        "q5": "The user is very positive and hopeful about the game, expressing a liking for turn-based games."
+    },
+    {
+        "q0": 23666176,
+        "q5": "The user loves the art style of the game."
+    },
+    {
+        "q0": 23665807,
+        "q5": "The user is hopeful for the game, as they find it rare to find good turn-based games currently."
+    },
+    {
+        "q0": 23665572,
+        "q5": "The user is intrigued by the game's promotional images and is cautiously optimistic."
+    },
+    {
+        "q0": 23665508,
+        "q5": "The user thinks the game looks good and is optimistic about its release."
+    },
+    {
+        "q0": 23661897,
+        "q5": "The user finds the art style appealing and is looking forward to the game."
+    },
+    {
+        "q0": 23661740,
+        "q5": "The user is curious about the game's grind level and is looking forward to its release."
+    },
+    {
+        "q0": 23660322,
+        "q5": "The user is curious if the game is based on a comic and is eagerly waiting for the comic's second season."
+    },
+    {
+        "q0": 23658305,
+        "q5": "The user is disappointed that the game is not available for iOS pre-registration."
+    },
+    {
+        "q0": 23658256,
+        "q5": "The user finds the art style reminiscent of a specific game and is cautiously optimistic about the game mechanics."
+    },
+    {
+        "q0": 23656764,
+        "q5": "The user supports the game's art style and is giving a positive rating."
+    },
+    {
+        "q0": 23656169,
+        "q5": "The user is tired of traditional turn-based games and hopes for innovative combat mechanics."
+    },
+    {
+        "q0": 23656076,
+        "q5": "The user appreciates the art style and is hopeful that the game is not just a reskin of a big IP."
+    },
+    {
+        "q0": 23655962,
+        "q5": "The user is very optimistic and eager for the game's release."
+    },
+    {
+        "q0": 23655953,
+        "q5": "The user thinks the game looks good and is cautiously optimistic."
+    },
+    {
+        "q0": 23655410,
+        "q5": "The user is cautiously optimistic about the game."
+    },
+    {
+        "q0": 23654750,
+        "q5": "The user finds the art style appealing and is waiting for the game's test phase."
+    },
+    {
+        "q0": 23653337,
+        "q5": "The user is impressed by the battle backgrounds and hopes for deeper gameplay mechanics."
+    },
+    {
+        "q0": 23652867,
+        "q5": "The user finds the art style appealing and is cautiously optimistic."
+    },
+    {
+        "q0": 23652125,
+        "q5": "The user finds the art style appealing and is looking forward to the game."
+    },
+    {
+        "q0": 23652010,
+        "q5": "The user is very optimistic and finds the art style appealing."
+    },
+    {
+        "q0": 23650342,
+        "q5": "The user hopes the game is not too pay-to-win."
+    },
+    {
+        "q0": 23627040,
+        "q5": "The user has been waiting for the game for a long time and is excited about its release."
+    },
+    {
+        "q0": 23607096,
+        "q5": "The user likes the art style and is interested in the pet gameplay."
+    },
+    {
+        "q0": 23605768,
+        "q5": "The user is cautiously optimistic and hopes for good balance and consistent art style."
+    },
+    {
+        "q0": 23596980,
+        "q5": "The user is cautiously optimistic and is interested in the free trading feature."
+    },
+    {
+        "q0": 23593404,
+        "q5": "The user finds the art style appealing and hopes the game is not too grind-heavy."
+    },
+    {
+        "q0": 23588245,
+        "q5": "The user finds the promotional images very appealing and is excited about the gameplay."
+    },
+    {
+        "q0": 23588053,
+        "q5": "The user finds the game icon appealing and hopes for more rewards."
+    },
+    {
+        "q0": 23587229,
+        "q5": "The user is attracted by the cover image and finds the art style appealing."
+    },
+    {
+        "q0": 23586543,
+        "q5": "The user is curious about the vertical screen operation and the art style."
+    },
+    {
+        "q0": 23586464,
+        "q5": "The user thinks the game looks good and is optimistic about its release."
+    },
+    {
+        "q0": 23586343,
+        "q5": "The user finds the art style appealing and is looking forward to the game."
+    },
+    {
+        "q0": 23585755,
+        "q5": "The user supports the national style of the game and is looking forward to it."
+    },
+    {
+        "q0": 23586102,
+        "q5": "The user finds the art style appealing and is reserving judgment until the game is released."
+    },
+    {
+        "q0": 23585814,
+        "q5": "The user supports the national style of the game and is looking forward to it."
+    },
+    {
+        "q0": 23585948,
+        "q5": "The user finds the art style appealing and is interested in the vertical turn-based gameplay."
+    },
+    {
+        "q0": 23585690,
+        "q5": "The user likes the ancient style of the game."
+    },
+    {
+        "q0": 23585621,
+        "q5": "The user finds the art style appealing and is cautiously optimistic."
+    },
+    {
+        "q0": 23585607,
+        "q5": "The user is interested in the national style and turn-based gameplay."
+    },
+    {
+        "q0": 23585563,
+        "q5": "The user finds the art style appealing and is looking forward to the game."
+    },
+    {
+        "q0": 23585547,
+        "q5": "The user loves the art style and finds it very eye-catching."
+    },
+    {
+        "q0": 23585527,
+        "q5": "The user appreciates the art style and the ancient-themed name."
+    },
+    {
+        "q0": 23585524,
+        "q5": "The user is curious if the game will offer something new compared to other turn-based games."
+    },
+    {
+        "q0": 23585478,
+        "q5": "The user finds the art style appealing and is cautiously optimistic."
+    },
+    {
+        "q0": 23585451,
+        "q5": "The user is interested in the pet capturing and progression mechanics, as well as the art style."
+    },
+    {
+        "q0": 23585411,
+        "q5": "The user loves the art style."
+    },
+    {
+        "q0": 23585356,
+        "q5": "The user is excited about the new game and has pre-registered."
+    },
+    {
+        "q0": 23585339,
+        "q5": "The user finds the art style appealing and is looking forward to the game's release."
+    },
+    {
+        "q0": 23585321,
+        "q5": "The user finds the art style appealing and is curious about the gameplay."
+    },
+    {
+        "q0": 23558073,
+        "q5": "The user is interested in the vertical screen operation and finds the art style appealing."
+    }
+]
+```

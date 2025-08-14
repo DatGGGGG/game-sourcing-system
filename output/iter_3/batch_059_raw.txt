@@ -1,0 +1,144 @@
+```json
+[
+  {
+    "q0": 24018397,
+    "q3": "Turn-based game",
+    "q4": 2,
+    "q5": "The user expresses positive sentiment about the turn-based gameplay and background art."
+  },
+  {
+    "q0": 24010912,
+    "q3": "Turn-based game",
+    "q4": 1,
+    "q5": "The user is hopeful about the game not becoming boring and appreciates the idea of team interaction.",
+    "q6": "Team interaction, map size, game elements",
+    "q7": 1,
+    "q8": "The user suggests features like team interaction and larger maps to enhance gameplay.",
+    "q9": 1,
+    "q10": "The user is hopeful about the progression and is willing to support the game if it feels worthwhile.",
+    "q29": 1,
+    "q30": "The user is willing to spend money if the game feels valuable.",
+    "q31": 1,
+    "q32": "The user appreciates the idea of supporting the game through spending."
+  },
+  {
+    "q0": 24006697,
+    "q11": -1,
+    "q12": "The user mentions balance issues in a previous game and hopes this game will handle balance better.",
+    "q27": -1,
+    "q28": "The user hopes for better balance and less regional restriction compared to a previous game.",
+    "q29": -1,
+    "q30": "The user mentions spending a lot in a previous game and hopes for better handling of spending in this game."
+  },
+  {
+    "q0": 24004432,
+    "q25": -2,
+    "q26": "The user mentions a high cost for a pet, indicating dissatisfaction with pricing."
+  },
+  {
+    "q0": 24004103,
+    "q27": -1,
+    "q28": "The user is concerned about excessive monetization and VIP systems."
+  },
+  {
+    "q0": 23997655,
+    "q3": "Turn-based game",
+    "q4": -1,
+    "q5": "The user expresses dissatisfaction with the turn-based genre, feeling it has become stale.",
+    "q6": "Strategic thinking",
+    "q7": 1,
+    "q8": "The user appreciates the strategic aspect of turn-based games but is concerned about the lack of innovation."
+  },
+  {
+    "q0": 23995954,
+    "q3": "Turn-based game",
+    "q4": -1,
+    "q5": "The user is tired of turn-based games, indicating a negative sentiment towards the genre."
+  },
+  {
+    "q0": 23995457,
+    "q3": "Turn-based game",
+    "q4": 1,
+    "q5": "The user is hopeful about the game having its unique elements and not being too demanding in terms of spending.",
+    "q29": -1,
+    "q30": "The user hopes the game will not be too demanding in terms of spending."
+  },
+  {
+    "q0": 23994702,
+    "q3": "Card game",
+    "q4": -1,
+    "q5": "The user expresses dissatisfaction with the game being a card game rather than a traditional turn-based game."
+  },
+  {
+    "q0": 23980535,
+    "q3": "Turn-based game",
+    "q4": -1,
+    "q5": "The user expresses dissatisfaction with repetitive daily tasks in turn-based games."
+  },
+  {
+    "q0": 23978025,
+    "q3": "Turn-based game",
+    "q4": -1,
+    "q5": "The user is critical of the lack of innovation in turn-based games."
+  },
+  {
+    "q0": 23969421,
+    "q3": "Turn-based game",
+    "q4": -1,
+    "q5": "The user is dissatisfied with the repetitive nature of daily tasks in turn-based games.",
+    "q6": "Free trade",
+    "q7": -1,
+    "q8": "The user is critical of the lack of free trade, comparing it to playing a single-player game."
+  },
+  {
+    "q0": 23965747,
+    "q6": "Monster modeling",
+    "q7": -1,
+    "q8": "The user is critical of the lack of innovation in monster modeling, suggesting more variety."
+  },
+  {
+    "q0": 23935352,
+    "q6": "Balance, monster design",
+    "q7": -1,
+    "q8": "The user is critical of the balance and monster design in a previous game and hopes for improvement.",
+    "q27": -1,
+    "q28": "The user is concerned about balance and hopes for better handling compared to a previous game."
+  },
+  {
+    "q0": 23908455,
+    "q6": "Monster design",
+    "q7": -1,
+    "q8": "The user is critical of the monster design, suggesting it detracts from the game's appeal.",
+    "q13": -1,
+    "q14": "The user is critical of the monster design, suggesting it detracts from the game's appeal."
+  },
+  {
+    "q0": 23862398,
+    "q6": "Task variety, player engagement, event accessibility, balance, social interaction, trading system",
+    "q7": 1,
+    "q8": "The user suggests a variety of features to enhance gameplay, indicating a desire for depth.",
+    "q27": -1,
+    "q28": "The user is concerned about event accessibility and balance, suggesting improvements for non-paying players."
+  },
+  {
+    "q0": 23804665,
+    "q6": "Skill names, character design, player submissions, anime collaboration",
+    "q7": 1,
+    "q8": "The user suggests a variety of features to enhance gameplay, indicating a desire for depth."
+  },
+  {
+    "q0": 23795150,
+    "q29": 1,
+    "q30": "The user is willing to spend money if the game is not too demanding and provides a relaxing experience."
+  },
+  {
+    "q0": 23715587,
+    "q3": "Pokemon-like game",
+    "q4": 1,
+    "q5": "The user hopes for a game similar to Pokemon, indicating a positive sentiment towards that style.",
+    "q6": "Pet training",
+    "q7": 1,
+    "q8": "The user appreciates the idea of pet training but is concerned about excessive grinding."
+  }
+]
+```

@@ -1,0 +1,487 @@
+```json
+[
+  {
+    "q0": 34671859,
+    "q1": false,
+    "q3": "PVP无脑先手封，主角普遍不如系统人物，技能机制碾压。",
+    "q4": -2,
+    "q5": "Combat is heavily unbalanced, with system characters overpowering player characters.",
+    "q6": "自由交易, 拍卖行",
+    "q7": -2,
+    "q8": "The strategic depth is poor due to imbalanced mechanics and restrictive trading.",
+    "q9": -2,
+    "q10": "Game progression is tedious and time-consuming with mandatory daily tasks.",
+    "q11": -2,
+    "q12": "Hero balance is poor, with system characters being much stronger than player characters.",
+    "q13": -2,
+    "q14": "Team build diversity is limited due to imbalanced mechanics.",
+    "q21": -2,
+    "q22": "Content updates are mostly monetization-focused with little free content.",
+    "q23": true,
+    "q24": "Gacha system with expensive pulls and low rewards.",
+    "q25": -2,
+    "q26": "Gacha pull prices are high with little return on investment.",
+    "q27": -2,
+    "q28": "Non-paying users have limited access to major features.",
+    "q29": -2,
+    "q30": "Spending pressure is heavy with many monetization points.",
+    "q31": -2,
+    "q32": "Free rewards are minimal and not impactful.",
+    "q37": -2,
+    "q38": "The game file is large and resource-intensive.",
+    "q41": "Poor server performance and heavy monetization."
+  },
+  {
+    "q0": 34671839,
+    "q37": -2,
+    "q38": "The game causes the device to overheat, indicating poor optimization."
+  },
+  {
+    "q0": 34611348,
+    "q1": false,
+    "q3": "2D game with poor modeling compared to older games.",
+    "q4": -2,
+    "q5": "Combat mechanics are not satisfying due to poor modeling and lack of innovation.",
+    "q9": -2,
+    "q10": "Game progression is hindered by poor server performance and lack of compensation.",
+    "q11": -2,
+    "q12": "Hero balance is poor with some characters being much weaker.",
+    "q13": -2,
+    "q14": "Team build diversity is limited due to poor character design.",
+    "q21": -2,
+    "q22": "Lack of meaningful updates and poor server performance.",
+    "q29": -2,
+    "q30": "Heavy monetization with expensive items and poor value.",
+    "q31": -2,
+    "q32": "Free rewards are minimal and not impactful.",
+    "q37": -2,
+    "q38": "The game file is large and resource-intensive.",
+    "q41": "Poor server performance, expensive items, and lack of innovation."
+  },
+  {
+    "q0": 34665286,
+    "q41": "Tutorial is excessively long and unnecessary."
+  },
+  {
+    "q0": 34659892,
+    "q1": false,
+    "q21": -2,
+    "q22": "Lack of meaningful events and updates.",
+    "q29": -2,
+    "q30": "Heavy monetization with temporary purchases.",
+    "q31": -2,
+    "q32": "Limited free rewards and poor event variety."
+  },
+  {
+    "q0": 34658389,
+    "q41": "Lack of depth in gameplay and suggestions for new systems."
+  },
+  {
+    "q0": 23991806,
+    "q41": "Repetitive gameplay with no innovation."
+  },
+  {
+    "q0": 34656330,
+    "q1": false,
+    "q29": 2,
+    "q30": "Non-paying users can enjoy the game with strategic resource management.",
+    "q31": 2,
+    "q32": "Free rewards are satisfactory and impactful."
+  },
+  {
+    "q0": 34655824,
+    "q1": false,
+    "q3": "Turn-based combat with elements from other games.",
+    "q4": 1,
+    "q5": "Combat is enjoyable for players familiar with similar games.",
+    "q29": -2,
+    "q30": "Heavy monetization with restrictions on non-paying users."
+  },
+  {
+    "q0": 34655580,
+    "q9": 2,
+    "q10": "Game progression is not demanding and offers good rewards."
+  },
+  {
+    "q0": 34654866,
+    "q3": "Slow-paced combat with mandatory manual play for certain tasks.",
+    "q4": -2,
+    "q5": "Combat is slow and requires manual intervention, reducing enjoyment."
+  },
+  {
+    "q0": 34652237,
+    "q1": false,
+    "q29": 1,
+    "q30": "Monetization is reasonable compared to similar games."
+  },
+  {
+    "q0": 34651605,
+    "q3": "Mix of story, combat, and development.",
+    "q4": 1,
+    "q5": "Combat is enjoyable and less intense than typical competitive games."
+  },
+  {
+    "q0": 34651562,
+    "q1": false,
+    "q3": "Combat requires strategic use of skills and items.",
+    "q4": -1,
+    "q5": "Combat is challenging without spending, leading to frustration.",
+    "q29": -1,
+    "q30": "Spending is necessary for a smoother experience."
+  },
+  {
+    "q0": 34650789,
+    "q29": 2,
+    "q30": "Non-paying users can enjoy the game with strategic resource management.",
+    "q31": 2,
+    "q32": "Free rewards are satisfactory and impactful."
+  },
+  {
+    "q0": 34649913,
+    "q41": "Mandatory team play for certain tasks is time-consuming."
+  },
+  {
+    "q0": 34641059,
+    "q41": "Lack of appropriate equipment for certain character types."
+  },
+  {
+    "q0": 34640888,
+    "q1": false,
+    "q3": "Combat involves both character and pet participation.",
+    "q4": -2,
+    "q5": "Combat is not as advertised and involves unexpected mechanics.",
+    "q29": -2,
+    "q30": "Heavy monetization with misleading advertising."
+  },
+  {
+    "q0": 34640529,
+    "q21": -1,
+    "q22": "Lack of activities for heavy players."
+  },
+  {
+    "q0": 34640029,
+    "q41": "Lack of innovation in gameplay."
+  },
+  {
+    "q0": 34639922,
+    "q1": false,
+    "q3": "Time-consuming combat with mandatory team play.",
+    "q4": -2,
+    "q5": "Combat is slow and requires excessive time commitment."
+  },
+  {
+    "q0": 34637497,
+    "q41": "Inconsistent mechanics in competitive play."
+  },
+  {
+    "q0": 34636959,
+    "q41": "Inventory management issues."
+  },
+  {
+    "q0": 34635469,
+    "q1": false,
+    "q11": -2,
+    "q12": "Hero balance is poor, with certain roles being much more desirable.",
+    "q13": -2,
+    "q14": "Team build diversity is limited due to imbalanced roles."
+  },
+  {
+    "q0": 34635022,
+    "q41": "Lack of engaging story elements."
+  },
+  {
+    "q0": 34634664,
+    "q41": "Issues with guilds requiring external communication."
+  },
+  {
+    "q0": 34634625,
+    "q1": false,
+    "q29": -2,
+    "q30": "Heavy monetization with diminishing returns for spending.",
+    "q31": -2,
+    "q32": "Limited free rewards and high costs for progression."
+  },
+  {
+    "q0": 34634577,
+    "q41": "Lack of freedom and innovation in gameplay."
+  },
+  {
+    "q0": 34633675,
+    "q41": "Imbalance in character abilities."
+  },
+  {
+    "q0": 34632560,
+    "q41": "Game is unengaging and boring."
+  },
+  {
+    "q0": 34632146,
+    "q29": 1,
+    "q30": "Monetization does not heavily impact gameplay experience."
+  },
+  {
+    "q0": 34630396,
+    "q29": 2,
+    "q30": "Monetization is reasonable with good value for non-paying users."
+  },
+  {
+    "q0": 34630190,
+    "q41": "Low player population affects game experience."
+  },
+  {
+    "q0": 34630031,
+    "q1": false,
+    "q29": -2,
+    "q30": "Heavy monetization with poor value for spending."
+  },
+  {
+    "q0": 34629983,
+    "q41": "Lack of innovation in RPG mechanics."
+  },
+  {
+    "q0": 34629754,
+    "q1": false,
+    "q3": "Semi-automatic gameplay with diverse pet abilities.",
+    "q4": 1,
+    "q5": "Combat is enjoyable with diverse pet abilities.",
+    "q29": 1,
+    "q30": "Monetization is reasonable with good value for non-paying users."
+  },
+  {
+    "q0": 34629683,
+    "q29": 2,
+    "q30": "Monetization is reasonable with good value for non-paying users."
+  },
+  {
+    "q0": 34629561,
+    "q41": "Lack of innovation in gameplay mechanics."
+  },
+  {
+    "q0": 34629431,
+    "q41": "Game is buggy and poorly optimized."
+  },
+  {
+    "q0": 34629168,
+    "q1": false,
+    "q29": -2,
+    "q30": "Heavy monetization with poor value for spending."
+  },
+  {
+    "q0": 34628691,
+    "q41": "Misleading purchase terms for in-game items."
+  },
+  {
+    "q0": 34628306,
+    "q41": "Certain tasks are overly difficult."
+  },
+  {
+    "q0": 34627759,
+    "q41": "Poor long-term planning and monetization strategy."
+  },
+  {
+    "q0": 34626600,
+    "q41": "Need for specific resources for character optimization."
+  },
+  {
+    "q0": 34626437,
+    "q1": false,
+    "q29": -2,
+    "q30": "Heavy monetization with poor value for spending."
+  },
+  {
+    "q0": 34626423,
+    "q29": 2,
+    "q30": "Monetization is reasonable with good value for non-paying users."
+  },
+  {
+    "q0": 34625606,
+    "q41": "Certain character classes are underpowered."
+  },
+  {
+    "q0": 34623866,
+    "q29": 2,
+    "q30": "Monetization is reasonable with good value for non-paying users."
+  },
+  {
+    "q0": 34622930,
+    "q41": "Unresolved bugs affecting gameplay."
+  },
+  {
+    "q0": 34621342,
+    "q41": "Lack of innovation and misleading advertising."
+  },
+  {
+    "q0": 34621026,
+    "q41": "Frequent crashes and poor optimization."
+  },
+  {
+    "q0": 34620656,
+    "q41": "Unexplained server issues."
+  },
+  {
+    "q0": 34620643,
+    "q41": "Unable to access the game."
+  },
+  {
+    "q0": 34620585,
+    "q41": "Lack of engaging content and poor pet system."
+  },
+  {
+    "q0": 34620567,
+    "q41": "Server issues affecting gameplay."
+  },
+  {
+    "q0": 34620478,
+    "q41": "Server issues affecting gameplay."
+  },
+  {
+    "q0": 34620459,
+    "q41": "Unable to access the game."
+  },
+  {
+    "q0": 34620438,
+    "q41": "Server issues affecting gameplay."
+  },
+  {
+    "q0": 34620419,
+    "q41": "Lack of innovation in gameplay."
+  },
+  {
+    "q0": 34620306,
+    "q41": "Lack of innovation and poor monetization strategy."
+  },
+  {
+    "q0": 34620300,
+    "q41": "Server issues affecting gameplay."
+  },
+  {
+    "q0": 34619738,
+    "q41": "Lack of innovation and poor quality."
+  },
+  {
+    "q0": 34619409,
+    "q41": "Poor server performance."
+  },
+  {
+    "q0": 34619349,
+    "q41": "Slow and unskippable daily tasks."
+  },
+  {
+    "q0": 34619057,
+    "q41": "Lack of innovation and engaging content."
+  },
+  {
+    "q0": 34618866,
+    "q41": "Lack of diversity in pet options and poor storyline."
+  },
+  {
+    "q0": 34618532,
+    "q41": "Lack of shared storage and poor auction house system."
+  },
+  {
+    "q0": 34617225,
+    "q41": "Queue issues affecting gameplay."
+  },
+  {
+    "q0": 34598612,
+    "q41": "Repetitive tasks and excessive time commitment."
+  },
+  {
+    "q0": 34617000,
+    "q41": "Positive feedback on character voice acting."
+  },
+  {
+    "q0": 34616953,
+    "q41": "Frequent crashes and poor optimization."
+  },
+  {
+    "q0": 34616947,
+    "q41": "Lack of innovation in content."
+  },
+  {
+    "q0": 34616945,
+    "q41": "Queue issues affecting gameplay."
+  },
+  {
+    "q0": 34615656,
+    "q1": false,
+    "q3": "Vertical screen gameplay with unique elements.",
+    "q4": 1,
+    "q5": "Combat is enjoyable with a unique vertical screen experience."
+  },
+  {
+    "q0": 34614496,
+    "q1": false,
+    "q3": "Detailed tutorials for various gameplay elements.",
+    "q4": 1,
+    "q5": "Combat is enjoyable with detailed tutorials and diverse gameplay."
+  },
+  {
+    "q0": 34567144,
+    "q1": false,
+    "q11": -2,
+    "q12": "Hero balance is poor, with certain roles being much more desirable.",
+    "q13": -2,
+    "q14": "Team build diversity is limited due to imbalanced roles.",
+    "q29": -2,
+    "q30": "Heavy monetization with poor value for spending.",
+    "q31": -2,
+    "q32": "Limited free rewards and high costs for progression."
+  },
+  {
+    "q0": 34613080,
+    "q41": "Issues with receiving monetization rewards."
+  },
+  {
+    "q0": 34612065,
+    "q41": "Queue issues affecting gameplay."
+  },
+  {
+    "q0": 34612061,
+    "q41": "Bugs affecting competitive gameplay."
+  },
+  {
+    "q0": 34612039,
+    "q41": "Variable pricing in in-game shops."
+  },
+  {
+    "q0": 34611926,
+    "q41": "Combat mechanics favor certain playstyles."
+  },
+  {
+    "q0": 34611868,
+    "q41": "Positive feedback on art style but issues with skill design."
+  },
+  {
+    "q0": 34611727,
+    "q41": "Heavy time commitment required for gameplay."
+  },
+  {
+    "q0": 34611674,
+    "q41": "Server issues affecting gameplay."
+  },
+  {
+    "q0": 34611633,
+    "q41": "Positive feedback on early game experience."
+  },
+  {
+    "q0": 34611577,
+    "q41": "Complexity in character development."
+  },
+  {
+    "q0": 34611240,
+    "q41": "Issues with character abilities and equipment."
+  },
+  {
+    "q0": 34611228,
+    "q41": "Lack of innovation and misleading advertising."
+  },
+  {
+    "q0": 34610990,
+    "q41": "Positive feedback on gameplay experience but issues with art style."
+  },
+  {
+    "q0": 34610985,
+    "q41": "Positive feedback on non-paying user experience."
+  }
+]
+```

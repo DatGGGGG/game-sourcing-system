@@ -1,0 +1,224 @@
+```json
+[
+  {
+    "q0": 35512425,
+    "q9": 2,
+    "q10": "Resources are easy to obtain, and even non-paying players can enjoy the game.",
+    "q31": 2,
+    "q32": "The game provides ample resources and rewards, making it enjoyable for free-to-play players."
+  },
+  {
+    "q0": 35510662,
+    "q9": -1,
+    "q10": "The game environment has shifted towards monetization, with decreasing daily rewards and unresolved bugs.",
+    "q21": -2,
+    "q22": "Frequent unannounced changes and lack of response to player feedback.",
+    "q27": 0,
+    "q28": "Initially, both paying and non-paying players had enjoyable experiences, but recent changes have reduced this.",
+    "q29": -2,
+    "q30": "The game has become more focused on monetization, leading to player dissatisfaction.",
+    "q41": "Unresolved bugs and lack of response to player feedback."
+  },
+  {
+    "q0": 35509812,
+    "q3": "Combat requires strategic targeting and operation.",
+    "q4": 1,
+    "q5": "Combat is engaging and requires strategic thinking.",
+    "q6": "Strategic targeting and operation in combat.",
+    "q7": 1,
+    "q8": "The game requires strategic thinking in combat.",
+    "q9": 1,
+    "q10": "Daily activities are reasonable, and resource acquisition is acceptable.",
+    "q29": 0,
+    "q30": "Monetization is acceptable, though the game leans towards being grind-heavy.",
+    "q41": "Suggestion for skipping or speeding up battles against NPCs and system monsters."
+  },
+  {
+    "q0": 35509461,
+    "q9": -2,
+    "q10": "Resource acquisition has been significantly reduced compared to the game's launch.",
+    "q21": -2,
+    "q22": "Frequent unannounced changes and reduced rewards.",
+    "q27": -2,
+    "q28": "New players are discouraged due to reduced resources and increased costs.",
+    "q29": -2,
+    "q30": "Increased spending pressure with reduced rewards and increased costs.",
+    "q41": "Frequent unannounced changes and reduced rewards."
+  },
+  {
+    "q0": 35507782,
+    "q9": -2,
+    "q10": "The game has become increasingly difficult and requires heavy spending to progress.",
+    "q29": -2,
+    "q30": "The game requires significant spending to progress, leading to player dissatisfaction.",
+    "q41": "The game has become increasingly difficult and requires heavy spending to progress."
+  },
+  {
+    "q0": 35506500,
+    "q29": -2,
+    "q30": "The game focuses more on monetization and marketing rather than content development.",
+    "q41": "The game focuses more on monetization and marketing rather than content development."
+  },
+  {
+    "q0": 35501282,
+    "q9": -1,
+    "q10": "Resource acquisition has been reduced, and new professions are not offered free transfers.",
+    "q41": "Resource acquisition has been reduced, and new professions are not offered free transfers."
+  },
+  {
+    "q0": 35499486,
+    "q31": 1,
+    "q32": "The game provides good rewards, attracting players with its art style."
+  },
+  {
+    "q0": 35499329,
+    "q27": 1,
+    "q28": "Non-paying players can still obtain rare items with some spending."
+  },
+  {
+    "q0": 35496280,
+    "q33": TRUE,
+    "q34": "The game integrates elements from traditional Chinese culture such as Tang Dynasty and Journey to the West.",
+    "q35": 1,
+    "q36": "The game successfully blends traditional and modern elements, creating a unique aesthetic.",
+    "q41": "The game features innovative gameplay elements like puzzles and pet battles."
+  },
+  {
+    "q0": 35489650,
+    "q9": 2,
+    "q10": "The game offers high playability with generous rewards and a balanced monetization system.",
+    "q27": 1,
+    "q28": "Non-paying players can still enjoy the game without feeling pressured to spend."
+  },
+  {
+    "q0": 35489397,
+    "q9": 2,
+    "q10": "The game is very enjoyable."
+  },
+  {
+    "q0": 35489284,
+    "q29": -1,
+    "q30": "The game has a high frequency of monetization attempts."
+  },
+  {
+    "q0": 35489072,
+    "q9": 2,
+    "q10": "The game provides a good experience for non-paying players."
+  },
+  {
+    "q0": 35488796,
+    "q21": -1,
+    "q22": "The game has reduced daily rewards compared to its initial launch.",
+    "q41": "The game has reduced daily rewards compared to its initial launch."
+  },
+  {
+    "q0": 35488781,
+    "q9": 2,
+    "q10": "The game offers diverse gameplay and is enjoyable for non-paying players."
+  },
+  {
+    "q0": 35488723,
+    "q9": 1,
+    "q10": "The game is enjoyable for both paying and non-paying players, though some aspects require more time investment.",
+    "q41": "The game requires significant time investment to achieve daily goals."
+  },
+  {
+    "q0": 35488687,
+    "q9": 2,
+    "q10": "The game is considered one of the most player-friendly turn-based games."
+  },
+  {
+    "q0": 35488583,
+    "q11": -1,
+    "q12": "Certain team compositions, like double seal teams, are overly powerful in PvP."
+  },
+  {
+    "q0": 35488248,
+    "q9": 2,
+    "q10": "The game is very enjoyable and offers a good experience for non-paying players."
+  },
+  {
+    "q0": 35488214,
+    "q21": -1,
+    "q22": "The game has frequent unannounced changes, reducing transparency.",
+    "q41": "The game has frequent unannounced changes, reducing transparency."
+  },
+  {
+    "q0": 35488196,
+    "q9": 2,
+    "q10": "The game offers a good experience for non-paying players and listens to player feedback."
+  },
+  {
+    "q0": 35488056,
+    "q9": 1,
+    "q10": "The game is enjoyable, though daily rewards have been reduced over time."
+  },
+  {
+    "q0": 35487717,
+    "q11": 1,
+    "q12": "The game offers good balance between paying and non-paying players."
+  },
+  {
+    "q0": 35487693,
+    "q9": 1,
+    "q10": "The game is enjoyable due to social interactions, though it requires more spending than other games."
+  },
+  {
+    "q0": 35487509,
+    "q11": 1,
+    "q12": "The game offers good balance between paying and non-paying players."
+  },
+  {
+    "q0": 35487324,
+    "q9": 1,
+    "q10": "The game is enjoyable for casual play, though resource acquisition becomes more difficult over time."
+  },
+  {
+    "q0": 35487239,
+    "q9": 1,
+    "q10": "The game is enjoyable with reasonable resource acquisition, though more permanent methods are desired."
+  },
+  {
+    "q0": 35486795,
+    "q41": "The game requires significant time investment, leading to player fatigue."
+  },
+  {
+    "q0": 35486791,
+    "q9": 1,
+    "q10": "The game offers easy resource acquisition, making it friendly for non-paying players."
+  },
+  {
+    "q0": 35486690,
+    "q9": 1,
+    "q10": "The game is suitable for casual play with easy resource acquisition."
+  },
+  {
+    "q0": 35486495,
+    "q41": "The game is simpler compared to others in the genre, but forming teams can be difficult."
+  },
+  {
+    "q0": 35486198,
+    "q21": -1,
+    "q22": "Frequent small changes without significant updates.",
+    "q41": "Frequent small changes without significant updates."
+  },
+  {
+    "q0": 35486100,
+    "q9": 1,
+    "q10": "The game is more affordable for non-paying players compared to similar games."
+  },
+  {
+    "q0": 35486039,
+    "q41": "The game has both strengths and weaknesses compared to other turn-based games."
+  },
+  {
+    "q0": 35485599,
+    "q41": "The game could benefit from lighter daily tasks and reduced idle time."
+  },
+  {
+    "q0": 35485498,
+    "q9": 2,
+    "q10": "The game offers a rich experience with a well-developed storyline and high-quality graphics."
+  }
+]
+```

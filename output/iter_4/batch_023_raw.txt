@@ -1,0 +1,68 @@
+```json
+[
+  {
+    "q0": 33234396,
+    "q5": "The user is disappointed with the game's development and communication, feeling that it lacks the interaction between developers and players.",
+    "q10": "The user feels disappointed with the game's progression and development, indicating a lack of improvement and interaction.",
+    "q28": "The user feels that the game lacks interaction and improvement, leading to disappointment.",
+    "q41": "The user expresses disappointment with the game's development and communication, feeling it lacks interaction between developers and players."
+  },
+  {
+    "q0": 34483567,
+    "q5": "The user had a positive experience in two tests and is looking forward to the game's release.",
+    "q10": "The user had a positive experience in two tests and is looking forward to the game's release."
+  },
+  {
+    "q0": 34165788,
+    "q5": "The user is hopeful about the game's potential and appreciates the developer's efforts.",
+    "q10": "The user is hopeful about the game's potential and appreciates the developer's efforts.",
+    "q28": "The user is hopeful about the game's potential and appreciates the developer's efforts."
+  },
+  {
+    "q0": 34479647,
+    "q3": "The game includes daily PvE activities where support roles are important.",
+    "q4": 2,
+    "q5": "The user finds the support role crucial in daily PvE activities, indicating satisfaction with the combat mechanics.",
+    "q6": "The game features strategic elements like team composition and resource management.",
+    "q7": 2,
+    "q8": "The user describes strategic elements like team composition and resource management, indicating satisfaction with the strategic depth.",
+    "q9": 1,
+    "q10": "The user describes various aspects of the game, indicating a generally positive progression experience.",
+    "q11": 1,
+    "q12": "The user describes the importance of support roles and strategic elements, indicating a generally positive balance.",
+    "q13": 1,
+    "q14": "The user describes various strategic elements and roles, indicating a generally positive diversity.",
+    "q28": "The user describes various aspects of the game, indicating a generally positive experience.",
+    "q29": 0,
+    "q30": "The user describes various aspects of the game, indicating a neutral spending pressure.",
+    "q31": 0,
+    "q32": "The user describes various aspects of the game, indicating a neutral experience with free rewards.",
+    "q41": "The user describes various aspects of the game, indicating a generally positive experience."
+  },
+  {
+    "q0": 34466346,
+    "q5": "The user describes a strategy for playing without spending money, indicating satisfaction with the combat mechanics.",
+    "q28": "The user describes a strategy for playing without spending money, indicating satisfaction with the game's accessibility."
+  },
+  {
+    "q0": 34462586,
+    "q5": "The user finds the game enjoyable and mentions various features and strategies.",
+    "q10": "The user finds the game enjoyable and mentions various features and strategies.",
+    "q28": "The user finds the game enjoyable and mentions various features and strategies.",
+    "q29": 1,
+    "q30": "The user finds the game enjoyable and mentions various features and strategies, indicating a subtle spending pressure.",
+    "q31": 1,
+    "q32": "The user finds the game enjoyable and mentions various features and strategies, indicating a positive experience with free rewards."
+  },
+  {
+    "q0": 34275512,
+    "q5": "The user describes a decline in the game's quality and enjoyment over time.",
+    "q10": "The user describes a decline in the game's quality and enjoyment over time.",
+    "q28": "The user describes a decline in the game's quality and enjoyment over time.",
+    "q29": -1,
+    "q30": "The user describes a decline in the game's quality and enjoyment over time, indicating a negative spending pressure.",
+    "q31": -1,
+    "q32": "The user describes a decline in the game's quality and enjoyment over time, indicating a negative experience with free rewards."
+  }
+]
+```

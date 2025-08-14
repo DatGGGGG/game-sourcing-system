@@ -1,0 +1,245 @@
+```json
+[
+  {
+    "q0": 44455300,
+    "q21": -2,
+    "q22": "Frequent changes in the game."
+  },
+  {
+    "q0": 44454543,
+    "q11": -1,
+    "q12": "Request for strengthening a specific character (Dragon Palace)."
+  },
+  {
+    "q0": 44443894,
+    "q27": 2,
+    "q28": "Non-paying users can still enjoy the game.",
+    "q31": 2,
+    "q32": "The game provides good free rewards."
+  },
+  {
+    "q0": 44442712,
+    "q3": "Turn-based combat.",
+    "q4": 1,
+    "q5": "Limited options for turn-based vertical games.",
+    "q27": 1,
+    "q28": "Non-paying users can play but with some limitations."
+  },
+  {
+    "q0": 44439686,
+    "q5": "Unique gameplay attracts players.",
+    "q9": 2,
+    "q10": "Unique gameplay and setting in Chang'an City."
+  },
+  {
+    "q0": 44439228,
+    "q9": -2,
+    "q10": "Difficulty in completing beginner tasks and main quests.",
+    "q27": -2,
+    "q28": "Spending money did not improve the experience."
+  },
+  {
+    "q0": 44437437,
+    "q11": -1,
+    "q12": "Changes in character speed and strategy over time."
+  },
+  {
+    "q0": 44436533,
+    "q11": -1,
+    "q12": "Certain characters (Guling) are perceived as too strong."
+  },
+  {
+    "q0": 44428538,
+    "q41": "Concerns about pet skills and their usability."
+  },
+  {
+    "q0": 44421749,
+    "q6": "PVP strategy with pets and skills.",
+    "q7": 1,
+    "q8": "Strategic use of pet skills in PVP."
+  },
+  {
+    "q0": 44420592,
+    "q11": -1,
+    "q12": "Character (Putuo) healing ability is insufficient."
+  },
+  {
+    "q0": 36088428,
+    "q9": -2,
+    "q10": "Game becomes increasingly difficult and frustrating over time.",
+    "q29": -2,
+    "q30": "Game heavily favors paying players.",
+    "q41": "Poor optimization and player feedback."
+  },
+  {
+    "q0": 44415901,
+    "q9": 1,
+    "q10": "Mid-game experience is highlighted as positive."
+  },
+  {
+    "q0": 44414734,
+    "q27": 1,
+    "q28": "Non-paying users can play but with limitations compared to paying users."
+  },
+  {
+    "q0": 44409309,
+    "q27": 1,
+    "q28": "Non-paying users can acquire resources over time.",
+    "q29": -1,
+    "q30": "Game requires spending for significant progress.",
+    "q31": 1,
+    "q32": "Free rewards are available but limited.",
+    "q41": "Technical issues and presence of bots."
+  },
+  {
+    "q0": 44403061,
+    "q27": 1,
+    "q28": "Non-paying users can play but with limited experience."
+  },
+  {
+    "q0": 44402934,
+    "q11": -1,
+    "q12": "Over-reliance on a single character (Guling) in teams."
+  },
+  {
+    "q0": 44398186,
+    "q3": "Vertical screen gameplay.",
+    "q4": -1,
+    "q5": "Vertical screen format not preferred by the reviewer."
+  },
+  {
+    "q0": 44396779,
+    "q5": "The game is very enjoyable."
+  },
+  {
+    "q0": 44385680,
+    "q41": "Inability to delete characters, only account deactivation is possible."
+  },
+  {
+    "q0": 44385162,
+    "q27": 1,
+    "q28": "Non-paying users can play with some limitations.",
+    "q29": 1,
+    "q30": "Game does not heavily pressure spending.",
+    "q31": 1,
+    "q32": "Free rewards are available but limited."
+  },
+  {
+    "q0": 44383692,
+    "q9": -1,
+    "q10": "Game progression becomes frustrating due to resource depletion.",
+    "q29": -1,
+    "q30": "Spending required for significant progress."
+  },
+  {
+    "q0": 44381154,
+    "q29": -2,
+    "q30": "Game induces spending through penalties and restrictions.",
+    "q41": "Unjust penalties and poor customer service."
+  },
+  {
+    "q0": 44331803,
+    "q6": "Simple strategy with high floor and low ceiling.",
+    "q7": -1,
+    "q8": "Lack of strategic depth in certain team compositions."
+  },
+  {
+    "q0": 44328228,
+    "q11": 1,
+    "q12": "Certain characters (Guling) are strong in various activities."
+  },
+  {
+    "q0": 44318949,
+    "q41": "Rumors about new factions with a Buddhist theme."
+  },
+  {
+    "q0": 44318463,
+    "q11": 1,
+    "q12": "Certain characters (Phoenix) are popular due to versatility."
+  },
+  {
+    "q0": 44311109,
+    "q41": "High value of mythical beasts in early game stages."
+  },
+  {
+    "q0": 44304588,
+    "q11": -1,
+    "q12": "Character (Putuo) perceived as weak and not updated."
+  },
+  {
+    "q0": 44303639,
+    "q41": "Concerns about pet qualification and skill retention."
+  },
+  {
+    "q0": 44296890,
+    "q41": "Pet skill and qualification advice."
+  },
+  {
+    "q0": 44286494,
+    "q9": -1,
+    "q10": "Resource mismanagement leads to frustration.",
+    "q41": "Difficulty in managing resources as a new player."
+  },
+  {
+    "q0": 44274471,
+    "q29": -2,
+    "q30": "Game heavily pressures spending for PVP.",
+    "q41": "Poor customer service and auction system issues."
+  },
+  {
+    "q0": 44227064,
+    "q27": 1,
+    "q28": "Non-paying users can still enjoy the game with some limitations.",
+    "q31": 1,
+    "q32": "Free rewards are available but limited."
+  },
+  {
+    "q0": 44222285,
+    "q6": "Pet training and skill strategy.",
+    "q7": 1,
+    "q8": "Strategic use of pets and skills for efficiency."
+  },
+  {
+    "q0": 44200347,
+    "q41": "Bug preventing new players from progressing in main quests."
+  },
+  {
+    "q0": 44194260,
+    "q41": "Confusion about character stat allocation."
+  },
+  {
+    "q0": 44192502,
+    "q23": TRUE,
+    "q24": "Gacha system with a guarantee of 450-550 pulls for a specific reward."
+  },
+  {
+    "q0": 44189868,
+    "q9": -1,
+    "q10": "Difficulty in progressing past level 69 without spending.",
+    "q41": "Challenges in team formation for players at level 69."
+  },
+  {
+    "q0": 44176463,
+    "q41": "Dislike for vertical screen format and account issues."
+  },
+  {
+    "q0": 44175736,
+    "q5": "The game is praised as an excellent turn-based game."
+  },
+  {
+    "q0": 44167119,
+    "q27": 1,
+    "q28": "Non-paying users can still enjoy the game.",
+    "q31": 1,
+    "q32": "Free rewards are available but limited."
+  },
+  {
+    "q0": 44162914,
+    "q41": "Issues with unlocking main quests and tasks."
+  },
+  {
+    "q0": 44132112,
+    "q41": "Slow response to account issues."
+  }
+]
+```

@@ -1,0 +1,358 @@
+```json
+[
+  {
+    "q0": 34544110,
+    "q5": "The game is described as boring and less engaging than a simple card game."
+  },
+  {
+    "q0": 34544067,
+    "q5": "The game is compared to being in prison, indicating a very negative experience."
+  },
+  {
+    "q0": 34544052,
+    "q5": "The game lacks playability, with too few pet types and long dungeon times.",
+    "q27": -2,
+    "q28": "Non-paying users cannot obtain divine pets, indicating limited access to major features."
+  },
+  {
+    "q0": 34543992,
+    "q5": "The game is misleading in its advertisement, showing horizontal screen but being vertical upon download."
+  },
+  {
+    "q0": 34543982,
+    "q5": "The game is described as a low-quality mobile game."
+  },
+  {
+    "q0": 34543957,
+    "q5": "The inability to skip battles during auto-combat is annoying."
+  },
+  {
+    "q0": 34543950,
+    "q5": "The first day of gameplay provided positive feedback, especially in pet development.",
+    "q23": true,
+    "q24": "The game has a wish list for gacha pulls.",
+    "q27": 1,
+    "q28": "Non-paying users can still enjoy the game, as legendary and alienated pets have reasonable probabilities."
+  },
+  {
+    "q0": 34543592,
+    "q5": "The game feels like a web game, considered low quality."
+  },
+  {
+    "q0": 34543920,
+    "q5": "The player had a positive experience with high drop rates in their first commission."
+  },
+  {
+    "q0": 34543900,
+    "q5": "The game is not enjoyable without spending money.",
+    "q27": -2,
+    "q28": "Non-paying users have a limited experience, similar to just completing a tutorial."
+  },
+  {
+    "q0": 34543871,
+    "q5": "The storyline is too drawn out."
+  },
+  {
+    "q0": 34543853,
+    "q5": "The game claims to redefine mobile game rules and free trade."
+  },
+  {
+    "q0": 34543849,
+    "q5": "The graphics are described as quite good."
+  },
+  {
+    "q0": 34278290,
+    "q5": "The game is unplayable due to the inability to raise a daughter."
+  },
+  {
+    "q0": 34543832,
+    "q5": "The player was unable to register due to server limitations despite being a fan of the recommendation."
+  },
+  {
+    "q0": 34543830,
+    "q5": "The game's art and character designs are praised, particularly the character Xiao Bailong."
+  },
+  {
+    "q0": 34543829,
+    "q5": "The game includes gacha, idle, and dispatch mechanics, with a wish list for gacha."
+  },
+  {
+    "q0": 34543824,
+    "q5": "The voice acting is praised, especially a yandere villain character."
+  },
+  {
+    "q0": 34543814,
+    "q5": "The game is a simplified version of 'Westward Journey Online II', with good options for non-paying players.",
+    "q27": 2,
+    "q28": "Non-paying players can enjoy the game well, as most items can be earned through grinding."
+  },
+  {
+    "q0": 34543796,
+    "q5": "The game is a reskinned version of 'Fantasy Westward Journey' and 'Shenwu 2', with no new gameplay."
+  },
+  {
+    "q0": 34467981,
+    "q5": "The game is described as chaotic and tiring, lacking the excitement or strategy of other games.",
+    "q27": -2,
+    "q28": "The game lacks engaging features for non-paying users."
+  },
+  {
+    "q0": 34543725,
+    "q5": "The game is advertised as a PC game but has the quality of a web game."
+  },
+  {
+    "q0": 34543717,
+    "q5": "The player was unable to join a guild due to server issues at launch."
+  },
+  {
+    "q0": 34543706,
+    "q5": "The game was advertised as horizontal screen but is actually vertical, causing dissatisfaction."
+  },
+  {
+    "q0": 34543697,
+    "q5": "The game is described as a poorly made web game."
+  },
+  {
+    "q0": 34543687,
+    "q5": "The Dragon Palace faction is easy to start with but has a late power spike, making early leveling difficult."
+  },
+  {
+    "q0": 34543682,
+    "q5": "The game evokes nostalgia for old web-based pet games, but lacks excitement and has a bland narrative."
+  },
+  {
+    "q0": 34543633,
+    "q5": "The game automatically downloaded a large file without clear notification, consuming data."
+  },
+  {
+    "q0": 34543602,
+    "q5": "The tutorial is detailed and not awkward, with an engaging storyline."
+  },
+  {
+    "q0": 34543597,
+    "q5": "The NPCs are well-designed but not engaging enough to hold interest."
+  },
+  {
+    "q0": 34543557,
+    "q5": "The story pacing is well-controlled, keeping the player's attention."
+  },
+  {
+    "q0": 34543539,
+    "q5": "The player suggests item stacking and categorization for better organization."
+  },
+  {
+    "q0": 34543497,
+    "q5": "The game feels like a different, poorly made game compared to its advertisement."
+  },
+  {
+    "q0": 34543442,
+    "q5": "The game is not as bad as expected, with smooth server entry and decent gameplay."
+  },
+  {
+    "q0": 34543440,
+    "q5": "The game lacks side quests and feels like a waste of money."
+  },
+  {
+    "q0": 34543326,
+    "q5": "The game feels outdated and not worth playing compared to older games like 'Fantasy Westward Journey'."
+  },
+  {
+    "q0": 34543323,
+    "q5": "The game includes many traditional turn-based elements but lacks innovation."
+  },
+  {
+    "q0": 34543227,
+    "q5": "The game is a reskinned version of a 10-year-old web game, showing little respect for the anime audience."
+  },
+  {
+    "q0": 34543265,
+    "q5": "The game experience is filled with malice towards the player."
+  },
+  {
+    "q0": 34543224,
+    "q5": "The game is playable, but its value is subjective."
+  },
+  {
+    "q0": 34543188,
+    "q5": "The game features automatic pathfinding and lacks engaging content."
+  },
+  {
+    "q0": 34543185,
+    "q5": "The game has an appealing art style, with a national style that matches the player's taste."
+  },
+  {
+    "q0": 34543121,
+    "q5": "The gacha system lacks transparency and a guaranteed gold setting."
+  },
+  {
+    "q0": 34543104,
+    "q5": "The game is not recommended for players who do not spend heavily."
+  },
+  {
+    "q0": 34543102,
+    "q5": "The game is criticized for being a cash grab with celebrity endorsements."
+  },
+  {
+    "q0": 34543080,
+    "q5": "The game lacks meaningful rewards for non-paying players, with minimal initial benefits.",
+    "q27": -2,
+    "q28": "Non-paying users have limited access to features and rewards."
+  },
+  {
+    "q0": 34543064,
+    "q5": "The game feels like an old web game with automatic pathfinding and no engagement."
+  },
+  {
+    "q0": 34543045,
+    "q5": "The game is outdated with automatic pathfinding and no innovation."
+  },
+  {
+    "q0": 34543004,
+    "q5": "The game is a reskinned version of a web game with a boring plot and low main character presence."
+  },
+  {
+    "q0": 34542995,
+    "q5": "The tutorial is too long and the game lacks new gameplay elements."
+  },
+  {
+    "q0": 34542982,
+    "q5": "The game is described as trash, with missing reservation rewards."
+  },
+  {
+    "q0": 34542975,
+    "q5": "The game is a reskinned version of 'Fantasy Westward Journey' with misleading marketing."
+  },
+  {
+    "q0": 34542972,
+    "q5": "The pet gameplay is not as advertised."
+  },
+  {
+    "q0": 34542959,
+    "q5": "The game is generous with resources and gacha pulls."
+  },
+  {
+    "q0": 34542938,
+    "q5": "The game is described as a waste of time and should have been a web game."
+  },
+  {
+    "q0": 34542897,
+    "q5": "The game lacks strategy and control, with a focus on spending money.",
+    "q27": -2,
+    "q28": "Non-paying users have limited access to features and rewards."
+  },
+  {
+    "q0": 34542881,
+    "q5": "The game's art style is praised for its Tang Dynasty influence."
+  },
+  {
+    "q0": 34542877,
+    "q5": "The game's art is praised and early resources are plentiful."
+  },
+  {
+    "q0": 34542864,
+    "q5": "The game is praised for reducing daily task burdens and having dynamic shop prices."
+  },
+  {
+    "q0": 34542846,
+    "q5": "The game is described as a cash grab with no innovation."
+  },
+  {
+    "q0": 34542843,
+    "q5": "The game can be frustrating due to forced progression in dungeons."
+  },
+  {
+    "q0": 34542842,
+    "q5": "The game is not enjoyable and not suitable for the player."
+  },
+  {
+    "q0": 34542813,
+    "q5": "The game has server issues causing frequent disconnections."
+  },
+  {
+    "q0": 34542809,
+    "q5": "The game focuses on character and pet development, with less emphasis on active gameplay."
+  },
+  {
+    "q0": 34542794,
+    "q5": "The player dislikes turn-based combat but appreciates the graphics."
+  },
+  {
+    "q0": 34542773,
+    "q5": "The turn-based combat is praised for its classic style, reminiscent of 'Pokémon'."
+  },
+  {
+    "q0": 34542765,
+    "q5": "The game has poor graphics and server queue issues."
+  },
+  {
+    "q0": 34261896,
+    "q5": "The game has a faction restraint system, but the information is not clearly displayed during combat."
+  },
+  {
+    "q0": 34542760,
+    "q5": "The character art is highly praised."
+  },
+  {
+    "q0": 34542749,
+    "q5": "The game is heavily focused on spending money."
+  },
+  {
+    "q0": 34542738,
+    "q5": "The game has a traditional turn-based system with various factions and strategies.",
+    "q27": 1,
+    "q28": "The game is accessible to non-paying users with strategic choices."
+  },
+  {
+    "q0": 34542737,
+    "q5": "The beginner's gift requires a payment, which is seen as insulting."
+  },
+  {
+    "q0": 34542716,
+    "q5": "The player chose a healer role, which is in high demand for group content."
+  },
+  {
+    "q0": 34542687,
+    "q5": "The game is similar to a web game and feels childish."
+  },
+  {
+    "q0": 34542681,
+    "q5": "The game is heavily focused on spending money, with limited resources for non-paying players.",
+    "q27": -2,
+    "q28": "Non-paying users have limited access to features and rewards."
+  },
+  {
+    "q0": 34542657,
+    "q5": "The graphics are good, but the idle gameplay is not appealing."
+  },
+  {
+    "q0": 34542639,
+    "q5": "The game would be more popular if it were horizontal screen, as advertised."
+  },
+  {
+    "q0": 34542636,
+    "q5": "The game is described as worse than a web version of 'Fantasy Westward Journey'."
+  },
+  {
+    "q0": 34542603,
+    "q5": "The game is a waste of time."
+  },
+  {
+    "q0": 34542398,
+    "q5": "The game is a copy of 'Fantasy Westward Journey' with poor rewards and forced spending.",
+    "q27": -2,
+    "q28": "Non-paying users have limited access to features and rewards."
+  },
+  {
+    "q0": 34542544,
+    "q5": "The game is a cash grab with automatic gameplay and misleading advertising."
+  },
+  {
+    "q0": 34540993,
+    "q5": "The game is a mix of 'Fantasy Westward Journey' and 'Westward Journey Online II', with misleading advertising."
+  },
+  {
+    "q0": 34542525,
+    "q5": "The tutorial is excessively long, indicating poor planning."
+  }
+]
+```

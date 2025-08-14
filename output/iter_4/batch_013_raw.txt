@@ -1,0 +1,204 @@
+```json
+[
+  {
+    "q0": 35482798,
+    "q5": "The game is enjoyable with friends."
+  },
+  {
+    "q0": 35482792,
+    "q5": "Good early game benefits."
+  },
+  {
+    "q0": 35482789,
+    "q5": "Good graphics and music."
+  },
+  {
+    "q0": 35482772,
+    "q5": "Game mechanics similar to another game, average graphics, fast developer response."
+  },
+  {
+    "q0": 35482767,
+    "q5": "Simplified version of a fantasy game."
+  },
+  {
+    "q0": 35482763,
+    "q5": "Easy resource acquisition and simple growth experience."
+  },
+  {
+    "q0": 35482748,
+    "q5": "More enjoyable with a fixed team, not too demanding on spending."
+  },
+  {
+    "q0": 35482745,
+    "q5": "Designed for vertical screen play."
+  },
+  {
+    "q0": 35482728,
+    "q5": "Issues with game planning."
+  },
+  {
+    "q0": 35482707,
+    "q5": "Good playability, better rewards with friends."
+  },
+  {
+    "q0": 35482699,
+    "q5": "Limited methods for obtaining items and experience."
+  },
+  {
+    "q0": 35482695,
+    "q5": "Suitable for players with limited time."
+  },
+  {
+    "q0": 35482690,
+    "q5": "Developer listens to player feedback."
+  },
+  {
+    "q0": 35482674,
+    "q5": "Playable with minimal spending."
+  },
+  {
+    "q0": 35482669,
+    "q5": "Simple and casual, friendly to low-spending players."
+  },
+  {
+    "q0": 35482657,
+    "q5": "Good game, but concerns about future direction."
+  },
+  {
+    "q0": 35482647,
+    "q5": "Severe resource cuts."
+  },
+  {
+    "q0": 35482644,
+    "q5": "Generous daily rewards."
+  },
+  {
+    "q0": 35482635,
+    "q5": "Friendly to non-spending players."
+  },
+  {
+    "q0": 35482626,
+    "q5": "Fun game with unique features."
+  },
+  {
+    "q0": 35482533,
+    "q5": "Very enjoyable game."
+  },
+  {
+    "q0": 35482528,
+    "q5": "Good growth experience with reasonable spending."
+  },
+  {
+    "q0": 35482521,
+    "q5": "Friendly to low-spending players, but limited content."
+  },
+  {
+    "q0": 35482510,
+    "q5": "Reasonable resource acquisition."
+  },
+  {
+    "q0": 35482484,
+    "q5": "Low spending required, regular updates."
+  },
+  {
+    "q0": 35482482,
+    "q5": "Strong playability and good benefits."
+  },
+  {
+    "q0": 35482480,
+    "q5": "Easy to play, low spending, good graphics and music."
+  },
+  {
+    "q0": 35482464,
+    "q5": "Low spending required."
+  },
+  {
+    "q0": 35482460,
+    "q5": "Reasonable resource management, good graphics, and story."
+  },
+  {
+    "q0": 35482461,
+    "q5": "Limited playability outside of daily tasks, issues with hidden changes."
+  },
+  {
+    "q0": 35482402,
+    "q5": "Overall positive experience."
+  },
+  {
+    "q0": 35482436,
+    "q5": "Playable without spending."
+  },
+  {
+    "q0": 35482415,
+    "q5": "Desire for more visually appealing pets."
+  },
+  {
+    "q0": 35385165,
+    "q5": "Concerns about game quality versus monetization."
+  },
+  {
+    "q0": 35482368,
+    "q5": "Encouragement for game improvement."
+  },
+  {
+    "q0": 35482355,
+    "q5": "Reasonable resource acquisition with monthly card."
+  },
+  {
+    "q0": 35482321,
+    "q5": "Good game, suggestion for chat synchronization."
+  },
+  {
+    "q0": 35482297,
+    "q5": "Beautiful costumes and mounts."
+  },
+  {
+    "q0": 35482291,
+    "q5": "Issues with unannounced data changes."
+  },
+  {
+    "q0": 35482266,
+    "q5": "Frustration with event timing and team availability."
+  },
+  {
+    "q0": 35482259,
+    "q5": "Resource acquisition decreases over time."
+  },
+  {
+    "q0": 35482243,
+    "q5": "Standard turn-based game features."
+  },
+  {
+    "q0": 35482242,
+    "q5": "Excitement for new content."
+  },
+  {
+    "q0": 35482227,
+    "q5": "Fun game with a significant skill gap."
+  },
+  {
+    "q0": 35482218,
+    "q5": "Resource management is key to success."
+  },
+  {
+    "q0": 35306429,
+    "q5": "Concerns about fairness and event rewards."
+  },
+  {
+    "q0": 35482156,
+    "q5": "Developer listens to player feedback."
+  },
+  {
+    "q0": 35482154,
+    "q5": "Poor value balance."
+  },
+  {
+    "q0": 35482118,
+    "q5": "Concerns about unannounced changes."
+  },
+  {
+    "q0": 35482126,
+    "q5": "Suggestion for new features like marriage and offspring."
+  }
+]
+```

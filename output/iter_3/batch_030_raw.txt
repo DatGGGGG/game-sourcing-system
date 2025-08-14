@@ -1,0 +1,407 @@
+```json
+[
+  {
+    "q0": 34585728,
+    "q4": -2,
+    "q5": "The user finds the game boring and lacking unique selling points."
+  },
+  {
+    "q0": 34585604,
+    "q4": -2,
+    "q5": "The user finds the game experience poor and similar to another game, leading to uninstallation."
+  },
+  {
+    "q0": 34583639,
+    "q41": "User suggests skipping the tutorial for experienced players."
+  },
+  {
+    "q0": 34583575,
+    "q41": "User criticizes the game for mislabeling recharge records."
+  },
+  {
+    "q0": 34583535,
+    "q41": "User praises the game's character design and art style."
+  },
+  {
+    "q0": 34583523,
+    "q41": "User suggests improvements to the chat interface."
+  },
+  {
+    "q0": 34583451,
+    "q41": "User advises on team composition for certain classes."
+  },
+  {
+    "q0": 34583379,
+    "q41": "User emphasizes the importance of effort in playing the Tangmen class."
+  },
+  {
+    "q0": 34583289,
+    "q41": "User shares insights on game progression and class strength."
+  },
+  {
+    "q0": 34583251,
+    "q41": "User appreciates the game's setting and story elements."
+  },
+  {
+    "q0": 34583221,
+    "q41": "User praises the game's art, music, and content."
+  },
+  {
+    "q0": 34583108,
+    "q4": 2,
+    "q5": "User finds the combat engaging and doesn't want to skip battles."
+  },
+  {
+    "q0": 34583095,
+    "q41": "User appreciates the game's graphics and optimization."
+  },
+  {
+    "q0": 34583089,
+    "q41": "User discusses resource acquisition strategies."
+  },
+  {
+    "q0": 34582810,
+    "q4": -1,
+    "q5": "User finds the game lacking innovation and has issues with monetization."
+  },
+  {
+    "q0": 34582670,
+    "q41": "User provides strategy advice for a specific game challenge."
+  },
+  {
+    "q0": 34582490,
+    "q41": "User finds daily tasks too time-consuming."
+  },
+  {
+    "q0": 34582398,
+    "q41": "User expresses enthusiasm for a specific class and its leader."
+  },
+  {
+    "q0": 34582317,
+    "q4": -2,
+    "q5": "User criticizes the game's monetization and progression system."
+  },
+  {
+    "q0": 34561512,
+    "q4": -1,
+    "q5": "User finds the game repetitive and lacking content."
+  },
+  {
+    "q0": 34582038,
+    "q41": "User discusses class balance and team composition."
+  },
+  {
+    "q0": 34581996,
+    "q41": "User finds the main storyline too lengthy and outdated."
+  },
+  {
+    "q0": 34581715,
+    "q4": -2,
+    "q5": "User finds the game tedious and predicts player dropout."
+  },
+  {
+    "q0": 34581623,
+    "q4": -2,
+    "q5": "User finds the game demanding and not enjoyable for casual players."
+  },
+  {
+    "q0": 34581600,
+    "q41": "User comments on class performance in specific tasks."
+  },
+  {
+    "q0": 34581599,
+    "q41": "User criticizes the game's outdated aesthetics and misleading promotion."
+  },
+  {
+    "q0": 34581404,
+    "q41": "User finds the game to be of poor quality."
+  },
+  {
+    "q0": 34581356,
+    "q41": "User sarcastically comments on the game's quality."
+  },
+  {
+    "q0": 34580613,
+    "q4": -2,
+    "q5": "User criticizes the game's monetization and lack of support for non-paying players."
+  },
+  {
+    "q0": 34581146,
+    "q4": -1,
+    "q5": "User finds the game lacks innovation and has average graphics."
+  },
+  {
+    "q0": 34581109,
+    "q41": "User suggests allowing gifting to offline friends."
+  },
+  {
+    "q0": 34580779,
+    "q41": "User comments on game mechanics and challenges for non-paying players."
+  },
+  {
+    "q0": 34580846,
+    "q4": -2,
+    "q5": "User criticizes the game's heavy monetization."
+  },
+  {
+    "q0": 34580703,
+    "q4": -2,
+    "q5": "User criticizes the game's monetization and reliance on powerful creatures."
+  },
+  {
+    "q0": 34579815,
+    "q41": "User finds the game less demanding if not chasing leaderboards."
+  },
+  {
+    "q0": 34579812,
+    "q41": "User criticizes the ability to purchase powerful creatures."
+  },
+  {
+    "q0": 34579799,
+    "q41": "User finds the game simple and enjoys the cute creatures."
+  },
+  {
+    "q0": 34579675,
+    "q41": "User comments on resource management in the game."
+  },
+  {
+    "q0": 34579508,
+    "q41": "User praises the game's art and story."
+  },
+  {
+    "q0": 34579488,
+    "q41": "User appreciates the game's art style."
+  },
+  {
+    "q0": 34579305,
+    "q41": "User praises the game's unique art style."
+  },
+  {
+    "q0": 34579299,
+    "q41": "User finds the game simplified for new players."
+  },
+  {
+    "q0": 34579093,
+    "q41": "User seeks information on in-game items."
+  },
+  {
+    "q0": 34579079,
+    "q41": "User experiences frequent game crashes."
+  },
+  {
+    "q0": 34578711,
+    "q41": "User criticizes the game's misleading promotion and story."
+  },
+  {
+    "q0": 34578674,
+    "q41": "User comments on class balance and resource management."
+  },
+  {
+    "q0": 34578330,
+    "q41": "User criticizes the game's monetization and lack of innovation."
+  },
+  {
+    "q0": 34578323,
+    "q41": "User hopes for class improvements."
+  },
+  {
+    "q0": 34578237,
+    "q41": "User comments on resource management in daily tasks."
+  },
+  {
+    "q0": 34578189,
+    "q41": "User finds the game niche but enjoyable."
+  },
+  {
+    "q0": 34578147,
+    "q41": "User finds the game reminiscent of older games."
+  },
+  {
+    "q0": 34578142,
+    "q41": "User appreciates the developers' responsiveness to feedback."
+  },
+  {
+    "q0": 34578015,
+    "q41": "User sarcastically comments on the game's quality."
+  },
+  {
+    "q0": 34577966,
+    "q41": "User suggests reducing game demands for working players."
+  },
+  {
+    "q0": 34577787,
+    "q41": "User finds the game as demanding as a job."
+  },
+  {
+    "q0": 23657443,
+    "q41": "User requests less monetization focus."
+  },
+  {
+    "q0": 34577263,
+    "q4": -2,
+    "q5": "User criticizes the game's monetization and lack of innovation."
+  },
+  {
+    "q0": 34576796,
+    "q41": "User finds the game average with room for improvement."
+  },
+  {
+    "q0": 34557761,
+    "q41": "User criticizes the game's lack of innovation and balance."
+  },
+  {
+    "q0": 34575778,
+    "q41": "User finds the game average but playable."
+  },
+  {
+    "q0": 34575134,
+    "q41": "User criticizes the game's art style and lack of innovation."
+  },
+  {
+    "q0": 34574736,
+    "q41": "User criticizes the game's balance and monetization."
+  },
+  {
+    "q0": 34574659,
+    "q41": "User finds the game confusing for new players."
+  },
+  {
+    "q0": 34574571,
+    "q41": "User criticizes the game's lack of innovation."
+  },
+  {
+    "q0": 34574371,
+    "q41": "User criticizes the game's lack of innovation and balance."
+  },
+  {
+    "q0": 34574354,
+    "q41": "User finds the game less demanding in terms of monetization."
+  },
+  {
+    "q0": 34574252,
+    "q41": "User criticizes the game's lack of innovation and balance."
+  },
+  {
+    "q0": 34574140,
+    "q41": "User surprised by their playtime."
+  },
+  {
+    "q0": 34574072,
+    "q41": "User experiences technical issues with the game."
+  },
+  {
+    "q0": 34573842,
+    "q41": "User criticizes the game's lack of innovation."
+  },
+  {
+    "q0": 34573602,
+    "q41": "User finds the game as demanding as a job."
+  },
+  {
+    "q0": 34573573,
+    "q41": "User criticizes the game's balance in PvP."
+  },
+  {
+    "q0": 34572559,
+    "q41": "User suggests improvements to game pacing and interface."
+  },
+  {
+    "q0": 34572487,
+    "q41": "User suggests adding more casual and short activities."
+  },
+  {
+    "q0": 34572322,
+    "q41": "User criticizes the game's queue system."
+  },
+  {
+    "q0": 34572181,
+    "q41": "User criticizes the game's data usage."
+  },
+  {
+    "q0": 34570129,
+    "q41": "User criticizes the game's monetization."
+  },
+  {
+    "q0": 34571901,
+    "q41": "User appreciates the game's rewards and balance improvements."
+  },
+  {
+    "q0": 34571853,
+    "q41": "User advises on game progression and equipment management."
+  },
+  {
+    "q0": 34571851,
+    "q41": "User discusses class balance and improvements."
+  },
+  {
+    "q0": 34571820,
+    "q4": -2,
+    "q5": "User criticizes the game's monetization."
+  },
+  {
+    "q0": 34571742,
+    "q41": "User criticizes character modeling."
+  },
+  {
+    "q0": 34571719,
+    "q41": "User discusses class balance and resource management."
+  },
+  {
+    "q0": 34571549,
+    "q41": "User shares their game strategy and preferences."
+  },
+  {
+    "q0": 34571520,
+    "q41": "User finds the game enjoyable with minimal spending."
+  },
+  {
+    "q0": 34571506,
+    "q41": "User criticizes the game's monetization."
+  },
+  {
+    "q0": 34571452,
+    "q41": "User suggests reducing daily task duration."
+  },
+  {
+    "q0": 34571415,
+    "q41": "User discusses limited-time events and their preferences."
+  },
+  {
+    "q0": 34571331,
+    "q41": "User describes a new game feature and its appeal."
+  },
+  {
+    "q0": 34571144,
+    "q41": "User expresses enthusiasm for the game."
+  },
+  {
+    "q0": 34571136,
+    "q41": "User finds the game better than expected."
+  },
+  {
+    "q0": 34570995,
+    "q41": "User appreciates the game's art style and suggests improvements to music."
+  },
+  {
+    "q0": 34570969,
+    "q41": "User discusses a specific character's strengths."
+  },
+  {
+    "q0": 34570962,
+    "q4": -2,
+    "q5": "User criticizes the game's monetization."
+  },
+  {
+    "q0": 34570958,
+    "q41": "User suggests adding screen orientation options."
+  },
+  {
+    "q0": 34570861,
+    "q41": "User notices improvements in a specific character."
+  },
+  {
+    "q0": 34570778,
+    "q41": "User provides strategy advice for character builds."
+  }
+]
+```

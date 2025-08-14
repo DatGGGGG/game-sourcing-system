@@ -1,0 +1,196 @@
+```json
+[
+  {
+    "q0": 35483217,
+    "q31": 2,
+    "q32": "The user finds the game rewarding and enjoyable."
+  },
+  {
+    "q0": 35483202,
+    "q31": 2,
+    "q32": "The user appreciates the resource acquisition aspect of the game."
+  },
+  {
+    "q0": 35483199,
+    "q31": 2,
+    "q32": "The user praises the game's graphics and overall experience."
+  },
+  {
+    "q0": 35483161,
+    "q11": -1,
+    "q12": "The user hopes for better balance in the game.",
+    "q5": "The user suggests improving the PK experience."
+  },
+  {
+    "q0": 35483148,
+    "q27": 2,
+    "q28": "The user mentions that even low spenders can enjoy the game.",
+    "q13": 1,
+    "q14": "The user suggests increasing team rewards for different professions."
+  },
+  {
+    "q0": 35483141,
+    "q27": 2,
+    "q28": "The user finds the game accessible for non-paying players."
+  },
+  {
+    "q0": 35483102,
+    "q3": "Unique vertical turn-based combat."
+  },
+  {
+    "q0": 35483089,
+    "q31": 2,
+    "q32": "The user is pleased with the ability to obtain divine beasts."
+  },
+  {
+    "q0": 35483086,
+    "q29": -1,
+    "q30": "The user finds the game enjoyable but mentions it requires spending."
+  },
+  {
+    "q0": 35483081,
+    "q13": -1,
+    "q14": "The user desires more diversity in the demon spirit functions."
+  },
+  {
+    "q0": 35483076,
+    "q31": 2,
+    "q32": "The user appreciates the game's benefits and hopes for good management."
+  },
+  {
+    "q0": 35483063,
+    "q27": 2,
+    "q28": "The user finds the game fair and not too demanding."
+  },
+  {
+    "q0": 35483034,
+    "q31": 1,
+    "q32": "The user likes the game's art but criticizes the timing of events."
+  },
+  {
+    "q0": 35482989,
+    "q31": 2,
+    "q32": "The user finds the game friendly for non-spenders."
+  },
+  {
+    "q0": 35482985,
+    "q31": 1,
+    "q32": "The user finds resource acquisition reasonable."
+  },
+  {
+    "q0": 35482969,
+    "q3": "Combat involves team battles, ghost hunting, and star killing.",
+    "q5": "The user describes diverse combat modes.",
+    "q15": "Character and partner progression through equipment and pet evolution.",
+    "q16": false,
+    "q21": 2,
+    "q22": "The user mentions automatic team matching and combat."
+  },
+  {
+    "q0": 35482959,
+    "q31": 1,
+    "q32": "The user finds the game visually appealing but power-consuming."
+  },
+  {
+    "q0": 35482949,
+    "q29": 1,
+    "q30": "The user finds the game suitable for spending."
+  },
+  {
+    "q0": 35482938,
+    "q27": 2,
+    "q28": "The user finds the game playable without spending.",
+    "q29": 1,
+    "q30": "The user finds the game enjoyable with minimal spending."
+  },
+  {
+    "q0": 35482923,
+    "q31": 2,
+    "q32": "The user appreciates the variety of pets available."
+  },
+  {
+    "q0": 35482916,
+    "q29": 1,
+    "q30": "The user finds the spending level acceptable."
+  },
+  {
+    "q0": 35482882,
+    "q23": true,
+    "q24": "The game has a guarantee system.",
+    "q25": 1,
+    "q26": "The user finds the gacha system reasonable."
+  },
+  {
+    "q0": 35482881,
+    "q13": -1,
+    "q14": "The user desires more variety in factions."
+  },
+  {
+    "q0": 35482847,
+    "q21": -1,
+    "q22": "The user criticizes the game's updates and management."
+  },
+  {
+    "q0": 35482831,
+    "q27": 2,
+    "q28": "The user finds the game friendly for non-spenders."
+  },
+  {
+    "q0": 35482830,
+    "q21": 1,
+    "q22": "The user appreciates the game's responsiveness to feedback."
+  },
+  {
+    "q0": 35482814,
+    "q31": 2,
+    "q32": "The user enjoys the game's immersive experience."
+  },
+  {
+    "q0": 35482808,
+    "q31": 2,
+    "q32": "The user has played the game for a long time."
+  },
+  {
+    "q0": 35482788,
+    "q21": -1,
+    "q22": "The user criticizes the game's updates and event variety.",
+    "q27": 1,
+    "q28": "The user finds the game playable without spending."
+  },
+  {
+    "q0": 35482768,
+    "q31": 1,
+    "q32": "The user suggests more benefits for monthly card players."
+  },
+  {
+    "q0": 35482738,
+    "q31": 1,
+    "q32": "The user finds the game rewarding with some spending."
+  },
+  {
+    "q0": 35482670,
+    "q27": 2,
+    "q28": "The user finds the game highly accessible for non-spenders."
+  },
+  {
+    "q0": 35482661,
+    "q31": 1,
+    "q32": "The user finds the game enjoyable without spending."
+  },
+  {
+    "q0": 35482659,
+    "q31": 2,
+    "q32": "The user appreciates the game's rewards and accessibility."
+  },
+  {
+    "q0": 35482607,
+    "q29": -2,
+    "q30": "The user criticizes the game's spending pressure and randomness."
+  },
+  {
+    "q0": 35482606,
+    "q21": 1,
+    "q22": "The user appreciates the game's responsiveness to feedback."
+  }
+]
+```

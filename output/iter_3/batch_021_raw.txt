@@ -1,0 +1,190 @@
+```json
+[
+  {
+    "q0": 35481671,
+    "q9": 1,
+    "q10": "The game is enjoyable, but servers open too quickly."
+  },
+  {
+    "q0": 35481670,
+    "q27": 2,
+    "q28": "The game environment is good and doesn't require much spending to play."
+  },
+  {
+    "q0": 35481668,
+    "q9": -2,
+    "q10": "The experience is negative due to constant changes and lack of transparency."
+  },
+  {
+    "q0": 35481666,
+    "q9": 2,
+    "q10": "The game is considered the most enjoyable encountered in recent years."
+  },
+  {
+    "q0": 35481656,
+    "q27": 2,
+    "q28": "The game is accessible to non-paying users, allowing participation in all activities with minimal spending."
+  },
+  {
+    "q0": 35481645,
+    "q31": -1,
+    "q32": "The UI is too small, making it difficult to operate."
+  },
+  {
+    "q0": 35481640,
+    "q9": 2,
+    "q10": "The game is fun and suitable for casual play during work."
+  },
+  {
+    "q0": 35481639,
+    "q21": 1,
+    "q22": "The game is improving and introducing more personalized characters."
+  },
+  {
+    "q0": 35481636,
+    "q29": 1,
+    "q30": "The game is somewhat pay-to-win but better than others."
+  },
+  {
+    "q0": 35481635,
+    "q19": 2,
+    "q20": "Resource acquisition is balanced, allowing for enjoyable play with minimal spending."
+  },
+  {
+    "q0": 35481634,
+    "q19": 2,
+    "q20": "Resource acquisition is very good."
+  },
+  {
+    "q0": 35481328,
+    "q29": -2,
+    "q30": "The game has high spending pressure due to difficult activities."
+  },
+  {
+    "q0": 35480424,
+    "q19": -1,
+    "q20": "The rewards feel insufficient across various activities."
+  },
+  {
+    "q0": 35475653,
+    "q3": "The game is a traditional turn-based RPG with activities like escorting, treasure hunting, and ghost catching.",
+    "q4": -1,
+    "q5": "The combat lacks innovation and requires constant team formation.",
+    "q6": "Team formation is necessary for most activities.",
+    "q7": -1,
+    "q8": "The game lacks new strategic elements and heavily relies on team play."
+  },
+  {
+    "q0": 35473246,
+    "q4": -1,
+    "q5": "The combat music starts late, indicating a lack of polish in the combat experience."
+  },
+  {
+    "q0": 35470938,
+    "q27": 1,
+    "q28": "The game is enjoyable for light spenders, but luck-based events can be frustrating."
+  },
+  {
+    "q0": 35468446,
+    "q9": -1,
+    "q10": "The game is visually appealing but becomes boring over time."
+  },
+  {
+    "q0": 34552834,
+    "q27": 1,
+    "q28": "The game is accessible to non-paying users, but the gap between free and paying players will widen over time.",
+    "q29": -1,
+    "q30": "The game has a high spending pressure as it progresses, especially in the mid to late stages."
+  },
+  {
+    "q0": 35461649,
+    "q29": -2,
+    "q30": "The game has high spending pressure, with frequent new servers and a significant advantage for paying players."
+  },
+  {
+    "q0": 35459627,
+    "q29": -2,
+    "q30": "The game heavily pressures players to spend money, with poor value for spending and repetitive gameplay."
+  },
+  {
+    "q0": 35457868,
+    "q29": -2,
+    "q30": "The game employs various tactics to pressure players into spending money."
+  },
+  {
+    "q0": 35457637,
+    "q29": -2,
+    "q30": "The game heavily relies on social interaction and spending to progress, making it unsuitable for solo or casual players."
+  },
+  {
+    "q0": 35457426,
+    "q9": -2,
+    "q10": "The game is too demanding, feeling more like a job than entertainment."
+  },
+  {
+    "q0": 35045751,
+    "q21": -1,
+    "q22": "The game frequently updates with changes that negatively impact the player experience.",
+    "q41": "The game has optimization issues, frequent bugs, and poor customer service."
+  },
+  {
+    "q0": 35447128,
+    "q21": -1,
+    "q22": "The game frequently updates with changes that negatively impact the player experience.",
+    "q29": -2,
+    "q30": "The game has high spending pressure with frequent events and expensive gacha mechanics."
+  },
+  {
+    "q0": 35446377,
+    "q9": -1,
+    "q10": "The game becomes repetitive and loses its appeal over time.",
+    "q29": -1,
+    "q30": "The game has high spending pressure, with diminishing returns on investment."
+  },
+  {
+    "q0": 35441041,
+    "q29": -2,
+    "q30": "The game is heavily monetized, focusing on extracting money from players."
+  },
+  {
+    "q0": 35440799,
+    "q29": -2,
+    "q30": "The game has high spending pressure, with frequent expensive gacha events and poor value for money."
+  },
+  {
+    "q0": 35434873,
+    "q29": -2,
+    "q30": "The game has high spending pressure, with a restrictive trading system that favors paying players."
+  },
+  {
+    "q0": 35398387,
+    "q29": -2,
+    "q30": "The game has high spending pressure, with frequent changes that negatively impact the player experience."
+  },
+  {
+    "q0": 35397988,
+    "q29": -2,
+    "q30": "The game has high spending pressure, with significant advantages for paying players and unclear participation requirements."
+  },
+  {
+    "q0": 35379488,
+    "q29": -2,
+    "q30": "The game has high spending pressure, with frequent changes that negatively impact the player experience."
+  },
+  {
+    "q0": 35367539,
+    "q9": 1,
+    "q10": "The game is initially enjoyable for new players, with good resource acquisition."
+  },
+  {
+    "q0": 35366829,
+    "q29": -2,
+    "q30": "The game has high spending pressure, with frequent changes that negatively impact the player experience."
+  },
+  {
+    "q0": 35360428,
+    "q29": -2,
+    "q30": "The game has high spending pressure, with frequent changes that negatively impact the player experience."
+  }
+]
+```

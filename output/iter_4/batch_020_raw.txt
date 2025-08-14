@@ -1,0 +1,352 @@
+```json
+[
+  {
+    "q0": 34557946,
+    "q5": "User questions the sincerity of the 1888 gift package."
+  },
+  {
+    "q0": 34557762,
+    "q5": "User is indecisive about character selection but appreciates the aesthetics of Qingqiu."
+  },
+  {
+    "q0": 34557692,
+    "q5": "User suggests adding more casual gameplay like fishing and farming."
+  },
+  {
+    "q0": 34557575,
+    "q5": "User finds the game lacking but still gives it 3 stars."
+  },
+  {
+    "q0": 34557196,
+    "q5": "User speculates about a connection to a known story involving gourds."
+  },
+  {
+    "q0": 34540263,
+    "q5": "User lists several issues: too many servers, pet system, competition for resources, and lack of innovation."
+  },
+  {
+    "q0": 34556943,
+    "q5": "User questions if the game is about celestial beings or a timed game."
+  },
+  {
+    "q0": 34555403,
+    "q5": "User shares a tip about earning money by doing daily tasks and visiting the ghost market."
+  },
+  {
+    "q0": 34555257,
+    "q5": "User finds the game not very fun."
+  },
+  {
+    "q0": 34555033,
+    "q5": "User finds the game lacking."
+  },
+  {
+    "q0": 34554897,
+    "q5": "User mentions playing all night but only seeing a short time displayed."
+  },
+  {
+    "q0": 34554231,
+    "q5": "User comments on the game's art style, noting it is not typical of a certain genre."
+  },
+  {
+    "q0": 34553975,
+    "q5": "User criticizes the company for making reskinned games and using fake reviews."
+  },
+  {
+    "q0": 34553964,
+    "q5": "User complains about long queue times."
+  },
+  {
+    "q0": 34553943,
+    "q5": "User is unhappy with the dyeing system mechanics."
+  },
+  {
+    "q0": 34553904,
+    "q5": "User lacks motivation to continue playing."
+  },
+  {
+    "q0": 34553767,
+    "q5": "User complains about not receiving purchased items."
+  },
+  {
+    "q0": 34534652,
+    "q5": "User mocks the game's rating drop and accuses the company of self-deception."
+  },
+  {
+    "q0": 34553614,
+    "q5": "User is frustrated with persistent notification dots."
+  },
+  {
+    "q0": 34553563,
+    "q5": "User discusses the game's art style, noting a difference between expected and actual styles."
+  },
+  {
+    "q0": 34553523,
+    "q5": "User believes turn-based games without trading are doomed."
+  },
+  {
+    "q0": 34553462,
+    "q5": "User accuses the game of artificially inflating queue times."
+  },
+  {
+    "q0": 34553418,
+    "q5": "User prefers another game over this one."
+  },
+  {
+    "q0": 34553391,
+    "q5": "User finds the game boring and similar to other turn-based games."
+  },
+  {
+    "q0": 34553379,
+    "q5": "User questions the game's rating and criticizes its gameplay."
+  },
+  {
+    "q0": 34553330,
+    "q5": "User mentions spending money to obtain powerful pets."
+  },
+  {
+    "q0": 34553164,
+    "q5": "User complains about unfulfilled reward promises."
+  },
+  {
+    "q0": 34553152,
+    "q5": "User is frustrated with long queue times during short breaks."
+  },
+  {
+    "q0": 34553123,
+    "q5": "User criticizes the game for being outdated."
+  },
+  {
+    "q0": 34553105,
+    "q5": "User discusses the need for constant online presence to benefit from free rewards."
+  },
+  {
+    "q0": 34552993,
+    "q5": "User inquires about the evolution conditions of certain creatures."
+  },
+  {
+    "q0": 34552785,
+    "q5": "User enjoys playing a specific character class."
+  },
+  {
+    "q0": 34552715,
+    "q5": "User finds the game strange and disjointed."
+  },
+  {
+    "q0": 34552692,
+    "q5": "User criticizes the game for being a patchwork of old ideas."
+  },
+  {
+    "q0": 34552684,
+    "q5": "User appreciates recent changes to a character class."
+  },
+  {
+    "q0": 34552660,
+    "q5": "User criticizes the game for being a reskinned version of previous games."
+  },
+  {
+    "q0": 34552659,
+    "q5": "User finds a specific gameplay aspect frustrating."
+  },
+  {
+    "q0": 34552643,
+    "q5": "User finds the game too demanding and quits."
+  },
+  {
+    "q0": 34552626,
+    "q5": "User perceives the game as a quick cash grab with fake ratings."
+  },
+  {
+    "q0": 34552624,
+    "q5": "User criticizes the game for pretending to care about non-paying players."
+  },
+  {
+    "q0": 34552617,
+    "q5": "User finds certain game mechanics visually appealing but not practical."
+  },
+  {
+    "q0": 34552586,
+    "q5": "User finds the game old-fashioned and not very fun."
+  },
+  {
+    "q0": 34552583,
+    "q5": "User appreciates the visual evolution of creatures."
+  },
+  {
+    "q0": 34552527,
+    "q5": "User is pleased with the visual evolution feature."
+  },
+  {
+    "q0": 34552482,
+    "q5": "User enjoys playing with multiple accounts."
+  },
+  {
+    "q0": 34552426,
+    "q5": "User recommends a specific character class for its versatility."
+  },
+  {
+    "q0": 34552262,
+    "q5": "User finds the game boring and struggles to find rewards."
+  },
+  {
+    "q0": 34552147,
+    "q5": "User finds the game suitable for passing time but not engaging."
+  },
+  {
+    "q0": 34552007,
+    "q5": "User criticizes the company for spending more on marketing than game quality."
+  },
+  {
+    "q0": 34551994,
+    "q5": "User describes a character class as strong in control and survival."
+  },
+  {
+    "q0": 34551656,
+    "q5": "User criticizes the game's download process and target audience."
+  },
+  {
+    "q0": 34551650,
+    "q5": "User finds the game's PvP mechanics unrealistic."
+  },
+  {
+    "q0": 34551603,
+    "q5": "User criticizes the game for having limited-time events."
+  },
+  {
+    "q0": 34551571,
+    "q5": "User finds the game experience novel and enjoyable."
+  },
+  {
+    "q0": 34551559,
+    "q5": "User finds the activity duration too long and the battles unskippable."
+  },
+  {
+    "q0": 34540988,
+    "q5": "User finds the game routine and heavily monetized."
+  },
+  {
+    "q0": 34551397,
+    "q5": "User finds the game unremarkable and lacking in unique features."
+  },
+  {
+    "q0": 34551308,
+    "q5": "User finds the game suitable for passing time and mentions resource acquisition."
+  },
+  {
+    "q0": 34551239,
+    "q5": "User finds the game not fun and criticizes the pet system."
+  },
+  {
+    "q0": 34551166,
+    "q5": "User criticizes the monetization and pet system."
+  },
+  {
+    "q0": 34551121,
+    "q5": "User finds the game derivative and comments on its art style and monetization."
+  },
+  {
+    "q0": 34551111,
+    "q5": "User finds the game unremarkable and advises caution before playing."
+  },
+  {
+    "q0": 34551101,
+    "q5": "User finds the game identical to another."
+  },
+  {
+    "q0": 34551088,
+    "q5": "User criticizes the game for technical issues and lack of engaging content."
+  },
+  {
+    "q0": 34551065,
+    "q5": "User accuses the game of copying animations from other games."
+  },
+  {
+    "q0": 34550922,
+    "q5": "User appreciates the lack of intrusive monetization prompts."
+  },
+  {
+    "q0": 34550899,
+    "q5": "User finds the unskippable story tiring."
+  },
+  {
+    "q0": 34550848,
+    "q5": "User finds the game very boring."
+  },
+  {
+    "q0": 34550841,
+    "q5": "User suggests changes to the game's control mechanics."
+  },
+  {
+    "q0": 34550791,
+    "q5": "User finds the game boring and time-consuming."
+  },
+  {
+    "q0": 34540605,
+    "q5": "User finds customer service satisfactory."
+  },
+  {
+    "q0": 34550116,
+    "q5": "User inquires about the possibility of free trading."
+  },
+  {
+    "q0": 34549798,
+    "q5": "User reports issues with redeeming rewards."
+  },
+  {
+    "q0": 34549683,
+    "q5": "User criticizes the game's art and advertising."
+  },
+  {
+    "q0": 34549428,
+    "q5": "User discusses character abilities and suggests spending strategies."
+  },
+  {
+    "q0": 34549402,
+    "q5": "User dislikes being forced to use certain characters."
+  },
+  {
+    "q0": 34549369,
+    "q5": "User questions the suitability of equipment for a character class."
+  },
+  {
+    "q0": 34549345,
+    "q5": "User mentions upcoming features and requests more events."
+  },
+  {
+    "q0": 34549300,
+    "q5": "User discusses server merges and potential rewards."
+  },
+  {
+    "q0": 34549229,
+    "q5": "User expresses support for the game's development."
+  },
+  {
+    "q0": 34549101,
+    "q5": "User finds the game not fun."
+  },
+  {
+    "q0": 34549031,
+    "q5": "User describes the game as a map-running game."
+  },
+  {
+    "q0": 34548899,
+    "q5": "User gives a perfect score and praises the creature system."
+  },
+  {
+    "q0": 34548324,
+    "q5": "User criticizes the game for being a reskinned version."
+  },
+  {
+    "q0": 34548211,
+    "q5": "User finds a discrepancy between the game's appearance and its promotional material."
+  },
+  {
+    "q0": 34548155,
+    "q5": "User describes the game as a simplified version of another."
+  },
+  {
+    "q0": 34548037,
+    "q5": "User finds the game's controls smooth."
+  }
+]
+```

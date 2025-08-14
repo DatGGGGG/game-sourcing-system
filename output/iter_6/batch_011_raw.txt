@@ -1,0 +1,59 @@
+```json
+[
+  {
+    "q0": 30497896,
+    "q41": "User suggests flexibility in evolution mechanics."
+  },
+  {
+    "q0": 30467266,
+    "q41": "User suggests adding a feature to display remaining rewards."
+  },
+  {
+    "q0": 30418738,
+    "q5": "User likes the art style and is looking forward to the game."
+  },
+  {
+    "q0": 30391017,
+    "q41": "User expresses frustration about the testing process and delays."
+  },
+  {
+    "q0": 29622956,
+    "q5": "User likes the art style but is not a fan of turn-based games.",
+    "q41": "User hopes the game is not too demanding."
+  },
+  {
+    "q0": 29620806,
+    "q41": "User discusses the challenge of creating historical characters and suggests recruiting fans for development."
+  },
+  {
+    "q0": 29389530,
+    "q5": "User hopes for innovation in turn-based mechanics."
+  },
+  {
+    "q0": 29017404,
+    "q1": true,
+    "q2": "Furry content",
+    "q5": "User is excited about the inclusion of male orcs."
+  },
+  {
+    "q0": 27584303,
+    "q5": "User is patient and expects a well-polished turn-based game."
+  },
+  {
+    "q0": 27546915,
+    "q41": "User inquires about pet merging mechanics similar to another game."
+  },
+  {
+    "q0": 27337383,
+    "q41": "User questions about team composition flexibility across factions."
+  },
+  {
+    "q0": 27328206,
+    "q41": "User inquires about the role classification within a faction."
+  },
+  {
+    "q0": 27319467,
+    "q41": "User hopes for non-restrictive event scheduling."
+  }
+]
+```

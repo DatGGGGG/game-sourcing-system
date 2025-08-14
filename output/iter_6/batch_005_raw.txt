@@ -1,0 +1,39 @@
+```json
+[
+  {
+    "q0": 35482967,
+    "q3": "Turn-based game"
+  },
+  {
+    "q0": 35482943,
+    "q3": "Turn-based game"
+  },
+  {
+    "q0": 35482942,
+    "q3": "Turn-based game",
+    "q41": "Some small bugs need optimization"
+  },
+  {
+    "q0": 35482345,
+    "q9": 1,
+    "q10": "Game is playable for 3 months which is considered good"
+  },
+  {
+    "q0": 35482237,
+    "q9": 1,
+    "q10": "Slow accumulation of resources"
+  },
+  {
+    "q0": 35482176,
+    "q3": "Turn-based game"
+  },
+  {
+    "q0": 35482140,
+    "q3": "Turn-based game"
+  },
+  {
+    "q0": 35481740,
+    "q41": "Concerns about the game's numerical balance"
+  }
+]
+```
