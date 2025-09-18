@@ -1,0 +1,372 @@
+question_code,question_content,synthesis_answer
+q1,"Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)","{None: 6369, True: 35, False: 20}"
+q2,"List the sensitive content mentioned, if any.","- **Sexual Content/Nudity**: Concerns about female characters showing cleavage and running with exaggerated chest movements. [34561123]
+
+- **Religious/Political**: Criticism of using Japanese elements like torii gates and Japanese-style monsters, seen as inappropriate for a game set in Tang Dynasty China. [34415325, 34373276, 30905586, 34279664]
+
+- **Drugs/Alcohol/Tobacco**: No mentions found.
+
+- **Violence/Gore**: No mentions found."
+q3,Summarize the core combat mechanics (or “N/A” if not mentioned).,"- Players appreciate the game's innovative vertical screen design, making single-handed operation easy and comfortable. [35631039, 35482082]
+
+- The combat system is praised for its strategic depth, requiring players to devise suitable strategies. [37988997, 38059984]
+
+- Players find the game less demanding on time and money, with a balance that allows non-paying players to enjoy the game. [35631039, 35482037]
+
+- The game features a variety of roles and classes, each with unique abilities, such as physical and magical damage dealers, healers, and controllers. [35484177, 34536948]
+
+- Some players suggest the game could benefit from features like battle skipping or speed-up options to reduce repetitive combat. [35509812, 34654866]
+
+- The pet and spirit system is highlighted as a standout feature, with evolution and unique skills adding depth to gameplay. [35484177, 34063431]
+
+- Players note the game’s combat pacing can be slow, especially in repetitive battles, which some find tedious. [35509812, 35107834]
+
+- The game allows for both manual and automatic combat, catering to different playstyles, though some find the automatic system lacking intelligence. [35020465, 34165906]
+
+- Players express concerns about balance, noting that some classes or pets may be overpowered, affecting competitive play. [34611348, 34655824]
+
+- The game is described as a mix of traditional and innovative elements, with some players feeling it lacks originality. [34636242, 34560994]"
+q4,Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”,"{'overall_score': 0.07009345794392523, 'detailed_scoring': {None: 5996, 2.0: 139, -2.0: 133, 1.0: 82, -1.0: 64, 0.0: 10}}"
+q5,Reason for previous question’s rating,"- Players appreciate the unique vertical screen format, suitable for mobile play. [35631039, 44058420]
+- Combat is engaging and strategic, requiring careful planning. [37988997]
+- Lack of a speed-up feature makes battles feel slow and tedious. [43888798, 37073345]
+- Combat described as ""too slow"" and ""like sitting in jail"" by some. [43888798]
+- Praised for strategic depth; players need to devise strategies. [37988997]
+- Some enjoy the combat system, calling it ""very good"" for turn-based play. [44175736]
+- Criticized for being too drawn out and lacking excitement. [37073345]
+- Frustration with slow pace, especially without a speed-up option. [41351451, 37073345]
+- Combat satisfying for some, focusing on strategy and planning. [37988997]
+- Highlighted by some for strategic elements. [35631039, 37988997]
+- Combat lacks innovation, seen as repetitive by some. [40524423, 40477421]
+- Beautiful art style enhances combat experience. [43909501, 40477421]
+- Strategic elements enjoyed, though similar to other games. [40477421, 40481454]"
+q6,"List the strategic/tactical features mentioned, if any.","- 法宠建议打审判，配合魂技降低归一几率。[44421749]
+- 双乃队伍简单无脑，三辅助特技循环。[44331803]
+- 古灵用真唤灵笛打怪，需培养宠物。[44222285]
+- 竖屏模式适配手机，上下站位更适合回合制。[44058420]
+- 副本打法：二辅助带三个法系，五个法宠。[42741781]
+- 每日任务：完成50次抓鬼，培养神兽猴子和白龙。[40193056]
+- 战斗系统考验策略性，角色妖灵灵师养成。[37988997]
+- 神宫五机制研究，特技宝宝整备。[37710745]
+- 耐反站桩熊猫加点策略，加点1体4力或5力。[37710699]
+- 剑魂大招减伤40%，不打吸血的敏攻。[37707876]
+- 神宫剑魂大招伤害高，1-2次击。[37678648]
+- 神宫风伯适合卡69玩家，日常和竞技场。[37677880]
+- 普陀和弈剑适合萌新，装备好弄。[37677865]
+- 战斗系统回合制，设置指挥指令提升NPC表现。[35832669]
+- 游戏可上阵三只宠物，社交属性需加强。[35668544]
+- 战斗考验操作和选取对象，建议跳过碾压战斗。[35509812]
+- 3卡党囤资源，神兽有优势，职业选择多样。[35484177]
+- 游戏策略性强，氪金多为服饰类。[35484130]
+- 宠物技能装备挑战个性搭配。[35483862]
+- 游戏对战机制有趣，技能和资源改进。[35483581]
+- 游戏玩法丰富，回合制改进明显。[35483453]
+- 神兽宠物易获得，活动奖励少。[35482596]
+- 妖灵系统有趣，独特用法。[35481776]
+- 战斗机制考验策略，建议组队打boss。[34569928]
+- 游戏法宝系统有趣，驭灵师装备。[34567894]
+- 游戏对战机制有趣，带狐狸可1穿3。[34565004]
+- 游戏玩法类似回合制战斗，策略选择重要。[34550869]
+- 游戏策略战斗，职业选择多样。[34554130]
+- 游戏阵容搭配需动脑，避免被吊打。[34593516]
+- 游戏职业装备选择，输出优先武器。[34570710]
+- 游戏宠物养成复杂，技能搭配需耐心。[34569985]
+- 游戏战斗机制不复杂，考验策略。[34569928]
+- 游戏法宝系统有趣，驭灵师装备。[34567894]
+- 游戏对战机制有趣，带狐狸可1穿3。[34565004]
+- 游戏玩法类似回合制战斗，策略选择重要。[34550869]
+- 游戏策略战斗，职业选择多样。[34554130]
+- 游戏阵容搭配需动脑，避免被吊打。[34593516]
+- 游戏职业装备选择，输出优先武器。[34570710]
+- 游戏宠物养成复杂，技能搭配需耐心。[34569985]
+- 游戏战斗机制不复杂，考验策略。[34569928]
+- 游戏法宝系统有趣，驭灵师装备。[34567894]
+- 游戏对战机制有趣，带狐狸可1"
+q7,Rate strategic/tactical depth: -2 to 2 or “N/A”,"{'overall_score': 1.1007751937984496, 'detailed_scoring': {None: 6295, 2.0: 60, 1.0: 47, -1.0: 13, -2.0: 6, 0.0: 3}}"
+q8,Reason for previous question’s rating,"- Players find the game lacks strategic depth, with ""没有策略又简单无脑"" being a common sentiment. [44331803]
+- Some players appreciate the need for strategy in certain battles, mentioning the importance of adapting to enemy skills. [38009804, 37988997]
+- The game is seen as having a traditional turn-based system with limited innovation in strategy. [34550869, 34547675]
+- Players suggest the game could benefit from more diverse strategic options, such as different skill sets for PvP and PvE. [32393749]
+- The game is described as requiring strategy for team composition and skill use, but some find it repetitive. [34569928, 34593516]
+- Some players feel the game’s strategy is overshadowed by repetitive PvE content. [34890836]
+- A player suggests that the game’s strategy is more about team coordination than individual tactics. [38047855]
+- The game is noted for its strategic potential in character and pet development, though some find it lacking in execution. [35484130, 34554130]"
+q9,Rate game progression: -2 to 2 or “N/A”,"{'overall_score': -0.20811287477954143, 'detailed_scoring': {None: 5857, -2.0: 168, -1.0: 149, 2.0: 125, 1.0: 117, 0.0: 8}}"
+q10,Reason for previous question’s rating,"- Players find the progression system challenging, especially for new players who struggle with main quests and resource management. [44439228, 39148719]
+- Many reviews mention that the game becomes increasingly difficult and resource-intensive as players progress, leading to frustration. [36088428, 36003423]
+- The game is described as ""very grindy,"" with daily tasks and events requiring significant time investment. [37352189, 36184942]
+- Some players appreciate the unique gameplay and progression but note that it heavily favors paying players. [36003423, 37331310]
+- There is criticism of the game's balance, with some players feeling that non-paying players are at a significant disadvantage. [36088428, 37331310]
+- Players express dissatisfaction with the game's frequent updates that reduce rewards and increase difficulty, perceived as a push towards spending money. [35363085, 34249632]
+- The progression system is seen as rewarding for those who invest time and money, but frustrating for casual or non-paying players. [35410446, 36003423]
+- Some players enjoy the game's progression and find it rewarding, especially when playing with friends or in a guild. [35481984, 35484114]
+- The game is noted for its ""pay-to-win"" elements, with significant advantages for players who spend money on in-game purchases. [36003423, 37331310]
+- Players mention that the game requires strategic resource management to progress effectively without spending money. [35484177, 35487324]"
+q11,Rate hero balance: -2 to 2 or “N/A”,"{'overall_score': -0.49673202614379086, 'detailed_scoring': {None: 6271, -1.0: 48, -2.0: 47, 1.0: 38, 2.0: 14, 0.0: 6}}"
+q12,Reason for previous question’s rating,"- Players feel Dragon Palace needs strengthening. [44454543]
+
+- Pu Tuo's healing is seen as insufficient, making it hard to play. [44420592, 44304588]
+
+- Gu Ling is considered very strong, dominating in both PVP and PVE. [44436533, 44402934, 44328228]
+
+- Phoenix is popular for being ""tough and outputting,"" suggesting a balance issue. [44318463]
+
+- Players criticize the game's balance, saying it's poorly done and favors physical over magical classes. [42501467, 42487431, 41453009]
+
+- Pu Tuo and Qing Qiu are seen as marginalized, with Pu Tuo being less effective. [44328228, 44304588]
+
+- The game is criticized for frequent nerfs and buffs based on popularity rather than mechanics. [42571222]
+
+- Players suggest deleting support classes due to their perceived ineffectiveness. [36472672]
+
+- Tang Men is seen as weak and requires improvement. [34890291, 34822723]
+
+- Players feel the game heavily favors physical classes, making magical classes less viable. [42487431, 41453009]
+
+- Qing Qiu's control abilities are seen as excessive, leading to balance issues. [33917619, 34877507]
+
+- Players express frustration over frequent changes and lack of balance in pet strengths. [34782345, 34797653]
+
+- The game is seen as favoring high spenders, with free players struggling to compete. [35908464, 35836814]
+
+- Players feel the game lacks innovation and relies on outdated mechanics. [34550869, 27572387]
+
+- Some players find the game balanced, with each class having unique strengths and weaknesses. [37997139, 35487717]
+
+- Players criticize the game's reliance on RNG and frequent nerfs, affecting gameplay experience. [30460833, 30532268]
+
+- The game's balance is seen as a joke, with physical classes dominating. [41453009]
+
+- Players suggest improving class diversity and balance to enhance gameplay. [33802450, 27736798]
+
+- The game is criticized for poor balance and frequent changes without player consideration. [35711191, 42178089]
+
+- Some players appreciate the balance, noting each class has its role. [38048597, 34958775]"
+q13,Rate hero/team build diversity: -2 to 2 or “N/A”,"{'overall_score': 0.30952380952380953, 'detailed_scoring': {None: 6340, 1.0: 27, 2.0: 23, -1.0: 19, -2.0: 14, 0.0: 1}}"
+q14,Reason for previous question’s rating,"- Players express concern about limited hero and team build diversity. [44041556, 35483148, 34775028]
+
+- Some players feel certain professions are too dominant, affecting balance. [36704059, 35936448]
+
+- ""职业平衡太差"" indicates significant imbalance among professions. [34550869]
+
+- Players suggest adding new professions to improve balance and diversity. [35482881, 33904380]
+
+- Many reviews highlight the need for more diverse pet options and strategies. [35703761, 35603632]
+
+- Some players feel the game relies too much on numerical strength rather than strategic diversity. [35603632, 35332329]
+
+- Suggestions include enhancing the variety of skills and roles for pets and heroes. [35483081, 34570370]
+
+- Players desire more strategic options in team compositions and skill usage. [34553818, 33728605]
+
+- There is a call for more innovative and varied gameplay mechanics. [34535179, 34542277]"
+q15,Describe the secondary core loop (or “N/A”),"- Players engage in capturing and evolving creatures, which is a key aspect of the game. [35482969, 34554590]
+- The game features a tower-climbing mechanic that players find engaging and challenging. [34552817, 32408077]
+- Social elements are emphasized, with systems for forming bonds and friendships. [34564724, 34568661]
+- The game includes a variety of daily tasks and missions that can be completed automatically. [35482969, 34550869]
+- Players can participate in multiplayer activities like team battles and guild tasks. [35482969, 34553773]
+- Resource management and crafting are important for progression, with players needing to manage in-game currency and materials. [34568000, 34535560]
+- The game allows for customization and upgrading of equipment, which is a significant part of progression. [34568000, 33959266]
+- Players appreciate the strategic elements in battles, which require careful planning and execution. [34554130, 34553226]"
+q16,"Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)","{None: 6380, False: 32, True: 12}"
+q17,Rate simplicity of the secondary loop: -2 to 2 or “N/A”,"{'overall_score': 0.9411764705882353, 'detailed_scoring': {None: 6390, 1.0: 18, 2.0: 9, -1.0: 4, 0.0: 3}}"
+q18,Reason for previous question’s rating,"- Players find the secondary loop gameplay to be repetitive and time-consuming. [34938259, 34553773]
+- The game is described as having a ""routine-like"" daily task system. [34554130, 34554879]
+- Some players suggest reducing the frequency of certain challenges to save time. [34938259]
+- The game is seen as lacking innovation, with many elements feeling outdated. [34554590, 34554130]
+- Players appreciate the option for automatic gameplay but feel it reduces engagement. [34553773, 34554130]
+- The game is noted for its ""old-fashioned"" system, lacking new and exciting features. [34554130]
+- The gameplay is described as ""not very fun"" due to its lack of originality. [34554130]
+- Players feel the game is more suitable for casual play rather than serious engagement. [34554879, 34554130]"
+q19,Rate resources earned from the secondary loop: -2 to 2 or “N/A”,"{'overall_score': 1.1573033707865168, 'detailed_scoring': {None: 6335, 2.0: 47, 1.0: 26, -1.0: 11, -2.0: 3, 0.0: 2}}"
+q20,Reason for previous question’s rating,"- Players find resource acquisition generally easy and accessible. [35484025, 35483867, 35483577]
+
+- Some players mention that resources can be accumulated over time without spending money. [35483563, 35482409, 35482221]
+
+- There is a perception that resource rewards have decreased recently. [35482245, 35482039, 35481989]
+
+- Players appreciate the ability to earn significant rewards through achievements and daily tasks. [37998582, 35482346, 35481990]
+
+- The game is considered friendly to non-paying players, with resources available through gameplay. [35481969, 35481893, 35481835]
+
+- Some players feel that luck plays a significant role in resource acquisition. [40275529, 35482050, 35482020]
+
+- Resource acquisition is seen as balanced, with opportunities for both paying and non-paying players. [35481904, 35481635, 35481634]
+
+- Players express concerns about the difficulty of obtaining certain high-level resources. [35481848, 35578072, 35031129]
+
+- Events and updates are appreciated for providing additional resources. [35483366, 35482025, 35481869]
+
+- Some players note that the game allows for strategic resource management and planning. [35482346, 35481869, 34536831]
+
+- The game offers various ways to earn resources, but some players feel the need for more methods. [34131707, 36098896]
+
+- Players mention that resource acquisition can be slow without spending money, but patience is rewarded. [35483577, 35482131, 35485341]"
+q21,Rate frequency of content/meta updates: -2 to 2 or “N/A”,"{'overall_score': -0.7789473684210526, 'detailed_scoring': {None: 6234, -2.0: 87, -1.0: 44, 1.0: 38, 2.0: 16, 0.0: 5}}"
+q22,Reason for previous question’s rating,"- Frequent updates are noted, with some players appreciating the regular changes. [44455300, 40685201]
+
+- Many players express frustration over frequent ""暗改"" (stealth changes) without proper announcements. [40764020, 40275580, 37658668]
+
+- Updates often reduce player rewards, leading to dissatisfaction. [37677394, 37630404, 37626582]
+
+- Some players feel updates are too focused on monetization, reducing free-to-play viability. [37676972, 37676141, 37673471]
+
+- Players report that updates often introduce bugs, which are not promptly fixed. [40275580, 35484214]
+
+- ""Every update brings bizarre experiences,"" indicating a negative impact on gameplay. [37676637]
+
+- Updates are perceived as a way to ""test player limits,"" with no compensation for negative changes. [37636221, 37634905]
+
+- Some players appreciate the game's responsiveness to feedback, despite frequent updates. [35481897, 35481845]
+
+- Frequent updates are seen as a way to ""reduce player benefits,"" leading to player attrition. [37646452, 37658668]
+
+- ""Updates are more about optimization,"" with a call for more new content. [40685201]
+
+- Players criticize the game for ""constantly changing rewards and difficulty,"" affecting enjoyment. [35274376, 35196951]
+
+- Some players note that updates are often followed by ""a wave of player departures."" [37646452, 37652888]
+
+- ""Updates are too frequent,"" leading to a perception of instability in the game. [37615182, 35482847]
+
+- ""Updates without announcements"" are a common complaint, leading to distrust. [35866743, 35808902]
+
+- ""Updates often feel like a way to force spending,"" frustrating non-paying players. [37676972, 37676141]"
+q23,Does the game have a gacha guarantee system? (True/False/“N/A”),"{None: 6387, True: 23, False: 14}"
+q24,"Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”","- Players mention a ""visible guarantee system"" added in recent updates. [43998113]
+- Some players express satisfaction with the guarantee system, reducing the chance of quitting. [35481956]
+- The game includes a ""5 times double red guarantee"" for certain items. [40073284]
+- Players appreciate that many aspects have a guarantee, making investments feel less risky. [34594063]
+- A player suggests adding a ""hundred times self-select guarantee"" for more control. [40073284]
+- ""Many have guarantees, so it's not a bottomless pit,"" says one player. [34594063]
+- The guarantee system is seen as a positive feature, making the game more player-friendly. [35482882, 35481956]"
+q25,Rate reasonableness of gacha pull price: -2 to 2 or “N/A”,"{'overall_score': -1.1851851851851851, 'detailed_scoring': {None: 6397, -2.0: 18, -1.0: 4, 2.0: 3, 1.0: 2}}"
+q26,Reason for previous question’s rating,"- Many players feel the game is ""逼氪"" with frequent gacha events and high costs [37724704, 34156027].
+- Some players mention a high cost for in-game items, like a god beast costing 1888 yuan [34551589, 34584519].
+- Players express frustration over the randomness and lack of control in gacha pulls [40533414, 34862259].
+- There are complaints about the game's balance being skewed towards paying players [32983115, 33587407].
+- Some players appreciate the game for being playable without spending, mentioning ""0磕能玩"" [35482882].
+- The game is criticized for its frequent and expensive gacha events, making it hard for non-paying players [23753540, 32117864].
+- Some reviews highlight the lack of transparency in gacha probabilities [35711191].
+- A few players mention that the game offers some form of guaranteed rewards, but still find the costs high [40073284, 28147522]."
+q27,Rate major feature access for non-paying users: -2 to 2 or “N/A”,"{'overall_score': 0.2871287128712871, 'detailed_scoring': {None: 6121, 2.0: 128, -2.0: 98, 1.0: 47, -1.0: 20, 0.0: 10}}"
+q28,Reason for previous question’s rating,"- Non-paying users can play but face challenges compared to paying users. [44414734, 44084161]
+- Zero-spending players can enjoy the game but may struggle with high-level content. [42738247, 42643620]
+- ""Zero-spending players can play happily."" [34782118, 43920383]
+- Non-paying users can slowly accumulate resources, but progress is slower. [35484262, 35484167]
+- Free players can access most content but may need help from paying users. [35484699, 35484286]
+- The game is friendly to non-paying users, offering a path to acquire high-level items. [35485486, 35484173]
+- Non-paying users can enjoy the game without major disadvantages. [35484130, 35484115]
+- Free players can play but may face difficulties in competitive modes. [35481742, 35481718]
+- Non-paying users can play comfortably with strategic resource management. [35481670, 35481656]
+- Zero-spending players can enjoy the game but may need to avoid high-difficulty content. [35484286, 35484177]"
+q29,"Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”","{'overall_score': -1.377110694183865, 'detailed_scoring': {None: 5891, -2.0: 391, -1.0: 63, 1.0: 39, 2.0: 36, 0.0: 4}}"
+q30,Reason for previous question’s rating,"- Players feel the game is heavily designed for big spenders, making it difficult for non-spenders to compete. [36088428, 44274471]
+
+- Many reviews mention that the game pressures players to spend money to keep up, especially in PVP. [44274471, 36003423]
+
+- Some players believe that the game is a ""money pit,"" requiring significant spending to progress. [36003423, 39939276]
+
+- There is a perception that the game frequently changes to encourage spending, with updates often reducing free rewards. [35358324, 35349100]
+
+- ""Bait and switch"" tactics are mentioned, where initial gameplay seems fair but later requires spending. [36003423, 35358324]
+
+- Players express frustration over the necessity to spend money to enjoy the game fully, with free play being limited. [39939276, 35484299]
+
+- Some reviews suggest that the game is not friendly to free players, with significant advantages given to those who spend. [35484299, 35481978]
+
+- The game is described as having a high cost for competitive play, with significant spending needed for top-tier items. [36003423, 39939276]
+
+- Players mention that spending is necessary to avoid falling behind, especially in competitive aspects. [39939276, 35484299]
+
+- There is a sentiment that the game is designed to ""milk"" players for money, with frequent spending prompts. [35484299, 35481978]"
+q31,Rate quality/quantity of free rewards: -2 to 2 or “N/A”,"{'overall_score': 0.49645390070921985, 'detailed_scoring': {None: 6283, 2.0: 51, 1.0: 45, -2.0: 34, -1.0: 9, 0.0: 2}}"
+q32,Reason for previous question’s rating,"- Players appreciate the ability to play without spending much, but suggest more events and rewards. [44443894, 44227064]
+
+- Some players feel the game is not pay-to-win and offers a balanced experience. [44385162, 44167119]
+
+- Monthly card players find it easier to obtain rewards like costumes and mounts. [44227064]
+
+- Zero-spending players can enjoy the game, but there are limitations in competitive play. [43998113, 36003423]
+
+- Some reviews mention a lack of free rewards and events, calling for more generous benefits. [42727067, 42715049, 40548274]
+
+- Players express dissatisfaction with the quality of rewards, noting that time investment doesn't match resource gain. [40548274, 40508255]
+
+- Some players find the game rewarding for non-spenders, with opportunities to earn valuable items over time. [37956984, 35483076]
+
+- Criticism includes limited free rewards and a focus on monetization through events. [37724704, 37678728]
+
+- Some players suggest that the game is generous with resources, allowing for a smooth early game experience. [37677859, 35482985]
+
+- There are calls for more player-friendly events and better reward systems. [35499486, 35484114]
+
+- Players note that while the game is enjoyable, the rewards could be improved to enhance the experience. [44512891, 43959014]
+
+- Some reviews highlight that the game is suitable for free-to-play players, with decent resource acquisition. [35482912, 35483239]
+
+- Players appreciate the game's fairness and resource distribution, but suggest more events. [35483076, 35482985]
+
+- Some players feel that the game is generous with resources, but others call for more frequent and better rewards. [35482912, 35483239]
+
+- Players express a desire for more events and better rewards to keep the game engaging. [35499486, 35484114]
+
+- Some players find the game rewarding for non-spenders, with opportunities to earn valuable items over time. [37956984, 35483076]"
+q33,Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.,"{None: 6390, True: 33, False: 1}"
+q34,"Briefly describe the IP if answer to previous question is True, else answer “N/A”","- ""Kung Fu Panda"" inspired NPC with Sichuan dialect voice [40603941].
+- Similarities to ""Wangzhe"" game noted by players [37717626].
+- Integration of ""Shan Hai Jing"" mythical creatures [37650509].
+- Combines Tang Dynasty and ""Journey to the West"" cultural elements [35496280].
+- ""Chang'an"" setting evokes historical Tang Dynasty atmosphere [35481782, 33950869].
+- Game linked to a manga series, with players recognizing characters [34345134, 34344001, 25636037].
+- ""Pokemon"" influence noted in character selection and gameplay [34354979].
+- Game shares elements with ""Dream of the Red Chamber"" and ""Fantasy Westward Journey"" [34605767, 35009188].
+- ""Chang'an Fantasy"" linked to a 2019 manga series by Shiyue Network [23707652, 34680928].
+- Concerns about character design similarities to ""Wangzhe"" heroes [31720753]."
+q35,Rate IP integration depth: -2 to 2 or “N/A”,"{'overall_score': 0.6111111111111112, 'detailed_scoring': {None: 6406, 2.0: 6, 1.0: 6, -1.0: 5, -2.0: 1}}"
+q36,Reason for previous question’s rating,"- Players find the IP integration with traditional elements like 唐风 and 山海经 creatures excessive. [37650509, 35496280]
+- Some feel the game relies too heavily on 唐风 IP, suggesting more 唐代 characters. [34601470, 33936600, 33800822]
+- The 唐风 theme is appreciated but seen as traditional and conservative. [35496280, 34601470]
+- Concerns about game originality due to similarities with other 唐代-themed games. [33800822, 31720753]
+- Some players question the necessity of IP integration, calling it unnecessary. [35068630, 35732686]
+- ""联动怪怪的"" suggests awkward integration of various elements. [37650509]
+- Players appreciate the cultural and historical depth, enhancing the 唐代 experience. [35578166, 34601470]
+- Some players are drawn to the game due to its connection with a known manga. [25636037, 23707652]"
+q37,Rate lightness of installation file: -2 to 2 or “N/A”,"{'overall_score': -0.9117647058823529, 'detailed_scoring': {None: 6390, -2.0: 18, -1.0: 9, 2.0: 7}}"
+q38,Reason for previous question’s rating,"- Many players complain about large installation size, up to 12GB. [43775421, 43669858]
+- Frequent updates consume significant data, up to 10GB. [43871899, 42191225]
+- Game secretly downloads resources, increasing size from 2GB to 7GB. [39033268]
+- Automatic downloads waste data, with reports of 3GB used. [37989264]
+- Installation starts at 500MB but can exceed 5GB. [35948676]
+- ""Game is secretly downloading"" is a common complaint. [39033268, 37989264]
+- Some players report reaching 16GB in just two days. [43745338]"
+q39,Rate in-game download experience: -2 to 2 or “N/A”,"{'overall_score': -0.8095238095238095, 'detailed_scoring': {None: 6403, -2.0: 13, 2.0: 5, -1.0: 2, 1.0: 1}}"
+q40,Reason for previous question’s rating,"- Frequent server crashes during updates and events frustrate players. [43775421, 43667289]
+- Download issues with PC version; game stuck on loading screen. [43908018, 37587253]
+- Automatic downloads from ads waste data; players find it annoying. [44338267]
+- Installation problems; game not ready for testing. [34543078]"
+q41,Briefly list other issues (not captured by the questions above),"- PC optimization issues, including lag and lack of shortcuts. [44409309, 35544754]
+- Inability to delete characters, only accounts. [44385680]
+- Unfair penalties and lack of evidence for bans. [44381154]
+- Poor customer service and unresolved issues. [44274471, 44132112, 34594128, 34609941]
+- Frequent bugs and glitches affecting gameplay. [44200347, 41155034, 34034114, 34594075]
+- Server stability issues and frequent crashes. [34620438, 34541181, 35544754, 34607947]
+- Matchmaking problems and difficulty finding teams. [44189868, 43881055]
+- Excessive time required for daily tasks. [37989474, 34565138]
+- Misleading advertising and false promises. [40448008, 34547166, 34905194, 39025093]
+- Forced group activities and lack of solo options. [43881055, 43690553, 35546799, 34567306]
+- Excessive pay-to-win elements and high costs. [42699187, 34545124]
+- Frequent and unannounced changes to game mechanics. [36864699, 35510662]
+- In-game economy issues and unfair trading systems. [34588815, 34541167, 34563442, 34565413]
+- Lack of meaningful content and repetitive gameplay. [34560335, 34547166, 34585289, 34585348]
+- Poor communication and lack of transparency from developers. [34540595, 34540578, 34027058, 33704269]
+- Concerns about long-term viability and player retention. [34539942, 34539919]
+- Excessive in-game notifications and prompts. [34571452, 34545581]
+- Account management and login difficulties. [34541148, 34540518]
+- Graphics and visual quality complaints. [34541180, 34541010, 34541881, 34045178]
+- Event timing conflicts with personal schedules. [34595804, 33953383]
+- Criticism of game design and interface layout. [34541881, 34045178]
+- Lack of innovative content and reliance on recycled mechanics. [34584851, 34027058]
+- Difficulty spikes and progression barriers. [35485420, 35608183]
+- Lack of effective social features and community tools. [34559043, 34017099]
+- Negative reception to updates reducing rewards or altering gameplay. [35049588, 35536817]"
