@@ -1,0 +1,35 @@
+[
+  {
+    "q0": 25775385,
+    "q41": "Art style praised."
+  },
+  {
+    "q0": 25775262
+  },
+  {
+    "q0": 25763461
+  },
+  {
+    "q0": 25761474
+  },
+  {
+    "q0": 25754416,
+    "q15": "Simulation/management civilization building with technology development (research).",
+    "q16": true
+  },
+  {
+    "q0": 25588664,
+    "q15": "Collect/recruit notable scholars and assign them to work/production tasks.",
+    "q16": true
+  },
+  {
+    "q0": 25582813
+  },
+  {
+    "q0": 25569581
+  },
+  {
+    "q0": 25560695,
+    "q41": "Likes the art style; unsure about gameplay quality."
+  }
+]

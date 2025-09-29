@@ -1,0 +1,299 @@
+[
+    {
+        "question_code": "q1",
+        "question_content": "Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)",
+        "synthesis_answer": {
+            "null": 121,
+            "true": 1
+        }
+    },
+    {
+        "question_code": "q2",
+        "question_content": "List the sensitive content mentioned, if any.",
+        "synthesis_answer": "- Religious/Political: Warns UGC could enable political displays, risking Chinese censorship. [46445892]\n- Urges preventive measures to avoid \"Animal Crossing's domestic ban.\" [46445892]"
+    },
+    {
+        "question_code": "q3",
+        "question_content": "Summarize the core combat mechanics (or “N/A” if not mentioned).",
+        "synthesis_answer": "- Trailer combat animations feel rigid; players want smoother, Genshin/ZZZ-level fluidity — \"actions look stiff.\" [46438126]\n- Don’t force combat in casual farming/building modes; keep fights optional. [46442268]\n- Reduce gear/stat grind (e.g., artifact farming); build optimization feels exhausting. [46442268]"
+    },
+    {
+        "question_code": "q4",
+        "question_content": "Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.0,
+            "detailed_scoring": {
+                "null": 121,
+                "-1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q5",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Trailer looks promising, but combat animations feel slightly stiff; needs Genshin/ZZZ-level smoothness. [46438126]\n• Requests animation optimization to improve combat satisfaction and fluidity. [46438126]"
+    },
+    {
+        "question_code": "q6",
+        "question_content": "List the strategic/tactical features mentioned, if any.",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q7",
+        "question_content": "Rate strategic/tactical depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 122
+            }
+        }
+    },
+    {
+        "question_code": "q8",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q9",
+        "question_content": "Rate game progression: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.0,
+            "detailed_scoring": {
+                "null": 119,
+                "-1.0": 3
+            }
+        }
+    },
+    {
+        "question_code": "q10",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Players expect higher freedom; current freedom feels limited. [46444425, 46440697]\n• Gameplay options feel few; progression may lack variety. [46444425]\n• Concern about repetitive farming loop; desire more varied activities. [46440817]\n• Anticipation of monotonous daily content hurting long-term engagement — “daily content feels monotonous”. [46440697]\n• Overall progression loop perceived as shallow and content-sparse. [46444425, 46440697, 46440817]"
+    },
+    {
+        "question_code": "q11",
+        "question_content": "Rate hero balance: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 122
+            }
+        }
+    },
+    {
+        "question_code": "q12",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q13",
+        "question_content": "Rate hero/team build diversity: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 122
+            }
+        }
+    },
+    {
+        "question_code": "q14",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q15",
+        "question_content": "Describe the secondary core loop (or “N/A”)",
+        "synthesis_answer": ""
+    },
+    {
+        "question_code": "q16",
+        "question_content": "Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 121,
+            "true": 1
+        }
+    },
+    {
+        "question_code": "q17",
+        "question_content": "Rate simplicity of the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 1.0,
+            "detailed_scoring": {
+                "null": 121,
+                "1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q18",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- No explicit mention of secondary loop simplicity or complexity. [46437856]\n- Expects a relaxed, \"feels comfortable\" experience; secondary loop simplicity remains unclear. [46437856]"
+    },
+    {
+        "question_code": "q19",
+        "question_content": "Rate resources earned from the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 122
+            }
+        }
+    },
+    {
+        "question_code": "q20",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q21",
+        "question_content": "Rate frequency of content/meta updates: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 122
+            }
+        }
+    },
+    {
+        "question_code": "q22",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q23",
+        "question_content": "Does the game have a gacha guarantee system? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 121,
+            "true": 1
+        }
+    },
+    {
+        "question_code": "q24",
+        "question_content": "Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "- Races and planets are obtained via gacha; each race has a matching planet. [46440497]\n- At 90 pulls, 50% chance for featured race; at 180 pulls, guaranteed. [46440497]\n- Planets follow the same 90-pull 50% and 180-pull guarantee structure. [46440497]\n- Gacha pity: \"90 pulls: 50%; 180 pulls: guaranteed.\" [46440497]"
+    },
+    {
+        "question_code": "q25",
+        "question_content": "Rate reasonableness of gacha pull price: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 122
+            }
+        }
+    },
+    {
+        "question_code": "q26",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q27",
+        "question_content": "Rate major feature access for non-paying users: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 122
+            }
+        }
+    },
+    {
+        "question_code": "q28",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q29",
+        "question_content": "Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.4,
+            "detailed_scoring": {
+                "null": 112,
+                "-1.0": 6,
+                "-2.0": 4
+            }
+        }
+    },
+    {
+        "question_code": "q30",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Many players want a buy-to-play model, not gacha monetization. \"No more gacha, please.\" [46447064, 46442265]\n- Strong skepticism the game will reuse miHoYo \"three-piece\" gacha monetization. [46446841, 46441656]\n- Some preemptively threaten low ratings if gacha systems return. [46446841]\n- Expectation of monetized furniture/skins and resource boosts driving spending pressure. [46446155]\n- Sarcastic predictions of gacha for races/planets with pity systems. [46440497]\n- Concern it will be heavily pay-driven with frequent events and grind/pay pressure. [46440692]\n- Past bad gacha experiences cited: pity hits, off-banner pulls feel punishing. [46442581]\n- Anxiety about future spend levels in long-term social/management game. [46449005, 46447064]\n- Some ask for no miHoYo suite and praise if avoided. [46447064, 46446841]\n- Players wonder if characters will be gacha again. [46439954]"
+    },
+    {
+        "question_code": "q31",
+        "question_content": "Rate quality/quantity of free rewards: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 1.0,
+            "detailed_scoring": {
+                "null": 121,
+                "1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q32",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Free rewards perceived as good/generous. \"Rewards are good.\" [46439136]"
+    },
+    {
+        "question_code": "q33",
+        "question_content": "Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.",
+        "synthesis_answer": {
+            "null": 122
+        }
+    },
+    {
+        "question_code": "q34",
+        "question_content": "Briefly describe the IP if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q35",
+        "question_content": "Rate IP integration depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 122
+            }
+        }
+    },
+    {
+        "question_code": "q36",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q37",
+        "question_content": "Rate lightness of installation file: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 122
+            }
+        }
+    },
+    {
+        "question_code": "q38",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q39",
+        "question_content": "Rate in-game download experience: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 122
+            }
+        }
+    },
+    {
+        "question_code": "q40",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q41",
+        "question_content": "Briefly list other issues (not captured by the questions above)",
+        "synthesis_answer": ""
+    }
+]

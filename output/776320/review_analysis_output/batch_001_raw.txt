@@ -1,0 +1,372 @@
+[
+  {
+    "q0": 46452869,
+    "q41": "Nostalgic for Harvest Moon (GBA girl version); hopes the new game recaptures that original charm."
+  },
+  {
+    "q0": 46452638,
+    "q15": "Visiting other players' planets (multiplayer social exploration).",
+    "q41": "Requests increasing the number of slots to visit others' planets; says four is not enough."
+  },
+  {
+    "q0": 46447374,
+    "q41": "Accuses the game of copying existing titles' art and gameplay; says it lacks original features."
+  },
+  {
+    "q0": 46451848,
+    "q41": "PV looks less impressive than earlier titles; feels more mediocre."
+  },
+  {
+    "q0": 46451820,
+    "q41": "Art looks average; waiting to see the gameplay."
+  },
+  {
+    "q0": 46451600,
+    "q41": "Wants a high-quality mobile/PC farming/building game; believes miHoYo can fill the market gap."
+  },
+  {
+    "q0": 46450651
+  },
+  {
+    "q0": 46450447,
+    "q41": "Thinks the art style is inferior to Heart Town."
+  },
+  {
+    "q0": 46450426
+  },
+  {
+    "q0": 46450205,
+    "q41": "Trusts miHoYo's optimization; hopes for an office-worker-friendly, not overly complex, Stardew-like experience."
+  },
+  {
+    "q0": 46450182,
+    "q41": "Sarcastically claims miHoYo lacks creativity and copies; calls out double standards."
+  },
+  {
+    "q0": 46449727,
+    "q41": "Accuses the game of copying Animal Crossing."
+  },
+  {
+    "q0": 46449507,
+    "q41": "Very excited; says few farming/casual games meet the bar; hopes to play soon."
+  },
+  {
+    "q0": 46449425,
+    "q41": "Survey UX issue: TapTap ID required at the end causes lost progress; suggests putting ID first or making it easier to fetch."
+  },
+  {
+    "q0": 46449005,
+    "q29": -1,
+    "q30": "Cautious because non-buyout social games usually require more spending; observing first."
+  },
+  {
+    "q0": 46448743,
+    "q41": "Expects it won't be very fun based on past miHoYo output; compares unfavorably to Tencent's new game PV."
+  },
+  {
+    "q0": 46448562,
+    "q41": "Likes the art; trusts story/worldbuilding; hopes gameplay will be engaging."
+  },
+  {
+    "q0": 46442742,
+    "q41": "Calls out aggressive accusations; says borrowing is common and critics seem overly eager."
+  },
+  {
+    "q0": 46448051,
+    "q15": "Online co-op and deep decorating/building loop; wants an easy copy/duplicate tool for decorations.",
+    "q41": "Requests co-op and one-click copy in decoration mode."
+  },
+  {
+    "q0": 46447779,
+    "q41": "Argues gameplay similarities don't equal plagiarism; says no clear proof of direct copying."
+  },
+  {
+    "q0": 46447626,
+    "q41": "Asks whether there will be a Genshin Impact collaboration outfit."
+  },
+  {
+    "q0": 46447428
+  },
+  {
+    "q0": 46447316
+  },
+  {
+    "q0": 46447184
+  },
+  {
+    "q0": 46447064,
+    "q29": -1,
+    "q30": "Prefers buyout and no 'three-piece' gacha; art/name similarities to AC/Stardew make the monetization model a concern.",
+    "q41": "Wants no miHoYo 'three-piece' monetization; questions naming similarity to Stardew Valley."
+  },
+  {
+    "q0": 46446841,
+    "q29": -1,
+    "q30": "Will drop rating if the 'three-piece' monetization appears."
+  },
+  {
+    "q0": 46446411
+  },
+  {
+    "q0": 46446350,
+    "q15": "Home furnishing and decoration loop with precise placement tools (similar to Genshin's housing).",
+    "q41": "Requests easier furniture alignment/placement tools."
+  },
+  {
+    "q0": 46446253,
+    "q41": "Wants more detailed character models; finds the style cute."
+  },
+  {
+    "q0": 46446227,
+    "q41": "Notes the 8+ age rating; worries the player base may skew very young."
+  },
+  {
+    "q0": 46446189,
+    "q41": "Says the name looks like Stardew Valley and video like Animal Crossing; complains about fan zeal."
+  },
+  {
+    "q0": 46446155,
+    "q29": -2,
+    "q30": "Speculates 'three-piece' gacha mapped to furniture/outfits with buffs; fears heavy monetization embedded in cozy loop."
+  },
+  {
+    "q0": 46446055
+  },
+  {
+    "q0": 46445963
+  },
+  {
+    "q0": 46445892,
+    "q1": true,
+    "q2": "Political: warns that DIY/UGC could be used for political messaging like the Animal Crossing ban in China; urges safeguards.",
+    "q41": "Advises implementing moderation to avoid repeat of Animal Crossing's domestic ban due to political UGC."
+  },
+  {
+    "q0": 46445507,
+    "q15": "Social/co-op play with others.",
+    "q41": "Likes social farming but worries about toxic fans ruining the social experience."
+  },
+  {
+    "q0": 46445448,
+    "q15": "Cozy life sim with potential romance (desired); cast appears mostly furry.",
+    "q41": "Hopes for surprises; won't play if it's too similar to Heart Town; disappointed there aren't human handsome/beauty options."
+  },
+  {
+    "q0": 46445430
+  },
+  {
+    "q0": 46445396
+  },
+  {
+    "q0": 46445089
+  },
+  {
+    "q0": 46445050,
+    "q41": "Wants launch ASAP; really likes the shown art and gameplay concept."
+  },
+  {
+    "q0": 46444900
+  },
+  {
+    "q0": 46444758,
+    "q41": "Says art/style mimics Animal Crossing and the name mimics Stardew Valley; calls it deliberate 'edge' riding."
+  },
+  {
+    "q0": 46444719,
+    "q41": "Accuses miHoYo of serial copying (Zelda, Pokémon, now Animal Crossing)."
+  },
+  {
+    "q0": 46444684,
+    "q15": "Healing art style with AC-like perspective; requests more interactive actions/emotes to enhance immersion.",
+    "q41": "Finds the style soothing; wants richer interaction animations."
+  },
+  {
+    "q0": 46444630
+  },
+  {
+    "q0": 46444425,
+    "q9": -1,
+    "q10": "Requests higher freedom; feels the current set of gameplay features seems too limited."
+  },
+  {
+    "q0": 46443917
+  },
+  {
+    "q0": 46439038
+  },
+  {
+    "q0": 46443736,
+    "q41": "Hopes miHoYo will set a new benchmark for farming sims; current market is filled with reskins and heavy monetization."
+  },
+  {
+    "q0": 46443609,
+    "q41": "Requests more furry characters."
+  },
+  {
+    "q0": 46443521
+  },
+  {
+    "q0": 46443375
+  },
+  {
+    "q0": 46443151,
+    "q41": "Survey flow causes data loss when fetching TapTap ID; asks to put ID on the first page or provide one-click copy."
+  },
+  {
+    "q0": 46442897
+  },
+  {
+    "q0": 46442581,
+    "q29": -2,
+    "q30": "Bad gacha experiences in another miHoYo game (high pity and off-banner pulls) make them wary of spending pressure here."
+  },
+  {
+    "q0": 46442486
+  },
+  {
+    "q0": 46442442,
+    "q41": "Character modeling/art feels too childish; embarrassed to play in front of friends."
+  },
+  {
+    "q0": 46442349
+  },
+  {
+    "q0": 46442268,
+    "q3": "Player requests no combat; prefers pure farming/building with slower day/night cycle.",
+    "q15": "Farming/building with slower time flow and no combat.",
+    "q41": "Asks to avoid combat, stat grinding, and artifact-like systems to keep it relaxing."
+  },
+  {
+    "q0": 46442265,
+    "q29": -2,
+    "q30": "Wants a buyout model; dislikes gacha monetization."
+  },
+  {
+    "q0": 46442193,
+    "q15": "Farming with detailed crop models and small character actions; semi-social experience.",
+    "q41": "Thinks the cute style fits; asks for good crop modeling and partial social features."
+  },
+  {
+    "q0": 46442182
+  },
+  {
+    "q0": 46442094
+  },
+  {
+    "q0": 46441867
+  },
+  {
+    "q0": 46441693,
+    "q41": "Test sign-up requires miHoYo account and real-name; suggests recruiting on the official site if that's required."
+  },
+  {
+    "q0": 46441656,
+    "q29": -1,
+    "q30": "Predicts a stitched 'miHoYo three-piece' monetization approach.",
+    "q41": "Says the game borrows from many titles and will add miHoYo's usual monetization."
+  },
+  {
+    "q0": 46441596,
+    "q15": "One-click or blueprint-based planting automation to streamline farming setup.",
+    "q41": "Requests a blueprint/auto-planting QoL system."
+  },
+  {
+    "q0": 46441382
+  },
+  {
+    "q0": 46441272,
+    "q15": "Relaxed, low-grind farming/management loop with cute art.",
+    "q41": "Hopes it's not grindy; asks about launch timing."
+  },
+  {
+    "q0": 46441289
+  },
+  {
+    "q0": 46440817,
+    "q9": -1,
+    "q10": "Models/faces feel too cartoony; run animation looks stiff; fears a single repetitive loop and wants more varied gameplay.",
+    "q41": "Critiques character look and animation; asks to expand beyond a single farming loop."
+  },
+  {
+    "q0": 46440697,
+    "q9": -1,
+    "q10": "PV suggests low-age modeling, limited freedom, and potentially monotonous daily content."
+  },
+  {
+    "q0": 46440692,
+    "q29": -2,
+    "q30": "Expects aggressive monetization, frequent pay events, long daily chores; vows not to play under such a model.",
+    "q41": "Severely criticizes expected monetization and grind."
+  },
+  {
+    "q0": 46440676
+  },
+  {
+    "q0": 46440497,
+    "q23": true,
+    "q24": "User predicts gacha for species and planets with 90-pull 50% rate and 180-pull hard pity.",
+    "q29": -1,
+    "q30": "Speculates core aspects (species/planets) are tied to gacha with pity."
+  },
+  {
+    "q0": 46440203,
+    "q15": "Farming with many character actions/emotes and social interactions with friends.",
+    "q41": "Loves the art; wants more actions and friend interactions."
+  },
+  {
+    "q0": 46440109,
+    "q41": "Believes miHoYo will outperform Heart Town; PV appears much better."
+  },
+  {
+    "q0": 46440067
+  },
+  {
+    "q0": 46440060
+  },
+  {
+    "q0": 46440043
+  },
+  {
+    "q0": 46440026,
+    "q41": "Wants farming and furry content; eager for launch."
+  },
+  {
+    "q0": 46439999,
+    "q41": "Wants a stable, long-term live service; asks not to shut down quickly."
+  },
+  {
+    "q0": 46439992,
+    "q15": "Interstellar travel to other planets for exploration; cooking with recipe collection and free-form crafting.",
+    "q41": "Requests a relaxed experience and exploratory systems."
+  },
+  {
+    "q0": 46439954,
+    "q29": -1,
+    "q30": "Asks if there will be character gacha again, implying concern about monetization."
+  },
+  {
+    "q0": 46439801
+  },
+  {
+    "q0": 46439743
+  },
+  {
+    "q0": 46439722,
+    "q41": "Accuses the game of copying Animal Crossing and borrowing Zelda's core elements."
+  },
+  {
+    "q0": 46439679
+  },
+  {
+    "q0": 46439610
+  },
+  {
+    "q0": 46439562,
+    "q41": "Hopes for fresh mechanics and experiences in this farming-focused game."
+  },
+  {
+    "q0": 46439526,
+    "q15": "House building and decoration; wants no forced social and full single-player viability.",
+    "q41": "Enthusiastic about building/decorating; requests optional, not mandatory, social features."
+  }
+]

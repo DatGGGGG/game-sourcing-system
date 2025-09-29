@@ -1,0 +1,63 @@
+question_code,question_content,synthesis_answer
+q1,"Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)","{None: 121, True: 1}"
+q2,"List the sensitive content mentioned, if any.","- Religious/Political: Warns UGC could enable political displays, risking Chinese censorship. [46445892]
+- Urges preventive measures to avoid ""Animal Crossing's domestic ban."" [46445892]"
+q3,Summarize the core combat mechanics (or “N/A” if not mentioned).,"- Trailer combat animations feel rigid; players want smoother, Genshin/ZZZ-level fluidity — ""actions look stiff."" [46438126]
+- Don’t force combat in casual farming/building modes; keep fights optional. [46442268]
+- Reduce gear/stat grind (e.g., artifact farming); build optimization feels exhausting. [46442268]"
+q4,Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”,"{'overall_score': -1.0, 'detailed_scoring': {None: 121, -1.0: 1}}"
+q5,Reason for previous question’s rating,"• Trailer looks promising, but combat animations feel slightly stiff; needs Genshin/ZZZ-level smoothness. [46438126]
+• Requests animation optimization to improve combat satisfaction and fluidity. [46438126]"
+q6,"List the strategic/tactical features mentioned, if any.",• No reviews matched.
+q7,Rate strategic/tactical depth: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 122}}"
+q8,Reason for previous question’s rating,• No reviews matched.
+q9,Rate game progression: -2 to 2 or “N/A”,"{'overall_score': -1.0, 'detailed_scoring': {None: 119, -1.0: 3}}"
+q10,Reason for previous question’s rating,"• Players expect higher freedom; current freedom feels limited. [46444425, 46440697]
+• Gameplay options feel few; progression may lack variety. [46444425]
+• Concern about repetitive farming loop; desire more varied activities. [46440817]
+• Anticipation of monotonous daily content hurting long-term engagement — “daily content feels monotonous”. [46440697]
+• Overall progression loop perceived as shallow and content-sparse. [46444425, 46440697, 46440817]"
+q11,Rate hero balance: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 122}}"
+q12,Reason for previous question’s rating,• No reviews matched.
+q13,Rate hero/team build diversity: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 122}}"
+q14,Reason for previous question’s rating,• No reviews matched.
+q15,Describe the secondary core loop (or “N/A”),
+q16,"Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)","{None: 121, True: 1}"
+q17,Rate simplicity of the secondary loop: -2 to 2 or “N/A”,"{'overall_score': 1.0, 'detailed_scoring': {None: 121, 1.0: 1}}"
+q18,Reason for previous question’s rating,"- No explicit mention of secondary loop simplicity or complexity. [46437856]
+- Expects a relaxed, ""feels comfortable"" experience; secondary loop simplicity remains unclear. [46437856]"
+q19,Rate resources earned from the secondary loop: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 122}}"
+q20,Reason for previous question’s rating,• No reviews matched.
+q21,Rate frequency of content/meta updates: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 122}}"
+q22,Reason for previous question’s rating,• No reviews matched.
+q23,Does the game have a gacha guarantee system? (True/False/“N/A”),"{None: 121, True: 1}"
+q24,"Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”","- Races and planets are obtained via gacha; each race has a matching planet. [46440497]
+- At 90 pulls, 50% chance for featured race; at 180 pulls, guaranteed. [46440497]
+- Planets follow the same 90-pull 50% and 180-pull guarantee structure. [46440497]
+- Gacha pity: ""90 pulls: 50%; 180 pulls: guaranteed."" [46440497]"
+q25,Rate reasonableness of gacha pull price: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 122}}"
+q26,Reason for previous question’s rating,• No reviews matched.
+q27,Rate major feature access for non-paying users: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 122}}"
+q28,Reason for previous question’s rating,• No reviews matched.
+q29,"Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”","{'overall_score': -1.4, 'detailed_scoring': {None: 112, -1.0: 6, -2.0: 4}}"
+q30,Reason for previous question’s rating,"- Many players want a buy-to-play model, not gacha monetization. ""No more gacha, please."" [46447064, 46442265]
+- Strong skepticism the game will reuse miHoYo ""three-piece"" gacha monetization. [46446841, 46441656]
+- Some preemptively threaten low ratings if gacha systems return. [46446841]
+- Expectation of monetized furniture/skins and resource boosts driving spending pressure. [46446155]
+- Sarcastic predictions of gacha for races/planets with pity systems. [46440497]
+- Concern it will be heavily pay-driven with frequent events and grind/pay pressure. [46440692]
+- Past bad gacha experiences cited: pity hits, off-banner pulls feel punishing. [46442581]
+- Anxiety about future spend levels in long-term social/management game. [46449005, 46447064]
+- Some ask for no miHoYo suite and praise if avoided. [46447064, 46446841]
+- Players wonder if characters will be gacha again. [46439954]"
+q31,Rate quality/quantity of free rewards: -2 to 2 or “N/A”,"{'overall_score': 1.0, 'detailed_scoring': {None: 121, 1.0: 1}}"
+q32,Reason for previous question’s rating,"- Free rewards perceived as good/generous. ""Rewards are good."" [46439136]"
+q33,Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.,{None: 122}
+q34,"Briefly describe the IP if answer to previous question is True, else answer “N/A”",• No reviews matched.
+q35,Rate IP integration depth: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 122}}"
+q36,Reason for previous question’s rating,• No reviews matched.
+q37,Rate lightness of installation file: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 122}}"
+q38,Reason for previous question’s rating,• No reviews matched.
+q39,Rate in-game download experience: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 122}}"
+q40,Reason for previous question’s rating,• No reviews matched.
+q41,Briefly list other issues (not captured by the questions above),

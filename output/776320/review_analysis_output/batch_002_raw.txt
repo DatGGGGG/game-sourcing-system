@@ -1,0 +1,114 @@
+[
+  {
+    "q0": 46439313
+  },
+  {
+    "q0": 46439198
+  },
+  {
+    "q0": 46439192
+  },
+  {
+    "q0": 46439136,
+    "q31": 1,
+    "q32": "States rewards are good and expects generous rewards based on miHoYo's track record."
+  },
+  {
+    "q0": 46439121
+  },
+  {
+    "q0": 46438980,
+    "q41": "Perceives it as a kids-targeted game; curious but may not play."
+  },
+  {
+    "q0": 46438943,
+    "q41": "Asks whether gameplay is like Stardew Valley."
+  },
+  {
+    "q0": 46438939,
+    "q41": "Speculates about gacha monetization for farming (characters/tools) and expresses concern."
+  },
+  {
+    "q0": 46438826
+  },
+  {
+    "q0": 46438824,
+    "q41": "Wonders if it breaks away from the usual miHoYo formula."
+  },
+  {
+    "q0": 46438636
+  },
+  {
+    "q0": 46438630,
+    "q41": "Requests no gacha pool; prefers DLC-style purchases."
+  },
+  {
+    "q0": 46438516,
+    "q41": "Wants high freedom, slower in-game time without forced sleep, and no combat for a farming-focused experience."
+  },
+  {
+    "q0": 46438365,
+    "q41": "Asks not to limit farming; willing to grind heavily."
+  },
+  {
+    "q0": 46438363,
+    "q41": "Hopes it is not grindy or laggy in combat like another game."
+  },
+  {
+    "q0": 46438345
+  },
+  {
+    "q0": 46438276
+  },
+  {
+    "q0": 46438268
+  },
+  {
+    "q0": 46438126,
+    "q3": "Trailer shows action/movement animations that look stiff.",
+    "q4": -1,
+    "q5": "Requests smoother animation comparable to Genshin or ZZZ; current trailer feels rigid."
+  },
+  {
+    "q0": 46438069,
+    "q41": "Asks if character face customization (character creator) is available."
+  },
+  {
+    "q0": 46438024
+  },
+  {
+    "q0": 46437911
+  },
+  {
+    "q0": 46437871
+  },
+  {
+    "q0": 46437859
+  },
+  {
+    "q0": 46437856,
+    "q15": "Light life-sim/management with open-ended building/farming, social features, and pet raising.",
+    "q16": true,
+    "q17": 1,
+    "q18": "Perceived as a light and comfortable experience with openness and social elements.",
+    "q41": "Concerns about phone performance/load; expects character creation with race selection and a pet system."
+  },
+  {
+    "q0": 46437843
+  },
+  {
+    "q0": 46437796,
+    "q41": "Dislikes chibi (Q-style) art; prefers realistic/handsome characters."
+  },
+  {
+    "q0": 46437733,
+    "q41": "More interested in this title than miHoYo's other new tactics game."
+  },
+  {
+    "q0": 46437727,
+    "q41": "Compares it to Animal Crossing."
+  },
+  {
+    "q0": 46437721
+  }
+]

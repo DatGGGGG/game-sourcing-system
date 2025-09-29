@@ -1,0 +1,367 @@
+[
+  {
+    "q0": 28702589
+  },
+  {
+    "q0": 28692841,
+    "q41": "Praises distinctive character art and asks for historical accuracy. Expects a gacha system (from 'scholar scroll'), requests sensible rarity tiers (do not make traitors top rarity). Accepts CP pairing if not overly suggestive. Points out issues in Li Qingzhao illustration (right hand sloppy, left hand too large). Asks for first test timing."
+  },
+  {
+    "q0": 28691781,
+    "q41": "Says history theme is attractive; worries about cash-grab monetization at launch and hopes the team avoids that."
+  },
+  {
+    "q0": 28685888
+  },
+  {
+    "q0": 28678364,
+    "q41": "Appreciates that the devs are active and down-to-earth; eager for launch."
+  },
+  {
+    "q0": 28676991,
+    "q41": "Asks when the game will be playable."
+  },
+  {
+    "q0": 28676636,
+    "q41": "Came for the art style; wants a quick release and a stable launch ('don’t crash')."
+  },
+  {
+    "q0": 28673069,
+    "q41": "Will wait for more content before playing."
+  },
+  {
+    "q0": 28667399,
+    "q41": "Loves the art; previous history games had absurd card rarity settings; hopes this one won’t repeat that; waiting for open beta."
+  },
+  {
+    "q0": 28663210,
+    "q41": "Says Li Qingzhao’s illustration looks odd."
+  },
+  {
+    "q0": 28659070,
+    "q41": "Some clothing looks off despite liking the art. Hopes gameplay is more engaging than similar title 'Mo Hun' which felt boring."
+  },
+  {
+    "q0": 27576645,
+    "q41": "Second CG looks beautiful; noticed the game has been renamed."
+  },
+  {
+    "q0": 28652972,
+    "q41": "Compliments that character faces are distinct; eager for release."
+  },
+  {
+    "q0": 28652047,
+    "q41": "Surprised the game is made by only a dozen people (small team)."
+  },
+  {
+    "q0": 28644314,
+    "q41": "Likes the art; hopes operations and design decisions are reasonable."
+  },
+  {
+    "q0": 28641545,
+    "q41": "General anticipation; seasonal greeting."
+  },
+  {
+    "q0": 28640668,
+    "q41": "Believes historical games are heavy-lift; art is solid but stresses story quality will be decisive."
+  },
+  {
+    "q0": 28638809,
+    "q41": "Finds the character art cute."
+  },
+  {
+    "q0": 28636344,
+    "q41": "Strongly hopes the game will not distort history."
+  },
+  {
+    "q0": 28634963,
+    "q41": "Loves the art style; looking forward to test."
+  },
+  {
+    "q0": 28633797
+  },
+  {
+    "q0": 28632407
+  },
+  {
+    "q0": 28632230,
+    "q41": "Watching due to the appealing art style."
+  },
+  {
+    "q0": 28625235,
+    "q41": "Waiting for launch soon."
+  },
+  {
+    "q0": 28623725,
+    "q41": "Deeply likes this distinctive art style and hopes it can influence market aesthetics (not cookie-cutter faces)."
+  },
+  {
+    "q0": 28619806,
+    "q41": "Notes anatomical issues in character art; overall art style is good."
+  },
+  {
+    "q0": 28615480,
+    "q41": "Art and description raise expectations."
+  },
+  {
+    "q0": 28611022,
+    "q41": "Art looks comfortable; will keep watching."
+  },
+  {
+    "q0": 28608079,
+    "q41": "Asks about test timing; warns not to repeat industry pitfalls."
+  },
+  {
+    "q0": 28607991,
+    "q41": "Loves the illustrations; will keep playing if the game isn’t outrageous; asks about test/open beta schedule."
+  },
+  {
+    "q0": 28607747,
+    "q41": "Loves the art; expresses cultural pride."
+  },
+  {
+    "q0": 28606151
+  },
+  {
+    "q0": 28605913,
+    "q41": "Praises robust depiction of general (e.g., Qijiguang); appreciates realistic, rugged body types versus overly slim designs."
+  },
+  {
+    "q0": 28604999
+  },
+  {
+    "q0": 28604016,
+    "q41": "Hopes the team truly respects history and doesn’t bait/drag players."
+  },
+  {
+    "q0": 28603189,
+    "q41": "Requests both male and female characters tie their hair, for historical accuracy."
+  },
+  {
+    "q0": 28602807,
+    "q41": "Fears recent 'guofeng' titles being poorly made; hopes this one is solid."
+  },
+  {
+    "q0": 28600394,
+    "q41": "Asks who the 'catgirl' in the second image is (noting a possibly fantastical character)."
+  },
+  {
+    "q0": 28598024
+  },
+  {
+    "q0": 28591929,
+    "q41": "Finds the art fresh and distinctive; worries the historical theme is demanding and needs strong research; hopes passion translates into quality."
+  },
+  {
+    "q0": 28585483,
+    "q41": "Feels male characters look awkward; suggests bringing in artists better at drawing men."
+  },
+  {
+    "q0": 28579704,
+    "q41": "Likes history theme and art; hopes it can be a long-term 'home base' game."
+  },
+  {
+    "q0": 28562425,
+    "q41": "Requests more young boy ('shota') characters."
+  },
+  {
+    "q0": 28567153,
+    "q41": "Hopes the game includes interesting historical anecdotes; acknowledges the theme is hard to make well."
+  },
+  {
+    "q0": 28562813,
+    "q41": "Worries about historical scrutiny; suggests rigorous research and visual consistency by era. Notes art shift toward more 'Q' style; prefers earlier style. Recommends listening to player feedback, balancing the gacha pool, and using reasonable monetization (e.g., monthly card). Mentions it is a history-themed management mobile game."
+  },
+  {
+    "q0": 28562539,
+    "q41": "Hopes the game won’t feel like a second job (asks to avoid heavy daily grind)."
+  },
+  {
+    "q0": 28559789,
+    "q41": "Wants to know the design inspirations for characters; requests an art/design setting collection."
+  },
+  {
+    "q0": 28551802,
+    "q41": "Suggests making male generals more rugged; hopes for early launch."
+  },
+  {
+    "q0": 28536869
+  },
+  {
+    "q0": 28498967
+  },
+  {
+    "q0": 28463782,
+    "q41": "Likes the character art; urges the team to do a good job overall."
+  },
+  {
+    "q0": 28412372,
+    "q41": "Likes this art style; encouragement to the team."
+  },
+  {
+    "q0": 28371405,
+    "q41": "Requests respect for historical facts and rejects 'history written by victors' relativism; opposes historical nihilism."
+  },
+  {
+    "q0": 28364988,
+    "q41": "Hopes the game avoids messy features and forced spending like a competitor; heavy monetization can drive even loyal players away."
+  },
+  {
+    "q0": 28364252
+  },
+  {
+    "q0": 28349751,
+    "q41": "Very attracted by the art style."
+  },
+  {
+    "q0": 28281587,
+    "q41": "Likes the art; waiting for the first test."
+  },
+  {
+    "q0": 28183555,
+    "q41": "Shuni(ng) artist and team acknowledged; strong anticipation."
+  },
+  {
+    "q0": 28169514,
+    "q41": "Likes the art; looking forward to the game."
+  },
+  {
+    "q0": 28132306,
+    "q41": "Feels they have waited a long time; asks for launch."
+  },
+  {
+    "q0": 28131819,
+    "q41": "Art looks good; watching with interest."
+  },
+  {
+    "q0": 28085211,
+    "q41": "Very excited for the game."
+  },
+  {
+    "q0": 28003735,
+    "q41": "Recognizes the involvement of artist Shuning."
+  },
+  {
+    "q0": 27991524,
+    "q41": "Optimistic about the game."
+  },
+  {
+    "q0": 27987102,
+    "q41": "Strongly attracted by the national-style art; promises support on release."
+  },
+  {
+    "q0": 27959645,
+    "q41": "Asks for a clear launch date; worried they might forget the game due to delays."
+  },
+  {
+    "q0": 27931607,
+    "q41": "Likes the art style."
+  },
+  {
+    "q0": 27925879,
+    "q41": "Watching and anticipating."
+  },
+  {
+    "q0": 27857445,
+    "q41": "Five-star watch; praises visual quality; hopes the content is even better."
+  },
+  {
+    "q0": 27812528,
+    "q41": "Four-star watch; says devs seem attentive in comments; hopes for high playability and for the team to stay true to its original vision."
+  },
+  {
+    "q0": 27798495,
+    "q41": "Came from drawing community; an original artwork drew them in; now watching the game."
+  },
+  {
+    "q0": 27787725,
+    "q41": "Pre-registration rewards suggest it’s a gacha game; expects character pulls and possibly a weapon banner."
+  },
+  {
+    "q0": 27747988,
+    "q41": "Four-star watch; warns against any 'replacing China with Japan' cultural content; emphasizes cultural authenticity given the 'Huaxia' title."
+  },
+  {
+    "q0": 27684873,
+    "q41": "Cover art drew them in; hopes the gameplay content holds up."
+  },
+  {
+    "q0": 27675809,
+    "q41": "Suggests changing the 'scroll' item icon (looks like a different genre), and unifying UI/icons/effects to match the clean illustration style with lower saturation and more anime-like presentation."
+  },
+  {
+    "q0": 27672477,
+    "q41": "Second image is impressive; anticipation after seeing it in an art app."
+  },
+  {
+    "q0": 27627184,
+    "q41": "Art is good but genre may not fit their taste; still a four-star watch."
+  },
+  {
+    "q0": 27617809,
+    "q41": "Likes Hanfu/ancient Chinese aesthetic; waiting to play."
+  },
+  {
+    "q0": 27598536,
+    "q41": "Loves Chinese history; hopes characters stay close to historical records."
+  },
+  {
+    "q0": 27562867,
+    "q41": "Jokes about reserving a 'nonexistent' game; frustrated by delays."
+  },
+  {
+    "q0": 27533121,
+    "q41": "Cannot understand the game yet due to lack of gameplay info; four-star watch."
+  },
+  {
+    "q0": 27515428,
+    "q41": "Hopes historical figures are faithfully portrayed; asks why the official calls themselves 'Little Zhang Liang'."
+  },
+  {
+    "q0": 27509757,
+    "q41": "Criticizes the 'Mei Xi' art: neck looks awkward; advises fixing visuals before marketing to players."
+  },
+  {
+    "q0": 27455873,
+    "q41": "Eager to play soon."
+  },
+  {
+    "q0": 27441090,
+    "q41": "Interested by the art; hopes the gameplay is fun."
+  },
+  {
+    "q0": 27427330,
+    "q41": "Says the title sounds grand and evokes Civilization VI; warns against shallow gameplay."
+  },
+  {
+    "q0": 27425679,
+    "q41": "Says the game is fun for passing time and is good when bored."
+  },
+  {
+    "q0": 27421486,
+    "q41": "Finds the devs polite; likes the inclusion of Yu the Great; warns not to become like a negative competitor title."
+  },
+  {
+    "q0": 27415846,
+    "q41": "Hopes it won’t take too long to release."
+  },
+  {
+    "q0": 27413550,
+    "q41": "Very excited for the game."
+  },
+  {
+    "q0": 27412027,
+    "q41": "Asks the devs to speed up release; eager to play soon."
+  },
+  {
+    "q0": 27390150,
+    "q41": "Encourages the team to remember their original intention; entrepreneurship is hard."
+  },
+  {
+    "q0": 27389538,
+    "q41": "Very excited."
+  },
+  {
+    "q0": 27388550
+  }
+]

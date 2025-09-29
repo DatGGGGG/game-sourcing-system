@@ -1,0 +1,81 @@
+question_code,question_content,synthesis_answer
+q1,"Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)","{None: 741, True: 11}"
+q2,"List the sensitive content mentioned, if any.","• Cover art sexualizes historical figures (exposed thighs, chest/abs); criticized as male‑gaze pandering. [31736948]
+• Art may cater to lustful players; concern over fanservice tone. [26137664]
+• Art seen as female-oriented; suitability for a serious Huaxia theme questioned. [26594372]
+• Repeated calls to respect history; avoid distortion and insulting history. [26498013, 26075629, 26074897, 25970191, 26137664]
+• Warn against inserting personal agendas or reversing right and wrong. [26075629]
+• Prefer being observers of history, not participants. [26477738]
+• Seek accurate, educational content and balanced portrayals to prevent misleading players. [27369929, 25970191]
+• Sensitivity over including Goryeo among major cultures; questioned legitimacy. [26003876]
+• Concern whether current style and theme can pass review/censorship. [26594372]"
+q3,Summarize the core combat mechanics (or “N/A” if not mentioned).,
+q4,Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”,"{'overall_score': -0.5384615384615384, 'detailed_scoring': {None: 739, -1.0: 7, 0.0: 3, 1.0: 2, -2.0: 1}}"
+q5,Reason for previous question’s rating,
+q6,"List the strategic/tactical features mentioned, if any.",
+q7,Rate strategic/tactical depth: -2 to 2 or “N/A”,"{'overall_score': -0.4, 'detailed_scoring': {None: 742, -1.0: 5, 0.0: 4, 1.0: 1}}"
+q8,Reason for previous question’s rating,"• Elemental advantage feels ineffective; higher power and counters still lose unexpectedly. [46416533]
+"
+q9,Rate game progression: -2 to 2 or “N/A”,"{'overall_score': -0.36363636363636365, 'detailed_scoring': {None: 741, -1.0: 7, 1.0: 3, 0.0: 1}}"
+q10,Reason for previous question’s rating,
+q11,Rate hero balance: -2 to 2 or “N/A”,"{'overall_score': -1.4, 'detailed_scoring': {None: 747, -1.0: 3, -2.0: 2}}"
+q12,Reason for previous question’s rating,"- Counter-attribute squads with higher power still lose to weaker enemies. [46416533]
+- High-power Chang'e dies in few hits; survivability feels inconsistent. [46416533]
+- Metal teams feel overtuned; leaderboards dominated by Metal lineups. [45575226, 46359192]
+- Water element perceived weak; few players use Water teams. [46359192]
+- Elemental counter system feels ineffective; ""elemental counter is a joke."" [46359192]
+- Liangyi attribute predicted T0; Nezha is very strong. [46098087]
+- Role balance off; backline units tankier than frontline tanks. [45516979]
+- Players request clearer tank, healer, and DPS role distinctions. [45516979]"
+q13,Rate hero/team build diversity: -2 to 2 or “N/A”,"{'overall_score': -0.3333333333333333, 'detailed_scoring': {None: 749, -1.0: 2, 1.0: 1}}"
+q14,Reason for previous question’s rating,"- Metal element teams dominate; Water teams are weak and rarely played. [46359192]
+- Imbalance undermines elemental counter system; ""five-element restraint is a joke."" [46359192]
+- Liangyi attribute predicted T0, but currently has few heroes. [46098087]
+- Nezha is very useful, likely central to many builds. [46098087]
+- 33 heroes available in test, offering some roster variety. [34560967]
+- No Lu Bu among heroes, disappointing some roster expectations. [34560967]"
+q15,Describe the secondary core loop (or “N/A”),
+q16,"Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)","{None: 731, True: 20, False: 1}"
+q17,Rate simplicity of the secondary loop: -2 to 2 or “N/A”,"{'overall_score': 0.18181818181818182, 'detailed_scoring': {None: 741, -1.0: 5, 1.0: 3, 2.0: 2, 0.0: 1}}"
+q18,Reason for previous question’s rating,"- Secondary loop (farming/management) feels shallow, linear, and lacks meaningful choices. [44730446, 45273518, 30065457]
+- Early progression is easy; later resource scarcity forces prioritization. [45516979]
+- Excessive clicking; requests for one-click collection/claim QoL. [32638512, 32376063, 32371088]
+- Timers are long; restaurant profits low, reducing engagement. [45273518, 34560967]
+- Building outputs tied solely to level; players can’t place or customize. [44730446]
+- Upgrading limited to one building at a time; feels restrictive."
+q19,Rate resources earned from the secondary loop: -2 to 2 or “N/A”,"{'overall_score': -0.5, 'detailed_scoring': {None: 748, 0.0: 2, -1.0: 2}}"
+q20,Reason for previous question’s rating,
+q21,Rate frequency of content/meta updates: -2 to 2 or “N/A”,"{'overall_score': -2.0, 'detailed_scoring': {None: 735, -2.0: 17}}"
+q22,Reason for previous question’s rating,
+q23,Does the game have a gacha guarantee system? (True/False/“N/A”),"{None: 749, False: 2, True: 1}"
+q24,"Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”","- Standard recruitment: ""400 pulls pity"" for heaven-tier characters. [46163682]
+- Player obtained a heaven-tier character in about 60 pulls, before pity. [46163682]"
+q25,Rate reasonableness of gacha pull price: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 752}}"
+q26,Reason for previous question’s rating,• No reviews matched.
+q27,Rate major feature access for non-paying users: -2 to 2 or “N/A”,"{'overall_score': -1.5, 'detailed_scoring': {None: 750, -2.0: 1, -1.0: 1}}"
+q28,Reason for previous question’s rating,"- Sustained progression and competitiveness require heavy monthly spending; F2P players get stomped and lack resources [46382690].
+- Early game feels playable with small purchases; later becomes paywall demanding thousands monthly [46382690].
+- Key resources and ingredients locked behind yuanbao shop purchases, limiting non-paying access [44730446].
+- Dynasty advancement uses shop-bought turtle shells for basic upgrades, implying pay reliance [44730446].
+- Ranking advantage tied to spending; low spenders briefly top then quickly fall behind [46382690].
+- Missing in-game alternatives (hunting, livestock) push players toward premium currency spending [44730446]."
+q29,"Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”","{'overall_score': -0.8571428571428571, 'detailed_scoring': {None: 745, -1.0: 5, -2.0: 1, 1.0: 1}}"
+q30,Reason for previous question’s rating,
+q31,Rate quality/quantity of free rewards: -2 to 2 or “N/A”,"{'overall_score': 1.1428571428571428, 'detailed_scoring': {None: 745, 1.0: 6, 2.0: 1}}"
+q32,Reason for previous question’s rating,"- Test rewards widely praised; ""test rewards are generous."" [45480155, 32376063, 44721663]
+- Many free pulls enabled some to complete the full roster. [45480155]
+- Good test rewards should carry into launch; otherwise the game may feel hard. [46025095]
+- Plenty of invitation items in test, but Treasure Mirrors felt scarce; suggest more sources. [45431273]
+- Low-rarity characters easy to obtain, easing heavy shard requirements for constellations. [44721663]
+- Developers provided free premium currency during first test for gacha. [32638512]
+- Pre-registration bonus character incentivized sign-ups. [28726457]
+- One player hopes the official version retains at least one-third of test generosity. [44721663]"
+q33,Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.,{None: 752}
+q34,"Briefly describe the IP if answer to previous question is True, else answer “N/A”",• No reviews matched.
+q35,Rate IP integration depth: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 752}}"
+q36,Reason for previous question’s rating,• No reviews matched.
+q37,Rate lightness of installation file: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 752}}"
+q38,Reason for previous question’s rating,• No reviews matched.
+q39,Rate in-game download experience: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 752}}"
+q40,Reason for previous question’s rating,• No reviews matched.
+q41,Briefly list other issues (not captured by the questions above),

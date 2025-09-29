@@ -1,0 +1,354 @@
+[
+  {
+    "q0": 27369929,
+    "q1": true,
+    "q2": "Religious/Political (Chinese history education)",
+    "q41": "Likes the gentle art; unclear gameplay; hopes it is not a card game; wishes for historical educational content"
+  },
+  {
+    "q0": 27327328
+  },
+  {
+    "q0": 27317093
+  },
+  {
+    "q0": 27316764,
+    "q41": "Asks what the gameplay/genre is; core mechanics are unclear"
+  },
+  {
+    "q0": 27297999
+  },
+  {
+    "q0": 27264924
+  },
+  {
+    "q0": 27180902
+  },
+  {
+    "q0": 27170154,
+    "q41": "Thinks it resembles a mythic Three Kingdoms; asks when the test will start"
+  },
+  {
+    "q0": 27165434,
+    "q41": "Will revisit after the first test to update impressions"
+  },
+  {
+    "q0": 27143129
+  },
+  {
+    "q0": 27084948
+  },
+  {
+    "q0": 27068253,
+    "q41": "Loves the art but is cautious due to bad experiences with past games"
+  },
+  {
+    "q0": 27057917
+  },
+  {
+    "q0": 27052129
+  },
+  {
+    "q0": 27031900,
+    "q41": "Likes civilization-building games; unsure if this game matches that style; 4-star expectation"
+  },
+  {
+    "q0": 27003972
+  },
+  {
+    "q0": 26963177,
+    "q41": "Praises the art and says the official team looks active; cheering the team on"
+  },
+  {
+    "q0": 26911560
+  },
+  {
+    "q0": 26895121,
+    "q1": true,
+    "q2": "Religious/Political (operating China vs other civilizations to compete)",
+    "q41": "Unsure if gameplay is Civ-like 4X or Koei's Romance of the Three Kingdoms global map"
+  },
+  {
+    "q0": 26890618,
+    "q41": "Skeptical of 'simulator' games that are actually ad platforms; will adjust rating if it truly simulates"
+  },
+  {
+    "q0": 26865331
+  },
+  {
+    "q0": 26857553,
+    "q41": "Asks when the game will be playable"
+  },
+  {
+    "q0": 26849540,
+    "q41": "Asks for an official community group and warns they'll criticize if disappointed"
+  },
+  {
+    "q0": 26806188
+  },
+  {
+    "q0": 26796507,
+    "q41": "No gameplay shown; many character illustrations; rating given only for art; will re-rate after release"
+  },
+  {
+    "q0": 26794639
+  },
+  {
+    "q0": 26785430,
+    "q41": "Asks about gameplay type and whether farming is possible"
+  },
+  {
+    "q0": 26780930,
+    "q41": "Wants reasonable monetization; hopes microspenders can play comfortably; likes the art and Chinese style"
+  },
+  {
+    "q0": 26760447,
+    "q6": "Requests a rigorous tech tree",
+    "q41": "References Dream Pool Essays, Tiangong Kaiwu, and Qimin Yaoshu as sources for a historical tech tree"
+  },
+  {
+    "q0": 26759128
+  },
+  {
+    "q0": 26751198,
+    "q41": "Mentions Xishi is included; expresses anticipation"
+  },
+  {
+    "q0": 26737737
+  },
+  {
+    "q0": 26725180
+  },
+  {
+    "q0": 26724426
+  },
+  {
+    "q0": 26715597
+  },
+  {
+    "q0": 26707205
+  },
+  {
+    "q0": 26706523
+  },
+  {
+    "q0": 26695641
+  },
+  {
+    "q0": 26677975,
+    "q15": "Idle collection and character raising; suggests ad insertion as monetization; possible gacha",
+    "q16": false,
+    "q41": "Thinks the art looks by one artist; expects idle/collection; worries it may be ad-heavy; suspects gacha; monetization unclear"
+  },
+  {
+    "q0": 26655813,
+    "q41": "Art critique: male characters look like doll faces and lack masculinity"
+  },
+  {
+    "q0": 26654063
+  },
+  {
+    "q0": 26653220
+  },
+  {
+    "q0": 26640046
+  },
+  {
+    "q0": 26610948
+  },
+  {
+    "q0": 26595394
+  },
+  {
+    "q0": 26594372,
+    "q1": true,
+    "q2": "Religious/Political (use of 'Huaxia' branding; approval concern; female-oriented art vs historical theme)",
+    "q41": "No gameplay/intro provided; art is female-oriented; questions if the 'Huaxia' title can pass approval"
+  },
+  {
+    "q0": 26581932
+  },
+  {
+    "q0": 26567695
+  },
+  {
+    "q0": 26567208
+  },
+  {
+    "q0": 26564010
+  },
+  {
+    "q0": 26561195
+  },
+  {
+    "q0": 26557874,
+    "q41": "Hopes male characters are drawn more tough/masculine; overall anticipation is high"
+  },
+  {
+    "q0": 26554910
+  },
+  {
+    "q0": 26550017
+  },
+  {
+    "q0": 26549511
+  },
+  {
+    "q0": 26547938
+  },
+  {
+    "q0": 26547665
+  },
+  {
+    "q0": 26547659
+  },
+  {
+    "q0": 26547172
+  },
+  {
+    "q0": 26520347,
+    "q41": "Male characters lack masculinity; requests improvements to male character art"
+  },
+  {
+    "q0": 26515829,
+    "q41": "Worried a small team may not sustain development; cheers the team on"
+  },
+  {
+    "q0": 26505434
+  },
+  {
+    "q0": 26498013,
+    "q1": true,
+    "q2": "Religious/Political (avoid disrespecting history like the Jiangnan Baijingtu controversy)",
+    "q41": "Warns against exploiting history while insulting it; asks for historical respect"
+  },
+  {
+    "q0": 26477738,
+    "q1": true,
+    "q2": "Religious/Political (prefers being observers of history rather than altering it)",
+    "q41": "Prefers players be bystanders to history, not participants altering events"
+  },
+  {
+    "q0": 26471363,
+    "q41": "The theme is risky; hopes the team delivers and avoids underperforming"
+  },
+  {
+    "q0": 26467345
+  },
+  {
+    "q0": 26453793,
+    "q6": "Requests diverse tech/policy choices and controllable armies",
+    "q41": "Wants unusual tech paths and policy experiments; hopes for controllable battles and faster building; dislikes idle resource-collection designs"
+  },
+  {
+    "q0": 26443363
+  },
+  {
+    "q0": 26443221,
+    "q41": "Hopes it is not another Jiangnan Baijingtu / Coconut Island-style reskin"
+  },
+  {
+    "q0": 26435378,
+    "q41": "Requests more masculine male characters (especially generals); avoid stereotype-based stats tied to bios; asks how many schools of philosophy will be included"
+  },
+  {
+    "q0": 26426509,
+    "q41": "Likes the art; gameplay remains unknown"
+  },
+  {
+    "q0": 26421142
+  },
+  {
+    "q0": 26400657,
+    "q41": "Good art but insufficient information; observing for now"
+  },
+  {
+    "q0": 26383357,
+    "q41": "Critiques emperors as too effeminate; emperors should look strong"
+  },
+  {
+    "q0": 26383107,
+    "q41": "Only character art is shown; hard to judge the game"
+  },
+  {
+    "q0": 26378552
+  },
+  {
+    "q0": 26365119,
+    "q41": "Urges focus on character stories and narrative; warns not to rely solely on visuals; emphasizes strong plot"
+  },
+  {
+    "q0": 26334966
+  },
+  {
+    "q0": 26322507,
+    "q15": "Management/operation plus character raising; early achievements grant premium currency, later tasks by developed characters generate more",
+    "q16": true,
+    "q41": "Expects small-team launch content to be limited; proposes monetization with a gacha 'Scholars Scroll', premium currency for buying/upgrading characters, non-premium for management buffs, premium-funded wonders, and limited-time paid characters that are strong early but balanced later"
+  },
+  {
+    "q0": 26321043
+  },
+  {
+    "q0": 26259049,
+    "q41": "Art raises expectations; official replies boosted hype; hopes to play soon"
+  },
+  {
+    "q0": 26168136
+  },
+  {
+    "q0": 26137664,
+    "q1": true,
+    "q2": "Religious/Political (calls for respect for historical accuracy and originality)",
+    "q41": "No gameplay demo; emperors look too effeminate; urges originality and respect for history; asks to avoid heavy monetization"
+  },
+  {
+    "q0": 26105868,
+    "q41": "Asks for an approximate internal test timing"
+  },
+  {
+    "q0": 26075629,
+    "q1": true,
+    "q2": "Religious/Political (avoid ideological bias and historical revisionism)",
+    "q41": "Cites Jiangnan Baijingtu as a caution; asks to avoid biased content"
+  },
+  {
+    "q0": 26074897,
+    "q1": true,
+    "q2": "Religious/Political (respect historical accuracy)",
+    "q41": "Wants the game to respect history"
+  },
+  {
+    "q0": 26073600
+  },
+  {
+    "q0": 26063619,
+    "q41": "Wants devs to listen to player feedback; likes the art; 5-star anticipation"
+  },
+  {
+    "q0": 26003876,
+    "q1": true,
+    "q2": "Religious/Political (controversy over including Goryeo/Korea among featured civilizations)",
+    "q41": "Questions why Goryeo is presented alongside others; still rates highly for the costumes"
+  },
+  {
+    "q0": 25997323
+  },
+  {
+    "q0": 25986940,
+    "q41": "Requests inclusion of the general Chen Qingzhi; jokes about spending"
+  },
+  {
+    "q0": 25977778
+  },
+  {
+    "q0": 25976302,
+    "q41": "Points out anatomy issues in Mo Xi's illustration (very long thin neck); requests adjustments"
+  },
+  {
+    "q0": 25970191,
+    "q1": true,
+    "q2": "Religious/Political (asks for accurate integration with history to avoid misleading players)",
+    "q41": "Likes history and the art; wants more characters and strong story; hopes for broad cultural coverage (poetry, virtues) and balanced portrayals"
+  }
+]

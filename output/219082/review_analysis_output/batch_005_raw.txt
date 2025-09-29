@@ -1,0 +1,376 @@
+[
+  {
+    "q0": 29708846,
+    "q41": "Likes the historical card-game art style; worries about heavy monetization/being milked like other titles; hopes it will be consumer-friendly."
+  },
+  {
+    "q0": 29670522,
+    "q41": "Strongly attracted by the Li Qingzhao (Yi’an) art; very high expectation."
+  },
+  {
+    "q0": 29650461,
+    "q41": "Urges faster release; requests adding Shangguan Wan’er."
+  },
+  {
+    "q0": 29643539,
+    "q41": "Deep affection for Li Qingzhao and her depiction; emotional resonance with the character."
+  },
+  {
+    "q0": 29597483,
+    "q41": "Loves the art but suggests Li Qingzhao should have a more mature, elegant ‘onee-san’ temperament consistent with her image."
+  },
+  {
+    "q0": 29577261,
+    "q41": "Has waited a long time; asks when the closed beta will start."
+  },
+  {
+    "q0": 29576704,
+    "q41": "Hopes for a culturally rich, deeply rooted historical work."
+  },
+  {
+    "q0": 29569154,
+    "q41": "Gives five-star expectation purely for the art style."
+  },
+  {
+    "q0": 29553909,
+    "q41": "Art looks good; unsure about gameplay and hopes it won’t disappoint."
+  },
+  {
+    "q0": 29550755,
+    "q41": "Five-star watch due to historical theme; asks to respect history, control grind and monetization, and listen to player feedback; suggests improving figure anatomy in some illustrations and varying character skin tones (not all pale), especially for elders/generals."
+  },
+  {
+    "q0": 29529546,
+    "q41": "Praises art but emphasizes gameplay over marketing; urges player-first monetization and ethics as recent games feel greedy."
+  },
+  {
+    "q0": 29508554,
+    "q41": "Five-star watch for Chinese history theme; urges careful development and faster release."
+  },
+  {
+    "q0": 29501283,
+    "q41": "Attracted by theme and art despite not knowing mechanics; stresses that history theme requires strong literary grounding; encourages the team."
+  },
+  {
+    "q0": 29479520,
+    "q41": "Requests Sima Xi, Han Yan, and Du Rang; hopes the game won’t be too pay-heavy."
+  },
+  {
+    "q0": 29460460,
+    "q41": "Requests interactive 2.5D/live2D-style portraits; dislikes flat, static ‘paper doll’/low-quality chibi implementations."
+  },
+  {
+    "q0": 29453011,
+    "q41": "Very excited and looking forward."
+  },
+  {
+    "q0": 29449095,
+    "q41": "Four-star watch; requests more focus on Eastern Jin/Northern & Southern Dynasties figures (e.g., Xie An, Chi Chao, Wang Xizhi, Tao Yuanming) beyond the overused Three Kingdoms."
+  },
+  {
+    "q0": 29447025,
+    "q41": "Requests Qin Liangyu and Fu Hao; reminds there are other notable female generals beyond Mulan."
+  },
+  {
+    "q0": 29443042,
+    "q41": "Very high anticipation."
+  },
+  {
+    "q0": 29433444,
+    "q41": "Asks when the open beta will start."
+  },
+  {
+    "q0": 29433155,
+    "q41": "Observing but strongly impressed by the striking art style."
+  },
+  {
+    "q0": 29430281,
+    "q41": "Likes the art; four-star watch."
+  },
+  {
+    "q0": 29423412,
+    "q41": "Urges rigorous historical research and nuanced portrayals; warns against distorting history and potential censorship issues; believes a well-made historical game has broad appeal."
+  },
+  {
+    "q0": 29408067,
+    "q41": "Five-star expectation; loves the national style; asks if there will be a closed beta."
+  },
+  {
+    "q0": 29398583,
+    "q41": "Loves Li Qingzhao; will pre-register due to her excellent depiction."
+  },
+  {
+    "q0": 29389484,
+    "q41": "Art looks great, especially Mulan which matches personal taste."
+  },
+  {
+    "q0": 29381564,
+    "q41": "Repeated expressions of strong anticipation."
+  },
+  {
+    "q0": 29378039,
+    "q41": "Excited and looking forward."
+  },
+  {
+    "q0": 29378026,
+    "q41": "Loves the art; slightly optimistic expectation."
+  },
+  {
+    "q0": 29367688,
+    "q41": "Art style is very appealing; looking forward."
+  },
+  {
+    "q0": 29356265,
+    "q41": "Urges the team to move faster."
+  },
+  {
+    "q0": 29344292,
+    "q41": "Very期待; loves the art; asks not to rewrite or distort historical stories like some competing titles."
+  },
+  {
+    "q0": 29315173,
+    "q41": "Anticipating the release."
+  },
+  {
+    "q0": 29286781,
+    "q41": "Impatient from waiting; wants it to launch soon."
+  },
+  {
+    "q0": 29280751,
+    "q41": "Impatient daily; notices the game may have changed name; eagerly awaiting launch."
+  },
+  {
+    "q0": 29259345,
+    "q41": "Watching with interest; feels Wu Zetian’s portrait isn’t imposing enough; asks for tweaks; overall supportive."
+  },
+  {
+    "q0": 29252368,
+    "q41": "Pre-registered; loves the national-style raising/collection and the graphics."
+  },
+  {
+    "q0": 29240050,
+    "q41": "Very enthusiastic about Wu Zetian’s character."
+  },
+  {
+    "q0": 29230251,
+    "q41": "Initial expectation."
+  },
+  {
+    "q0": 29217048,
+    "q41": "Likes Wu Zetian matching Tang ‘plump is beauty’ aesthetic but feels the expression lacks imperial gravitas; encourages the artists."
+  },
+  {
+    "q0": 29216578,
+    "q41": "Perceives sincerity from the devs; five-star expectation; hopes for a truly excellent historical game."
+  },
+  {
+    "q0": 29187521,
+    "q41": "Cover art is stunning; hopes in-game visuals match promotional quality and not cheap-looking models; wants both visuals and story to be good."
+  },
+  {
+    "q0": 29162382,
+    "q41": "Likes the art; requests Xie Daoyun; hopes the era-specific traits of characters are emphasized."
+  },
+  {
+    "q0": 29160624,
+    "q41": "Five-star anticipation."
+  },
+  {
+    "q0": 29139318,
+    "q41": "Hopes to see real cultural heritage conveyed; even freed phone storage for it; five-star watch."
+  },
+  {
+    "q0": 29125353,
+    "q41": "Suggests era-accurate costumes/makeup; requests inclusion of less mainstream but significant women (Fu Hao, Princess Jieyou, Princess Qianjin, Madam Xian); aims to reduce sameness, avoid controversy, and educate players."
+  },
+  {
+    "q0": 29124009,
+    "q41": "Waiting so long it’s frustrating; urges maintaining high quality even if it takes more time."
+  },
+  {
+    "q0": 29102152,
+    "q41": "Following due to the art; hopes gameplay footage and actual game match the promotional quality."
+  },
+  {
+    "q0": 29091051,
+    "q41": "Very期待; acknowledges historical theme is challenging to execute."
+  },
+  {
+    "q0": 29084593,
+    "q41": "Five-star watch; suggests balancing profitability with player experience and considering professional operations to avoid shutdown."
+  },
+  {
+    "q0": 29082026,
+    "q41": "Expects great art; advises not to imitate competitors (e.g., Wangchuan, Honor of Kings); prefers a careful, unhurried development."
+  },
+  {
+    "q0": 29075449,
+    "q41": "Likes the art style."
+  },
+  {
+    "q0": 29074457,
+    "q41": "Hopes this won’t be like another game (HYS); looking for a replacement; supports due to good visuals."
+  },
+  {
+    "q0": 29060827,
+    "q41": "Suggests making Wu Zetian’s pose more regal; doesn’t mind monetization if the game is fun and not a reskin; hopes to learn history through the game."
+  },
+  {
+    "q0": 29058466,
+    "q41": "Art style looks familiar; excited."
+  },
+  {
+    "q0": 29054370,
+    "q41": "Likes the art; asks for faster open beta as they have nothing to play."
+  },
+  {
+    "q0": 29053523,
+    "q41": "Art resembles the Yashe comic style; looks forward to it."
+  },
+  {
+    "q0": 29050750,
+    "q41": "Art is pretty; feels Wu Zetian looks too soft and Li Qingzhao too naive; notes mismatch between clothing and expressions; still very期待."
+  },
+  {
+    "q0": 29039175,
+    "q41": "Asks if it is a simulation/management type; requests famous historical figures (e.g., Guo Jia, Xun Yu); wants attractive depictions and an earlier release."
+  },
+  {
+    "q0": 29037873,
+    "q41": "Urges the team not to disappoint; seeks a fresh new game to enjoy."
+  },
+  {
+    "q0": 29035919,
+    "q41": "Strongly opposes shipping/pairing historical figures or BL-baiting; finds it offensive."
+  },
+  {
+    "q0": 29029136,
+    "q41": "Art looks good; pre-registered."
+  },
+  {
+    "q0": 29024045,
+    "q41": "Thinks Li Qingzhao’s baby-faced look lacks an ethereal vibe and mismatches the outfit."
+  },
+  {
+    "q0": 29010076,
+    "q41": "Asks when it will launch; very期待."
+  },
+  {
+    "q0": 28988385,
+    "q41": "Points out a promo image’s roof and lanterns look Japanese; urges architectural authenticity and avoidance of Japanese elements in a Huaxia-themed game."
+  },
+  {
+    "q0": 28974239,
+    "q41": "Five-star expectation; appreciates active official replies; suggests changing ‘Yi’an Ci’ to ‘Shu Yu Ci’ for Li Qingzhao’s collection."
+  },
+  {
+    "q0": 28946149,
+    "q41": "Requests adding Shangguan Wan’er."
+  },
+  {
+    "q0": 28938123,
+    "q41": "Asks for the expected open beta date; watching."
+  },
+  {
+    "q0": 28927122,
+    "q41": "Art looks great; hopes it won’t be too pay-to-win."
+  },
+  {
+    "q0": 28910431,
+    "q41": "Four-star watch; suggests adjusting Wu Zetian’s portrait (too much blush)."
+  },
+  {
+    "q0": 28895964,
+    "q41": "Four-star watch; urges not to swap character genders; if there’s a gacha/star system, hopes high rarity favors righteous figures rather than infamous ones (e.g., Qin Hui)."
+  },
+  {
+    "q0": 28884499,
+    "q41": "Questions whether the roster is all female."
+  },
+  {
+    "q0": 28879824,
+    "q41": "Initial期待."
+  },
+  {
+    "q0": 28870025,
+    "q41": "Excited by varied dynastic styles; asks about world structure (parallel eras vs. progression), acquisition methods (noting gacha could add monetization), and player interaction; strongly opposes ‘fake guofeng’ sexualized designs and shallow webnovel-style writing; emphasizes the importance of high-quality character/building/scene illustrations."
+  },
+  {
+    "q0": 28839499,
+    "q41": "Likes the art (except Wu Zetian); worries gameplay may ruin the strong visuals."
+  },
+  {
+    "q0": 28827680,
+    "q41": "Art looks nice;期待."
+  },
+  {
+    "q0": 28817297,
+    "q41": "Prefer a polished product over rushing; take your time."
+  },
+  {
+    "q0": 28815095,
+    "q41": "Asks when it will be released."
+  },
+  {
+    "q0": 28808400,
+    "q41": "Asks when the server will open."
+  },
+  {
+    "q0": 28804429,
+    "q41": "Loves the art; praises accurate depiction (e.g., Hua Tuo)."
+  },
+  {
+    "q0": 28796798,
+    "q41": "Five-star watch."
+  },
+  {
+    "q0": 28782526,
+    "q41": "Intro looks good;期待 launch and hopes it won’t disappoint."
+  },
+  {
+    "q0": 28767658,
+    "q41": "Initially liked two female portraits, but found names and looks mismatched (e.g., Li Qingzhao, Mulan mistaken for Wang Zhaojun); strongly criticizes later depictions (Qi Jiguang, Wu Zetian); suggests avoiding historical IP if not handled carefully; worries poor depictions could trigger stricter regulation."
+  },
+  {
+    "q0": 28751398,
+    "q41": "Suggests using historical prototypes/accurate references for figures like Mulan or separate them into a distinct category."
+  },
+  {
+    "q0": 28750192,
+    "q41": "Portraits look great; hopes the game itself is solid."
+  },
+  {
+    "q0": 28747759,
+    "q41": "Five-star; waiting for closed beta."
+  },
+  {
+    "q0": 28742854,
+    "q41": "Five-star; waiting for closed beta."
+  },
+  {
+    "q0": 28739770,
+    "q41": "Super期待."
+  },
+  {
+    "q0": 28736067,
+    "q41": "Finds the officials polite; historical style feels novel; portraits look great; very期待; seasonal greeting."
+  },
+  {
+    "q0": 28726457,
+    "q31": 1,
+    "q32": "Pre-registration bonus includes a free character (‘Xiao Huo’), which motivated them to sign up.",
+    "q41": "Excited to pre-register after seeing a free character reward (‘Xiao Huo’)."
+  },
+  {
+    "q0": 28722967,
+    "q41": "Five-star期待; requests Li Bai (‘Taibai’)."
+  },
+  {
+    "q0": 28720164,
+    "q41": "Cheering the team on; encourages progress."
+  },
+  {
+    "q0": 28716610,
+    "q41": "Will keep waiting for Zhuge Liang in another game; lost interest in that competitor due to delays; implicitly hopes this game delivers faster or includes that figure."
+  }
+]

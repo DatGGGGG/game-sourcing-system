@@ -1,0 +1,404 @@
+[
+  {
+    "q0": 34173605,
+    "q41": "Asks when the open beta will start; eager to play."
+  },
+  {
+    "q0": 34136401,
+    "q29": -1,
+    "q30": "Warns the developer not to force players to spend; concern about monetization pressure."
+  },
+  {
+    "q0": 34117179,
+    "q41": "Asks when the game will release."
+  },
+  {
+    "q0": 34112953,
+    "q41": "Art feedback: Hua Tuo’s portrait looks childlike with forced beard/wrinkles; feels inconsistent."
+  },
+  {
+    "q0": 34110972,
+    "q41": "Asks when the open beta will start."
+  },
+  {
+    "q0": 34073683,
+    "q41": "Praises the team’s responsive attitude; strong expectation for launch."
+  },
+  {
+    "q0": 34059496,
+    "q41": "Likes Hua Tuo’s unique design (not all handsome men); asks for test/news and more gameplay info beyond a few portraits."
+  },
+  {
+    "q0": 34036704,
+    "q41": "Likes the art; hopes for good operations and advises ignoring trolls."
+  },
+  {
+    "q0": 33996450,
+    "q41": "Highly anticipates the game; asks when closed beta will begin."
+  },
+  {
+    "q0": 33951846,
+    "q41": "Hopes battle screen isn’t MMO-like; asks when the beta starts."
+  },
+  {
+    "q0": 33945836,
+    "q41": "Likes the art style; five-star expectation."
+  },
+  {
+    "q0": 33931532,
+    "q41": "Likes historical-raising genre; awaits open beta."
+  },
+  {
+    "q0": 33930408,
+    "q41": "Requests respect for Chinese history and figures; avoid comedic distortion."
+  },
+  {
+    "q0": 33925692,
+    "q41": "Art style strongly appeals to the reviewer."
+  },
+  {
+    "q0": 33846343,
+    "q29": -1,
+    "q30": "Hopes the game won’t be a cash grab and will stick to its original intent.",
+    "q41": "Finds Hua Tuo portrait cute; praises the art."
+  },
+  {
+    "q0": 33825432,
+    "q41": "Attracted by art; asks the game to adhere to history and avoid inverting historical figures."
+  },
+  {
+    "q0": 33808011,
+    "q41": "Wants a rigorously historical, well-researched game; repeatedly urges not to ‘mess around’ with history."
+  },
+  {
+    "q0": 33791112,
+    "q41": "Humorous hyperbole about waiting a very long time for open beta."
+  },
+  {
+    "q0": 33762563,
+    "q41": "Hopes for historical accuracy and educational value; characters should fit their historical images."
+  },
+  {
+    "q0": 33747085,
+    "q41": "Asks whether there is friend co-op/multiplayer."
+  },
+  {
+    "q0": 33666356,
+    "q41": "Asks when the game will go online."
+  },
+  {
+    "q0": 33634134,
+    "q41": "Loves ancient-style history theme; hopes for early launch and varied gameplay with beautiful characters."
+  },
+  {
+    "q0": 33486254,
+    "q41": "Says they’ve been waiting a long time."
+  },
+  {
+    "q0": 29441609,
+    "q41": "Asks if historical figures Li Bai and Sun Simiao are included."
+  },
+  {
+    "q0": 33210479,
+    "q29": 1,
+    "q30": "From comments/test videos, the game doesn’t feel very pay-heavy.",
+    "q41": "Likes the Thousand Li of Rivers and Mountains visual vibe; suggests small non-competitive minigames with participation rewards; cautions against overloading welfare which can cause fatigue."
+  },
+  {
+    "q0": 33204412,
+    "q41": "Requests no distortion of history, no forced CP (except canon), and cosmetic-only monetization that doesn’t affect gameplay."
+  },
+  {
+    "q0": 33190427,
+    "q41": "Notes the first store image is too chibi and inconsistent with later portraits."
+  },
+  {
+    "q0": 33189027,
+    "q41": "Asks whether the game has a license approval and when it will open."
+  },
+  {
+    "q0": 33064559,
+    "q41": "Asks if the game has released yet."
+  },
+  {
+    "q0": 33047849,
+    "q41": "Praises art and seemingly interesting gameplay but worries about long-term boredom; says info is too limited to judge."
+  },
+  {
+    "q0": 32955372,
+    "q41": "Asks when it will release; hasn’t played yet but leaves five stars."
+  },
+  {
+    "q0": 32953034
+  },
+  {
+    "q0": 32948144,
+    "q41": "Asks when it will come out; has waited a long time."
+  },
+  {
+    "q0": 32923576,
+    "q41": "Criticizes overused Thousand Li of Rivers and Mountains-like palette; says first landscape doesn’t match high-quality character art."
+  },
+  {
+    "q0": 32892793
+  },
+  {
+    "q0": 32788925,
+    "q41": "Student player who loves history; requests respect for historical figures’ images."
+  },
+  {
+    "q0": 32759101,
+    "q41": "Likes Chinese-style art and clean UI; hopes it’s not pay-heavy or grindy; sees it as a good side game."
+  },
+  {
+    "q0": 32657733
+  },
+  {
+    "q0": 32638512,
+    "q3": "Stage-based battles using trained troop types; has a speed toggle but battles feel slow; player wants a skip option.",
+    "q4": 0,
+    "q5": "Combat pace feels slow even on speed-up; troop-type stage difficulty swings between very easy and very hard.",
+    "q6": "Troop types and counters; barracks training; stage difficulty variations tied to unit setup.",
+    "q7": 0,
+    "q8": "Basic unit-type strategy exists but clarity/inconsistency limits perceived depth.",
+    "q15": "Production/collection loop with resource gathering, material production, and daily/weekly/achievement claims.",
+    "q16": true,
+    "q17": -1,
+    "q18": "Manual tapping for production/quests feels cumbersome; requests one-click collect.",
+    "q31": 1,
+    "q32": "First test provided plenty of premium currency, felt generous.",
+    "q41": "Likes Q-style characters; suggests improving dynasty-switch UI and adding one-click claim."
+  },
+  {
+    "q0": 32507357,
+    "q41": "Remarks that other titles stalled on updates; hopes this game seizes the opportunity."
+  },
+  {
+    "q0": 32481546,
+    "q41": "Advises factual or fully fictionalized story without ideological bias; avoid becoming a pure idle ‘collecting’ game; include skip/sweep; balance long-term progression resources so spenders progress faster but F2P can still play."
+  },
+  {
+    "q0": 32450252,
+    "q41": "Says the art is appealing and the short stories are interesting; praises the writing team."
+  },
+  {
+    "q0": 29276881,
+    "q41": "Loves the art (especially Li Qingzhao) and realized they missed the first test."
+  },
+  {
+    "q0": 32383900,
+    "q41": "First test ended; hopes the next step is direct launch."
+  },
+  {
+    "q0": 32379487,
+    "q41": "Praises story for teaching history and the art quality; reported bugs; appreciates the team."
+  },
+  {
+    "q0": 32376063,
+    "q3": "Stage battles with recommended troop types; wants faster speed or a skip function.",
+    "q4": 0,
+    "q5": "Battles feel slow and troop recommendation icons weren’t clear.",
+    "q6": "Troop-type recommendations/counters; progression depends on upgrades; desires dynasty labels on characters.",
+    "q7": 0,
+    "q8": "Some strategic guidance exists but clarity is lacking; later stages get tough without upgrades.",
+    "q9": -1,
+    "q10": "Difficulty spikes cause getting stuck if progression/upgrades lag behind.",
+    "q15": "Daily/weekly/achievement claim loop and resource collection.",
+    "q16": true,
+    "q17": -1,
+    "q18": "Lack of one-click collection for tasks is inconvenient.",
+    "q23": false,
+    "q31": 1,
+    "q32": "First test welfare felt generous.",
+    "q41": "Requests pity for gacha and dynasty metadata on characters."
+  },
+  {
+    "q0": 29191789,
+    "q41": "Got full collection on last day via emails; loves Mulan art; hopes to see more content next test."
+  },
+  {
+    "q0": 32373700,
+    "q41": "First test ended; looking forward to the next one."
+  },
+  {
+    "q0": 32373183,
+    "q41": "Says gameplay is quite good, especially small details; submitted suggestions."
+  },
+  {
+    "q0": 32373121,
+    "q41": "General positive impression (“Very good”)."
+  },
+  {
+    "q0": 32373091,
+    "q41": "Brags about being first to draw Yandi."
+  },
+  {
+    "q0": 32371088,
+    "q3": "Combat slows down in later stages; requests more speed-up or a skip function.",
+    "q4": -1,
+    "q5": "Battle pacing becomes very slow even with speed-up; wants skip.",
+    "q15": "Daily/weekly/achievement claim loop.",
+    "q16": true,
+    "q17": -1,
+    "q18": "Requests one-click claim as tapping each task is tedious.",
+    "q41": "Asks for better tablet (pad) UI adaptation."
+  },
+  {
+    "q0": 32372326,
+    "q15": "Relaxed farming/collecting side activities (e.g., planting, catching animals) alongside core play.",
+    "q16": true,
+    "q17": 1,
+    "q18": "Describes it as fitting a chill, ‘life-sim’ playstyle.",
+    "q41": "Praises the landscape; mentions getting Yandi after 715 pulls."
+  },
+  {
+    "q0": 32351130
+  },
+  {
+    "q0": 32277454,
+    "q3": "Story battles in the ‘Shanhe Tu’ with trained infantry and archers after preparing resources.",
+    "q4": 1,
+    "q5": "Core loop felt coherent and the team seemed attentive; early content played well.",
+    "q6": "Unit types (infantry, archers); barracks training; sweep function for faster progression.",
+    "q7": 0,
+    "q8": "Basic unit-type strategy noted; depth not heavily discussed.",
+    "q15": "City-building/production: resettle refugees, build housing, clear rivers, farm/process rice, build barracks, then battle.",
+    "q16": true,
+    "q17": 1,
+    "q18": "Early Xia content felt guided and clear.",
+    "q41": "Suggests adding dynasty timeline labels, showing dynasty on character pages, better highlighting of task targets, and a story review feature."
+  },
+  {
+    "q0": 32261237,
+    "q41": "Waiting for open beta."
+  },
+  {
+    "q0": 32218600
+  },
+  {
+    "q0": 32215251,
+    "q41": "Played the test for a day; found it interesting and encouraging."
+  },
+  {
+    "q0": 32214436,
+    "q41": "Expresses strong liking for Li Qingzhao."
+  },
+  {
+    "q0": 32212843,
+    "q41": "Likes the art of Mulan and Hua Tuo and the theme/genre; wishes the test success and early launch."
+  },
+  {
+    "q0": 32211942
+  },
+  {
+    "q0": 32211931,
+    "q41": "Tried the test server and found it to be their preferred type of game."
+  },
+  {
+    "q0": 32180131
+  },
+  {
+    "q0": 32179315,
+    "q41": "First time wanting to try this genre; asks for test access."
+  },
+  {
+    "q0": 32166671
+  },
+  {
+    "q0": 32134264,
+    "q41": "Strongly criticizes the art as androgynous and ‘insulting to national style.’"
+  },
+  {
+    "q0": 32082925,
+    "q41": "Asks where to view all currently revealed characters; likes the art."
+  },
+  {
+    "q0": 32055499
+  },
+  {
+    "q0": 32054118
+  },
+  {
+    "q0": 32049956,
+    "q41": "Complains about only ~200 test slots; worries about server stability at launch; quits in frustration."
+  },
+  {
+    "q0": 32045076,
+    "q41": "Frustrated at not getting test access after a long wait while latecomers did."
+  },
+  {
+    "q0": 32042483,
+    "q41": "Negative experience with official group management (joined then left)."
+  },
+  {
+    "q0": 32026706,
+    "q41": "Art looks appealing; expresses anticipation."
+  },
+  {
+    "q0": 32004680,
+    "q41": "Asks when open beta starts; very excited."
+  },
+  {
+    "q0": 31995267
+  },
+  {
+    "q0": 31953259
+  },
+  {
+    "q0": 31925011,
+    "q41": "Asks when an official QQ group will be created; has had a reservation for a long time."
+  },
+  {
+    "q0": 31913037,
+    "q41": "Urgently asks for open beta; repeatedly expresses strong liking."
+  },
+  {
+    "q0": 31868748,
+    "q41": "Says gameplay is unclear from the intro; requests more information."
+  },
+  {
+    "q0": 31854202,
+    "q41": "Says the art resembles Yashe; asks if it’s the same artists."
+  },
+  {
+    "q0": 31836060
+  },
+  {
+    "q0": 31827258,
+    "q41": "Waiting for launch; likes the art; praises the official’s tone/persona."
+  },
+  {
+    "q0": 31809692,
+    "q41": "Strongly hopes the game won’t be like MOBA ‘King of Glory.’"
+  },
+  {
+    "q0": 31794815,
+    "q41": "Asks when open beta will start; likes the art style."
+  },
+  {
+    "q0": 31794151
+  },
+  {
+    "q0": 31766998
+  },
+  {
+    "q0": 31764313,
+    "q41": "Humorous exaggeration about finally getting open beta after a very long time."
+  },
+  {
+    "q0": 31762121
+  },
+  {
+    "q0": 31758312,
+    "q41": "Asks for open beta soon and hopes it’s a good game."
+  },
+  {
+    "q0": 31738650
+  },
+  {
+    "q0": 31736948,
+    "q1": true,
+    "q2": "Sexualized character designs: Li Qingzhao depicted with bangs and exposed thighs; Li Bai on the cover with exposed chest/abs; concern about male fanservice.",
+    "q41": "Criticizes gendered fanservice and asks not to alienate female players."
+  }
+]

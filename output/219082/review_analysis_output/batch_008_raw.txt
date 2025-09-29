@@ -1,0 +1,338 @@
+[
+  {
+    "q0": 25967741
+  },
+  {
+    "q0": 25962314,
+    "q41": "Likes the character art; worried about forced monetization; asks if Shennong will be included."
+  },
+  {
+    "q0": 25961892,
+    "q41": "Ads are acceptable if timing is controlled; requests to avoid intrusive ad placements like forcing an ad when opening the inventory."
+  },
+  {
+    "q0": 25956672,
+    "q41": "Wants outfits to match their historical era; hopes for a casual, low-grind experience."
+  },
+  {
+    "q0": 25949958
+  },
+  {
+    "q0": 25945961,
+    "q41": "Asks to respect culture and history; opposes forced loli settings and BL-bait style commercialization."
+  },
+  {
+    "q0": 25944107
+  },
+  {
+    "q0": 25944047,
+    "q41": "Positive impression of polite devs; hopes the game will not be too pay-heavy."
+  },
+  {
+    "q0": 25936100
+  },
+  {
+    "q0": 25935667
+  },
+  {
+    "q0": 25932200,
+    "q41": "Character designs are very attractive; the user likes idle/AFK-style games."
+  },
+  {
+    "q0": 25931072
+  },
+  {
+    "q0": 25929539,
+    "q41": "Requests specific historical figures (Li He, Li Shangyin, Du Mu, Li Daoyuan)."
+  },
+  {
+    "q0": 25928014,
+    "q41": "Positive about dev attitude; looking forward to the game."
+  },
+  {
+    "q0": 25926389
+  },
+  {
+    "q0": 25923256
+  },
+  {
+    "q0": 25914270,
+    "q41": "Willing to pay if AI/system depth and internal event interactions are done well; warns against poor-quality execution like some peers."
+  },
+  {
+    "q0": 25909566,
+    "q41": "Excited to see many ancient/mythic figures beyond the usual famous roster; history enthusiast thrilled."
+  },
+  {
+    "q0": 25905165
+  },
+  {
+    "q0": 25903976,
+    "q41": "Points out an anatomy issue in promo art (Mei Xi’s neck looks too long compared to others)."
+  },
+  {
+    "q0": 25900960
+  },
+  {
+    "q0": 25900465
+  },
+  {
+    "q0": 25900109,
+    "q41": "Strongly urges the team to maintain high-quality character illustrations."
+  },
+  {
+    "q0": 25898051,
+    "q41": "Asks if gameplay is similar to the Civilization series; concerned about high barrier to entry and heavy grind."
+  },
+  {
+    "q0": 25897461,
+    "q41": "Likes historically oriented games; values historical authenticity and educational aspects."
+  },
+  {
+    "q0": 25896909,
+    "q41": "Praises the female character art and detailed costume shading; asks if Jiang Ziya will be included."
+  },
+  {
+    "q0": 25895192
+  },
+  {
+    "q0": 25894040
+  },
+  {
+    "q0": 25888760,
+    "q41": "Thinks devs are polite; okay with IAP and ads if not excessive; hopes not to repeat another title’s disappointment."
+  },
+  {
+    "q0": 25820392,
+    "q41": "Strongly advocates respecting history and not judging the game solely by art style; criticizes unfounded claims about historical disrespect; defends slightly feminine art as acceptable; requests avoiding extreme/‘edgy’ design choices."
+  },
+  {
+    "q0": 25869542,
+    "q41": "Fan of Huo Qubing; asks not to heavily rewrite/‘magic-change’ historical figures."
+  },
+  {
+    "q0": 25866760,
+    "q41": "Wants the Qing dynasty included."
+  },
+  {
+    "q0": 25866339,
+    "q41": "Suggestions: keep costumes era-accurate; CP (bg/bl/gl) is fine but avoid confusing marketing or official pairs that contradict prior promotion; keep grind low for a relaxing management game; avoid heavy monetization to keep barriers low."
+  },
+  {
+    "q0": 25866178
+  },
+  {
+    "q0": 25864455,
+    "q41": "Dev is polite and art is pretty; must respect history; ads/IAP are acceptable but should be limited; simulation management player looking forward."
+  },
+  {
+    "q0": 25863934,
+    "q41": "Asks if Da Yu’s walking animation will reflect the historical ‘Yu step’ due to his injured foot."
+  },
+  {
+    "q0": 25862614,
+    "q41": "Asks if gameplay is like the Crusader Kings series."
+  },
+  {
+    "q0": 25860519,
+    "q41": "Feels the devs listen to players; hopes the game keeps moving in a player-friendly direction."
+  },
+  {
+    "q0": 25857763
+  },
+  {
+    "q0": 25856318,
+    "q41": "Hopes to avoid ‘edgy’ operations seen in past historical games; notes some character art proportions look odd (deducted a star)."
+  },
+  {
+    "q0": 25850360,
+    "q41": "Loves Bai Qi; requests a handsome depiction that isn’t overly fierce."
+  },
+  {
+    "q0": 25848890,
+    "q41": "Very excited about the pretty female characters."
+  },
+  {
+    "q0": 25846939,
+    "q41": "Loves historical figure roster; asks to stay true to characters and avoid extreme rewrites; requests adding Daji."
+  },
+  {
+    "q0": 25845661
+  },
+  {
+    "q0": 25845076,
+    "q41": "Reserving storage space for the game; loves the art enough to keep it installed even if disappointed."
+  },
+  {
+    "q0": 25844117,
+    "q41": "Requests careful depiction of historical roles (e.g., Li Bai not primarily a Taoist; Xin Qiji was a general); keep grind reasonable; avoid CP pairings like Yuan Zhen & Bai Juyi; handle controversial figures responsibly; ensure F2P and spenders share the same core experience."
+  },
+  {
+    "q0": 25840224,
+    "q41": "Art looks good; hopes the full release won’t disappoint."
+  },
+  {
+    "q0": 25838006,
+    "q41": "History fan; asks not to create non-historical CPs—only reflect relationships that actually existed."
+  },
+  {
+    "q0": 25835259
+  },
+  {
+    "q0": 25835206
+  },
+  {
+    "q0": 25832782,
+    "q41": "Believes the game can succeed if it avoids ‘edgy’ choices; requests no gender-bending or arbitrary forgiveness arcs; prefers historically accurate CPs only; suggests in-game cultural education; urges innovation over reskins."
+  },
+  {
+    "q0": 25831070,
+    "q41": "Hopes the game won’t repeat the issues of the competitor Wangchuan Fenghualu."
+  },
+  {
+    "q0": 25830313
+  },
+  {
+    "q0": 25829637,
+    "q41": "Wants no disrespect to history and no odd forced CP pairings."
+  },
+  {
+    "q0": 25829244
+  },
+  {
+    "q0": 25827716,
+    "q41": "5-star support; hopes to get a spot in the first test."
+  },
+  {
+    "q0": 25826015,
+    "q41": "Asks about closed beta timing; likes management/tycoon games."
+  },
+  {
+    "q0": 25824171
+  },
+  {
+    "q0": 25822582,
+    "q41": "Art and genre are appealing; hopes the game is not overly monetized—micro-spending is acceptable."
+  },
+  {
+    "q0": 25822510,
+    "q41": "Praises refined ink-wash national style; hopes gameplay quality matches the art quality."
+  },
+  {
+    "q0": 25821455,
+    "q41": "Urges the team to prioritize fun and longevity; holding off full rating until proven."
+  },
+  {
+    "q0": 25821082,
+    "q41": "Asks what the exact gameplay is: idle progression, companion sim, card battler, single-player or multiplayer?"
+  },
+  {
+    "q0": 25819917
+  },
+  {
+    "q0": 25819462,
+    "q41": "Compliments dev politeness; personally not into the genre but thinks it’s about ancient states."
+  },
+  {
+    "q0": 25816157,
+    "q41": "Asks if it’s otome-oriented; criticizes over-feminized depictions of male figures (e.g., King Wen of Zhou)."
+  },
+  {
+    "q0": 25813483,
+    "q41": "Wants historical accuracy; points out a typo in promo text (Lei Zu was written incorrectly)."
+  },
+  {
+    "q0": 25813403,
+    "q41": "Suggests a buy-to-play model."
+  },
+  {
+    "q0": 25811371
+  },
+  {
+    "q0": 25810048
+  },
+  {
+    "q0": 25808863,
+    "q41": "Corrects the name/character of Lei (Lei) Zu; requests accurate naming."
+  },
+  {
+    "q0": 25807418,
+    "q41": "Art looks good; hopes there will be some recharge/payment channels."
+  },
+  {
+    "q0": 25806906,
+    "q41": "Promo art looks good; doesn’t know the gameplay yet; notes Lei Zu was written as ‘螺祖’ by mistake."
+  },
+  {
+    "q0": 25799045
+  },
+  {
+    "q0": 25797030
+  },
+  {
+    "q0": 25796295,
+    "q41": "Requests mechanics like ruler-specific attributes and events such as assassination attempts on powerful emperors."
+  },
+  {
+    "q0": 25796270
+  },
+  {
+    "q0": 25795296,
+    "q41": "Corrects the name: it should be ‘妺喜’ (Mo Xi), not ‘妹喜’."
+  },
+  {
+    "q0": 25793635
+  },
+  {
+    "q0": 25792998,
+    "q41": "Only character art is shown; requests actual gameplay/UI screenshots; hopes for varied gameplay to avoid reskin fatigue."
+  },
+  {
+    "q0": 25790711
+  },
+  {
+    "q0": 25788477
+  },
+  {
+    "q0": 25788288
+  },
+  {
+    "q0": 25788119
+  },
+  {
+    "q0": 25787302,
+    "q41": "Points out clothing/hair inaccuracies (loose hair and left-lapped garment), implying historical costume mistakes."
+  },
+  {
+    "q0": 25786936
+  },
+  {
+    "q0": 25785687
+  },
+  {
+    "q0": 25782931
+  },
+  {
+    "q0": 25782336,
+    "q41": "Loved art; okay with ads or buyout if sustainable; asks for gameplay video; concerned about dev revenue if relying solely on ads."
+  },
+  {
+    "q0": 25782249,
+    "q41": "Art is attractive; okay with some ads and moderate monetization, but not an ad simulator or blatant cash-grab."
+  },
+  {
+    "q0": 25780854
+  },
+  {
+    "q0": 25776768,
+    "q41": "Criticizes the lack of real gameplay footage and reliance on character art; requests actual in-game visuals."
+  },
+  {
+    "q0": 25780556,
+    "q41": "Says the art team is what they most look forward to."
+  },
+  {
+    "q0": 25780013,
+    "q41": "Asks whether the game is single-player or online; if single-player, suggests a buyout model; finds IAPs exhausting; asks about release timing."
+  }
+]

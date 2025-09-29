@@ -1,0 +1,488 @@
+[
+  {
+    "q0": 46433163,
+    "q41": "Wants more obscure historical figures to be added so more famous scholars are recognized."
+  },
+  {
+    "q0": 46430518,
+    "q15": "Homestead/base-building with interactions with historical characters (名士).",
+    "q16": true,
+    "q41": "Requests more homestead gameplay and interactive content with famous figures."
+  },
+  {
+    "q0": 46416533,
+    "q3": "Element-counter team battles; player used multiple countering attributes yet still lost to weaker-looking enemies.",
+    "q4": -2,
+    "q5": "Combat outcomes feel inconsistent with attribute advantage and higher power; high-power heroes die quickly and repeated attempts still fail.",
+    "q6": "Elemental counter system; attribute advantages.",
+    "q7": -1,
+    "q8": "Perceived ineffectiveness of counters undermines tactical clarity.",
+    "q9": -1,
+    "q10": "Repeated failures despite higher power stalled progression.",
+    "q11": -2,
+    "q12": "High-power heroes get killed in a few hits; suggests poor balance."
+  },
+  {
+    "q0": 46415527
+  },
+  {
+    "q0": 46403069,
+    "q15": "Historical simulation/management loop alongside core gameplay.",
+    "q16": true
+  },
+  {
+    "q0": 46397565
+  },
+  {
+    "q0": 46389766,
+    "q41": "Accused of being a low-budget copy of Wangchuan Fenghua Lu."
+  },
+  {
+    "q0": 46385120,
+    "q41": "Combat skill casting occasionally stutters; asks for better optimization."
+  },
+  {
+    "q0": 46382690,
+    "q27": -2,
+    "q28": "Predicts players must spend heavily monthly to access content and stay on leaderboards.",
+    "q29": -2,
+    "q30": "Expects aggressive monetization (monthly/lifetime cards, funds) and pay-to-win escalation after week one.",
+    "q41": "Warns of severe pay-to-win pressure and sunk-cost trap."
+  },
+  {
+    "q0": 46380432,
+    "q41": "No open-world exploration found; considers this a missed opportunity despite good art and systems."
+  },
+  {
+    "q0": 46363670
+  },
+  {
+    "q0": 46361942,
+    "q41": "Criticizes promotional focus on Wu Zetian; questions creative direction and game quality."
+  },
+  {
+    "q0": 46360980,
+    "q41": "Visuals are clear, smooth, and high-quality."
+  },
+  {
+    "q0": 46359192,
+    "q3": "Five-element lineup system with elemental counters.",
+    "q4": -1,
+    "q5": "Advertised five-element counters feel meaningless when one element (Gold) dominates and Water is weak.",
+    "q6": "Five elements (Metal, Wood, Water, Fire, Earth) with counters.",
+    "q7": -1,
+    "q8": "Dominant meta reduces the impact of counter relationships.",
+    "q11": -2,
+    "q12": "Gold teams overpower others; Water teams are so weak few play them.",
+    "q13": -1,
+    "q14": "Element imbalance pushes everyone into the same dominant team."
+  },
+  {
+    "q0": 46347716,
+    "q41": "Female characters look good; asks to improve male character designs."
+  },
+  {
+    "q0": 46334604,
+    "q41": "Wants historical accuracy; avoid rewriting history and forced CP pairings."
+  },
+  {
+    "q0": 46332010
+  },
+  {
+    "q0": 46331851,
+    "q41": "Pleads for long-term support; hopes the game won’t be abandoned."
+  },
+  {
+    "q0": 46310980,
+    "q41": "Tests of about two weeks feel too short; wants open beta sooner."
+  },
+  {
+    "q0": 46266875,
+    "q21": -2,
+    "q22": "Pre-registered for two years; promised September launch but no firm date yet."
+  },
+  {
+    "q0": 46210017,
+    "q41": "Suspects AI/mashup artwork and pose borrowing from Black Myth: Wukong; originality concerns."
+  },
+  {
+    "q0": 46182736,
+    "q41": "Unexpected maintenance."
+  },
+  {
+    "q0": 46173905,
+    "q41": "Summon item (指名拜帖) is hard to obtain; wants to pull limited Li Bai."
+  },
+  {
+    "q0": 46163682,
+    "q23": true,
+    "q24": "Normal recruit banner description claims a 400-pull pity for top rarity (Tian); player got Tian in ~60 pulls.",
+    "q41": "Reports early top-rarity pull versus a stated 400-pull pity."
+  },
+  {
+    "q0": 46154031,
+    "q15": "Assign historical figures to facilities like a restaurant/food stall; characters can appear as proprietors.",
+    "q16": true
+  },
+  {
+    "q0": 46152647,
+    "q3": "Early-game boss fights have flashy skills but low actual threat.",
+    "q4": -1,
+    "q5": "Misleading difficulty presentation creates a false sense of strength."
+  },
+  {
+    "q0": 46143222,
+    "q6": "New 'Liangyi' (Two Instruments) attribute introduced."
+  },
+  {
+    "q0": 46137345,
+    "q9": 1,
+    "q10": "Before account level 21, resetting hero/artifact upgrades is free and refunds copper, making early progression forgiving."
+  },
+  {
+    "q0": 46126225,
+    "q9": -1,
+    "q10": "Early tasks are repetitive (cleaning sludge, building huts, farming/harvesting); suggests shortening.",
+    "q41": "Repetitive early chores."
+  },
+  {
+    "q0": 46113836,
+    "q6": "Faction synergy bonuses; concern that all-Liangyi teams might miss faction buff."
+  },
+  {
+    "q0": 46098087,
+    "q6": "Liangyi attribute units.",
+    "q11": -1,
+    "q12": "Predicts Liangyi will be T0; Nezha is very strong now.",
+    "q13": -1,
+    "q14": "Few Liangyi heroes currently limits team-building variety."
+  },
+  {
+    "q0": 46092422,
+    "q9": 1,
+    "q10": "Content spans from ancient times to modern, suggesting long-term play potential."
+  },
+  {
+    "q0": 46052931,
+    "q15": "City/base building with placement of farming and production buildings; limited map space constrains layouts and decorations.",
+    "q16": true,
+    "q41": "Map feels too small for both production buildings and decorations."
+  },
+  {
+    "q0": 46039561,
+    "q41": "Accuses copying of Wangchuan Fenghua Lu’s gacha presentation and rarity UI."
+  },
+  {
+    "q0": 46036774,
+    "q15": "Buildings should visually evolve to match the current dynasty to enhance progression feel.",
+    "q41": "Suggests stronger dynasty-themed building visuals; otherwise satisfied with gameplay."
+  },
+  {
+    "q0": 46033912,
+    "q41": "Complains Li Bai’s portrait and clothing are poorly done; asks for improvements."
+  },
+  {
+    "q0": 46025095,
+    "q31": 1,
+    "q32": "Test rewards were decent; hopes launch matches them.",
+    "q41": "Another test occurred soon; warns game may be hard to play if launch rewards are worse than test."
+  },
+  {
+    "q0": 46006003,
+    "q41": "Questions who copied whom between this and a similar title."
+  },
+  {
+    "q0": 45783600,
+    "q3": "Combat features many overlapping skills/effects that reduce readability.",
+    "q4": -1,
+    "q5": "Hard-to-read skill spam and occasional stutter hurt combat feel.",
+    "q41": "Needs performance optimization; suggests rebalancing resource outputs for the pay test."
+  },
+  {
+    "q0": 45743183,
+    "q41": "Login loop is heavy on clearing red dots/tasks; do dailies then logout."
+  },
+  {
+    "q0": 45575226,
+    "q6": "Testing different elemental lineups/meta.",
+    "q11": -1,
+    "q12": "Gold-element teams seem overtuned and dominate leaderboards."
+  },
+  {
+    "q0": 45516979,
+    "q15": "Management drives resources: timed building upgrades (limited concurrent slots), assign residents and heroes to production (copper, wood, grain, meat, stone), planting/harvesting, run a restaurant by unlocking recipes to earn coins, use a school to share levels, and board-based 'Huishi Records' exploration with events and battles.",
+    "q16": true,
+    "q17": -1,
+    "q18": "Multiple subsystems and manual steps; requests more automation and more concurrent building upgrades.",
+    "q19": 0,
+    "q20": "Early resources are plentiful, but shortages begin around account level 20; restaurant coin income helps yet overall balance needs tuning.",
+    "q3": "Up to five-hero mostly auto battles; same-faction bonuses and five-element counters.",
+    "q4": 0,
+    "q5": "Serviceable combat but roles (tank/support/DPS) lack clear differentiation.",
+    "q6": "Elemental synergies and role composition; multiple small dungeons with desire for battle skip.",
+    "q7": 0,
+    "q8": "Elements/roles add variety but blurred roles limit depth.",
+    "q9": 0,
+    "q10": "Smooth early growth followed by resource bottlenecks and single-queue building upgrades slowing progress.",
+    "q11": -1,
+    "q12": "Backliners can be tankier than frontliners; role balance needs work.",
+    "q41": "Requests more interaction with famous figures and improved resource balance/automation."
+  },
+  {
+    "q0": 45480155,
+    "q15": "Simulation/management with timed construction, resource buildings (fields/wood/stone/coin), assign population and heroes, restaurant unlocking recipes to sell for coins, and 'Huishi Records' grid exploration with events/battles.",
+    "q16": true,
+    "q17": 0,
+    "q19": 0,
+    "q20": "Restaurant coins help but late-game coin needs spike due to soldier/hero upgrades.",
+    "q3": "Up to five-hero auto/idle battles with same-faction bonuses and five-element counters.",
+    "q4": 1,
+    "q5": "During the test, multiple elemental teams (Gold/Water/Fire) were viable.",
+    "q6": "Element counters; faction bonuses; team composition choices.",
+    "q7": 1,
+    "q8": "Several viable elemental lineups during test indicate some strategic depth.",
+    "q9": 1,
+    "q10": "Did not feel hard-stuck during the test.",
+    "q31": 2,
+    "q32": "Test gave many pulls; completed the collection.",
+    "q41": "Minor display bugs and occasional stutter."
+  },
+  {
+    "q0": 45436964,
+    "q9": -1,
+    "q10": "Progression had notable stage walls that caused blockage.",
+    "q41": "Portrait art is good."
+  },
+  {
+    "q0": 45431273,
+    "q31": 1,
+    "q32": "Test gave plenty of summon invitations (拜帖), but 'Treasure Peepers' for relic exploration felt scarce.",
+    "q41": "Wants more ways to obtain 窥宝镜 for relic exploration."
+  },
+  {
+    "q0": 45426515,
+    "q21": -2,
+    "q22": "Comment from 2021; still no open beta by 2025."
+  },
+  {
+    "q0": 44721663,
+    "q31": 1,
+    "q32": "Test welfare is good; hopes live version keeps at least a third of it.",
+    "q41": "Concern about rarity tiers and constellation (命格) requiring many duplicate shards; uneven pulls across the Su family characters noted."
+  },
+  {
+    "q0": 45273518,
+    "q3": "Core is stage-pushing via gacha: pull heroes, train soldiers, equip gear, unlock constellations, upgrade skills; 5v5 with each hero carrying a costly-to-train soldier type.",
+    "q4": -1,
+    "q5": "Feels like a number-chasing game centered on raising battle power.",
+    "q6": "Five elements with same-faction bonuses; soldier training and rank gates; many systems unlock with level.",
+    "q7": -1,
+    "q8": "Raw stats and heavy upgrade demands overshadow tactics.",
+    "q9": -1,
+    "q10": "Key functions (energy refill, skip) unlock later; early level caps throttle day-1 progress.",
+    "q15": "Management exists but contributes little: long crop timers, restaurant high cost/low returns; main income from passive cargo stacks.",
+    "q16": true,
+    "q17": -1,
+    "q18": "Many steps with poor payoff in the sim layer; feels cumbersome.",
+    "q19": -1,
+    "q20": "Farming/restaurant give poor coin returns versus massive training costs; rely on passive building income.",
+    "q23": false,
+    "q29": -1,
+    "q30": "No top-rarity pity on character and weapon banners; heavy reliance on dupes and upgrades.",
+    "q41": "Lists multiple pain points across gacha, economy, gating, and rewards."
+  },
+  {
+    "q0": 45272830,
+    "q41": "Praises some female character portraits."
+  },
+  {
+    "q0": 45231709,
+    "q41": "Requests no BL/‘shipping’, less apocrypha, more distinct faces, and attention across all dynasties."
+  },
+  {
+    "q0": 45178691,
+    "q41": "Wants historical accuracy; avoid apocryphal stories."
+  },
+  {
+    "q0": 44730446,
+    "q3": "Several PvE modes (尘世卷/校武/纸上/征战) require manual clears; only some allow sweep after clear; grindy overall.",
+    "q4": -1,
+    "q5": "Combat loop is tedious with too many manual battles.",
+    "q6": "No obvious elemental/unit-type counters in test; heroes provide coarse building buffs (worker/farmer/merchant).",
+    "q7": -1,
+    "q8": "Lack of counters and shallow interactions reduce tactical variety.",
+    "q9": -1,
+    "q10": "Daily routine is collect, upgrade numbers, climb tower; felt out of content after two days.",
+    "q15": "Sim layer is highly restricted: fixed buildings that auto-unlock; mostly upgrade/harvest; restaurant sales preset; some recipe materials gated by premium currency; little customization.",
+    "q16": true,
+    "q17": 2,
+    "q18": "Secondary loop is oversimplified and constrained by fixed rules.",
+    "q19": -1,
+    "q20": "Resource generation tied to timers and premium purchases; limited agency to improve yields.",
+    "q27": -1,
+    "q28": "Some basic materials (e.g., for recipes) require premium currency, limiting non-spenders.",
+    "q41": "Wants richer city-building, cooking systems, hero NPC interactions, and better dynasty mechanics."
+  },
+  {
+    "q0": 44725060,
+    "q41": "Low rate (or bad luck) for Gold-rarity in the standard pool."
+  },
+  {
+    "q0": 44723273,
+    "q41": "Login reward requires completing tasks; feels stingy."
+  },
+  {
+    "q0": 44718954,
+    "q3": "Traditional 5v5 turn-based combat focused on raising battle power.",
+    "q4": -1,
+    "q5": "Outdated combat model feels uninteresting.",
+    "q29": -1,
+    "q30": "Expecting high monetization; high-star units are much stronger than low-star."
+  },
+  {
+    "q0": 44705950,
+    "q15": "Farming/management loop similar to other planting games.",
+    "q16": true,
+    "q41": "Beautiful visuals and a decent story; praises Lei Zu."
+  },
+  {
+    "q0": 44702786
+  },
+  {
+    "q0": 44698587
+  },
+  {
+    "q0": 44690213,
+    "q41": "Art style looks good."
+  },
+  {
+    "q0": 44676380,
+    "q41": "Requests serious, accurate historical storytelling without apocrypha or agenda-driven interactions."
+  },
+  {
+    "q0": 44589068,
+    "q41": "Excited by multi-dynasty scope promising rich, varied content."
+  },
+  {
+    "q0": 44550816,
+    "q41": "Very excited; art style strongly appealing."
+  },
+  {
+    "q0": 44500975,
+    "q41": "Art looks good; pre-registered."
+  },
+  {
+    "q0": 44451981
+  },
+  {
+    "q0": 44411292
+  },
+  {
+    "q0": 44302898,
+    "q41": "Wants balanced representation of male and female characters."
+  },
+  {
+    "q0": 44255984,
+    "q21": -2,
+    "q22": "Long delays and fear of slipping to 2026; waiting is agonizing.",
+    "q41": "Very eager for a historical-themed game."
+  },
+  {
+    "q0": 44238354,
+    "q21": -2,
+    "q22": "Asks if the game has been indefinitely delayed (‘pigeoned’)."
+  },
+  {
+    "q0": 40984624,
+    "q41": "Wants historical rigor and no propaganda; asks for open beta timing."
+  },
+  {
+    "q0": 44035942,
+    "q29": -1,
+    "q30": "Expects the game to be pay-heavy."
+  },
+  {
+    "q0": 44017893,
+    "q21": -2,
+    "q22": "First test in 2022; still no launch; worries about abandonment."
+  },
+  {
+    "q0": 43890085
+  },
+  {
+    "q0": 43817530,
+    "q41": "Seems similar to Wangchuan Fenghua Lu."
+  },
+  {
+    "q0": 43688214,
+    "q41": "Encourages accurate educational content and serious development."
+  },
+  {
+    "q0": 43579797,
+    "q41": "Very期待 refined ancient-style art and nurturing gameplay."
+  },
+  {
+    "q0": 43506223
+  },
+  {
+    "q0": 43505775,
+    "q21": -2,
+    "q22": "Pre-ordered for three years without release."
+  },
+  {
+    "q0": 43295250,
+    "q41": "Hopes for low-grind, low-spend design (though difficult to achieve) and strict historical accuracy to avoid backlash."
+  },
+  {
+    "q0": 42233961,
+    "q21": -2,
+    "q22": "Pre-registered since March 2022; still no release date."
+  },
+  {
+    "q0": 43202550
+  },
+  {
+    "q0": 43201315,
+    "q21": -2,
+    "q22": "Jokes that release might take a lifetime due to long delay."
+  },
+  {
+    "q0": 43186785
+  },
+  {
+    "q0": 43115793,
+    "q41": "Portraits look attractive."
+  },
+  {
+    "q0": 42951132,
+    "q21": -2,
+    "q22": "Reserved for two years; still awaiting a test."
+  },
+  {
+    "q0": 42908402
+  },
+  {
+    "q0": 42884827,
+    "q41": "Wants the Four Beauties included."
+  },
+  {
+    "q0": 42830491,
+    "q41": "Art is cute and appealing; warns historical science content must be handled carefully."
+  },
+  {
+    "q0": 42822487,
+    "q41": "Art looks good; asks when open beta will start."
+  },
+  {
+    "q0": 42822353,
+    "q21": -2,
+    "q22": "Nearly four years of reservation without release."
+  },
+  {
+    "q0": 42800303,
+    "q41": "Asks whether Qin Shi Huang (Ying Zheng) will be included."
+  },
+  {
+    "q0": 42738778
+  }
+]

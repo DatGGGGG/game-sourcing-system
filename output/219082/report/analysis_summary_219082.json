@@ -1,0 +1,323 @@
+[
+    {
+        "question_code": "q1",
+        "question_content": "Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)",
+        "synthesis_answer": {
+            "null": 741,
+            "true": 11
+        }
+    },
+    {
+        "question_code": "q2",
+        "question_content": "List the sensitive content mentioned, if any.",
+        "synthesis_answer": "• Cover art sexualizes historical figures (exposed thighs, chest/abs); criticized as male‑gaze pandering. [31736948]\n• Art may cater to lustful players; concern over fanservice tone. [26137664]\n• Art seen as female-oriented; suitability for a serious Huaxia theme questioned. [26594372]\n• Repeated calls to respect history; avoid distortion and insulting history. [26498013, 26075629, 26074897, 25970191, 26137664]\n• Warn against inserting personal agendas or reversing right and wrong. [26075629]\n• Prefer being observers of history, not participants. [26477738]\n• Seek accurate, educational content and balanced portrayals to prevent misleading players. [27369929, 25970191]\n• Sensitivity over including Goryeo among major cultures; questioned legitimacy. [26003876]\n• Concern whether current style and theme can pass review/censorship. [26594372]"
+    },
+    {
+        "question_code": "q3",
+        "question_content": "Summarize the core combat mechanics (or “N/A” if not mentioned).",
+        "synthesis_answer": ""
+    },
+    {
+        "question_code": "q4",
+        "question_content": "Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.5384615384615384,
+            "detailed_scoring": {
+                "null": 739,
+                "-1.0": 7,
+                "0.0": 3,
+                "1.0": 2,
+                "-2.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q5",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": ""
+    },
+    {
+        "question_code": "q6",
+        "question_content": "List the strategic/tactical features mentioned, if any.",
+        "synthesis_answer": ""
+    },
+    {
+        "question_code": "q7",
+        "question_content": "Rate strategic/tactical depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.4,
+            "detailed_scoring": {
+                "null": 742,
+                "-1.0": 5,
+                "0.0": 4,
+                "1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q8",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Elemental advantage feels ineffective; higher power and counters still lose unexpectedly. [46416533]\n"
+    },
+    {
+        "question_code": "q9",
+        "question_content": "Rate game progression: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.36363636363636365,
+            "detailed_scoring": {
+                "null": 741,
+                "-1.0": 7,
+                "1.0": 3,
+                "0.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q10",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": ""
+    },
+    {
+        "question_code": "q11",
+        "question_content": "Rate hero balance: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.4,
+            "detailed_scoring": {
+                "null": 747,
+                "-1.0": 3,
+                "-2.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q12",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Counter-attribute squads with higher power still lose to weaker enemies. [46416533]\n- High-power Chang'e dies in few hits; survivability feels inconsistent. [46416533]\n- Metal teams feel overtuned; leaderboards dominated by Metal lineups. [45575226, 46359192]\n- Water element perceived weak; few players use Water teams. [46359192]\n- Elemental counter system feels ineffective; \"elemental counter is a joke.\" [46359192]\n- Liangyi attribute predicted T0; Nezha is very strong. [46098087]\n- Role balance off; backline units tankier than frontline tanks. [45516979]\n- Players request clearer tank, healer, and DPS role distinctions. [45516979]"
+    },
+    {
+        "question_code": "q13",
+        "question_content": "Rate hero/team build diversity: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.3333333333333333,
+            "detailed_scoring": {
+                "null": 749,
+                "-1.0": 2,
+                "1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q14",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Metal element teams dominate; Water teams are weak and rarely played. [46359192]\n- Imbalance undermines elemental counter system; \"five-element restraint is a joke.\" [46359192]\n- Liangyi attribute predicted T0, but currently has few heroes. [46098087]\n- Nezha is very useful, likely central to many builds. [46098087]\n- 33 heroes available in test, offering some roster variety. [34560967]\n- No Lu Bu among heroes, disappointing some roster expectations. [34560967]"
+    },
+    {
+        "question_code": "q15",
+        "question_content": "Describe the secondary core loop (or “N/A”)",
+        "synthesis_answer": ""
+    },
+    {
+        "question_code": "q16",
+        "question_content": "Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 731,
+            "true": 20,
+            "false": 1
+        }
+    },
+    {
+        "question_code": "q17",
+        "question_content": "Rate simplicity of the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.18181818181818182,
+            "detailed_scoring": {
+                "null": 741,
+                "-1.0": 5,
+                "1.0": 3,
+                "2.0": 2,
+                "0.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q18",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Secondary loop (farming/management) feels shallow, linear, and lacks meaningful choices. [44730446, 45273518, 30065457]\n- Early progression is easy; later resource scarcity forces prioritization. [45516979]\n- Excessive clicking; requests for one-click collection/claim QoL. [32638512, 32376063, 32371088]\n- Timers are long; restaurant profits low, reducing engagement. [45273518, 34560967]\n- Building outputs tied solely to level; players can’t place or customize. [44730446]\n- Upgrading limited to one building at a time; feels restrictive."
+    },
+    {
+        "question_code": "q19",
+        "question_content": "Rate resources earned from the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.5,
+            "detailed_scoring": {
+                "null": 748,
+                "0.0": 2,
+                "-1.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q20",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": ""
+    },
+    {
+        "question_code": "q21",
+        "question_content": "Rate frequency of content/meta updates: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -2.0,
+            "detailed_scoring": {
+                "null": 735,
+                "-2.0": 17
+            }
+        }
+    },
+    {
+        "question_code": "q22",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": ""
+    },
+    {
+        "question_code": "q23",
+        "question_content": "Does the game have a gacha guarantee system? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 749,
+            "false": 2,
+            "true": 1
+        }
+    },
+    {
+        "question_code": "q24",
+        "question_content": "Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "- Standard recruitment: \"400 pulls pity\" for heaven-tier characters. [46163682]\n- Player obtained a heaven-tier character in about 60 pulls, before pity. [46163682]"
+    },
+    {
+        "question_code": "q25",
+        "question_content": "Rate reasonableness of gacha pull price: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 752
+            }
+        }
+    },
+    {
+        "question_code": "q26",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q27",
+        "question_content": "Rate major feature access for non-paying users: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.5,
+            "detailed_scoring": {
+                "null": 750,
+                "-2.0": 1,
+                "-1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q28",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Sustained progression and competitiveness require heavy monthly spending; F2P players get stomped and lack resources [46382690].\n- Early game feels playable with small purchases; later becomes paywall demanding thousands monthly [46382690].\n- Key resources and ingredients locked behind yuanbao shop purchases, limiting non-paying access [44730446].\n- Dynasty advancement uses shop-bought turtle shells for basic upgrades, implying pay reliance [44730446].\n- Ranking advantage tied to spending; low spenders briefly top then quickly fall behind [46382690].\n- Missing in-game alternatives (hunting, livestock) push players toward premium currency spending [44730446]."
+    },
+    {
+        "question_code": "q29",
+        "question_content": "Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.8571428571428571,
+            "detailed_scoring": {
+                "null": 745,
+                "-1.0": 5,
+                "-2.0": 1,
+                "1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q30",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": ""
+    },
+    {
+        "question_code": "q31",
+        "question_content": "Rate quality/quantity of free rewards: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 1.1428571428571428,
+            "detailed_scoring": {
+                "null": 745,
+                "1.0": 6,
+                "2.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q32",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Test rewards widely praised; \"test rewards are generous.\" [45480155, 32376063, 44721663]\n- Many free pulls enabled some to complete the full roster. [45480155]\n- Good test rewards should carry into launch; otherwise the game may feel hard. [46025095]\n- Plenty of invitation items in test, but Treasure Mirrors felt scarce; suggest more sources. [45431273]\n- Low-rarity characters easy to obtain, easing heavy shard requirements for constellations. [44721663]\n- Developers provided free premium currency during first test for gacha. [32638512]\n- Pre-registration bonus character incentivized sign-ups. [28726457]\n- One player hopes the official version retains at least one-third of test generosity. [44721663]"
+    },
+    {
+        "question_code": "q33",
+        "question_content": "Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.",
+        "synthesis_answer": {
+            "null": 752
+        }
+    },
+    {
+        "question_code": "q34",
+        "question_content": "Briefly describe the IP if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q35",
+        "question_content": "Rate IP integration depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 752
+            }
+        }
+    },
+    {
+        "question_code": "q36",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q37",
+        "question_content": "Rate lightness of installation file: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 752
+            }
+        }
+    },
+    {
+        "question_code": "q38",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q39",
+        "question_content": "Rate in-game download experience: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 752
+            }
+        }
+    },
+    {
+        "question_code": "q40",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q41",
+        "question_content": "Briefly list other issues (not captured by the questions above)",
+        "synthesis_answer": ""
+    }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "q0": 42734562,
+    "q41": "Compliments promo art for accurate historical clothing details (no qipao-style frog buttons)."
+  },
+  {
+    "q0": 42722404,
+    "q41": "Asks when the game will officially launch; waiting impatiently."
+  },
+  {
+    "q0": 42708229,
+    "q41": "Asks when the next test starts; disappointed by delays."
+  },
+  {
+    "q0": 42605418,
+    "q41": "Asks whether the game includes farming, animal raising, and fishing systems or is only management/upgrading."
+  },
+  {
+    "q0": 42604233,
+    "q41": "Likes the art style; choosing to observe before committing."
+  },
+  {
+    "q0": 42603660,
+    "q41": "Requests that history not be heavily altered; will play if art is good and historically faithful."
+  },
+  {
+    "q0": 42598795,
+    "q41": "States preference for history-themed games."
+  },
+  {
+    "q0": 28291455,
+    "q41": "Notes the game obtained a publication license and is excited to finally play."
+  },
+  {
+    "q0": 42515785,
+    "q41": "Interested in the feature that buildings change with dynasties; will be critical if expectations aren’t met."
+  },
+  {
+    "q0": 42513437,
+    "q41": "Strongly wants a historically faithful experience; urges the team to launch soon."
+  },
+  {
+    "q0": 42349740,
+    "q41": "Asks when the game will go online."
+  },
+  {
+    "q0": 42338733,
+    "q41": "Hopes the game avoids heavy monetization pressure; willing to try at launch."
+  },
+  {
+    "q0": 42328599,
+    "q41": "Looks forward to stories of historical figures and learning Chinese history through guofeng presentation."
+  },
+  {
+    "q0": 42170656,
+    "q41": "Frustrated about long wait since reserving in 2022; asks for launch timing."
+  },
+  {
+    "q0": 42114281,
+    "q41": "Asks when the game will launch."
+  },
+  {
+    "q0": 42064312,
+    "q41": "Asks for official launch soon; expresses anticipation."
+  },
+  {
+    "q0": 42051943,
+    "q41": "Expresses anticipation."
+  },
+  {
+    "q0": 41945804,
+    "q41": "Asks when servers will open; concerned about lack of progress."
+  },
+  {
+    "q0": 41936306,
+    "q41": "Asks how much longer until testing; laments no test yet."
+  },
+  {
+    "q0": 41740763,
+    "q41": "Supports history-themed games; notes license obtained and hopes for early launch."
+  },
+  {
+    "q0": 41604332,
+    "q41": "Requests respect for history and figures; suggests including deities in mythic eras; asks to avoid over-sexualized female designs and keep animations/expressions era-appropriate; eager for tests and launch."
+  },
+  {
+    "q0": 41457656,
+    "q41": "Asks how long the wait will be."
+  },
+  {
+    "q0": 41400485,
+    "q41": "Asks whether Qin Shi Huang (Ying Zheng) is in the game."
+  },
+  {
+    "q0": 40603511,
+    "q41": "Requests a gameplay overview; praises distinctive character art; very excited."
+  },
+  {
+    "q0": 40475141,
+    "q41": "Says art and described gameplay match their preferences; hopes for early launch."
+  },
+  {
+    "q0": 40429189,
+    "q41": "Wants testing to start in May; praises art style; anticipates launch."
+  },
+  {
+    "q0": 40379561,
+    "q41": "Focuses on visuals and costumes in guofeng games; likes the style here."
+  },
+  {
+    "q0": 40354207,
+    "q41": "Asks to keep character models reasonable and not exaggerated."
+  },
+  {
+    "q0": 40162239,
+    "q41": "Likes the art style; asks when it will launch."
+  },
+  {
+    "q0": 40072542,
+    "q41": "Feature requests: side stories for minor figures, festival/seasonal events (lantern riddles, theater, spring outings, New Year beast), explorable streets with shops, world chat, friend visits, guests at home, a ‘poet circle’ social feature, and optional deities; wants authentic historical anecdotes and more pre-registration rewards."
+  },
+  {
+    "q0": 40051314,
+    "q41": "Waiting for open beta; lacks history-themed games to play."
+  },
+  {
+    "q0": 39866193,
+    "q41": "Praises the art; wonders if it’s by artist Shuning."
+  },
+  {
+    "q0": 39819480,
+    "q41": "Asks when it will be available."
+  },
+  {
+    "q0": 39800186,
+    "q41": "Questions inclusion of fictional ‘Su Xiaomei’ and suggests also adding Su Baniang; asks about test timing."
+  },
+  {
+    "q0": 39700068,
+    "q41": "Frustrated after nearly four years of reservation with no playable version."
+  },
+  {
+    "q0": 31956104,
+    "q41": "Eager to spend and gacha for ‘Wu Huang’ at launch."
+  },
+  {
+    "q0": 39639883,
+    "q41": "Hopes it isn’t grindy or pay-to-win; prefers buy-to-play with DLC; suggests adding fantasy scenarios at key historical turning points."
+  },
+  {
+    "q0": 39626885,
+    "q3": "No combat focus; expected to be an idle/AFK placement-style nurturing game with a personal home where historical figures visit and converse (from the store description).",
+    "q41": "Wants a home hub with visiting historical celebrities and story dialogues; asks for a firm launch timeline."
+  },
+  {
+    "q0": 39451305,
+    "q41": "Asks whether Zhuge Liang will be included; very important to them."
+  },
+  {
+    "q0": 39414059,
+    "q41": "Desperately wants open beta; will play regardless of playability due to history theme."
+  },
+  {
+    "q0": 39318432,
+    "q41": "Sarcastically asks when the game will release; implies long delay."
+  },
+  {
+    "q0": 39301156,
+    "q41": "Urges respect for history; opposes fictional characters like ‘Su Xiaomei’; monitoring the project closely."
+  },
+  {
+    "q0": 39288965,
+    "q41": "Notes a competitor received a license; asks why this game hasn’t."
+  },
+  {
+    "q0": 38691831,
+    "q41": "Impatient for release; strongly anticipates the game."
+  },
+  {
+    "q0": 38002099,
+    "q41": "Jokes about whether they can play it before old age; frustrated by delays."
+  },
+  {
+    "q0": 37906684,
+    "q41": "Asks developers to avoid ‘shady’ operations."
+  },
+  {
+    "q0": 37828043,
+    "q41": "Mentions the license still hasn’t been approved."
+  },
+  {
+    "q0": 37658965,
+    "q41": "Has waited long; urges the team to obtain the license."
+  },
+  {
+    "q0": 37512876,
+    "q41": "Asks whether the game has obtained its license."
+  },
+  {
+    "q0": 37405093,
+    "q41": "Again jokes about whether they can play it before old age; long wait concerns."
+  },
+  {
+    "q0": 37396385,
+    "q41": "Asks that there be no ‘constellation’ or ‘artifact’ systems like in Genshin; tired of such systems."
+  },
+  {
+    "q0": 37344968,
+    "q41": "Irritated about delays; jokingly calls out the devs for not launching yet."
+  },
+  {
+    "q0": 37308053,
+    "q41": "Complains it has been many years with no release."
+  },
+  {
+    "q0": 37304011,
+    "q41": "Asks when the game will launch."
+  },
+  {
+    "q0": 37259443,
+    "q41": "Strongly anticipates the game; hopes there aren’t frequent pay pop-ups."
+  },
+  {
+    "q0": 37259020,
+    "q41": "Urges the team not to betray players."
+  },
+  {
+    "q0": 37240791,
+    "q41": "Sarcastically asks what year it is; implies long development."
+  },
+  {
+    "q0": 37223602,
+    "q41": "Finds it niche but is excited."
+  },
+  {
+    "q0": 37170441,
+    "q41": "Asks when the game will be online."
+  },
+  {
+    "q0": 36842024,
+    "q41": "Asks if the project is still alive; hopes it hasn’t been canceled."
+  },
+  {
+    "q0": 36674603,
+    "q41": "Likes the art style; asks when they can play."
+  },
+  {
+    "q0": 36591657,
+    "q41": "Prefers not having turn-based combat; accepts weaker story if playability is high; warns against problematic developer behavior; praises the lighter art style; will reconsider if story and operations are very poor."
+  },
+  {
+    "q0": 36573324,
+    "q41": "Very excited and looking forward to the game."
+  },
+  {
+    "q0": 36546798,
+    "q41": "Says their experience and luck were good; requests adding Fan Zhongyan."
+  },
+  {
+    "q0": 36537204,
+    "q41": "Asks rhetorically about timing; implies long wait."
+  },
+  {
+    "q0": 36196487,
+    "q41": "States they like nurturing/raising (idle) games."
+  },
+  {
+    "q0": 35719840,
+    "q41": "Likes the dynasty-switch UI; suggests unlocking dynasties progressively from Xia and worries about forgetting to claim ‘jade’ from that screen."
+  },
+  {
+    "q0": 35654450,
+    "q41": "Asks the team to release quickly."
+  },
+  {
+    "q0": 35614278,
+    "q41": "Hopes the gameplay isn’t boring and the team understands history."
+  },
+  {
+    "q0": 35451474,
+    "q41": "Checks on the many reserved games; implies this one has been delayed for years."
+  },
+  {
+    "q0": 35336678,
+    "q41": "Repeats suggestion on dynasty-switch UI and forgetting to claim ‘jade’; recommends progressive unlocking."
+  },
+  {
+    "q0": 35223510,
+    "q41": "Reserved since Dec 2021; still no open beta."
+  },
+  {
+    "q0": 35192825,
+    "q41": "Will play if Wang Anshi is included; otherwise not interested."
+  },
+  {
+    "q0": 35053702,
+    "q41": "Very excited about the art style."
+  },
+  {
+    "q0": 28611934,
+    "q41": "Believes it’s a passionate small team; urges strict respect for history and avoiding controversial or fabricated characters; asks about open beta timing and complains about long wait."
+  },
+  {
+    "q0": 34997044,
+    "q41": "Critiques Hua Tuo’s facial depiction (forehead lines); asks to make him look like a divine physician."
+  },
+  {
+    "q0": 34887599,
+    "q41": "Asks when open beta starts; has waited long and is anxious."
+  },
+  {
+    "q0": 34845442,
+    "q41": "Praises the art; urges open beta."
+  },
+  {
+    "q0": 34810348,
+    "q41": "Likes the art style a lot."
+  },
+  {
+    "q0": 34792221,
+    "q41": "Asks when it can be downloaded after nearly a year of reservation; hopes it won’t disappoint."
+  },
+  {
+    "q0": 34769802,
+    "q41": "Dislikes overly commercial art styles; likes the clean, elegant look here; hopes gameplay delivers."
+  },
+  {
+    "q0": 34697445,
+    "q41": "Loves the character art; hopes historical accuracy will allow them to ‘study’ as a student."
+  },
+  {
+    "q0": 34690426,
+    "q41": "Gives tentative 3 stars due to history theme; worries many games distort history; will judge after launch."
+  },
+  {
+    "q0": 34644266,
+    "q41": "Optimistic about the game; likes the art style."
+  },
+  {
+    "q0": 34560967,
+    "q3": "Idle/tap-to-build management across dynasties; little to no combat focus; develop from Xia onward.",
+    "q6": "Dynasty progression (Xia→Shang, etc.), building upgrades with construction timers, early hunting activity.",
+    "q7": -1,
+    "q8": "Early gameplay is mostly tapping to build and waiting on timers; feels monotonous.",
+    "q9": -1,
+    "q10": "Initial constructions already take about a minute; only Xia and Shang are open in the described test, making the start feel slow.",
+    "q13": 1,
+    "q14": "Mentions 33 characters from various eras, indicating variety.",
+    "q15": "Reading character bios/codex for educational lore and a light hunting minigame alongside building.",
+    "q17": 1,
+    "q18": "Side activities like reading bios and simple hunting come across as straightforward and easy to grasp.",
+    "q41": "Complains about the absence of Lü Bu among many heroes; appreciates cute visual touches (e.g., runny-nosed boar); praises the educational aspect."
+  },
+  {
+    "q0": 34557663,
+    "q41": "Offers encouragement to the developers."
+  },
+  {
+    "q0": 34513208,
+    "q41": "Coming from Ink Soul (Mo Hun); hopes this game remains sincere and true to its vision."
+  },
+  {
+    "q0": 34433126,
+    "q41": "Asks how to participate in testing."
+  },
+  {
+    "q0": 34400847,
+    "q41": "Likes history theme and relaxed nurturing; asks to ensure non-spenders have motivation and spenders don’t feel gouged; hopes the game won’t shut down soon after launch."
+  },
+  {
+    "q0": 34395629,
+    "q41": "Choosing to observe; not particularly fond of the art style."
+  },
+  {
+    "q0": 34316911,
+    "q41": "Wants accurate, respectful portrayals: avoid flat labels, forced CPs, or touching controversial historical events; asks that costumes reflect their dynasties; likes the current art."
+  },
+  {
+    "q0": 34293166,
+    "q41": "Asks when the game will launch; eager to play."
+  },
+  {
+    "q0": 34212555,
+    "q41": "Asks when the game will launch."
+  }
+]

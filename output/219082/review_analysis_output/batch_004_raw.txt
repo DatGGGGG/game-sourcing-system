@@ -1,0 +1,347 @@
+[
+  {
+    "q0": 31714407
+  },
+  {
+    "q0": 31689067
+  },
+  {
+    "q0": 30252136
+  },
+  {
+    "q0": 31650092,
+    "q41": "Requests adding historical figures Sun Simiao, Bian Que, and Li Shizhen."
+  },
+  {
+    "q0": 31619577,
+    "q41": "Requests adding Guo Jia and Xi Zhicai."
+  },
+  {
+    "q0": 31606091
+  },
+  {
+    "q0": 31605317,
+    "q41": "Art proportion issue noted: male hands look too large (e.g., Qi Jiguang's fist nearly head-sized)."
+  },
+  {
+    "q0": 31545608
+  },
+  {
+    "q0": 31519193
+  },
+  {
+    "q0": 31493679
+  },
+  {
+    "q0": 31490673
+  },
+  {
+    "q0": 31485027,
+    "q41": "Asks for Zhuge Liang to be included."
+  },
+  {
+    "q0": 31479420
+  },
+  {
+    "q0": 31442036
+  },
+  {
+    "q0": 31372351
+  },
+  {
+    "q0": 31366455
+  },
+  {
+    "q0": 31350482
+  },
+  {
+    "q0": 31336488,
+    "q21": -2,
+    "q22": "No gameplay footage found and first test seems far off; mentions it's a three-person team and worries about cancellation.",
+    "q41": "Lack of actual gameplay shown; uncertainty about test schedule; concern the small team might fail."
+  },
+  {
+    "q0": 31330615,
+    "q41": "Art style seen as too cute for figures like Qi Jiguang and Wu Zetian; asks to better reflect characters' temperament while keeping the style."
+  },
+  {
+    "q0": 31317530,
+    "q41": "Praises inclusion of Huo Qubing; asks whether Li Bai, Qin Shi Huang, Han Wudi, and Tang Taizong will appear."
+  },
+  {
+    "q0": 31295125
+  },
+  {
+    "q0": 31266926
+  },
+  {
+    "q0": 31235941,
+    "q41": "Hopes Qin Shi Huang is obtainable without heavy spending."
+  },
+  {
+    "q0": 31229574,
+    "q41": "Wants the game to avoid heavy monetization/forced spending and to respect the Chinese historical theme; expects sincere development."
+  },
+  {
+    "q0": 31215060,
+    "q41": "Asks if Su Shi is included."
+  },
+  {
+    "q0": 31197765,
+    "q41": "Requests closed beta access and asks if the 'Qingyi' character exists."
+  },
+  {
+    "q0": 31183964,
+    "q41": "Hopes to include Ying Zheng (Qin Shi Huang)."
+  },
+  {
+    "q0": 31176102
+  },
+  {
+    "q0": 31156944,
+    "q41": "Requests closed beta qualification and the official group ID."
+  },
+  {
+    "q0": 31125800
+  },
+  {
+    "q0": 31078093
+  },
+  {
+    "q0": 31013771
+  },
+  {
+    "q0": 31009531,
+    "q41": "Art tone perceived as too childish; requests darker style elements (e.g., for villains) to balance."
+  },
+  {
+    "q0": 30982537
+  },
+  {
+    "q0": 30973610
+  },
+  {
+    "q0": 30898248,
+    "q41": "Perceived inconsistency in character art quality: only Li Qingzhao looks good; later pieces appear worse ('崩')."
+  },
+  {
+    "q0": 30807028,
+    "q41": "Asks not to distort or disrespect historical figures."
+  },
+  {
+    "q0": 30798761
+  },
+  {
+    "q0": 30771027
+  },
+  {
+    "q0": 30758915,
+    "q41": "Suggestions: integrate quotations/classic phrases to enhance immersion; if characters have trait bonuses, name them after historic sayings (e.g., '封狼居胥', '饮马瀚海', '苍狼白鹿')."
+  },
+  {
+    "q0": 30743600,
+    "q41": "Concerns about systems and numerical balance being poorly implemented; hopes for long-term playability."
+  },
+  {
+    "q0": 30690130
+  },
+  {
+    "q0": 30640724,
+    "q41": "Praised Wu Zetian design as plump and not slender, aligning with Tang dynasty aesthetics."
+  },
+  {
+    "q0": 30635698
+  },
+  {
+    "q0": 30549987
+  },
+  {
+    "q0": 30528514,
+    "q41": "States the game would be fine if it avoids BL content, predatory monetization, and mishandling of historical figures; defends the art style against critics."
+  },
+  {
+    "q0": 30522146,
+    "q41": "Requests historical accuracy and to avoid fabrications like in other titles."
+  },
+  {
+    "q0": 30447889
+  },
+  {
+    "q0": 30444676,
+    "q21": -2,
+    "q22": "Has been waiting a very long time for release."
+  },
+  {
+    "q0": 30432620
+  },
+  {
+    "q0": 30422878
+  },
+  {
+    "q0": 30420832
+  },
+  {
+    "q0": 30401509,
+    "q21": -2,
+    "q22": "Accuses dev of 'drawing a big pie' (overpromising) and urges to start testing."
+  },
+  {
+    "q0": 30378325
+  },
+  {
+    "q0": 30368355
+  },
+  {
+    "q0": 30345286,
+    "q21": -2,
+    "q22": "Testing is taking too long."
+  },
+  {
+    "q0": 30331268
+  },
+  {
+    "q0": 30321389,
+    "q41": "Suggests further beautifying the Wu Zetian character art."
+  },
+  {
+    "q0": 30319577,
+    "q15": "Farming/management ('planting fields') loop is desired/expected.",
+    "q16": true,
+    "q41": "Loves the plump, dominant Wu Zetian design aligned with Tang aesthetics; wants 'happy farming' gameplay."
+  },
+  {
+    "q0": 30312592,
+    "q21": -2,
+    "q22": "Two years have passed without launch; long wait."
+  },
+  {
+    "q0": 30264215,
+    "q41": "Complains that the community manager/operations argues with players (e.g., even when users raise issues like left-lapped garments)."
+  },
+  {
+    "q0": 30255892,
+    "q15": "Idle/placement with light simulation management as advertised.",
+    "q16": true,
+    "q41": "Criticizes dev response to art feedback (shifting blame); accuses similarities to 'Wangchuan Fenghualu' (e.g., using '名士'); says it's just a 'national-style skin' with shallow mechanics and buzzwords."
+  },
+  {
+    "q0": 30248341,
+    "q21": -2,
+    "q22": "Waiting for three years with no release."
+  },
+  {
+    "q0": 30235025
+  },
+  {
+    "q0": 30221506
+  },
+  {
+    "q0": 30207540,
+    "q21": -2,
+    "q22": "Uncertain release time; feels like a 'game of a lifetime' that may never come."
+  },
+  {
+    "q0": 30184490,
+    "q41": "Questions similarity to 'Wangchuan Fenghualu', including use of the term '名士' (scholar)."
+  },
+  {
+    "q0": 30182486,
+    "q41": "Suggests avoiding baby-faced look for every character; some should have sharper features."
+  },
+  {
+    "q0": 30161645
+  },
+  {
+    "q0": 30115646,
+    "q41": "Requests depiction of Ying Zheng as dignified and masculine, not effeminate."
+  },
+  {
+    "q0": 30119920
+  },
+  {
+    "q0": 30114738,
+    "q41": "Asks if the 'Northern Qi Three Heroes' are included."
+  },
+  {
+    "q0": 30073617,
+    "q41": "Praises the absence of identical 'internet celebrity' face style."
+  },
+  {
+    "q0": 30065457,
+    "q15": "Idle/placement with farming and light management.",
+    "q16": true,
+    "q17": 2,
+    "q18": "Criticizes a formulaic 'idle, farming, chill, management' loop as shallow and generic under a national-style skin; questions the claim of realism.",
+    "q41": "Argues many 'guofeng' games just swap skins without cultural depth; skeptical of this game's gameplay, quality, and operations."
+  },
+  {
+    "q0": 30063446
+  },
+  {
+    "q0": 30054221
+  },
+  {
+    "q0": 30047036
+  },
+  {
+    "q0": 30032883,
+    "q41": "Requests a more realistic (less anime) art direction."
+  },
+  {
+    "q0": 29983942,
+    "q41": "Requests adding Emperor Yongzheng if the Qing dynasty is covered."
+  },
+  {
+    "q0": 29977040,
+    "q41": "Notes Qi Jiguang's weapon is the 'langxian', indicating attention to historical arms."
+  },
+  {
+    "q0": 29975049
+  },
+  {
+    "q0": 29957789
+  },
+  {
+    "q0": 29911655,
+    "q41": "Female characters look great but male designs feel weaker; asks to improve male character art."
+  },
+  {
+    "q0": 29898241,
+    "q41": "Requests inclusion of 'Wang Jeff' (humorous request)."
+  },
+  {
+    "q0": 29893968
+  },
+  {
+    "q0": 29887079,
+    "q41": "Requests inclusion of Xun Yu; comments on pronunciation."
+  },
+  {
+    "q0": 29883429,
+    "q41": "Requests inclusion of Li Yu (Li Houzhu) and Zhang Liang."
+  },
+  {
+    "q0": 29870526,
+    "q41": "Praises Wu Zetian art; asks to avoid characters acting out-of-character (OOC)."
+  },
+  {
+    "q0": 29826507
+  },
+  {
+    "q0": 29819246
+  },
+  {
+    "q0": 29760382,
+    "q41": "Requests Huo Qubing and asks when the game will launch."
+  },
+  {
+    "q0": 29727921,
+    "q41": "Name/theme reminds them of 'Huanshu' (Fantasia Sango-like 'Mirage Book'); hopes this game survives longer than that one."
+  },
+  {
+    "q0": 29720086
+  },
+  {
+    "q0": 29717701
+  }
+]
