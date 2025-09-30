@@ -1,0 +1,591 @@
+[
+  {
+    "q0": 45045440,
+    "q3": "Manual skill timing and hand-control provide high player agency.",
+    "q4": 2,
+    "q5": "Mechanics praised; skill design enables impactful manual play.",
+    "q6": "Manual operation, skill timing/ordering.",
+    "q7": 1,
+    "q8": "Notes high hand-control and decision-making.",
+    "q27": 2,
+    "q28": "Described as very friendly to F2P.",
+    "q31": -1,
+    "q32": "TapTap sign-in gift is limited in quantity.",
+    "q41": "Art quality needs improvement; sign-in gift being limited feels unfair."
+  },
+  {
+    "q0": 45045224,
+    "q31": -2,
+    "q32": "Operations are stingy; resources are too few.",
+    "q9": -1,
+    "q10": "Uses a stamina system that gates progress."
+  },
+  {
+    "q0": 45045166,
+    "q29": -1,
+    "q30": "Remarks that spending is required even though gameplay feels okay."
+  },
+  {
+    "q0": 45044602,
+    "q41": "Story segments later have no sound (audio bug)."
+  },
+  {
+    "q0": 45044601,
+    "q11": -2,
+    "q12": "Meta homogenized; most players use the same lineup.",
+    "q13": -2,
+    "q14": "Lineup diversity is nearly nonexistent.",
+    "q7": -2,
+    "q8": "Calls the game brainless with very poor strategy depth.",
+    "q41": "Claims devs ignored player survey feedback."
+  },
+  {
+    "q0": 45043819,
+    "q9": -1,
+    "q10": "Tower progress is locked behind main story, causing progress stalls.",
+    "q29": 1,
+    "q30": "Says it’s not very pay-to-win/forcing spend.",
+    "q41": "Gameplay feels outdated; story writing criticized with historical inconsistencies."
+  },
+  {
+    "q0": 45043598,
+    "q25": 2,
+    "q26": "Shop prices were halved while resource acquisition stayed the same as beta."
+  },
+  {
+    "q0": 45043512,
+    "q13": 1,
+    "q14": "Enjoys collecting heroes and choosing preferred lineups."
+  },
+  {
+    "q0": 44997026,
+    "q41": "Wish-hero system with two targets feels bad: one is missed while the other never appears."
+  },
+  {
+    "q0": 45043216,
+    "q31": -1,
+    "q32": "Asks for more welfare."
+  },
+  {
+    "q0": 45042876,
+    "q11": -1,
+    "q12": "Requests nerfs to Wu faction."
+  },
+  {
+    "q0": 45042866,
+    "q1": true,
+    "q2": "Sexualized female characters; handsome/androgynous male designs.",
+    "q9": 1,
+    "q10": "Says it’s not particularly grindy."
+  },
+  {
+    "q0": 45042414,
+    "q11": -1,
+    "q12": "Requests better balance.",
+    "q13": -1,
+    "q14": "Wants a more diverse meta ('hundred flowers bloom').",
+    "q41": "Real-time PvP has poor experience; asks for more PvP modes."
+  },
+  {
+    "q0": 45042340,
+    "q15": "Daily mainline + tower + growth, then becomes idle maintenance.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Straightforward daily/tower loop.",
+    "q19": -1,
+    "q20": "Welfare is mostly one-time; little ongoing income.",
+    "q27": -1,
+    "q28": "7-day second-team push favors whales; F2P feels like toys.",
+    "q29": -1,
+    "q30": "Pressure to build a second team quickly."
+  },
+  {
+    "q0": 45041927,
+    "q23": true,
+    "q24": "Reports each gacha pool has one daily guaranteed pull.",
+    "q41": "Xingyuan Pavilion matchmaking rarely finds opponents."
+  },
+  {
+    "q0": 45041798,
+    "q4": 1,
+    "q5": "Says the game is fun overall.",
+    "q11": -1,
+    "q12": "Arena balance issues; fire team easily beats higher power; 'Qun' lacks a healer."
+  },
+  {
+    "q0": 45041223,
+    "q31": -1,
+    "q32": "Wants more reward-rich events."
+  },
+  {
+    "q0": 45041109,
+    "q11": -1,
+    "q12": "Faction balance needs optimization."
+  },
+  {
+    "q0": 45040977,
+    "q27": 1,
+    "q28": "Says heroes are relatively easy to obtain.",
+    "q41": "Hero roster is small; wants more characters."
+  },
+  {
+    "q0": 45040706,
+    "q11": -2,
+    "q12": "Fire-burn team massively overperforms, allowing big power gaps."
+  },
+  {
+    "q0": 45040402,
+    "q1": true,
+    "q2": "Androgynous/BL-leaning male art and sexualized style.",
+    "q11": -2,
+    "q12": "Meta dominated by the fire-burn lineup.",
+    "q13": -2,
+    "q14": "Lineups are nearly all fire-burn.",
+    "q41": "Art style criticized; devs perceived as unresponsive."
+  },
+  {
+    "q0": 45039274,
+    "q6": "Some stages require strategic solutions.",
+    "q7": 1,
+    "q8": "Finds those strategic stages interesting."
+  },
+  {
+    "q0": 45038318,
+    "q31": -2,
+    "q32": "Launch-time gifts were cut soon after; latecomers get less.",
+    "q41": "Later players are disadvantaged vs early players."
+  },
+  {
+    "q0": 45037645,
+    "q11": -2,
+    "q12": "Says 'Qun' needs buffs; fire dominates ('Three Fire 2')."
+  },
+  {
+    "q0": 45037552
+  },
+  {
+    "q0": 45037470,
+    "q1": true,
+    "q2": "Male characters look effeminate.",
+    "q41": "Co-op/group modes have low population; suggests adding bots."
+  },
+  {
+    "q0": 45037301,
+    "q31": -2,
+    "q32": "Daily rewards are too low; resources dry up after the 14-day event."
+  },
+  {
+    "q0": 45037096,
+    "q11": -2,
+    "q12": "Cao Ren and Zhou Tai are overtuned, pushing a fire-burn meta."
+  },
+  {
+    "q0": 45000522,
+    "q9": -2,
+    "q10": "Easily stuck; difficult to raise power without paying.",
+    "q29": -2,
+    "q30": "Feels forced to pay to progress."
+  },
+  {
+    "q0": 45036716,
+    "q11": -2,
+    "q12": "Only the fire team is strong; balance is awful."
+  },
+  {
+    "q0": 45036625,
+    "q23": true,
+    "q24": "Says double-directional banner guarantees one target daily; faction banner guarantees one daily; plus a pre-pull event (until 6/16).",
+    "q13": 1,
+    "q14": "Claims meta is still diverse with various counters.",
+    "q11": -1,
+    "q12": "Fire team forms fastest and is powerful but has counters.",
+    "q6": "Counter-picking strategies against the fire team.",
+    "q7": 1,
+    "q8": "Mentions multiple ways to counter the strongest lineup.",
+    "q41": "Main story characterization of Cao Cao feels off; 'Illusion' side stories are good."
+  },
+  {
+    "q0": 45036535,
+    "q31": 1,
+    "q32": "Says the game gives many summons and growth resources.",
+    "q6": "Optimizing skill sets enables big power-overcoming clears.",
+    "q7": 1,
+    "q8": "High skill expression enables significant overpowered clears.",
+    "q11": -1,
+    "q12": "Requests nerf to Cao Ren and buff to the female team."
+  },
+  {
+    "q0": 45036282,
+    "q31": 0,
+    "q32": "Welfare is 'okay, medium'.",
+    "q11": -1,
+    "q12": "Balance is poor; fire team is very comfortable."
+  },
+  {
+    "q0": 45036018,
+    "q6": "Good strategic gameplay with multiple modes.",
+    "q7": 1,
+    "q8": "Praised strategy and variety."
+  },
+  {
+    "q0": 45036016,
+    "q6": "Challenging 'Beacon/Tower' stages.",
+    "q7": 1,
+    "q8": "Highlights challenge in specific PvE content.",
+    "q11": -1,
+    "q12": "Asks to strengthen the 'Qun' faction."
+  },
+  {
+    "q0": 45035957,
+    "q11": -1,
+    "q12": "Balance needs improvement.",
+    "q31": -1,
+    "q32": "Hopes for more welfare and new heroes."
+  },
+  {
+    "q0": 45035899,
+    "q41": "Requests better value retention than game 1."
+  },
+  {
+    "q0": 45035872,
+    "q21": -1,
+    "q22": "Lack of events; new server feels idle/boring."
+  },
+  {
+    "q0": 45035836,
+    "q41": "Incentivized review activity for items; player prefers in-game events over review campaigns."
+  },
+  {
+    "q0": 45035774,
+    "q27": 2,
+    "q28": "Micro-spenders and F2P can both play; works well as an idle 'harvest' game.",
+    "q15": "Idle resource collection ('harvest') alongside daily cleanup.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple login-collect-play routine.",
+    "q19": 1,
+    "q20": "Enough idle income to 'lie flat' and keep playing.",
+    "q29": 1,
+    "q30": "Low spending pressure; optional micro-spend."
+  },
+  {
+    "q0": 45035704
+  },
+  {
+    "q0": 45035639,
+    "q3": "Rollback/retrace system enabling manual retries and precise skill timing.",
+    "q4": 1,
+    "q5": "Player is 'super satisfied' with the feature; suits manual play.",
+    "q31": -1,
+    "q32": "Wants richer rewards.",
+    "q41": "The 'Shushi Book' system feels cumbersome."
+  },
+  {
+    "q0": 45035610,
+    "q27": 1,
+    "q28": "F2P can max one faction and then expand.",
+    "q11": -1,
+    "q12": "Fire-burn is too strong; asks for balance."
+  },
+  {
+    "q0": 45035577,
+    "q31": -1,
+    "q32": "Worse welfare than game 1; by day 7 month card/battle pass can't sustain daily pulls.",
+    "q13": -1,
+    "q14": "Less lineup diversity than game 1, though job-change adds some new combos.",
+    "q11": -2,
+    "q12": "Fire-burn dominates the meta.",
+    "q41": "Job-change system adds novelty."
+  },
+  {
+    "q0": 45035445,
+    "q7": -2,
+    "q8": "Calls 'strategy' a DAU-padding tactic; hard-gated design.",
+    "q9": -2,
+    "q10": "Resources are interlocked; being stuck blocks all progression."
+  },
+  {
+    "q0": 45035406,
+    "q41": "Half-price IAP gives slight advantage; illustrations are plain."
+  },
+  {
+    "q0": 45035211,
+    "q11": -2,
+    "q12": "Top PvE/PvP ranks dominated by fire-burn.",
+    "q13": -2,
+    "q14": "Meta homogenization undermines the 'strategy' premise.",
+    "q7": -1,
+    "q8": "Strategy reduced due to one dominant lineup."
+  },
+  {
+    "q0": 45034975,
+    "q27": 1,
+    "q28": "Players at any spend level can have a good experience.",
+    "q29": 1,
+    "q30": "Spending pressure feels low; experience is smooth."
+  },
+  {
+    "q0": 45034896,
+    "q11": -2,
+    "q12": "Fire-burn is overtuned."
+  },
+  {
+    "q0": 45034826,
+    "q31": 0,
+    "q32": "Good opening resources; hopes ongoing income and welfare increase."
+  },
+  {
+    "q0": 44646802,
+    "q41": "Login BGM praised; UI feels smooth; can be played casually/idle."
+  },
+  {
+    "q0": 45034380,
+    "q6": "Synergies across hero kits, attributes, and relics; daily tower pushes.",
+    "q7": 1,
+    "q8": "Finds these build and tower interactions interesting.",
+    "q41": "Wants more PvP and guild content; dislikes roguelike events."
+  },
+  {
+    "q0": 45034294,
+    "q11": -1,
+    "q12": "Asks to nerf the fire-burn lineup."
+  },
+  {
+    "q0": 45034282,
+    "q3": "Strong manual control feel; hero synergies work across PvP and PvE.",
+    "q4": 1,
+    "q5": "Operation feel praised.",
+    "q6": "Team-building viable for both PvP and PvE.",
+    "q7": 1,
+    "q8": "Highlights multi-mode viability via compositions."
+  },
+  {
+    "q0": 45034239,
+    "q11": -1,
+    "q12": "Requests buff to the female team.",
+    "q29": -1,
+    "q30": "Asks not to make it too pay-heavy."
+  },
+  {
+    "q0": 44336449
+  },
+  {
+    "q0": 45034141,
+    "q3": "Manual PvP uses a push-pull turn bar similar to Onmyoji.",
+    "q4": 1,
+    "q5": "Nostalgic comparison implies good control feel."
+  },
+  {
+    "q0": 45034122,
+    "q41": "Recommends new players run the fire team."
+  },
+  {
+    "q0": 45034024,
+    "q41": "Hopes the game moves away from pure stat checks."
+  },
+  {
+    "q0": 45033920,
+    "q11": -2,
+    "q12": "Cao Ren + Zhou Tai make fire-burn oppressive; dev inaction noted.",
+    "q41": "Auto can clear content that manual cannot due to imbalance."
+  },
+  {
+    "q0": 45033834,
+    "q11": -1,
+    "q12": "Requests balance adjustments."
+  },
+  {
+    "q0": 45033820,
+    "q31": 1,
+    "q32": "Welfare is okay; always has something to do.",
+    "q21": 1,
+    "q22": "Content/meta feels continuous so far; not yet boring."
+  },
+  {
+    "q0": 45033694,
+    "q27": 1,
+    "q28": "F2P/micro-spend experience is okay.",
+    "q11": -1,
+    "q12": "Warns that fire-burn is currently strongest."
+  },
+  {
+    "q0": 45033616,
+    "q29": 1,
+    "q30": "Spending level is moderate.",
+    "q9": 1,
+    "q10": "Grind level is moderate; feels playable."
+  },
+  {
+    "q0": 45033453,
+    "q6": "Good strategic depth.",
+    "q7": 1,
+    "q8": "Strategy praised.",
+    "q11": -1,
+    "q12": "Perceived favoritism toward Wu faction."
+  },
+  {
+    "q0": 44983507,
+    "q9": -1,
+    "q10": "Stamina limits create level gaps.",
+    "q23": true,
+    "q24": "Mentions daily guaranteed pulls on banners.",
+    "q31": 1,
+    "q32": "Launch welfare provides many pulls.",
+    "q11": -1,
+    "q12": "Strength balance skewed; ~80% playing Qun faction.",
+    "q41": "Dislikes Zhang Chunhua’s illustration."
+  },
+  {
+    "q0": 45033233,
+    "q11": -1,
+    "q12": "Says Wei is very strong; warns Wu loses even at equal or higher power."
+  },
+  {
+    "q0": 45033207
+  },
+  {
+    "q0": 45033103,
+    "q9": -1,
+    "q10": "Progress gated by server age and stamina; F2P level gap.",
+    "q27": 0,
+    "q28": "Small spend is fine; zero-spend suffers level disadvantage.",
+    "q41": "Real-time PvP matches rarely; recommends fire-burn meta."
+  },
+  {
+    "q0": 45032806,
+    "q27": -2,
+    "q28": "F2P ends up as whales’ toy with 7-day dual-team meta.",
+    "q29": -2,
+    "q30": "Strong pressure to build two teams quickly.",
+    "q9": -1,
+    "q10": "Game reaches a meta end-state quickly (~7 days)."
+  },
+  {
+    "q0": 45032626,
+    "q9": -1,
+    "q10": "Beacon/Tower progression requires heavy grind."
+  },
+  {
+    "q0": 44947770,
+    "q11": -2,
+    "q12": "F2P fire-burn dominates; high-spender Shu struggles."
+  },
+  {
+    "q0": 45032380
+  },
+  {
+    "q0": 45032357,
+    "q11": -1,
+    "q12": "Requests improved lineup balance."
+  },
+  {
+    "q0": 45032350
+  },
+  {
+    "q0": 45032170,
+    "q11": -1,
+    "q12": "Balance worse and less diverse than game 1.",
+    "q13": -1,
+    "q14": "Less lineup variety; some units never trigger 'battle intent' skills.",
+    "q41": "No tutorial for customizable auto-battle; 'battle intent' resource is too scarce."
+  },
+  {
+    "q0": 45031989,
+    "q9": -1,
+    "q10": "Described as grindy.",
+    "q41": "Gacha rates are 'okay'."
+  },
+  {
+    "q0": 44956981,
+    "q31": 1,
+    "q32": "Welfare is decent; fine as a casual side game."
+  },
+  {
+    "q0": 45031733,
+    "q6": "Team composition, positioning, and skill order matter.",
+    "q7": 2,
+    "q8": "High strategy; multiple mechanics to optimize."
+  },
+  {
+    "q0": 45031620,
+    "q31": 2,
+    "q32": "Gives lots of welfare.",
+    "q27": 2,
+    "q28": "Zero/micro-spenders can comfortably 'idle/retire'."
+  },
+  {
+    "q0": 45031602,
+    "q27": 2,
+    "q28": "Zero-spend feels comfortable; called generous.",
+    "q11": -1,
+    "q12": "Faction balance needs work."
+  },
+  {
+    "q0": 45031508,
+    "q41": "Shu faction lacks enough characters; requests more."
+  },
+  {
+    "q0": 45010037,
+    "q1": true,
+    "q2": "Official CP shipping and NTR mentions; sexual themes in narrative.",
+    "q11": -1,
+    "q12": "Notable strength gaps between lineups/heroes.",
+    "q41": "Rarity assignments feel illogical (e.g., Cao Cao rarer lower than Yuan Shu)."
+  },
+  {
+    "q0": 45031435,
+    "q11": -2,
+    "q12": "Fire-burn beats other lineups with far less spend across PvE and PvP.",
+    "q29": -2,
+    "q30": "Claims heavy monetization pressure via selling top gear and short-lived passes."
+  },
+  {
+    "q0": 45019424,
+    "q29": 1,
+    "q30": "Perceived as money-saving for a card game."
+  },
+  {
+    "q0": 45031238
+  },
+  {
+    "q0": 45031195,
+    "q41": "Zero-spend ~7k losing to ~5k+ suggests matchup/meta issues; says newbie-friendly overall."
+  },
+  {
+    "q0": 45030999,
+    "q31": 1,
+    "q32": "Welfare is okay.",
+    "q13": -1,
+    "q14": "Few viable lineups."
+  },
+  {
+    "q0": 45030975,
+    "q41": "Core-card acquisition and team formation speed feel reasonable."
+  },
+  {
+    "q0": 45030894,
+    "q9": -2,
+    "q10": "Progressively blocked at Beacon milestones; after day 6, pulls dry up for month-card players.",
+    "q31": -2,
+    "q32": "Post-early phase, gacha resources drop to ~10/day via paid currency.",
+    "q29": -1,
+    "q30": "Month card insufficient to keep pulling; feels bad."
+  },
+  {
+    "q0": 45030879,
+    "q11": -1,
+    "q12": "Requests a buff for Zhao Yun."
+  },
+  {
+    "q0": 45030798,
+    "q31": 2,
+    "q32": "Lots of welfare; high pull rates.",
+    "q29": 1,
+    "q30": "Low spending pressure; micro-spend optional."
+  },
+  {
+    "q0": 44961950,
+    "q31": -1,
+    "q32": "Wants more welfare despite liking gameplay and art."
+  }
+]

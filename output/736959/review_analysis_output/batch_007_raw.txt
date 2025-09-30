@@ -1,0 +1,723 @@
+[
+  {
+    "q0": 45174120,
+    "q11": -2,
+    "q12": "Only Burn (Fire) team is viable; others are trash despite 'no useless card' claim.",
+    "q13": -2,
+    "q14": "Meta is dominated by a single Burn team.",
+    "q31": -2,
+    "q32": "Stingy resource distribution ('dead stingy').",
+    "q41": "Discrepancy with marketing claim of 'no useless cards'."
+  },
+  {
+    "q0": 44571601
+  },
+  {
+    "q0": 45173902,
+    "q9": -2,
+    "q10": "Progression stalls in late game without spending due to lack of resource sources.",
+    "q27": -2,
+    "q28": "Non-spenders cannot meaningfully progress.",
+    "q29": -2,
+    "q30": "Game forces spending as the only progression path.",
+    "q31": -2,
+    "q32": "Resources become scarce; 'no place to get resources'."
+  },
+  {
+    "q0": 45173527,
+    "q9": -2,
+    "q10": "Stuck on the same stage for days; 14-day mark effectively ends progression.",
+    "q11": -2,
+    "q12": "Huge balance gap; 'first by a landslide' sarcasm.",
+    "q31": -2,
+    "q32": "After early days, rewards dry up; 'officially discourages play after 14 days'."
+  },
+  {
+    "q0": 45173567,
+    "q9": -2,
+    "q10": "After launch week there is 'zero resource acquisition', leaving nothing to do.",
+    "q31": -2,
+    "q32": "No daily income loop compared to the first game; resources stop after launch period.",
+    "q41": "Lack of daily activities/content post-launch."
+  },
+  {
+    "q0": 45172887,
+    "q9": -2,
+    "q10": "Main story cleared early; progression halts as resources dry up from day 11.",
+    "q23": true,
+    "q24": "Wish pool has a 50-pull pity; first wish pull guaranteed; battle pass (~¥49) grants ~60 pulls that barely cover pity.",
+    "q25": -2,
+    "q26": "Expensive relative to income; a pass essentially only reaches pity.",
+    "q27": -2,
+    "q28": "Comfortable play requires monthly spending (300–500 RMB suggested); zero-spenders advised to quit.",
+    "q29": -2,
+    "q30": "Resource drought forces spending to progress or pull.",
+    "q31": -2,
+    "q32": "Around 8–9 pulls per week post day 11; extremely stingy ongoing rewards."
+  },
+  {
+    "q0": 45172880,
+    "q9": -2,
+    "q10": "Post day-14 resources are halved repeatedly; progression becomes painfully slow.",
+    "q11": -2,
+    "q12": "Only Burn works; top ranks full of Burn; 'no useless general' claim disproven.",
+    "q13": -2,
+    "q14": "Other lineups are unviable; single-meta environment.",
+    "q21": -2,
+    "q22": "Very few activities and no cyclical event loop.",
+    "q27": -2,
+    "q28": "Without spending, players stand still for days.",
+    "q31": -2,
+    "q32": "Activity rewards are stingy; stamina is too low; no noon/evening stamina refills."
+  },
+  {
+    "q0": 45172823,
+    "q9": -2,
+    "q10": "After clearing available content, cannot gather enough 'Tianji Tokens' to build second team.",
+    "q31": -2,
+    "q32": "Weekly PvP and training give too few tokens to progress team building."
+  },
+  {
+    "q0": 45172705,
+    "q11": -2,
+    "q12": "General balance system is very poor.",
+    "q21": -2,
+    "q22": "Low content production; perfunctory activities.",
+    "q31": -2,
+    "q32": "Insufficient resource output.",
+    "q41": "Characters/story collapse; complex power system and tedious progression."
+  },
+  {
+    "q0": 45172227,
+    "q9": -1,
+    "q10": "After mainline and 14-day tasks, enters a 'long grass' period; weekly boss becomes main income.",
+    "q15": "Idle resource collection every 4 hours (coins/exp/equipment hammers) with caps; weekly/guild bosses; tower climbing and a Honkai: Star Rail-like weekly boss loop.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple periodic collection and weekly cadence.",
+    "q19": -1,
+    "q20": "Only modest income for F2P; insufficient for steady growth.",
+    "q31": -1,
+    "q32": "Public test welfare is limited; 0-spenders face long養成 cycles."
+  },
+  {
+    "q0": 45172117,
+    "q3": "Turn-based card battles with a 'normal' mode where you pick skills; manual target selection is needed.",
+    "q4": 0,
+    "q5": "Combat control feels clunky; wants tap-to-auto-target after selecting a skill.",
+    "q41": "Annoying pop-up banners with no option to disable."
+  },
+  {
+    "q0": 45172003,
+    "q9": -2,
+    "q10": "Campaign quickly ends; stuck on tower/zhulu; guild war is pure stat check.",
+    "q31": -2,
+    "q32": "Extremely stingy; a ten-pull can take about a week without events.",
+    "q41": "Guild war is pure numerical stomp with little hope for undergeared players."
+  },
+  {
+    "q0": 45171398,
+    "q9": -2,
+    "q10": "Post-14 days, if you can't clear Zhulu, daily income can drop to almost nothing.",
+    "q31": -2,
+    "q32": "Resources are mostly one-time; no meaningful cyclic income.",
+    "q41": "Zhulu difficulty is overtuned."
+  },
+  {
+    "q0": 45171265,
+    "q11": -2,
+    "q12": "Character strength/balance is broken.",
+    "q21": -1,
+    "q22": "Operator response/adjustments feel slow and unmotivated.",
+    "q41": "Art, story, and operations perceived as poor despite interesting combat system."
+  },
+  {
+    "q0": 45108767,
+    "q9": -2,
+    "q10": "Gacha resources deplete in two weeks.",
+    "q11": -2,
+    "q12": "Balance rated extremely poor.",
+    "q21": -2,
+    "q22": "No events two weeks after launch.",
+    "q31": -2,
+    "q32": "Very stingy rewards; gacha experience is terrible.",
+    "q41": "Character models disliked."
+  },
+  {
+    "q0": 45170646,
+    "q11": -2,
+    "q12": "Any faction facing Burn loses; balance is nonexistent.",
+    "q13": -2,
+    "q14": "Burn meta crowds out all other lineups."
+  },
+  {
+    "q0": 44988314,
+    "q9": -2,
+    "q10": "F2P stagnates; tower requires second team while stamina is insufficient.",
+    "q21": -2,
+    "q22": "Developers go silent; no events or welfare.",
+    "q27": -2,
+    "q28": "F2P cannot sustain two teams; ends up only clearing stamina and logging off.",
+    "q31": -2,
+    "q32": "Very low resource income; nothing meaningful to do daily."
+  },
+  {
+    "q0": 45169021,
+    "q9": -2,
+    "q10": "Frequent stage blocks ('always stuck').",
+    "q11": -2,
+    "q12": "Game is 'for Burn team only'.",
+    "q29": -2,
+    "q30": "Many paid offers while free welfare is withheld.",
+    "q31": -2,
+    "q32": "Resources and welfare are extremely scarce."
+  },
+  {
+    "q0": 45168644,
+    "q41": "Lack of innovation; feels like reheated content with only art tweaks."
+  },
+  {
+    "q0": 45168287,
+    "q27": -2,
+    "q28": "Non-spenders told to leave; double-lineup requirement increases cost.",
+    "q41": "Promised '1000 pulls' not realized; two-lineup design frustrates players."
+  },
+  {
+    "q0": 45168203,
+    "q31": -2,
+    "q32": "No daily output.",
+    "q41": "Some character artworks are unappealing."
+  },
+  {
+    "q0": 45168184,
+    "q9": -2,
+    "q10": "After ~7 days, nothing to do; daily session ~20 minutes.",
+    "q31": -2,
+    "q32": "Cannot even do a daily ten-pull after a week."
+  },
+  {
+    "q0": 45168115,
+    "q27": -2,
+    "q28": "Zero-spenders have negligible progression and cannot catch version metas.",
+    "q29": -2,
+    "q30": "Only one-time resources and meager daily currency force spending.",
+    "q31": -2,
+    "q32": "Daily income is tiny; half a year might not reach a meta unit."
+  },
+  {
+    "q0": 45167976
+  },
+  {
+    "q0": 45167847,
+    "q9": -2,
+    "q10": "Late game has zero output; must pay to pull and progress.",
+    "q27": -2,
+    "q28": "Pulling becomes paywalled in the late game.",
+    "q29": -2,
+    "q30": "Game aggressively pushes spending due to zero ongoing income.",
+    "q31": -2,
+    "q32": "All resources are one-time; no late-game income."
+  },
+  {
+    "q0": 45167828,
+    "q41": "Good art and excellent UI; otherwise lacking in content."
+  },
+  {
+    "q0": 45167797,
+    "q6": "Two-team requirement; Zhulu stages with faction/role restrictions; heavy reliance on Burn AOE/DoT; manual control can overcome some stages; equipment set RNG; builds require high star levels (locked key skills).",
+    "q7": 0,
+    "q8": "Some hand-play tactics exist, but build diversity is poor and star-gating limits options.",
+    "q9": -2,
+    "q10": "After one-time and launch resources, daily rewards are lacking; ~one ten-pull per week for non-spenders.",
+    "q11": -2,
+    "q12": "Burn is the only comprehensive version answer; Shu is notably weak.",
+    "q13": -2,
+    "q14": "High-red (dupe) requirements and poor set RNG restrict builds.",
+    "q31": -2,
+    "q32": "Missing daily paths to earn targeted pulls; equipment RNG is punishing.",
+    "q41": "Shu faction perceived as underpowered."
+  },
+  {
+    "q0": 45167637,
+    "q9": -2,
+    "q10": "Becomes a '7-day game' with very fast long-grass period.",
+    "q11": -2,
+    "q12": "General imbalance reduces playability."
+  },
+  {
+    "q0": 45167605,
+    "q9": -2,
+    "q10": "Post first week, almost no resources; monthly shop only sells one Unrivaled item, blocking upgrades.",
+    "q31": -2,
+    "q32": "Early resources ok; afterwards almost none; equipment set forging takes ages due to RNG.",
+    "q41": "Art style criticized as 'otome/2nd-dim' even for warriors; copied systems feel poorly executed."
+  },
+  {
+    "q0": 45167530,
+    "q9": -2,
+    "q10": "After a month, daily loop is just quick sweep/hammer with constant losses in PvE/PvP.",
+    "q11": -2,
+    "q12": "Poor balance leads to constant defeats.",
+    "q31": -2,
+    "q32": "Low welfare; little to do."
+  },
+  {
+    "q0": 45167402,
+    "q6": "PVP: Burn's high multipliers + dispel scarcity + sturdy tanks dominate auto play. PVE: Arsenal stages favor AOE, female group, and debuff stacking—all aligned with Burn; tower and trials also favor Burn.",
+    "q7": -1,
+    "q8": "Stage mechanics heavily favor a single archetype, undermining strategic variety.",
+    "q11": -2,
+    "q12": "Burn is dominant in both PVP and PVE due to stage design.",
+    "q13": -2,
+    "q14": "Other teams are disadvantaged across multiple core modes."
+  },
+  {
+    "q0": 45167201,
+    "q7": -1,
+    "q8": "PVE over-designed with annoying mechanics; PVP imbalance; prefers straightforward progression.",
+    "q9": -2,
+    "q10": "Resource starvation for 0/low spenders by day 14 despite double/triple lineup needs.",
+    "q11": -2,
+    "q12": "Only Burn/Group seen; balance patch had no visible impact.",
+    "q31": -2,
+    "q32": "Severe lack of free pulls; '1000 pulls' claim not realized."
+  },
+  {
+    "q0": 44981569,
+    "q9": -2,
+    "q10": "Players don't know what to do due to difficult stages and poor rewards.",
+    "q31": -2,
+    "q32": "Resource output is too low; rewards not commensurate with effort."
+  },
+  {
+    "q0": 45165542,
+    "q29": -2,
+    "q30": "Heavy monetization with poor returns despite spending over 1,000 RMB.",
+    "q31": -2,
+    "q32": "Extremely stingy: no gold gear/heroes after days even with spending."
+  },
+  {
+    "q0": 45165218,
+    "q9": -2,
+    "q10": "Becomes unplayable after a week due to no ongoing resource channels.",
+    "q21": -2,
+    "q22": "No events; developers unresponsive; very low production cadence.",
+    "q31": -2,
+    "q32": "Can't even afford daily stamina purchases.",
+    "q41": "Chat channels flooded with ads."
+  },
+  {
+    "q0": 44960886,
+    "q9": -2,
+    "q10": "After a week can't even afford pulls.",
+    "q27": -2,
+    "q28": "Unplayable without spending.",
+    "q29": -2,
+    "q30": "Forces spending to keep playing.",
+    "q31": -2,
+    "q32": "Post-launch resources are minimal."
+  },
+  {
+    "q0": 45164728,
+    "q41": "Excessive server rolling; many dead/empty servers; guilds die out quickly; concerns about cash grab and shutdown."
+  },
+  {
+    "q0": 45164434,
+    "q9": -2,
+    "q10": "Zero progression without a monthly card after day 14.",
+    "q41": "Hammering 100 items still can't complete one equipment set due to RNG."
+  },
+  {
+    "q0": 45164375,
+    "q9": -2,
+    "q10": "Around day 15, no resources and can't clear activities; must hard-grind or pay.",
+    "q27": -2,
+    "q28": "Payment becomes necessary to advance.",
+    "q31": -2,
+    "q32": "No resource distribution mid-game."
+  },
+  {
+    "q0": 45164352,
+    "q11": -2,
+    "q12": "Only Burn team is playable.",
+    "q13": -2,
+    "q14": "Single viable team; others are irrelevant.",
+    "q27": -2,
+    "q28": "Game suits paying users only.",
+    "q29": -2,
+    "q30": "Stingy welfare and meta constraints pressure spending.",
+    "q31": -2,
+    "q32": "Welfare is extremely stingy."
+  },
+  {
+    "q0": 45164205,
+    "q9": -2,
+    "q10": "Frequent blocks despite some spending; little income without paying.",
+    "q11": -2,
+    "q12": "Leaderboards dominated by Fire; other lineups struggle.",
+    "q31": -2,
+    "q32": "Resource income is near zero without spending.",
+    "q41": "Equipment hammer RNG is frustrating."
+  },
+  {
+    "q0": 45163950,
+    "q9": -2,
+    "q10": "Can't push maps or keep up; gameplay becomes repetitive and dull.",
+    "q27": -2,
+    "q28": "Non-spenders can't play; only a few Legendary heroes are useful.",
+    "q29": -2,
+    "q30": "Heavily paywalled later; insufficient stamina and pull income.",
+    "q31": -2,
+    "q32": "Can't afford wish pulls even every two days; normal pool constantly off-target.",
+    "q41": "Stamina sinks across modes create bottlenecks."
+  },
+  {
+    "q0": 45163657,
+    "q9": -2,
+    "q10": "Lock-in on power/lineup with little variety; off-putting progression.",
+    "q29": -2,
+    "q30": "Heavily number-driven and monetized; even deep discounts can't fix core issues.",
+    "q41": "Art worse than 2D; boring writing; missed chance to innovate on gameplay."
+  },
+  {
+    "q0": 45162924,
+    "q7": -2,
+    "q8": "Claims strategy but is just number checks and RNG in tower; frustrating.",
+    "q9": -2,
+    "q10": "Tower progression feels luck-gated and time-wasting."
+  },
+  {
+    "q0": 45162029,
+    "q9": -1,
+    "q10": "Becomes boring after a few days due to low welfare and higher monetization.",
+    "q29": -2,
+    "q30": "Noticeably high spend requirements.",
+    "q31": -2,
+    "q32": "Welfare is poor."
+  },
+  {
+    "q0": 45160911,
+    "q11": -2,
+    "q12": "Arena matchmaking pits low-level players against much higher levels; level suppression overwhelms star levels.",
+    "q41": "Severe arena matchmaking/level disparity issues."
+  },
+  {
+    "q0": 45160141,
+    "q21": -2,
+    "q22": "Main story chapter not finished at launch; guild war is a half-baked design without interaction.",
+    "q41": "Perceived poor art, story, and music; guild war lacks gameplay depth."
+  },
+  {
+    "q0": 44972925,
+    "q11": -2,
+    "q12": "Poor balance; PVP is bad.",
+    "q31": -2,
+    "q32": "Insufficient output."
+  },
+  {
+    "q0": 45072306,
+    "q6": "Manual operations required for harder stages; multiple overlapping progression systems; unique stage mechanics and buffs.",
+    "q7": 1,
+    "q8": "Tough stages need manual play and planning; not brain-dead.",
+    "q41": "Co-op matchmaking fails; complex progression feels unrewarding; event buffs can benefit enemies; lack of guides."
+  },
+  {
+    "q0": 45158900
+  },
+  {
+    "q0": 45158875,
+    "q9": -2,
+    "q10": "Zhulu mode blocks progress early; mechanics like 100% physical immunity stall players.",
+    "q11": -2,
+    "q12": "Fire team far stronger; shields are useless; support/tank balance off."
+  },
+  {
+    "q0": 45158030,
+    "q9": -2,
+    "q10": "Second team can't climb; first team can't clear PVE; nothing to do when logging in.",
+    "q21": -1,
+    "q22": "Player asks for faster updates to alleviate stagnation.",
+    "q31": -2,
+    "q32": "Insufficient welfare to build a second team."
+  },
+  {
+    "q0": 45157944,
+    "q9": -1,
+    "q10": "Core loop devolves into tower climbing only, reducing fun."
+  },
+  {
+    "q0": 45157824,
+    "q31": -2,
+    "q32": "Free pull rate is extremely low (e.g., 'one limited Fire per year' estimate)."
+  },
+  {
+    "q0": 45156147,
+    "q29": -2,
+    "q30": "External reviews label the monetization strength as 'unrivaled'."
+  },
+  {
+    "q0": 45151604,
+    "q29": -2,
+    "q30": "Screen full of paid packs; heavy monetization.",
+    "q41": "Arena outcomes feel inexplicable despite higher BR/levels."
+  },
+  {
+    "q0": 45155023,
+    "q9": -2,
+    "q10": "Forced stage cadence and prolonged dead loops lead to boredom by day 13.",
+    "q21": -2,
+    "q22": "No holiday activity (e.g., Dragon Boat) and chapter updates stalled.",
+    "q23": true,
+    "q24": "Each pool has 50-pull pity; first wish is guaranteed; after early chapters, only premium currency can be used to reach pity.",
+    "q25": -2,
+    "q26": "Five-fold discount packs focus on stamina and pulls; overall economy pushes spending to hit pity.",
+    "q27": -2,
+    "q28": "Zero-spenders cannot maintain daily ten-pulls; two-team demand exacerbates it.",
+    "q29": -2,
+    "q30": "Key resources (stamina, tickets) are monetized with 'discount' packs.",
+    "q31": -2,
+    "q32": "Day 10+ resource income collapses; daily ten-pull unattainable for F2P."
+  },
+  {
+    "q0": 45154979,
+    "q41": "Art is good; operations are simple."
+  },
+  {
+    "q0": 45154962,
+    "q21": -2,
+    "q22": "No updates for long stretches; nothing new to spend stamina on.",
+    "q31": -1,
+    "q32": "Even buying stamina with premium currency feels insufficient."
+  },
+  {
+    "q0": 45109675,
+    "q11": -2,
+    "q12": "Only Burn is playable; Poison is 'trash'.",
+    "q13": -2,
+    "q14": "Single viable lineup."
+  },
+  {
+    "q0": 45154646,
+    "q21": -2,
+    "q22": "Main story stuck at 21-10 for many days with no update."
+  },
+  {
+    "q0": 45154383,
+    "q9": -2,
+    "q10": "Severe power gating; hard stuck frequently.",
+    "q11": -2,
+    "q12": "Balance is very poor.",
+    "q31": -2,
+    "q32": "Rewards are one-time; no ongoing income."
+  },
+  {
+    "q0": 45153541,
+    "q9": -2,
+    "q10": "Forced progression loops and stage locks cause boredom by day 13.",
+    "q21": -2,
+    "q22": "No holiday events; chapters not updated.",
+    "q27": -2,
+    "q28": "Daily ten-pulls unattainable for F2P; two-team requirement too early.",
+    "q29": -2,
+    "q30": "Heavy monetization via 'five-fold' packs for stamina and pulls.",
+    "q31": -2,
+    "q32": "Initial welfare fades; later resource income tiny."
+  },
+  {
+    "q0": 45152113,
+    "q3": "Manual skill play adds tactics (e.g., dispel), but frequent mechanics interrupt flow; full auto would be smoother.",
+    "q4": -1,
+    "q5": "Hand-play breaks pacing; throwaway mechanics add friction.",
+    "q6": "Manual control with mechanics like dispel; stage-specific gimmicks (e.g., bread guy, refugees); faction/role restrictions; frequent power-gated modes.",
+    "q7": -1,
+    "q8": "Mechanics feel forced and not cohesive; strategy overshadowed by gating.",
+    "q15": "AI-themed home/diorama and 'painting compendium' collectible side content delivered via lottery to pad time.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Side systems feel tacked on rather than streamlined.",
+    "q19": -1,
+    "q20": "Side content yields little practical progression value.",
+    "q21": -2,
+    "q22": "Half-finished story, rushed features, and UI layout changes post-launch.",
+    "q31": -2,
+    "q32": "Resources only sustain F2P for ~10 days.",
+    "q41": "UI bugs and misaligned buttons; rushed public launch 'test' feeling."
+  },
+  {
+    "q0": 45151865,
+    "q3": "Strategy-focused turn-based combat; hard stages require manual play.",
+    "q4": 1,
+    "q5": "Manual tactics make tough encounters engaging.",
+    "q6": "Manual operation for difficult checkpoints.",
+    "q7": 1,
+    "q8": "Non-trivial mechanics require planning and hand-play."
+  },
+  {
+    "q0": 45031804,
+    "q9": -2,
+    "q10": "Post day-10 resource income collapses; progress halts.",
+    "q11": -2,
+    "q12": "Burn can beat low-spenders; non-Burn factions struggle.",
+    "q13": -2,
+    "q14": "Lineups converge on Burn; little room to experiment.",
+    "q31": -2,
+    "q32": "Weekly 1,000 + guild 1,500 premium currency only; most income is one-time."
+  },
+  {
+    "q0": 45150555,
+    "q9": -2,
+    "q10": "By day 10, long-grass begins.",
+    "q11": -2,
+    "q12": "Only 'Fire Nation' remains viable.",
+    "q13": -2,
+    "q14": "Single-meta environment.",
+    "q31": -2,
+    "q32": "Welfare dries up quickly."
+  },
+  {
+    "q0": 45020219,
+    "q9": -2,
+    "q10": "After 14 days, progression is pay-gated and stuck.",
+    "q27": -2,
+    "q28": "Non-payers can't level due to stamina and limited pulls.",
+    "q29": -2,
+    "q30": "Game forces you to either pay or quit.",
+    "q31": -2,
+    "q32": "Very few pulls over days; stamina insufficient to level."
+  },
+  {
+    "q0": 45149400,
+    "q11": -2,
+    "q12": "Everything except Burn is very weak; female team cannot compete.",
+    "q13": -2,
+    "q14": "Burn beats everything; no viable alternatives."
+  },
+  {
+    "q0": 45149168,
+    "q11": -2,
+    "q12": "Overtuned stage numbers (e.g., instant enemy ult at Zhulu 55) kill players even at cap."
+  },
+  {
+    "q0": 45147472,
+    "q41": "Voice lines feel insufficient; requests new lines unlocked via affinity."
+  },
+  {
+    "q0": 45147333,
+    "q41": "Worse than the first game; story poor; features like hot springs removed."
+  },
+  {
+    "q0": 45146215,
+    "q9": -2,
+    "q10": "No content 10 days in; can't even save for wish pulls within a week.",
+    "q21": -2,
+    "q22": "Main story stops; overall lack of content.",
+    "q31": -2,
+    "q32": "Weekly income too low for even a wish ten-pull."
+  },
+  {
+    "q0": 45145713,
+    "q33": true,
+    "q34": "Sequel in the 'Three Kingdoms Fantasy Continent' IP; compared unfavorably to the first game."
+  },
+  {
+    "q0": 45044195,
+    "q9": -2,
+    "q10": "After 14 days of one-time resources, even one team isn't finished.",
+    "q31": -2,
+    "q32": "Daily income too low; characters/Relics require many stars to be usable."
+  },
+  {
+    "q0": 45144365,
+    "q9": -2,
+    "q10": "Finished mainline before 14-day newbie period; tower hasn't moved in ~10 days.",
+    "q21": -1,
+    "q22": "Half-finished game rushed to monetize; content stalls.",
+    "q27": -2,
+    "q28": "0-spenders can't even do a daily ten-pull; second team requirement is premature.",
+    "q29": -2,
+    "q30": "Pulls are essentially locked behind spending.",
+    "q31": -2,
+    "q32": "No sustainable path to earn pulls."
+  },
+  {
+    "q0": 45143175,
+    "q41": "Spends on celebrity endorsements instead of improving in-game balance/quality."
+  },
+  {
+    "q0": 45143090,
+    "q6": "Stage-specific requirements (e.g., particular team compositions) gate progress.",
+    "q9": -2,
+    "q10": "Insufficient stamina/resources to even raise one team while stages demand specific teams.",
+    "q31": -2,
+    "q32": "Too little stamina and resources to meet stage demands."
+  },
+  {
+    "q0": 44325848,
+    "q25": -2,
+    "q26": "Even 'permanent 50% off' is pricey (e.g., ten-pull 30 units); discounts feel meaningless.",
+    "q27": -2,
+    "q28": "Monthly card players can't sustain play after day 14.",
+    "q31": -2,
+    "q32": "Post-14-day resource income collapses."
+  },
+  {
+    "q0": 45070505,
+    "q9": -2,
+    "q10": "By half a month, it's 'long grass'; daily play finishes in minutes."
+  },
+  {
+    "q0": 45141157,
+    "q6": "Stages require specific compositions (e.g., 3 females or 4 attackers), effectively demanding maxed rosters.",
+    "q7": -1,
+    "q8": "Restrictive composition checks masquerade as 'strategy'.",
+    "q9": -2,
+    "q10": "Progress blocked by composition gates."
+  },
+  {
+    "q0": 45141116,
+    "q9": -2,
+    "q10": "Both PVE and PVP are unwinnable with certain teams (e.g., Zhao Yun comp).",
+    "q11": -2,
+    "q12": "Some teams are non-viable across modes."
+  },
+  {
+    "q0": 44960117,
+    "q9": -2,
+    "q10": "Daily loop devolves into stamina dump; tower requires spending to climb.",
+    "q27": -2,
+    "q28": "Core modes favor spenders; PVP decided by power gaps.",
+    "q29": -2,
+    "q30": "All-around monetization with '5x off' bait and paygated progression.",
+    "q41": "Tower is a 'spend-to-win' system; perceived cash-grab."
+  },
+  {
+    "q0": 45140922,
+    "q4": -1,
+    "q5": "Forced manual play in some stages; cannot skip with auto.",
+    "q6": "Stages force manual operation; meta heavily favors Burn; other lineups get outstatted.",
+    "q9": -2,
+    "q10": "After 14 days, daily income is only 1–2 pulls; non-meta teams stall.",
+    "q11": -2,
+    "q12": "Burn dominates; other lineups lose even when outgearing.",
+    "q13": -2,
+    "q14": "Single viable meta post-14 days.",
+    "q31": -2,
+    "q32": "Daily resource output is tiny."
+  },
+  {
+    "q0": 45140860,
+    "q11": -2,
+    "q12": "Balance is terrible; switching lineups is too costly; bad early pulls are punishing.",
+    "q31": -2,
+    "q32": "Resources are too scarce to pivot lineups."
+  },
+  {
+    "q0": 45139538,
+    "q9": -2,
+    "q10": "After a week, hit resource bottleneck; few activities; just idle collection.",
+    "q21": -2,
+    "q22": "Activity cadence is very low.",
+    "q31": -1,
+    "q32": "Daily rewards insufficient to overcome bottlenecks."
+  }
+]

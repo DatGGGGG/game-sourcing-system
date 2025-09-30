@@ -1,0 +1,440 @@
+[
+  {
+    "q0": 44963636,
+    "q4": -2,
+    "q5": "Controls/operations are cumbersome and frustrating."
+  },
+  {
+    "q0": 44963607,
+    "q29": -2,
+    "q30": "Perceived as a blatant cash-grab."
+  },
+  {
+    "q0": 44963548,
+    "q25": -1,
+    "q26": "Low perceived gacha probability.",
+    "q31": -1,
+    "q32": "Benefits/welfare described as only average."
+  },
+  {
+    "q0": 44915461,
+    "q41": "Heavy backlash over Sun Ce illustration; accusations of review deletion/censorship."
+  },
+  {
+    "q0": 44963513,
+    "q41": "Black screen bug reported."
+  },
+  {
+    "q0": 44963496,
+    "q4": -1,
+    "q5": "No ultimate animations hurt combat feel.",
+    "q31": -2,
+    "q32": "Players say welfare is very low.",
+    "q41": "Story regarded as broken; character art criticized as ugly."
+  },
+  {
+    "q0": 44963481,
+    "q7": -2,
+    "q8": "Players report no meaningful strategy; outcomes driven by spending.",
+    "q29": -2,
+    "q30": "Perceived pay-to-win focus; spending trumps gameplay."
+  },
+  {
+    "q0": 44963474,
+    "q1": true,
+    "q2": "Fanservice/softcore aesthetics and BL/‘selling腐’ elements; revealing outfits and suggestive posing.",
+    "q3": "Turn-based with manual skill timing introduced; emphasis on in-battle operations and a rewind mechanic; PvE often stat checks.",
+    "q4": -2,
+    "q5": "Forced manual micromanagement with low tactical ceiling and simple encounters.",
+    "q6": "Multi-branch classes, mid-battle ‘strategy’/manual skill use, rewind, but basic target priority dominates.",
+    "q7": -1,
+    "q8": "Appears deeper on paper but boils down to low-ceiling basics and stat checks.",
+    "q9": -1,
+    "q10": "Heavier grind due to multi-branch progression per unit.",
+    "q13": -1,
+    "q14": "More branches increase grind rather than enable meaningful new builds.",
+    "q27": -1,
+    "q28": "More monetization points than prior game; players feel features padded for monetization.",
+    "q29": -1,
+    "q30": "Perceived attempts to add spend points while claiming innovation.",
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms/historical Three Kingdoms figures; sequel to the prior series.",
+    "q35": -1,
+    "q36": "Story and character portrayals criticized as OOC and BL-leaning, weakening historical integration."
+  },
+  {
+    "q0": 44963448,
+    "q9": 1,
+    "q10": "Long-term growth focus is appreciated by the player."
+  },
+  {
+    "q0": 44963440,
+    "q41": "User reports display cropped with top/bottom occlusion; unclear how to adjust."
+  },
+  {
+    "q0": 44963434,
+    "q29": -2,
+    "q30": "Described as heavy-spending oriented; audience targeting (female-oriented) criticized.",
+    "q41": "Target audience mismatch complaint (female-oriented tilt)."
+  },
+  {
+    "q0": 44963427,
+    "q41": "Complaint about repetitive reuse of the Three Kingdoms theme/IP."
+  },
+  {
+    "q0": 44963369,
+    "q37": -1,
+    "q38": "Download consumed 2+ GB before encountering persistent black screen.",
+    "q41": "Black screen on launch with audio only."
+  },
+  {
+    "q0": 44963357,
+    "q31": -2,
+    "q32": "Promised “1000 pulls” considered deceptive/conditional."
+  },
+  {
+    "q0": 44963322,
+    "q41": "Female character art considered notably worse than prior title; perceived shift toward otome/female-oriented style."
+  },
+  {
+    "q0": 44963298,
+    "q1": true,
+    "q2": "BL/male-male romance cues at the start.",
+    "q41": "Main character lacks presence/portrait compared to prior game."
+  },
+  {
+    "q0": 44963216,
+    "q41": "Visuals described as too dark to play comfortably."
+  },
+  {
+    "q0": 44963183,
+    "q41": "Avatar gender mismatch (selected female but displays male); unclear purpose of main control character."
+  },
+  {
+    "q0": 44963163,
+    "q31": -2,
+    "q32": "“1000 pulls” framed as a very long-term accumulation rather than immediate benefit."
+  },
+  {
+    "q0": 44963149,
+    "q21": 1,
+    "q22": "Post-test improvements and some feature consolidation noted."
+  },
+  {
+    "q0": 44961456,
+    "q4": -1,
+    "q5": "Feels like a reskinned card game; sluggish transitions and long animations hurt flow.",
+    "q41": "Buttons/controls too small; overall lack of smoothness."
+  },
+  {
+    "q0": 44963080,
+    "q41": "Tablet UI not properly adapted; top/bottom cut off and no setting to adjust."
+  },
+  {
+    "q0": 44963058,
+    "q41": "Launches to black screen."
+  },
+  {
+    "q0": 44963052,
+    "q31": -2,
+    "q32": "Promised vouchers/5-star hero not delivered; request for mail compensation.",
+    "q41": "Marketing promises perceived as undelivered."
+  },
+  {
+    "q0": 44962995,
+    "q4": -2,
+    "q5": "No sense of hit impact; combat feels poor.",
+    "q41": "Art and story described as bad."
+  },
+  {
+    "q0": 44962942,
+    "q4": -1,
+    "q5": "Combat not satisfying; strategy undermined by stats.",
+    "q7": -1,
+    "q8": "Low-power units can’t leverage strategy; stat checks dominate.",
+    "q41": "Story segments sometimes unskippable; constant server rolling; has global speed as sole positive."
+  },
+  {
+    "q0": 44962918,
+    "q41": "Art criticized (historical regression, AI-like feel; unattractive female, androgynous males); live stream accused of using insiders and lacking interaction."
+  },
+  {
+    "q0": 44962865,
+    "q4": -1,
+    "q5": "3D battle visuals/effects feel dated and disconnected from 2D.",
+    "q25": -1,
+    "q26": "Even with 50% off pulls, perceived value is poor due to production quality.",
+    "q41": "3D models/effects look like a decade old; 2D acceptable but core 3D combat is off-putting."
+  },
+  {
+    "q0": 44962852,
+    "q29": -2,
+    "q30": "Aggressive pop-up packs and many servers; perceived nickel-and-diming.",
+    "q31": -2,
+    "q32": "Live rewards tiny (e.g., 2-pull codes); “1000 pulls” requires long-term grind; onboarding lacks team recommendations.",
+    "q41": "Live stream perceived as shill-heavy; constant server openings; weak onboarding guidance."
+  },
+  {
+    "q0": 44962833,
+    "q29": -2,
+    "q30": "Multiple recharge services and monetization layers at launch.",
+    "q41": "Perceived shift toward women/otome audience; story criticized."
+  },
+  {
+    "q0": 44962815,
+    "q6": "Faction-based gacha pools; status archetypes (poison/burn) bundled in one UP; class counter/rock-paper mechanics; tower and PvP modes.",
+    "q7": -1,
+    "q8": "Appears diverse but plays like basic RPS; grindy tower and luck/stat-driven PvP.",
+    "q9": -1,
+    "q10": "Tower climb feels exhausting.",
+    "q11": -1,
+    "q12": "UP pools mix multiple archetypes, making it hard to target desired units.",
+    "q13": -1,
+    "q14": "More positions/slots don’t translate to fresh team-building."
+  },
+  {
+    "q0": 44962701,
+    "q41": "Dark background and small font cause eye strain."
+  },
+  {
+    "q0": 44962693,
+    "q1": true,
+    "q2": "BL/“gay vibe” in story presentation.",
+    "q41": "Dark visuals; rough/ugly character art and models, especially female."
+  },
+  {
+    "q0": 44962644,
+    "q3": "Conventional turn-based gameplay similar to other titles.",
+    "q4": -1,
+    "q5": "No distinctive mechanics compared to genre peers."
+  },
+  {
+    "q0": 44962616,
+    "q29": -2,
+    "q30": "Prominent pay packs shown immediately on entry reduce desire to play."
+  },
+  {
+    "q0": 44962576,
+    "q31": -2,
+    "q32": "Live draw giveaways perceived as insulting/meager."
+  },
+  {
+    "q0": 44962573,
+    "q29": -2,
+    "q30": "Old-school bait monetization and multi-angle card monetization criticized.",
+    "q31": -2,
+    "q32": "Rewards considered stingy; chaotic live content."
+  },
+  {
+    "q0": 44962558,
+    "q1": true,
+    "q2": "Male characters portrayed with BL/‘腐’ aesthetics; sexualized design cues.",
+    "q3": "Traditional tactics/turn-based; AoE dominates; roles include tank/DPS/healer; 6-unit teams; number checks outweigh tactics.",
+    "q4": -2,
+    "q5": "Slow and grindy with stat checks; AoE nukes trivialize fights.",
+    "q6": "Synergies via bonds; exclusive weapons; constellations; shared growth/resonance; PvP presence.",
+    "q7": -1,
+    "q8": "Despite many systems, tactics are limited and number-driven.",
+    "q9": -1,
+    "q10": "Grindy with lengthy processes; little QoL.",
+    "q11": -2,
+    "q12": "AoE-centric units (e.g., Lü Bu) dominate; huge power gaps.",
+    "q13": -1,
+    "q14": "Complex systems funnel players into the same meta guides.",
+    "q27": -2,
+    "q28": "Low resources for PvP environment; F2P pushed to specific meta pulls.",
+    "q29": -2,
+    "q30": "Heavy monetization via exclusive gear and constellations.",
+    "q31": -2,
+    "q32": "Resources and freebies deemed insufficient for a PvP title.",
+    "q41": "Audience targeting unclear; unskippable/story pacing issues; complex, burdensome systems."
+  },
+  {
+    "q0": 44962530,
+    "q29": -2,
+    "q30": "Live rewards framed as bait; minimal codes provided.",
+    "q31": -2,
+    "q32": "“1000 pulls” aggregated across events; live codes only 2 pulls each."
+  },
+  {
+    "q0": 44962508,
+    "q31": -2,
+    "q32": "Limited rounds of codes; final code criticized; poor perceived value.",
+    "q41": "Operations/marketing heavily criticized."
+  },
+  {
+    "q0": 44391625,
+    "q31": -1,
+    "q32": "Players ask ‘where are the benefits’; perceived lack of meaningful welfare.",
+    "q41": "Art style derided; publisher reputation criticized."
+  },
+  {
+    "q0": 44962489,
+    "q11": -1,
+    "q12": "Claim of ‘no useless cards’ conflicts with quality/rarity tiers, implying inevitable weak units."
+  },
+  {
+    "q0": 44961133,
+    "q3": "Turn-based with auto and multi-speed; battlefield objects (fallen braziers), battle-intent skills, mounted archery; 3D battle with 2D art in UI.",
+    "q4": 1,
+    "q5": "Combat presentation is flashy and supports auto/multi-speed.",
+    "q6": "Roguelike battles, fishing, puzzles; multiple progression lines (level, gear, awaken, breakthrough, bonds); resonance and codex bonuses.",
+    "q7": 1,
+    "q8": "Some micro-innovations (battlefield objects, special skills) add usable depth.",
+    "q9": -1,
+    "q10": "Feature unlock pace is slow; many modes gated and hidden until later.",
+    "q15": "Side modes include roguelike combat runs, fishing, and jigsaw puzzles alongside main PvE/PvP.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Side modes and systems unlock slowly and can feel gated.",
+    "q23": true,
+    "q24": "Has pity for top-tier ‘God’ units and a wishlist system to target desired heroes.",
+    "q25": 1,
+    "q26": "Lower pity count and targeting options make pulls feel reasonable.",
+    "q27": 1,
+    "q28": "Resonance/shared progression and low pity support non-paying players.",
+    "q33": true,
+    "q34": "Three Kingdoms historical IP focusing early on young Cao Cao’s arc.",
+    "q35": 1,
+    "q36": "Cao Cao’s youth story and social conflict are well-presented."
+  },
+  {
+    "q0": 44962401,
+    "q9": -1,
+    "q10": "Very limited stamina early; progress stalls quickly.",
+    "q29": -2,
+    "q30": "Pressure to buy stamina in 2025 is poorly received."
+  },
+  {
+    "q0": 44962398,
+    "q31": -2,
+    "q32": "Live ‘god draw’ event gave extremely few winners/copies; perceived as stingy.",
+    "q41": "Aimless live stream with little tangible rewards."
+  },
+  {
+    "q0": 44961191,
+    "q7": -1,
+    "q8": "Challenge conditions/wording unclear, forcing players to look up solutions.",
+    "q41": "Unclear challenge wording; intrusive chat UI on subpages; hard-to-find chat on main; equipment assignment is tedious; equipment not shared; perceived ‘otome’ tilt."
+  },
+  {
+    "q0": 44962313,
+    "q1": true,
+    "q2": "BL/‘腐女’ otome-style art direction.",
+    "q29": -2,
+    "q30": "Live/ops perceived as ignoring player feedback and focusing on monetization.",
+    "q41": "Complaints about censorship and live conduct."
+  },
+  {
+    "q0": 44962293,
+    "q4": -1,
+    "q5": "No innovation over predecessor.",
+    "q41": "Art described as poor."
+  },
+  {
+    "q0": 44962265,
+    "q27": -2,
+    "q28": "Progress tied to stamina and spending; non-spenders can’t keep up.",
+    "q29": -2,
+    "q30": "Aggressive stamina monetization; even discounted packs are pricey.",
+    "q31": -2,
+    "q32": "Very stingy welfare; recruit orders given one by one."
+  },
+  {
+    "q0": 44962263,
+    "q31": -2,
+    "q32": "Benefits are long-term ‘big pie’ requiring months of sign-ins and heavy grind."
+  },
+  {
+    "q0": 44962255,
+    "q41": "Character portrayal (e.g., Bo Yan) deviates from prior ‘gentleman’ image."
+  },
+  {
+    "q0": 44962237,
+    "q7": -2,
+    "q8": "Described as pure stat-value card game with no strategy.",
+    "q31": -2,
+    "q32": "‘1000 pulls’ viewed as marketing bait."
+  },
+  {
+    "q0": 44962164,
+    "q7": -2,
+    "q8": "Combat outcomes driven by spending; tanks can kill carries if paid up; healers underperform without spend.",
+    "q29": -2,
+    "q30": "Perceived exploitative ops; censorship in live; companion streamers.",
+    "q41": "Censorship of criticism; live with hired companions; designer failed day-1 stage live."
+  },
+  {
+    "q0": 44962146,
+    "q3": "Six-unit team cap in battles.",
+    "q13": -1,
+    "q14": "Six-unit cap feels limiting; player suggests expanding to nine.",
+    "q41": "No main story skip option."
+  },
+  {
+    "q0": 44962143,
+    "q41": "Combat designer failed to beat an early boss (He Jin) live, undermining confidence."
+  },
+  {
+    "q0": 44962056,
+    "q7": -2,
+    "q8": "Stages require specific mechanics and stats; without certain units/mechanics you hit walls.",
+    "q11": -2,
+    "q12": "Huge strength gaps; AoE is T0; ‘no useless cards’ claim contradicted.",
+    "q27": -2,
+    "q28": "Key features like rewind gated by level and recharge; progression stalls without spending.",
+    "q29": -2,
+    "q30": "Heavily pay-gated progression and systems.",
+    "q41": "Guilds kick members after farming activity due to uncapped activity grind."
+  },
+  {
+    "q0": 44962043,
+    "q41": "Confusion on whether it’s an open beta or official launch and if progress carries over."
+  },
+  {
+    "q0": 44962032,
+    "q41": "Story derided; female players also dislike the ‘腐’ tone."
+  },
+  {
+    "q0": 44962028,
+    "q9": -1,
+    "q10": "Shared-growth/replace features end at level 70, raising resource pressure later.",
+    "q41": "3D visuals plus plain illustrations make future skin plans unclear."
+  },
+  {
+    "q0": 44962015,
+    "q31": -2,
+    "q32": "Promised ‘1000 pulls’ and all heroes not delivered; weak launch live rewards.",
+    "q41": "Live event underwhelming."
+  },
+  {
+    "q0": 44962002,
+    "q29": -2,
+    "q30": "Perceived as ignoring player anger and focusing on self-entertainment with minor giveaways.",
+    "q31": -2,
+    "q32": "Live giveaways are trivial (e.g., small merch); no promised benefits materialized.",
+    "q41": "Accusations of false advertising; seeking refunds."
+  },
+  {
+    "q0": 44961987,
+    "q3": "Turn-based with speed control, energy control, rewind, and interactable battlefield objects like screens and braziers; multi-path job changes.",
+    "q4": 2,
+    "q5": "Highly satisfying tactical variety and engaging mechanics.",
+    "q6": "Speed control, rewind, energy management; battlefield interactables; multi-direction job system and shared-level resonance.",
+    "q7": 2,
+    "q8": "Multiple layered systems that meaningfully affect tactics and outcomes.",
+    "q9": 1,
+    "q10": "Basic squads can clear most content; progression feels manageable.",
+    "q23": true,
+    "q24": "Low-count pity for top units; easier targeting for desired heroes.",
+    "q25": 1,
+    "q26": "Low pity count reduces pull cost pressure.",
+    "q27": 1,
+    "q28": "Resonance/shared leveling and low pity make it friendly to non-spenders."
+  },
+  {
+    "q0": 44961986,
+    "q9": -1,
+    "q10": "Progression gated by level caps similar to the predecessor."
+  }
+]

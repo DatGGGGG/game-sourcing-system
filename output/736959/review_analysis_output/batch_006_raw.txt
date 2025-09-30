@@ -1,0 +1,701 @@
+[
+  {
+    "q0": 45214733,
+    "q6": "Zhu Lu mode demands mono-faction teams and some stages require 6 female units to 3-star",
+    "q7": -2,
+    "q8": "Forces specific faction and 6 'princess' units; punishes new players",
+    "q9": -2,
+    "q10": "Progress blocked by mode requirements and high investment",
+    "q27": -2,
+    "q28": "Mono-faction and 6-female requirement pushes players to pull and invest",
+    "q29": -2,
+    "q30": "Stage conditions effectively force gacha spending"
+  },
+  {
+    "q0": 45214569,
+    "q27": -2,
+    "q28": "Too grindy and paywalled; only whales recommended",
+    "q29": -2,
+    "q30": "Heavy spend-centric design",
+    "q31": -2,
+    "q32": "Benefits are extremely scarce"
+  },
+  {
+    "q0": 45214016,
+    "q9": -2,
+    "q10": "After day 14 there is nothing meaningful to do"
+  },
+  {
+    "q0": 45213638,
+    "q3": "Turn-based card battler with PVP and tower (auto-skip) progression",
+    "q4": -2,
+    "q5": "PVP feels dumb; tower cleared by skipping; little to do after a few days",
+    "q9": -2,
+    "q10": "Content is exhausted quickly leading to a drought",
+    "q11": -2,
+    "q12": "National team balance collapsed"
+  },
+  {
+    "q0": 45213463,
+    "q11": -2,
+    "q12": "Only fire-burn team is viable; other factions feel unplayable",
+    "q13": -2,
+    "q14": "Recommends only the fire team",
+    "q31": -2,
+    "q32": "Welfare is extremely poor"
+  },
+  {
+    "q0": 45212622,
+    "q9": -2,
+    "q10": "High difficulty and paywalling stall progress",
+    "q29": -2,
+    "q30": "Must pay for stamina and progression",
+    "q31": -2,
+    "q32": "Daily income too low (about 100 premium currency); roughly one 10-pull per month",
+    "q25": -2,
+    "q26": "Pulls are too expensive relative to income; high costs for 5-flame units and exclusives",
+    "q27": -2,
+    "q28": "Non-spenders get hard-stuck by resource scarcity"
+  },
+  {
+    "q0": 45211583,
+    "q9": -2,
+    "q10": "Most players stop logging in after half a month"
+  },
+  {
+    "q0": 44957217,
+    "q9": -2,
+    "q10": "Players feel it only has 14 days of content"
+  },
+  {
+    "q0": 44366731,
+    "q31": -2,
+    "q32": "Benefits basically none",
+    "q21": -2,
+    "q22": "Perceived cash-grab with no long-term operation plan",
+    "q33": true,
+    "q34": "Sequel to San Huan (Three Fantasy) 1; compared unfavorably to 1",
+    "q41": "Story/script accused of carrying a 'private agenda'; art and systems feel regressed vs 1"
+  },
+  {
+    "q0": 45210614,
+    "q9": -1,
+    "q10": "After spending stamina, there is nothing to do daily",
+    "q41": "Some story art looks AI-generated"
+  },
+  {
+    "q0": 45167619,
+    "q11": -2,
+    "q12": "Fire burn team is grossly overpowered across modes",
+    "q13": -2,
+    "q14": "Non-fire comps underperform; even large power gaps get overturned by fire",
+    "q9": -2,
+    "q10": "Stamina/resource gating, forced co-op queueing, and boss number checks block progress",
+    "q31": -2,
+    "q32": "Rewards stingy; '1000 pulls' heavily time-gated; events give little",
+    "q29": -2,
+    "q30": "Resource starvation and co-op gating pressure spending",
+    "q21": -2,
+    "q22": "No meaningful optimizations in a month; issues persist",
+    "q23": true,
+    "q24": "Targeted banner pity exists but event rewards do not even reach half a pity",
+    "q25": -2,
+    "q26": "Pull income is too low; pity is hard to reach",
+    "q41": "Main story unfinished/OOC; forced co-op; misleading '1000 pulls' marketing; underwhelming art/skins"
+  },
+  {
+    "q0": 45048173,
+    "q4": -1,
+    "q5": "Card battler lacks fun with overbearing tutorials and weak content",
+    "q9": -2,
+    "q10": "Feels empty and unfocused"
+  },
+  {
+    "q0": 45209574,
+    "q31": -2,
+    "q32": "Hard to save even for a 10-pull after initial period",
+    "q29": -2,
+    "q30": "Constant gift-pack pop-ups like a browser game",
+    "q33": true,
+    "q34": "Tried due to San Huan 1 sentiment; sequel disappointed"
+  },
+  {
+    "q0": 45209292,
+    "q11": -2,
+    "q12": "Balance is poor and the game forces building a second team without resources",
+    "q9": -2,
+    "q10": "Second team requirement with no resources stalls progress"
+  },
+  {
+    "q0": 45208919,
+    "q31": -1,
+    "q32": "Good welfare for first 14 days; drops off afterward",
+    "q9": -1,
+    "q10": "Early progress OK; post-14 days slows sharply",
+    "q27": -1,
+    "q28": "F2P can build one team; second team requirement hurts"
+  },
+  {
+    "q0": 45208904,
+    "q11": -2,
+    "q12": "Wu fire burns clears tower 800 and beats much higher power teams; other factions struggle",
+    "q13": -2,
+    "q14": "Only fire team reliably clears hardest content",
+    "q9": -2,
+    "q10": "Stalled at level 80; tower quickly exhausted and dailies feel worthless",
+    "q27": -2,
+    "q28": "Resources only enough for one team; second team requires spending",
+    "q29": -2,
+    "q30": "Holiday activities are paid-heavy with little F2P support",
+    "q31": -2,
+    "q32": "Monthly savings about 100 pulls at best; most resources are one-time"
+  },
+  {
+    "q0": 45208351,
+    "q4": -2,
+    "q5": "Story and combat are boring",
+    "q11": -2,
+    "q12": "Faction balance is extremely poor",
+    "q41": "Male-male oriented character setup disliked"
+  },
+  {
+    "q0": 44958136,
+    "q11": -1,
+    "q12": "Zhou Yu singled out as overtuned"
+  },
+  {
+    "q0": 45207682,
+    "q41": "Poor optimization/servers"
+  },
+  {
+    "q0": 45207169,
+    "q9": -2,
+    "q10": "Very low playability vs the predecessor",
+    "q33": true,
+    "q34": "Compared unfavorably to San Huan 1"
+  },
+  {
+    "q0": 45206445,
+    "q31": -2,
+    "q32": "After launch period, hard to get pulls; stamina-gated",
+    "q9": -2,
+    "q10": "Without stamina and pulls, progress halts",
+    "q29": -2,
+    "q30": "Feels like paying is required to pull"
+  },
+  {
+    "q0": 45204239,
+    "q29": -2,
+    "q30": "Perceived forced monetization",
+    "q31": -2,
+    "q32": "Severe resource scarcity",
+    "q21": -2,
+    "q22": "Low production capacity and content"
+  },
+  {
+    "q0": 45204212,
+    "q11": -2,
+    "q12": "Balance is very poor"
+  },
+  {
+    "q0": 45203404,
+    "q9": -2,
+    "q10": "Progress hard-stuck due to stamina and second team wall",
+    "q27": -2,
+    "q28": "Stamina effectively only buyable with RMB widens power gap",
+    "q29": -2,
+    "q30": "Stamina monetization pressures spending"
+  },
+  {
+    "q0": 45031212,
+    "q31": -2,
+    "q32": "Resources are too few; daily log-in then nothing to do",
+    "q41": "Zhu Lu mode design feels untested"
+  },
+  {
+    "q0": 45202590,
+    "q21": -2,
+    "q22": "Stingy operation and slow updates for 2025"
+  },
+  {
+    "q0": 45202326,
+    "q31": -1,
+    "q32": "Monthly sign-in feels filler; unlucky gacha blocks play",
+    "q13": -1,
+    "q14": "Strategy meaningless if you lack key cards"
+  },
+  {
+    "q0": 45200558,
+    "q31": -2,
+    "q32": "After day 14, premium currency and pulls are nearly unattainable",
+    "q27": -2,
+    "q28": "Important resources are monthly and gated behind high difficulty",
+    "q33": true,
+    "q34": "Welfare worse than San Huan 1"
+  },
+  {
+    "q0": 45200557,
+    "q11": -2,
+    "q12": "One kingdom dominates; events also poor",
+    "q21": -1,
+    "q22": "Events perceived as low quality"
+  },
+  {
+    "q0": 45152345,
+    "q11": -2,
+    "q12": "Wu is strong; Qun faction extremely weak even for spenders"
+  },
+  {
+    "q0": 45199902,
+    "q9": -2,
+    "q10": "After 14 days there's no content; nearly no rewards",
+    "q31": -2,
+    "q32": "Only minimal 'login to collect' rewards"
+  },
+  {
+    "q0": 45199523,
+    "q9": -2,
+    "q10": "Perceived as only playable for 14 days",
+    "q33": true,
+    "q34": "Players lament a good IP being wasted"
+  },
+  {
+    "q0": 45199510,
+    "q4": -1,
+    "q5": "Combat is overly simple like a 10-year-old game"
+  },
+  {
+    "q0": 45198318,
+    "q31": -2,
+    "q32": "Daily output is poor; freebies insufficient even for one gear upgrade",
+    "q9": -2,
+    "q10": "Progress gating is severe; 20 days without a full set",
+    "q15": "Gear farming and 4-piece set collection/upgrade loop",
+    "q19": -2,
+    "q20": "Set pieces rarely complete; gear drops are scarce and stingy"
+  },
+  {
+    "q0": 45198061,
+    "q11": -2,
+    "q12": "Only fire team is viable; little real strategy",
+    "q13": -2,
+    "q14": "Single dominant team comp",
+    "q21": -1,
+    "q22": "Feels like a rolling-server numbers game"
+  },
+  {
+    "q0": 45197043,
+    "q31": -2,
+    "q32": "Pull resources are one-time; activities are scarce",
+    "q11": -2,
+    "q12": "Fire dominates both PVE and PVP; other factions lose even with higher spend",
+    "q21": -1,
+    "q22": "Few events",
+    "q25": -2,
+    "q26": "'Permanent half-price' is inflated pricing then halved"
+  },
+  {
+    "q0": 45196255,
+    "q15": "Equipment acquisition and upgrade loop",
+    "q19": -2,
+    "q20": "Obtaining equipment is unreasonably difficult",
+    "q41": "Equipment acquisition feels unacceptable"
+  },
+  {
+    "q0": 45194548,
+    "q3": "Turn-based battles that often devolve into number checks; some manual strategy",
+    "q4": -1,
+    "q5": "Either stat-check or half-baked strategy",
+    "q15": "Gear forging/upgrading with hammers and probabilistic tier-up; talent system is gacha-like with locked slots requiring premium currency",
+    "q17": -2,
+    "q18": "Side systems are complex and heavily RNG-reliant with locks",
+    "q19": -1,
+    "q20": "High material use with poor outcomes (e.g., many rolls without gold talents)",
+    "q41": "Talent RNG and locked slots feel bad; overall feels semi-finished"
+  },
+  {
+    "q0": 45194518,
+    "q31": -2,
+    "q32": "After day 14, wish/pull currency becomes very hard to obtain",
+    "q27": -1,
+    "q28": "Without spending you can only build one team",
+    "q9": -1,
+    "q10": "Progress slows sharply past two weeks"
+  },
+  {
+    "q0": 44953115,
+    "q11": -2,
+    "q12": "Everyone plays fire; worse balance than 1",
+    "q13": -2,
+    "q14": "Other comps (e.g., heroines) no longer viable",
+    "q33": true,
+    "q34": "Compared against San Huan 1"
+  },
+  {
+    "q0": 45193620,
+    "q11": -2,
+    "q12": "Only Wu fire is viable; second team required and hard to build",
+    "q13": -2,
+    "q14": "Two-team requirement plus one dominant comp kills variety",
+    "q9": -2,
+    "q10": "Progression collapses after day 14; severe stat walls around 550F+",
+    "q31": -2,
+    "q32": "Most resources are one-time; daily hammers yield few items",
+    "q27": -2,
+    "q28": "Building a second team without spending is near-impossible",
+    "q15": "Equipment forging via daily hammers; monthly shop refresh for units and weapons",
+    "q19": -2,
+    "q20": "Daily hammers produce few items; set completion takes very long"
+  },
+  {
+    "q0": 45192106,
+    "q31": -2,
+    "q32": "Daily login cannot even make 1 pull; no hammers; no progress",
+    "q9": -2,
+    "q10": "Hard-stuck in tower and arena despite some spend",
+    "q29": -2,
+    "q30": "Zero-resource loop pressures spending"
+  },
+  {
+    "q0": 45191117,
+    "q9": -2,
+    "q10": "Quit within two weeks despite buying passes; unit choices felt punished",
+    "q33": true,
+    "q34": "Compared to San Huan 1's better experience"
+  },
+  {
+    "q0": 45190851,
+    "q4": -2,
+    "q5": "Bosses are pure stat checks with anti-counter mechanics; little real strategy",
+    "q31": -2,
+    "q32": "After a week, premium currency/pulls effectively zero",
+    "q9": -2,
+    "q10": "Daily growth becomes zero within half a month",
+    "q11": -2,
+    "q12": "PVP is dominated by fire comps",
+    "q29": -2,
+    "q30": "Zero daily pull income urges spending",
+    "q23": true,
+    "q24": "Banner pity requires a fixed number of pulls; typical daily income cannot reach it",
+    "q25": -2,
+    "q26": "Pull income too low relative to pity threshold"
+  },
+  {
+    "q0": 44968272,
+    "q29": -2,
+    "q30": "Forum and in-game flooded with ads and gift packs",
+    "q41": "Co-op matchmaking cannot find players; low population"
+  },
+  {
+    "q0": 45188857,
+    "q11": -1,
+    "q12": "Only burn feels good; other archetypes struggle",
+    "q31": -2,
+    "q32": "After 14 days there are no resources to switch teams"
+  },
+  {
+    "q0": 45188779,
+    "q31": -2,
+    "q32": "Daily task rewards feel meaningless",
+    "q9": -2,
+    "q10": "No content after around 10 days",
+    "q11": -2,
+    "q12": "Balance issues (e.g., Guan Yu underperforms)"
+  },
+  {
+    "q0": 45188615,
+    "q31": -2,
+    "q32": "All rewards are one-time",
+    "q9": -2,
+    "q10": "Immediate content drought after the first 10 days"
+  },
+  {
+    "q0": 45188034,
+    "q31": -2,
+    "q32": "After early one-time resources, welfare is shockingly poor",
+    "q21": -1,
+    "q22": "Waiting on 6/9 patch for improvements"
+  },
+  {
+    "q0": 45187464,
+    "q23": true,
+    "q24": "Consistently only hits pity, implying a pity system",
+    "q25": -2,
+    "q26": "Low base rates force pity",
+    "q11": -2,
+    "q12": "Wu dominates; poor balance"
+  },
+  {
+    "q0": 44324998,
+    "q29": -2,
+    "q30": "Only RMB packs; no jade bundles; blatant monetization",
+    "q31": -2,
+    "q32": "Extremely stingy rewards",
+    "q21": -1,
+    "q22": "Content perceived as lacking"
+  },
+  {
+    "q0": 45186800,
+    "q31": -2,
+    "q32": "No daily free pull; progression tightly tied to gacha",
+    "q29": -2,
+    "q30": "Nested loops force spending",
+    "q9": -2,
+    "q10": "Hard-stuck without pulls",
+    "q33": true,
+    "q34": "Compared unfavorably to San Huan 1"
+  },
+  {
+    "q0": 45186207,
+    "q11": -2,
+    "q12": "Only fire comp is viable; others get stomped even by -500k power",
+    "q13": -2,
+    "q14": "Single dominant archetype"
+  },
+  {
+    "q0": 45176348,
+    "q31": -2,
+    "q32": "No daily free pull; resource scarcity noted",
+    "q41": "Requests an equipment exchange system; notes Sun Shangxiang arrow behavior inconsistency"
+  },
+  {
+    "q0": 45185280,
+    "q29": -2,
+    "q30": "Forced second team, stingy resources, half-price bait, and leaderboard incentives push spending",
+    "q31": -2,
+    "q32": "Daily resources insufficient for even one pull; upgrade mats extremely scarce",
+    "q27": -2,
+    "q28": "Major rewards are time/leaderboard-gated; F2P access is limited",
+    "q15": "Equipment system tied to PVE with RNG gear drops and scarce upgrade materials",
+    "q19": -2,
+    "q20": "Gear drops are random; upgrade mats mostly from dismantling or paying",
+    "q21": -1,
+    "q22": "Few activities; only one new unit and one skin since launch",
+    "q11": -2,
+    "q12": "PVP dominated by fire; buffs to others ineffective",
+    "q41": "Counter-intuitive mechanics (e.g., indirect damage triggering lifesteal); rolling-server model"
+  },
+  {
+    "q0": 45184941,
+    "q41": "Player questions whether designers play their own game"
+  },
+  {
+    "q0": 45184830,
+    "q31": -2,
+    "q32": "Daily resources are not enough for one pull"
+  },
+  {
+    "q0": 45184816,
+    "q31": -2,
+    "q32": "Daily resources not enough to draw; feels half-finished"
+  },
+  {
+    "q0": 45184782,
+    "q31": -2,
+    "q32": "Daily resources not enough for one pull and cannot buy stamina",
+    "q9": -2,
+    "q10": "Within two weeks there is no main story or activities"
+  },
+  {
+    "q0": 45184286,
+    "q11": -2,
+    "q12": "Wei lacks AoE; fire applies 20 burn stacks in 2 turns and wins across modes",
+    "q13": -2,
+    "q14": "Not picking fire at the start feels like a loss",
+    "q6": "Boss phases give 100% physical then 100% magic immunity, which burn DoT bypasses",
+    "q7": -1,
+    "q8": "Dominant burn strategy makes counters irrelevant"
+  },
+  {
+    "q0": 45184112,
+    "q31": -2,
+    "q32": "From day 10, only 5 minutes daily with zero rewards or improvement",
+    "q9": -2,
+    "q10": "Very limited content and rewards"
+  },
+  {
+    "q0": 45184060,
+    "q9": -2,
+    "q10": "No real playability"
+  },
+  {
+    "q0": 45071136,
+    "q27": -2,
+    "q28": "Zhu Lu forces building all factions and excludes F2P/low spenders",
+    "q29": -2,
+    "q30": "Mode design feels like a paywall"
+  },
+  {
+    "q0": 45183690,
+    "q11": -2,
+    "q12": "Poor balance",
+    "q31": -2,
+    "q32": "Resource scarcity; shallow story",
+    "q29": -2,
+    "q30": "Gift packs seen as pure cash grab"
+  },
+  {
+    "q0": 45183647,
+    "q9": -2,
+    "q10": "Content drought after two weeks"
+  },
+  {
+    "q0": 44629927,
+    "q21": -1,
+    "q22": "Perceived developer abandonment"
+  },
+  {
+    "q0": 45183114,
+    "q33": true,
+    "q34": "San Huan 1 old player reference; suggests a different style might be better"
+  },
+  {
+    "q0": 45183055,
+    "q41": "Art criticized as BL/otome-leaning with messy relationships"
+  },
+  {
+    "q0": 45182087
+  },
+  {
+    "q0": 45182012,
+    "q31": -2,
+    "q32": "After day 14, zero resources; holiday 'events' are only sign-ins",
+    "q29": -2,
+    "q30": "Pay windows everywhere, including limited-time recharge prompts on level-up",
+    "q27": -2,
+    "q28": "Only paying leads to meaningful improvement",
+    "q21": -1,
+    "q22": "Lack of event content"
+  },
+  {
+    "q0": 45181940,
+    "q33": true,
+    "q34": "Leverages San Huan 1 IP",
+    "q29": -2,
+    "q30": "Heavy monetization with limited progression",
+    "q31": -2,
+    "q32": "Resource drip too low even after spending",
+    "q9": -2,
+    "q10": "Daily sweep only; Zhu Lu requires high investment and feels stingy",
+    "q27": -2,
+    "q28": "Second team required but resources insufficient"
+  },
+  {
+    "q0": 45181896,
+    "q23": true,
+    "q24": "Pity exists but SSRs rarely drop before pity; '1000 pulls' spread over long grind",
+    "q25": -2,
+    "q26": "Poor rates and misleading '1000 pulls' framing",
+    "q31": -2,
+    "q32": "Very few pulls given early; requires heavy grind",
+    "q9": -1,
+    "q10": "Gameplay feels outdated"
+  },
+  {
+    "q0": 45180707,
+    "q31": -2,
+    "q32": "After newbie activities, no resources",
+    "q27": -2,
+    "q28": "Non-payers feel excluded",
+    "q29": -2,
+    "q30": "Perceived 'pay to play'"
+  },
+  {
+    "q0": 45180414,
+    "q31": -2,
+    "q32": "Cannot meet basic wish pulls daily; all resources are one-time",
+    "q29": -2,
+    "q30": "Events require high investment; regret buying monthly card"
+  },
+  {
+    "q0": 45045098,
+    "q31": -2,
+    "q32": "Daily grants only shop currencies; no gacha resources"
+  },
+  {
+    "q0": 45178967,
+    "q31": -2,
+    "q32": "No cyclical resources; progress locked behind star/awakening",
+    "q29": -2,
+    "q30": "Heavy marketing and ignoring feedback; strong pay orientation",
+    "q41": "Units need 6-star to be usable; new units gated behind pulls"
+  },
+  {
+    "q0": 45178946,
+    "q9": -2,
+    "q10": "Without resources you cannot beat content"
+  },
+  {
+    "q0": 45178391,
+    "q9": -2,
+    "q10": "Very little content",
+    "q11": -2,
+    "q12": "Balance is very bad",
+    "q31": 1,
+    "q32": "Reviewer felt welfare was okay"
+  },
+  {
+    "q0": 45177568,
+    "q31": -2,
+    "q32": "After seven days there are no pulls",
+    "q9": -2,
+    "q10": "Only a 'seven-day fun' experience"
+  },
+  {
+    "q0": 45030484,
+    "q31": -2,
+    "q32": "After seven-day event, daily about 100 premium currency (~0.5 pull)"
+  },
+  {
+    "q0": 44977809,
+    "q41": "Devs ignored survey feedback; false advertising; unpleasant story; gear system changed from fishing to hammering"
+  },
+  {
+    "q0": 45176853,
+    "q31": -2,
+    "q32": "Requests more routine rewards similar to 1 (e.g., daily ~1500) and lunch/dinner stamina",
+    "q21": -1,
+    "q22": "Needs regular events to sustain"
+  },
+  {
+    "q0": 45176297,
+    "q33": true,
+    "q34": "Compares 2 to 1; notes missing 'hot springs' fanservice that 1 leveraged",
+    "q41": "Art not attractive; conservative tone vs competitors"
+  },
+  {
+    "q0": 45170098,
+    "q11": -2,
+    "q12": "Zhu Lu 75 felt fire-only viable",
+    "q31": -2,
+    "q32": "Daily resources not enough for one pull; still need to buy stamina"
+  },
+  {
+    "q0": 45174776,
+    "q21": -1,
+    "q22": "Requests stronger events, faster updates, more wish tickets; gear swap desired",
+    "q41": "Asks for gear swap and notes burn falls off after 480F"
+  },
+  {
+    "q0": 45174720,
+    "q11": -2,
+    "q12": "Fire team overpowered; beats higher power by ~100k"
+  },
+  {
+    "q0": 45174243,
+    "q11": -2,
+    "q12": "Very cheap fire team outperforms heavy spenders"
+  },
+  {
+    "q0": 45174232,
+    "q11": -2,
+    "q12": "Fire dominates; Qun especially weak",
+    "q31": -2,
+    "q32": "No daily improvement; passes do not give tickets",
+    "q27": -2,
+    "q28": "Cannot build a second team without resources",
+    "q6": "PVE stages are puzzle-like; PVP is time-consuming",
+    "q7": -1,
+    "q8": "Overly brainy PVE and grindy PVP not fitting for a mobile card game"
+  }
+]

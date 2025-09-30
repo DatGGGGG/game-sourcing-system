@@ -1,0 +1,721 @@
+[
+  {
+    "q0": 44327915,
+    "q29": -2,
+    "q30": "Return-themed server seen as another monetization attempt; no recharge rebate for returning players.",
+    "q41": "Complaint about 'Qianji' limited server and lack of recharge rebate for returning users."
+  },
+  {
+    "q0": 46411680,
+    "q3": "Turn-based with an action bar/turn order system plus programmable auto (automation codes) and speed tuning driving tactics.",
+    "q4": 1,
+    "q5": "Praises the unique action bar + auto-code + speed system.",
+    "q6": "Speed tuning, action bar manipulation, cleanse/anti-push mechanics, multiple counter-picks to Fire, varied meta lineups.",
+    "q7": 2,
+    "q8": "Highlights distinctive turn-order/speed tactics and multiple viable counters.",
+    "q9": 1,
+    "q10": "Difficulty and grind lowered; more activities and welfare improve playability.",
+    "q11": 1,
+    "q12": "Fire dominance being addressed; several factions/teams are playable now.",
+    "q13": 1,
+    "q14": "Lists multiple viable lineups (Double Pull Fire, Yuan, Hua Tuo Poison, etc.).",
+    "q15": "Side systems like Hot Spring, Fishing/Collections, Merchant shop, Auction House, sign-ins, and light life activities.",
+    "q16": false,
+    "q17": 0,
+    "q18": "Several side systems exist but are straightforward fillers.",
+    "q19": 1,
+    "q20": "Improved welfare and new systems contribute resources and ease PvE.",
+    "q21": 2,
+    "q22": "Many new modes/systems added within four months.",
+    "q27": 1,
+    "q28": "States zero-spend can play; micro-spend has good value.",
+    "q29": 1,
+    "q30": "Whales have spend outlets via skins/phantom valley, but F2P is still viable.",
+    "q31": 1,
+    "q32": "Notes welfare and event rewards increased significantly.",
+    "q33": true,
+    "q34": "Direct sequel to Three Kingdoms Fantasy Continent (Sango Fantasy) with shared universe and themed servers.",
+    "q35": 1,
+    "q36": "Sequel status and comparable special server model to the first game.",
+    "q41": "Mentions 'Qianji' limited server with higher welfare and early access to new content."
+  },
+  {
+    "q0": 46477943,
+    "q41": "Asks why models changed from 2D in tests to 3D at launch."
+  },
+  {
+    "q0": 46462818,
+    "q9": -1,
+    "q10": "Early game okay but becomes very hard without spending later.",
+    "q27": -1,
+    "q28": "Non-paying users struggle to compete with heavy spenders.",
+    "q29": -2,
+    "q30": "States you cannot beat big spenders; late-game pressure is heavy."
+  },
+  {
+    "q0": 46443127,
+    "q21": -1,
+    "q22": "Player asking when the next update is coming."
+  },
+  {
+    "q0": 45033197,
+    "q29": -2,
+    "q30": "Spent a lot yet not enjoying; poor spend satisfaction."
+  },
+  {
+    "q0": 45002415,
+    "q4": 1,
+    "q5": "Notes improved state and good strategy feel.",
+    "q6": "Strategy-focused gameplay and lineup planning.",
+    "q7": 1,
+    "q21": 1,
+    "q22": "Perceives the game is improving."
+  },
+  {
+    "q0": 46395064,
+    "q4": 1,
+    "q5": "Finds it fun and better than 1 with strategy.",
+    "q6": "Strategic lineup play.",
+    "q7": 1,
+    "q13": -1,
+    "q14": "Complains current hero roster is too small; wants more heroes.",
+    "q21": -1,
+    "q22": "Requests faster hero releases.",
+    "q33": true,
+    "q34": "Compared favorably against Three Kingdoms Fantasy Continent 1."
+  },
+  {
+    "q0": 46392408,
+    "q3": "Turn-based with a focus on combat fun and tactical decision-making.",
+    "q4": 1,
+    "q5": "Acknowledges the intent to build combat fun/strategy.",
+    "q6": "Tactical stage-solving and lineup experimentation.",
+    "q7": 1,
+    "q9": -1,
+    "q10": "Slow growth pace makes it boring after the first week.",
+    "q21": -1,
+    "q22": "Few activities and limited gameplay variety.",
+    "q31": -2,
+    "q32": "States welfare is poor and resource trickle is slow."
+  },
+  {
+    "q0": 46374394,
+    "q3": "Highlights a unique battle mechanism distinct from peers.",
+    "q4": 1,
+    "q5": "Calls out uniqueness positively."
+  },
+  {
+    "q0": 44990995,
+    "q9": -1,
+    "q10": "Found it boring enough to quit after playing since launch.",
+    "q41": "Notes low retention fun."
+  },
+  {
+    "q0": 44980001,
+    "q21": -1,
+    "q22": "Mentions server stability issues around launch and disliked timed legion events.",
+    "q29": -2,
+    "q30": "Accuses 'thousand pulls' welfare of being misleading; strong monetization complaints.",
+    "q41": "Reports login spinning/lag, dislikes scheduled legion events, criticizes art style and marketing claims."
+  },
+  {
+    "q0": 46366374,
+    "q9": -1,
+    "q10": "Progress halts after consuming newbie rewards; becomes a two-week-and-run style.",
+    "q21": -1,
+    "q22": "Criticizes quality of new side content like Hot Spring as perfunctory.",
+    "q41": "Mentions rolling servers, AI art accusation, and weaker than the first game."
+  },
+  {
+    "q0": 46288675,
+    "q9": -1,
+    "q10": "After the newbie period, growth slows and becomes unfun.",
+    "q11": -1,
+    "q12": "States large power gaps between lineups.",
+    "q31": -1,
+    "q32": "Welfare not as good later."
+  },
+  {
+    "q0": 44978681,
+    "q1": true,
+    "q2": "Sexualized/BL-bait presentation and female-gaze oriented male art noted.",
+    "q4": -2,
+    "q5": "Calls PvP a joke and labels the game a 'pay-to-win card' with pretend strategy.",
+    "q6": "Multi-team and faction-restricted events with ranking rewards, PvE tuning that demands specific counters.",
+    "q7": -2,
+    "q8": "Says strategy is overshadowed by spending and meta-chasing.",
+    "q9": -2,
+    "q10": "Content called boring and treadmill-like with constant new limiteds.",
+    "q11": -2,
+    "q12": "New limited gods invalidate old systems; balance swings and whales dominate.",
+    "q13": -1,
+    "q14": "Viability constrained; events demand many specific units/factions.",
+    "q21": 1,
+    "q22": "Monthly new limited heroes and gear cycles.",
+    "q23": true,
+    "q24": "Limited 'mi-style' gacha with small and big pity; approx. 10k jade small pity, 20k jade big pity for one copy; exclusives and 10+ copies needed for 5-fire.",
+    "q25": -2,
+    "q26": "High pity costs and copy/weapon requirements make pulls very expensive.",
+    "q27": -2,
+    "q28": "Non-payers cannot realistically access ranking/content tied to limited units.",
+    "q29": -2,
+    "q30": "Heavy pressure via limited banners, stat skins, auction-only heroes.",
+    "q31": -2,
+    "q32": "Opening welfare one-off; ongoing rewards tied to rank and seen as stingy.",
+    "q33": true,
+    "q34": "Sequel leveraging the Three Kingdoms Fantasy Continent IP.",
+    "q35": 1,
+    "q36": "Direct continuation of the IP with reused themes and systems.",
+    "q41": "States skins add stats, auction-only limited heroes, expensive/‘fake half-price’ skins."
+  },
+  {
+    "q0": 45657809,
+    "q9": -1,
+    "q10": "Guild content blocked because not enough active members to hit participation thresholds.",
+    "q41": "Guild boss requires 10 participants to get rewards; low population hurts progression."
+  },
+  {
+    "q0": 46283297,
+    "q9": -1,
+    "q10": "Became boring; a specific Huang Zhong event caused player to quit.",
+    "q21": -1,
+    "q22": "Event design dissatisfaction."
+  },
+  {
+    "q0": 46278242,
+    "q3": "Turn-based; some stages force manual play to learn mechanics and roles (tank/heal/support/DPS).",
+    "q4": 1,
+    "q5": "Enjoys designed stages requiring manual thought for a sense of achievement.",
+    "q6": "Lineup building with roles, faction synergies, manual-only puzzle stages, early no-loss swapping to test teams.",
+    "q7": 1,
+    "q8": "Encourages understanding of skills/effects; some tactical variety.",
+    "q9": -1,
+    "q10": "After 14-day newbie phase, progression slows sharply and content is limited.",
+    "q11": -1,
+    "q12": "Fire lineup dominates PvP; switching is slow without spending.",
+    "q13": 0,
+    "q14": "Roster still small; one team forms fast, multiple teams take long.",
+    "q15": "Light daily loop: claim AFK resources, fish, guild tasks, and shop visits.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Side loops are simple and quick dailies.",
+    "q19": -1,
+    "q20": "Side loops give few pulls; resources feel scarce after newbie period.",
+    "q21": -1,
+    "q22": "Limited chapters (about 22) and few side modes; long content droughts.",
+    "q25": -1,
+    "q26": "Estimates ~10 RMB per pull (5–6 RMB discounted), considered costly.",
+    "q27": -1,
+    "q28": "Non-paying can play but face slow growth and difficulty changing teams.",
+    "q29": -1,
+    "q30": "Not overtly forced but slow resource flow pressures spending for smoother progress.",
+    "q31": -1,
+    "q32": "No daily free single; few pull sources after the initial 100 pulls.",
+    "q33": true,
+    "q34": "Direct sequel to Three Kingdoms Fantasy Continent.",
+    "q35": 1,
+    "q36": "Keeps the IP’s art/music vibe and mechanics lineage.",
+    "q41": "Mentions low server population and gear/awakening/transfer resource bottlenecks."
+  },
+  {
+    "q0": 45169599,
+    "q11": -2,
+    "q12": "Says only Fire is viable; balance is poor.",
+    "q29": -1,
+    "q30": "Introduced auction-only new hero and stat skins; pressures spending.",
+    "q31": -1,
+    "q32": "Welfare inferior to the first game; mostly one-time rewards.",
+    "q33": true,
+    "q34": "Compared negatively with the first entry."
+  },
+  {
+    "q0": 45078370,
+    "q21": 1,
+    "q22": "Notes improvements over time including more welfare and content.",
+    "q29": -1,
+    "q30": "Skins add global stats (e.g., +2% ATK), creating future paywall pressure.",
+    "q31": 1,
+    "q32": "Later welfare became solid compared to launch.",
+    "q41": "Warns stat skins may create a widening gap over time."
+  },
+  {
+    "q0": 44341334,
+    "q9": -1,
+    "q10": "Played for months then uninstalled, calling it a bad experience.",
+    "q41": "Mentions planner by name but mainly expresses persistent dissatisfaction."
+  },
+  {
+    "q0": 46210627,
+    "q21": 0,
+    "q22": "Some anti-user designs were later adjusted (e.g., donation鉴定 flow).",
+    "q41": "Fixed-time guild boss buff window (30 min) and a 15-minute betting window; tedious donation鉴定 UX."
+  },
+  {
+    "q0": 44959853,
+    "q31": 1,
+    "q32": "Launch welfare was poor, now improved.",
+    "q41": "Low active population; suggests recruiting more new players."
+  },
+  {
+    "q0": 46201722,
+    "q3": "Some auto stages fail but can be passed with manual play and better lineup synergy.",
+    "q4": 1,
+    "q5": "Finds the strategy manageable and fun when thinking through stages.",
+    "q6": "Team roles synergy (tank, healer, support, DPS).",
+    "q7": 1,
+    "q31": 1,
+    "q32": "Daily routine yields nearly a 10-pull worth of currency; welfare deemed okay."
+  },
+  {
+    "q0": 44983508,
+    "q9": -1,
+    "q10": "Increasingly boring with no new story or content.",
+    "q21": -2,
+    "q22": "Complains of lack of new story/content updates."
+  },
+  {
+    "q0": 46182391,
+    "q3": "Turn-based; some stages require manual thinking to clear.",
+    "q4": 1,
+    "q5": "Optimization good; thoughtful manual clears feel fair.",
+    "q6": "Role-based team building with multiple archetypes (tank/heal/support/DPS).",
+    "q7": 1,
+    "q31": 1,
+    "q32": "Says daily routine nearly grants a 10-pull; not very stingy.",
+    "q41": "Too many possible lineups cause confusion; wants recommended builds."
+  },
+  {
+    "q0": 46023167,
+    "q9": -2,
+    "q10": "Quickly devolves into daily log-in chores; forced multi-team progression stalls non-spenders.",
+    "q29": -2,
+    "q30": "Labels it a cash-grab with overpriced skins and constant limited must-pulls.",
+    "q31": -2,
+    "q32": "Beyond early resources, ongoing welfare feels inadequate.",
+    "q41": "Criticizes art/L2D quality, gear duplication across teams, and poor value skins."
+  },
+  {
+    "q0": 46158298,
+    "q9": -2,
+    "q10": "After a week content runs out and growth stops; PvP is poor.",
+    "q31": -1,
+    "q32": "Welfare feels small/insufficient.",
+    "q41": "PvP criticized as a joke; gameplay lacks innovation."
+  },
+  {
+    "q0": 46150031,
+    "q29": -1,
+    "q30": "Stat skins risk creating a bottomless numbers pit similar to the first game.",
+    "q41": "Concerns about skins adding stats."
+  },
+  {
+    "q0": 45035384,
+    "q11": -1,
+    "q12": "Balance fixes claimed (Wang Yi vs Fire) didn’t land; Poison got worse.",
+    "q41": "Disappointed by balance tuning outcomes."
+  },
+  {
+    "q0": 45258839,
+    "q21": 1,
+    "q22": "Later improvements in welfare and systems after earlier issues.",
+    "q31": 1,
+    "q32": "Welfare now acceptable compared to launch.",
+    "q41": "Notes earlier unaddressed cheating (auto-clicker) and low output at launch."
+  },
+  {
+    "q0": 46130764,
+    "q21": 1,
+    "q22": "Says the game is now improved.",
+    "q31": 1,
+    "q32": "States welfare is abundant now.",
+    "q11": 1,
+    "q12": "Claims better balance among heroes."
+  },
+  {
+    "q0": 45866343,
+    "q4": 1,
+    "q5": "Finds strategy modes enjoyable; suggests it’s good for strategy card players.",
+    "q6": "Multiple modes (Tactics, History Battles, dueling) with counter-picks; some ‘no wasted hero’ design.",
+    "q7": 2,
+    "q9": 0,
+    "q10": "Earlier content slow; later welfare/modes improved, balancing the experience.",
+    "q11": 0,
+    "q12": "Early Fire overpowered; later balance and access improved.",
+    "q21": 0,
+    "q22": "Content updates slow, but some systems and welfare were improved later.",
+    "q23": true,
+    "q24": "Limited banners with pity; complaints about ‘mi-style’ pools and off-banner dupes.",
+    "q27": 1,
+    "q28": "New servers and events make F2P viable with planning.",
+    "q29": -1,
+    "q30": "Limited pools, dupes, and monthly banners pressure pulling new units.",
+    "q31": 1,
+    "q32": "Monthly welfare raised (e.g., up to ~90k jade with events); better than launch.",
+    "q41": "Dupes convert to low-value currency; skins pricey; battle pass weak; guild/event tweaks improved later."
+  },
+  {
+    "q0": 46084361,
+    "q31": 1,
+    "q32": "After early stinginess, welfare increased enough for long-term play."
+  },
+  {
+    "q0": 46052259,
+    "q29": -1,
+    "q30": "High stamina/resource costs and required group content when population is low.",
+    "q31": -1,
+    "q32": "Says welfare is stingy though daily routine is quick.",
+    "q41": "Low active population; forced co-op instances; stamina depletes fast."
+  },
+  {
+    "q0": 46051056,
+    "q9": -1,
+    "q10": "New tower layer with 100% physical immunity blocks certain teams; frustrating progression.",
+    "q11": -1,
+    "q12": "Hard counters (e.g., phys immunity) and faction favoritism create imbalance.",
+    "q41": "Recommends new players not to join due to frustrating gating design."
+  },
+  {
+    "q0": 45994144,
+    "q9": -1,
+    "q10": "Less fun than the first game; leaving.",
+    "q33": true,
+    "q34": "Compared against Three Kingdoms Fantasy Continent 1."
+  },
+  {
+    "q0": 44981495,
+    "q29": -2,
+    "q30": "Accuses the game of starting to scam players.",
+    "q41": "Mentions deceptive practices without details."
+  },
+  {
+    "q0": 45964939,
+    "q31": -1,
+    "q32": "Requests more welfare; current freebies feel insufficient."
+  },
+  {
+    "q0": 45879540,
+    "q27": 1,
+    "q28": "States it’s very friendly to play casually without paying.",
+    "q41": "Lower grind than at launch."
+  },
+  {
+    "q0": 45859822,
+    "q11": 0,
+    "q12": "Initial Fire dominance; later balance improved though warns against pure stat monsters.",
+    "q21": 1,
+    "q22": "Notes balance and welfare increased over time.",
+    "q31": 1,
+    "q32": "Later welfare better than at launch."
+  },
+  {
+    "q0": 45843089,
+    "q9": -1,
+    "q10": "New daily/activity content feels overtuned.",
+    "q11": -2,
+    "q12": "Many characters require 1-fire or more to function; non-payers cannot utilize new units well.",
+    "q29": -1,
+    "q30": "Gated viability behind dupes/stars pushes spending."
+  },
+  {
+    "q0": 45795742,
+    "q9": -1,
+    "q10": "Lost interest by day two; engagement drops quickly.",
+    "q29": -1,
+    "q30": "Whales create a huge gap; mid/zero spend similar, devaluing moderate spending.",
+    "q41": "Initial allure fades fast; rating perception issue noted."
+  },
+  {
+    "q0": 45795713,
+    "q11": -2,
+    "q12": "Inconsistent banner perks (e.g., Yuan Shao lacking cumulative rewards) and faction imbalance; some roles missing (no healer in group).",
+    "q23": true,
+    "q24": "Pity/accumulated rewards present on some limited banners but not all; inconsistency called out.",
+    "q41": "Shields feel useless; poison team nerfed while Fire targeting also hits Poison."
+  },
+  {
+    "q0": 45227368,
+    "q41": "Complains about lack of compensation for Yuan Shao; later added to permanent pool."
+  },
+  {
+    "q0": 45788305,
+    "q27": 0,
+    "q28": "Playable as a casual for regular players but benefits from spending.",
+    "q29": -1,
+    "q30": "States you need to spend for a better experience."
+  },
+  {
+    "q0": 45772397,
+    "q11": -1,
+    "q12": "Fire imbalance from launch to later; interest declined.",
+    "q33": true,
+    "q34": "References goodwill from the first game being squandered."
+  },
+  {
+    "q0": 44643623,
+    "q31": 1,
+    "q32": "Welfare no longer stingy compared to launch.",
+    "q11": -1,
+    "q12": "Says Shu faction is weak and mistreated by design.",
+    "q41": "Warns Shu enjoyers to avoid."
+  },
+  {
+    "q0": 45755242,
+    "q9": -1,
+    "q10": "Less enjoyable than the predecessor.",
+    "q33": true,
+    "q34": "Compared unfavorably with the first game."
+  },
+  {
+    "q0": 45752334,
+    "q1": true,
+    "q2": "Narrative criticized for shipping/romance insertions perceived as agenda.",
+    "q41": "Complains about narrative ‘agenda’ and camerawork focus."
+  },
+  {
+    "q0": 45740980,
+    "q9": -1,
+    "q10": "Extremely high RNG grind for perfect reforges makes progression frustrating.",
+    "q41": "Weapon reforging requires thousands of rerolls; high upgrade burden."
+  },
+  {
+    "q0": 45738679,
+    "q11": -1,
+    "q12": "Most teams revolve around Fire.",
+    "q13": -1,
+    "q14": "Team diversity constrained by Fire dominance."
+  },
+  {
+    "q0": 45723604,
+    "q9": -1,
+    "q10": "Demoralized by losing to lower-power Fire team; no motivation to continue.",
+    "q11": -2,
+    "q12": "Describes Fire as massively overtuned (e.g., Lù Xùn wiping teams)."
+  },
+  {
+    "q0": 43789338,
+    "q41": "Critiques poor production values, old UI, resource squeeze with many monetization hooks; predicts early failure."
+  },
+  {
+    "q0": 45714141,
+    "q6": "Abundance of counter-cards and meta shifts before players finish building a second team.",
+    "q7": -1,
+    "q8": "Overcomplicated counter meta without adequate build time.",
+    "q41": "Complains about being forced into multiple teams too early."
+  },
+  {
+    "q0": 45245481,
+    "q21": 1,
+    "q22": "States the game has improved by mid-July.",
+    "q31": 1,
+    "q32": "Welfare better than before."
+  },
+  {
+    "q0": 45684345,
+    "q9": -2,
+    "q10": "Frontloaded grind and mid-game resource walls; late-game boredom.",
+    "q29": -2,
+    "q30": "New OP units on short cycles and disguised discounts push spending.",
+    "q31": -2,
+    "q32": "Newbie tasks are grindy; later freebies and pull income are poor.",
+    "q11": -2,
+    "q12": "New units are overtuned; events demand many factions built within short windows.",
+    "q41": "Warns against fake half-price offers; forced early multi-team building."
+  },
+  {
+    "q0": 45680914,
+    "q1": true,
+    "q2": "Characters described as overly sexualized/effeminate.",
+    "q31": 1,
+    "q32": "Welfare considered okay.",
+    "q21": -1,
+    "q22": "Wants more content variety."
+  },
+  {
+    "q0": 45664516,
+    "q4": 1,
+    "q5": "Considers gameplay among the best in the genre.",
+    "q31": 1,
+    "q32": "Welfare seen as strong compared to peers.",
+    "q41": "Roguelike mode currently too easy/boring; suggests rework."
+  },
+  {
+    "q0": 45656577,
+    "q9": -1,
+    "q10": "Shallow growth depth leading to spend regret.",
+    "q27": 1,
+    "q28": "Indicates F2P/micro-spenders fare fine; whales may not gain proportionally.",
+    "q29": 1,
+    "q30": "Low pressure for light spenders; heavy spend doesn’t guarantee dominance."
+  },
+  {
+    "q0": 45655517,
+    "q21": 1,
+    "q22": "Recent optimizations in balance, events, and welfare.",
+    "q31": 1,
+    "q32": "Welfare improved compared to launch.",
+    "q11": 0,
+    "q12": "Initial balance issues (e.g., weak Shu) but improving."
+  },
+  {
+    "q0": 45653611,
+    "q3": "Turn-based with strong extensibility; convenient battle rollback (replay/undo) feature.",
+    "q4": 2,
+    "q5": "Calls the battle foundation solid and fun as a side game.",
+    "q31": 1,
+    "q32": "Welfare reportedly increased greatly post-launch.",
+    "q21": 1,
+    "q22": "Says the game has improved since early complaints."
+  },
+  {
+    "q0": 45378505,
+    "q21": -1,
+    "q22": "New event design locks rewards behind advantage factions; poor accessibility.",
+    "q27": -1,
+    "q28": "Non-meta players get punished; rank-based rewards hurt non-spenders.",
+    "q29": -1,
+    "q30": "Event design and economy force grinding/spending for full rewards.",
+    "q23": true,
+    "q24": "Adopts ‘mi-style’ gacha pools with pity and event-limited units.",
+    "q41": "Overtuned events where equal configs perform inconsistently."
+  },
+  {
+    "q0": 45646883,
+    "q9": -1,
+    "q10": "Forces 2–3 teams too early with high difficulty walls.",
+    "q29": -2,
+    "q30": "Too many early build requirements and grindy systems push spending.",
+    "q41": "Annoying dream mode; flashy but frustrating early-game difficulty."
+  },
+  {
+    "q0": 45645429,
+    "q27": -2,
+    "q28": "States it’s unplayable without spending.",
+    "q29": -2,
+    "q30": "Heavy monetization pressure."
+  },
+  {
+    "q0": 45222398,
+    "q21": 1,
+    "q22": "Recently made many changes.",
+    "q31": 0,
+    "q32": "Earlier daily rewards too low; now improved but may be too late."
+  },
+  {
+    "q0": 45639844,
+    "q1": true,
+    "q2": "Sexualized female imagery (very large chests) on login versus scarce women in story.",
+    "q41": "Critiques shallow storytelling and survey design; calls art ‘bait-and-switch’."
+  },
+  {
+    "q0": 45620157,
+    "q9": -1,
+    "q10": "Non-Fire teams struggle even in early content; later events gate rewards.",
+    "q11": -2,
+    "q12": "Fire massively overpowered; other factions remain weak after buffs.",
+    "q29": -2,
+    "q30": "Events require multiple high-invested factions; heavy draw/grind pressure.",
+    "q31": -2,
+    "q32": "Free pulls insufficient; frequent off-banner and pity frustrations."
+  },
+  {
+    "q0": 45619882,
+    "q41": "Negative sentiment about planner and summer login art; calls the game trash."
+  },
+  {
+    "q0": 45611070,
+    "q9": -1,
+    "q10": "After two days, zero-spend already falls behind.",
+    "q27": -1,
+    "q28": "Non-spenders quickly lag.",
+    "q33": true,
+    "q34": "States it’s worse than the first game."
+  },
+  {
+    "q0": 45602640,
+    "q11": -2,
+    "q12": "Fire clears everything; Group faction can’t clear new armory first stage.",
+    "q13": -1,
+    "q14": "Meta pushes everyone toward Fire, reducing diversity."
+  },
+  {
+    "q0": 45225398,
+    "q21": -2,
+    "q22": "Few activities and repetitive stat-scaling new modes.",
+    "q29": -1,
+    "q30": "Criticizes ‘fake 50% off’ pricing and shallow content.",
+    "q33": true,
+    "q34": "Says it’s worse than the first game."
+  },
+  {
+    "q0": 45600049,
+    "q29": -2,
+    "q30": "Complains about ‘half-price’ skins that are really marked-up then discounted.",
+    "q41": "Skin priced 198 then sold at 100 with half-price card; perceived as deceptive."
+  },
+  {
+    "q0": 45597692,
+    "q9": -2,
+    "q10": "Multiple progression bottlenecks and uncomfortable design choices.",
+    "q11": -2,
+    "q12": "Balance deemed non-existent; overtuned stages.",
+    "q31": -2,
+    "q32": "Very poor welfare and high build costs."
+  },
+  {
+    "q0": 45596937,
+    "q3": "Adds auto-battle programming and frequent manual intervention versus the first game’s auto focus.",
+    "q4": -1,
+    "q5": "Finds the manual/programming burden tedious versus 1’s approach.",
+    "q6": "Auto-battle scripting and frequent team swaps for many stages; multi-team demands.",
+    "q7": 1,
+    "q8": "More tactical micromanagement exists but is not fun for many.",
+    "q9": -2,
+    "q10": "Forced into 2–3 teams early with limited rewards; ranking-gated resources punish laggers.",
+    "q21": -1,
+    "q22": "Many stages with small rewards and pressure; no catch-up.",
+    "q27": -1,
+    "q28": "Non-spenders can’t keep up with multi-team demands in early cycles.",
+    "q29": -2,
+    "q30": "Constant pressure to build many units early and fake half-price skins.",
+    "q31": -1,
+    "q32": "Key resources tied to rank/time; fewer pulls than needed.",
+    "q33": true,
+    "q34": "Compared extensively to the first game.",
+    "q41": "Fake discounts; early demand for 18 units; ranking-tied resources create long-term gaps."
+  },
+  {
+    "q0": 45593302,
+    "q9": -1,
+    "q10": "Front-end feels good but many instances are overtuned; progression stalls.",
+    "q41": "Calls out poor tuning by devs."
+  },
+  {
+    "q0": 45586348,
+    "q21": -2,
+    "q22": "Roughly 10 days in, little to do daily.",
+    "q31": -2,
+    "q32": "Stingy freebies; must pay for pulls.",
+    "q9": -2,
+    "q10": "Very slow or no power growth; content drought."
+  },
+  {
+    "q0": 45560843
+  },
+  {
+    "q0": 45544096,
+    "q41": "Questions the quality of Sun Ce’s artwork."
+  },
+  {
+    "q0": 45537158,
+    "q29": -1,
+    "q30": "Dupes of already-completed units still in pool; shard conversion gives low-value currency.",
+    "q41": "Dup conversion to in-game currency (not paid currency) feels bad; repeated pulls on same unit."
+  },
+  {
+    "q0": 45534596,
+    "q4": 1,
+    "q5": "Says it has strategy and is playable.",
+    "q6": "Strategy-focused lineup and battle decisions.",
+    "q7": 1
+  }
+]

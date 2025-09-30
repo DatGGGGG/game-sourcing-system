@@ -1,0 +1,483 @@
+[
+  {
+    "q0": 44958417,
+    "q33": true,
+    "q34": "Three Kingdoms (Romance of the Three Kingdoms) IP",
+    "q35": -1,
+    "q36": "Otome-like tone slapped onto Three Kingdoms IP feels off-putting"
+  },
+  {
+    "q0": 44958415
+  },
+  {
+    "q0": 44958396,
+    "q3": "Old, uninspired card/idle mechanics; card locking",
+    "q4": -2,
+    "q5": "Outdated gameplay, poor visuals vs 1; got annoyed within ~10 minutes and uninstalled"
+  },
+  {
+    "q0": 44958389,
+    "q11": -1,
+    "q12": "Noticeable lineup strength gap; Wei feels weaker than other factions",
+    "q29": -2,
+    "q30": "Recharge screens pop up everywhere; constant nudging to pay",
+    "q31": -2,
+    "q32": "Promised '1000 pulls' but after ~2 hours only ~10 limited and 60 standard available via grind",
+    "q41": "Aggressive pay UI (red dots open recharge), disappointing gacha rates/probability"
+  },
+  {
+    "q0": 44958375,
+    "q41": "Rolling-server game; suggests shutting down"
+  },
+  {
+    "q0": 44958366
+  },
+  {
+    "q0": 44958359,
+    "q41": "Art quality regressed vs expectation; suggests copying GBF"
+  },
+  {
+    "q0": 44958347,
+    "q41": "Feels like a half-finished product; not fun"
+  },
+  {
+    "q0": 44958326,
+    "q1": true,
+    "q2": "BL/yaoi bent, homoerotic portrayal of male characters",
+    "q33": true,
+    "q34": "Three Kingdoms IP",
+    "q35": -2,
+    "q36": "Perceived desecration of historical figures (e.g., Cao Cao, Yuan Shao) with BL tone"
+  },
+  {
+    "q0": 44958325,
+    "q4": 0,
+    "q5": "Battle/UI slightly improved over 1 but nothing standout",
+    "q9": -1,
+    "q10": "Stamina-gated progression; rewards locked behind pushing chapters and energy shortage",
+    "q29": -1,
+    "q30": "Leaderboard dominated by high-spend accounts; stamina and awakening upgrades push toward spending",
+    "q41": "Awakening/upgrade consumes stamina; doubts about whales/shills; undecided about paying"
+  },
+  {
+    "q0": 44958300,
+    "q41": "Story anachronism (e.g., 'potatoes' in Eastern Han) breaks immersion"
+  },
+  {
+    "q0": 44958256,
+    "q23": true,
+    "q24": "High-rarity only appears at pity ceiling; user hit pity despite 3% rate claim",
+    "q25": -2,
+    "q26": "Gacha feels bad value; resources for pulls are stingy (only ~10 limited pulls after ~2 hours)",
+    "q29": -2,
+    "q30": "Power tied to spending; labeled as a pay-for-power game",
+    "q31": -2,
+    "q32": "Pull resources are scarce; limited banner barely reachable via grind",
+    "q41": "Suspected misreported probability; consistently hit pity"
+  },
+  {
+    "q0": 44958252,
+    "q1": true,
+    "q2": "BL/‘selling腐’ themes under Three Kingdoms setting",
+    "q33": true,
+    "q34": "Three Kingdoms IP",
+    "q35": -1,
+    "q36": "BL tone perceived as mismatched with the IP"
+  },
+  {
+    "q0": 44958245,
+    "q41": "Feels like a 2015 game; weaker than predecessor; forum flooded with LFG spam"
+  },
+  {
+    "q0": 44958234,
+    "q41": "Early servers locked shortly after opening; registration gating forces latecomers to back servers"
+  },
+  {
+    "q0": 44958226,
+    "q41": "Instant quit/uninstall on entry (very poor first-time experience)"
+  },
+  {
+    "q0": 44958201,
+    "q3": "Card RPG with main story gating; player expects auto-push but is forced to watch long story sequences",
+    "q4": -1,
+    "q5": "Main story is overly verbose and interrupts auto/progression"
+  },
+  {
+    "q0": 44958188,
+    "q41": "Confusing character naming/lore (e.g., 'Yuan Huai'?)"
+  },
+  {
+    "q0": 44958186,
+    "q29": -2,
+    "q30": "Overwhelming recharge prompts immediately on entry"
+  },
+  {
+    "q0": 44958141,
+    "q41": "Suspected crash/performance issue at start; wonders if device too low-end"
+  },
+  {
+    "q0": 44958133,
+    "q4": 1,
+    "q5": "Described as a decent, relaxing card game"
+  },
+  {
+    "q0": 44958129,
+    "q41": "Inferior to the predecessor"
+  },
+  {
+    "q0": 44958084,
+    "q3": "Heavy nurturing layers and forced social/teaching feature in onboarding",
+    "q4": -1,
+    "q5": "Too many required steps before actual play; exhausting",
+    "q41": "Forced 'teach others' feature; cumbersome operations"
+  },
+  {
+    "q0": 44958109,
+    "q41": "New player tutorial black screen bug"
+  },
+  {
+    "q0": 44958007,
+    "q41": "Art downgrade vs 1; story reads like romance/otome"
+  },
+  {
+    "q0": 44958095,
+    "q41": "Wastes art assets on a static, story-centric shell; outdated for 2025"
+  },
+  {
+    "q0": 44957972,
+    "q41": "Notable bugs"
+  },
+  {
+    "q0": 44958077,
+    "q23": true,
+    "q24": "Consistently only obtains drops at pity; indicates a pity guarantee system"
+  },
+  {
+    "q0": 44958067,
+    "q1": true,
+    "q2": "Romance/BL undertones (Cao Cao and Yuan Shao)",
+    "q3": "Turn-based with six units sharing a single energy gauge",
+    "q4": -1,
+    "q5": "Roles feel undifferentiated; few standout mechanics for a sequel",
+    "q6": "Shared team energy management",
+    "q7": -1,
+    "q8": "Shared energy restricts skill usage; characters lack unique identities",
+    "q13": -1,
+    "q14": "Small roster and weak character differentiation reduce viable team builds",
+    "q41": "Mary Sue, rolling-server style plot; sequel feels cautious with content"
+  },
+  {
+    "q0": 44958060,
+    "q4": -1,
+    "q5": "Characters unappealing; gameplay mediocre"
+  },
+  {
+    "q0": 44958049,
+    "q41": "Letterboxing/top-bottom borders obscure text; no setting found to adjust"
+  },
+  {
+    "q0": 44958023,
+    "q41": "Outdated for 2025; doubts even female audience would buy in"
+  },
+  {
+    "q0": 44958012,
+    "q41": "Off-putting, gender-confusing plot; quit"
+  },
+  {
+    "q0": 44957952,
+    "q1": true,
+    "q2": "‘Selling腐’/flirtatious male portrayals; effeminate male designs",
+    "q33": true,
+    "q34": "Three Kingdoms IP",
+    "q35": -1,
+    "q36": "Romance tone seen as mismatched with the valorous Three Kingdoms theme"
+  },
+  {
+    "q0": 44957947,
+    "q1": true,
+    "q2": "Sexualized female depictions (e.g., stockings) applied to Three Kingdoms figures",
+    "q33": true,
+    "q34": "Three Kingdoms IP",
+    "q35": -1,
+    "q36": "Perceived mismatch between sexualized designs and historical theme"
+  },
+  {
+    "q0": 44957944,
+    "q41": "Genre fatigue; suggests target audience is female players"
+  },
+  {
+    "q0": 44957933
+  },
+  {
+    "q0": 44957910,
+    "q41": "Artwork/portraits look overly effeminate"
+  },
+  {
+    "q0": 44957893,
+    "q31": -1,
+    "q32": "Benefits feel sparse; VFX worse than 1; going back to 1"
+  },
+  {
+    "q0": 44957881,
+    "q41": "Tutorial fronted by a penguin mascot, evoking 'Q coin' vibes"
+  },
+  {
+    "q0": 44957871,
+    "q6": "Multiple builds/flow systems perceived as complex",
+    "q7": -1,
+    "q8": "Player lacks time/energy to study complex designs and perfect clears"
+  },
+  {
+    "q0": 44957826,
+    "q1": true,
+    "q2": "Romance/BL pandering to both genders under a hot-blooded Three Kingdoms theme",
+    "q33": true,
+    "q34": "Three Kingdoms IP",
+    "q35": -1,
+    "q36": "Story tone seen as inappropriate for the IP"
+  },
+  {
+    "q0": 44957812,
+    "q33": true,
+    "q34": "Sequel to 'Three Kingdoms Fantasy Continent' IP",
+    "q35": -1,
+    "q36": "Slapping the brand name onto a perceived low-quality product"
+  },
+  {
+    "q0": 44944601,
+    "q33": true,
+    "q34": "Three Kingdoms IP",
+    "q35": -1,
+    "q36": "Tired of repeated exploitation of Three Kingdoms; suggests switching to another classic"
+  },
+  {
+    "q0": 44957810,
+    "q41": "Reluctance to use 'penguin' ecosystem (Tencent), implying distribution/launcher dislike"
+  },
+  {
+    "q0": 44957765,
+    "q4": 1,
+    "q5": "Overall experience better than 1"
+  },
+  {
+    "q0": 44957760,
+    "q41": "PC version promised but missing at launch"
+  },
+  {
+    "q0": 44957748,
+    "q1": true,
+    "q2": "Heavy BL/‘selling腐’ content"
+  },
+  {
+    "q0": 44957742,
+    "q3": "Forced manual control in battles (auto not available/too restricted)",
+    "q4": -2,
+    "q5": "Hates forced manual; rates zero"
+  },
+  {
+    "q0": 44957712,
+    "q39": -2,
+    "q40": "Infinite loading spinner on entry despite 5G; poor optimization",
+    "q41": "Accuses devs of prioritizing monetization over optimization"
+  },
+  {
+    "q0": 44957706,
+    "q41": "Poor screen adaptation on iQOO device"
+  },
+  {
+    "q0": 44957692,
+    "q3": "Systems and mechanics feel overcomplicated",
+    "q4": -1,
+    "q5": "Not fun; too complex",
+    "q7": -1,
+    "q8": "Complexity hurts accessibility"
+  },
+  {
+    "q0": 44957657,
+    "q41": "Story quality criticized"
+  },
+  {
+    "q0": 44957647
+  },
+  {
+    "q0": 44957628,
+    "q3": "Card battler lacks speed-up option",
+    "q4": -1,
+    "q5": "Pacing too slow; makes player nauseous"
+  },
+  {
+    "q0": 44957619,
+    "q41": "Official vs channel server discounts are cross-play; official 1000 equals channel 600—pricing fairness issue"
+  },
+  {
+    "q0": 44957613,
+    "q4": -1,
+    "q5": "Boring gameplay; makes player sleepy"
+  },
+  {
+    "q0": 44957610,
+    "q41": "Story is disgusting"
+  },
+  {
+    "q0": 44957606,
+    "q41": "Character art style is off-putting"
+  },
+  {
+    "q0": 44957446,
+    "q3": "Adds many mechanism-heavy stages but overall gameplay worse than 1",
+    "q4": -1,
+    "q5": "Both art and gameplay regress vs 1",
+    "q6": "Mechanic-heavy level designs",
+    "q7": -1,
+    "q8": "Extra mechanics feel like clutter, not depth"
+  },
+  {
+    "q0": 44957570,
+    "q4": -1,
+    "q5": "So dull it made the player sleepy within minutes"
+  },
+  {
+    "q0": 44957568,
+    "q4": 1,
+    "q5": "Thinks it's a good game overall though dislikes the art",
+    "q41": "Art/style not to taste; relies on imagination"
+  },
+  {
+    "q0": 44957555,
+    "q1": true,
+    "q2": "BL/‘selling腐’ in story",
+    "q41": "Artwork inferior to 1"
+  },
+  {
+    "q0": 44957515,
+    "q1": true,
+    "q2": "BL content despite predominantly male payer base; audience mismatch"
+  },
+  {
+    "q0": 44957507,
+    "q41": "Optimization issues or bugs suspected"
+  },
+  {
+    "q0": 44957504,
+    "q41": "Target audience confusion; male-focused visuals deter expected payer base"
+  },
+  {
+    "q0": 44957496,
+    "q41": "Market flooded with similar titles"
+  },
+  {
+    "q0": 44957493,
+    "q3": "Cumbersome controls; battle scenes overly long",
+    "q4": -2,
+    "q5": "Buggy and tedious; combat feels drawn out"
+  },
+  {
+    "q0": 44957491,
+    "q41": "Character models feel thin/low-quality; visuals not worth spending"
+  },
+  {
+    "q0": 44957459,
+    "q41": "Pre-registration draw cannot be confirmed—gacha UI issue"
+  },
+  {
+    "q0": 44957437,
+    "q41": "Modeling is acceptable"
+  },
+  {
+    "q0": 44957418,
+    "q41": "Over-reliance on invite/bring-a-friend activities is off-putting"
+  },
+  {
+    "q0": 44957385,
+    "q41": "Severe launch bug blocks progression at the very start"
+  },
+  {
+    "q0": 44957380,
+    "q41": "Doesn't feel like a 2025-standard game"
+  },
+  {
+    "q0": 44957362,
+    "q41": "Confusing gacha pool labeling (limited vs wish); reliance on packs/welfare determining outcomes"
+  },
+  {
+    "q0": 44957343,
+    "q41": "Overly flashy and messy presentation"
+  },
+  {
+    "q0": 44957342,
+    "q9": -2,
+    "q10": "Progression blocked at level 15 due to support resonance/leveling lock",
+    "q41": "Stuck and cannot level further after resonating support unit"
+  },
+  {
+    "q0": 44957341,
+    "q41": "Early plot reads like female-aimed web novel; quit after stage 1‑1; average audio-visuals"
+  },
+  {
+    "q0": 44957331,
+    "q41": "Feels worse than a decade-old Onmyoji—outdated design"
+  },
+  {
+    "q0": 44957279,
+    "q41": "Gacha banner animation spam and global pull feed are intrusive; celebrity endorsement used in marketing"
+  },
+  {
+    "q0": 44649366,
+    "q41": "Art focus of the series regressed in 2"
+  },
+  {
+    "q0": 44957303,
+    "q41": "Content looks AI-generated/little human polish"
+  },
+  {
+    "q0": 44957282,
+    "q3": "Slow, verbose onboarding; auto-battle still needs frequent tapping",
+    "q4": -1,
+    "q5": "Tedious tutorial and inconvenient auto",
+    "q41": "Too wordy; anti-user interaction design"
+  },
+  {
+    "q0": 44957272,
+    "q13": -1,
+    "q14": "Very few heroes compared with 1, reducing variety"
+  },
+  {
+    "q0": 44957269,
+    "q41": "Poor script/dialog; tone skews childish/female-oriented"
+  },
+  {
+    "q0": 44208045,
+    "q1": true,
+    "q2": "BL/‘腐’ elements layered onto otome-like storyline"
+  },
+  {
+    "q0": 44957252,
+    "q41": "2nd game's modeling disappointing; favorite character (Sun Jian) looks uncanny"
+  },
+  {
+    "q0": 44957239,
+    "q41": "UI not adapted to phone; large black borders"
+  },
+  {
+    "q0": 44957218,
+    "q41": "Official and channel servers are interoperable but have different discounts; early spenders feel backstabbed"
+  },
+  {
+    "q0": 44957190,
+    "q41": "Spam SMS advertising"
+  },
+  {
+    "q0": 44957105,
+    "q15": "Favorability/relationship system removed vs 1; no player avatar; some portraits reused",
+    "q16": false,
+    "q41": "Feature cuts vs 1; feels like a stripped-down sequel"
+  },
+  {
+    "q0": 44957071,
+    "q41": "Male character designs are overly feminized"
+  },
+  {
+    "q0": 44957050,
+    "q41": "Even worse than 1's big-head portraits"
+  }
+]

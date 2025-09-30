@@ -1,0 +1,494 @@
+[
+  {
+    "q0": 44961968,
+    "q1": true,
+    "q2": "BL/yaoi themes",
+    "q41": "Dislikes the BL focus; finds it boring"
+  },
+  {
+    "q0": 44961964,
+    "q3": "Card-battle with arena skip gated by entering formation; story chapter finales require manual play; equipment uses a time-wasting voucher 'egg cracking' mechanic",
+    "q4": -2,
+    "q5": "Forced manual stage ends and clunky skip flow make combat tedious",
+    "q6": "Pre-battle formation setup for arena",
+    "q41": "Landscape-only display; black screen between page transitions; time-wasting equipment opening flow"
+  },
+  {
+    "q0": 44961949,
+    "q41": "Complains that the advertised 1000 pulls are missing"
+  },
+  {
+    "q0": 43808294,
+    "q1": true,
+    "q2": "Otome/romance-for-women tone",
+    "q41": "Warns male players to avoid due to otome focus"
+  },
+  {
+    "q0": 44961878,
+    "q3": "Auto-battle with 3-star conditions; enemies have conditional buffs; must avoid casualties to 3-star; auto fires skills in order without awareness",
+    "q4": -1,
+    "q5": "Auto AI is too dumb to secure full-star clears unless overpowered",
+    "q6": "Class awakening switches a hero into two alternative roles; stage buffs to play around; 3-star no-casualty constraints; roster planning is important due to no reset",
+    "q7": 1,
+    "q8": "Multiple layers (class switching, conditional buffs, 3-star constraints) imply planning depth",
+    "q9": -2,
+    "q10": "Too many progression tracks (level/gear/breakthrough/talent) with scarce stamina and no material refund on reset"
+  },
+  {
+    "q0": 44961835,
+    "q41": "Praises visuals; opening animation is impressive"
+  },
+  {
+    "q0": 44961804,
+    "q1": true,
+    "q2": "BL/yaoi themes",
+    "q41": "Questions why the game emphasizes BL"
+  },
+  {
+    "q0": 44961787,
+    "q23": true,
+    "q24": "Newbie banner first 10-pull guarantees Gan Ning",
+    "q31": -1,
+    "q32": "Only ~20 early pulls; expectations of at least 50 not met",
+    "q41": "Notes framerate improvement; 50% off card benefit ends after newbie tasks"
+  },
+  {
+    "q0": 44961785,
+    "q41": "Complains about heavy lore changes (e.g., gender-swapped Yuan Shao) and AI-like art"
+  },
+  {
+    "q0": 44961782,
+    "q3": "Standard card combat; skills/ultimates are unremarkable",
+    "q4": -1,
+    "q5": "Combat and skills feel bland and boring",
+    "q15": "Simple fishing minigame",
+    "q16": false,
+    "q17": 2,
+    "q18": "Fishing has almost no interaction—tap once to get a fish",
+    "q31": -1,
+    "q32": "“1000 pulls” are gated behind long grind, not truly free upfront"
+  },
+  {
+    "q0": 44961779,
+    "q1": true,
+    "q2": "BL/yaoi themes"
+  },
+  {
+    "q0": 44961774,
+    "q41": "Dislikes the art style"
+  },
+  {
+    "q0": 44961749,
+    "q41": "iOS lacks the same recharge coupon discounts as Android/channel servers despite cross-play"
+  },
+  {
+    "q0": 44961729,
+    "q41": "Feels like a typical roll-server, AI-generated, red-dot-driven game"
+  },
+  {
+    "q0": 44961702,
+    "q31": -2,
+    "q32": "Pulls are off-target and welfare is very scarce"
+  },
+  {
+    "q0": 44961681,
+    "q15": "Affinity/favor system with characters (player asks how to raise favor)"
+  },
+  {
+    "q0": 44961678,
+    "q41": "Strong dislike for Cao Cao’s portrayal and the story direction; suggests canceling and remaking"
+  },
+  {
+    "q0": 44961549,
+    "q1": true,
+    "q2": "BL/yaoi undertones in character portrayals",
+    "q31": 1,
+    "q32": "Says welfare is quite generous",
+    "q41": "Calls the plot cliché and error-ridden; points out historical/logic issues (e.g., student hitting teacher)"
+  },
+  {
+    "q0": 44961653,
+    "q3": "Ultimates lack showcase animations despite trailer hype",
+    "q4": -1,
+    "q5": "Came for Lü Bu’s ultimate animation but it wasn’t present in battle"
+  },
+  {
+    "q0": 44961594,
+    "q29": -2,
+    "q30": "Describes it as a roll-server, scammy P2W with bottomless monetization",
+    "q41": "Warns players to avoid"
+  },
+  {
+    "q0": 44961581,
+    "q31": -2,
+    "q32": "“1000 pulls” called false advertising"
+  },
+  {
+    "q0": 44961563,
+    "q9": -2,
+    "q10": "Too many systems and star-ups; stamina and push-progression are heavily gated",
+    "q41": "Finds it boring"
+  },
+  {
+    "q0": 44961554,
+    "q27": 2,
+    "q28": "Claims it’s not grindy or pay-dependent; can skip a day without pressure as stamina doesn’t force daily play"
+  },
+  {
+    "q0": 44961541
+  },
+  {
+    "q0": 44961535,
+    "q41": "Says the gameplay fits their taste; recommends it"
+  },
+  {
+    "q0": 44961528,
+    "q3": "Standard Three Kingdoms card battler",
+    "q4": 0,
+    "q5": "Okay as a time-killer but nothing special"
+  },
+  {
+    "q0": 44961511,
+    "q6": "Resonance system (borrowed from Douluo Dalu: Wuhun Awakening) to streamline upgrading across units",
+    "q7": 1,
+    "q8": "Resonance removes repetitive steps and improves team-building flexibility",
+    "q31": -1,
+    "q32": "Hopes for more welfare"
+  },
+  {
+    "q0": 44961467,
+    "q1": true,
+    "q2": "Otome-leaning presentation"
+  },
+  {
+    "q0": 44961454,
+    "q33": true,
+    "q34": "Sequel/spin using the Fantasy of Three Kingdoms (San Huan 1) IP",
+    "q35": -1,
+    "q36": "Small initial roster and changed team systems compared to IP expectations"
+  },
+  {
+    "q0": 44961279,
+    "q41": "Annoyed by WeChat reservation/lottery flow; says it’s worse than the first game"
+  },
+  {
+    "q0": 44961449,
+    "q41": "Complains that male generals aren’t portrayed as masculine; dislikes the art direction"
+  },
+  {
+    "q0": 44961409,
+    "q9": -1,
+    "q10": "Ran out of things to do in 1.5 hours due to stamina gating"
+  },
+  {
+    "q0": 44961400,
+    "q3": "Stages feel chaotic and cluttered with slow, frequent dialogues",
+    "q4": -2,
+    "q5": "Gameplay feels messy and padded to waste time",
+    "q41": "Accuses reliance on sentiment for the previous title’s fans"
+  },
+  {
+    "q0": 44961376,
+    "q41": "Calls it a quickly copied game relying on endorsements to recoup via churn"
+  },
+  {
+    "q0": 44961352,
+    "q1": true,
+    "q2": "BL/yaoi elements in story",
+    "q31": -2,
+    "q32": "“1000 pulls” is misleading; under 100 given early, 3 SSRs hard; need a month of grind to reach 1000"
+  },
+  {
+    "q0": 44961344,
+    "q31": -1,
+    "q32": "TapTap sign-in rewards are limited; promises not fulfilled"
+  },
+  {
+    "q0": 44961253,
+    "q41": "Celebrity endorsement pop-up; many launch servers indicate roll-server model; unskippable long new-player story; dated art/UI"
+  },
+  {
+    "q0": 44961228
+  },
+  {
+    "q0": 44961205,
+    "q1": true,
+    "q2": "Otome/BL-leaning tone carried over from a similar title",
+    "q41": "Finds it boring and drops after seeing Cao Cao–Yuan Shao dynamics"
+  },
+  {
+    "q0": 44961195,
+    "q41": "Recommends skipping story; treats it as an idle game after getting Zhen Ji"
+  },
+  {
+    "q0": 44961183,
+    "q29": -2,
+    "q30": "Presence of leaderboards and race rewards adds heavy pay pressure"
+  },
+  {
+    "q0": 44961156,
+    "q41": "Overlong, mandatory tutorial that can’t be skipped"
+  },
+  {
+    "q0": 44961146,
+    "q41": "Roll-server launch and cliché amnesia plot lead to immediate rejection"
+  },
+  {
+    "q0": 44961130
+  },
+  {
+    "q0": 44961125,
+    "q41": "Rewards seem plentiful but roll-server setup is unacceptable"
+  },
+  {
+    "q0": 44961119,
+    "q41": "Community/official forum atmosphere is toxic; disapproves of dev tactics"
+  },
+  {
+    "q0": 44961101,
+    "q3": "PvP cannot be manually controlled while PvE can",
+    "q4": -1,
+    "q5": "Dislikes lack of manual control in PvP and sees little difference from the first game"
+  },
+  {
+    "q0": 44961018,
+    "q1": true,
+    "q2": "Strong BL undertones (e.g., Cao–Yuan dynamic)",
+    "q15": "Fishing side activity",
+    "q16": false,
+    "q17": 2,
+    "q18": "Fishing is very barebones with minimal interaction",
+    "q33": true,
+    "q34": "Direct sequel/continuation from San Huan 1",
+    "q35": -1,
+    "q36": "Art/model quality and portrayal fall short of IP expectations"
+  },
+  {
+    "q0": 44960994,
+    "q1": true,
+    "q2": "BL/yaoi themes",
+    "q33": true,
+    "q34": "Uses the San Huan IP name",
+    "q35": -1,
+    "q36": "Accused of exploiting the IP and focusing on BL/political messaging"
+  },
+  {
+    "q0": 44960913,
+    "q41": "Poor onboarding/tutorial; worse than the first game"
+  },
+  {
+    "q0": 44960895,
+    "q41": "Presentation and gameplay are inferior to the first title"
+  },
+  {
+    "q0": 44960829,
+    "q41": "Switch to mediocre 3D loses the first game’s art advantage; feels neither here nor there"
+  },
+  {
+    "q0": 44960822,
+    "q41": "Inferior to the first game and boring"
+  },
+  {
+    "q0": 44960816,
+    "q41": "Server crashed mid-play; says the story seemed decent"
+  },
+  {
+    "q0": 44960782,
+    "q41": "Worse than the first; requires following official accounts for rewards; roll-server model"
+  },
+  {
+    "q0": 44960778,
+    "q41": "Says it only trades on the name; otherwise nothing special"
+  },
+  {
+    "q0": 44960773
+  },
+  {
+    "q0": 44960743,
+    "q41": "Worse than the first; bad camera/POV; cheap-looking visuals; poor tutorial; underwhelming skills"
+  },
+  {
+    "q0": 44960705,
+    "q27": 1,
+    "q28": "States F2P is playable and the game isn’t that bad"
+  },
+  {
+    "q0": 44960653,
+    "q41": "Mediocre and not fun"
+  },
+  {
+    "q0": 44960651,
+    "q41": "Low playability; guild features are very limited; inferior to San Huan 1"
+  },
+  {
+    "q0": 44960633,
+    "q23": true,
+    "q24": "Has pity—many players only get top-rarity at the guaranteed threshold",
+    "q25": 1,
+    "q26": "Some prices are high, but 50% off deals make it better than most games for spenders"
+  },
+  {
+    "q0": 44960629,
+    "q41": "Average experience; luck and spending matter a lot in this genre"
+  },
+  {
+    "q0": 44960614,
+    "q41": "Monotonous—mostly just pushing main story"
+  },
+  {
+    "q0": 44960595,
+    "q3": "Very basic tap-through card combat",
+    "q4": -2,
+    "q5": "Just constant tapping with no fun"
+  },
+  {
+    "q0": 44960592,
+    "q41": "Ridicules the Peach Garden Oath script as low-quality fanfic"
+  },
+  {
+    "q0": 44960515,
+    "q3": "Ultimates lack close-up showcase",
+    "q4": -1,
+    "q5": "No ultimate cut-ins dampen combat spectacle",
+    "q9": -1,
+    "q10": "Stamina is severely insufficient even early on"
+  },
+  {
+    "q0": 44960499,
+    "q3": "9-grid formation with 6 units; no CG/skill cut-ins during battle",
+    "q4": -1,
+    "q5": "Lack of impactful animations makes combat feel flat",
+    "q6": "Shared in-battle resource for ultimates (similar to Onmyoji) adds skill-timing decisions",
+    "q7": 1,
+    "q8": "Shared resource management introduces tactical trade-offs",
+    "q25": -1,
+    "q26": "Despite 'permanent half-price', base prices are higher than other games",
+    "q31": -1,
+    "q32": "Stage rewards are tiny (~1/10 of a pull per clear)",
+    "q41": "Finds moving live2D/animations unimpressive"
+  },
+  {
+    "q0": 44960485
+  },
+  {
+    "q0": 44910316,
+    "q6": "Account-wide stat gains from collecting/using all cards ('no useless cards')",
+    "q15": "Collection/meta progression where every card contributes to overall stats",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple number-accumulation loop that passively boosts power",
+    "q41": "Calls it a numbers-selling game"
+  },
+  {
+    "q0": 44960479,
+    "q41": "Middling and far worse than the first; low playability"
+  },
+  {
+    "q0": 44960471,
+    "q3": "Traditional card combat with some war-chess mechanics mixed in",
+    "q4": 1,
+    "q5": "Adds a bit of tactical flavor so combat isn’t too dull",
+    "q6": "War-chess-like positioning/mechanics layered onto card battling",
+    "q7": 1,
+    "q8": "Light tactical elements enhance otherwise standard combat",
+    "q41": "Likes the clean art and smooth interactions; treats it as a light side game"
+  },
+  {
+    "q0": 44960426,
+    "q3": "Card combat lacks distinctive skill/ultimate animations and polish; relies on high-speed skip",
+    "q4": -2,
+    "q5": "Visual effects are underbaked compared to the first game; no satisfying skill showcases"
+  },
+  {
+    "q0": 44960405,
+    "q41": "Aggressive monetization UI: 2nd-level popup for free packs; full-screen sign-in with ~45% space for recharge"
+  },
+  {
+    "q0": 44960358,
+    "q3": "9-grid battle presentation feels outdated",
+    "q4": -1,
+    "q5": "Prefers a different mode (e.g., auto-chess); current battle is dull",
+    "q41": "Complains about basic grammar errors in the script"
+  },
+  {
+    "q0": 44960331,
+    "q1": true,
+    "q2": "BL/yaoi aesthetic",
+    "q41": "Dislikes the BL art style"
+  },
+  {
+    "q0": 44960328,
+    "q41": "Calls Yuan Shao/Yuan Shu effeminate; plot feels childish"
+  },
+  {
+    "q0": 44960264,
+    "q41": "Poor foldable-screen support—large black bars top and bottom"
+  },
+  {
+    "q0": 44960250,
+    "q29": -2,
+    "q30": "Says the game is packed with monetization points and isn’t fun"
+  },
+  {
+    "q0": 44960245,
+    "q41": "Feels like playing 'Bihui Xixing' (very similar to another title)"
+  },
+  {
+    "q0": 44960144,
+    "q3": "Combat/modeling underwhelming compared to the first game",
+    "q4": -1,
+    "q5": "Fights are mediocre and models are worse than in San Huan 1",
+    "q31": 1,
+    "q32": "Plenty of recruit vouchers; welfare is decent"
+  },
+  {
+    "q0": 44960112,
+    "q41": "Black screens even during the tutorial"
+  },
+  {
+    "q0": 44960102,
+    "q41": "Criticizes the continued use of roll-server model in 2025"
+  },
+  {
+    "q0": 44960101,
+    "q41": "Likes starting alongside Cao Cao; rates it highly for not focusing on Shu"
+  },
+  {
+    "q0": 44960046,
+    "q41": "Positive on art, story, and perceived gacha rates; recommends the game"
+  },
+  {
+    "q0": 44960038,
+    "q3": "Gacha-centric loop overshadows gameplay",
+    "q4": -1,
+    "q5": "Feels like an 'gacha machine' where core play isn’t fun"
+  },
+  {
+    "q0": 44960030,
+    "q41": "Event quality is so poor they give minimum rating"
+  },
+  {
+    "q0": 44959997,
+    "q41": "Asks for less weird/off-putting story content"
+  },
+  {
+    "q0": 44959982,
+    "q31": -2,
+    "q32": "Complains the advertised 1000 pulls are a lie"
+  },
+  {
+    "q0": 44959960,
+    "q29": -2,
+    "q30": "Calls it a reskinned, monetization-driven clone of the first game"
+  },
+  {
+    "q0": 44959956,
+    "q41": "Roll-server model is a turn-off; praises 'Bird Brother' model/animation; decent script effort but excessive stage locking and bland early story"
+  },
+  {
+    "q0": 44959955,
+    "q3": "Outdated card-battle reminiscent of 2010–2015 titles",
+    "q4": -2,
+    "q5": "Fails to surpass old standards like Dota Legend; feels a decade behind"
+  }
+]

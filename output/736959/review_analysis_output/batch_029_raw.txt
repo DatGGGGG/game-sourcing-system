@@ -1,0 +1,409 @@
+[
+  {
+    "q0": 43959012
+  },
+  {
+    "q0": 43957266
+  },
+  {
+    "q0": 43956804
+  },
+  {
+    "q0": 43953730
+  },
+  {
+    "q0": 43948323,
+    "q29": -1,
+    "q30": "Reviewer distrusts the game's reliability and says they will definitely not spend.",
+    "q41": "Likes the familiar art from the trailer but worries about short game lifespan."
+  },
+  {
+    "q0": 43943222,
+    "q41": "Requests retaining the previous 'Three Kingdoms Fantasy' CV cast."
+  },
+  {
+    "q0": 43942159,
+    "q1": true,
+    "q2": "Controversial gender/androgynous character art criticized by the reviewer.",
+    "q41": "Strongly dislikes the androgynous art style and accuses the game of trying to please both sides."
+  },
+  {
+    "q0": 43939386,
+    "q41": "Complains the gameplay and art are formulaic."
+  },
+  {
+    "q0": 43934938,
+    "q41": "Asks if the test moved from the 9Game platform."
+  },
+  {
+    "q0": 43932499,
+    "q3": "Earlier tests looked like simple dummy-vs-dummy fighting; current presentation seems much more polished.",
+    "q4": 1,
+    "q5": "Perceives significant visual/combat polish compared to very rough early tests."
+  },
+  {
+    "q0": 43931444,
+    "q41": "Thinks the character illustrations are worse than the previous game."
+  },
+  {
+    "q0": 43931087,
+    "q41": "Accuses the game of using AI for character design."
+  },
+  {
+    "q0": 43930765,
+    "q1": true,
+    "q2": "Sexualized female outfits and softcore/BL discourse; debate over target audience and historical portrayal.",
+    "q41": "Asks the game not to distort history or repeat scandals; argues the game is general-audience leaning male."
+  },
+  {
+    "q0": 43929254,
+    "q41": "Says story was good in the 'Code: Hero' test but the new art looks worse; unsure if it is the same project."
+  },
+  {
+    "q0": 43924425
+  },
+  {
+    "q0": 43923226,
+    "q41": "Asks about the release timing; looking for insider info."
+  },
+  {
+    "q0": 43923205,
+    "q41": "Praises prior character design depth (stories, personalities, details like Zhang Liao’s scars) and hopes the new work maintains this quality."
+  },
+  {
+    "q0": 43919163,
+    "q29": -2,
+    "q30": "Spent around 30,000 RMB in prior titles and regrets it, indicating heavy monetization pressure.",
+    "q41": "Will skip if the new game is mainly female-oriented."
+  },
+  {
+    "q0": 43770394,
+    "q1": true,
+    "q2": "Sexualized outfit (Zhang Chunhua), 'selling flesh'/softcore edging concerns.",
+    "q6": "Mentions strategy and 3D as labeled features.",
+    "q41": "Wants clear audience positioning and warns against misleading promotion; interested if gameplay matches descriptions."
+  },
+  {
+    "q0": 43913138,
+    "q41": "Former SP Zhao Yun player; distrusts the game's usual practices."
+  },
+  {
+    "q0": 43912785,
+    "q41": "Pre-registered after seeing a video; waiting to judge until gameplay is shown."
+  },
+  {
+    "q0": 43910839,
+    "q29": -2,
+    "q30": "Calls the developer money-focused and refuses to be burned again."
+  },
+  {
+    "q0": 43892353,
+    "q4": -1,
+    "q5": "Says gameplay feels mediocre and not smooth.",
+    "q41": "Finds the character art average."
+  },
+  {
+    "q0": 43891148,
+    "q41": "Does not like the male character art style."
+  },
+  {
+    "q0": 43884220,
+    "q41": "Thinks the familiar theme will likely lead to a familiar (disappointing) outcome."
+  },
+  {
+    "q0": 43884059,
+    "q41": "Attracted by the music and ensemble-style narrative but cannot discern the gameplay; will skip if it's weak."
+  },
+  {
+    "q0": 43881736,
+    "q41": "Hopes the game survives long enough and wants to see new character illustrations."
+  },
+  {
+    "q0": 43877934,
+    "q41": "Accuses the project of using 'Three Kingdoms Fantasy' name with 'Code: Roottype' art while misleading both male and female players about character gender composition."
+  },
+  {
+    "q0": 43876447,
+    "q4": -2,
+    "q5": "Calls the gameplay single, boring, and inconsistent with promotion.",
+    "q41": "Says illustrations are immature and the advertising is misleading."
+  },
+  {
+    "q0": 43874870,
+    "q29": -2,
+    "q30": "Claims it's a re-skin aimed to cash-grab specific users."
+  },
+  {
+    "q0": 43874234,
+    "q41": "Criticizes feminized male art and claims the game tarnishes the 'Three Kingdoms Fantasy' image; suggests it should be a separate otome title."
+  },
+  {
+    "q0": 43872660,
+    "q41": "Says male characters look overly made-up, implying a specific target audience."
+  },
+  {
+    "q0": 43866653,
+    "q4": -2,
+    "q5": "States the game is not fun and runs poorly."
+  },
+  {
+    "q0": 43828793,
+    "q1": true,
+    "q2": "Sexual content references (H jokes, ecchi/erotic anime used as avatar frames) and gender-targeting flip ('female-first' to 'male-otaku oriented').",
+    "q29": -2,
+    "q30": "Alleges scammy practices: ignoring player demands, cozying up to whales for events, and deleting negative reviews.",
+    "q41": "Harshly criticizes the developer as forgetful of roots and anti-player."
+  },
+  {
+    "q0": 43861737,
+    "q41": "Accuses AI-generated art; notes split audience confusion between 'Code: Roottype' (female) and 'Three Kingdoms Fantasy' (male)."
+  },
+  {
+    "q0": 43860596,
+    "q7": 1,
+    "q8": "Test build had somewhat complex systems but was understandable, indicating some strategic depth; not a simple re-skin.",
+    "q41": "Generally positive about prior test despite some system bloat."
+  },
+  {
+    "q0": 43860259,
+    "q41": "Says the art looks overly effeminate."
+  },
+  {
+    "q0": 43859001,
+    "q41": "Claims the art strongly feels AI-generated."
+  },
+  {
+    "q0": 43856190,
+    "q41": "Notes the character UI resembles Reverse: 1999."
+  },
+  {
+    "q0": 43855350,
+    "q41": "Soured on the publisher across multiple titles."
+  },
+  {
+    "q0": 43854659,
+    "q29": -2,
+    "q30": "Says it's a re-skinned product to cash in again."
+  },
+  {
+    "q0": 43853128,
+    "q41": "Reports that both male and female players reject the game solely due to the Lingxi brand reputation."
+  },
+  {
+    "q0": 43853065,
+    "q29": -2,
+    "q30": "Accuses the game of luring players in to exploit them."
+  },
+  {
+    "q0": 43852764,
+    "q41": "Dismisses it as yet another anime/gacha entrant in an overcrowded space."
+  },
+  {
+    "q0": 43851813,
+    "q11": -2,
+    "q12": "Says prior 'no useless heroes' claim was false and balance was extremely poor.",
+    "q29": -2,
+    "q30": "Believes it's a re-skin continuation aimed at monetization."
+  },
+  {
+    "q0": 43850612,
+    "q41": "Notes AI-art vibes and expresses no expectations due to the publisher."
+  },
+  {
+    "q0": 43850189,
+    "q41": "Thinks the art style does not fit the Three Kingdoms theme."
+  },
+  {
+    "q0": 43847070,
+    "q9": -1,
+    "q10": "Hopes the difficulty of upgrading characters to five 'flames' will be reduced, implying it's currently too hard."
+  },
+  {
+    "q0": 43841129
+  },
+  {
+    "q0": 43841059,
+    "q41": "Playfully compares it to other titles and expresses excitement."
+  },
+  {
+    "q0": 43838008
+  },
+  {
+    "q0": 43837140,
+    "q41": "Curious about Sima Yi's appearance."
+  },
+  {
+    "q0": 43837083,
+    "q41": "Requests the story not separate Sima Yi and Zhang Chunhua."
+  },
+  {
+    "q0": 43836797,
+    "q29": -2,
+    "q30": "Fears it will feel like a pay-to-win webgame, similar to the predecessor."
+  },
+  {
+    "q0": 43835366
+  },
+  {
+    "q0": 43835026,
+    "q41": "Wants to play with friends on the CN server; looks forward to co-op/team play."
+  },
+  {
+    "q0": 43834894,
+    "q6": "Suggests an economy-focused approach: level 'bonus' roles like Merchant, avoid fights, stack gold to end a run with far more gems."
+  },
+  {
+    "q0": 43834835,
+    "q29": -2,
+    "q30": "Warns against stat-selling PvP and urges focusing on PvE/collection instead."
+  },
+  {
+    "q0": 43833954,
+    "q41": "Strongly likes the ancient-style art and expects the same style to continue."
+  },
+  {
+    "q0": 43833196,
+    "q41": "Believes the art aims to attract Chinese female players; suggests making it an otome game."
+  },
+  {
+    "q0": 43831976,
+    "q29": -2,
+    "q30": "Claims the game pretends early to be fair then ramps up monetization later."
+  },
+  {
+    "q0": 43831276,
+    "q41": "Says the art is worse than the first 'Three Kingdoms Fantasy'."
+  },
+  {
+    "q0": 43828391,
+    "q4": 1,
+    "q5": "Played multiple tests and was satisfied with the game despite weak art; not a simple re-skin.",
+    "q41": "Defends the game against outsiders; acknowledges art is lacking."
+  },
+  {
+    "q0": 43827978,
+    "q41": "Feels the illustrations do not fit the personalities of the historical figures."
+  },
+  {
+    "q0": 43827879,
+    "q41": "Doubts male players will like the otome-like art style."
+  },
+  {
+    "q0": 43826898,
+    "q41": "Expresses affection for a 'Zhuge' character."
+  },
+  {
+    "q0": 43826849,
+    "q41": "Says trying to please both male and female audiences with the art backfired."
+  },
+  {
+    "q0": 43824639,
+    "q41": "Long-time player; hopes the spin-off feels fresh and looks forward to new skins for Gongjin."
+  },
+  {
+    "q0": 43821267,
+    "q4": 1,
+    "q5": "Says previous 'Code: Hero' test was very fun.",
+    "q41": "Asks why the name changed and when it will launch."
+  },
+  {
+    "q0": 43819322,
+    "q41": "Attracted by the cover art."
+  },
+  {
+    "q0": 43819061,
+    "q41": "Thinks the art is mediocre and feels mass-produced."
+  },
+  {
+    "q0": 43818766,
+    "q29": -2,
+    "q30": "Accuses the company of shutting one game to start a new cash grab; suggests learning from top turn-based titles.",
+    "q41": "Complains about the prior game's shutdown and wants better design akin to Arknights/Path to Nowhere/HSR."
+  },
+  {
+    "q0": 43818546,
+    "q41": "Says the art feels like AI; distrusts the publisher."
+  },
+  {
+    "q0": 43818149,
+    "q41": "Critiques both the character art and content."
+  },
+  {
+    "q0": 43817583
+  },
+  {
+    "q0": 43817453,
+    "q41": "Sees the art as otome-like and reacts sarcastically."
+  },
+  {
+    "q0": 43816400,
+    "q41": "Questions why an incomplete build is being pushed out."
+  },
+  {
+    "q0": 43814287,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms IP theme.",
+    "q35": -1,
+    "q36": "Reviewer says it's just using the Three Kingdoms IP as bait and the game is mediocre."
+  },
+  {
+    "q0": 43813212,
+    "q41": "Low expectations; only gives extra credit due to liking Sun Ce."
+  },
+  {
+    "q0": 43813190,
+    "q41": "Says TKF1 UI was ugly and the new illustrations are even worse, looking like sketches."
+  },
+  {
+    "q0": 43812644,
+    "q1": true,
+    "q2": "Female character outfits viewed as problematic/overly revealing.",
+    "q41": "Dislikes the battle method shown and questions character naming (e.g., 'Wenji')."
+  },
+  {
+    "q0": 43812232,
+    "q41": "Suggests avoiding downmarket storytelling; believes the core audience remains the original TKF players."
+  },
+  {
+    "q0": 43811614,
+    "q41": "Says it looks AI-made and doubts the publisher can produce a good game."
+  },
+  {
+    "q0": 43811188,
+    "q41": "Says the new Sun Ce artwork is worse than the old one."
+  },
+  {
+    "q0": 43810572,
+    "q41": "Claims new art was run through AI and is far from 'top-tier' quality."
+  },
+  {
+    "q0": 43810277,
+    "q41": "Veteran player praises previous gameplay and art (mentions meta teams) and asks for test access."
+  },
+  {
+    "q0": 43808985,
+    "q41": "Watching and waiting; asks if the new project will actually be titled TKF New."
+  },
+  {
+    "q0": 43808695,
+    "q41": "Sees no novelty and cannot tell who the target audience is from the cover."
+  },
+  {
+    "q0": 43807169,
+    "q41": "Complains the build’s completeness is very poor."
+  },
+  {
+    "q0": 43806953,
+    "q41": "Old player; device-specific server ended; excited for the new game."
+  },
+  {
+    "q0": 43806867,
+    "q21": -1,
+    "q22": "Requests reasonable updates and to avoid back-to-back new systems; worries about excessive, messy content.",
+    "q41": "Veteran initially uncomfortable with new character look but remains optimistic."
+  },
+  {
+    "q0": 43806481,
+    "q41": "Accuses the new illustrations of being AI-processed originals."
+  }
+]

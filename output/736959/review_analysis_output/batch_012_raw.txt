@@ -1,0 +1,568 @@
+[
+  {
+    "q0": 45030721,
+    "q11": -2,
+    "q12": "Faction strength extremely imbalanced."
+  },
+  {
+    "q0": 45030631,
+    "q11": -2,
+    "q12": "Team balance is very poor; devs not adjusting.",
+    "q21": -1,
+    "q22": "Developer does not adjust balance in time; not matching pre-launch claims."
+  },
+  {
+    "q0": 45030561,
+    "q27": 2,
+    "q28": "Says there are no paywalled cards; can play well without paying.",
+    "q31": 2,
+    "q32": "Very generous welfare/freebies.",
+    "q21": 2,
+    "q22": "Frequent events/activities."
+  },
+  {
+    "q0": 45030531,
+    "q11": -1,
+    "q12": "Balance is only mediocre.",
+    "q31": 1,
+    "q32": "Early-game benefits are great."
+  },
+  {
+    "q0": 45028866,
+    "q11": -1,
+    "q12": "Wu faction appears favored.",
+    "q6": "Looks complex but offers less strategic feel than grid-based tactics games.",
+    "q7": -1,
+    "q8": "Strategic depth feels lower than peers; prefers tactics style.",
+    "q29": -1,
+    "q30": "Many pop-ups and a 50% card that still pushes spending."
+  },
+  {
+    "q0": 45030394,
+    "q11": -2,
+    "q12": "Fire/Burn team dominates; top 50 all the same comp."
+  },
+  {
+    "q0": 44340946
+  },
+  {
+    "q0": 45030271,
+    "q41": "Ultimates have no full-screen VFX; static art praised but 3D model quality is debatable."
+  },
+  {
+    "q0": 45030245,
+    "q6": "Systems feel old-fashioned and overly complicated.",
+    "q7": -1,
+    "q8": "Gameplay is busy and tiring.",
+    "q31": -1,
+    "q32": "Welfare is only average."
+  },
+  {
+    "q0": 44326471
+  },
+  {
+    "q0": 45030229,
+    "q13": -1,
+    "q14": "Early team building feels single-threaded.",
+    "q9": -1,
+    "q10": "Resources only enough to raise one team; daily tasks are few/relaxed."
+  },
+  {
+    "q0": 44999947,
+    "q11": -2,
+    "q12": "Wu fire/burn comp far stronger than others.",
+    "q6": "Fire burn deals unavoidable full-team stacks resolved at turn start; Poison stacks in cross pattern, triggers after action and is dispellable.",
+    "q41": "Requests better balance, more welfare and content."
+  },
+  {
+    "q0": 45030202,
+    "q6": "Combat has some strategy.",
+    "q7": 1,
+    "q8": "Feels strategic.",
+    "q11": -1,
+    "q12": "Meta feels pay-to-stat; hopes for more viable teams.",
+    "q13": -1,
+    "q14": "Wants a broader variety of viable comps."
+  },
+  {
+    "q0": 45030170,
+    "q11": -1,
+    "q12": "Asks to buff Wei faction."
+  },
+  {
+    "q0": 45030160,
+    "q27": 1,
+    "q28": "States F2P can play.",
+    "q6": "Tower mode with manual repositioning.",
+    "q7": 1,
+    "q8": "Manual repositioning in tower is engaging."
+  },
+  {
+    "q0": 43759884,
+    "q11": -1,
+    "q12": "Fire build feels oppressive.",
+    "q15": "Roguelike mode (repeatable runs with random choices).",
+    "q16": false,
+    "q17": 1,
+    "q18": "Roguelike mode is very fun and replayable."
+  },
+  {
+    "q0": 45030006,
+    "q27": 2,
+    "q28": "Non/low spenders can play; low pressure in PvE and growth.",
+    "q29": 1,
+    "q30": "Lifetime 50% discount and low-pressure progression."
+  },
+  {
+    "q0": 43759827,
+    "q31": 1,
+    "q32": "Carries over generous welfare from the first game.",
+    "q6": "Less auto-reliant; certain story stages add interactive minigames.",
+    "q7": 1,
+    "q8": "Requires some manual play; suggests deeper PvP formats.",
+    "q41": "PvP feels thin; asks for equalized draft modes."
+  },
+  {
+    "q0": 45029944,
+    "q41": "Wants cross-game collaboration between 1 and 2 (characters, story or modes)."
+  },
+  {
+    "q0": 45029868,
+    "q41": "Claims Guan Yu can work well after own team-building research."
+  },
+  {
+    "q0": 45029867,
+    "q6": "Emphasizes strong strategy.",
+    "q7": 2,
+    "q8": "Finds strategic depth very high."
+  },
+  {
+    "q0": 43759823,
+    "q3": "Turn-based on a 3x3 grid with interactive objectives (e.g., luring boars to hit archers, riding to evade chasers).",
+    "q4": 2,
+    "q5": "Battle scenarios feel fresh and fun.",
+    "q6": "3x3 grid positioning with scenario mechanics.",
+    "q7": 2,
+    "q8": "Unique scenario mechanics add meaningful tactical choices."
+  },
+  {
+    "q0": 44725091,
+    "q21": -1,
+    "q22": "Unequal perks (vouchers) between official and channel servers."
+  },
+  {
+    "q0": 45003018,
+    "q1": true,
+    "q2": "Romance/otome-style writing with suggestive fetish references.",
+    "q6": "Turn-based with round-by-round resource (battle intent) management; tower layers require specific counter picks.",
+    "q7": 1,
+    "q8": "More to think about per turn than the first game.",
+    "q3": "Strategic stack-based combat but dominated by an overtuned burn comp.",
+    "q4": -2,
+    "q5": "Meta imbalance (burn team) ruins both PvE and PvP fun.",
+    "q11": -2,
+    "q12": "Burn team overpowers all others with no real counters; massive cross-power wins.",
+    "q23": true,
+    "q24": "Has a wish system; daily wish target is hard to complete.",
+    "q41": "Recommends avoiding due to severe balance issues."
+  },
+  {
+    "q0": 45029504,
+    "q11": -1,
+    "q12": "Balance needs work."
+  },
+  {
+    "q0": 45029421,
+    "q31": 1,
+    "q32": "Launch welfare and rewards are plentiful; lifetime 50% card reduces cost.",
+    "q7": 0,
+    "q8": "Claims strategy/rewind mechanics but overall feels like conventional turn-based.",
+    "q41": "Later stages impose specific clear conditions; ultimates lack flashy CG; narrative POV shifts feel odd; feels more female-oriented than 1."
+  },
+  {
+    "q0": 45029228,
+    "q7": 1,
+    "q8": "Shows improvement over 1 with solid strategy; asks for careful number tuning."
+  },
+  {
+    "q0": 45028830,
+    "q11": -2,
+    "q12": "Burn comp is overtuned, causing imbalance."
+  },
+  {
+    "q0": 45025387,
+    "q31": 1,
+    "q32": "Welfare okay; has dual directional and faction-focused pools.",
+    "q23": true,
+    "q24": "Directional banners and a daily wish guarantee help target a faction/team.",
+    "q11": -1,
+    "q12": "Fire team strong in both PvE and PvP; early fire opening is easiest.",
+    "q41": "High RNG variance in 'destiny' pulls and equipment crafting."
+  },
+  {
+    "q0": 45027645,
+    "q11": -1,
+    "q12": "Same-rarity balance worse than before; gaps too large.",
+    "q6": "More complex grind and training; cannot play brain-off.",
+    "q7": 1,
+    "q8": "Strategy required; complexity increased.",
+    "q41": "3D models feel AI-like and need polish."
+  },
+  {
+    "q0": 45027154,
+    "q11": -2,
+    "q12": "Poor balance left unaddressed.",
+    "q31": -2,
+    "q32": "Weak welfare and little interactive opening events.",
+    "q21": -2,
+    "q22": "Sparse operations (only a bot livestream) and no balance fixes."
+  },
+  {
+    "q0": 45026766,
+    "q6": "Reduced-grind growth via resonance/inheritance; full resource refunds on gear; sweepable resource nodes.",
+    "q7": 1,
+    "q8": "Systems reduce mistakes and support long-term planning.",
+    "q23": true,
+    "q24": "Wishlist lets you choose two UP units; aim to secure one 'wish' per day."
+  },
+  {
+    "q0": 45026418,
+    "q11": -2,
+    "q12": "Fire and poison comps overpower others; arena bans self-heal/DR exacerbate it.",
+    "q29": -2,
+    "q30": "Non-spenders get crushed by dominant burn/poison metas and restrictive arena rules."
+  },
+  {
+    "q0": 45026409
+  },
+  {
+    "q0": 44971377,
+    "q1": true,
+    "q2": "Homoerotic 'shipping' and romance/fanservice elements; requests explicit fanservice scenes (onsen, confession).",
+    "q41": "Affinity system rewards feel trivial; art for Yuan Shu criticized."
+  },
+  {
+    "q0": 45025244,
+    "q41": "Removed 7-day one-click stamina purchases; must buy daily one by one."
+  },
+  {
+    "q0": 45025122,
+    "q11": -2,
+    "q12": "Cao Ren+Zhou Tai core plus burn overtuned; poison weaker due to dispel timing.",
+    "q6": "Burn applies 30% ATK pre-action, undispellable within turn; poison 20% post-action, dispellable with minor heal block.",
+    "q23": true,
+    "q24": "Wishlist uses Seven-Kill scrolls; daily income low and pity counts high.",
+    "q25": -1,
+    "q26": "Progress to pity is slow and costly in time/currency.",
+    "q29": -1,
+    "q30": "Either don't pay and ignore progression or spend big and still feel unsatisfying.",
+    "q41": "Monthly new SSR pace pushes churn."
+  },
+  {
+    "q0": 45025117,
+    "q41": "Daily pack removed 7-day one-click buy option."
+  },
+  {
+    "q0": 45024942,
+    "q3": "Many skills can directly target or jump to backline.",
+    "q4": -1,
+    "q5": "Matches decided by who kills the enemy carry first.",
+    "q6": "Weak carry-protection; easy backline access dominates.",
+    "q7": -1,
+    "q8": "Lack of protection mechanics reduces tactical back-and-forth.",
+    "q11": -1,
+    "q12": "Role protection vs. reach not well balanced."
+  },
+  {
+    "q0": 45024775,
+    "q31": -1,
+    "q32": "Early mailbox 20 pulls stopped after a few days."
+  },
+  {
+    "q0": 45024754,
+    "q41": "Removed one-click purchases; UI shows 'claimed' despite not fixing the bug."
+  },
+  {
+    "q0": 44981106,
+    "q11": -2,
+    "q12": "Non-burn teams have near-zero experience; fear of future nerfs after switching.",
+    "q41": "Players feel forced to swap to burn or quit; respec risk without compensation."
+  },
+  {
+    "q0": 45024557,
+    "q9": -1,
+    "q10": "Armory mode difficulty too high to be playable."
+  },
+  {
+    "q0": 45024373,
+    "q31": -2,
+    "q32": "No welfare mails; daily rewards minimal.",
+    "q29": -2,
+    "q30": "Large multi-team resource demands and paywalled discounts create heavy pressure.",
+    "q41": "Feels like grafted modes (RTA/GvG) and tedious tasks; calls out fake '50% off'."
+  },
+  {
+    "q0": 45024177,
+    "q11": -2,
+    "q12": "Balance 'made with feet'; burn dominates.",
+    "q31": -1,
+    "q32": "Rewards stingy compared to the first game."
+  },
+  {
+    "q0": 45023772,
+    "q11": -1,
+    "q12": "Questions reasonableness of burn team strength despite investment."
+  },
+  {
+    "q0": 45022651,
+    "q41": "Mechanical/armory mode feels half-baked; overall quality far below the first game's launch."
+  },
+  {
+    "q0": 45021932,
+    "q9": -2,
+    "q10": "Energy-gated, long mainline cooldowns, and unskippable forced 'strategy' stages stall progress.",
+    "q41": "Guilds full of ad bots; limited content."
+  },
+  {
+    "q0": 45021549,
+    "q9": -1,
+    "q10": "Growth systems feel messy with many resources and level caps, leading to drop-off."
+  },
+  {
+    "q0": 45021302,
+    "q3": "A stitched mix of mechanics that feels flashy but impractical.",
+    "q4": -1,
+    "q5": "Combat feels messy and unsatisfying.",
+    "q41": "3D models weak; skills accused of copying another game; art quality criticized."
+  },
+  {
+    "q0": 45020844,
+    "q11": -2,
+    "q12": "Only burn team is viable; top 100 all burn."
+  },
+  {
+    "q0": 45019318,
+    "q29": -2,
+    "q30": "Stamina runs out in minutes without buying a monthly; heavy pressure to purchase energy.",
+    "q31": -1,
+    "q32": "Very low stamina availability.",
+    "q11": -2,
+    "q12": "Fire and poison dominate PVP and PVE.",
+    "q15": "New roguelike mode added, but plagued by 'validation failed' errors.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Roguelike mode is fun when it works.",
+    "q41": "Roguelike runs frequently fail due to verification errors."
+  },
+  {
+    "q0": 45019134,
+    "q9": -2,
+    "q10": "Progress halts within days; raids empty; paying more still stuck.",
+    "q29": -2,
+    "q30": "Encourages spending to progress but offers little payoff."
+  },
+  {
+    "q0": 45018512,
+    "q9": -1,
+    "q10": "Main story requires elaborate strategy to clear, which feels frustrating."
+  },
+  {
+    "q0": 45018370,
+    "q9": 1,
+    "q10": "With guides and a Qun Xiong team, clearing and leveling feels fast.",
+    "q29": -1,
+    "q30": "Energy feels insufficient."
+  },
+  {
+    "q0": 45017793,
+    "q41": "Guilds led by low-level inactive/bot accounts."
+  },
+  {
+    "q0": 44961623,
+    "q9": -1,
+    "q10": "After a few days there's no clear progression path or upgrade guidance.",
+    "q41": "Story unengaging; collection motivation low."
+  },
+  {
+    "q0": 45017621,
+    "q29": -2,
+    "q30": "Claims it's unplayable without paying; Wu burn comp outscales all.",
+    "q11": -2,
+    "q12": "Burn (Wu) overpowers other comps; even whales abandon others."
+  },
+  {
+    "q0": 45017394,
+    "q1": true,
+    "q2": "Homoerotic 'shipping'/BL elements perceived as 'selling CP'."
+  },
+  {
+    "q0": 45017388
+  },
+  {
+    "q0": 45017343,
+    "q41": "Static live2D/one-motion art and tiny in-battle models hurt visual appeal."
+  },
+  {
+    "q0": 45015768,
+    "q11": -2,
+    "q12": "Complains game is basically 'burn-only' and Wu-only."
+  },
+  {
+    "q0": 45015662,
+    "q29": -2,
+    "q30": "Feels mandatory spending for gear/awakening; many monetization points.",
+    "q25": -2,
+    "q26": "Perceived low gacha rates and costly progression.",
+    "q31": -1,
+    "q32": "Welfare worse than the first game.",
+    "q7": -1,
+    "q8": "Strategy is negated by inflated PvE numbers."
+  },
+  {
+    "q0": 45015574,
+    "q11": -2,
+    "q12": "Marketing 'no useless units' is contradicted by the leaderboard.",
+    "q41": "Implies top players may be unnatural (bots/whales)."
+  },
+  {
+    "q0": 45015480,
+    "q31": -2,
+    "q32": "Very low welfare; daily 'punch-in' feel.",
+    "q29": -2,
+    "q30": "Endless grind and sink for resources."
+  },
+  {
+    "q0": 45015475,
+    "q11": -1,
+    "q12": "Same-power different heroes lose to fixed meta comps.",
+    "q13": -1,
+    "q14": "Only a few viable team comps; can't play favorites.",
+    "q41": "Art criticized as AI-like/oily; content feels derivative."
+  },
+  {
+    "q0": 45014980,
+    "q41": "Art has 'AI' feel; 3D battle models disliked; removed main hero; missing favorite character."
+  },
+  {
+    "q0": 45014648,
+    "q29": -2,
+    "q30": "Energy mainly sold for cash; expects high spending for a mobile game.",
+    "q9": -1,
+    "q10": "Forced manual clears without option; low energy."
+  },
+  {
+    "q0": 45014560,
+    "q31": -2,
+    "q32": "Poor welfare and low rates.",
+    "q25": -2,
+    "q26": "Very low pull rates.",
+    "q3": "Half-auto, half-strategy system with multi-line skill planning that doesn't work well.",
+    "q4": -1,
+    "q5": "Auto/manual hybrid feels messy; PvE not satisfying.",
+    "q41": "Guilds full of ads; combat design feels half-baked."
+  },
+  {
+    "q0": 44389107,
+    "q41": "Art low quality; obscure characters; can't run in a floating window; unoriginal story."
+  },
+  {
+    "q0": 45013038,
+    "q11": -2,
+    "q12": "Wu/burn team is the only viable option."
+  },
+  {
+    "q0": 45012110,
+    "q41": "Story tone feels cringe and inconsistent; lacks compelling progression."
+  },
+  {
+    "q0": 44965546,
+    "q6": "Action bar rewind lets you retry turns; multiple overlapping grinds (breakthrough, gear, skills).",
+    "q7": 1,
+    "q8": "Rewind adds experimentation, but grind is heavy.",
+    "q25": -1,
+    "q26": "Wishlist often fails to hit after dozens; 'Godly' pool at 1.6% feels low.",
+    "q41": "3D model stiffness; unskippable long cutscenes increase fatigue."
+  },
+  {
+    "q0": 45011907
+  },
+  {
+    "q0": 44960347,
+    "q31": 1,
+    "q32": "Welfare is okay.",
+    "q25": -1,
+    "q26": "Inflated pricing and fake discounts; monthly pass priced at 98.",
+    "q41": "Rapid server rolling; poor 3D; odd mandatory puzzle stages."
+  },
+  {
+    "q0": 45011354,
+    "q21": -1,
+    "q22": "Sign-in event shows rewards claimed but none received.",
+    "q41": "Event reward claim bug."
+  },
+  {
+    "q0": 45011319,
+    "q29": -2,
+    "q30": "Claims progression stalls without spending."
+  },
+  {
+    "q0": 45011201,
+    "q41": "Art bias complaint (e.g., Zhuge Liang portrait); feels like a bare gacha."
+  },
+  {
+    "q0": 45010999,
+    "q41": "Poor optimization causes overheating and battery drain."
+  },
+  {
+    "q0": 45010951,
+    "q11": -2,
+    "q12": "Wu burn overtakes others; PvP devolves into stat checking.",
+    "q29": -2,
+    "q30": "Despite '50% off', still need to pay to progress; strategy feels time-wasting."
+  },
+  {
+    "q0": 45005064,
+    "q31": -2,
+    "q32": "Very few freebies.",
+    "q41": "Dungeons stacked with debuffs, reducing fun."
+  },
+  {
+    "q0": 44358334,
+    "q3": "9-grid, 6-unit party, shared energy, speed-based turn order; accumulate energy via basics/skills to fire ultimates.",
+    "q4": 1,
+    "q5": "Automation settings enable intended strategies.",
+    "q6": "Advanced auto-battle condition settings.",
+    "q7": 1,
+    "q8": "Tactical planning matters; automation configurable.",
+    "q31": -1,
+    "q32": "Welfare feels only average for long progression.",
+    "q29": -1,
+    "q30": "Stamina scarcity and many low-rarity pulls slow growth.",
+    "q41": "Guild events require strict timing; kicked for missing logins; cutscenes unskippable."
+  },
+  {
+    "q0": 45010814,
+    "q23": true,
+    "q24": "Pity exists but pulls 'stick' at pity frequently.",
+    "q25": -2,
+    "q26": "Feels predatory to force pity."
+  },
+  {
+    "q0": 45010713
+  },
+  {
+    "q0": 44435428,
+    "q41": "Art style feels AI-generated; prefers the first game's look."
+  },
+  {
+    "q0": 45010603,
+    "q11": -2,
+    "q12": "Balance is very poor."
+  },
+  {
+    "q0": 45010446,
+    "q21": -2,
+    "q22": "Bugs (e.g., 4-5) persist while monetization events are prioritized.",
+    "q41": "Stuck at stage 4-5 due to unresolved bug."
+  }
+]

@@ -1,0 +1,403 @@
+[
+  {
+    "q0": 44213607,
+    "q41": "Art style criticized as overly effeminate; unclear target audience."
+  },
+  {
+    "q0": 44210529
+  },
+  {
+    "q0": 44209826
+  },
+  {
+    "q0": 44204905
+  },
+  {
+    "q0": 44201518,
+    "q41": "Complains about cover image choice and perceived faction favoritism in marketing."
+  },
+  {
+    "q0": 44190802,
+    "q41": "Perceives the art as otome-style; asks not to leverage the original game's brand."
+  },
+  {
+    "q0": 44196226,
+    "q41": "Says they play the series mainly for the original illustrations."
+  },
+  {
+    "q0": 44195560,
+    "q41": "Complains about making male characters 'pretty boy' style; asks to keep some mature 'uncle' characters."
+  },
+  {
+    "q0": 44194610,
+    "q41": "Strongly negative on new art direction; doubts intended audience."
+  },
+  {
+    "q0": 44193360,
+    "q41": "Disappointed by large gap in art style versus the first game."
+  },
+  {
+    "q0": 44187293,
+    "q41": "Complains about community drama and gender discourse; says the series did not rely on female audience."
+  },
+  {
+    "q0": 44184706
+  },
+  {
+    "q0": 44176381,
+    "q41": "Calls the art style eye-searing."
+  },
+  {
+    "q0": 44176141,
+    "q41": "Asks not to brand it as Three Fantasy 2; calls both male and female designs ugly."
+  },
+  {
+    "q0": 44174273,
+    "q41": "Hopes the sequel maintains generous welfare like the first game."
+  },
+  {
+    "q0": 44174035,
+    "q41": "Requests a vertical mode; says horizontal is inconvenient for one-handed play."
+  },
+  {
+    "q0": 44173220
+  },
+  {
+    "q0": 44162294
+  },
+  {
+    "q0": 44160095,
+    "q41": "Dislikes guild systems; requests a single-player PVE version."
+  },
+  {
+    "q0": 44158990,
+    "q41": "Criticizes both male and female character visuals; calls male designs effeminate."
+  },
+  {
+    "q0": 44157727,
+    "q41": "Complains about character redesigns versus the first game; prefers appreciating characters in the original."
+  },
+  {
+    "q0": 44155546,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms/Three Kingdoms historical theme",
+    "q41": "Suggests focusing on deeper, more creative story to stand out in an overcrowded Three Kingdoms genre."
+  },
+  {
+    "q0": 44154237,
+    "q41": "Says many Chinese-style mobile games struggle to keep high story and art quality; emphasizes narrative appeal and player experience."
+  },
+  {
+    "q0": 44151552,
+    "q41": "Attracted by Cao Ang; first time trying this type; hopeful."
+  },
+  {
+    "q0": 44149995,
+    "q41": "Critiques the 3D art style."
+  },
+  {
+    "q0": 44147945,
+    "q41": "Sees the art as aiming for otome style and opts out."
+  },
+  {
+    "q0": 44144679,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms/Three Kingdoms historical theme",
+    "q35": -2,
+    "q36": "Calls out historical inaccuracies (e.g., impossible Zhang Chunhua–Jian Shuo romance due to timeline, roles, and ethics); asks to respect history."
+  },
+  {
+    "q0": 44138360,
+    "q41": "Requests a Journey to the West themed title from the studio."
+  },
+  {
+    "q0": 44135768,
+    "q31": 1,
+    "q32": "Closed test welfare felt generous, similar to the first game's largesse.",
+    "q41": "Notes hero roster is currently small in test; hopes new heroes are released faster and not overtuned."
+  },
+  {
+    "q0": 44126804,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms/Three Kingdoms historical theme",
+    "q41": "Says it is hard to write novel Three Kingdoms plots; suggests investing more in presentation/cutscenes."
+  },
+  {
+    "q0": 44125137,
+    "q41": "Says the art looks identical to Onmyoji: The Card Game."
+  },
+  {
+    "q0": 44125068,
+    "q41": "Asks when testing will happen after the holidays."
+  },
+  {
+    "q0": 44123780,
+    "q41": "Criticizes male characters for looking effeminate."
+  },
+  {
+    "q0": 44123740
+  },
+  {
+    "q0": 44111585,
+    "q41": "Questions the seriousness of the character illustrations."
+  },
+  {
+    "q0": 44106566,
+    "q41": "Hopes the core game has been well-polished after a long development since the 'Hero' codename."
+  },
+  {
+    "q0": 44105193,
+    "q41": "Demands higher historical fidelity in the story."
+  },
+  {
+    "q0": 44103605,
+    "q41": "Positive impression from videos; wants a test slot."
+  },
+  {
+    "q0": 44102941,
+    "q41": "Asks for release timing; impatient."
+  },
+  {
+    "q0": 44088801,
+    "q41": "Says the visuals resemble Reverse: 1999; questions the game's plagiarism claim."
+  },
+  {
+    "q0": 43818817,
+    "q41": "Accuses the game of copying others despite claiming to be frequently plagiarized."
+  },
+  {
+    "q0": 44086087,
+    "q41": "Cai Wenji design is appealing; anxiously waiting for test to start."
+  },
+  {
+    "q0": 44086079,
+    "q41": "Asks about missing character Zuo Ci from the prior game's opening."
+  },
+  {
+    "q0": 44086004,
+    "q41": "Asks when the closed test will start."
+  },
+  {
+    "q0": 44078552,
+    "q41": "Notes aggressive, flashy advertising; waiting for closed test."
+  },
+  {
+    "q0": 44068054,
+    "q41": "Requests no server merges/rollbacks, timed events, or cross-server PvP; says cross-server PvP destroyed their guild in the past."
+  },
+  {
+    "q0": 44067421,
+    "q41": "Complains characters look like Japanese-style designs instead of Chinese generals."
+  },
+  {
+    "q0": 44064788,
+    "q41": "Says the illustrations feel otome-like, losing motivation to play."
+  },
+  {
+    "q0": 44064046,
+    "q41": "Notes rapid rating drop pre-launch; predicts failure."
+  },
+  {
+    "q0": 44058679,
+    "q3": "Grid-based turn-based tactics (American-style war chess).",
+    "q6": "War-chess tactical battles; interface similar to another title.",
+    "q41": "Claims gameplay and UI look very similar to Echo-like game; questions who copied whom."
+  },
+  {
+    "q0": 44052032,
+    "q41": "Waiting for test; long-time series player."
+  },
+  {
+    "q0": 44047502,
+    "q41": "Hopes it surpasses existing card games."
+  },
+  {
+    "q0": 44040786,
+    "q29": -2,
+    "q30": "Perceives promo style (showing only character models) as typical of cash-grab games."
+  },
+  {
+    "q0": 44037458,
+    "q41": "Warns that delaying release further risks launching DOA as ratings keep falling."
+  },
+  {
+    "q0": 44035981,
+    "q41": "Says initial cuteness turns into suspicion of being a reskin."
+  },
+  {
+    "q0": 44035836,
+    "q41": "Calls out developer (Lingxi) and says the art is worse than their male-oriented title 'Ruyuan.'"
+  },
+  {
+    "q0": 44035584,
+    "q41": "Asks the sequel to keep the original feel."
+  },
+  {
+    "q0": 44033649,
+    "q41": "Complains about art change toward otome; confusion over target audience and marketing messaging."
+  },
+  {
+    "q0": 44032854,
+    "q41": "Requests the return of character biographies from the first game."
+  },
+  {
+    "q0": 44027762,
+    "q9": -2,
+    "q10": "Says overall experience is very poor and modes are too single and repetitive.",
+    "q41": "Calls the game not fun with single-mode gameplay."
+  },
+  {
+    "q0": 44026794,
+    "q41": "Warns about the developer's other titles; implies risk in trying this one."
+  },
+  {
+    "q0": 44026171,
+    "q41": "Only cares about Zhang Chunhua's model."
+  },
+  {
+    "q0": 44023925
+  },
+  {
+    "q0": 44022743,
+    "q41": "Requests lower gameplay intensity; wants a relaxing experience."
+  },
+  {
+    "q0": 44019953,
+    "q3": "Card-based RPG/collector (criticized).",
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms/Three Kingdoms historical theme",
+    "q41": "Complains about gender-swapping generals; predicts short lifespan."
+  },
+  {
+    "q0": 44017222,
+    "q29": -2,
+    "q30": "Fears heavy monetization based on the first game's spend pressure."
+  },
+  {
+    "q0": 44013442,
+    "q41": "Positive on the art style; expresses anticipation."
+  },
+  {
+    "q0": 43819318,
+    "q41": "Mocks the touted art style as ugly, including the cover; doubts models will be any better."
+  },
+  {
+    "q0": 44009758,
+    "q41": "Impatient for release."
+  },
+  {
+    "q0": 44009255,
+    "q41": "Says Zhuge Liang design strongly resembles Onmyoji."
+  },
+  {
+    "q0": 44007175,
+    "q41": "Calls the art/theme contradictory ('have it both ways')."
+  },
+  {
+    "q0": 44001961,
+    "q29": -2,
+    "q30": "Perceives it as a reskinned game targeting big spenders; refuses to spend despite being a spender elsewhere.",
+    "q41": "Thinks it looks worse than competing titles; calls it a cash-grab reskin."
+  },
+  {
+    "q0": 44001380,
+    "q41": "Interested partly because sibling title 'Bird' flopped."
+  },
+  {
+    "q0": 44001028,
+    "q41": "Notes familiar Three Kingdoms names but says designs differ from expectations."
+  },
+  {
+    "q0": 44000153,
+    "q41": "Observes Cao Cao's black/white outfit symbolizing dual traits."
+  },
+  {
+    "q0": 43994412,
+    "q6": "Requests increased strategic depth compared to the first game.",
+    "q41": "Wants deeper strategy while staying accessible to veterans."
+  },
+  {
+    "q0": 43993825,
+    "q41": "Art indicates the game is not targeted at them; left a low rating."
+  },
+  {
+    "q0": 43993635,
+    "q41": "Says it has been in testing for years yet still feels like a small, low-skill game."
+  },
+  {
+    "q0": 43993570,
+    "q41": "Excited for the sequel; wants all attractive characters."
+  },
+  {
+    "q0": 43993030,
+    "q41": "Asks for a better Zhuge Liang design; disliked the depiction in another game by the studio."
+  },
+  {
+    "q0": 43992919,
+    "q41": "Mocks claims of being widely imitated; questions the franchise's stature."
+  },
+  {
+    "q0": 43991699,
+    "q41": "Gives provisional 5 stars; asks not to copy other games' disliked resource systems."
+  },
+  {
+    "q0": 43989209,
+    "q41": "Asks whether it is an auto-battler."
+  },
+  {
+    "q0": 43986469,
+    "q41": "Complains about drastic redesigns (e.g., tough characters becoming soft)."
+  },
+  {
+    "q0": 43950557,
+    "q41": "Waiting and watching."
+  },
+  {
+    "q0": 43985050,
+    "q1": true,
+    "q2": "Revealing female characters used to provoke controversy.",
+    "q41": "Says the art should commit to otome style; asks not to stir gender wars."
+  },
+  {
+    "q0": 43973953
+  },
+  {
+    "q0": 43973721,
+    "q3": "Turn-based card battler at its core with attempts at innovation.",
+    "q4": 1,
+    "q5": "Previewed content suggests effort to innovate beyond standard card/turn-based core."
+  },
+  {
+    "q0": 43970227,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms/Three Kingdoms historical theme",
+    "q3": "Card-based Three Kingdoms game (anticipated)."
+  },
+  {
+    "q0": 43968096,
+    "q41": "Says male characters look like lifeless 'dolls'—neither masculine nor elegantly androgynous."
+  },
+  {
+    "q0": 43966303,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms/Three Kingdoms historical theme",
+    "q35": 1,
+    "q36": "Notes many Han dynasty cultural elements are incorporated."
+  },
+  {
+    "q0": 43966091,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms/Three Kingdoms historical theme",
+    "q41": "Says the genre is saturated and hard to stand out; cautiously optimistic due to developer's prior works."
+  },
+  {
+    "q0": 43962434,
+    "q41": "Asks where Zhuge Liang is (missing favorite character)."
+  },
+  {
+    "q0": 43960224,
+    "q1": true,
+    "q2": "Sexualized female designs (large breasts and revealing outfits); feminized male designs.",
+    "q41": "Unhappy with character art direction; says aesthetics feel outdated."
+  }
+]

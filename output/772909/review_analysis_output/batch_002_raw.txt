@@ -1,0 +1,399 @@
+[
+  {
+    "q0": 46457027,
+    "q29": -1,
+    "q30": "Worried about deceptive monetization; asks the game not to be pay-to-win or predatory."
+  },
+  {
+    "q0": 46456154,
+    "q41": "Requests online multiplayer/town-style social features similar to Heart Town."
+  },
+  {
+    "q0": 46455957
+  },
+  {
+    "q0": 46455950,
+    "q41": "Hyped by the fairy-tale micro-world vibe from a big studio; strong anticipation."
+  },
+  {
+    "q0": 46455940,
+    "q3": "Co-op/platforming-style mini-games mixed with simulation/management.",
+    "q41": "Praises art, loves fuzzy materials; concerned about Tencent’s operations and potential PV/gameplay gap."
+  },
+  {
+    "q0": 46455648
+  },
+  {
+    "q0": 46455383
+  },
+  {
+    "q0": 46454919,
+    "q29": -2,
+    "q30": "Asks for low grind and low monetization with event/task earnables; quit a competitor due to heavy monetization."
+  },
+  {
+    "q0": 46453888,
+    "q41": "Praises art and says gameplay looks interesting; asks about release timing."
+  },
+  {
+    "q0": 46453733,
+    "q41": "Positive on art and originality; says it feels fresh with some clever ideas; hopes for good execution."
+  },
+  {
+    "q0": 46453449,
+    "q41": "Came from Heart Town; says this game’s visuals look great."
+  },
+  {
+    "q0": 46453097,
+    "q41": "Finds the art adorable; excited for a refined farming sim; cautious about Tencent’s handling."
+  },
+  {
+    "q0": 46453013
+  },
+  {
+    "q0": 46452464,
+    "q41": "Loves the cute art; bored of Heart Town and wants this to launch soon."
+  },
+  {
+    "q0": 46452028,
+    "q3": "Mentions team-based PvE (co-op dungeons, tea-cup rafting to fight enemies) and wants optional AI teammates.",
+    "q15": "Life-sim loop with character customization, planting (e.g., strawberries in pots), gathering materials, cooking for the tiny folk, building/visiting friends’ worlds, and exploring multiple themed areas (e.g., aquarium), with day-night/weather and desired seasons.",
+    "q16": true,
+    "q33": true,
+    "q34": "Observed a Momo collaboration (pink dinosaur plush costume).",
+    "q35": 0,
+    "q36": "Integration appears cosmetic-only based on the costume mention.",
+    "q41": "Requests deeper avatar customization (face shape, eye types, adjustable ears/elf ears) and optional AI teammates; hopes for seasonal changes and richer exploration."
+  },
+  {
+    "q0": 46451904,
+    "q29": -1,
+    "q30": "Asks the game not to be stingy and to avoid high-start-low-finish operations; hopes for healthy monetization and ops."
+  },
+  {
+    "q0": 46451454
+  },
+  {
+    "q0": 46450523
+  },
+  {
+    "q0": 46450446,
+    "q15": "Fashion/cosmetic loop with lots of outfits and the ability to craft/sew clothing.",
+    "q16": true,
+    "q41": "Wants many pretty outfits and a tailor/crafting system."
+  },
+  {
+    "q0": 46450194
+  },
+  {
+    "q0": 46449750,
+    "q41": "Strongly requests viable solo progression not bound to social systems; drawn by soothing UI."
+  },
+  {
+    "q0": 46449442,
+    "q41": "Accuses the game of plagiarism."
+  },
+  {
+    "q0": 46449010,
+    "q15": "Home decoration and house-building focus with minimal chore-like tasks.",
+    "q16": true,
+    "q41": "Wants less task-grind and more focus on decorating the home."
+  },
+  {
+    "q0": 46448322,
+    "q41": "Wants high freedom and fewer miscellaneous mini-games."
+  },
+  {
+    "q0": 46448173
+  },
+  {
+    "q0": 46448079,
+    "q15": "Resource collection/harvesting loop; prefers one-tap or auto-pickup over vacuum-style collection.",
+    "q16": true,
+    "q41": "Suggests changing collection method to avoid vacuum-suck style, referencing negative experience in another game."
+  },
+  {
+    "q0": 46447850,
+    "q41": "Requests face sculpting; critiques eye spacing and foot size/walk animation."
+  },
+  {
+    "q0": 46447776,
+    "q41": "Wants a clean, clear UI and leveraging QQ/WeChat integration."
+  },
+  {
+    "q0": 46447663,
+    "q41": "Loves the soothing art; high anticipation."
+  },
+  {
+    "q0": 46447443,
+    "q29": -1,
+    "q30": "Wants monetization limited to cosmetics (clothes), not furniture; requests outfits that match the art style (no flashy wings).",
+    "q41": "Strong preference for style-consistent cosmetics."
+  },
+  {
+    "q0": 46447408,
+    "q15": "High-freedom building and exploration with creative cooking and makeup systems, plus role/profession play (e.g., barber apprenticeship) and rich object interactions.",
+    "q16": true,
+    "q41": "Wants co-op options, free-form cooking/makeup, professions, vending/stalls, and many interactive props; expects PC client visual fidelity."
+  },
+  {
+    "q0": 46446949,
+    "q41": "Asks whether the game supports multiplayer."
+  },
+  {
+    "q0": 46431416,
+    "q41": "Requests a DIY companion character for solo play and optional downloads for mini-games/dungeons to save storage."
+  },
+  {
+    "q0": 46446502,
+    "q41": "Very high anticipation due to soothing visuals; anxious about the wait and test access."
+  },
+  {
+    "q0": 46446414,
+    "q41": "Concerned about the game’s profitability and Tencent’s resource allocation; cautiously optimistic."
+  },
+  {
+    "q0": 46445749,
+    "q41": "Criticizes domestic online games for being derivative 'Franken-games'."
+  },
+  {
+    "q0": 46445399,
+    "q41": "Hopes there’s no forced social; wants room for introverted players."
+  },
+  {
+    "q0": 46443899,
+    "q41": "Wants more handsome/cute NPCs; says it looks better than another recent release."
+  },
+  {
+    "q0": 46443628,
+    "q41": "Says if PV and actual gameplay match closely, it will be excellent."
+  },
+  {
+    "q0": 46443143,
+    "q41": "Dislikes landscape-only; requests a portrait mode for office workers."
+  },
+  {
+    "q0": 46443039,
+    "q15": "Build and decorate a dream home, collect and manage resources to develop a small world; emphasis on cosmetic and furniture variety.",
+    "q16": true,
+    "q41": "Wants rich outfits and furniture to construct a cozy, dreamy home."
+  },
+  {
+    "q0": 46443026,
+    "q41": "Says it looks good and more technically competent than a competitor."
+  },
+  {
+    "q0": 46442753,
+    "q15": "Economy loop: earn coins via exploration/quests and spend them in a clothing shop.",
+    "q16": true,
+    "q41": "Requests a large map and a coin-based shop for outfits."
+  },
+  {
+    "q0": 46442516,
+    "q41": "Wants performance options (auto resource cleanup), non-forced social, focus on farming/management, and mod support for long-term engagement."
+  },
+  {
+    "q0": 46442142,
+    "q41": "Asks about open beta; doesn’t like to pre-register."
+  },
+  {
+    "q0": 46442014,
+    "q41": "Asks about open beta; considers Starry Cloth Valley a competitor."
+  },
+  {
+    "q0": 46441900,
+    "q41": "Strongly hopes for freer face customization and dressing; OC players are excited."
+  },
+  {
+    "q0": 46441425,
+    "q41": "Likes the art; asks for good optimization and stability expected from a big studio."
+  },
+  {
+    "q0": 46441326,
+    "q41": "Art style perfectly appealing; hopes actual implementation keeps the same fidelity."
+  },
+  {
+    "q0": 46441268,
+    "q41": "Art and gameplay look attractive; characters and clothing are cute; urges devs to listen to player feedback."
+  },
+  {
+    "q0": 46441185,
+    "q29": -1,
+    "q30": "Asks the game not to be grindy.",
+    "q41": "Thinks it looks like an open-world run-around with fairy-tale vibe; concerned about grind."
+  },
+  {
+    "q0": 46441006,
+    "q41": "Micro-world fantasy strongly appealing; PV and demo sold them; eager to invest time/resources."
+  },
+  {
+    "q0": 46441001,
+    "q15": "Construction/building system that feels soothing and stress-relieving.",
+    "q16": true,
+    "q41": "Very interested in the building system; praises part designs."
+  },
+  {
+    "q0": 46440628
+  },
+  {
+    "q0": 46440365,
+    "q15": "Exploration beyond the room with gentle, relaxing collection mechanics.",
+    "q16": true,
+    "q41": "Hopes content difficulty stays low and relaxing."
+  },
+  {
+    "q0": 46440236
+  },
+  {
+    "q0": 46440183
+  },
+  {
+    "q0": 46440099,
+    "q41": "Sees market rivalry with miHoYo’s sim game; prefers Tencent due to convenient QQ login."
+  },
+  {
+    "q0": 46440092,
+    "q41": "Instantly pre-registered due to the art; wants the Upa pet."
+  },
+  {
+    "q0": 46440080,
+    "q15": "Island-building plus a variety of multiplayer mini-games to extend longevity beyond pure farming/fishing.",
+    "q16": true,
+    "q41": "Says island building and mini-games look well-crafted; contrasts with a competitor’s weak island-building and gacha."
+  },
+  {
+    "q0": 46439884
+  },
+  {
+    "q0": 46439444,
+    "q41": "Trailer has strong atmosphere; soothing music and warm visuals with solid quality."
+  },
+  {
+    "q0": 46439814
+  },
+  {
+    "q0": 46439692,
+    "q41": "Claims it imitates Heart Town and is jumping into the profitable trend."
+  },
+  {
+    "q0": 46439670,
+    "q29": 1,
+    "q30": "Expresses willingness to spend on Tencent’s monetization, expecting fewer controversies compared to others.",
+    "q41": "Art quality is very appealing; positive attitude toward spending if quality holds."
+  },
+  {
+    "q0": 46439264,
+    "q41": "Very eager to play; loves the cute, delicate art."
+  },
+  {
+    "q0": 46439219,
+    "q41": "Finds the music soothing; wants the OST released early."
+  },
+  {
+    "q0": 46438926,
+    "q41": "Warns that PV/actual visual gap kills hype; urges showing real gameplay."
+  },
+  {
+    "q0": 46438850,
+    "q15": "Forest gathering/collection (e.g., pollen and dew) as part of the relaxing loop.",
+    "q16": true,
+    "q41": "PV is very attractive; loves the forest collection concept."
+  },
+  {
+    "q0": 46435861,
+    "q41": "Loves the unique micro-world perspective where everyday items become huge; finds it fresh."
+  },
+  {
+    "q0": 46438394,
+    "q41": "Wants to build a cute, brick-assembled Formula car—hopes for creative building options."
+  },
+  {
+    "q0": 46438384,
+    "q41": "Requests higher scene texture fidelity, no invisible walls, large open maps, tasteful exploration cues, and light social lobbies (e.g., 8-player rooms) with sellable romantic effects."
+  },
+  {
+    "q0": 46438374,
+    "q29": 1,
+    "q30": "Expects Tencent-style gacha/cosmetics pricing to be more affordable than a competitor’s very expensive pools; thus optimistic about spending fairness."
+  },
+  {
+    "q0": 46438027,
+    "q41": "Hopes it plays similarly to Heart Town."
+  },
+  {
+    "q0": 46437936,
+    "q41": "Praises the refined hand-painted art and dreamy lighting; very immersive visuals."
+  },
+  {
+    "q0": 46437864
+  },
+  {
+    "q0": 46437740,
+    "q3": "Perceived as a blend of It Takes Two-style co-op with Heart Town-like life sim.",
+    "q41": "Identifies the game as a mix of co-op adventure and life simulation."
+  },
+  {
+    "q0": 46437715,
+    "q15": "High-freedom building focus with many interactive items; solo island with invite-only multiplayer; simple, cute clothing.",
+    "q16": true,
+    "q41": "Wants more object interactions and to avoid flashy late-game effects."
+  },
+  {
+    "q0": 46437584,
+    "q41": "Expresses simple liking for the game."
+  },
+  {
+    "q0": 46437543,
+    "q41": "Asks whether it’s buy-to-play."
+  },
+  {
+    "q0": 46437406,
+    "q15": "Beyond standard farming/fishing, adds adventure in a micro-world theme, with strong art/production values.",
+    "q16": true,
+    "q41": "Most appealing among recent life-sim games; trusts big-studio quality; anticipates release next year."
+  },
+  {
+    "q0": 46437397
+  },
+  {
+    "q0": 46437382
+  },
+  {
+    "q0": 46437277,
+    "q41": "Asks whether it supports multiplayer."
+  },
+  {
+    "q0": 46436689,
+    "q29": -1,
+    "q30": "Will spend if the game is fun and not grindy; implies concern about heavy grind.",
+    "q41": "Loves Arrietty-like tiny-world theme and sim/management gameplay."
+  },
+  {
+    "q0": 46436588
+  },
+  {
+    "q0": 46436022,
+    "q41": "Critiques avatar face proportions (wide eye distance gives a silly look)."
+  },
+  {
+    "q0": 46435974,
+    "q15": "House-building and construction with desire for more materials/furniture and higher building freedom.",
+    "q16": true,
+    "q41": "Asks about building freedom; wants better variety and continuity in styles than a competitor."
+  },
+  {
+    "q0": 46435706,
+    "q3": "Looks like It Takes Two-style co-op adventure.",
+    "q41": "Notices strong similarity to It Takes Two."
+  },
+  {
+    "q0": 46435666,
+    "q41": "Asks if it will launch on Steam and be free; inquires about Steam release timing."
+  },
+  {
+    "q0": 46435637,
+    "q15": "Focus on well-made fashion, housing, and exploration; avoid cluttered events and messy UI.",
+    "q16": true,
+    "q41": "Open to spending if clothes/furniture quality and exploration feel are done well."
+  }
+]

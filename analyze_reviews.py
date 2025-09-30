@@ -134,22 +134,12 @@ for i in range(0, len(batches)):
 
     # Call API
     try:
-        response = ch.client.responses.create(
-            model=ch.MODEL,
-            input=[
-                {
-                    "role": "system",
-                    "content": [{"type": "input_text", "text": PROMPT_PREFIX}],
-                },
-                {
-                    "role": "user",
-                    "content": [{"type": "input_text", "text": batch_prompt}],
-                },
-            ],
-            # temperature=0.3,
-            # max_output_tokens=ch.CHUNK_OUTPUT_MAX,  # optional cap
-        )
-        content = response.output_text.strip()
+        content = ch._call_response(
+            model=ch.MODEL, 
+            system_prompt=PROMPT_PREFIX, 
+            user_payload=batch_prompt, 
+            max_tokens=ch.CHUNK_OUTPUT_MAX
+        ).strip()
     except Exception as e:
         print(f"❌ OpenAI API error in batch {i+1}: {e}")
         continue
@@ -267,10 +257,10 @@ print("General summary exported successfully to csv!")
 print("Compiling everything into a final report...")
 
 csv_files = [
-(general_summary_csv_path, "general_summary"),
-(analysis_summary_csv_path, "analysis_summary"),
-(detailed_review_analysis_output_path, "detailed_review_analysis"),
-(review_csv_path, "reviews"),
+    (general_summary_csv_path, "general_summary"),
+    (analysis_summary_csv_path, "analysis_summary"),
+    (detailed_review_analysis_output_path, "detailed_review_analysis"),
+    (review_csv_path, "reviews"),
 ]
 
 out_dir = Path(f"output/{app_id}/report")

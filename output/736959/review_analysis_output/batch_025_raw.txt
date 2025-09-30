@@ -1,0 +1,474 @@
+[
+  {
+    "q0": 44918760,
+    "q3": "Auto-battle with AI controlling fights.",
+    "q4": -2,
+    "q5": "Auto-battle is a nightmare; AI is very dumb.",
+    "q29": -1,
+    "q30": "Stingy test welfare increases pressure to spend.",
+    "q31": -2,
+    "q32": "Closed-beta welfare felt stingy."
+  },
+  {
+    "q0": 44918483
+  },
+  {
+    "q0": 44917640,
+    "q41": "Claims official deleted criticism of Sun Ce's portrait on Bilibili."
+  },
+  {
+    "q0": 44917421,
+    "q41": "Art style looks dated for a 2025 game."
+  },
+  {
+    "q0": 44916041,
+    "q1": true,
+    "q2": "BL/otome undertones and feminized portrayal of Cao Cao.",
+    "q41": "Story felt cringey and portraits controversial; plans to skip launch."
+  },
+  {
+    "q0": 44913698,
+    "q41": "Surprised a sequel exists; negative sentiment toward the need for a '2'."
+  },
+  {
+    "q0": 44913306
+  },
+  {
+    "q0": 44911740
+  },
+  {
+    "q0": 44910799
+  },
+  {
+    "q0": 44175087,
+    "q1": true,
+    "q2": "Overly sexualized male character design (e.g., Sun Ce posed like pole dancing); otome/BL vibe.",
+    "q41": "Accuses dev of using shill reviews; says new art style feels gloomy and mismatched to audience."
+  },
+  {
+    "q0": 44907871
+  },
+  {
+    "q0": 44907834
+  },
+  {
+    "q0": 44907695,
+    "q41": "Asks about TapTap pre-registration pre-draw event."
+  },
+  {
+    "q0": 44649698,
+    "q41": "Says quality has regressed since 'Code: Hero'; suggests it is going backwards."
+  },
+  {
+    "q0": 44906372
+  },
+  {
+    "q0": 44905739
+  },
+  {
+    "q0": 44905408
+  },
+  {
+    "q0": 44905184
+  },
+  {
+    "q0": 44904279,
+    "q41": "Dislikes 'rich gameplay' marketing; fears chore-like dailies and check-ins."
+  },
+  {
+    "q0": 44904085
+  },
+  {
+    "q0": 44903722
+  },
+  {
+    "q0": 44903636
+  },
+  {
+    "q0": 44901743
+  },
+  {
+    "q0": 44896719,
+    "q41": "Gives one star purely because of the portraits/illustrations."
+  },
+  {
+    "q0": 44895842,
+    "q33": true,
+    "q34": "Celebrity endorsement by Zhang Ruonan attracted the user."
+  },
+  {
+    "q0": 44895264
+  },
+  {
+    "q0": 44895029,
+    "q1": true,
+    "q2": "Says it turned into an otome (female-targeted) game.",
+    "q41": "Disappointed by perceived otome shift."
+  },
+  {
+    "q0": 44892429,
+    "q33": true,
+    "q34": "Came for Zhang Ruonan (celebrity endorsement)."
+  },
+  {
+    "q0": 44891409
+  },
+  {
+    "q0": 44889704,
+    "q41": "Questions whether the dev understands its target audience."
+  },
+  {
+    "q0": 44889031,
+    "q11": -1,
+    "q12": "Says Wei faction needs revitalization; wonders if new characters after the 'girl group' will be stronger."
+  },
+  {
+    "q0": 44885952,
+    "q41": "Art style worse than the first game; feels like a half-finished product."
+  },
+  {
+    "q0": 44884520,
+    "q41": "Requests keeping generous giveaways such as free top-tier heroes."
+  },
+  {
+    "q0": 44883383,
+    "q21": 1,
+    "q22": "Claims new content is being released continuously.",
+    "q41": "Notes smooth operation."
+  },
+  {
+    "q0": 44879552,
+    "q41": "Criticizes Sun Ce's redesign."
+  },
+  {
+    "q0": 44878050,
+    "q1": true,
+    "q2": "Mentions there is an 'H-game' (eroge) version."
+  },
+  {
+    "q0": 44867234
+  },
+  {
+    "q0": 44865753,
+    "q1": true,
+    "q2": "Wants more handsome/beautiful character portraits and close-ups (eye-candy)."
+  },
+  {
+    "q0": 44863178,
+    "q41": "UI feels dark and oppressive; reduces desire to play."
+  },
+  {
+    "q0": 44860282
+  },
+  {
+    "q0": 44860149,
+    "q27": 2,
+    "q28": "New players/F2P can progress via tickets from story, achievements, and dailies; good gold rate.",
+    "q31": 2,
+    "q32": "Easy to stockpile 10-pulls with decent gold drop rate."
+  },
+  {
+    "q0": 44850906,
+    "q6": "Resonance system enables quickly fielding 4–5 teams.",
+    "q13": 1,
+    "q14": "Multiple teams are viable; asks for more modes so each team has playtime.",
+    "q41": "Requests more modes to give every team chances to appear."
+  },
+  {
+    "q0": 44850180,
+    "q9": 1,
+    "q10": "Cultivation is relatively easy; can quickly form two teams and progress PvE and PvP concurrently."
+  },
+  {
+    "q0": 44848962
+  },
+  {
+    "q0": 44843489,
+    "q6": "PvP had obstacles and ballista before; suggests allowing player-placed obstacles.",
+    "q7": -1,
+    "q8": "Removal of terrain tools reduced tactical variety in PvP."
+  },
+  {
+    "q0": 44668504,
+    "q3": "Turn-based with speed priority and turn-meter push/pull; AoE/DOT meta; cast times and interrupts matter.",
+    "q4": -1,
+    "q5": "Speed-push AoE openers often deny your first turn, deciding matches early.",
+    "q6": "Speed/turn meter manipulation, ignite, AoE vs DOT vs single-target roles, counter builds, stealth/invisibility interactions, equipment stat systems.",
+    "q7": -1,
+    "q8": "Single dominant speed-push meta and lack of speed variance on gear overshadow other tactics.",
+    "q11": -2,
+    "q12": "Wei faction underperforms in both PvE and PvP; key combos underwhelm versus others like Zhang Chunhua/Guanyu.",
+    "q13": -2,
+    "q14": "Archetypes like counter/control/slow teams are not viable; diversity lacking.",
+    "q27": -1,
+    "q28": "Shop sells stat-affecting items (e.g., Destiny reroll stones); early-turn meta and gear systems disadvantage F2P.",
+    "q29": -1,
+    "q30": "Monetization around rerolls/gear risks pay advantage.",
+    "q41": "Guild lacks interactive group activities and rewards; suggests season model; equipment loadout UI is clunky; wants more archetypes and cooperative content."
+  },
+  {
+    "q0": 44838100,
+    "q41": "Asks not to nerf welfare at launch; notes unlucky players need more resources."
+  },
+  {
+    "q0": 44808167,
+    "q9": 1,
+    "q10": "Main story difficulty lowered, making progression smoother."
+  },
+  {
+    "q0": 44807224
+  },
+  {
+    "q0": 44804219
+  },
+  {
+    "q0": 44797965,
+    "q6": "After awakening, can switch career-related skills based on needs.",
+    "q7": 1,
+    "q8": "Flexible role switching increases tactical options."
+  },
+  {
+    "q0": 44795785,
+    "q41": "New app icon is very ugly."
+  },
+  {
+    "q0": 44787894,
+    "q6": "Dozens of classes and tactics emphasized.",
+    "q7": 2,
+    "q8": "Strategy is strong; class and tactic designs feel substantive."
+  },
+  {
+    "q0": 44785817,
+    "q6": "Resonance plus inheritance lower early team swap cost.",
+    "q11": -1,
+    "q12": "Wei needs buffs; Shu/Neutral comps feel okay.",
+    "q13": 1,
+    "q14": "Tried several comps; overall balance acceptable aside from Wei."
+  },
+  {
+    "q0": 44780371,
+    "q6": "Later stages require deeper study of mechanics and team synergies.",
+    "q7": 1,
+    "q8": "Later-game demands more theorycrafting."
+  },
+  {
+    "q0": 44751444,
+    "q7": 1,
+    "q8": "Not pure power creep; suits casual players."
+  },
+  {
+    "q0": 44749038,
+    "q15": "Homestead, fishing for equipment, and life skills loops.",
+    "q16": true,
+    "q17": -2,
+    "q18": "Feels like tedious 'prison' chores requiring hundreds of repetitions.",
+    "q19": -1,
+    "q20": "Perceived low returns from fishing versus time spent.",
+    "q9": -1,
+    "q10": "Boring level-gating; pressure to buy stamina daily.",
+    "q11": -1,
+    "q12": "Some content forces or excludes certain characters; balance suffers.",
+    "q13": -1,
+    "q14": "Purple units progress too slowly to field; faction bonuses limit choices.",
+    "q29": -1,
+    "q30": "Daily stamina purchases feel expected."
+  },
+  {
+    "q0": 44747230,
+    "q1": true,
+    "q2": "Otome/BL-coded portrayals (e.g., effeminate Yuan Shao and teen Cao Cao).",
+    "q6": "Interrupts, cast times, speed, ignite; prevalent poison/group comps.",
+    "q11": -1,
+    "q12": "Poison/group comps overrepresented; Wei feels weak.",
+    "q27": -1,
+    "q28": "Perceives player stratification by spend level.",
+    "q29": -1,
+    "q30": "Feels monetization creates class divisions.",
+    "q31": 1,
+    "q32": "Gacha feels okay with directed pools and not overly restrictive."
+  },
+  {
+    "q0": 44745548,
+    "q6": "Resonance system; quick lineup switching for story and 'Wenjian' arena.",
+    "q13": 1,
+    "q14": "Easier to change comps than previous test."
+  },
+  {
+    "q0": 44743014,
+    "q41": "Notes Dong Zhuo redesigned from obese villain to a charismatic warlord."
+  },
+  {
+    "q0": 44741558,
+    "q1": true,
+    "q2": "Calls it openly otome now (icon change).",
+    "q41": "Criticizes otome-leaning branding."
+  },
+  {
+    "q0": 44737772,
+    "q23": true,
+    "q24": "Around 50-pull pity for a gold; first day's first gold guaranteed from wishlist; more pull resources this test.",
+    "q27": 2,
+    "q28": "F2P can obtain a gold per day with increased resources.",
+    "q31": 2,
+    "q32": "More pull resources; pity and targeted first gold help players."
+  },
+  {
+    "q0": 44729713
+  },
+  {
+    "q0": 44725256,
+    "q3": "Has auto-battle; some strategy but manual play feels tedious for auto-battle players.",
+    "q4": -1,
+    "q5": "As an auto-battle player, finds the combat too troublesome.",
+    "q15": "Fishing system grants equipment.",
+    "q16": true,
+    "q17": -1,
+    "q18": "Design choice feels unfun.",
+    "q19": -1,
+    "q20": "Feels worse than straightforward farming.",
+    "q9": -1,
+    "q10": "Progression pacing too slow; core modes unlock late.",
+    "q41": "Criticizes story rewrites and characterization."
+  },
+  {
+    "q0": 44720972,
+    "q9": 2,
+    "q10": "Easier cultivation; national team forms quickly; early story pulls yield four SSRs.",
+    "q31": 2,
+    "q32": "Early tickets allow assembling four top-tier heroes."
+  },
+  {
+    "q0": 44720590,
+    "q6": "Resonance and inheritance systems reduce grind; added Live2D.",
+    "q9": 1,
+    "q10": "Main story became easier; overall de-stressed."
+  },
+  {
+    "q0": 44720589,
+    "q6": "Resonance/inheritance; planning around 'Xuanlong Pearl' matters.",
+    "q7": 1,
+    "q8": "Team-building hinges on Pearl planning and inheritance."
+  },
+  {
+    "q0": 44719270,
+    "q31": 1,
+    "q32": "Welfare increased; added Live2D; Beacon stages can be skipped.",
+    "q27": 1,
+    "q28": "No-loss hero swapping reduces investment burden."
+  },
+  {
+    "q0": 44718739,
+    "q41": "Unified advancement materials across roles is a helpful QoL change."
+  },
+  {
+    "q0": 44713506
+  },
+  {
+    "q0": 44711273,
+    "q6": "Faction synergy (4 core bond + 2 flex); options between 'girl-group strategist' and national teams.",
+    "q7": 1,
+    "q8": "Strength largely hinges on synergy planning."
+  },
+  {
+    "q0": 44710220,
+    "q41": "Stamina regenerates 1 per 3 minutes; max cap increases with level (e.g., 480→600)."
+  },
+  {
+    "q0": 44687059,
+    "q3": "Beacon stages now skippable, reducing waiting for auto-clears.",
+    "q41": "Skip feature improves pacing."
+  },
+  {
+    "q0": 44686889,
+    "q41": "Guild war unlocks on Day 4; suggests opening on Day 2 instead."
+  },
+  {
+    "q0": 44685715,
+    "q27": 1,
+    "q28": "World-channel assistance and generous early resources help progression.",
+    "q31": 2,
+    "q32": "Early rewards are generous (at least one SSR per day).",
+    "q41": "UI feels better (possibly due to PC play)."
+  },
+  {
+    "q0": 44677466
+  },
+  {
+    "q0": 44676497,
+    "q6": "Class change, skill tree, equipment and tactics systems support buildcraft.",
+    "q7": 2,
+    "q8": "Varied systems enable deep customization and strategy."
+  },
+  {
+    "q0": 44675800,
+    "q41": "Perceives higher gold drop rate from gacha than the prior test."
+  },
+  {
+    "q0": 44674758,
+    "q6": "Poison DoT plus counterattack build.",
+    "q7": 1,
+    "q8": "This archetype proved effective."
+  },
+  {
+    "q0": 44661051,
+    "q21": -1,
+    "q22": "Feels half-finished and gets stale; lacks freshness."
+  },
+  {
+    "q0": 44658807,
+    "q41": "Art quality is far worse than the first game."
+  },
+  {
+    "q0": 44658450,
+    "q31": 1,
+    "q32": "More resources and stamina than Test 1, though still wants more."
+  },
+  {
+    "q0": 44656911,
+    "q1": true,
+    "q2": "Story implies Cao Cao favors married women; perceived lore deviations.",
+    "q41": "Finds characterization off."
+  },
+  {
+    "q0": 44654310,
+    "q15": "Fishing ('Yuyi') can drop equipment.",
+    "q16": true,
+    "q19": -1,
+    "q20": "Drop rate feels worse than directly farming."
+  },
+  {
+    "q0": 44653365,
+    "q27": -2,
+    "q28": "Feels like a spender leaderboard; low spenders are blocked.",
+    "q29": -2,
+    "q30": "Heavy monetization focus; ranks and progress favor big spenders.",
+    "q41": "Quit after seeing pay-to-win ranking focus."
+  },
+  {
+    "q0": 44652624,
+    "q27": -2,
+    "q28": "PvP lacks early fairness; high spenders get ahead; many monetization items.",
+    "q29": -2,
+    "q30": "Significant recommended upfront spending (~648 RMB) to start well; pressure to compete for ladder rewards."
+  },
+  {
+    "q0": 44651931,
+    "q27": -2,
+    "q28": "After one-time resources, F2P/microspenders are effectively locked out of PvP; key mechanics tied to breakthroughs.",
+    "q29": -2,
+    "q30": "Gating mechanics in breakthroughs increases spending pressure.",
+    "q41": "Very poor 3D models/animations; combat looks like wooden dummies."
+  },
+  {
+    "q0": 44651261,
+    "q41": "Requests customizable favorite-hero UI slot."
+  },
+  {
+    "q0": 44650526,
+    "q41": "Finds gameplay novel and UI attractive."
+  },
+  {
+    "q0": 44650290,
+    "q41": "Portraits are good but 3D models are poor, reducing desire to play."
+  }
+]

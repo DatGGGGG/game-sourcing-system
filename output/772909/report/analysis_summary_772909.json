@@ -1,0 +1,301 @@
+[
+    {
+        "question_code": "q1",
+        "question_content": "Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)",
+        "synthesis_answer": {
+            "null": 276
+        }
+    },
+    {
+        "question_code": "q2",
+        "question_content": "List the sensitive content mentioned, if any.",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q3",
+        "question_content": "Summarize the core combat mechanics (or “N/A” if not mentioned).",
+        "synthesis_answer": "- Co-op combat likened to It Takes Two; small-team action focus. [46455940, 46437740, 46435706]\n- Group instance gameplay shown; three players coordinate while rafting and attacking. [46452028]\n- Higher-difficulty group activities expected beyond casual co-op. [46452028]\n- Players request AI teammates for dungeons; reduced materials compared to human parties. [46452028]\n- Combat sequences likely combine movement and attacks in set-piece rides. [46452028]"
+    },
+    {
+        "question_code": "q4",
+        "question_content": "Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 276
+            }
+        }
+    },
+    {
+        "question_code": "q5",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q6",
+        "question_content": "List the strategic/tactical features mentioned, if any.",
+        "synthesis_answer": "• Dedicated gameplay map: human city heist/stealth challenge. [46431645]\n• Objective: \"steal items\" to decorate player's home. [46431645]\n• Entry requires staking a collateral item. [46431645]\n• Risk/reward: if detected by humans, lose stolen items and collateral. [46431645]\n• Success condition: bring stolen items home when undetected. [46431645]"
+    },
+    {
+        "question_code": "q7",
+        "question_content": "Rate strategic/tactical depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 276
+            }
+        }
+    },
+    {
+        "question_code": "q8",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Suggests stealth-based heist map to add planning and tactical challenge. [46431645]\n- Introduces risk-reward via collateral; failure forfeits collateral and loot. \"Enter requires collateral; discovery forfeits all.\" [46431645]\n- Clear success/failure consequences encourage strategic decision-making and risk management. [46431645]\n- Rewards (home decorations) incentivize careful execution, increasing strategic depth. [46431645]"
+    },
+    {
+        "question_code": "q9",
+        "question_content": "Rate game progression: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 1.0,
+            "detailed_scoring": {
+                "null": 274,
+                "1.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q10",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Non-grindy progression; \"no tasks, not grindy\" expectations. [46458772, 46459350]\n• Favorable contrast to a rival seen as grind-heavy and pay-reliant for outfits. [46459350]\n• Progression expected to emphasize casual dressing-up; free outfit mixing noted. [46458772]"
+    },
+    {
+        "question_code": "q11",
+        "question_content": "Rate hero balance: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 276
+            }
+        }
+    },
+    {
+        "question_code": "q12",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q13",
+        "question_content": "Rate hero/team build diversity: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 276
+            }
+        }
+    },
+    {
+        "question_code": "q14",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q15",
+        "question_content": "Describe the secondary core loop (or “N/A”)",
+        "synthesis_answer": "• Explore micro-world spaces to gather sunlight, flower scent, and dew resources. [46470066, 46438850, 46440365, 46431397]\n• Use gathered resources to craft items or cook food for Lilis. [46470066, 46452028]\n• Farm, fish, and cook regularly as supportive life-sim activities. [46429469, 46431124, 46447408]\n• Play co-op instances and minigames, like teacup rafting combat, to earn materials. [46452028, 46440080]\n• Optionally use AI teammates in co-op, with reduced material rewards. [46452028]\n• Invite friends to visit your desk-world for co-play and gift exchanges. [46452028, 46435260]\n• Complete adventures or tasks to earn coins, then buy outfits and furniture. [46442753, 46433388]\n• Interact with Lili NPCs who remember shared activities; build relationships. [46470066]\n• Gather resources via a suction tool; players request one-click pickup. [46448079]\n• Day-night and weather systems add variety to exploration. [46452028]\n• Risky heists in human-scale maps to steal décor for home. [46431645, 46430108]\n• Daily check-ins and tasks grant outfits, emotes, and small rewards. [46434039]\n• Take jobs or run stalls to earn money through service gameplay. [46447408]\n• Expand exploration across large maps and special zones like an eco tank. [46452028, 46442753]"
+    },
+    {
+        "question_code": "q16",
+        "question_content": "Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 248,
+            "true": 25,
+            "false": 3
+        }
+    },
+    {
+        "question_code": "q17",
+        "question_content": "Rate simplicity of the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 2.0,
+            "detailed_scoring": {
+                "null": 273,
+                "2.0": 3
+            }
+        }
+    },
+    {
+        "question_code": "q18",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Building mode perceived as too simple; players want deeper construction tools. [46435221]\n- Demo loop felt shallow and boring; core gameplay unclear beyond dress-up/building. [46433388]\n- NPC interactions shown (gifting, lounging) viewed as simplistic and unengaging. [46433388]\n- Gathering in the micro-world feels calm and accessible, indicating low-pressure simplicity. [46470066]\n- Economic/collection loops weren’t demonstrated, suggesting oversimplified secondary systems. [46433388]"
+    },
+    {
+        "question_code": "q19",
+        "question_content": "Rate resources earned from the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.5,
+            "detailed_scoring": {
+                "null": 274,
+                "1.0": 1,
+                "-2.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q20",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Collecting unique resources (sunlight, flower fragrance) is delightful and immersive. [46470066]\n- These resources can craft various wondrous items, enhancing creativity. [46470066]\n- Each gathering session feels like a calm, gentle adventure. [46470066]\n- Demos fail to explain how materials or money are earned for progression. [46433388]\n- Worry that resource acquisition may be replaced by pure monetization. [46433388]\n- Players want visible loops: collect materials to build or make clothes. [46433388]"
+    },
+    {
+        "question_code": "q21",
+        "question_content": "Rate frequency of content/meta updates: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 276
+            }
+        }
+    },
+    {
+        "question_code": "q22",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q23",
+        "question_content": "Does the game have a gacha guarantee system? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 276
+        }
+    },
+    {
+        "question_code": "q24",
+        "question_content": "Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q25",
+        "question_content": "Rate reasonableness of gacha pull price: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 276
+            }
+        }
+    },
+    {
+        "question_code": "q26",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q27",
+        "question_content": "Rate major feature access for non-paying users: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 276
+            }
+        }
+    },
+    {
+        "question_code": "q28",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q29",
+        "question_content": "Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.7916666666666666,
+            "detailed_scoring": {
+                "null": 252,
+                "-1.0": 17,
+                "1.0": 4,
+                "-2.0": 3
+            }
+        }
+    },
+    {
+        "question_code": "q30",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Players fear heavy monetization and pay-to-play pressure. [46473865]\n- Strong demand for no deceptive monetization practices. [46457027]\n- Monetize cosmetics only; avoid charging for furniture. [46447443]\n- Prefer clearly priced outfits; avoid gacha systems. [46433751, 46431820, 46431056]\n- Pricing benchmark requested: similar to King of Glory. [46431820, 46431056]\n- Avoid high pity floors and expensive banners seen in Heartbeat Town. [46433919, 46432564, 46430210]\n- Heartbeat Town criticized as overly pay-heavy and gacha-centric. [46430902, 46428497, 46431537]\n- Previous games needed ~3000 RMB per banner; expect far cheaper. [46438374]\n- Bundle prices should be reasonable; not four-digit spending. [46435260, 46431056]\n- Provide earnable rewards via events and tasks to reduce spending. [46454919]\n- Avoid constant recharge prompts and monetized event clutter. [46434628]\n- Some prefer a buyout model; otherwise fear incomplete collections. [46435509]\n- Players warn against stingy operations; maintain fair generosity. [46451904]\n- Reduce grindiness to lessen pressure to spend. [46441185, 46436689]\n- Expectation that Tencent’s costs be fairer than competitors. [46438374]"
+    },
+    {
+        "question_code": "q31",
+        "question_content": "Rate quality/quantity of free rewards: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 276
+            }
+        }
+    },
+    {
+        "question_code": "q32",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q33",
+        "question_content": "Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.",
+        "synthesis_answer": {
+            "null": 275,
+            "true": 1
+        }
+    },
+    {
+        "question_code": "q34",
+        "question_content": "Briefly describe the IP if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "- Collaboration with the momo IP, adding a pink dinosaur plush costume. [46452028]"
+    },
+    {
+        "question_code": "q35",
+        "question_content": "Rate IP integration depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.0,
+            "detailed_scoring": {
+                "null": 275,
+                "0.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q36",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Calls for IP collaboration with Tiandao, given shared Aurora Studio origin. [46452028]\n- Prefers two-way linkage: crossover items in both games. [46452028]\n- Desires depth beyond skins: wuxia outfits, weapon-themed furniture, accessories. [46452028]\n- Suggests crossover mount where Wupa carries players flying. [46452028]\n- Notes existing Momo collab (pink dinosaur costume); wants more. [46452028]"
+    },
+    {
+        "question_code": "q37",
+        "question_content": "Rate lightness of installation file: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 276
+            }
+        }
+    },
+    {
+        "question_code": "q38",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q39",
+        "question_content": "Rate in-game download experience: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 276
+            }
+        }
+    },
+    {
+        "question_code": "q40",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q41",
+        "question_content": "Briefly list other issues (not captured by the questions above)",
+        "synthesis_answer": "- Unclear launch timeline; many asking when testing or release starts. [46479591, 46476104, 46475982, 46475329, 46472402, 46458010]\n- Confusion about download/availability; reservation done but cannot play; some suspect deception. [46479733, 46463136, 46459599, 46459496, 46458482, 46460343]\n- Unclear if online co‑op is supported. [46477725, 46466246, 46463012, 46462205, 46446949, 46437277]\n- Concerns about PV/CG vs real gameplay fidelity; request real in‑game footage (\"PV scam\"). [46468225, 46455940, 46438926, 46460317, 46443628]\n- Mobile optimization worries; PV lighting/effects may strain phones. [46465259, 46471122, 46477065, 46442516]\n- Stability concerns; fear of bugs at launch. [46441425]\n- Desire for clean, uncluttered UI; avoid red‑dot spam and recharge/event popups. [46471718, 46435637, 46447776, 46434628]\n- Camera controls for motion sickness; better rotation options for 3D‑sensitive players. [46467547, 46467140]\n- Preference for vertical orientation; horizontal seen as unsuitable for work breaks. [46443143]\n- Character proportions criticized; eye distance too wide, legs thin, big feet. [46447850, 46431537, 46436022]\n- Deeper face customization options requested (eyes, ears, face shapes). [46452028, 46447850, 46441900]\n- Resource collection UX: dislike vacuum mechanic; want one‑tap pickup. [46448079]\n- World scale and openness concerns; want larger maps and no invisible walls. [46438384, 46442753, 46432319, 46463464]\n- Platform clarity requested: PC/Steam plans and mobile vs PC parity. [46435666, 46477065, 46430609]\n- Cloud gaming and emulator support requested. [46466496, 46431874]\n- Distrust of Tencent’s long‑term operation and marketing practices. [46476622, 46455940, 46427736, 46446414]\n- Main gameplay focus unclear beyond building/dress‑up; demo felt shallow. [46433388]\n- Request to limit mini‑games; keep experiences cohesive. [46448322]\n- Background music/OST release interest. [46439219]\n- Clarify age rating implications; concern about overly childish story. [46432003]"
+    }
+]

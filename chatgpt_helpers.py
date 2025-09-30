@@ -7,13 +7,14 @@ import time
 from pathlib import Path
 from typing import List, Any, Dict, Tuple
 from openai import OpenAI
+from openai import BadRequestError
 
 # === CONFIG ===
 MODEL = "gpt-5"                 # default model
 MODEL_CONTEXT = 128_000
 OUTPUT_BUFFER = 2_500
 SAFETY_MARGIN = 1_000
-CHUNK_OUTPUT_MAX = 2500
+CHUNK_OUTPUT_MAX = 25_000
 REDUCE_OUTPUT_MAX = 1_200
 TEMP = 0.2
 RETRY = 3
@@ -25,6 +26,8 @@ MODEL_DETAILED_TO_GENERAL_SUMMARY = "gpt-5"
 SYSTEM_INSTRUCTIONS_DETAILED_TO_GENERAL_SUMMARY = (
     "You are a senior game analyst. Write concise, English-only commentary."
 )
+
+COMPASS_BASE_URL = "https://compass.llm.shopee.io/compass-api/v1"
 
 MODEL_COSTS = {
     # GPT-5 family
@@ -199,7 +202,12 @@ List issues mentioned by the players other than the following issues: sensitive 
 }
 
 # === OpenAI client ===
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(
+    api_key=os.getenv("OPENAI_API_KEY"),
+    base_url=COMPASS_BASE_URL,          # <-- point to the Compass gateway
+    # timeout=120,                      # (optional) increase if batches are large
+    # default_headers={"X-Org": "..."}  # (optional) only if your gateway requires extra headers
+)
 
 # === SUPPORTING FUNCTIONS ===
 
@@ -343,22 +351,100 @@ def _chunk_items_by_tokens(
 
     return batches
 
-def _call_response(model: str, system_prompt: str, user_payload: str, max_tokens: int) -> str:
+def _chat_create_with_adapters(*, model, messages, max_tokens=None, temperature=None):
     """
-    Call OpenAI Responses API with retries.
+    Creates a chat completion compatible with Compass and OpenAI.
+    - Prefer 'max_completion_tokens' (Compass).
+    - Fallback to 'max_tokens' if needed.
+    - Drop 'temperature' if the gateway rejects it.
+    """
+    payload = {"model": model, "messages": messages}
+
+    # Prefer Compass-style cap first
+    if max_tokens is not None:
+        payload["max_completion_tokens"] = max_tokens
+
+    if temperature is not None:
+        payload["temperature"] = temperature
+
+    try:
+        return client.chat.completions.create(**payload)
+
+    except BadRequestError as e:
+        msg = str(e)
+
+        # If 'max_completion_tokens' is unknown to this backend, try 'max_tokens'
+        if "max_completion_tokens" in msg and "unsupported" in msg.lower():
+            payload.pop("max_completion_tokens", None)
+            if max_tokens is not None:
+                payload["max_tokens"] = max_tokens
+            return client.chat.completions.create(**payload)
+
+        # If 'temperature' is rejected, remove it and retry once
+        if "'temperature'" in msg and "unsupported" in msg.lower():
+            payload.pop("temperature", None)
+            return client.chat.completions.create(**payload)
+
+        # Otherwise, bubble up
+        raise
+
+def _extract_text_from_chat(resp) -> str:
+    """
+    Robustly extract assistant text from a Chat Completions response.
+    Handles string content, list-of-parts content, or a 'text' field.
+    """
+    try:
+        msg = resp.choices[0].message
+    except Exception:
+        return ""
+
+    # 1) If it's already a plain string
+    if isinstance(getattr(msg, "content", None), str):
+        return msg.content.strip()
+
+    # 2) If content is a list of parts (multimodal-style)
+    parts = getattr(msg, "content", None)
+    if isinstance(parts, list):
+        out = []
+        for p in parts:
+            if isinstance(p, dict):
+                t = p.get("text") or p.get("content") or ""
+                if t:
+                    out.append(t)
+            else:
+                out.append(str(p))
+        return "".join(out).strip()
+
+    # 3) Some gateways may put text on the message object
+    text = getattr(msg, "text", None)
+    if isinstance(text, str):
+        return text.strip()
+
+    return ""
+
+def _call_response(model: str, system_prompt: str, user_payload: str, max_tokens=None) -> str:
+    """
+    Call Chat Completions (Compass supports /v1/chat/completions).
+    Sends 'content parts' and extracts text robustly.
     """
     for attempt in range(1, RETRY + 1):
         try:
-            resp = client.responses.create(
+            resp = client.chat.completions.create(
                 model=model,
-                input=[
-                    {"role": "system", "content": [{"type": "input_text", "text": system_prompt}]},
-                    {"role": "user", "content": [{"type": "input_text", "text": user_payload}]},
+                messages=[
+                    {"role": "system", "content": [{"type": "text", "text": system_prompt}]},
+                    {"role": "user",   "content": [{"type": "text", "text": user_payload}]},
                 ],
-                # temperature=TEMP,
-                max_output_tokens=max_tokens,
+                # max_completion_tokens=max_tokens,  # <- Compass-specific naming
             )
-            return resp.output_text
+            content = _extract_text_from_chat(resp)
+            if not content:
+                print("[debug] Empty content, raw snippet:")
+                try:
+                    print(json.dumps(resp.model_dump(), ensure_ascii=False)[:2000])
+                except Exception:
+                    print("[debug] Could not dump response; object type:", type(resp))
+            return content
         except Exception as e:
             if attempt == RETRY:
                 raise
@@ -451,7 +537,7 @@ def synthesize_long_form_answers_with_ai(items: List[Dict], prompt: str) -> str:
         MODEL,
         system_prompt=f"{prompt}\n\n[Reducer instructions]\n{reduce_instructions}",
         user_payload=reduce_user_content,
-        max_tokens=REDUCE_OUTPUT_MAX,
+        # max_tokens=REDUCE_OUTPUT_MAX, <-- comment out this as it's limiting output content
     )
     # Optional: print(final_summary)
     return final_summary
@@ -521,24 +607,24 @@ def build_prompt_from_text_detailed_to_general_summary(game_link: str, qa_block_
     )
 
 def get_commentary_from_text_detailed_to_general_summary(game_link: str, qa_block_text: str) -> str:
-    """
-    Sends one request to the OpenAI Responses API and returns the model's final concatenated text.
-    """
-
     prompt_text = build_prompt_from_text_detailed_to_general_summary(game_link, qa_block_text)
 
-    resp = client.responses.create(
+    resp = _chat_create_with_adapters(
         model=MODEL_DETAILED_TO_GENERAL_SUMMARY,
-        input=[
-            {
-                "role": "system",
-                "content": [{"type": "input_text", "text": SYSTEM_INSTRUCTIONS_DETAILED_TO_GENERAL_SUMMARY }],
-            },
-            {
-                "role": "user",
-                "content": [{"type": "input_text", "text": prompt_text}],
-            },
+        messages=[
+            {"role": "system", "content": SYSTEM_INSTRUCTIONS_DETAILED_TO_GENERAL_SUMMARY},
+            {"role": "user",   "content": prompt_text},
         ],
+        # max_tokens=REDUCE_OUTPUT_MAX,   <-- comment out this as it limits output content
+        # temperature=TEMP,
     )
+    return (resp.choices[0].message.content or "").strip()
 
-    return resp.output_text  # convenient final text
+# if __name__ == "__main__":
+#     reply = _call_response(
+#         model=MODEL,
+#         system_prompt="You are helpful.",
+#         user_payload="Reply with exactly this line:\n- hello",
+#         max_tokens=50
+#     )
+#     print("Probe response:", repr(reply))

@@ -1,0 +1,22 @@
+[
+  {
+    "q0": 46427658,
+    "q41": "Requests no forced social tasks; prefers optional social features."
+  },
+  {
+    "q0": 46427259,
+    "q41": "Praises art style and gameplay; finds visuals very cute; eager for earlier launch."
+  },
+  {
+    "q0": 46426547,
+    "q41": "Likes the thick watercolor art style; expresses anticipation."
+  },
+  {
+    "q0": 46426151,
+    "q41": "Very eager for release; finds the game very cute; prefers it over other similar titles."
+  },
+  {
+    "q0": 46426125,
+    "q41": "PV and gallery are very cute; character modeling appears detailed (e.g., visible hair strands); hopes in-game graphics match PV quality; high expectations."
+  }
+]

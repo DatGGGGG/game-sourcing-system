@@ -1,0 +1,114 @@
+question_code,question_content,synthesis_answer
+q1,"Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)",{None: 276}
+q2,"List the sensitive content mentioned, if any.",• No reviews matched.
+q3,Summarize the core combat mechanics (or “N/A” if not mentioned).,"- Co-op combat likened to It Takes Two; small-team action focus. [46455940, 46437740, 46435706]
+- Group instance gameplay shown; three players coordinate while rafting and attacking. [46452028]
+- Higher-difficulty group activities expected beyond casual co-op. [46452028]
+- Players request AI teammates for dungeons; reduced materials compared to human parties. [46452028]
+- Combat sequences likely combine movement and attacks in set-piece rides. [46452028]"
+q4,Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 276}}"
+q5,Reason for previous question’s rating,• No reviews matched.
+q6,"List the strategic/tactical features mentioned, if any.","• Dedicated gameplay map: human city heist/stealth challenge. [46431645]
+• Objective: ""steal items"" to decorate player's home. [46431645]
+• Entry requires staking a collateral item. [46431645]
+• Risk/reward: if detected by humans, lose stolen items and collateral. [46431645]
+• Success condition: bring stolen items home when undetected. [46431645]"
+q7,Rate strategic/tactical depth: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 276}}"
+q8,Reason for previous question’s rating,"- Suggests stealth-based heist map to add planning and tactical challenge. [46431645]
+- Introduces risk-reward via collateral; failure forfeits collateral and loot. ""Enter requires collateral; discovery forfeits all."" [46431645]
+- Clear success/failure consequences encourage strategic decision-making and risk management. [46431645]
+- Rewards (home decorations) incentivize careful execution, increasing strategic depth. [46431645]"
+q9,Rate game progression: -2 to 2 or “N/A”,"{'overall_score': 1.0, 'detailed_scoring': {None: 274, 1.0: 2}}"
+q10,Reason for previous question’s rating,"• Non-grindy progression; ""no tasks, not grindy"" expectations. [46458772, 46459350]
+• Favorable contrast to a rival seen as grind-heavy and pay-reliant for outfits. [46459350]
+• Progression expected to emphasize casual dressing-up; free outfit mixing noted. [46458772]"
+q11,Rate hero balance: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 276}}"
+q12,Reason for previous question’s rating,• No reviews matched.
+q13,Rate hero/team build diversity: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 276}}"
+q14,Reason for previous question’s rating,• No reviews matched.
+q15,Describe the secondary core loop (or “N/A”),"• Explore micro-world spaces to gather sunlight, flower scent, and dew resources. [46470066, 46438850, 46440365, 46431397]
+• Use gathered resources to craft items or cook food for Lilis. [46470066, 46452028]
+• Farm, fish, and cook regularly as supportive life-sim activities. [46429469, 46431124, 46447408]
+• Play co-op instances and minigames, like teacup rafting combat, to earn materials. [46452028, 46440080]
+• Optionally use AI teammates in co-op, with reduced material rewards. [46452028]
+• Invite friends to visit your desk-world for co-play and gift exchanges. [46452028, 46435260]
+• Complete adventures or tasks to earn coins, then buy outfits and furniture. [46442753, 46433388]
+• Interact with Lili NPCs who remember shared activities; build relationships. [46470066]
+• Gather resources via a suction tool; players request one-click pickup. [46448079]
+• Day-night and weather systems add variety to exploration. [46452028]
+• Risky heists in human-scale maps to steal décor for home. [46431645, 46430108]
+• Daily check-ins and tasks grant outfits, emotes, and small rewards. [46434039]
+• Take jobs or run stalls to earn money through service gameplay. [46447408]
+• Expand exploration across large maps and special zones like an eco tank. [46452028, 46442753]"
+q16,"Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)","{None: 248, True: 25, False: 3}"
+q17,Rate simplicity of the secondary loop: -2 to 2 or “N/A”,"{'overall_score': 2.0, 'detailed_scoring': {None: 273, 2.0: 3}}"
+q18,Reason for previous question’s rating,"- Building mode perceived as too simple; players want deeper construction tools. [46435221]
+- Demo loop felt shallow and boring; core gameplay unclear beyond dress-up/building. [46433388]
+- NPC interactions shown (gifting, lounging) viewed as simplistic and unengaging. [46433388]
+- Gathering in the micro-world feels calm and accessible, indicating low-pressure simplicity. [46470066]
+- Economic/collection loops weren’t demonstrated, suggesting oversimplified secondary systems. [46433388]"
+q19,Rate resources earned from the secondary loop: -2 to 2 or “N/A”,"{'overall_score': -0.5, 'detailed_scoring': {None: 274, 1.0: 1, -2.0: 1}}"
+q20,Reason for previous question’s rating,"- Collecting unique resources (sunlight, flower fragrance) is delightful and immersive. [46470066]
+- These resources can craft various wondrous items, enhancing creativity. [46470066]
+- Each gathering session feels like a calm, gentle adventure. [46470066]
+- Demos fail to explain how materials or money are earned for progression. [46433388]
+- Worry that resource acquisition may be replaced by pure monetization. [46433388]
+- Players want visible loops: collect materials to build or make clothes. [46433388]"
+q21,Rate frequency of content/meta updates: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 276}}"
+q22,Reason for previous question’s rating,• No reviews matched.
+q23,Does the game have a gacha guarantee system? (True/False/“N/A”),{None: 276}
+q24,"Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”",• No reviews matched.
+q25,Rate reasonableness of gacha pull price: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 276}}"
+q26,Reason for previous question’s rating,• No reviews matched.
+q27,Rate major feature access for non-paying users: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 276}}"
+q28,Reason for previous question’s rating,• No reviews matched.
+q29,"Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”","{'overall_score': -0.7916666666666666, 'detailed_scoring': {None: 252, -1.0: 17, 1.0: 4, -2.0: 3}}"
+q30,Reason for previous question’s rating,"- Players fear heavy monetization and pay-to-play pressure. [46473865]
+- Strong demand for no deceptive monetization practices. [46457027]
+- Monetize cosmetics only; avoid charging for furniture. [46447443]
+- Prefer clearly priced outfits; avoid gacha systems. [46433751, 46431820, 46431056]
+- Pricing benchmark requested: similar to King of Glory. [46431820, 46431056]
+- Avoid high pity floors and expensive banners seen in Heartbeat Town. [46433919, 46432564, 46430210]
+- Heartbeat Town criticized as overly pay-heavy and gacha-centric. [46430902, 46428497, 46431537]
+- Previous games needed ~3000 RMB per banner; expect far cheaper. [46438374]
+- Bundle prices should be reasonable; not four-digit spending. [46435260, 46431056]
+- Provide earnable rewards via events and tasks to reduce spending. [46454919]
+- Avoid constant recharge prompts and monetized event clutter. [46434628]
+- Some prefer a buyout model; otherwise fear incomplete collections. [46435509]
+- Players warn against stingy operations; maintain fair generosity. [46451904]
+- Reduce grindiness to lessen pressure to spend. [46441185, 46436689]
+- Expectation that Tencent’s costs be fairer than competitors. [46438374]"
+q31,Rate quality/quantity of free rewards: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 276}}"
+q32,Reason for previous question’s rating,• No reviews matched.
+q33,Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.,"{None: 275, True: 1}"
+q34,"Briefly describe the IP if answer to previous question is True, else answer “N/A”","- Collaboration with the momo IP, adding a pink dinosaur plush costume. [46452028]"
+q35,Rate IP integration depth: -2 to 2 or “N/A”,"{'overall_score': 0.0, 'detailed_scoring': {None: 275, 0.0: 1}}"
+q36,Reason for previous question’s rating,"- Calls for IP collaboration with Tiandao, given shared Aurora Studio origin. [46452028]
+- Prefers two-way linkage: crossover items in both games. [46452028]
+- Desires depth beyond skins: wuxia outfits, weapon-themed furniture, accessories. [46452028]
+- Suggests crossover mount where Wupa carries players flying. [46452028]
+- Notes existing Momo collab (pink dinosaur costume); wants more. [46452028]"
+q37,Rate lightness of installation file: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 276}}"
+q38,Reason for previous question’s rating,• No reviews matched.
+q39,Rate in-game download experience: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 276}}"
+q40,Reason for previous question’s rating,• No reviews matched.
+q41,Briefly list other issues (not captured by the questions above),"- Unclear launch timeline; many asking when testing or release starts. [46479591, 46476104, 46475982, 46475329, 46472402, 46458010]
+- Confusion about download/availability; reservation done but cannot play; some suspect deception. [46479733, 46463136, 46459599, 46459496, 46458482, 46460343]
+- Unclear if online co‑op is supported. [46477725, 46466246, 46463012, 46462205, 46446949, 46437277]
+- Concerns about PV/CG vs real gameplay fidelity; request real in‑game footage (""PV scam""). [46468225, 46455940, 46438926, 46460317, 46443628]
+- Mobile optimization worries; PV lighting/effects may strain phones. [46465259, 46471122, 46477065, 46442516]
+- Stability concerns; fear of bugs at launch. [46441425]
+- Desire for clean, uncluttered UI; avoid red‑dot spam and recharge/event popups. [46471718, 46435637, 46447776, 46434628]
+- Camera controls for motion sickness; better rotation options for 3D‑sensitive players. [46467547, 46467140]
+- Preference for vertical orientation; horizontal seen as unsuitable for work breaks. [46443143]
+- Character proportions criticized; eye distance too wide, legs thin, big feet. [46447850, 46431537, 46436022]
+- Deeper face customization options requested (eyes, ears, face shapes). [46452028, 46447850, 46441900]
+- Resource collection UX: dislike vacuum mechanic; want one‑tap pickup. [46448079]
+- World scale and openness concerns; want larger maps and no invisible walls. [46438384, 46442753, 46432319, 46463464]
+- Platform clarity requested: PC/Steam plans and mobile vs PC parity. [46435666, 46477065, 46430609]
+- Cloud gaming and emulator support requested. [46466496, 46431874]
+- Distrust of Tencent’s long‑term operation and marketing practices. [46476622, 46455940, 46427736, 46446414]
+- Main gameplay focus unclear beyond building/dress‑up; demo felt shallow. [46433388]
+- Request to limit mini‑games; keep experiences cohesive. [46448322]
+- Background music/OST release interest. [46439219]
+- Clarify age rating implications; concern about overly childish story. [46432003]"

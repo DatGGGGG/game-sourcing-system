@@ -1,0 +1,463 @@
+[
+  {
+    "q0": 44360692,
+    "q41": "Questions why launch a sequel before fully finishing part 1."
+  },
+  {
+    "q0": 44360343,
+    "q3": "Turn-based battles that require manual play; auto is ineffective; stages have 3-star conditions; manipulating facing and speed/turn order matters.",
+    "q4": -1,
+    "q5": "Auto doesn’t meet clear conditions; 3-star requirements are frustrating; turn order bar feels inaccurate.",
+    "q6": "Facing and turn-order manipulation; stage-specific clear conditions.",
+    "q7": 0,
+    "q8": "There are tactical elements but unreliable execution/UI undermines them.",
+    "q9": -2,
+    "q10": "Severe stamina scarcity vs upgrade costs; multiple materials per breakthrough across six heroes block progress.",
+    "q15": "Side activities like fishing and guild participation.",
+    "q16": false,
+    "q17": -2,
+    "q18": "Poor onboarding; unclear red-dot guidance; features like fishing lack explanations.",
+    "q41": "No hero reset (only limited 3-star returns); confusing guidance/UI."
+  },
+  {
+    "q0": 44358672
+  },
+  {
+    "q0": 44353481,
+    "q41": "Criticizes VAs as unmanly; art/modeling worse than part 1; age/face depiction off; heavy AI-generated feel."
+  },
+  {
+    "q0": 44352337,
+    "q41": "Male character art looks like Japanese Sengoku style rather than Three Kingdoms."
+  },
+  {
+    "q0": 44351391
+  },
+  {
+    "q0": 44250590,
+    "q9": -2,
+    "q10": "Resource allocation is unreasonable, worse than the last test.",
+    "q41": "Advises to avoid due to bad resource tuning."
+  },
+  {
+    "q0": 44346782,
+    "q41": "Cancelled reservation due to the new art style."
+  },
+  {
+    "q0": 43822046,
+    "q1": true,
+    "q2": "BL/yaoi insinuations (e.g., Yuan Shao x Cao Cao).",
+    "q41": "Says story, designs, art, and models are awful and not aligned with the series’ identity."
+  },
+  {
+    "q0": 44346291,
+    "q29": -2,
+    "q30": "Perceives pay-to-win pressure; focus on battle power comparisons.",
+    "q31": -2,
+    "q32": "Very stingy newbie rewards (~20 pulls total; tutorial consumes one 10-pull).",
+    "q41": "Art looks copied from prior work; gameplay lacks innovation and resembles Dragon Raja: Kassel Gate."
+  },
+  {
+    "q0": 44341486,
+    "q41": "Art feels otome, not authentic Guofeng; asks to stop misusing 'national style'."
+  },
+  {
+    "q0": 44340559,
+    "q41": "Complains the game title is overly long."
+  },
+  {
+    "q0": 44338970,
+    "q41": "Rants that the game kicks paying players from groups."
+  },
+  {
+    "q0": 44339504,
+    "q41": "Wants portrait/vertical mode; says horizontal view makes heroes too small."
+  },
+  {
+    "q0": 44336224,
+    "q27": -1,
+    "q28": "Rewards are gated behind forced build paths ('mandatory cultivation').",
+    "q29": -2,
+    "q30": "In-your-face monetization like a 328 RMB self-select pack feels greedy.",
+    "q41": "Severe device heating on multiple phones."
+  },
+  {
+    "q0": 44334540,
+    "q1": true,
+    "q2": "Sexualized/BL 'shota-like' portrayal of a young-looking Cao Cao.",
+    "q41": "Complains male cast is made effeminate."
+  },
+  {
+    "q0": 44335508
+  },
+  {
+    "q0": 44334725,
+    "q41": "Criticizes the writing and story quality; questions 5-star ratings."
+  },
+  {
+    "q0": 44334076,
+    "q1": true,
+    "q2": "Female characters are over-revealing; male characters are overly effeminate.",
+    "q41": "Says attempts to appeal to both genders end up offending both."
+  },
+  {
+    "q0": 44333622,
+    "q41": "Skeptical that strategy is what this card-RPG audience primarily wants."
+  },
+  {
+    "q0": 44332925,
+    "q41": "Calls it a Three Kingdoms-themed otome; highly off-putting."
+  },
+  {
+    "q0": 44332635,
+    "q27": -2,
+    "q28": "F2P/low spend experience is very poor due to stingy welfare and locked banners.",
+    "q29": -2,
+    "q30": "Paid test with poor value; monetization plus stingy rewards push spending.",
+    "q31": -2,
+    "q32": "Internal test welfare among the worst; far stingier than part 1.",
+    "q41": "Art/modeling/VO feel sloppy; 3D in-battle is unreadable; effects simple."
+  },
+  {
+    "q0": 43944267,
+    "q1": true,
+    "q2": "BL/yaoi content attached to Three Kingdoms.",
+    "q41": "Strongly opposes BL content."
+  },
+  {
+    "q0": 44329203,
+    "q41": "Story tone changed (from brotherhood); UI became uglier and less usable; update felt rushed."
+  },
+  {
+    "q0": 44330344,
+    "q3": "Turn-based combat similar to Reverse: 1999.",
+    "q4": -1,
+    "q5": "Feels derivative and unengaging."
+  },
+  {
+    "q0": 44329062,
+    "q3": "Many special main story stages force full manual play; auto-combat setup is overly complex.",
+    "q4": -1,
+    "q5": "Manual play is tiring and the auto system has high learning costs.",
+    "q6": "Each hero has three build paths; complex auto behavior configuration.",
+    "q7": 1,
+    "q8": "Multiple build paths indicate depth despite clunky execution.",
+    "q9": -1,
+    "q10": "No resource reset and multi-path cultivation make progression punishing.",
+    "q13": 1,
+    "q14": "Three distinct paths per hero allow different team builds.",
+    "q15": "Guild territory management co-op event.",
+    "q16": true,
+    "q17": -2,
+    "q18": "Design flaw: members cannot choose the same hero, blocking completion.",
+    "q29": -1,
+    "q30": "Multiple paid battle passes increase spending pressure.",
+    "q41": "Notes inaccurate historical-style naming of characters."
+  },
+  {
+    "q0": 44328980,
+    "q41": "Uninstalled due to male-heavy starter roster."
+  },
+  {
+    "q0": 44328974,
+    "q9": -2,
+    "q10": "Insufficient stamina prevents testing content.",
+    "q31": -2,
+    "q32": "Almost no free rewards during test."
+  },
+  {
+    "q0": 44328327,
+    "q41": "Warns others to avoid (Cao Cao dragging Yuan Shao meme)."
+  },
+  {
+    "q0": 43764909,
+    "q23": true,
+    "q24": "States a 'god-tier' hero requires 50 pulls, implying a 50-pull pity.",
+    "q25": -1,
+    "q26": "Needing 50 pulls for a single top-tier unit feels expensive.",
+    "q41": "Sun Ce is feminized; no hero reset; resources are scarce."
+  },
+  {
+    "q0": 44327433,
+    "q41": "Too many bugs; unplayable."
+  },
+  {
+    "q0": 44326045,
+    "q9": -2,
+    "q10": "Everything costs stamina; awakening one unit takes extremely long; no reset."
+  },
+  {
+    "q0": 44325746,
+    "q41": "Suggests making it an otome game instead."
+  },
+  {
+    "q0": 44239743,
+    "q41": "After testing, found it far inferior to part 1."
+  },
+  {
+    "q0": 44325240,
+    "q41": "Puts heavy strategy/complexity into the tutorial; very off-putting."
+  },
+  {
+    "q0": 44325239,
+    "q41": "Sarcastically suggests deleting combat and making an otome."
+  },
+  {
+    "q0": 44325025,
+    "q9": -2,
+    "q10": "Resource loop deadlocks without reset; must invest to clear but cannot reallocate.",
+    "q27": -2,
+    "q28": "Non-spenders struggle due to scarce resources and no reset options.",
+    "q29": -1,
+    "q30": "Newbie banner feels like a discount without value; welfare is weak.",
+    "q31": -2,
+    "q32": "Free pulls trickle in; codes plus rewards don’t even equal a 10-pull."
+  },
+  {
+    "q0": 44324006,
+    "q4": -1,
+    "q5": "No hit feedback; characters look tiny on screen.",
+    "q41": "Art feels effeminate; lacks part 1’s wow factor."
+  },
+  {
+    "q0": 44323908,
+    "q1": true,
+    "q2": "BL/gay-styled art.",
+    "q41": "Dismisses the art style as 'male-male'."
+  },
+  {
+    "q0": 44323764,
+    "q41": "Questions the necessity of a 'Ji' faction; perceives overt female-targeting."
+  },
+  {
+    "q0": 44131770,
+    "q41": "Activation code doesn’t work."
+  },
+  {
+    "q0": 44322402,
+    "q41": "Complains generals and strategists look effeminate."
+  },
+  {
+    "q0": 44321210,
+    "q41": "Complains about not getting test qualification."
+  },
+  {
+    "q0": 44321203,
+    "q41": "Urges players not to pre-register based on the cast; distrusts the publisher."
+  },
+  {
+    "q0": 44320987,
+    "q11": -1,
+    "q12": "Requests a stronger Zhao Yun; says he was weak in part 1 except briefly."
+  },
+  {
+    "q0": 44320803,
+    "q41": "Gives 1 star solely due to lack of test access."
+  },
+  {
+    "q0": 44319980,
+    "q41": "Asks the devs for a beta qualification."
+  },
+  {
+    "q0": 44318335,
+    "q1": true,
+    "q2": "Wants sexy/sexualized male characters.",
+    "q41": "Expresses desire for saucy male designs."
+  },
+  {
+    "q0": 44317672,
+    "q41": "Asks if the previous application still counts."
+  },
+  {
+    "q0": 44317195,
+    "q41": "Prior test was barebones ('scarecrows'); current test gives no qualification."
+  },
+  {
+    "q0": 44316982,
+    "q41": "Accuses ads of using Dynasty Warriors: Origins footage."
+  },
+  {
+    "q0": 44316513,
+    "q41": "Excited to play tomorrow."
+  },
+  {
+    "q0": 44315880,
+    "q41": "Compliments the character looks."
+  },
+  {
+    "q0": 44315219,
+    "q3": "Idle/AFK turn-based gameplay.",
+    "q4": 0,
+    "q5": "Felt average with slow pacing.",
+    "q25": -1,
+    "q26": "Drop rates felt low in the earlier test.",
+    "q41": "Models were unfinished in previous tests."
+  },
+  {
+    "q0": 44313675,
+    "q41": "Installed/uninstalled many times; burned out on part 1 but will try part 2."
+  },
+  {
+    "q0": 44311687,
+    "q41": "Attracted by a mature 'uncle' Cao Cao; wants more quality older male characters."
+  },
+  {
+    "q0": 44310677,
+    "q41": "Calls it a 'step-on-head' game and advises not to play."
+  },
+  {
+    "q0": 44299316,
+    "q41": "Very excited about the art; asks for a test slot."
+  },
+  {
+    "q0": 44296003,
+    "q41": "SMS notification for qualification hasn’t arrived."
+  },
+  {
+    "q0": 44291750,
+    "q41": "Art looks like Japanese style."
+  },
+  {
+    "q0": 44291101,
+    "q41": "Hopes models improve; Zhang Chunhua’s face looks off in video."
+  },
+  {
+    "q0": 44286389,
+    "q41": "Wants to experience the art, modeling, and gameplay content."
+  },
+  {
+    "q0": 44286364,
+    "q41": "Looking forward to seeing the first test."
+  },
+  {
+    "q0": 44037169,
+    "q1": true,
+    "q2": "Selling 'meat' (sexualized fanservice).",
+    "q29": -1,
+    "q30": "Claims non-rolling server model forces monetization.",
+    "q41": "Says part 1’s art was superior; dislikes meaningless fanservice."
+  },
+  {
+    "q0": 44278830,
+    "q11": -1,
+    "q12": "Skeptical of 'no useless heroes' claim based on part 1 experience; 3D in part 2 looks worse.",
+    "q41": "Doubts the 'no useless heroes' promise."
+  },
+  {
+    "q0": 44274444,
+    "q41": "Promo art looks AI-generated (oily coloring, odd finger joints)."
+  },
+  {
+    "q0": 44273906,
+    "q41": "Looking forward to the new entry."
+  },
+  {
+    "q0": 44270187,
+    "q41": "Annoyed that the app redirected here unexpectedly."
+  },
+  {
+    "q0": 43838732,
+    "q41": "Wants Zhou Yu portrayed properly (refined, with headgear); dislikes current art; asks to respect his historical role; requests specific Zhou Yu content."
+  },
+  {
+    "q0": 44268238,
+    "q41": "Can’t play the test; says the company excels at rolling-server releases."
+  },
+  {
+    "q0": 44267753,
+    "q41": "Asks whether it’s vertical or horizontal screen."
+  },
+  {
+    "q0": 44265914,
+    "q41": "Praises part 1’s welfare and roster."
+  },
+  {
+    "q0": 44263404,
+    "q41": "Likes the female character art (e.g., Cai Wenji)."
+  },
+  {
+    "q0": 44255090,
+    "q41": "Part 1’s legion/social was tiring; hopes new entry improves social systems."
+  },
+  {
+    "q0": 44252797,
+    "q41": "Hopes it’s not a daily grind; wants a comfortable experience."
+  },
+  {
+    "q0": 44250261,
+    "q41": "Art seems to regress compared to part 1."
+  },
+  {
+    "q0": 44248795,
+    "q41": "As a part 1 player, says story and welfare were good."
+  },
+  {
+    "q0": 44247766,
+    "q41": "Hopes it’s not another traditional idle game."
+  },
+  {
+    "q0": 44246859,
+    "q41": "Hopes for genuine mechanic innovations beyond typical strategy card games."
+  },
+  {
+    "q0": 44246463,
+    "q41": "Wants deeper, better-presented story; crucial for Three Kingdoms fans."
+  },
+  {
+    "q0": 44246024,
+    "q6": "Appears to allow multiple development directions per character.",
+    "q7": 1,
+    "q8": "Different development directions increase planning depth.",
+    "q13": 1,
+    "q14": "Multiple builds per character can diversify team comps.",
+    "q41": "Interested if it truly breaks typical card game molds."
+  },
+  {
+    "q0": 43837118,
+    "q41": "Looking forward; art looks beautiful."
+  },
+  {
+    "q0": 44242912,
+    "q41": "Curious how the bond system will be implemented (core in part 1)."
+  },
+  {
+    "q0": 44241289,
+    "q41": "Anime 'internet celebrity' faces don’t fit Three Kingdoms; asks to decouple from the IP."
+  },
+  {
+    "q0": 44240882,
+    "q41": "Seems to tell character-specific stories; asks them to handle it well."
+  },
+  {
+    "q0": 44239325,
+    "q41": "Wants both male and female heroes to shine in the story."
+  },
+  {
+    "q0": 44232675,
+    "q41": "Art style feels very strange."
+  },
+  {
+    "q0": 44225246,
+    "q1": true,
+    "q2": "Selling CP/pairings (romantic pairings).",
+    "q41": "Fears the art is worse than part 1; begs not to lose the hallmark art."
+  },
+  {
+    "q0": 44220760,
+    "q15": "Home/base system with new features and activities.",
+    "q16": true,
+    "q41": "Curious what new ideas the home system brings."
+  },
+  {
+    "q0": 44218931,
+    "q41": "Suggests adding higher-freedom builds plus roguelike and tower modes; cautiously optimistic."
+  },
+  {
+    "q0": 44214998,
+    "q41": "Says another game copied part 1’s mechanics; jokes about a 'Lightning Zhao Yun' knock-off."
+  },
+  {
+    "q0": 44213700,
+    "q41": "After leaks, interest dropped: more feminine art, weaker 3D VFX, likely grindy/dull gameplay, poor art direction and low expectations for story; suspects future skin monetization."
+  }
+]

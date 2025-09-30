@@ -1,0 +1,436 @@
+[
+  {
+    "q0": 44956886,
+    "q41": "Too many pre-launch/marketing events; feels exhausting before servers even open."
+  },
+  {
+    "q0": 44956852
+  },
+  {
+    "q0": 44956798,
+    "q39": -2,
+    "q40": "Split download flow: 283MB installer then additional ~1.9GB; user wants a one-shot download."
+  },
+  {
+    "q0": 44956730,
+    "q41": "Annoying pre-gacha and pop-up pages; prefers rewards sent directly to mailbox."
+  },
+  {
+    "q0": 44956576,
+    "q33": true,
+    "q34": "Three Kingdoms IP (e.g., Ma Chao)",
+    "q35": 1,
+    "q36": "Mentions specific historical general from the Three Kingdoms."
+  },
+  {
+    "q0": 44956515,
+    "q29": -2,
+    "q30": "Official and channel servers interoperate with different prices/discounts, making spenders feel cheated; beta spenders especially upset."
+  },
+  {
+    "q0": 44956491,
+    "q3": "Turn-based combat",
+    "q4": -2,
+    "q5": "States strong dislike for turn-based combat.",
+    "q29": -2,
+    "q30": "Says the game is overly pay-to-win (\"氪死\")."
+  },
+  {
+    "q0": 44956469,
+    "q29": -2,
+    "q30": "Official confirms interop with discounted channel servers; paying full price on official server feels unfair."
+  },
+  {
+    "q0": 44956364,
+    "q4": 1,
+    "q5": "Praises art and calls it a strategy game they like.",
+    "q6": "Strategy-focused gameplay",
+    "q7": 1,
+    "q8": "User labels it as a strategy game and expresses enjoyment."
+  },
+  {
+    "q0": 44956175,
+    "q41": "Suspects astroturfed positive reviews with minimal playtime."
+  },
+  {
+    "q0": 44955770,
+    "q41": "Says the character art quality is declining compared to previous entries."
+  },
+  {
+    "q0": 44955633,
+    "q41": "Dislikes 3D models; prefers 2D chibi style."
+  },
+  {
+    "q0": 44955208,
+    "q41": "Visuals seem unchanged from the first game; lack of progress reduces interest."
+  },
+  {
+    "q0": 44954809,
+    "q41": "Pre-downloaded but servers not open; disappointment."
+  },
+  {
+    "q0": 44954621,
+    "q41": "Pre-gacha interface is laggy/unresponsive."
+  },
+  {
+    "q0": 44954265,
+    "q3": "Turn-based combat",
+    "q4": -1,
+    "q5": "Feels like a reskin; dislikes the art style and genre."
+  },
+  {
+    "q0": 44954196,
+    "q41": "Beta player feels locked out/treated unfairly and loses interest."
+  },
+  {
+    "q0": 44953839
+  },
+  {
+    "q0": 44953612,
+    "q9": 1,
+    "q10": "Claims reduced grind compared to the first game."
+  },
+  {
+    "q0": 44953173,
+    "q9": -1,
+    "q10": "Rolling servers and difficulty forming lineups.",
+    "q11": -2,
+    "q12": "Says formed lineups get nerfed to push new heroes.",
+    "q29": -2,
+    "q30": "Gacha and balance shifts seem to force spending on new heroes."
+  },
+  {
+    "q0": 44952888
+  },
+  {
+    "q0": 44321268,
+    "q41": "Perceives a shift toward otome (乙游) and says it is worse than the first game."
+  },
+  {
+    "q0": 44952370,
+    "q41": "Poor marketing visibility; pre-gacha event noticed only the day before launch."
+  },
+  {
+    "q0": 44952344
+  },
+  {
+    "q0": 44952288,
+    "q41": "Concern about launch-day server stability."
+  },
+  {
+    "q0": 44951965,
+    "q41": "Claims it's just rebranded 'Owl's Song' rather than a true sequel to the first game."
+  },
+  {
+    "q0": 44951843,
+    "q41": "Art style criticized as unfit for a 2025 release."
+  },
+  {
+    "q0": 44951661
+  },
+  {
+    "q0": 44951302,
+    "q41": "Concern it may repeat rolling-server approach from the first game."
+  },
+  {
+    "q0": 44950941,
+    "q29": -2,
+    "q30": "Official-channel server interop perceived as disgusting/unfair."
+  },
+  {
+    "q0": 44950829,
+    "q6": "Heavy-strategy card gameplay focus",
+    "q7": 1,
+    "q8": "Wants strategy to matter rather than pure stat inflation; says tests show playability."
+  },
+  {
+    "q0": 44950558,
+    "q41": "Too many pre-entry tasks: team-up, reservation, pre-gacha."
+  },
+  {
+    "q0": 44950483,
+    "q4": -1,
+    "q5": "Battle camera feels awkward; only ultimates look good while normal attacks/skills look bad; story feels stale.",
+    "q41": "Critiques combat perspective and skill VFX quality."
+  },
+  {
+    "q0": 44950355
+  },
+  {
+    "q0": 44949875,
+    "q41": "Pre-download login BGM resembles Fire Emblem Fates; raises potential copyright issue."
+  },
+  {
+    "q0": 44949851,
+    "q41": "Character art called ugly and AI-like."
+  },
+  {
+    "q0": 44949756,
+    "q41": "Annoyed by full-screen team-up prompt on first launch."
+  },
+  {
+    "q0": 44949446,
+    "q41": "Harsh criticism of art and modeling quality."
+  },
+  {
+    "q0": 44949337
+  },
+  {
+    "q0": 43759846,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms (Three Kingdoms heroes)",
+    "q35": 1,
+    "q36": "Explicitly mentions Three Kingdoms IP and leveraging its story/characters."
+  },
+  {
+    "q0": 44949192
+  },
+  {
+    "q0": 44949181
+  },
+  {
+    "q0": 44949170,
+    "q9": -1,
+    "q10": "Says stages are a bit hard and story is draggy.",
+    "q31": 1,
+    "q32": "States many heroes are given for free."
+  },
+  {
+    "q0": 44949135
+  },
+  {
+    "q0": 44949114,
+    "q6": "Strategy gameplay",
+    "q7": 1,
+    "q8": "Player explicitly likes strategy."
+  },
+  {
+    "q0": 44949034
+  },
+  {
+    "q0": 44949018
+  },
+  {
+    "q0": 44948987,
+    "q6": "Team-building decisions (e.g., Sun Shangxiang as early carry; building a female-only team)",
+    "q7": 0,
+    "q8": "Asks for advice on strong picks and comps.",
+    "q13": 1,
+    "q14": "Mentions a specific team archetype (female-only 'girl group').",
+    "q33": true,
+    "q34": "Three Kingdoms IP (e.g., Sun Shangxiang)",
+    "q35": 1,
+    "q36": "References specific named Three Kingdoms characters."
+  },
+  {
+    "q0": 44948921,
+    "q41": "Asks about welfare; says real gameplay footage looks a bit chaotic."
+  },
+  {
+    "q0": 44948738
+  },
+  {
+    "q0": 44948725,
+    "q41": "Team-up spam/requirement noted."
+  },
+  {
+    "q0": 44948562,
+    "q33": true,
+    "q34": "Three Kingdoms IP (Sun Ce, Zhou Yu)",
+    "q35": 1,
+    "q36": "Discusses historical appearance traits of Sun Ce and Zhou Yu."
+  },
+  {
+    "q0": 43908665,
+    "q41": "Too many off-game activities; user dislikes them."
+  },
+  {
+    "q0": 44948518
+  },
+  {
+    "q0": 44948440,
+    "q41": "Prefers the first game's art; hopes part 2 focuses more on the heroes and reduces clutter."
+  },
+  {
+    "q0": 44948087,
+    "q29": -2,
+    "q30": "Unfair interop: iOS/Android and channel discount vs full-price users on the same servers."
+  },
+  {
+    "q0": 44947614,
+    "q11": -2,
+    "q12": "Accuses devs of releasing overpowered paid heroes shortly after promising otherwise.",
+    "q29": -2,
+    "q30": "Feels manipulated by monetization and broken promises."
+  },
+  {
+    "q0": 44947125,
+    "q9": -2,
+    "q10": "Normal stages are too long and force manual input every few sub-stages; frustrating."
+  },
+  {
+    "q0": 44371561
+  },
+  {
+    "q0": 44946596,
+    "q41": "Guild recruitment spam; boasts about mastering team mechanics and offering perks."
+  },
+  {
+    "q0": 44946523,
+    "q15": "Guild activities/social obligations",
+    "q16": false,
+    "q41": "Requests fewer guild activities; dislikes forced social play."
+  },
+  {
+    "q0": 44946457
+  },
+  {
+    "q0": 44946215
+  },
+  {
+    "q0": 44945110
+  },
+  {
+    "q0": 44944840
+  },
+  {
+    "q0": 44944010,
+    "q41": "Otome-style illustrations noted; in-battle models described as shoddy."
+  },
+  {
+    "q0": 44943928,
+    "q41": "Says story and character art are odd/low quality."
+  },
+  {
+    "q0": 44941874,
+    "q41": "Art not as good as the first game's art."
+  },
+  {
+    "q0": 44941612,
+    "q41": "Accuses the game of switching to 3D to continue cash-grabbing."
+  },
+  {
+    "q0": 44636070
+  },
+  {
+    "q0": 44937960,
+    "q33": true,
+    "q34": "Three Kingdoms IP (Sun Ce)",
+    "q35": 1,
+    "q36": "Mentions specific character from the IP."
+  },
+  {
+    "q0": 44937222
+  },
+  {
+    "q0": 44937014,
+    "q3": "Card-based gameplay",
+    "q4": -1,
+    "q5": "States they don't want to play card games."
+  },
+  {
+    "q0": 44934254,
+    "q4": 0,
+    "q5": "After a week of play, finds it average though praises the art."
+  },
+  {
+    "q0": 44933998,
+    "q6": "Emphasis on strategy",
+    "q7": 1,
+    "q8": "Notes that without strategy, late game would be dominated by whales."
+  },
+  {
+    "q0": 44930585,
+    "q41": "Asks which starter gold card to choose (e.g., Lu Bu)."
+  },
+  {
+    "q0": 44930229,
+    "q6": "Faction-based builds (Wu) and fire/burn team synergy",
+    "q7": 1,
+    "q8": "Plans a fire/burn team composition.",
+    "q13": 1,
+    "q14": "Mentions distinct team archetypes by faction/element.",
+    "q33": true,
+    "q34": "Three Kingdoms IP (Sun Shangxiang, Zhou Yu, Lu Xun)",
+    "q35": 1,
+    "q36": "References multiple named Three Kingdoms characters."
+  },
+  {
+    "q0": 44929894,
+    "q41": "Says the player is a POV 'camera' in story; overall continues prior style; denies BL focus."
+  },
+  {
+    "q0": 44929431,
+    "q6": "Stage puzzles (push-box) present",
+    "q7": 0,
+    "q8": "Mentions struggling with a push-box puzzle."
+  },
+  {
+    "q0": 44929194
+  },
+  {
+    "q0": 44929003,
+    "q4": -2,
+    "q5": "Frequent camera zooms during character actions cause motion sickness.",
+    "q41": "Camera movement induces dizziness."
+  },
+  {
+    "q0": 44928959
+  },
+  {
+    "q0": 44927099
+  },
+  {
+    "q0": 44925576
+  },
+  {
+    "q0": 44923677,
+    "q41": "Positive on 3D art direction; waiting for launch."
+  },
+  {
+    "q0": 44923370,
+    "q3": "Turn-based combat with environmental/scene-object interactions",
+    "q4": 1,
+    "q5": "Finds stage mechanics fun and more unique than typical turn-based games.",
+    "q6": "Environmental interactions tied to story presentation",
+    "q7": 1,
+    "q8": "Says these mechanics differentiate it from other turn-based games."
+  },
+  {
+    "q0": 44922950
+  },
+  {
+    "q0": 44922589,
+    "q3": "Auto card-battle with minor presentation tweaks from the previous game",
+    "q4": -1,
+    "q5": "Feels too similar to the previous entry (just a slight camera rotation)."
+  },
+  {
+    "q0": 44922160,
+    "q41": "Dislikes the 3D visual style."
+  },
+  {
+    "q0": 44922048,
+    "q31": 1,
+    "q32": "States second beta had more welfare than the first and expects more at launch."
+  },
+  {
+    "q0": 44920870,
+    "q41": "Accuses it of looking like a bootleg; disputes claims of good graphics/models."
+  },
+  {
+    "q0": 44920550,
+    "q4": 1,
+    "q5": "Praises story and smooth animations."
+  },
+  {
+    "q0": 44920011,
+    "q41": "Requests less mecha style and more pure fantasy; says costume design lacks appeal."
+  },
+  {
+    "q0": 44918754,
+    "q1": true,
+    "q2": "Mentions BL/yaoi 'fujoshi bait' and an NTR hot-spring story scene (from the previous title); confusion between otome and BL focus.",
+    "q41": "Avoids the game due to perceived 'sell-fu' and prior NTR-related content."
+  }
+]

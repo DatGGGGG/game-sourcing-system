@@ -1,0 +1,306 @@
+[
+  {
+    "q0": 43767612,
+    "q41": "Suspects the review section is filled with astroturfed praise."
+  },
+  {
+    "q0": 43767369
+  },
+  {
+    "q0": 43767255
+  },
+  {
+    "q0": 43767212,
+    "q3": "Turn-based gacha RPG; wants auto-battle and is skeptical about a 3D approach.",
+    "q4": -1,
+    "q5": "Fears 3D execution will underperform like some peers; suggests learning from Epic Seven/AFK Arena and doubts an Onmyoji-like path.",
+    "q41": "Questions the 3D direction and prefers proven 2D/auto-battle models."
+  },
+  {
+    "q0": 43767206,
+    "q41": "Asks whether there are pre-registration rewards."
+  },
+  {
+    "q0": 43767038
+  },
+  {
+    "q0": 43766707,
+    "q1": true,
+    "q2": "Sexualized 'male courtesan' vibe in character designs.",
+    "q41": "Questions innovation beyond fixed elemental points."
+  },
+  {
+    "q0": 43766658,
+    "q1": true,
+    "q2": "Suggestive/sexualized portrayal of Xiao Qiao."
+  },
+  {
+    "q0": 43766578,
+    "q29": -2,
+    "q30": "Fears server-rolling, aggressive top-up packs, and locked banner mechanics.",
+    "q41": "Will skip if monetization looks predatory."
+  },
+  {
+    "q0": 43766288,
+    "q6": "Appears to emphasize strategy.",
+    "q7": 1,
+    "q8": "Visual impression that it looks quite strategic."
+  },
+  {
+    "q0": 43765579
+  },
+  {
+    "q0": 43765544
+  },
+  {
+    "q0": 43765492
+  },
+  {
+    "q0": 43765390,
+    "q41": "Complains about style change; wants the old Sun Ce vibe and criticizes over-covered design."
+  },
+  {
+    "q0": 43764827
+  },
+  {
+    "q0": 43764800,
+    "q3": "Turn-based combat.",
+    "q41": "Hopes the game won’t be too grindy."
+  },
+  {
+    "q0": 43764659,
+    "q31": 1,
+    "q32": "Says return-login rewards were generous in the prior game.",
+    "q41": "Considers it strongest among peers in the same genre."
+  },
+  {
+    "q0": 43764635,
+    "q1": true,
+    "q2": "Criticizes a feminized/'sissy' aesthetic."
+  },
+  {
+    "q0": 43764442,
+    "q41": "Praises high production values among paid-progression card RPGs; warns against reskinning and formulaic sequels."
+  },
+  {
+    "q0": 43764009
+  },
+  {
+    "q0": 43763896
+  },
+  {
+    "q0": 43763787
+  },
+  {
+    "q0": 43763619
+  },
+  {
+    "q0": 43763478
+  },
+  {
+    "q0": 43763294
+  },
+  {
+    "q0": 43763206,
+    "q11": -1,
+    "q12": "Complains about previously selling an overpowered Sun Ce–Zhou Yu pair, implying imbalance."
+  },
+  {
+    "q0": 43763204
+  },
+  {
+    "q0": 43762795,
+    "q3": "Debates action-bar 'time axis' versus grid-based war-chess battle.",
+    "q6": "Prefers war-chess tactics over time-axis turn order.",
+    "q7": 0,
+    "q8": "States a strict preference; condemns time-axis but accepts war-chess."
+  },
+  {
+    "q0": 43762737
+  },
+  {
+    "q0": 43762733
+  },
+  {
+    "q0": 43760080,
+    "q1": true,
+    "q2": "Complains male generals now look feminized with pointy-chin aesthetics.",
+    "q41": "Says a favorite character’s look has worsened."
+  },
+  {
+    "q0": 43762420
+  },
+  {
+    "q0": 43762178
+  },
+  {
+    "q0": 43762177,
+    "q41": "Claims the Three Kingdoms genre is saturated with reskins; questions novelty."
+  },
+  {
+    "q0": 43762105
+  },
+  {
+    "q0": 43762046
+  },
+  {
+    "q0": 43761926
+  },
+  {
+    "q0": 43761771
+  },
+  {
+    "q0": 43761703,
+    "q31": 0,
+    "q32": "Says they will leave if welfare isn’t as generous as before."
+  },
+  {
+    "q0": 43760125
+  },
+  {
+    "q0": 43761614,
+    "q1": true,
+    "q2": "Describes the art as sultry/suggestive.",
+    "q41": "Curious about novel or 'saucy' gameplay tricks."
+  },
+  {
+    "q0": 43761308
+  },
+  {
+    "q0": 43761174,
+    "q1": true,
+    "q2": "Says style shifted from hard-core to seductive; Zhuge Liang looks flirtatious.",
+    "q41": "Suggests a different costume style would look better."
+  },
+  {
+    "q0": 43761144
+  },
+  {
+    "q0": 43761074
+  },
+  {
+    "q0": 43761042
+  },
+  {
+    "q0": 43761041,
+    "q29": -2,
+    "q30": "Accuses the game of low completion and a cash-grab 'harvest and run' approach.",
+    "q41": "Complains about low polish."
+  },
+  {
+    "q0": 43760869
+  },
+  {
+    "q0": 43760860,
+    "q3": "Turn-based card combat with many inventive mechanics.",
+    "q4": 2,
+    "q5": "Closed-test player praises clever, unique battle design not seen elsewhere.",
+    "q6": "Emphasis on tactical decision-making within the turn-based card system.",
+    "q7": 2,
+    "q8": "Reports lots of thoughtful design that increases tactical depth.",
+    "q41": "Art maintains series essence with upgrades."
+  },
+  {
+    "q0": 43760846,
+    "q41": "Requests more new artworks; says some costume construction is confusing."
+  },
+  {
+    "q0": 43760841
+  },
+  {
+    "q0": 43760834,
+    "q33": true,
+    "q34": "Mentions a past collaboration with The Ravages of Time (火凤燎原)."
+  },
+  {
+    "q0": 43760791
+  },
+  {
+    "q0": 43760785
+  },
+  {
+    "q0": 43760753
+  },
+  {
+    "q0": 43759844
+  },
+  {
+    "q0": 43760601
+  },
+  {
+    "q0": 43760567
+  },
+  {
+    "q0": 43760378
+  },
+  {
+    "q0": 43760302,
+    "q21": 1,
+    "q22": "Says each test brought iterations and optimizations."
+  },
+  {
+    "q0": 43760279,
+    "q3": "Mechanics feel interesting/novel.",
+    "q4": 1,
+    "q5": "Long-time player finds the new game’s mechanics engaging."
+  },
+  {
+    "q0": 43760141
+  },
+  {
+    "q0": 43759921,
+    "q1": true,
+    "q2": "Requests retaining bathing scenes and emphasized male chests (sexualized fanservice).",
+    "q41": "Playful request for specific characters/content."
+  },
+  {
+    "q0": 43759897
+  },
+  {
+    "q0": 43759848
+  },
+  {
+    "q0": 43759821,
+    "q1": true,
+    "q2": "Sexual humor implying arousal from character art."
+  },
+  {
+    "q0": 43759842
+  },
+  {
+    "q0": 43759839,
+    "q41": "Requests synergy/co-op skills and bond buffs for historically linked characters."
+  },
+  {
+    "q0": 43759835
+  },
+  {
+    "q0": 43759833,
+    "q15": "Clearing stages with sweep/auto-repeat, occasional special events, and gacha collection.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Described as straightforward: draw, clear, sweep; occasional events.",
+    "q19": 1,
+    "q20": "Implied it sustains side-play; events add extra gains."
+  },
+  {
+    "q0": 43759825
+  },
+  {
+    "q0": 43759818
+  },
+  {
+    "q0": 43759814,
+    "q1": true,
+    "q2": "BL/ship-friendly Three Kingdoms themes implied; appeals to 'fujoshi'."
+  },
+  {
+    "q0": 43759812,
+    "q1": true,
+    "q2": "Anticipates a highly attractive, sexualized portrayal of Zhuge Liang."
+  },
+  {
+    "q0": 43759811,
+    "q41": "Notes heavy ad exposure; asks when tests start."
+  }
+]

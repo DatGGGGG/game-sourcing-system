@@ -1,0 +1,492 @@
+[
+  {
+    "q0": 43796742
+  },
+  {
+    "q0": 44977303
+  },
+  {
+    "q0": 44977136,
+    "q29": -2,
+    "q30": "Rolling servers and a heavily gated '1000 pulls' promotion create strong pay pressure.",
+    "q31": -2,
+    "q32": "Promised 1000 pulls require many conditions/tasks to unlock."
+  },
+  {
+    "q0": 44976904,
+    "q31": 2,
+    "q32": "States content is rich and welfare is plentiful."
+  },
+  {
+    "q0": 44976834,
+    "q27": -2,
+    "q28": "Severe progression walls for F2P and very low gacha rates.",
+    "q29": -2,
+    "q30": "Strong paywall gating and low draw rates.",
+    "q9": -2,
+    "q10": "Hits severe bottlenecks early on.",
+    "q4": -2,
+    "q5": "Low draw rates and heavy walls remove any sense of fun."
+  },
+  {
+    "q0": 44976826,
+    "q29": -2,
+    "q30": "Calls out false advertising and pay-forcing tactics.",
+    "q31": -2,
+    "q32": "Benefits described as fake/poor."
+  },
+  {
+    "q0": 44976819,
+    "q41": "Feels like a decade-old game."
+  },
+  {
+    "q0": 44976810,
+    "q29": -2,
+    "q30": "Aggressive rolling-server model and dubious '50% off' marketing.",
+    "q41": "Rolling-server approach criticized."
+  },
+  {
+    "q0": 44976780,
+    "q31": -2,
+    "q32": "Daily sign-in rewards could not be claimed.",
+    "q41": "Sign-in reward claim bug."
+  },
+  {
+    "q0": 44976743,
+    "q41": "Dislikes the redesigned appearance of Daqiao."
+  },
+  {
+    "q0": 44976692,
+    "q3": "Manual-heavy turn-based combat with dark visuals; core revolves around building 'battle intent' to amplify damage; support/defense roles feel useless.",
+    "q4": -2,
+    "q5": "Hard to see, requires constant manual input, and strategy collapses into pure damage amplification.",
+    "q6": "Manual operation; damage amplification via 'battle intent'.",
+    "q7": -2,
+    "q8": "Says strategy doesn't matter without high HP; support/defense provide little value.",
+    "q11": -2,
+    "q12": "Support and defense archetypes are considered worthless versus pure damage."
+  },
+  {
+    "q0": 44976586,
+    "q31": 2,
+    "q32": "Explicitly says welfare is very generous."
+  },
+  {
+    "q0": 44976522,
+    "q9": -1,
+    "q10": "Becomes repetitive by day 2 and feels less engaging than the first game."
+  },
+  {
+    "q0": 44976474,
+    "q31": -2,
+    "q32": "Welfare feels poor and pull rates are low.",
+    "q29": -1,
+    "q30": "Feels grindy with low draw rates."
+  },
+  {
+    "q0": 44976313,
+    "q41": "Claims it's the same template with no real innovation."
+  },
+  {
+    "q0": 44976219,
+    "q41": "Suggests adding minigames like fishing and a sand-table simulation to enrich content."
+  },
+  {
+    "q0": 44976031,
+    "q41": "Feels overly old-school with no meaningful improvements."
+  },
+  {
+    "q0": 44975890,
+    "q4": -2,
+    "q5": "Stage-pushing experience is poor; art feels AI-generated; narrative and visuals regress versus the first game; lacks prior auto helper.",
+    "q41": "Missing the 'Wenji assistant' auto-push tool from the previous title."
+  },
+  {
+    "q0": 44975849,
+    "q41": "Prefers the 'young Cao Cao' artwork over the adult version."
+  },
+  {
+    "q0": 44975822,
+    "q41": "States it's a sequel and disputes accusations of BL/ship-baiting."
+  },
+  {
+    "q0": 44975764
+  },
+  {
+    "q0": 44975709,
+    "q3": "Turn-based with lineup synergies; manual skill order and buff/target timing matter; auto cannot beat tougher content.",
+    "q4": 2,
+    "q5": "Manual control and combo setup feel rewarding.",
+    "q6": "Lineup composition; turn manipulation; cost reduction; buff stacking; manual target selection.",
+    "q7": 1,
+    "q8": "Requires planning of skill order and synergies; auto AI is insufficient.",
+    "q9": -1,
+    "q10": "Progress stalls at 11-6 and Tower 79 due to insufficient power despite good play.",
+    "q41": "Auto-battle editor cannot assign specific buff targets."
+  },
+  {
+    "q0": 44975611,
+    "q3": "Some attackers can target the backline directly, bypassing tanks.",
+    "q11": -1,
+    "q12": "Backline DPS (e.g., Sun Shangxiang, Cao Cao) feel overtuned and hard to counter.",
+    "q6": "Backline sniping mechanics."
+  },
+  {
+    "q0": 44975514,
+    "q41": "Requests the team to focus on better game design rather than just art."
+  },
+  {
+    "q0": 44975463,
+    "q41": "Poor screen adaptation on Vivo X100 (black bars/black screen); '1000 pulls' advertising not reflected in early experience."
+  },
+  {
+    "q0": 44975413,
+    "q27": -1,
+    "q28": "States 0-spend is barely playable."
+  },
+  {
+    "q0": 44975384,
+    "q41": "Suggests playing competing titles (Onmyoji, 1999) instead."
+  },
+  {
+    "q0": 44975371,
+    "q41": "Finds it fun but requests more welfare and fewer ads."
+  },
+  {
+    "q0": 44975197,
+    "q41": "Criticizes crude art/UI and mismatched theme direction."
+  },
+  {
+    "q0": 44975125,
+    "q31": -2,
+    "q32": "Promised '1000 pulls' missing and grind-heavy.",
+    "q29": -2,
+    "q30": "Feels like bait-and-switch followed by heavy grind."
+  },
+  {
+    "q0": 44975033,
+    "q1": true,
+    "q2": "Sexual content/BL insinuations; complains key characters were 'turned gay', ruining characterization."
+  },
+  {
+    "q0": 44975029,
+    "q41": "Dismissive insult; says the game doesn't deserve attention."
+  },
+  {
+    "q0": 44974961,
+    "q41": "Calls it a rough half-finished product with regressions versus the first game."
+  },
+  {
+    "q0": 44974699,
+    "q31": -1,
+    "q32": "Welfare and visuals worse than the first game."
+  },
+  {
+    "q0": 44974646,
+    "q41": "Could not enter the first server; uninstalled."
+  },
+  {
+    "q0": 44974601,
+    "q41": "Asks for help without specifying the issue."
+  },
+  {
+    "q0": 44974526,
+    "q41": "Global speed-up assistant affects the whole app instead of just battles; story is unengaging."
+  },
+  {
+    "q0": 44974516,
+    "q31": -2,
+    "q32": "Claims the '1000 pulls' promotion is false."
+  },
+  {
+    "q0": 44974333,
+    "q3": "Stages add manual-only obstacles (e.g., pigs/screens) that block auto play; many systems unlock early.",
+    "q4": -1,
+    "q5": "Forced manual and intrusive reward popups hurt enjoyment.",
+    "q6": "Auto-blocking stage mechanics.",
+    "q7": -1,
+    "q8": "New twists lack meaningful depth and add inconvenience.",
+    "q41": "Full-screen 'Congrats' popups for tiny rewards; overloaded early systems."
+  },
+  {
+    "q0": 44974069
+  },
+  {
+    "q0": 44973979,
+    "q41": "Poor character models and weak story."
+  },
+  {
+    "q0": 44973933,
+    "q41": "Cao Cao's artwork and voice acting are off-putting."
+  },
+  {
+    "q0": 44973805,
+    "q29": -2,
+    "q30": "Feels pay-to-win with many refunded test-server whales dominating.",
+    "q41": "Lack of interactivity; focused on pumping battle power."
+  },
+  {
+    "q0": 44973687
+  },
+  {
+    "q0": 44973626,
+    "q1": true,
+    "q2": "BL/yaoi undertones in early story; excessive homoerotic interactions.",
+    "q3": "Turn-based with shared AP like Onmyoji; choose basic attacks or skills.",
+    "q4": -1,
+    "q5": "Little innovation and plain effects/animations; too similar to the first game.",
+    "q41": "Says the '1000 pulls' exist but feel underwhelming."
+  },
+  {
+    "q0": 44973619,
+    "q41": "3D battles look muddled; story quality is very low."
+  },
+  {
+    "q0": 44973562,
+    "q9": -1,
+    "q10": "Core loop feels like endless stage-clearing; becomes tiring and boring."
+  },
+  {
+    "q0": 44973546,
+    "q27": -2,
+    "q28": "By day 2 F2P stamina can't keep up, with nearly zero improvement and forced manual for achievements.",
+    "q29": -2,
+    "q30": "Strong push to spend due to stamina limits and difficulty spikes.",
+    "q9": -2,
+    "q10": "Progress stalls on day 2 without spending."
+  },
+  {
+    "q0": 44973509,
+    "q9": -1,
+    "q10": "No clear dailies or upgrade path; high difficulty; chat clogged with help requests.",
+    "q41": "World chat flooded by help requests."
+  },
+  {
+    "q0": 44973428,
+    "q6": "Per-character profession/class switching.",
+    "q7": 1,
+    "q8": "Class switching increases tactical options.",
+    "q13": 1,
+    "q14": "Multiple roles per character increase lineup variety."
+  },
+  {
+    "q0": 44973410
+  },
+  {
+    "q0": 44973270,
+    "q41": "Art style criticized as AI/otome-like; story derided."
+  },
+  {
+    "q0": 44973265
+  },
+  {
+    "q0": 44973202,
+    "q9": -1,
+    "q10": "High grind despite acceptable art and story."
+  },
+  {
+    "q0": 44973131,
+    "q3": "Some stages cannot be skipped or automated; manual-only sections.",
+    "q4": -1,
+    "q5": "Forced manual undermines convenience."
+  },
+  {
+    "q0": 44973099,
+    "q29": -1,
+    "q30": "Too many recharge screens create a heavy monetization feel.",
+    "q41": "Content feels thin/one-note."
+  },
+  {
+    "q0": 44973018,
+    "q41": "Guild system demands strict participation; whales cluster; intrusive social pressure and risk of being kicked."
+  },
+  {
+    "q0": 44973000,
+    "q9": -1,
+    "q10": "Ran out of stamina quickly; main story requires manual operation."
+  },
+  {
+    "q0": 44972906,
+    "q41": "Grid under units' feet breaks immersion."
+  },
+  {
+    "q0": 44972849,
+    "q3": "Level/number-gated combat with stage mechanics that force manual play.",
+    "q9": -2,
+    "q10": "Small level gaps block progress; stamina is low; forced manual despite idle expectations."
+  },
+  {
+    "q0": 44972836,
+    "q27": -2,
+    "q28": "High monetization; not suitable for F2P.",
+    "q29": -2,
+    "q30": "Heavy spend pressure."
+  },
+  {
+    "q0": 44972709,
+    "q6": "Defensive counterattack team (e.g., Dian Wei + Cao Ren) leveraging tankiness to trigger counters.",
+    "q7": 1,
+    "q8": "Character mechanics enable themed counter teams.",
+    "q13": 1,
+    "q14": "Defensive/counter builds add variety."
+  },
+  {
+    "q0": 44972532,
+    "q3": "Auto AI plays poorly, forcing manual control; weak presentation (no BGM, bland effects).",
+    "q4": -2,
+    "q5": "Clunky combat and forced manual undermine enjoyment.",
+    "q6": "Manual micromanagement to avoid AI mistakes.",
+    "q7": -1,
+    "q8": "Strategy feels undermined by bad automation.",
+    "q29": -2,
+    "q30": "Half-price pricing tactics felt predatory.",
+    "q31": -2,
+    "q32": "Stingy benefits; '1000 pulls' not found.",
+    "q41": "Combat lacks presentation (no BGM, weak effects)."
+  },
+  {
+    "q0": 44972500,
+    "q41": "Story feels like it lacks a meaningful protagonist."
+  },
+  {
+    "q0": 44972257
+  },
+  {
+    "q0": 44971893,
+    "q41": "Claims many new characters originate from Jinjiang web novels."
+  },
+  {
+    "q0": 44972113
+  },
+  {
+    "q0": 44971882,
+    "q9": -1,
+    "q10": "Childish story and very little content reduce motivation to play."
+  },
+  {
+    "q0": 44971869,
+    "q29": -2,
+    "q30": "Daily stamina requires payment and is limited to 4 purchases vs 8 in peers; prior title gave free stamina.",
+    "q31": -2,
+    "q32": "Stamina and free rewards are stingy."
+  },
+  {
+    "q0": 44971800,
+    "q31": -1,
+    "q32": "No summon tickets available on day 2."
+  },
+  {
+    "q0": 44971790,
+    "q41": "Art style feels mismatched with the Three Kingdoms theme."
+  },
+  {
+    "q0": 44971677,
+    "q31": -1,
+    "q32": "Welfare worse than in the first game."
+  },
+  {
+    "q0": 44971614,
+    "q9": -2,
+    "q10": "Very little content and stamina-gating; pity-only luck; feels half-finished.",
+    "q29": -2,
+    "q30": "Aggressive monetization (half-price) despite thin content."
+  },
+  {
+    "q0": 44971645,
+    "q27": 1,
+    "q28": "Resonance and inheritance systems reduce leveling burden and trial cost for newcomers."
+  },
+  {
+    "q0": 44971629,
+    "q41": "Does not like the character illustrations."
+  },
+  {
+    "q0": 44971551,
+    "q1": true,
+    "q2": "BL/yaoi subtext in voices and story; focuses on male-male interactions over the player's avatar."
+  },
+  {
+    "q0": 44971613,
+    "q1": true,
+    "q2": "BL undertones in voice lines; male characters styled as 'gay'.",
+    "q23": true,
+    "q24": "Pity guarantees exist; weapon banner can off-rate; hitting pity is effectively required for desired items.",
+    "q29": -2,
+    "q30": "Progress gating, stat inflation, and lack of welfare create heavy spend pressure.",
+    "q31": -2,
+    "q32": "States there is effectively 'no welfare'.",
+    "q9": -2,
+    "q10": "Mandatory walls and stat inflation slow progress substantially."
+  },
+  {
+    "q0": 44971577,
+    "q41": "Wants to switch servers and redo the pre-summon selection."
+  },
+  {
+    "q0": 44971315,
+    "q4": -2,
+    "q5": "Combat lacks presentation/BGM and feels clunky; overall regression versus the first game.",
+    "q41": "Story is incoherent; 'otome' art direction criticized."
+  },
+  {
+    "q0": 44971311,
+    "q41": "Encountered a black screen after an early cutscene."
+  },
+  {
+    "q0": 44971231,
+    "q41": "Feels similar to 'Young Journey to the West 2' with average fun."
+  },
+  {
+    "q0": 44971200,
+    "q41": "Gameplay lacks richness but the story is straightforward; early experience is okay."
+  },
+  {
+    "q0": 44971025,
+    "q29": -1,
+    "q30": "Leveling doesn't grant stamina so you must buy it; draw currency is hard to earn."
+  },
+  {
+    "q0": 44970939
+  },
+  {
+    "q0": 44970872,
+    "q41": "Team activity UI bug: after QR join with unbound members, you cannot exit."
+  },
+  {
+    "q0": 44970865,
+    "q41": "Black screen issue reported."
+  },
+  {
+    "q0": 44967677,
+    "q41": "Art style regressed vs the first game and looks AI-made; unclear what improved."
+  },
+  {
+    "q0": 44970761,
+    "q29": -2,
+    "q30": "Half-price marketing and a huge pay gap; feels like a browser-game mashup with borrowed systems.",
+    "q27": -2,
+    "q28": "F2P can use launch welfare briefly, but long-term play requires heavy spending.",
+    "q15": "Side activities like tree-cutting, fishing, and dungeon sweep.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Side activities feel shallow and borrowed from other games."
+  },
+  {
+    "q0": 44970756,
+    "q41": "iOS frequently freezes (even on 'Congrats' screen); app music continues after force-close."
+  },
+  {
+    "q0": 44970707,
+    "q29": -1,
+    "q30": "Perceived cashgrab with 'all half-price' branding.",
+    "q31": 0,
+    "q32": "Welfare described as average."
+  },
+  {
+    "q0": 44970684,
+    "q41": "Name creation rejects rare Chinese characters; validation is overly strict."
+  },
+  {
+    "q0": 44970609
+  }
+]

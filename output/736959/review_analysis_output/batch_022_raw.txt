@@ -1,0 +1,494 @@
+[
+  {
+    "q0": 44959954,
+    "q27": -2,
+    "q28": "Even after spending a few hundred, still feels as weak as a bot; paywall to be competitive.",
+    "q29": -2,
+    "q30": "Strong impression that spending is required and still not rewarding."
+  },
+  {
+    "q0": 44959949,
+    "q9": -1,
+    "q10": "Shard run blocked after a draw pushed the unit to a milestone (5-star/5 awaken), leaving 5 shards short with no clear solution.",
+    "q41": "Shard farming flow breaks if a draw advances the same unit; rules unclear."
+  },
+  {
+    "q0": 44959940,
+    "q1": true,
+    "q2": "BL/yaoi-leaning plot and effeminate male character designs.",
+    "q41": "Art and narrative tone alienate multiple audience segments."
+  },
+  {
+    "q0": 44959935,
+    "q41": "After several stages, still couldn't find a clear player protagonist/POV; uninstalled."
+  },
+  {
+    "q0": 44959910,
+    "q31": -1,
+    "q32": "Only two freebies per faction; reward structure feels stingy and annoying."
+  },
+  {
+    "q0": 44959886,
+    "q1": true,
+    "q2": "Attractive character art; female characters have good figures but not overly revealing.",
+    "q31": 0,
+    "q32": "Gacha and rewards feel average; typical of the genre.",
+    "q41": "Portraits look slightly AI-processed but reworked; story praised."
+  },
+  {
+    "q0": 44959882,
+    "q41": "UI feels poor; onboarding/guidance unclear—hard to know what to play."
+  },
+  {
+    "q0": 44959871,
+    "q4": 1,
+    "q5": "Says overall okay; card battler is fine."
+  },
+  {
+    "q0": 44959858,
+    "q9": -1,
+    "q10": "Gameplay loop feels old and uninteresting despite visual improvements.",
+    "q41": "Guilds exploit new players for tasks and instantly kick; perceived official tolerance of shell-guild abuse."
+  },
+  {
+    "q0": 44959849,
+    "q1": true,
+    "q2": "BL/yaoi-leaning main story content.",
+    "q41": "Three Kingdoms players turned off by BL-heavy plot."
+  },
+  {
+    "q0": 44959843,
+    "q41": "Sequel’s art quality perceived much worse than the first game."
+  },
+  {
+    "q0": 44959836,
+    "q31": -2,
+    "q32": "Promised 1000 pulls actually require heavy grind.",
+    "q29": -2,
+    "q30": "Marketing promises feel misleading; heavy grind for summons."
+  },
+  {
+    "q0": 44959823,
+    "q31": -2,
+    "q32": "Event/lottery rewards feel unfair; as a team leader, could barely claim anything.",
+    "q29": -1,
+    "q30": "Event design feels exploitative and time-gated.",
+    "q41": "Event distribution perceived as unfair and overly time-dependent."
+  },
+  {
+    "q0": 44959681,
+    "q31": -2,
+    "q32": "“1000 pulls” claim perceived as dishonest.",
+    "q41": "Accuses ops of dishonesty; art style criticized as off-IP."
+  },
+  {
+    "q0": 44959736,
+    "q1": true,
+    "q2": "BL/yaoi-leaning story content.",
+    "q41": "Questions market research; mismatch between Three Kingdoms audience and BL."
+  },
+  {
+    "q0": 44959712,
+    "q9": -2,
+    "q10": "Ran out of stamina on day 1; progress/cultivation gated without paying.",
+    "q29": -1,
+    "q30": "Energy system pushes spending early."
+  },
+  {
+    "q0": 44959705,
+    "q41": "Visual bug/blank display despite saying graphics are good."
+  },
+  {
+    "q0": 44959683,
+    "q41": "Story tone unintentionally funny."
+  },
+  {
+    "q0": 44959664,
+    "q41": "Long-time player of the first game; sequel disappoints compared to Huan1."
+  },
+  {
+    "q0": 44959624,
+    "q27": -2,
+    "q28": "Major features feel locked behind spending; prompts to pay when stuck.",
+    "q29": -2,
+    "q30": "Full-screen recharge prompts; paywall pressure constant.",
+    "q31": -2,
+    "q32": "Welfare perceived as poor.",
+    "q41": "UI considered ugly."
+  },
+  {
+    "q0": 44959554,
+    "q41": "Bishounen makeover of historically macho characters alienates some players."
+  },
+  {
+    "q0": 44959546,
+    "q9": 1,
+    "q10": "Feels less grindy and smoother than earlier tests.",
+    "q41": "Hopes future events are not time-locked.”
+  },
+  {
+    "q0": 44959510,
+    "q41": "Significantly worse than the first game."
+  },
+  {
+    "q0": 44958448,
+    "q1": true,
+    "q2": "BL/yaoi-leaning plot featuring Yuan Shao and Cao Cao.",
+    "q41": "Early story criticized for heavy BL undertone."
+  },
+  {
+    "q0": 44959501,
+    "q41": "UI hitboxes unreliable; actions require multiple taps."
+  },
+  {
+    "q0": 44959468,
+    "q31": 1,
+    "q32": "Welfare is acceptable per user.",
+    "q41": "Feels like a half-finished product; gameplay not smooth."
+  },
+  {
+    "q0": 44959464
+  },
+  {
+    "q0": 44959462,
+    "q1": true,
+    "q2": "BL/yaoi-leaning content.",
+    "q41": "Fears BL may alienate both male and female players."
+  },
+  {
+    "q0": 44959451,
+    "q3": "Turn-based/card combat with limited or missing auto-battle; forced manual actions.",
+    "q4": -2,
+    "q5": "Wants auto-battle/auto farming; manual operation too complex and time-consuming.",
+    "q6": "Manual operations and complex controls.",
+    "q7": -1,
+    "q8": "Complexity feels like busywork rather than meaningful tactics."
+  },
+  {
+    "q0": 44959446,
+    "q41": "No split-screen support in 2025."
+  },
+  {
+    "q0": 44959411
+  },
+  {
+    "q0": 44959397,
+    "q41": "AI-generated art vibe is off-putting; quit due to art."
+  },
+  {
+    "q0": 44959391,
+    "q41": "Gameplay feels boring even after a small spend."
+  },
+  {
+    "q0": 44959351,
+    "q6": "Forced strategy elements.",
+    "q7": -1,
+    "q8": "Strategy feels enforced and unpleasant rather than engaging.",
+    "q41": "Worse than the first game."
+  },
+  {
+    "q0": 44959340,
+    "q3": "Story battles require manual confirmation even with auto on.",
+    "q4": -1,
+    "q5": "Must manually tap to proceed in story fights; auto is inconsistent.",
+    "q25": -2,
+    "q26": "“Half price” rewards are tiny; equivalent to no discount.",
+    "q31": -2,
+    "q32": "Most of the promised pulls were via prelaunch mini-app; in-game gives very few.",
+    "q41": "Story/art/animation heavily criticized."
+  },
+  {
+    "q0": 44959334,
+    "q41": "Poor immersion and possible OOC; disliked mascot; wished more classic characters like Cai Wenji."
+  },
+  {
+    "q0": 44959320,
+    "q31": -1,
+    "q32": "Free tickets are for the standard pool only; underwhelming."
+  },
+  {
+    "q0": 44959305,
+    "q41": "Perceived as copying other otome titles; no gameplay innovation; marketing mismatch."
+  },
+  {
+    "q0": 44959295,
+    "q41": "High spender in 1 uninstalled 2 quickly; lacks the old feel."
+  },
+  {
+    "q0": 44959266,
+    "q31": -2,
+    "q32": "Typical otome with poor welfare and shallow gameplay per user.",
+    "q41": "Labeled as otome; lacks engaging systems."
+  },
+  {
+    "q0": 44959235,
+    "q31": -2,
+    "q32": "“1000 draws” claim mocked as false; rewards not delivered as expected."
+  },
+  {
+    "q0": 44959229,
+    "q25": -2,
+    "q26": "“All items half price” offset by halved returns; real cost unchanged.",
+    "q31": -1,
+    "q32": "Many free pulls split across pools, making them less useful."
+  },
+  {
+    "q0": 44959212,
+    "q41": "Story feels like an otome game; genre mismatch."
+  },
+  {
+    "q0": 44959203,
+    "q41": "Sequel perceived as a cynical rehash; repeated monetization."
+  },
+  {
+    "q0": 44959175,
+    "q31": -2,
+    "q32": "Cannot find the promised 1000 pulls."
+  },
+  {
+    "q0": 44959152,
+    "q4": -1,
+    "q5": "Combat and presentation feel mediocre.",
+    "q9": -1,
+    "q10": "Ran out of things to do within a couple of hours; little novelty vs 1."
+  },
+  {
+    "q0": 44959103,
+    "q3": "Tap-heavy, low-thought loop; repetitive click-to-clear stages.",
+    "q4": -2,
+    "q5": "Mindless tapping with minimal engagement.",
+    "q6": "Daily chore-like routine.",
+    "q7": -2,
+    "q8": "Very little to think about; strategy depth feels minimal.",
+    "q9": -1,
+    "q10": "Predictable, endless daily grind loop."
+  },
+  {
+    "q0": 44959133,
+    "q4": -1,
+    "q5": "No standout features or feedback; very bland experience."
+  },
+  {
+    "q0": 44959124,
+    "q1": true,
+    "q2": "Sexualized design references (e.g., black stockings).",
+    "q41": "Marketing controversies and audience-mismatch complaints."
+  },
+  {
+    "q0": 44959089,
+    "q29": -2,
+    "q30": "Strong pay-to-win smell; advises to just spend to play.",
+    "q41": "Wants auto chess competitive mode; story feels detached from Three Kingdoms."
+  },
+  {
+    "q0": 44959066,
+    "q31": -2,
+    "q32": "Welfare is stingy; prior tests either too hard or lacked gameplay.",
+    "q41": "Female-oriented/otome positioning, cheap art, and effeminate designs criticized."
+  },
+  {
+    "q0": 44959003,
+    "q41": "Protagonist feels like a passive camera with no purpose."
+  },
+  {
+    "q0": 44958991,
+    "q41": "Prefers to stick with the first game."
+  },
+  {
+    "q0": 44958983,
+    "q31": -2,
+    "q32": "Many event packs shown but few obtainable; meager sign-in rewards.",
+    "q41": "Prompts to rate positively before entering the game; negative UX."
+  },
+  {
+    "q0": 44958982,
+    "q11": -2,
+    "q12": "Wei faction perceived as significantly weaker; faction imbalance."
+  },
+  {
+    "q0": 44958915,
+    "q41": "Account on server 1 disappeared after an update."
+  },
+  {
+    "q0": 44958914,
+    "q1": true,
+    "q2": "Male characters with exposed chests (partial nudity).",
+    "q41": "Sequel quality questioned; marketing vs in-game imagery mismatch."
+  },
+  {
+    "q0": 44958891,
+    "q41": "Feels like a webgame reskin with AI art vibe; 1 was better."
+  },
+  {
+    "q0": 44958877,
+    "q3": "Forced manual battles; limited auto features; complex operations.",
+    "q4": -2,
+    "q5": "Wanted auto farming; manual micromanagement killed interest.",
+    "q6": "Overly complex control flow.",
+    "q7": -1,
+    "q8": "Complexity feels burdensome, not strategic."
+  },
+  {
+    "q0": 44958874,
+    "q41": "Quality feels outdated for a 2025 release."
+  },
+  {
+    "q0": 44958860,
+    "q41": "Perceived as a generic reskin with little meaning."
+  },
+  {
+    "q0": 44958829,
+    "q25": -1,
+    "q26": "Pulls feel unrewarding and off-rate; early top-up didn’t help.",
+    "q41": "Constantly off-banner; quit despite early SSRs."
+  },
+  {
+    "q0": 44958823,
+    "q6": "Overloaded with systems/elements creating clutter.",
+    "q7": -1,
+    "q8": "Too many disparate elements; feels messy and confusing.",
+    "q41": "Got rare heroes but still no desire to continue due to bloat."
+  },
+  {
+    "q0": 44958813
+  },
+  {
+    "q0": 44958805,
+    "q41": "Accuses Lü Bu skill of copying Honor of Kings; crude production; poor tie to franchise."
+  },
+  {
+    "q0": 44958795,
+    "q41": "Art style is repulsive to the user."
+  },
+  {
+    "q0": 44958783,
+    "q25": -1,
+    "q26": "Gacha feels unsatisfying compared to the first game.",
+    "q4": -1,
+    "q5": "Combat and visuals feel inferior and unoriginal."
+  },
+  {
+    "q0": 44958746,
+    "q3": "Turn-based card battler.",
+    "q4": -1,
+    "q5": "No highlights; genre fatigue."
+  },
+  {
+    "q0": 44958740,
+    "q4": -2,
+    "q5": "Combat lacks animations, impact, and battlefield atmosphere; weak audio/visual cues.",
+    "q41": "Heavy critique of art direction, lifeless models, static scenes, and inappropriate music tone."
+  },
+  {
+    "q0": 43837638,
+    "q41": "Suggests tagging the game as otome and female-oriented."
+  },
+  {
+    "q0": 44958721,
+    "q41": "Seeing 22 servers at launch suggests fragmentation/ghost servers; uninstalled."
+  },
+  {
+    "q0": 44958715,
+    "q41": "Misunderstanding of the target audience; damaging to the IP."
+  },
+  {
+    "q0": 44958710,
+    "q31": -2,
+    "q32": "“1000 pulls” are grind-to-earn but advertised as free."
+  },
+  {
+    "q0": 44958707,
+    "q25": -1,
+    "q26": "Half-price offers not compelling.",
+    "q31": -2,
+    "q32": "Claims there are essentially no real welfare rewards."
+  },
+  {
+    "q0": 44958690,
+    "q41": "Female-oriented otome experience doesn’t match advertising; warns to avoid."
+  },
+  {
+    "q0": 44917390,
+    "q1": true,
+    "q2": "Excessive BL and otome-style art.",
+    "q41": "Audience definition off for a strategy numbers-driven card game; suggests a strategic lesson for the dev."
+  },
+  {
+    "q0": 44958660,
+    "q41": "Overlong and tedious experience; far worse than the first game."
+  },
+  {
+    "q0": 44958623,
+    "q31": -2,
+    "q32": "Sign-in event rewards too stingy to be worth running."
+  },
+  {
+    "q0": 44958619,
+    "q41": "Even a degraded 1 is considered better than 2."
+  },
+  {
+    "q0": 44958607,
+    "q41": "A 2025 sequel performing worse than its own first installment."
+  },
+  {
+    "q0": 44958605,
+    "q41": "“No useless heroes” claim doesn’t help; feels like a generic reskinned card game with no innovation."
+  },
+  {
+    "q0": 44958603,
+    "q41": "Character portrayal confusion (Yuan Shao not matching expectations)."
+  },
+  {
+    "q0": 44958599,
+    "q41": "Rough 3D, poor graphics, and boring gameplay; far below the first game."
+  },
+  {
+    "q0": 44958583,
+    "q41": "UI/visibility issues likened to a 'blind' game."
+  },
+  {
+    "q0": 44958535,
+    "q41": "Perplexed that the series quality declines over time."
+  },
+  {
+    "q0": 44958533,
+    "q25": -1,
+    "q26": "Universal 50% off is meaningless if applied to everyone equally.",
+    "q41": "Suggests otome/female-oriented tags."
+  },
+  {
+    "q0": 44958530,
+    "q41": "Far inferior to the Three Fantasy IP; leaving."
+  },
+  {
+    "q0": 44958501,
+    "q41": "No test-to-launch recharge rebate received; customer service unresponsive."
+  },
+  {
+    "q0": 44958468,
+    "q41": "Black screen during early gameplay; couldn’t complete newbie tasks."
+  },
+  {
+    "q0": 44958466,
+    "q11": -1,
+    "q12": "Female characters perceived to have low strength; male-biased roster and otome art.",
+    "q41": "Art and story poor; female collabs scarce; men redesigned as soft/otome style."
+  },
+  {
+    "q0": 44958463,
+    "q41": "Plays the same as 1 with 3D replacing 2D; minimal difference."
+  },
+  {
+    "q0": 44958455,
+    "q29": -2,
+    "q30": "Recharge prompts pop up within minutes; strong monetization push.",
+    "q41": "Art downgraded; 3D looks low quality."
+  },
+  {
+    "q0": 44958180,
+    "q6": "‘Jin Nang’ (talisman) system that adds forced strategy layers.",
+    "q7": -1,
+    "q8": "Forced strategy feels pointless and slows pacing.",
+    "q41": "Overly verbose pacing before and during battles."
+  }
+]

@@ -1,0 +1,719 @@
+[
+  {
+    "q0": 45139309,
+    "q31": -2,
+    "q32": "Promised 1000 pulls feels like false advertising; level 70 with full attendance still far from 1000 draws.",
+    "q41": "Complains about misleading 1000-pull promotion and money spent on celebrity endorsement."
+  },
+  {
+    "q0": 45139209,
+    "q9": -1,
+    "q10": "By day 15, welfare dries up; asked to raise a second team by day 8.",
+    "q31": -1,
+    "q32": "Welfare described as limited; becomes self-reliant after 15 days.",
+    "q41": "Auto-battle settings are disappointing."
+  },
+  {
+    "q0": 45138052
+  },
+  {
+    "q0": 44579313,
+    "q11": -2,
+    "q12": "States balance is terrible.",
+    "q31": -2,
+    "q32": "Stingy welfare; after seven days even daily draws are not achievable.",
+    "q9": -2,
+    "q10": "Progress stalls quickly; cannot even raise one team while being pushed to build more.",
+    "q6": "Stages with various special mechanics in ordinary dungeons.",
+    "q7": -1,
+    "q8": "There are mechanics, but they feel annoying rather than strategic.",
+    "q41": "Accuses planners of ignoring feedback."
+  },
+  {
+    "q0": 45034129,
+    "q3": "Turn-based card battler with faction lineups (Wei/Shu/Wu etc.), burn team meta, tanks and buffers, manual PvP (School Arena), and puzzle/hand-operated story stages.",
+    "q4": -2,
+    "q5": "Frustration with being gated by story chapters, stealth nerfs, gear grind, and dominant burn team.",
+    "q6": "Lineup synergy (burn + tanks + speed boost + healer), manual PvP requiring reads and timing.",
+    "q7": -1,
+    "q8": "Some tactical play exists, but imbalance and gating overshadow strategy.",
+    "q9": -2,
+    "q10": "Content updates slow; advancement gated by days and scarce resources; poor stage rewards.",
+    "q11": -2,
+    "q12": "Burn team (Wu: Zhou Yu/Lu Xun) with tanks (Zhou Tai/Cao Ren) dominates; stealth nerfs to Shu without notice.",
+    "q13": -2,
+    "q14": "Meta converges on burn; other factions/teams struggle.",
+    "q15": "Equipment forging with a hammer system, tower climbing to earn upgrade resources; low drop rates and complex set crafting.",
+    "q16": false,
+    "q17": -2,
+    "q18": "Forging system is convoluted and grindy with low rates.",
+    "q19": -2,
+    "q20": "Tower and forging yield meager resources relative to effort.",
+    "q21": -2,
+    "q22": "Few substantive updates; holiday event mostly sign-in; AI added to PvP indicates population issues.",
+    "q29": -2,
+    "q30": "Scarce resources, poor drop rates, and paid-focused events create strong spending pressure.",
+    "q31": -2,
+    "q32": "Promised draws feel like wordplay; overall freebies are scarce.",
+    "q33": true,
+    "q34": "Three Kingdoms setting focusing on young Cao Cao and historical factions.",
+    "q35": 1,
+    "q36": "Feels closer to historical tone than the first game, though not without issues.",
+    "q41": "Complaints include false 1000-draw promotion, stealth balance changes, long PvP queues with poor matching, and holiday events being mostly paid."
+  },
+  {
+    "q0": 45138000,
+    "q3": "Story stages with puzzles and forced manual operations in a turn-based card game.",
+    "q4": -2,
+    "q5": "Does not want hand-operated puzzle gameplay in a card collector; seeks welfare/collection instead.",
+    "q6": "Puzzle-solving and manual control requirements.",
+    "q7": -1,
+    "q8": "Strategy exists but is unwelcome and feels at odds with player expectations."
+  },
+  {
+    "q0": 45137867,
+    "q11": -2,
+    "q12": "Claims severe imbalance; pure female team loses even with large power gap."
+  },
+  {
+    "q0": 45136811,
+    "q11": -2,
+    "q12": "Only the burn team is viable.",
+    "q13": -2,
+    "q14": "States there is effectively only one playable lineup after two weeks."
+  },
+  {
+    "q0": 45136682,
+    "q9": -2,
+    "q10": "Main story done in ~14–15 days; welfare drops sharply afterward.",
+    "q31": -1,
+    "q32": "Daily rewards decline after the initial period.",
+    "q41": "Content dries up after about two weeks."
+  },
+  {
+    "q0": 45035392,
+    "q29": -2,
+    "q30": "Implies you need significant money/time; regrets playing.",
+    "q41": "Recommends quitting after ~10 days."
+  },
+  {
+    "q0": 45135144,
+    "q3": "Some stages force manual, disabling auto-battle.",
+    "q4": -2,
+    "q5": "Forced manual stages feel tedious and time-wasting.",
+    "q41": "Strong frustration with mandatory manual gameplay."
+  },
+  {
+    "q0": 44959682,
+    "q15": "Equipment forging via a hammer system with set collection and upgrades; exclusive weapon (fengwu) also requires gacha and star-ups; limited monthly shop.",
+    "q17": -2,
+    "q18": "Many layers (sets, tiers, upgrades, exclusive weapons) and low availability make it cumbersome.",
+    "q19": -2,
+    "q20": "After day 14, resource inflow collapses; only a sparse monthly shop and limited awakening gems.",
+    "q9": -2,
+    "q10": "Progress halts after ~14 days without spending.",
+    "q27": -2,
+    "q28": "Core progression and building a second team feel impossible without paying.",
+    "q29": -2,
+    "q30": "Players are pushed to buy packs for any progress.",
+    "q31": -2,
+    "q32": "Rewards are mostly one-time; long-term sources are negligible.",
+    "q41": "High star/duplicate requirements; cannot support two teams; equipment upgrade walls."
+  },
+  {
+    "q0": 45134102,
+    "q9": -2,
+    "q10": "No cyclic resource sources; players quit within a week.",
+    "q31": -2,
+    "q32": "Lack of recurring rewards.",
+    "q41": "Calls the design disgusting due to no sustainable resource loop."
+  },
+  {
+    "q0": 45133954,
+    "q11": -2,
+    "q12": "Poison team too weak in PvE leading to resource starvation.",
+    "q9": -2,
+    "q10": "Stuck in a dead loop: can’t clear PvE so can’t gain resources.",
+    "q31": -2,
+    "q32": "Daily resources are near zero; currency drains quickly.",
+    "q41": "Describes a self-reinforcing failure state."
+  },
+  {
+    "q0": 44982209
+  },
+  {
+    "q0": 44644024,
+    "q21": -2,
+    "q22": "Holiday (Dragon Boat) event was pay-to-participate with chained recharges.",
+    "q29": -2,
+    "q30": "Event built around spending.",
+    "q31": -2,
+    "q32": "Holiday rewards seen as paywalled.",
+    "q41": "Player uninstalled due to pay-focused holiday event."
+  },
+  {
+    "q0": 45035673,
+    "q9": -2,
+    "q10": "Later stages/tower feel designed to hard-stall progress.",
+    "q31": -2,
+    "q32": "After early resources, later you get almost nothing; toothpaste trickle.",
+    "q41": "Recommends other games over this due to harsh gating."
+  },
+  {
+    "q0": 45127200,
+    "q1": true,
+    "q2": "BL/yaoi undertones; references to massacres and a woman being abused to death (sexual violence).",
+    "q41": "Criticizes storyline logic, character portrayals, and uncomfortable themes."
+  },
+  {
+    "q0": 45004581,
+    "q11": -2,
+    "q12": "Team balance extremely poor.",
+    "q31": -2,
+    "q32": "Benefits/welfare are very bad."
+  },
+  {
+    "q0": 45132288,
+    "q27": -2,
+    "q28": "Sign-in faction rewards removed; feels like only paying players can play.",
+    "q29": -2,
+    "q30": "Environment full of spenders; little regard for F2P.",
+    "q41": "Claims Sun Shangxiang at max fire wasn’t given; Wu faction content removed."
+  },
+  {
+    "q0": 45131662,
+    "q41": "Requests a gallery to view unlocked CGs."
+  },
+  {
+    "q0": 45131260,
+    "q15": "Hammer-based equipment forging/collection loop; assembling purple sets.",
+    "q17": 1,
+    "q18": "Reports set collection felt quick/easy.",
+    "q19": 1,
+    "q20": "Forging loop yields gear efficiently in this experience."
+  },
+  {
+    "q0": 45130928,
+    "q31": -2,
+    "q32": "All rewards feel one-time; after half a month there are no resources left.",
+    "q9": -2,
+    "q10": "Game effectively ends after two weeks without new income."
+  },
+  {
+    "q0": 45130550,
+    "q9": -2,
+    "q10": "After 15 days nothing to do and can’t draw anymore.",
+    "q31": -2,
+    "q32": "Welfare is minimal after initial period."
+  },
+  {
+    "q0": 45130460,
+    "q31": -2,
+    "q32": "Only ~100 premium currency per day, not even enough for stamina; cannot save.",
+    "q41": "Daily currency insufficient to buy stamina."
+  },
+  {
+    "q0": 45130402,
+    "q6": "Some stages are pure power checks despite being called strategic.",
+    "q7": -1,
+    "q8": "Strategy is undermined by stat checks.",
+    "q9": -1,
+    "q10": "Good welfare for 14 days; then resources hard to get.",
+    "q31": -1,
+    "q32": "Early welfare okay; dries up afterward."
+  },
+  {
+    "q0": 45130399,
+    "q21": -2,
+    "q22": "No new main storyline for a week; no activity events.",
+    "q31": -2,
+    "q32": "Battle pass useful only in early levels; draws become rare.",
+    "q41": "Spender frustrated by lack of content despite spending."
+  },
+  {
+    "q0": 45129968,
+    "q3": "Heavy manual operations and planning demanded.",
+    "q4": -1,
+    "q5": "Too many manual steps and strategies required; feels tiring.",
+    "q6": "Multiple strategies to consider across encounters.",
+    "q7": 1,
+    "q8": "There is strategizing depth, though it feels cumbersome."
+  },
+  {
+    "q0": 45129766,
+    "q3": "Story stages often cannot auto and require puzzle solving; complex gear tiers and upgrades; exclusive weapons need farming and upgrading.",
+    "q4": -1,
+    "q5": "Manual puzzles and numerous upgrade layers are frustrating.",
+    "q15": "Fishing mini-activity with tight daily limits; equipment forging/upgrading; exclusive weapon farming and evolution.",
+    "q17": -2,
+    "q18": "Many overlapping systems (gear tiers, evolution, exclusive weapons) increase complexity.",
+    "q19": -1,
+    "q20": "Side loops like fishing have strict caps and feel low-value.",
+    "q9": -2,
+    "q10": "Resources dry up after a week; blocked on gear and everything else.",
+    "q31": -2,
+    "q32": "Early resources abundant but vanish after 7–8 days.",
+    "q41": "Mentions forced level caps and growth locks."
+  },
+  {
+    "q0": 45129341,
+    "q9": -2,
+    "q10": "Later stage resources are basically none.",
+    "q3": "Frequent puzzle-like stages from developers.",
+    "q4": -1,
+    "q5": "Constantly solving contrived stages is exhausting.",
+    "q31": -2,
+    "q32": "No sustainable resource supply late-game."
+  },
+  {
+    "q0": 45129012,
+    "q9": -2,
+    "q10": "After 14 days, resources disappear; feels like a half-finished game.",
+    "q31": -2,
+    "q32": "Packs bought with jade and grind progress mislabeled as free claims.",
+    "q41": "Complains of no cyclical resources and misleading reward labeling."
+  },
+  {
+    "q0": 45128842,
+    "q11": -2,
+    "q12": "Balance is very poor.",
+    "q31": -2,
+    "q32": "Welfare is rare."
+  },
+  {
+    "q0": 45128003,
+    "q7": -2,
+    "q8": "Strategy is minimal; outcomes driven by numbers.",
+    "q29": -2,
+    "q30": "Perceived as pay-pushing.",
+    "q31": -2,
+    "q32": "Very little welfare."
+  },
+  {
+    "q0": 45127462,
+    "q7": -1,
+    "q8": "Some strategy exists, but overall a numbers game.",
+    "q27": -2,
+    "q28": "Zero-spend players have no viable path.",
+    "q11": -2,
+    "q12": "Balance is poor; synergy options limited by small roster.",
+    "q41": "Additional ‘Wu Shuang’ layer inflates stats and discourages play."
+  },
+  {
+    "q0": 45126275,
+    "q31": -2,
+    "q32": "Monthly income barely reaches a single 10-pull; wish may not be achievable monthly without spending.",
+    "q25": -2,
+    "q26": "Packs perceived as traps; effectively cannot afford even 10-pulls without paying.",
+    "q29": -2,
+    "q30": "Resources largely require spending."
+  },
+  {
+    "q0": 45125956,
+    "q13": -2,
+    "q14": "Feels like there are only a few usable heroes."
+  },
+  {
+    "q0": 45125599,
+    "q3": "Direct vs indirect damage; tanks grant 100% damage immunity; burn ignores immunity and ticks before actions.",
+    "q4": -2,
+    "q5": "Healers die before acting due to pre-turn burn; immunity trivializes direct damage.",
+    "q11": -2,
+    "q12": "Burn team bypasses defensive mechanics; others underperform.",
+    "q31": -2,
+    "q32": "Welfare is shallow; reliant on official handouts."
+  },
+  {
+    "q0": 45125356,
+    "q31": -2,
+    "q32": "Hard to get pulls after early stages; wish frequency extremely low.",
+    "q11": -2,
+    "q12": "Balance issues persist; new heroes unlikely to fix meta.",
+    "q9": -1,
+    "q10": "Pull scarcity ends interest in continuing."
+  },
+  {
+    "q0": 45124584,
+    "q41": "Praises QoL: built-in speedup, discount, and one-tap claim; art is good."
+  },
+  {
+    "q0": 45124235,
+    "q15": "Equipment system with one-click equip function.",
+    "q17": -1,
+    "q18": "One-click equip feels poorly implemented and inconvenient.",
+    "q41": "Requests a more streamlined equipment UI."
+  },
+  {
+    "q0": 45124203,
+    "q31": -2,
+    "q32": "Resources are one-time; daily 10-pulls no longer possible.",
+    "q21": -2,
+    "q22": "Dragon Boat event only gave ~20 hammers.",
+    "q15": "Equipment/hammer forging with set assembly.",
+    "q17": -1,
+    "q18": "Hard to complete sets despite many items.",
+    "q19": -1,
+    "q20": "Event and forging provide meager returns."
+  },
+  {
+    "q0": 45123620,
+    "q9": -2,
+    "q10": "Stuck despite meeting recommended levels; no sources for key items.",
+    "q31": -2,
+    "q32": "No channels for premium pulls or hammers; events sparse.",
+    "q21": -2,
+    "q22": "Feels like a game with no ongoing content; few activities.",
+    "q29": -2,
+    "q30": "Implied only whales can progress comfortably.",
+    "q15": "Hammer-forging and tower climb; hammers lack acquisition routes.",
+    "q19": -2,
+    "q20": "Poor resource returns from available loops.",
+    "q41": "PvE overtuned (one-shot by bosses) despite gearing."
+  },
+  {
+    "q0": 45121026,
+    "q11": -2,
+    "q12": "Dominant burn team led to uninstall.",
+    "q41": "Switching builds doesn’t refund ‘Wu Shuang’ materials."
+  },
+  {
+    "q0": 45120736,
+    "q31": -1,
+    "q32": "Resources are mostly one-time; suggests more daily outputs.",
+    "q41": "Claims some counters to burn later, pending updates."
+  },
+  {
+    "q0": 45013032,
+    "q11": -2,
+    "q12": "Burn remains unnerfed and dominates modes.",
+    "q41": "Guild war imbalance complaints."
+  },
+  {
+    "q0": 45119175,
+    "q11": -2,
+    "q12": "Only Wu (burn) team is playable.",
+    "q31": -2,
+    "q32": "Welfare is poor.",
+    "q13": -2,
+    "q14": "Only one faction’s team is viable."
+  },
+  {
+    "q0": 45119113,
+    "q31": -2,
+    "q32": "Weekly income barely funds a single 10-pull unless you skip stamina; overall resource flow is too low.",
+    "q27": -1,
+    "q28": "F2P can play but at severe disadvantage due to resource scarcity.",
+    "q29": -2,
+    "q30": "Resource constraints pressure spending.",
+    "q9": -2,
+    "q10": "High star/duplicate costs and limited income block progress.",
+    "q41": "Holiday event lacked sincerity; balance issues noted."
+  },
+  {
+    "q0": 45118852,
+    "q9": -1,
+    "q10": "Resource cycle is too weak; by day 14 there’s little to do.",
+    "q11": -1,
+    "q12": "Fire T0 early; balance feels off though it may taper later.",
+    "q31": -1,
+    "q32": "Resource cycle criticized as poor.",
+    "q41": "Feels like a half-finished product with unclear operation plan."
+  },
+  {
+    "q0": 45118037,
+    "q9": -2,
+    "q10": "After a week there’s little new content.",
+    "q27": -2,
+    "q28": "Non-paying users have poor experience.",
+    "q11": -2,
+    "q12": "Only burn team viable, even for payers.",
+    "q29": -2,
+    "q30": "Perceived as a cash grab/half-finished."
+  },
+  {
+    "q0": 45117828,
+    "q21": -2,
+    "q22": "Holiday event was just sign-in; no real content.",
+    "q29": -2,
+    "q30": "Even spenders feel unrewarded and quit."
+  },
+  {
+    "q0": 45117688,
+    "q1": true,
+    "q2": "BL/yaoi themes and CP shipping in the story.",
+    "q21": -2,
+    "q22": "Resources dry up after 14 days; events are very rare.",
+    "q11": -2,
+    "q12": "Burn team overwhelmingly dominates both PvP and PvE.",
+    "q3": "PvP with manual-only mode; long matching; repeated matches against same players.",
+    "q4": -2,
+    "q5": "Manual PvP is slow with poor matchmaking.",
+    "q6": "Hand-operated ‘School Arena’ PvP; meta emphasis on burn.",
+    "q7": -1,
+    "q8": "Potential for player skill exists but hindered by balance and matchmaking.",
+    "q29": -2,
+    "q30": "Lack of free resources post day-14 creates pay pressure.",
+    "q41": "Recommends replacing the current ops team; suggests high player churn and AI in PvP."
+  },
+  {
+    "q0": 45117325,
+    "q11": -2,
+    "q12": "Burn team dominates; no balance."
+  },
+  {
+    "q0": 45117156
+  },
+  {
+    "q0": 45116976,
+    "q41": "Describes the game as a half-finished product."
+  },
+  {
+    "q0": 45116840,
+    "q9": -2,
+    "q10": "Requires two teams but resources end after 14 days; no events or dungeons.",
+    "q31": -2,
+    "q32": "No resource income post-14-day window."
+  },
+  {
+    "q0": 45115505,
+    "q9": -2,
+    "q10": "Without cyclic resources, progression stalls.",
+    "q31": -2,
+    "q32": "Holiday rewards are negligible.",
+    "q21": -2,
+    "q22": "Events/rewards during festivals are minimal."
+  },
+  {
+    "q0": 45115457,
+    "q21": -1,
+    "q22": "Holiday event lacks meaningful giveaways (e.g., no selectable hero).",
+    "q31": -1,
+    "q32": "Holiday freebies considered inadequate."
+  },
+  {
+    "q0": 45115425
+  },
+  {
+    "q0": 45091907,
+    "q11": -2,
+    "q12": "Balance adjustments frustrate; feels pay-locked to get multiple systems.",
+    "q27": -2,
+    "q28": "Non-spenders struggle to access/clear core content due to gating.",
+    "q9": -1,
+    "q10": "Severe gating unless you pay for a full lineup."
+  },
+  {
+    "q0": 44282511,
+    "q41": "Requests more full-body character splash arts and information drops."
+  },
+  {
+    "q0": 45114865,
+    "q9": -2,
+    "q10": "Only early days have content; later there’s nothing to progress.",
+    "q21": -1,
+    "q22": "Content cadence feels very low.",
+    "q41": "Player uninstalled due to lack of content."
+  },
+  {
+    "q0": 45067919,
+    "q11": -2,
+    "q12": "Burn/Wu meta dominates; Shu and others underperform; ‘no useless heroes’ claim disputed.",
+    "q13": -2,
+    "q14": "Meta converges on burn team.",
+    "q31": -2,
+    "q32": "Welfare is meager; holiday packs underwhelming.",
+    "q29": -2,
+    "q30": "Repeated pity and scarce welfare feel pay-pushing.",
+    "q41": "Mentions 40-pull pity on wishes and poor festival packs."
+  },
+  {
+    "q0": 45114225,
+    "q11": -2,
+    "q12": "Burn remains unadjusted while others need buffs; resources don’t cycle.",
+    "q31": -1,
+    "q32": "Lack of cyclic resources criticized."
+  },
+  {
+    "q0": 45113673,
+    "q9": -2,
+    "q10": "Late-game has no resources or new maps; requires second team but can’t fund it.",
+    "q31": -2,
+    "q32": "Daily draws no longer possible; early resources insufficient.",
+    "q11": -2,
+    "q12": "Shu team ‘prison’; burn outperforms significantly."
+  },
+  {
+    "q0": 45113147,
+    "q31": -2,
+    "q32": "Resources are all one-time, mocking praise."
+  },
+  {
+    "q0": 45112680,
+    "q27": -2,
+    "q28": "Game not designed for F2P; cannot assemble a full lineup even after 14 days.",
+    "q31": -2,
+    "q32": "Draws are extremely limited; hard to even make a single 10-pull daily.",
+    "q29": -2,
+    "q30": "Core progression and draws demand spending."
+  },
+  {
+    "q0": 45112562,
+    "q33": true,
+    "q34": "Focuses on young Cao Cao within a Three Kingdoms narrative."
+  },
+  {
+    "q0": 45112536,
+    "q31": -2,
+    "q32": "Welfare worse than the first game; stamina limits prevent farming.",
+    "q41": "Criticizes riding on the first game’s popularity without matching its quality."
+  },
+  {
+    "q0": 45111430,
+    "q11": -2,
+    "q12": "Random balance changes; ignores player feedback."
+  },
+  {
+    "q0": 45110178,
+    "q41": "Third-party discount recharges (6.6折) observed; iOS/Android mixed server criticized."
+  },
+  {
+    "q0": 45110006
+  },
+  {
+    "q0": 45109421,
+    "q21": -2,
+    "q22": "First public event and holiday rewards felt like minimal AFK income and standard pool draws.",
+    "q31": -2,
+    "q32": "Public test vs release reward split and poor festival welfare."
+  },
+  {
+    "q0": 45108676,
+    "q21": -2,
+    "q22": "Mainline ‘ends’ after ~10 days.",
+    "q9": -2,
+    "q10": "Runs out of content quickly."
+  },
+  {
+    "q0": 45108259,
+    "q31": -2,
+    "q32": "Welfare described as stingy.",
+    "q11": -2,
+    "q12": "Balance issues ignored.",
+    "q41": "Stages called ‘hellish’/overtuned."
+  },
+  {
+    "q0": 45108213,
+    "q11": -1,
+    "q12": "Patch strongly buffed Wei/Shu, leaving group players disadvantaged."
+  },
+  {
+    "q0": 45108162,
+    "q11": -2,
+    "q12": "Worst balance seen; same lineup across servers regardless of spend.",
+    "q13": -2,
+    "q14": "Everyone runs the same comp."
+  },
+  {
+    "q0": 45107989,
+    "q21": -2,
+    "q22": "New activity was disappointing; developers not addressing known issues."
+  },
+  {
+    "q0": 45107235,
+    "q41": "Daily quest forces arena; matchmaking pits against far stronger opponents."
+  },
+  {
+    "q0": 45106552,
+    "q3": "Decryption/puzzle stages present in progression.",
+    "q4": -1,
+    "q5": "Wants puzzles to be skippable.",
+    "q6": "Puzzle elements in stages.",
+    "q7": 0,
+    "q8": "Puzzle depth exists but is unwelcome for this player."
+  },
+  {
+    "q0": 45106069,
+    "q11": -2,
+    "q12": "Same lineup yet loses to lower power, implying broken balance.",
+    "q41": "Arena outcomes feel inconsistent with power."
+  },
+  {
+    "q0": 45051197,
+    "q3": "Turn-based card battler; PvP has auto and manual modes; progression gated by level and gear; tower and armory systems intertwined.",
+    "q4": -1,
+    "q5": "Gating by level/equipment and overtuned content reduces fun.",
+    "q6": "Armory/tower interplay; lineup building across factions.",
+    "q7": -1,
+    "q8": "Systems exist but RNG and gates undercut strategic agency.",
+    "q9": -2,
+    "q10": "Card levels, gear, and armory caps hard-stall progress.",
+    "q15": "Armory/blacksmith forging via materials earned from tower/armory; gear crafting with RNG and set progression.",
+    "q16": false,
+    "q17": -2,
+    "q18": "Non-overflowing exp tied to draws; many upgrade steps; RNG-heavy forging.",
+    "q19": -2,
+    "q20": "Daily material drip is tiny relative to upgrade costs.",
+    "q21": -1,
+    "q22": "Low production; few events; main story gating without backlog.",
+    "q23": true,
+    "q24": "Wish system: pick targets; the first SSR of the day is guaranteed from the selected list in character/faction/weapon pools.",
+    "q25": -2,
+    "q26": "About 3 CNY per single; ‘permanent 50% off’ card feels like a marketing trick.",
+    "q27": -1,
+    "q28": "F2P can build a main team but expansions are heavily constrained.",
+    "q29": -2,
+    "q30": "Tight stamina and forging resources encourage spending.",
+    "q31": -2,
+    "q32": "Opening ‘fivefold card’ and events provide little true value.",
+    "q11": -2,
+    "q12": "Wu/burn meta dominates; Wei is underpowered; theme focused on Cao Cao yet faction is weak.",
+    "q41": "Battle pass split into multiple paid tracks; overtuned stages with level/gear suppression."
+  },
+  {
+    "q0": 45105061,
+    "q31": -2,
+    "q32": "Welfare appears abundant but is actually stingy."
+  },
+  {
+    "q0": 45104782,
+    "q27": -2,
+    "q28": "Not recommended for mid/low spenders; after launch window there’s no currency/tickets.",
+    "q31": -2,
+    "q32": "Daily resource gain is very low post events.",
+    "q29": -2,
+    "q30": "Jokes that developers ‘fixed the bug’ of playing without paying."
+  },
+  {
+    "q0": 45104434,
+    "q1": true,
+    "q2": "BL/yaoi pairing (Cao Cao and Yuan Shao) noted.",
+    "q11": -2,
+    "q12": "Burn has pre-turn damage and wide range; poison weaker and post-turn.",
+    "q3": "Burn ticks before actions; poison after; PvP/guild-centric focus.",
+    "q4": -2,
+    "q5": "Non-burn comps feel unplayable; severe meta dominance.",
+    "q41": "Recommends skipping story due to BL themes if not interested."
+  },
+  {
+    "q0": 45104069,
+    "q41": "Frustration with wordplay/marketing gimmicks."
+  },
+  {
+    "q0": 45103674,
+    "q31": -2,
+    "q32": "Daily rewards are tiny; 10-pulls take many days; pity often at 40.",
+    "q23": true,
+    "q24": "Approximate 40-pull pity exists but does not ensure desired unit.",
+    "q9": -2,
+    "q10": "After ~14 days there’s nothing left to do."
+  },
+  {
+    "q0": 45103454,
+    "q31": -2,
+    "q32": "After mainline, non-spenders struggle to gather even a weekly 10-pull.",
+    "q21": -1,
+    "q22": "Low cadence/production; little to do daily.",
+    "q9": -1,
+    "q10": "Game feels content-light day to day."
+  }
+]

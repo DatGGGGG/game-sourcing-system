@@ -1,0 +1,528 @@
+[
+  {
+    "q0": 44966496,
+    "q3": "Auto-battle team combat; attack order on auto is unclear; upgrading one set levels others together.",
+    "q4": 1,
+    "q5": "Good hit feeling and audio, but auto-battle order logic is confusing.",
+    "q9": 1,
+    "q10": "Not stuck and feels not difficult so far.",
+    "q15": "Side activities like fishing, egg-tapping for parts, jigsaw mini-stories, and character biographies.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Side activities are simple diversions that add flavor.",
+    "q19": 1,
+    "q20": "Egg-tapping drops parts; side content contributes items.",
+    "q41": "Narrative perspective and character portrayal feel confusing and off-tone; music praised."
+  },
+  {
+    "q0": 44966484,
+    "q4": -2,
+    "q5": "Battle camera is too far, low animation frames, simple effects, and no presentation; in-battle models differ greatly from portraits.",
+    "q41": "Combat visuals and presentation feel outdated and unattractive."
+  },
+  {
+    "q0": 44966237,
+    "q41": "Frequent ads and overall quality perceived as much worse than the predecessor."
+  },
+  {
+    "q0": 44966211,
+    "q41": "Rolling-server model criticized."
+  },
+  {
+    "q0": 44947048,
+    "q29": -1,
+    "q30": "“Half-price” monetization called a gimmick; value of stat systems questioned.",
+    "q41": "Mascot/model quality criticized; relies on discount gimmicks."
+  },
+  {
+    "q0": 44966132,
+    "q3": "Many stages require manual play rather than auto.",
+    "q4": -1,
+    "q5": "Gameplay feels awkward and not relaxing.",
+    "q27": -1,
+    "q28": "Welfare worse than the previous game; less friendly to casual/F2P.",
+    "q41": "Feels like an otome-targeted experience; not casual-friendly."
+  },
+  {
+    "q0": 44966055,
+    "q41": "Dupe/constellation system feels bad—early copies give no upgrade unless a specific “fire” milestone is hit."
+  },
+  {
+    "q0": 44966020,
+    "q41": "Perceived very low production quality for a 2025 release."
+  },
+  {
+    "q0": 44966002
+  },
+  {
+    "q0": 44965962
+  },
+  {
+    "q0": 44965952,
+    "q6": "Has an arena PVP mode despite being largely single-player.",
+    "q41": "Feels like a single-player game with an added arena."
+  },
+  {
+    "q0": 44625268,
+    "q1": true,
+    "q2": "BL/yaoi overtones in early story (Cao Cao & Yuan Shao relationship).",
+    "q3": "Turn-based card battler with newly added manual PVP mode.",
+    "q6": "Manual PVP; comps like direct-damage (Lü Bu) vs buff-stacking; PVE difficulty lowered.",
+    "q7": 1,
+    "q8": "Manual PVP adds strategy, but early game is stat-dominated and some factions/teams remain weak.",
+    "q9": 1,
+    "q10": "PVE difficulty reduced; main squads can progress more easily.",
+    "q11": -1,
+    "q12": "Lü Bu team remains overtuned; Wei was weak then buffed; balance still shaky.",
+    "q21": 1,
+    "q22": "Frequent tests and noticeable adjustments (PVE difficulty, balance tweaks, manual PVP).",
+    "q23": true,
+    "q24": "Banner added a daily guarantee that the first orange (SSR) won’t be off-banner.",
+    "q31": 0,
+    "q32": "Welfare improved vs last test but only slightly.",
+    "q33": true,
+    "q34": "Three Kingdoms IP (focus on Cao Cao, Yuan Shao, factions like Wei/Shu).",
+    "q35": -1,
+    "q36": "Story focus and faction strength feel misaligned; tone differs from the predecessor’s established IP flavor.",
+    "q41": "“No useless unit” slogan questioned; story tone widely disliked."
+  },
+  {
+    "q0": 44965849,
+    "q41": "Feature bloat; tries many things without depth (“Franken-game”)."
+  },
+  {
+    "q0": 44965835,
+    "q31": -1,
+    "q32": "Welfare reportedly worse than a normal server of the previous game.",
+    "q41": "Art quality perceived to be declining."
+  },
+  {
+    "q0": 44965810,
+    "q33": true,
+    "q34": "Three Kingdoms IP combined with anime-styled presentation.",
+    "q35": -1,
+    "q36": "Execution feels dated and far below expectations set by the studio’s other IP titles.",
+    "q41": "Overall production feels like a 2013-era game."
+  },
+  {
+    "q0": 44965794
+  },
+  {
+    "q0": 44962988,
+    "q27": -1,
+    "q28": "Can’t match the generous welfare model of the predecessor; many players expected a similar approach.",
+    "q31": -1,
+    "q32": "Welfare and value proposition fall short of the first game’s standards.",
+    "q33": true,
+    "q34": "Three Kingdoms IP with anime/2D stylization; focus on figures like Cao Cao.",
+    "q35": 1,
+    "q36": "Core IP is central (story, factions), but changes in tone vs predecessor created backlash.",
+    "q41": "Direction diverges sharply from the first game; visual 3D shift didn’t improve experience; Wei faction weak at launch despite story focus."
+  },
+  {
+    "q0": 44319244,
+    "q11": -1,
+    "q12": "Wei faction feels very weak early; difficult to progress with Zhang Liao.",
+    "q9": -1,
+    "q10": "Main story stages become hard to clear from day one when choosing Wei."
+  },
+  {
+    "q0": 44965724
+  },
+  {
+    "q0": 44965680,
+    "q41": "Lacks innovation; reuses guild/feature ideas; weaker art and unengaging main story."
+  },
+  {
+    "q0": 44965646,
+    "q3": "Simple turn-based gacha focused on stat stacking.",
+    "q4": -2,
+    "q5": "Gameplay feels shallow and unattractive; models lack appeal.",
+    "q29": -1,
+    "q30": "Complex, sprawling progression appears designed to drive monetization.",
+    "q41": "Story considered poor (skippable); overall production feels outdated."
+  },
+  {
+    "q0": 44965622
+  },
+  {
+    "q0": 44965569,
+    "q31": 1,
+    "q32": "Player felt welfare was generous; positive on production values (story, music, VA, UI)."
+  },
+  {
+    "q0": 44959036,
+    "q3": "Nine-grid turn-based combat.",
+    "q4": 1,
+    "q5": "Core mechanics have a bit of novelty and feel okay.",
+    "q6": "Complex team-building and positioning on a 3x3 grid.",
+    "q7": 1,
+    "q8": "Some mechanical novelty and composition complexity.",
+    "q27": -1,
+    "q28": "Early resources are insufficient to build preferred teams; half-price marketing called a gimmick.",
+    "q29": -1,
+    "q30": "Discount marketing and deep pools create pressure without clear value.",
+    "q41": "Female endorser vs few strong female units; departmental design feels disjointed."
+  },
+  {
+    "q0": 44965548,
+    "q41": "Story is confusing and skippable."
+  },
+  {
+    "q0": 44965525,
+    "q41": "Feels like an early smartphone-era game."
+  },
+  {
+    "q0": 44965463,
+    "q4": -1,
+    "q5": "Combat presentation is weaker than the first game.",
+    "q31": -1,
+    "q32": "Welfare and convenience are worse than the predecessor.",
+    "q29": -1,
+    "q30": "Player felt lured into buying a monthly card to continue.",
+    "q41": "Overall regression vs the first game."
+  },
+  {
+    "q0": 44965411,
+    "q41": "Poor onboarding; new players feel lost."
+  },
+  {
+    "q0": 44965382,
+    "q1": true,
+    "q2": "Feminized portrayal of male character (Yuan Shu) and BL overtones in characterizations.",
+    "q41": "Some art looks AI-like; story tone is awkward."
+  },
+  {
+    "q0": 44965366
+  },
+  {
+    "q0": 44965356,
+    "q33": true,
+    "q34": "Three Kingdoms IP use criticized as unfaithful.",
+    "q35": -1,
+    "q36": "Characterization and tone feel off for a Three Kingdoms title."
+  },
+  {
+    "q0": 44965354,
+    "q23": true,
+    "q24": "Has a pity/guarantee system; many players report always hitting hard pity.",
+    "q25": -2,
+    "q26": "Deep banners and frequent pity make pulls feel costly; half-price monetization perceived as deceptive.",
+    "q29": -2,
+    "q30": "Heavy and opaque monetization via passes/gifts; half-price offset by numerous paid systems.",
+    "q31": -2,
+    "q32": "Compared to the first game (free permanent card), this one removes generous staples and adds paywalls.",
+    "q6": "Mostly auto play; some forced manual operations added.",
+    "q7": -1,
+    "q8": "Manual requirements feel added without improving depth; players rely on a few lazy-friendly comps (e.g., fire/Lü Bu)."
+  },
+  {
+    "q0": 44965342,
+    "q6": "Stages with restrictive, specific action orders to get perfect rewards.",
+    "q7": -1,
+    "q8": "Restrictions feel tedious rather than strategic.",
+    "q9": -1,
+    "q10": "Progression gated by time-consuming, order-specific clears; too grindy.",
+    "q41": "Overly time-consuming design compared to the first game."
+  },
+  {
+    "q0": 44965289,
+    "q41": "Very average; evokes a 10-year-old game feel."
+  },
+  {
+    "q0": 44965260,
+    "q9": 2,
+    "q10": "Described as high freedom, low grind, and very casual.",
+    "q41": "Player highly anticipates the game; praises design and freedom."
+  },
+  {
+    "q0": 44965258,
+    "q6": "Equipment system criticized as pure stats with no build space.",
+    "q7": -1,
+    "q8": "No real room for optimization in gear; lacks meaningful choices."
+  },
+  {
+    "q0": 44965247,
+    "q1": true,
+    "q2": "Heavy male–male romance/BL vibes; female-oriented visual novel tone.",
+    "q41": "Positioning mismatch; suggests pivot to female-protagonist romance VN."
+  },
+  {
+    "q0": 44965239,
+    "q13": -1,
+    "q14": "Roster feels small, limiting team-building diversity.",
+    "q41": "Some plot logic feels forced; many models reused from the first game."
+  },
+  {
+    "q0": 44965222,
+    "q41": "Poor value; spending caused buyer’s remorse."
+  },
+  {
+    "q0": 44965158,
+    "q41": "Story’s tone is off-putting."
+  },
+  {
+    "q0": 44965109,
+    "q33": true,
+    "q34": "Three Kingdoms IP used but story feels unrelated.",
+    "q35": -2,
+    "q36": "Narrative and characterization feel detached from the Three Kingdoms setting.",
+    "q41": "Characterization slammed; overall experience deemed the worst among card games by the reviewer."
+  },
+  {
+    "q0": 44965081,
+    "q31": -1,
+    "q32": "Welfare and gacha rates are much worse than the first game.",
+    "q25": -1,
+    "q26": "Perceived low rates relative to the predecessor."
+  },
+  {
+    "q0": 44965082,
+    "q41": "OOC, condescending writing; follows an otome-like route while retaining stat/gacha grind."
+  },
+  {
+    "q0": 44336525,
+    "q41": "Request to hire a specific voice actor (Liu Yijia)."
+  },
+  {
+    "q0": 44965068,
+    "q41": "Very early uninstall; strong initial turn-off without detailed reason."
+  },
+  {
+    "q0": 44965053,
+    "q41": "Player expects adequate compensation for issues."
+  },
+  {
+    "q0": 44965046,
+    "q1": true,
+    "q2": "BL/yaoi-heavy opening (Cao Cao & Yuan Shao).",
+    "q27": -1,
+    "q28": "Rolling-server P2W model criticized; lack of meaningful innovation.",
+    "q31": -1,
+    "q32": "Promised 1000 pulls not realized; perceived as a marketing gimmick.",
+    "q41": "Relies on 3D models but little substantive change; rolling servers criticized."
+  },
+  {
+    "q0": 44965032,
+    "q41": "Story tone and content strongly disliked."
+  },
+  {
+    "q0": 44965031,
+    "q41": "Fails to deliver standout features; overall experience feels flat."
+  },
+  {
+    "q0": 44964976,
+    "q41": "Feels like a sequel to Code: Ro... rather than to the first game in this series."
+  },
+  {
+    "q0": 44964906,
+    "q41": "Significantly worse than the first game."
+  },
+  {
+    "q0": 44964847,
+    "q41": "UI clutter with constant red dots and frequent feature unlock popups; unclear progression."
+  },
+  {
+    "q0": 44964772,
+    "q41": "Not fun; the first game is preferred."
+  },
+  {
+    "q0": 44964734,
+    "q1": true,
+    "q2": "BL/yaoi themes; female-oriented art direction.",
+    "q11": -1,
+    "q12": "Reviewer calls out strength imbalance.",
+    "q27": -2,
+    "q28": "Rolling servers, stamina gating, and pay-heavy design hinder non-payers.",
+    "q29": -2,
+    "q30": "Many paid packs, stamina gating, and predatory gacha create heavy pressure.",
+    "q41": "Rolling servers; stamina (energy) limits; minimal gameplay depth."
+  },
+  {
+    "q0": 44964676,
+    "q41": "Marketing showcased female characters, but gameplay features mostly male cast; perceived bait-and-switch."
+  },
+  {
+    "q0": 44964656,
+    "q25": -1,
+    "q26": "Low perceived gacha rates and limited wishlist slots.",
+    "q41": "Only two wishlist slots; player continues due to liking the art."
+  },
+  {
+    "q0": 44964644,
+    "q41": "Male character art reads as female-oriented to the reviewer."
+  },
+  {
+    "q0": 44964636,
+    "q41": "Strong distrust of the publisher; blanket recommendation to avoid."
+  },
+  {
+    "q0": 44964628,
+    "q41": "Setting up a team is overly complex and frustrating; poor UX leading to uninstall."
+  },
+  {
+    "q0": 44964626,
+    "q23": true,
+    "q24": "Pity/guarantee exists but feels harsh; reviewer reports always hitting pity.",
+    "q25": -2,
+    "q26": "Perceived as aggressively stingy due to constant pity hits."
+  },
+  {
+    "q0": 44964616,
+    "q1": true,
+    "q2": "Male–male romance/BL positioning.",
+    "q41": "Reviewer labels it a BL game."
+  },
+  {
+    "q0": 44964613,
+    "q3": "Turn-based with solid hit feeling and effects.",
+    "q4": 1,
+    "q5": "Animations/effects praised; combat feels good.",
+    "q6": "Unlimited arena attempts; level resonance system; each hero has multiple build paths.",
+    "q7": 1,
+    "q8": "Systems enable varied builds and frequent testing, though stats still dominate outcomes.",
+    "q41": "Lack of a clear player role in story; cards feel detached from narrative."
+  },
+  {
+    "q0": 44964606,
+    "q41": "Stamina system criticized as too restrictive."
+  },
+  {
+    "q0": 44964596,
+    "q41": "Black screen on entry (audio only)."
+  },
+  {
+    "q0": 44964588
+  },
+  {
+    "q0": 44964543,
+    "q27": -1,
+    "q28": "Remains pay-to-win; not friendly to F2P despite strong art.",
+    "q29": -1,
+    "q30": "P2W structure maintains spending pressure.",
+    "q41": "Expected broader 3D but mostly dynamic 2D; seeks a more F2P-friendly Three Kingdoms game."
+  },
+  {
+    "q0": 44964541,
+    "q9": -1,
+    "q10": "Progress easily blocked; endurance test feel.",
+    "q11": -1,
+    "q12": "Several supposed top-tier cards feel weak/useless.",
+    "q29": -1,
+    "q30": "Half-price seen as a gimmick; stamina shortage adds pressure.",
+    "q41": "Stamina shortage noted."
+  },
+  {
+    "q0": 44964507,
+    "q41": "Story criticized as female-channel flavored; male heroes orbit around female characters."
+  },
+  {
+    "q0": 44964413,
+    "q41": "Visuals praised as ‘pretty’."
+  },
+  {
+    "q0": 44964408,
+    "q4": -2,
+    "q5": "Fighting feels painful and much worse than the first game; returning to the original preferred."
+  },
+  {
+    "q0": 44964403,
+    "q41": "Story perspective criticized (player as camera/soul-travel) feels silly."
+  },
+  {
+    "q0": 44964370,
+    "q31": -2,
+    "q32": "Promised ‘1000 pulls’/all generals not delivered at launch.",
+    "q41": "Launch welfare didn’t match pre-release messaging."
+  },
+  {
+    "q0": 44964369,
+    "q41": "Acknowledges not being the target audience; product-market fit questioned."
+  },
+  {
+    "q0": 44964305,
+    "q41": "Using Guan Yu as main still resulted in heavy losses; difficulty or balance concern implied."
+  },
+  {
+    "q0": 44964300,
+    "q41": "Art style disliked; likened to another low-quality title."
+  },
+  {
+    "q0": 44964299,
+    "q3": "Mostly auto-battle with occasional forced manual stages.",
+    "q4": -1,
+    "q5": "Forced manual interruptions and tedious clicking hurt enjoyment.",
+    "q41": "UI is dark and cluttered with red dots; story long and dull; no player avatar; guide pet design is off-putting."
+  },
+  {
+    "q0": 44964280,
+    "q41": "Chapter 1 reads like teen female fiction; mismatched with Three Kingdoms theme."
+  },
+  {
+    "q0": 44964215,
+    "q31": 0,
+    "q32": "Welfare is middling—neither terrible nor great.",
+    "q41": "Extra decorative systems feel unnecessary for a side game; art less appealing than the first."
+  },
+  {
+    "q0": 44964174,
+    "q29": -1,
+    "q30": "Recharge entry points are ubiquitous; time-wasting clicking everywhere.",
+    "q41": "Excessive clicking and monetization placements; feels like reheated content."
+  },
+  {
+    "q0": 44964106,
+    "q41": "Requests to avoid ‘disgusting’ elements (unspecified)."
+  },
+  {
+    "q0": 44964095,
+    "q31": -1,
+    "q32": "Few opening welfare events; many recharge activities.",
+    "q27": -1,
+    "q28": "Future special servers expected to overshadow current value; interest fades quickly.",
+    "q41": "Poor guidance; lost interest within an hour."
+  },
+  {
+    "q0": 44964040,
+    "q3": "Minimal change beyond camera; lacks ultimate skill animations.",
+    "q4": -1,
+    "q5": "Combat lacks impactful animations; feels like old content with a new angle.",
+    "q41": "Low-effort presentation; played on emulator due to disappointment."
+  },
+  {
+    "q0": 44963905,
+    "q41": "Newbie banner results repeated (Guan Yu/Dian Wei), raising suspicion of rate-locking."
+  },
+  {
+    "q0": 44963898,
+    "q41": "Overall impression is poor."
+  },
+  {
+    "q0": 44963874,
+    "q29": -1,
+    "q30": "Half-price claimed but pack value is low; stamina is too limited.",
+    "q41": "Livestream felt awkward; devs failed at their own game; art worse than the first."
+  },
+  {
+    "q0": 44963842,
+    "q27": -1,
+    "q28": "P2W structure persists regardless of discount.",
+    "q29": -1,
+    "q30": "Discounts don’t change the pay-to-win nature."
+  },
+  {
+    "q0": 44963813,
+    "q41": "Art is far inferior to the first game."
+  },
+  {
+    "q0": 44963785,
+    "q31": -2,
+    "q32": "No sign-in rewards provided.",
+    "q41": "Lack of basic login rewards frustrated the player."
+  },
+  {
+    "q0": 44963774,
+    "q31": -1,
+    "q32": "Sign-in rewards oddly have quantity limits; feels stingy."
+  }
+]

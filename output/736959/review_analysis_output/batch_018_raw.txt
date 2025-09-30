@@ -1,0 +1,582 @@
+[
+  {
+    "q0": 44970565
+  },
+  {
+    "q0": 44970558,
+    "q31": -2,
+    "q32": "Player says welfare is too stingy"
+  },
+  {
+    "q0": 44970557,
+    "q33": true,
+    "q34": "Romanticized Three Kingdoms historical IP (Cao Cao, Yuan Shao, etc.)",
+    "q35": 2,
+    "q36": "Reviewer notes 'full of Three Kingdoms elements' and rich story",
+    "q4": 1,
+    "q5": "Relaxing grind; '刷刷刷' feels good"
+  },
+  {
+    "q0": 44970466,
+    "q1": true,
+    "q2": "BL/gay undertones perceived in opening voice acting; reviewer finds it off-putting",
+    "q41": "Opening VO criticized"
+  },
+  {
+    "q0": 44970445,
+    "q9": -1,
+    "q10": "Tutorial feels punishing ('下马威')"
+  },
+  {
+    "q0": 44970345,
+    "q6": "Mechanics-heavy/puzzle stages ('机制关')",
+    "q7": -1,
+    "q8": "Player questions the fun of so many mechanic gates"
+  },
+  {
+    "q0": 44970310,
+    "q1": true,
+    "q2": "BL/yaoi-leaning portrayal of Cao Cao and Yuan Shao; tavern drinking scene mentioned",
+    "q41": "Story tone criticized as overly shippy in a general-audience game"
+  },
+  {
+    "q0": 44970227,
+    "q3": "Shifted to casual idle auto-battle; Arena can skip combat and compares battle rating",
+    "q4": -1,
+    "q5": "Less engaging than earlier test; PvP reduced to power check",
+    "q6": "Strategy from earlier test reduced; battles largely automated",
+    "q7": -1,
+    "q8": "Removal of interactive strategy leads to shallow experience"
+  },
+  {
+    "q0": 44970181,
+    "q1": true,
+    "q2": "Feminized male designs and BL undertones (e.g., Cao Cao × Yuan Shao); suggestive Dong Zhuo art",
+    "q33": true,
+    "q34": "Three Kingdoms historical IP",
+    "q35": -2,
+    "q36": "Reviewer feels the BL presentation disrespects the historical IP"
+  },
+  {
+    "q0": 44970162,
+    "q3": "Classic turn-based card battler",
+    "q4": 0,
+    "q5": "Gameplay is 'okay'",
+    "q9": -1,
+    "q10": "Requires many dupes ('stack a lot') to progress",
+    "q1": true,
+    "q2": "Geisha CG felt uncomfortable to the player",
+    "q33": true,
+    "q34": "Three Kingdoms historical IP with focus on Cao Cao and Yuan Shao",
+    "q35": 1,
+    "q36": "Reviewer likes the Cao–Yuan portrayal and overall story despite some disconnects"
+  },
+  {
+    "q0": 44970148,
+    "q11": -2,
+    "q12": "PvP dominated by 'fire Lü Bu'; huge imbalance",
+    "q4": -2,
+    "q5": "Got hard-countered in PvP and uninstalled"
+  },
+  {
+    "q0": 44970119,
+    "q23": true,
+    "q24": "Players report only hitting pity most of the time",
+    "q25": -2,
+    "q26": "Complains that there’s effectively only pity and poor rates",
+    "q41": "Frequent server rolling (rolling servers) noted"
+  },
+  {
+    "q0": 44970107,
+    "q1": true,
+    "q2": "BL undertones in Cao Cao–Yuan Shao arcs",
+    "q6": "PvP grind with long matchmaking and rank decay; small gimmick mechanics in PvE",
+    "q7": -1,
+    "q8": "Gimmick mechanics add little; PvP structure feels unhealthy",
+    "q9": -1,
+    "q10": "Stamina constraints; needs buying stamina",
+    "q11": -1,
+    "q12": "Only a few viable picks (e.g., Lü Bu, Zhang Chunhua); Wei lineup weak",
+    "q13": -1,
+    "q14": "Low viable diversity despite 'no trash heroes' claim",
+    "q29": -2,
+    "q30": "Compressed battle pass cycles and stamina purchases create heavy spending pressure",
+    "q31": -1,
+    "q32": "Free welfare worse than the first game",
+    "q33": true,
+    "q34": "Three Kingdoms IP",
+    "q35": -1,
+    "q36": "Aesthetic shift and BL tone feel misaligned with the IP"
+  },
+  {
+    "q0": 44969940,
+    "q6": "Can build different archetypes/flows",
+    "q7": 1,
+    "q8": "Player perceives room for build crafting",
+    "q9": -1,
+    "q10": "Stamina runs out quickly leading to downtime",
+    "q25": 1,
+    "q26": "Half-price offers seen as acceptable survival method"
+  },
+  {
+    "q0": 44969903,
+    "q4": -1,
+    "q5": "Play feels tiring and busy-clicking yet lacks excitement compared to peers"
+  },
+  {
+    "q0": 44969871,
+    "q41": "Added multiple gacha pools (designated, story); disliked guide creature; protagonist reduced to spirit in story"
+  },
+  {
+    "q0": 44969832,
+    "q31": 2,
+    "q32": "Player praises welfare as 'leading'"
+  },
+  {
+    "q0": 44969704,
+    "q41": "Boring gameplay; weaker art and story than before; dislikes goofy penguin guide"
+  },
+  {
+    "q0": 44969601,
+    "q3": "Turn-based with per-turn choice between building energy, basic attack, or spending energy on skills; fixed positions; no protagonist artifact skills",
+    "q4": -1,
+    "q5": "Manual skill taps without real innovation; still feels like stand-and-trade",
+    "q31": -1,
+    "q32": "Promised '1000 pulls' but mailbox only had ~30; perceived misleading welfare",
+    "q25": -2,
+    "q26": "Claims 'everything half price' largely untrue except battle pass; feels like false advertising",
+    "q1": true,
+    "q2": "Feminized/overly revealing male designs; discomfort with androgynous aesthetics",
+    "q33": true,
+    "q34": "Three Kingdoms IP with some 1st-game characters appearing as units",
+    "q35": -1,
+    "q36": "Player-avatar removed from story; weak integration of the player's role into the IP"
+  },
+  {
+    "q0": 44969630,
+    "q1": true,
+    "q2": "BL/yaoi-leaning story tone ('基之歌')",
+    "q41": "Story criticized"
+  },
+  {
+    "q0": 44969580,
+    "q41": "Playability mediocre; some character art suspected AI-derived; worse aesthetics than the first game"
+  },
+  {
+    "q0": 44969567,
+    "q33": true,
+    "q34": "Three Kingdoms IP",
+    "q35": -1,
+    "q36": "Reviewer says sequel abandons the strengths of the IP usage from the first game"
+  },
+  {
+    "q0": 44969556,
+    "q31": -1,
+    "q32": "Questions whether the limited resources/stamina can even finish the 14-day tasks",
+    "q9": -1,
+    "q10": "Task completion gated by low resources and stamina"
+  },
+  {
+    "q0": 44969543
+  },
+  {
+    "q0": 44969462,
+    "q3": "Classic auto card clash where higher battle rating wins",
+    "q4": -1,
+    "q5": "Battle power dominates outcomes; little interactive combat"
+  },
+  {
+    "q0": 44958315,
+    "q9": -2,
+    "q10": "Resource-gated and level-locked without spending; protagonist lacks presence",
+    "q31": -1,
+    "q32": "Resources are stingy; 'half-price' perceived as shrinkflation",
+    "q29": -2,
+    "q30": "Feels pay-gated for progression; discounts offset by reduced value"
+  },
+  {
+    "q0": 44969369,
+    "q29": -2,
+    "q30": "Many pay-pushing elements and leaderboard + gift pack systems"
+  },
+  {
+    "q0": 44958324,
+    "q31": -2,
+    "q32": "Very stingy welfare (limited-quantity sign-in rewards); tone shifted toward otome audience"
+  },
+  {
+    "q0": 44969352,
+    "q41": "Early game okay but uninstalled due to disliked (AI-like) art"
+  },
+  {
+    "q0": 44969327,
+    "q1": true,
+    "q2": "Otome/BL-flavored historical romance ('乙游勾史剧情')"
+  },
+  {
+    "q0": 44969263,
+    "q29": -2,
+    "q30": "High spending needed for comfort; low spender suffers",
+    "q27": -1,
+    "q28": "Non-payers/low spenders have a tough time"
+  },
+  {
+    "q0": 44969249,
+    "q27": -1,
+    "q28": "Whales rapidly max units on day one; large gap for others",
+    "q29": -1,
+    "q30": "Early disparity from heavy spenders reduces play motivation"
+  },
+  {
+    "q0": 44969230,
+    "q1": true,
+    "q2": "BL/‘selling fu’ portrayal of historical male figures",
+    "q33": true,
+    "q34": "Three Kingdoms historical IP",
+    "q35": -2,
+    "q36": "Reviewer says it disrespects history and male characters"
+  },
+  {
+    "q0": 44969210,
+    "q41": "Art, effects, and UI judged worse than the first game; overall not as good as 1"
+  },
+  {
+    "q0": 44969156,
+    "q11": -1,
+    "q12": "Female characters perceived as generally weaker; couldn't pull desired units",
+    "q41": "Art praised despite balance concerns"
+  },
+  {
+    "q0": 44969143,
+    "q41": "Called very boring"
+  },
+  {
+    "q0": 44969115,
+    "q41": "Overall inferior to the first; needs unique features to stand out"
+  },
+  {
+    "q0": 44968934,
+    "q31": 2,
+    "q32": "Welfare praised; orange-tier units easy to obtain"
+  },
+  {
+    "q0": 44968838,
+    "q6": "Gimmick stage 'catch the thief' that can instantly kill key units",
+    "q7": -1,
+    "q8": "Mechanic felt unfair (thief one-shots Lü Bu)",
+    "q4": -2,
+    "q5": "Frustrating mechanic causing sudden failure"
+  },
+  {
+    "q0": 44968720,
+    "q31": -1,
+    "q32": "Promised 1000 pulls are slow and tied behind story progression",
+    "q29": -2,
+    "q30": "Described as both grindy and pay-heavy"
+  },
+  {
+    "q0": 44968700
+  },
+  {
+    "q0": 44968690,
+    "q33": true,
+    "q34": "Three Kingdoms IP with a focus on Cao Cao's arc",
+    "q35": 1,
+    "q36": "Story follows historical arc albeit beautified; player-avatar not integrated hurts immersion"
+  },
+  {
+    "q0": 44968633,
+    "q6": "Build-crafting around Jia Xu poison team; awakening route choices; passive selection",
+    "q7": 1,
+    "q8": "Multiple awakening paths and passives imply strategic options",
+    "q13": 1,
+    "q14": "Poison comp indicates viable team archetypes"
+  },
+  {
+    "q0": 44968594,
+    "q1": true,
+    "q2": "BL-coded relationship between Cao Cao and Yuan Shao",
+    "q4": -1,
+    "q5": "Combat feels unsmooth",
+    "q29": -2,
+    "q30": "Progression leans on buying stamina early on"
+  },
+  {
+    "q0": 44968573,
+    "q9": -2,
+    "q10": "Resource loss from upgrading an isolated hero with no reset; progression penalty",
+    "q41": "Complains about lack of hero reset/refund"
+  },
+  {
+    "q0": 44968550,
+    "q9": -2,
+    "q10": "Second day blocked by multiple materials and low stamina; very short play window",
+    "q29": -1,
+    "q30": "Even spenders would be discouraged by the stamina/material wall"
+  },
+  {
+    "q0": 44968538,
+    "q1": true,
+    "q2": "Otome/BL-leaning writing tone"
+  },
+  {
+    "q0": 44968503,
+    "q9": -1,
+    "q10": "Level/energy gates and limited, repetitive modes",
+    "q25": 0,
+    "q26": "Rates 'okay' but often off-rate when targeting single-target units"
+  },
+  {
+    "q0": 44968368
+  },
+  {
+    "q0": 44966347
+  },
+  {
+    "q0": 44968299
+  },
+  {
+    "q0": 44968290,
+    "q39": -2,
+    "q40": "Loading screen gets stuck frequently"
+  },
+  {
+    "q0": 44968263
+  },
+  {
+    "q0": 44968199,
+    "q31": -1,
+    "q32": "Unclear how to claim the touted 1000 pulls"
+  },
+  {
+    "q0": 44968181,
+    "q39": -2,
+    "q40": "Stuck on 'checking version update' and cannot proceed"
+  },
+  {
+    "q0": 44968179,
+    "q3": "Hybrid turn-based with minor tactics; each unit mainly has one active damage skill with frequent basic attacks",
+    "q4": -1,
+    "q5": "Combat feels slow and 'you hit me, I hit you'; lacks the 1st game's satisfying mow-down feel",
+    "q7": -1,
+    "q8": "Tactical layer feels shallow and grindy"
+  },
+  {
+    "q0": 44968146,
+    "q9": -1,
+    "q10": "Level locking disrupts progress; frequent server resets",
+    "q23": true,
+    "q24": "Player reports always hitting pity",
+    "q25": -1,
+    "q26": "Rates feel poor (only pity)"
+  },
+  {
+    "q0": 44966456,
+    "q31": -2,
+    "q32": "Very small welfare reward ('666') ridiculed"
+  },
+  {
+    "q0": 44968084,
+    "q29": -2,
+    "q30": "Overabundance of recharge prompts compared to even mini-games"
+  },
+  {
+    "q0": 44967923,
+    "q29": -2,
+    "q30": "Traditional P2W reskin with heavy monetization"
+  },
+  {
+    "q0": 44967861,
+    "q1": true,
+    "q2": "Feminized 'trap-like' male designs",
+    "q29": -2,
+    "q30": "Perceived as a cash-grab with server rolling",
+    "q41": "Complains about frequent server rolling"
+  },
+  {
+    "q0": 44967810,
+    "q31": -2,
+    "q32": "Stamina too low and welfare too stingy",
+    "q9": -1,
+    "q10": "Low stamina limits playtime"
+  },
+  {
+    "q0": 44967779,
+    "q41": "Script largely unchanged from test; tone increasingly 'fantasy'"
+  },
+  {
+    "q0": 44967742,
+    "q39": -2,
+    "q40": "Frequent freezes/crashes; server stability criticized"
+  },
+  {
+    "q0": 44967690,
+    "q6": "Mainline puzzle/achievement gating requiring manual decryption",
+    "q7": -1,
+    "q8": "Forced manual mechanics clash with idle card game expectations",
+    "q4": -1,
+    "q5": "Frustrating to be forced off auto to solve micro-puzzles"
+  },
+  {
+    "q0": 44967663,
+    "q1": true,
+    "q2": "BL/yaoi-coded writing and tone; outdated-looking art"
+  },
+  {
+    "q0": 44967653,
+    "q29": -2,
+    "q30": "Seen as a reskinned cash-grab with heavy paid promotion"
+  },
+  {
+    "q0": 44967635,
+    "q31": -1,
+    "q32": "Sign-in rewards include duplicates despite 'never repeat' claim; weak feedback for gifting",
+    "q15": "Gifting characters to raise affection/favor",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple sending of gifts",
+    "q19": -1,
+    "q20": "Affinity rewards feel weak compared to the first game's home system",
+    "q41": "Protagonist is nearly absent in story, hurting immersion"
+  },
+  {
+    "q0": 44967547,
+    "q11": -1,
+    "q12": "Few strong female characters and difficulty targeting desired factions",
+    "q25": -2,
+    "q26": "Player suspects rate manipulation after many rerolls with poor targeting"
+  },
+  {
+    "q0": 44967475,
+    "q1": true,
+    "q2": "BL segment in a male-leaning Three Kingdoms game causes audience mismatch",
+    "q6": "Inserted strategy gimmicks inside campaign stages",
+    "q7": -1,
+    "q8": "Gimmicks reduce flow in a push-map number game",
+    "q11": -1,
+    "q12": "Abandoned 'no trash hero'; mythic heroes strictly upstage normal ones",
+    "q13": -1,
+    "q14": "Viability narrowed by mythic vs normal power gap",
+    "q33": true,
+    "q34": "Three Kingdoms IP",
+    "q35": -1,
+    "q36": "Audience targeting and tone conflict with expected IP presentation"
+  },
+  {
+    "q0": 44967443,
+    "q31": 1,
+    "q32": "Many welfare activities and discounts mentioned",
+    "q25": 1,
+    "q26": "Large discount strength praised",
+    "q39": 1,
+    "q40": "Game runs smoothly per reviewer"
+  },
+  {
+    "q0": 44967437,
+    "q23": true,
+    "q24": "Reviewer says it 'usually only has pity'",
+    "q25": -1,
+    "q26": "Perceived low rates relying on pity"
+  },
+  {
+    "q0": 44967419,
+    "q41": "Claims 'graphics innovation' is marketing; actual visuals feel plastic and worse than 1"
+  },
+  {
+    "q0": 44967379,
+    "q29": -1,
+    "q30": "Added a treasure gacha pool raises cash-grab concerns",
+    "q41": "New 'treasure' pool suspected as monetization ploy"
+  },
+  {
+    "q0": 44960400,
+    "q9": -2,
+    "q10": "14-day tasks demand heavy awakening but stamina is far too low; progress stalls",
+    "q29": -2,
+    "q30": "Feels 'no stamina, no play' without spending"
+  },
+  {
+    "q0": 44967274,
+    "q41": "Live2D and unclear outlines make art look blurry and lower quality than peer title"
+  },
+  {
+    "q0": 43773644,
+    "q9": 1,
+    "q10": "Likes the stamina system because it reduces required online time"
+  },
+  {
+    "q0": 44967222,
+    "q1": true,
+    "q2": "Otome/BL-styled narrative for Three Kingdoms characters criticized as absurd"
+  },
+  {
+    "q0": 44967219,
+    "q3": "Turn-based with 100 energy cap per unit; basic attacks/status to gain energy; manually choose skills to spend energy",
+    "q6": "Energy management and manual skill timing per character",
+    "q7": 1,
+    "q8": "Complexity from multiple skills and energy system (though reviewer dislikes it)",
+    "q4": -1,
+    "q5": "Tedious to monitor energy and pick skills constantly",
+    "q25": 1,
+    "q26": "Rates and targeting 'okay' with higher perceived chance"
+  },
+  {
+    "q0": 44967135,
+    "q7": -1,
+    "q8": "Takes too much time and hard to understand; player quit"
+  },
+  {
+    "q0": 44967030,
+    "q31": -2,
+    "q32": "Poor welfare; limited daily wishlist/faction pulls; long time to form teams",
+    "q25": -1,
+    "q26": "Daily pull restrictions and weak returns",
+    "q6": "Manual timing of skills even in a number-focused card game; many operations",
+    "q7": -1,
+    "q8": "Operational burden despite 10x speed",
+    "q4": -1,
+    "q5": "Combat feels clunky and overly manual"
+  },
+  {
+    "q0": 44966979,
+    "q25": 1,
+    "q26": "Early 10-pull yielded desired Sun Shangxiang, leaving positive impression"
+  },
+  {
+    "q0": 44966795,
+    "q1": true,
+    "q2": "BL/gay vibe; very few female characters and heavily covered",
+    "q3": "Battle mostly boils down to raw battle rating",
+    "q4": -1,
+    "q5": "Prefers straightforward power stomp; finds this boring and BL-leaning"
+  },
+  {
+    "q0": 44966758,
+    "q41": "Called a reskin with outdated art; low playability"
+  },
+  {
+    "q0": 44966750,
+    "q41": "Likes Zhang Chunhua; dislikes the game overall"
+  },
+  {
+    "q0": 44966675,
+    "q23": true,
+    "q24": "Reports a 50-pull pity",
+    "q25": -1,
+    "q26": "50-pity seen as poor",
+    "q9": -2,
+    "q10": "Time-locked chapters and no stamina supply stall progress; overlong chapter achievement hunts",
+    "q6": "Mainline achievements/puzzles per chapter",
+    "q7": -1,
+    "q8": "Too time-consuming for an idle card game"
+  },
+  {
+    "q0": 44966604
+  },
+  {
+    "q0": 44966580
+  },
+  {
+    "q0": 44966551
+  }
+]

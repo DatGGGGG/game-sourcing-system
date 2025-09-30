@@ -1,0 +1,580 @@
+[
+  {
+    "q0": 45010419,
+    "q9": -2,
+    "q10": "Stuck at stage 4-5 due to an unfixed issue; reinstalling/relogging didn’t help for over an hour.",
+    "q41": "Stage bug on 4-5 prevents progress; fix not applied even after reinstall."
+  },
+  {
+    "q0": 45010417,
+    "q41": "System instability with frequent bugs."
+  },
+  {
+    "q0": 45010410,
+    "q3": "Turn-based combat with auto-battle frequently interrupted by forced manual operations.",
+    "q4": -2,
+    "q5": "Auto fights are repeatedly interrupted by manual prompts, breaking flow.",
+    "q41": "Auto/manual switching is intrusive and inconsistent."
+  },
+  {
+    "q0": 45010390,
+    "q6": "Levels with a few clearance conditions framed as strategy.",
+    "q7": -1,
+    "q8": "Player feels a handful of win conditions does not equal meaningful strategy depth."
+  },
+  {
+    "q0": 45010382,
+    "q29": -2,
+    "q30": "Cross-channel servers share the same gameplay but have different discount rates (official full price vs. channels 40–80% off), creating unfair spending pressure.",
+    "q41": "Channel price disparity while being cross-server; same content costs different amounts across channels."
+  },
+  {
+    "q0": 45010348,
+    "q41": "Combat data error bug encountered."
+  },
+  {
+    "q0": 45010261
+  },
+  {
+    "q0": 45010165,
+    "q27": -2,
+    "q28": "Described as a pure pay-for-power game; non-payers have poor experience vs. spenders.",
+    "q29": -2,
+    "q30": "Perceived as a cash-grab sequel with heavy monetization.",
+    "q41": "Worse gameplay, modeling, and characters than the first game; seen as a reskinned cash-grab."
+  },
+  {
+    "q0": 45010106
+  },
+  {
+    "q0": 45010034,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms characters and storyline (e.g., Cao Cao, Xiahou Dun, Xiahou Yuan).",
+    "q35": -1,
+    "q36": "Key Three Kingdoms figures are missing or sidelined; timeline and narrative focus feel off.",
+    "q41": "Story criticized for incoherence and sidelining classic Three Kingdoms generals."
+  },
+  {
+    "q0": 45009842,
+    "q11": -2,
+    "q12": "PVP balance reportedly broken at launch, leading to a very negative experience.",
+    "q41": "PVP felt punishing and unbalanced from day one."
+  },
+  {
+    "q0": 45009836,
+    "q1": true,
+    "q2": "Homoerotic/BL undertones ('selling fu').",
+    "q41": "Player dislikes perceived BL elements and wants a more traditional Three Kingdoms tone."
+  },
+  {
+    "q0": 45009599,
+    "q6": "Some stages require thinking and include branches; others feel gimmicky.",
+    "q7": 0,
+    "q8": "Mixed feedback: occasional puzzle-like stages but overall not engaging.",
+    "q23": true,
+    "q24": "Daily first pull reportedly does not miss the chosen wish target.",
+    "q41": "Long, unengaging story; dark visuals; male/female MC split feels pointless."
+  },
+  {
+    "q0": 45009543,
+    "q11": -2,
+    "q12": "Faction imbalance criticized; players feel compelled to re-roll and spend again for fire-burn team.",
+    "q29": -2,
+    "q30": "Accusations of baiting players to spend on new servers and meta teams (fire).",
+    "q41": "Encourages re-spending in new servers due to meta shifts."
+  },
+  {
+    "q0": 45009376,
+    "q11": -2,
+    "q12": "Fire-burn team defeats much higher power teams; requests to buff Qunxiong faction.",
+    "q41": "Severe faction imbalance frustrates players."
+  },
+  {
+    "q0": 44967553,
+    "q3": "Row-based turn combat where enemies can target backline directly; turn limits prevent stall strategies.",
+    "q4": -2,
+    "q5": "Frontline feels meaningless as backline gets sniped; turn limits prevent alternative win conditions.",
+    "q6": "Turn limit constraint.",
+    "q7": -1,
+    "q8": "Constraints reduce viable tactics and exacerbate frustrations."
+  },
+  {
+    "q0": 45009100,
+    "q27": -2,
+    "q28": "Newcomer-unfriendly onboarding; no recommended starter comps; large power gap between whales and F2P.",
+    "q41": "Lack of guidance and accessible beginner comps; community guides not feasible for new players."
+  },
+  {
+    "q0": 45009030,
+    "q3": "Turn-based with shared energy bar, action bar speed control, time rewind, and manual skill timing; interactive scene objects (e.g., tipping screens, fire basins) affect combat.",
+    "q4": 2,
+    "q5": "Praised for innovative systems that increase agency and variability.",
+    "q6": "Speed control, time rewind, energy management, job change, skill switching, talent points, and scene interactions.",
+    "q7": 2,
+    "q8": "Multiple layered systems and environmental tactics add notable strategic depth.",
+    "q33": true,
+    "q34": "Three Kingdoms with modern/mecha aesthetics (e.g., Han elements fused with futuristic design).",
+    "q35": 1,
+    "q36": "Distinct visual reinterpretation of Three Kingdoms figures integrated into the setting."
+  },
+  {
+    "q0": 45008991,
+    "q1": true,
+    "q2": "Homoerotic/BL undertones ('selling fu').",
+    "q41": "Concern that sequel pivots away from core audience toward BL themes."
+  },
+  {
+    "q0": 45008624,
+    "q25": -2,
+    "q26": "Complaints about very low gacha rates.",
+    "q41": "Login/loading issues (stuck ~30 minutes, cannot enter)."
+  },
+  {
+    "q0": 45008607,
+    "q41": "Small spender found no compelling hooks; hero skills/bonds inferior to the first game."
+  },
+  {
+    "q0": 45008581,
+    "q11": -2,
+    "q12": "Balance perceived as terrible; only fire team is viable.",
+    "q13": -2,
+    "q14": "Meta narrowed to a single dominant team."
+  },
+  {
+    "q0": 45008393,
+    "q3": "Manual energy management for skills (no artifact), six slots with partial aura coverage, equipment micromanagement.",
+    "q6": "Energy counting, manual skill timing, mixed aura (nation plus 'Ji'/'Mou') optimization, gear optimization.",
+    "q7": 1,
+    "q8": "Deeper than the first game but also more cumbersome to execute.",
+    "q23": true,
+    "q24": "Daily-reset wish chance included in pity, enabling targeted slow collection.",
+    "q29": -1,
+    "q30": "Players feel pressured to spend to stay in top guilds and keep up early.",
+    "q31": 1,
+    "q32": "Early game provides many pulls (incl. pre-pull), enabling a starter lineup.",
+    "q41": "High grind; UI red-dot nags; forced inclusion of a specific breaker; frequent gear/manual adjustments."
+  },
+  {
+    "q0": 45008417,
+    "q27": -2,
+    "q28": "Non-spenders face guild kicks and low activity; difficult to access group features.",
+    "q29": -1,
+    "q30": "Progression feels pay-leaning; non-paying players struggle and get removed from guilds.",
+    "q31": -2,
+    "q32": "Few rewards; hard to obtain pulls; frequent progression blocks.",
+    "q9": -2,
+    "q10": "Frequent roadblocks halt leveling and advancement unless spending.",
+    "q21": 1,
+    "q22": "Multiple surveys within four days suggest active feedback collection.",
+    "q41": "Low active player base; matchmaking/guild activity is weak; gameplay is grind-heavy."
+  },
+  {
+    "q0": 45008399,
+    "q11": -2,
+    "q12": "Fire-burn meta dominates; balance neglected.",
+    "q27": -2,
+    "q28": "Experience diverges sharply between whales and F2P.",
+    "q41": "Perceived dev inaction on balance; P2W gap criticized."
+  },
+  {
+    "q0": 45006819,
+    "q1": true,
+    "q2": "Homoerotic/BL undertones ('浓厚的基佬味').",
+    "q6": "Some small design ideas in stages but limited overall strategy.",
+    "q7": -1,
+    "q8": "Despite a few neat ideas, gameplay is governed by power checks.",
+    "q9": -1,
+    "q10": "Progression feels gated by combat power.",
+    "q41": "Timeline/character placement criticized; player uninstalled."
+  },
+  {
+    "q0": 45008245,
+    "q3": "Shift from idle number-crunching to more manual, strategy-driven operations.",
+    "q4": -2,
+    "q5": "Manual requirements clash with expectations of an idle number game; many modes can’t be auto-cleared.",
+    "q9": -1,
+    "q10": "Can’t clear much content via idle/auto; progression stalls.",
+    "q41": "Genre identity confusion between idle number game and strategy."
+  },
+  {
+    "q0": 45008218,
+    "q3": "Turn-based with 9-unit formation (front/mid/back), shared charge bar, action bar speed, manual energy allocation, environmental interactions, and rewind.",
+    "q6": "Action bar sequencing, charge management, environmental kills/stuns, rule-based constraints, rewind.",
+    "q7": 2,
+    "q8": "High strategy requirement; manual decisions strongly affect outcomes.",
+    "q41": "Audience mismatch: sequel diverges from the first game’s idle-friendly base."
+  },
+  {
+    "q0": 45007866
+  },
+  {
+    "q0": 45007790,
+    "q15": "Idle collection/‘harvest’ loop with daily log-ins to collect resources.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple daily ‘collect-and-go’ routine but not engaging."
+  },
+  {
+    "q0": 45007616,
+    "q41": "Story pacing is slow and less engaging; art perceived as worse than the first game."
+  },
+  {
+    "q0": 45007468,
+    "q11": -2,
+    "q12": "Fire team (Wu + strategists) overperforms; other factions underperform.",
+    "q13": -2,
+    "q14": "Recommends only fire team; others are inefficient.",
+    "q31": -2,
+    "q32": "Perceived ‘50% off’ benefits as marketing; few real welfare activities.",
+    "q29": -1,
+    "q30": "Discounts feel like routine tactics; expected to spend for competitive play."
+  },
+  {
+    "q0": 45007329,
+    "q41": "Gameplay lacks standout features; story feels long and dull; average audiovisuals; good voice acting."
+  },
+  {
+    "q0": 45007203,
+    "q11": -2,
+    "q12": "Fire-burn dominates; balance issues ignored.",
+    "q21": -2,
+    "q22": "No balance/action announcements; perceived ‘pretend dead’ attitude.",
+    "q41": "Frustration at PR focus over balance maintenance."
+  },
+  {
+    "q0": 45007134,
+    "q23": true,
+    "q24": "Generic pity system where pulls tend to hit at pity thresholds.",
+    "q25": -2,
+    "q26": "Low currency income with frequent pity outcomes; can’t afford stamina; overall feels stingy.",
+    "q31": -2,
+    "q32": "Low rewards; frequent pity; currency scarcity (stamina, gold).",
+    "q9": -2,
+    "q10": "Progression repeatedly stalls at stage gates; co-op often unmatchable.",
+    "q41": "Empty matchmaking; confusion about whether to use enhancement hammers."
+  },
+  {
+    "q0": 44330596,
+    "q23": true,
+    "q24": "Updated pool allows daily first wish guarantee; pity system present.",
+    "q29": -1,
+    "q30": "Heavy early grind and many paid passes; lack of convenient respec adds pressure.",
+    "q9": -1,
+    "q10": "Early-game grind (7-day) is excessive; PVP forces grinding to keep up.",
+    "q11": -2,
+    "q12": "Fire/Wu comps vastly outperform; examples highlight extreme survivability disparities.",
+    "q41": "No respec/shared levels; resource exchange weekly caps; suggests beginner unlimited resets; early grind is overwhelming."
+  },
+  {
+    "q0": 45006785,
+    "q11": -2,
+    "q12": "New servers dominated by fire-burn teams; other lineups vanish.",
+    "q13": -2,
+    "q14": "Meta homogenized around a single team.",
+    "q21": -2,
+    "q22": "Perceived developer silence on balance."
+  },
+  {
+    "q0": 45006743
+  },
+  {
+    "q0": 45006641,
+    "q11": -2,
+    "q12": "Fire-burn dominates; new players advised to play fire, veterans to quit.",
+    "q13": -2,
+    "q14": "Other lineups considered unviable."
+  },
+  {
+    "q0": 45006188,
+    "q11": -2,
+    "q12": "Large power gaps between lineups; balance needs improvement."
+  },
+  {
+    "q0": 45006280,
+    "q6": "Some strategy exists but limited.",
+    "q7": 0,
+    "q8": "Only slight strategic elements reported.",
+    "q31": 1,
+    "q32": "Welfare acceptable; includes 10x speed.",
+    "q27": -2,
+    "q28": "Stamina scarcity blocks leveling; non-spenders get kicked from guilds.",
+    "q9": -1,
+    "q10": "Frequent level gating due to stamina shortages."
+  },
+  {
+    "q0": 44981589,
+    "q6": "Stages with forced targeting rules (e.g., must hit specified objects/colors first).",
+    "q7": -1,
+    "q8": "Feels like a numbers game with contrived constraints rather than true strategy.",
+    "q11": -2,
+    "q12": "Fire team dominates early; large disparity among promoted lineups.",
+    "q13": -2,
+    "q14": "Limited viable lineups; early meta pushes only a few options.",
+    "q31": -2,
+    "q32": "‘Login 1000 pulls’ perceived as misleading; most pulls require grinding, not true freebies.",
+    "q41": "Overall activities fail to provide fun; multiple modes feel unrewarding."
+  },
+  {
+    "q0": 45006135,
+    "q11": -2,
+    "q12": "Lineup imbalance noted.",
+    "q13": -1,
+    "q14": "Low diversity felt.",
+    "q31": -2,
+    "q32": "Too few draws; stingy rewards."
+  },
+  {
+    "q0": 45006131,
+    "q3": "Turn-based with many lengthy skill descriptions per character.",
+    "q4": -1,
+    "q5": "High cognitive load from long skill texts makes combat tiring.",
+    "q41": "Story dialogue is chatty/edgy; audiovisual quality praised."
+  },
+  {
+    "q0": 45005686
+  },
+  {
+    "q0": 45005227,
+    "q11": -2,
+    "q12": "Fire-burn beats everything; numeric balance collapsed."
+  },
+  {
+    "q0": 45005068,
+    "q23": true,
+    "q24": "Pity exists but often only hits at the guarantee.",
+    "q25": -2,
+    "q26": "Even with ‘half price’, value feels halved; always hitting pity feels bad.",
+    "q41": "Graphics decent but monetization feels deceptive."
+  },
+  {
+    "q0": 45004910,
+    "q41": "Overall design/mechanics criticized as incoherent and low quality."
+  },
+  {
+    "q0": 45004747,
+    "q41": "Story tone feels odd; perceived ambiguous relationships between Cao Cao and the Yuan brothers."
+  },
+  {
+    "q0": 45004454,
+    "q23": true,
+    "q24": "Pity system present; pulls often only succeed at guarantee.",
+    "q25": -2,
+    "q26": "Low rewards with frequent pity outcomes; feels very stingy.",
+    "q9": -2,
+    "q10": "Progression heavily gated with high difficulty and poor guidance.",
+    "q11": -2,
+    "q12": "Severely unbalanced toward Wu/fire-burn; suggests renaming to ‘Wu Nation Fire-Burn Song’.",
+    "q41": "Randomized gear; avatar/graphics complaints; channel servers out-benefit the official server."
+  },
+  {
+    "q0": 45004059,
+    "q29": -2,
+    "q30": "Extremely heavy, fragmented progression/gear systems push spending.",
+    "q25": -2,
+    "q26": "Low drop rates reported; gacha feels harsh.",
+    "q41": "Perceived ‘kitchen-sink’ design lacking depth."
+  },
+  {
+    "q0": 45004026
+  },
+  {
+    "q0": 45003639
+  },
+  {
+    "q0": 45003623,
+    "q9": -1,
+    "q10": "Progression hinges on power; resources tightly throttled.",
+    "q15": "Idle resource collection (‘harvest’) between pushes.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple collection loop, treated as a side activity."
+  },
+  {
+    "q0": 45003618,
+    "q41": "No small-window (floating) support on vivo devices."
+  },
+  {
+    "q0": 45003614,
+    "q11": -2,
+    "q12": "Lü Bu underperforms vs. both PVE and PVP fire-burn setups.",
+    "q41": "Single-target burst feels weak relative to meta."
+  },
+  {
+    "q0": 45003489
+  },
+  {
+    "q0": 45003455,
+    "q41": "Random all-female team reward gave unwanted heroes instead of Diao Chan."
+  },
+  {
+    "q0": 45003203,
+    "q27": -2,
+    "q28": "Resource throttling makes F2P progression unviable.",
+    "q9": -1,
+    "q10": "Heavy resource gating stalls progress."
+  },
+  {
+    "q0": 45003186,
+    "q23": true,
+    "q24": "Pity often triggers around 30+ pulls; wish/self-select still yields weak results.",
+    "q25": -2,
+    "q26": "Frequent pity and low-value pulls despite spending; poor value perception.",
+    "q9": -1,
+    "q10": "Long unskippable dialogues and slow battles make progression tedious.",
+    "q41": "Art style disliked; long cutscenes can’t be skipped; regret after spending."
+  },
+  {
+    "q0": 45002921
+  },
+  {
+    "q0": 45002905,
+    "q31": -1,
+    "q32": "Opening welfare is minimal unless via pre-registration; slow free accrual.",
+    "q23": true,
+    "q24": "Two role pools with daily 1st-pull wish guarantee; otherwise frequent pity hits.",
+    "q25": -1,
+    "q26": "High dupe requirements with slow accrual and frequent pity reduce perceived value.",
+    "q6": "More build considerations than typical, but much is still auto-play.",
+    "q7": 0,
+    "q8": "Some team-building thought required yet most content remains auto-friendly.",
+    "q29": -1,
+    "q30": "‘Half price’ framing perceived as trapping low spenders."
+  },
+  {
+    "q0": 45002771,
+    "q31": -1,
+    "q32": "Worse welfare than the first game.",
+    "q41": "Story and presentation criticized; protagonist characterization disliked."
+  },
+  {
+    "q0": 45002745,
+    "q41": "Polarizing story with many ‘personal taste’ insertions; still maintains basic logical coherence."
+  },
+  {
+    "q0": 45002632,
+    "q11": -2,
+    "q12": "No balance; described as ‘none at all’."
+  },
+  {
+    "q0": 45002555,
+    "q41": "Feels disconnected from Three Kingdoms tone; perceived as targeting a different audience (‘otome’-leaning)."
+  },
+  {
+    "q0": 45002524,
+    "q41": "Adds more gear systems than the first; currently feels less fun than 1."
+  },
+  {
+    "q0": 44990258,
+    "q27": -2,
+    "q28": "Early content tuned for later stages; F2P struggles to obtain rewards.",
+    "q9": -1,
+    "q10": "Many early gates (e.g., recommended level far above unlock); progression blocked.",
+    "q41": "Awakening branches can’t be reset; team loadouts don’t auto-swap gear; ranking rewards too narrow."
+  },
+  {
+    "q0": 45002322,
+    "q9": -2,
+    "q10": "Some levels can stall progress for days without spending.",
+    "q3": "More manual operations added to what’s marketed as a casual game.",
+    "q4": -1,
+    "q5": "Manual steps waste time and hurt the casual experience."
+  },
+  {
+    "q0": 45002229,
+    "q41": "Avatar change locked behind raising a specific hero’s affection; feels over-gated."
+  },
+  {
+    "q0": 45001457,
+    "q6": "Stage mission requiring clearing 7 enemies in 6 turns.",
+    "q7": -1,
+    "q8": "Strict turn-limit conditions can be frustrating.",
+    "q41": "Bug: relogging made the 6-turn task complete after it failed repeatedly."
+  },
+  {
+    "q0": 44970206,
+    "q29": -2,
+    "q30": "Awakening resources and gear crafting are heavily monetized.",
+    "q11": -2,
+    "q12": "Repeatedly losing to fire team highlights meta imbalance."
+  },
+  {
+    "q0": 44353093,
+    "q11": -2,
+    "q12": "Fire-burn dominates; balance not fixed across test and launch."
+  },
+  {
+    "q0": 45002102,
+    "q11": -2,
+    "q12": "Even heavy spenders on Qun lose to much lower spend on Wu; severe imbalance.",
+    "q29": -2,
+    "q30": "High spending doesn’t secure fair experience; pay-pressure without payoff.",
+    "q41": "Whale experience not guaranteed despite heavy spending."
+  },
+  {
+    "q0": 45002091,
+    "q9": -1,
+    "q10": "Tower progression blocked early, reducing fun.",
+    "q41": "Requests the game to respect players’ time."
+  },
+  {
+    "q0": 45002075,
+    "q11": -2,
+    "q12": "All-fire meta; no balance.",
+    "q13": -2,
+    "q14": "Other lineups trail significantly."
+  },
+  {
+    "q0": 45001977,
+    "q11": -2,
+    "q12": "Meta dominated by a single strong lineup; others lack viability.",
+    "q13": -2,
+    "q14": "Few strong teams; composition variety low.",
+    "q9": -1,
+    "q10": "Frequent stage blocks without adopting the meta lineup."
+  },
+  {
+    "q0": 45001936,
+    "q41": "Dark visuals; hero upgrade complexity high; lacks a classic Three Kingdoms feel; seemingly few heroes."
+  },
+  {
+    "q0": 45001848,
+    "q3": "Turn-based battles that the player enjoys, but with modest strategy.",
+    "q4": 1,
+    "q5": "Player likes combat feel.",
+    "q6": "Requests for more inter-character counters and more skills; current strategy seen as limited.",
+    "q7": -1,
+    "q8": "Strategy depth viewed as insufficient.",
+    "q41": "Good UI and dubbing; card art quality uneven."
+  },
+  {
+    "q0": 45001683,
+    "q3": "Combat system perceived as overly complex with many parallel activities.",
+    "q4": -1,
+    "q5": "Complex systems and numerous activities feel overwhelming; visuals compared to webgame."
+  },
+  {
+    "q0": 45001212,
+    "q3": "Turn-based with grid positioning, shared energy/skill timing, scene interactables (e.g., fire basins), and rewind.",
+    "q6": "Environmental interactions, energy/turn sequencing, multi-job per character with heavier material needs.",
+    "q7": 1,
+    "q8": "More tactical than the first game, though more demanding.",
+    "q29": -1,
+    "q30": "Three jobs per character and higher material demand increase soft pay pressure.",
+    "q33": true,
+    "q34": "Three Kingdoms fused with mecha/modern aesthetics (e.g., ‘future’ armor with Han motifs).",
+    "q35": 1,
+    "q36": "A bold reinterpretation of classic figures integrated throughout the presentation."
+  },
+  {
+    "q0": 45001201,
+    "q11": -2,
+    "q12": "Balance criticized; certain teams (e.g., ‘girl group’) under-tuned.",
+    "q13": -1,
+    "q14": "Limited content and few viable builds reported."
+  },
+  {
+    "q0": 45001171,
+    "q11": -2,
+    "q12": "Fire and poison teams overpower others; balance not addressed."
+  }
+]

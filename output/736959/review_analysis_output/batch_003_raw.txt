@@ -1,0 +1,660 @@
+[
+  {
+    "q0": 45117668,
+    "q9": -2,
+    "q10": "After day 14, late-game feels powerless; many quit and servers feel dead.",
+    "q41": "Low server population and inactive world chat; top guilds not full."
+  },
+  {
+    "q0": 45243971,
+    "q6": "Tower 660 design forces raising a mage-based second team; enemies with 100% physical block and 50% magic reverse block.",
+    "q7": -1,
+    "q8": "Strategy feels forced by extreme resistances, limiting viable approaches.",
+    "q9": -2,
+    "q10": "Progress hard-gated by Tower 660 unless you build a second magic team.",
+    "q29": -2,
+    "q30": "“Permanent half-off” called fake; forced second team raises costs.",
+    "q41": "Tower 660 balance criticized; complaints about misleading discount."
+  },
+  {
+    "q0": 45308624,
+    "q41": "Guild war settlement bug: ranked 3rd but received 4th rewards; 7-day monthly card compensation was revoked by reducing its expiry."
+  },
+  {
+    "q0": 44971582,
+    "q31": 1,
+    "q32": "Operator change reportedly normalized event welfare."
+  },
+  {
+    "q0": 44973317,
+    "q3": "Co-op team-up to fight monsters.",
+    "q4": -2,
+    "q5": "Feels like a browser game and requires team-up; uninstalled.",
+    "q41": "Player expected solo play; co-op requirement not communicated pre-release."
+  },
+  {
+    "q0": 45256834,
+    "q3": "Status effects differ: bleed/poison resolve on action end; burn resolves at turn start; faction-based PVE/PVP.",
+    "q4": -2,
+    "q5": "Severe imbalance makes PVE and PVP frustrating.",
+    "q6": "Faction disparities; status timing; need to build a second team; tower progression walls.",
+    "q7": -2,
+    "q8": "Only one faction viable; others hit walls in PVE/PVP.",
+    "q9": -2,
+    "q10": "Progress stalls around tower 480; resources insufficient to build second team.",
+    "q11": -2,
+    "q12": "Wu/Fire dominates; others struggle.",
+    "q13": -2,
+    "q14": "Only Fire is viable across modes.",
+    "q27": -2,
+    "q28": "F2P called a 7-day experience; cannot progress or compete in arena.",
+    "q29": -2,
+    "q30": "Progression and meta force extra spending.",
+    "q31": -2,
+    "q32": "Rewards/resources called extremely stingy.",
+    "q41": "Server population declines; many inactive accounts."
+  },
+  {
+    "q0": 45068999,
+    "q9": -1,
+    "q10": "High power Shu still struggles in PVE; gameplay loop feels empty.",
+    "q11": -2,
+    "q12": "Burn/Fire is overwhelmingly strong; others lag behind.",
+    "q31": 1,
+    "q32": "Welfare improved after player feedback and updates.",
+    "q41": "Art and story criticized; gear progression system lacks affix locking causing regrinds."
+  },
+  {
+    "q0": 45306999,
+    "q6": "Some stages require specific counters; faction-restricted modes; need to raise certain blue/purple units for specific mechanics.",
+    "q7": 0,
+    "q8": "Some good stage ideas, but many numerical walls and faction locks.",
+    "q9": -2,
+    "q10": "Resource scarcity and multi-team requirements cause long stalls.",
+    "q23": true,
+    "q24": "Limited-time banners with a 50-pull pity that guarantees the featured unit.",
+    "q25": -2,
+    "q26": "High total cost (e.g., ~120k premium currency); duplicates and limited banners increase expense.",
+    "q31": -1,
+    "q32": "Event collectibles (e.g., scroll pieces) drip-feed small rewards and feel time-gated.",
+    "q41": "Stamina consumption bug during sweep; “optimization” worsened one-click upgrade; concern that PVE is tuned to sell new heroes."
+  },
+  {
+    "q0": 45306905,
+    "q9": -2,
+    "q10": "After 7 days progress stalls; resources only support one main carry while game pushes a second team.",
+    "q31": -2,
+    "q32": "Rewards too low to sustain growth."
+  },
+  {
+    "q0": 45306691
+  },
+  {
+    "q0": 45305533,
+    "q11": -2,
+    "q12": "Fire/burn dominates; other factions get outclassed even in mainline PVE.",
+    "q13": -2,
+    "q14": "Meta forces Fire; little room for alternative comps.",
+    "q21": -2,
+    "q22": "Roughly biweekly updates viewed as low-effort cash grabs; little in-between content.",
+    "q41": "Poor art polish; no summon/entrance animations; customer service slow; shop refreshes fast when spending is involved."
+  },
+  {
+    "q0": 45304193,
+    "q9": -2,
+    "q10": "Cannot clear breakthrough and armory stages; event stages are too hard.",
+    "q31": -2,
+    "q32": "Three Mountain coins and summon resources are too scarce.",
+    "q41": "New skins considered ugly compared to the first title."
+  },
+  {
+    "q0": 45302429,
+    "q41": "Art direction complaint: overly soft/feminine male character style (e.g., Sun Ce)."
+  },
+  {
+    "q0": 45302016,
+    "q9": -2,
+    "q10": "After day 14, the loop compresses to a few minutes with little progression.",
+    "q15": "Quick daily chores: stamina dump, History War, Arena, Fishing.",
+    "q16": false,
+    "q17": 2,
+    "q18": "All dailies can be finished within minutes.",
+    "q19": -2,
+    "q20": "Secondary loops yield minimal resources."
+  },
+  {
+    "q0": 45301919,
+    "q41": "Very shallow daily content even after spending; only a few minutes of play."
+  },
+  {
+    "q0": 45300854,
+    "q9": -2,
+    "q10": "After 14 days, PVE remains stuck with almost no daily improvement.",
+    "q29": -2,
+    "q30": "Fake ‘50% off’ and low-value paid systems (battle pass, vouchers) create pressure with poor returns.",
+    "q31": -2,
+    "q32": "Resources and welfare are too scarce to meaningfully progress.",
+    "q41": "‘Permanent 50% off’ perceived as misleading."
+  },
+  {
+    "q0": 45300651,
+    "q41": "Has strategic foundation but overall plagued by many issues; advises to avoid."
+  },
+  {
+    "q0": 45300097,
+    "q9": -2,
+    "q10": "No renewable resources yet forced to build two full teams; content is sparse.",
+    "q29": -2,
+    "q30": "Multi-team requirement without resource loops is seen as blatant monetization pressure.",
+    "q31": -2,
+    "q32": "Lack of renewable/free resource sources."
+  },
+  {
+    "q0": 45300086,
+    "q41": "Battle pass value is too low; suggests adding a skin to improve appeal."
+  },
+  {
+    "q0": 45267744,
+    "q15": "Random gear forging via hammers from a shared set pool.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Single mixed pool and random hammer rolls feel clunky and frustrating.",
+    "q19": -2,
+    "q20": "Hammers are rare and sets are hard to complete even after 15 days.",
+    "q41": "Suggests splitting gear sets across different dungeons instead of one pool."
+  },
+  {
+    "q0": 45297433,
+    "q11": -2,
+    "q12": "New Yuan Shao has inflated stats compared to existing units.",
+    "q29": -2,
+    "q30": "Perceived powercreep forces spending."
+  },
+  {
+    "q0": 45070122,
+    "q9": -2,
+    "q10": "After 14 days, resources too scarce; PVP is critical to progress.",
+    "q11": -2,
+    "q12": "Fire/Wu team is vastly overtuned.",
+    "q13": -2,
+    "q14": "Meta centralized on Fire/Wu.",
+    "q29": -2,
+    "q30": "Must buy weekly stamina pack; ‘half off’ perceived as fake.",
+    "q31": -2,
+    "q32": "Severe resource scarcity; daily income insufficient."
+  },
+  {
+    "q0": 45295015,
+    "q11": -2,
+    "q12": "Fire/burn meta dominates.",
+    "q13": -2,
+    "q14": "Forced multi-team/multi-lineup further narrows viable choices.",
+    "q27": -2,
+    "q28": "F2P later cannot even get jade to pull.",
+    "q29": -2,
+    "q30": "Multi-lineup requirements increase spending pressure.",
+    "q31": -2,
+    "q32": "Currency income dries up for non-spenders."
+  },
+  {
+    "q0": 45293752
+  },
+  {
+    "q0": 45293250,
+    "q41": "Guild war settlement issue: ranked 3rd but received 4th rewards; two days of fights not counted."
+  },
+  {
+    "q0": 45293576,
+    "q11": -2,
+    "q12": "Balance criticized as ‘gutter’;",
+    "q31": -2,
+    "q32": "Welfare/resources perceived as non-existent.",
+    "q41": "Live2D/art complaints; pricing (40 RMB per character) lacks value; unfair guild matchmaking and scoring."
+  },
+  {
+    "q0": 45225840,
+    "q41": "Guild war settlement bug: ranked 3rd but received 4th rewards; days of battles not counted."
+  },
+  {
+    "q0": 45293498,
+    "q11": -2,
+    "q12": "Player says balance does not exist; mechanics are laughable.",
+    "q21": -2,
+    "q22": "Mainline updates stopped; resources drip every two weeks.",
+    "q23": true,
+    "q24": "Has pity; extra pulls often go off-banner per player complaint.",
+    "q31": -2,
+    "q32": "Resource cadence is extremely slow."
+  },
+  {
+    "q0": 45293493,
+    "q31": -2,
+    "q32": "Welfare is stingy.",
+    "q41": "Guild war ranks/rewards miscalculated."
+  },
+  {
+    "q0": 45293482,
+    "q41": "Guild war settlement issue: 3rd place rewarded as 4th; two days not counted."
+  },
+  {
+    "q0": 45293460,
+    "q9": -2,
+    "q10": "Mainline stopped after ~10 days; forced second team; daily jade insufficient.",
+    "q21": -2,
+    "q22": "First UP banner arrived without content; mainline paused.",
+    "q23": true,
+    "q24": "Pity at 50 pulls; 648 RMB yields about 40 pulls, not enough for pity.",
+    "q25": -2,
+    "q26": "High cost per pity; 648 RMB cannot reach guaranteed unit.",
+    "q31": -2,
+    "q32": "Daily jade not enough even for stamina purchases.",
+    "q41": "Guild sprint settlement excluded same-day guild war results."
+  },
+  {
+    "q0": 45155153,
+    "q11": -2,
+    "q12": "Combat power is unbalanced.",
+    "q29": -2,
+    "q30": "Heavily pay-to-win; low spenders get under 10 pulls weekly.",
+    "q31": -2,
+    "q32": "Poor welfare and low resource income.",
+    "q41": "Story pacing dragged; guild war rewards criticized."
+  },
+  {
+    "q0": 45154785,
+    "q9": -2,
+    "q10": "Awakening Tower is non-repeatable and only climbable; progress guidance is unhelpful.",
+    "q31": -2,
+    "q32": "No real welfare; ‘1000 pulls’ are just diamonds from pushing content."
+  },
+  {
+    "q0": 45288670,
+    "q9": -2,
+    "q10": "After level 80, without pulls there is zero progression; daily resources insufficient for even one pull.",
+    "q11": -2,
+    "q12": "Wu/Fire dominates PVE and PVP.",
+    "q13": -2,
+    "q14": "Meta pushes Fire; few alternatives succeed.",
+    "q31": -2,
+    "q32": "No ‘1000 pulls’; daily income cannot afford a single pull.",
+    "q41": "Account value drops quickly; marketing ‘1000 pulls’ called deceptive."
+  },
+  {
+    "q0": 45288464,
+    "q27": -2,
+    "q28": "Even after getting a unit, duplicates are required to unlock full skills, raising the bar for non-payers.",
+    "q29": -2,
+    "q30": "Dupes needed for full kit significantly increase spending."
+  },
+  {
+    "q0": 45105895,
+    "q31": 2,
+    "q32": "Player praises very good welfare."
+  },
+  {
+    "q0": 45286833,
+    "q41": "Complaint about lack of refund policy for an unsatisfying game purchase."
+  },
+  {
+    "q0": 45286672,
+    "q11": -2,
+    "q12": "Fire team can beat opponents 200k power higher; imbalance unresolved.",
+    "q13": -2,
+    "q14": "Dominant Fire meta discourages variety.",
+    "q41": "Perceived developer indifference to balancing feedback."
+  },
+  {
+    "q0": 44977165,
+    "q31": -1,
+    "q32": "Operator perceived as stingy.",
+    "q41": "Accusations of recorded livestreams; story called cringeworthy; art praised as the only redeeming aspect."
+  },
+  {
+    "q0": 45242403,
+    "q9": -1,
+    "q10": "Short-lived fun compared to the first game; loses key strengths of predecessor."
+  },
+  {
+    "q0": 45284802,
+    "q11": -2,
+    "q12": "Group faction loses badly; Fire remains dominant; single skills can one-shot key units.",
+    "q13": -2,
+    "q14": "Non-Fire comps feel unplayable in PVP."
+  },
+  {
+    "q0": 45026664,
+    "q9": -2,
+    "q10": "Cannot clear mainline unless paying for the current strongest team.",
+    "q27": -2,
+    "q28": "Access to core PVE progression is gated behind meta units typically obtained via spending."
+  },
+  {
+    "q0": 45283423,
+    "q31": -1,
+    "q32": "Welfare is less generous than the first title."
+  },
+  {
+    "q0": 45283208,
+    "q31": -2,
+    "q32": "No daily free pull; rewards are stingy."
+  },
+  {
+    "q0": 45282916,
+    "q31": -2,
+    "q32": "Low generosity and poor pull rates compared to the first game.",
+    "q41": "Art direction changes criticized (more feminine redesigns, renamed characters)."
+  },
+  {
+    "q0": 44979844,
+    "q31": 1,
+    "q32": "Suggests increasing welfare; implies improvements help both sides."
+  },
+  {
+    "q0": 45281835,
+    "q9": -2,
+    "q10": "Stages require extra conditions and events are very difficult; progression feels gated.",
+    "q29": -2,
+    "q30": "Perceived as a P2W game; heavy monetization."
+  },
+  {
+    "q0": 45280577,
+    "q29": -1,
+    "q30": "Sees the sequel as mainly for monetization with little play value.",
+    "q41": "Quit after ~30 minutes due to poor fun factor."
+  },
+  {
+    "q0": 45280407,
+    "q21": -2,
+    "q22": "Game hits content drought within about a week."
+  },
+  {
+    "q0": 45280098,
+    "q11": -1,
+    "q12": "Fire is very strong; if not adjusted, player will quit."
+  },
+  {
+    "q0": 45279226,
+    "q11": -2,
+    "q12": "Extreme faction imbalance with Fire far ahead.",
+    "q21": -2,
+    "q22": "Content cadence and output are slow/low."
+  },
+  {
+    "q0": 45278462,
+    "q9": -2,
+    "q10": "Daily resources become nearly zero later; no improvement each day.",
+    "q11": -2,
+    "q12": "Fire dominates.",
+    "q31": -2,
+    "q32": "Late-game resource income is almost nonexistent."
+  },
+  {
+    "q0": 45277579,
+    "q29": -2,
+    "q30": "Described as pure numeric P2W focused on extracting money.",
+    "q41": "Highly negative sentiment toward sequel quality."
+  },
+  {
+    "q0": 45277463,
+    "q11": -2,
+    "q12": "Balance issues; Fire teams dominate.",
+    "q13": -2,
+    "q14": "Lineups are monotonous; little strategy variety.",
+    "q31": -2,
+    "q32": "Welfare is low."
+  },
+  {
+    "q0": 44975004
+  },
+  {
+    "q0": 45276422,
+    "q41": "Accusation of reusing assets from the first game; wants actual playable content rather than just gifts."
+  },
+  {
+    "q0": 45276347,
+    "q9": -1,
+    "q10": "Good level design but lacks continuous resources and content.",
+    "q31": 1,
+    "q32": "Full-month welfare improved, showing responsiveness to feedback.",
+    "q21": -1,
+    "q22": "Content quantity still on the low side despite improvements."
+  },
+  {
+    "q0": 45167426,
+    "q31": 1,
+    "q32": "Full-month gifts are decent; waiting for weekly routine content."
+  },
+  {
+    "q0": 45274386,
+    "q9": -1,
+    "q10": "After initial 7-day rush, little reason to stay; event felt like repackaged mainline.",
+    "q15": "Login to collect hammer/forge gear, then log off.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Very light daily routine for whales as well.",
+    "q19": -1,
+    "q20": "Daily production too low even for high spenders.",
+    "q21": -2,
+    "q22": "Limited-time UP event considered filler content."
+  },
+  {
+    "q0": 45274228,
+    "q9": -1,
+    "q10": "Two weeks in, nothing new to do.",
+    "q21": -2,
+    "q22": "Very poor operations; no new content after two weeks."
+  },
+  {
+    "q0": 45273072,
+    "q41": "Suggestion to add more interactive/competitive resource features inspired by another title."
+  },
+  {
+    "q0": 45272972,
+    "q9": -1,
+    "q10": "Bosses are hard; frequent logins required to dump stamina; becomes boring after a few days.",
+    "q29": -1,
+    "q30": "Roles and weapons locked behind gacha; microspenders struggle."
+  },
+  {
+    "q0": 45272572,
+    "q9": -2,
+    "q10": "After 14 days, event rewards drop; daily tasks give only 2–3 pulls; can’t progress without paying.",
+    "q23": true,
+    "q24": "Pity cited at 40 pulls by the player.",
+    "q31": -1,
+    "q32": "Daily income yields only a couple of pulls."
+  },
+  {
+    "q0": 45272522,
+    "q31": -2,
+    "q32": "Daily shop gives low-value currency instead of premium; dailies can’t even afford to open the gacha.",
+    "q41": "PVP matchmaking has huge power gaps, making skips equivalent to matches."
+  },
+  {
+    "q0": 45271049,
+    "q21": -1,
+    "q22": "Feels like a half-finished product with little follow-up gameplay.",
+    "q27": -1,
+    "q28": "Later resource acquisition is difficult for low/no spenders.",
+    "q31": -1,
+    "q32": "Resource income low for F2P/low spenders."
+  },
+  {
+    "q0": 45270483,
+    "q1": true,
+    "q2": "Implied same-sex romance/BL undertones in the story.",
+    "q6": "Lineup and stat thresholds dominate; auto vs manual trivial once stats met.",
+    "q7": -1,
+    "q8": "Strategy overshadowed by raw stats; multi-layer upgrades (stars, flames, special) required.",
+    "q29": -2,
+    "q30": "Aggressive monetization: dupes and ‘permanent half-off’ via hidden price hikes.",
+    "q31": -2,
+    "q32": "No daily shards; slow shard exchange (e.g., 1 per month) makes upgrades take over a year.",
+    "q41": "Marketing ‘half-price’ called deceptive; criticism of story tone."
+  },
+  {
+    "q0": 45270490,
+    "q29": -2,
+    "q30": "Even after spending hundreds, player couldn’t continue; monetization feels predatory.",
+    "q31": -2,
+    "q32": "Welfare considered very poor."
+  },
+  {
+    "q0": 45270220,
+    "q31": -2,
+    "q32": "Sometimes not even one pull per day; resource income is meager.",
+    "q41": "Sarcastic note about ‘fixing the bug’ where non-spenders got no resources."
+  },
+  {
+    "q0": 45270183,
+    "q11": -2,
+    "q12": "A 1.3M Shu team loses to a 700k Fire team.",
+    "q13": -2,
+    "q14": "Only Fire comp is viable."
+  },
+  {
+    "q0": 45270139,
+    "q11": -2,
+    "q12": "Balance deemed terrible.",
+    "q41": "Art and operations also criticized."
+  },
+  {
+    "q0": 45247512,
+    "q41": "Game hits many common pain points for 2025 mobile titles."
+  },
+  {
+    "q0": 45269522,
+    "q9": -2,
+    "q10": "After 14 days, resources fall off a cliff and stages become too hard.",
+    "q15": "Gear set crafting via hammers; chasing 10-set completion.",
+    "q16": false,
+    "q19": -2,
+    "q20": "Always missing one set piece; hammers insufficient."
+  },
+  {
+    "q0": 45269361,
+    "q9": -2,
+    "q10": "At day 14, resources nearly vanish; continued play offers little progression.",
+    "q31": -2,
+    "q32": "Resource income is heavily compressed; advises against spending."
+  },
+  {
+    "q0": 45269345,
+    "q11": -2,
+    "q12": "Non-Fire factions struggle; overall imbalance.",
+    "q13": -2,
+    "q14": "Effectively forced into Fire to progress.",
+    "q41": "Unfair guild mechanics and many bugs; ‘half-price’ described as markup-then-discount."
+  },
+  {
+    "q0": 45269128,
+    "q9": -2,
+    "q10": "After 14 days, no tasks and 0 daily improvement; event maps unlock slowly.",
+    "q21": -1,
+    "q22": "Event cadence too slow (e.g., two maps every 3 days).",
+    "q31": -2,
+    "q32": "Resource income too low."
+  },
+  {
+    "q0": 45269126,
+    "q11": -2,
+    "q12": "Without Fire there’s ‘no future’; PVP can be decided by huge power gaps.",
+    "q13": -2,
+    "q14": "Fire is the only reliable path; others get walled.",
+    "q29": -2,
+    "q30": "Dupes and high costs create strong spending pressure.",
+    "q31": -2,
+    "q32": "‘1,000 pulls’ touted in marketing but not actually given; little ongoing free income.",
+    "q41": "Livestream felt like a recording; login rewards don’t give dupes; aid/play features blocked by progression gaps."
+  },
+  {
+    "q0": 45268943,
+    "q9": -2,
+    "q10": "After 14 days, resource output becomes extremely scarce; dual-team requirement blocks progress.",
+    "q27": -2,
+    "q28": "F2P experience effectively ends after ~14 days.",
+    "q31": -2,
+    "q32": "Resource acquisition far below the first title."
+  },
+  {
+    "q0": 45268870
+  },
+  {
+    "q0": 45268387,
+    "q9": -1,
+    "q10": "Welfare shrinks over first 14 days; content shallow.",
+    "q11": -2,
+    "q12": "Fire dominates both PVE and PVP.",
+    "q13": -2,
+    "q14": "Best strategy is just playing Fire; little variety.",
+    "q21": -1,
+    "q22": "Limited new activities; slow matching.",
+    "q23": true,
+    "q24": "Pity at 50 pulls.",
+    "q31": -2,
+    "q32": "Welfare decreased over time; pulls often near pity.",
+    "q41": "Matching is slow; rogue-lite mode feels long and dull."
+  },
+  {
+    "q0": 45103838,
+    "q9": -2,
+    "q10": "Daily routine reduces to sweeps and forging; no jade; multi-team requirement with scarce resources.",
+    "q15": "Daily sweeps and random gear forging with hammers.",
+    "q16": false,
+    "q19": -2,
+    "q20": "Hammers and gear progress bottlenecked; little premium currency income.",
+    "q27": -2,
+    "q28": "F2P struggles to progress or build a second team."
+  },
+  {
+    "q0": 45267558,
+    "q9": -1,
+    "q10": "Progress/growth feels slow.",
+    "q29": -1,
+    "q30": "Game is relatively pay-heavy.",
+    "q41": "Card art is acceptable."
+  },
+  {
+    "q0": 45266161,
+    "q6": "High complexity and heavy reliance on manual play; large gap vs auto.",
+    "q7": -1,
+    "q8": "Overly complex with little payoff when auto performs poorly.",
+    "q11": -2,
+    "q12": "Fire outclasses others, pushing non-Fire whales away.",
+    "q31": -2,
+    "q32": "Welfare is poor; many F2P/low-spenders leave.",
+    "q41": "Main menu music praised."
+  },
+  {
+    "q0": 45263590,
+    "q41": "Requests deeper story and overall improvements."
+  },
+  {
+    "q0": 45261544,
+    "q9": -2,
+    "q10": "Core rewards dry up after 14 days.",
+    "q21": -2,
+    "q22": "Mainline and ‘Realm’ modes used as filler; few real events.",
+    "q31": -2,
+    "q32": "Resources are lacking; shelf life ~14 days."
+  },
+  {
+    "q0": 45261519,
+    "q9": -2,
+    "q10": "Tower requires dual lineups around 500+ floors while first team not yet finished; resource strain for 12 units."
+  },
+  {
+    "q0": 45259626,
+    "q9": -2,
+    "q10": "Event stages have inflated numbers and are impossible to clear."
+  },
+  {
+    "q0": 45259670,
+    "q6": "Frequent gear/relic swapping per mission; bonds (synergies) with low impact; speed dominates potential points; front row often ignored by enemy skills.",
+    "q7": -1,
+    "q8": "Strategy undercut by numeric scaling and low-impact systems.",
+    "q31": -2,
+    "q32": "Daily rewards are stingy; ‘50% rights’ perceived as a trap; big month card required for value.",
+    "q41": "Environmental mechanics missing; bond system feels unfinished; gear progression has harsh material jumps."
+  }
+]

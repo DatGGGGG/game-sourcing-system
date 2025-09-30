@@ -1,0 +1,405 @@
+[
+  {
+    "q0": 46433388,
+    "q15": "Home building and dress-up; collect materials to craft furniture/clothes or earn money to buy them; focus on lively NPC/animal interactions similar to Animal Crossing.",
+    "q17": 2,
+    "q18": "Demo only showed gifting and lying on chairs; lacked meaningful interactive or economic loops.",
+    "q19": -2,
+    "q20": "Showcase did not explain how to earn/craft; concern it might rely on paid collection for cosmetics/furniture.",
+    "q29": -2,
+    "q30": "Fears building and dress-up are primary monetization leading to pure paid collection.",
+    "q41": "Finds gameplay demo boring and unclear about core loop; requests AC-like dynamic NPC behaviors and meaningful activities."
+  },
+  {
+    "q0": 46435509,
+    "q29": -2,
+    "q30": "Expects many monetization points; would prefer buy-to-play to avoid collection anxiety.",
+    "q41": "Loves the art and a witch outfit but won’t play if collection requires heavy spending."
+  },
+  {
+    "q0": 46435430,
+    "q41": "Concern about large install/storage size causing heat; requests a lightweight package."
+  },
+  {
+    "q0": 46435337,
+    "q15": "Co-op service work with friends in a shop serving customers; richer social interactions.",
+    "q16": true,
+    "q41": "Requests more detailed interactive systems with friends."
+  },
+  {
+    "q0": 46435309,
+    "q41": "Asks for generous launch rewards for early players."
+  },
+  {
+    "q0": 46435291,
+    "q29": -1,
+    "q30": "Hopes the game requires less spending.",
+    "q41": "Very excited about the art; wants quick launch."
+  },
+  {
+    "q0": 46435260,
+    "q15": "Sandbox building with templates and daily friend gifting/exchanges within a sim-management framework.",
+    "q16": true,
+    "q29": -1,
+    "q30": "Wants reasonable pack pricing and affordable draws; dislikes high-cost pity outcomes.",
+    "q41": "Requests building templates and daily friend gifting; pricing should be reasonable."
+  },
+  {
+    "q0": 46435221,
+    "q15": "House building/customization.",
+    "q17": 2,
+    "q18": "PV showed building as too simple; asks for optimization.",
+    "q41": "Still willing to play even if building remains average."
+  },
+  {
+    "q0": 46435090,
+    "q41": "Accuses the game of plagiarizing It Takes Two."
+  },
+  {
+    "q0": 46434861,
+    "q41": "Wants this game to replace Heart Town."
+  },
+  {
+    "q0": 46434843,
+    "q41": "Asks whether online co-op is supported."
+  },
+  {
+    "q0": 46434711,
+    "q41": "Likes the art and asks to reduce grind."
+  },
+  {
+    "q0": 46434624,
+    "q41": "Wants house building and furniture placement; asks about release timing."
+  },
+  {
+    "q0": 46434628,
+    "q29": -1,
+    "q30": "Fears Tencent will stuff in many events and recharge prompts despite cozy visuals.",
+    "q41": "Publisher-related monetization concern."
+  },
+  {
+    "q0": 46434555,
+    "q41": "Feature requests: in-home music, proper weather effects (no roof leaks), ability to adjust weather."
+  },
+  {
+    "q0": 46434461,
+    "q41": "High expectations for performance, models, story, and gameplay."
+  },
+  {
+    "q0": 46434039,
+    "q15": "Farming/animal husbandry producing goods to sell in town; extensive town services; daily tasks, mini-games, co-op visits and pranks with auto-revert.",
+    "q16": true,
+    "q41": "Large wishlist including detailed shops, medical/beauty roleplay, banking with interest and punishment systems, exploration, and rich animations."
+  },
+  {
+    "q0": 46434210,
+    "q41": "Very eager; loves tiny-people concept; references It Takes Two."
+  },
+  {
+    "q0": 46434120,
+    "q41": "Wants themes of micro-civilization coexisting with humans and nature; prefers tranquil, reflective tone."
+  },
+  {
+    "q0": 46434108,
+    "q41": "Perceives it as a mix of Animal Crossing, Pikmin, Grounded, and It Takes Two; optimistic if well-integrated."
+  },
+  {
+    "q0": 46434099,
+    "q41": "Praises hair and animation quality; hopes launch meets expectations."
+  },
+  {
+    "q0": 46433991,
+    "q29": -1,
+    "q30": "Wants it to surpass a competitor known for heavy pity/gacha.",
+    "q41": "Strong desire for an alternative to heavy-gacha competitor."
+  },
+  {
+    "q0": 46433919,
+    "q29": -1,
+    "q30": "Requests avoidance of frequent hard pity like competitor.",
+    "q41": "Also asks for more freedom in housing build."
+  },
+  {
+    "q0": 46433751,
+    "q29": 1,
+    "q30": "Accepts paying for clearly priced outfits; dislikes forced social features.",
+    "q41": "Requests no forced social systems."
+  },
+  {
+    "q0": 46433677,
+    "q41": "Requests co-op with friends; fears solo play may become boring."
+  },
+  {
+    "q0": 46433597,
+    "q41": "Excited but worried about a long wait."
+  },
+  {
+    "q0": 46433409,
+    "q15": "Housing build with third-person view and sharable building codes; use in-game-earned resources for construction.",
+    "q16": true,
+    "q41": "Requests third-person building and blueprint sharing."
+  },
+  {
+    "q0": 46433372,
+    "q41": "Predicts it could be the developer’s next hit."
+  },
+  {
+    "q0": 46433267,
+    "q41": "Loves the art and cute ladybug; very eager to play."
+  },
+  {
+    "q0": 46433209,
+    "q41": "Requests farming and gardening features."
+  },
+  {
+    "q0": 46433165,
+    "q41": "Asks not to add pet/spirit systems; finds them annoying."
+  },
+  {
+    "q0": 46432937,
+    "q41": "Asks whether it’s single-player or multiplayer; likes the world setting and art."
+  },
+  {
+    "q0": 46432907,
+    "q41": "Requests player-created/customized clothing."
+  },
+  {
+    "q0": 46432870,
+    "q41": "Requests strong free rewards for non-spenders, citing other titles that give many free, high-quality outfits."
+  },
+  {
+    "q0": 46432845,
+    "q41": "Wants launch soon; requests no mandatory quests that force progress."
+  },
+  {
+    "q0": 46432825,
+    "q41": "Burned out on similar games after months; requests less grind."
+  },
+  {
+    "q0": 46432716
+  },
+  {
+    "q0": 46432684,
+    "q41": "Discovered via Bilibili; loves the art."
+  },
+  {
+    "q0": 46432586,
+    "q41": "Asks for launch/internal test soon; very eager."
+  },
+  {
+    "q0": 46432564,
+    "q29": -1,
+    "q30": "Quit competitor due to constant hard pity; hopes this title avoids that."
+  },
+  {
+    "q0": 46432439,
+    "q41": "Requests more gameplay modes and maps; asks about beta timing."
+  },
+  {
+    "q0": 46432349,
+    "q41": "Hopes devs listen during open beta; wants freer building."
+  },
+  {
+    "q0": 46432319,
+    "q41": "Requests originality; prefers open-world approach; avoid being like competitors."
+  },
+  {
+    "q0": 46432203,
+    "q41": "Associates its cute style with Rock Kingdom; highly anticipated."
+  },
+  {
+    "q0": 46432045,
+    "q41": "Asks whether farming is required; prefers not to farm."
+  },
+  {
+    "q0": 46432004,
+    "q15": "Freeform building, planting, and online co-op within a cozy sim framework.",
+    "q16": true,
+    "q41": "Very enthusiastic; requests rich gameplay and freedom; willing to spend if good."
+  },
+  {
+    "q0": 46432006,
+    "q41": "Prefers peaceful life-sim without combat; disappointed by a previous title; awaiting launch."
+  },
+  {
+    "q0": 46432003,
+    "q41": "Questions 12+ rating and asks for more than a fairy-tale storyline."
+  },
+  {
+    "q0": 46431938,
+    "q41": "Cheerleading message wishing the tiny-people concept success."
+  },
+  {
+    "q0": 46431924,
+    "q41": "Optimistic; contrasts against another title’s poor optimization and monetization push."
+  },
+  {
+    "q0": 46431874,
+    "q41": "Requests emulator support."
+  },
+  {
+    "q0": 46431820,
+    "q29": 1,
+    "q30": "Prefers transparent, fixed pricing similar to King of Glory and no forced social; ok to pay if clear.",
+    "q41": "Loves tiny-people theme; asks to avoid forced social features."
+  },
+  {
+    "q0": 46431782,
+    "q41": "Rare watercolor style feels healing; very anticipated."
+  },
+  {
+    "q0": 46431769,
+    "q41": "Requests cooking process, farming, and ability to place food decoratively."
+  },
+  {
+    "q0": 46431645,
+    "q6": "Stealthy heist-style runs in human-sized maps with risk/reward: enter by staking collateral, retrieve items to decorate home, lose haul and collateral if discovered.",
+    "q8": "Proposes meaningful risk management and stealth tactics that reward skillful play.",
+    "q15": "Exploration/heist mini-maps to obtain human-world items for home decoration.",
+    "q16": false,
+    "q41": "Creative mode idea focusing on stealth and risk to collect decorative items."
+  },
+  {
+    "q0": 46431640,
+    "q41": "Wants quick launch and hopes it outperforms Heart Town."
+  },
+  {
+    "q0": 46431594,
+    "q15": "Management + building + dress-up; dual body types with gendered outfit sets.",
+    "q16": true,
+    "q41": "Hopes in-game visuals match PV clarity; praises a witch outfit."
+  },
+  {
+    "q0": 46431574,
+    "q41": "Finds the art very cute."
+  },
+  {
+    "q0": 46431537,
+    "q29": -1,
+    "q30": "Comparative complaint that competitor is too monetized; hopes this is better.",
+    "q41": "Critiques character proportions (thin legs, head-heavy) and overly saturated colors in competitor."
+  },
+  {
+    "q0": 46431486,
+    "q41": "Feels like an indie vibe; references It Takes Two."
+  },
+  {
+    "q0": 46431405,
+    "q41": "Art is cute; eager to play."
+  },
+  {
+    "q0": 46431397,
+    "q15": "Home building, gathering resources like pollen/dew, and dress-up; cozy roleplay.",
+    "q16": true,
+    "q41": "Very excited about the tiny-people fantasy and homebuilding."
+  },
+  {
+    "q0": 46431335,
+    "q41": "Wants diverse gameplay to match strong art; asks for open beta timing."
+  },
+  {
+    "q0": 46431331
+  },
+  {
+    "q0": 46431303
+  },
+  {
+    "q0": 46431296,
+    "q41": "Waiting to play; thinks characters look better than a competitor."
+  },
+  {
+    "q0": 46431124,
+    "q15": "Casual farming/life-sim to appreciate effort in production.",
+    "q16": true,
+    "q41": "Likes relaxing small games; especially farming."
+  },
+  {
+    "q0": 46431056,
+    "q29": -1,
+    "q30": "Wants clear pricing like King of Glory and minimal gacha; avoid high-cost pity and mandatory chore tasks.",
+    "q41": "Requests ability to buy needed items directly; wants plenty of novel content without mental load."
+  },
+  {
+    "q0": 46431038,
+    "q41": "Wants no mandatory tasks that force progression; enjoys sim-management."
+  },
+  {
+    "q0": 46430970,
+    "q41": "Excited it’s by Aurora (Northern Lights) Studio."
+  },
+  {
+    "q0": 46430902,
+    "q29": -1,
+    "q30": "Competitor is too monetized; hopes this is better.",
+    "q41": "Art cute but face shape looks odd; asks for quick launch."
+  },
+  {
+    "q0": 46430886,
+    "q15": "Exploration focused on repurposing human-scale objects for tiny-world decoration and play.",
+    "q16": false,
+    "q41": "Wants creative uses of everyday items (watch as wall clock, earphones as swings); very willing to spend if done well."
+  },
+  {
+    "q0": 46430806,
+    "q41": "Hopes this title pressures a money-grabby competitor."
+  },
+  {
+    "q0": 46430766
+  },
+  {
+    "q0": 46430701,
+    "q41": "Very high anticipation; praises art, modeling, and camera; begs for launch."
+  },
+  {
+    "q0": 46430609,
+    "q41": "Asks whether it is a mobile game."
+  },
+  {
+    "q0": 46430594,
+    "q41": "Hopes for more gameplay variety than Heart Town."
+  },
+  {
+    "q0": 46430439,
+    "q41": "Cute, dreamy art and characters; hopes release won’t disappoint."
+  },
+  {
+    "q0": 46430238,
+    "q41": "Loves art, housing build, and high outfit detail; characters are cute."
+  },
+  {
+    "q0": 46430210,
+    "q29": -1,
+    "q30": "Will leave if pricing feels like a money-grabby competitor; wants reasonable pricing.",
+    "q41": "Very excited but cautious about monetization."
+  },
+  {
+    "q0": 46430117,
+    "q41": "Requests quick launch and plentiful content to surpass a lean competitor."
+  },
+  {
+    "q0": 46430108,
+    "q15": "Exploration of human environments to find large items that fill tiny homes; emphasizes active search over progress bars.",
+    "q16": false,
+    "q41": "Criticizes homogeneity/‘cash-grab’ clones; wants meaningful exploration-based progression."
+  },
+  {
+    "q0": 46429469,
+    "q15": "Cooking, fishing, farming, and house building within a cozy sim.",
+    "q16": true,
+    "q41": "Art looks good; these features would satisfy."
+  },
+  {
+    "q0": 46428497,
+    "q29": -1,
+    "q30": "Competitor is too gacha-heavy with little gameplay; hopes this won’t be as monetized.",
+    "q41": "Thinks current face style looks too sugary compared to competitor."
+  },
+  {
+    "q0": 46428031,
+    "q41": "Finds the art distinct from existing sim-management titles; very anticipated."
+  },
+  {
+    "q0": 46427736,
+    "q41": "Loves healing art; cautious because it’s a Tencent product; hopes it develops into a strong IP."
+  }
+]

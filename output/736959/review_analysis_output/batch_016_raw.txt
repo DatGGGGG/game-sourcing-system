@@ -1,0 +1,558 @@
+[
+  {
+    "q0": 44985187,
+    "q4": -2,
+    "q5": "Arena matchmaking pairs you only with heavy spenders; become a punching bag and get no participation rewards.",
+    "q27": -2,
+    "q28": "Key PvP rewards require 7 wins with no bots and no consolation rewards, locking non-payers out.",
+    "q41": "Unfair PvP matchmaking; chest requires 7 wins; no participation rewards unlike the first game."
+  },
+  {
+    "q0": 44985156,
+    "q25": -2,
+    "q26": "Spent 648 but pulled multiple duplicates of already maxed-out units; duplicates only convert to a few coins.",
+    "q41": "Pool does not remove fully maxed units; duplicates convert to low-value currency."
+  },
+  {
+    "q0": 44985140,
+    "q21": -2,
+    "q22": "No sign of long-term operation or commitment.",
+    "q29": -2,
+    "q30": "Perceived as heavily pay-to-win with poor overall experience."
+  },
+  {
+    "q0": 44985001
+  },
+  {
+    "q0": 44984930
+  },
+  {
+    "q0": 44984886,
+    "q4": -2,
+    "q5": "Controls feel terrible and the game is not fun; AI-style art lacks identity.",
+    "q41": "Artwork criticized as AI-generated style."
+  },
+  {
+    "q0": 44984870,
+    "q4": -2,
+    "q5": "Seven straight losses in arena vs whale accounts; mismatch persists even after demotion.",
+    "q27": -2,
+    "q28": "PvP rewards and experience are inaccessible for non-spenders due to whale-heavy matchmaking.",
+    "q41": "Unfair arena matchmaking; continues matching pre-demotion opponents."
+  },
+  {
+    "q0": 44983885,
+    "q9": 2,
+    "q10": "Story progression is effortless with light thinking; F2P not blocked.",
+    "q27": 1,
+    "q28": "Non-spenders can clear content and even place top 300 in PvP.",
+    "q29": 1,
+    "q30": "Low spending pressure; small or no spend can play smoothly."
+  },
+  {
+    "q0": 44984819,
+    "q1": true,
+    "q2": "BL/yaoi undertones; feminization/‘moe’ versions of historical figures.",
+    "q33": true,
+    "q34": "Three Kingdoms (Romance of the Three Kingdoms) theme with stylized characterizations.",
+    "q35": -1,
+    "q36": "IP is used but altered into feminized/BL tones that some fans dislike."
+  },
+  {
+    "q0": 44984815,
+    "q1": true,
+    "q2": "BL/yaoi ‘selling fu’ content."
+  },
+  {
+    "q0": 44984799,
+    "q29": -2,
+    "q30": "Player suspects short-term cash grab with powercreep, referencing past monetization practices.",
+    "q41": "Distrust of developer due to previous ‘cash and run’ features (e.g., gem reforging)."
+  },
+  {
+    "q0": 44984745
+  },
+  {
+    "q0": 44984658
+  },
+  {
+    "q0": 44984597,
+    "q9": -1,
+    "q10": "Stuck at floor 80 repeatedly despite higher rarity team.",
+    "q11": -2,
+    "q12": "Lower-rarity enemies overpower higher-rarity team, suggesting broken balance.",
+    "q41": "Difficulty spike at tower floor 80; rarity mismatch."
+  },
+  {
+    "q0": 44984511,
+    "q15": "Daily/weekly/monthly task checklist meta alongside guided tutorials.",
+    "q17": -2,
+    "q18": "Overwhelming tutorials and layered tasks; not simple or relaxing.",
+    "q41": "Over-tutorialization and complex task systems reduce fun."
+  },
+  {
+    "q0": 44984445,
+    "q41": "Card availability is locked; specific heroes (e.g., Zhang Chunhua) are unobtainable while others ignite."
+  },
+  {
+    "q0": 44984423
+  },
+  {
+    "q0": 44984373,
+    "q13": -2,
+    "q14": "Lineup options are locked/gated at launch, limiting team building.",
+    "q41": "Early roster gating."
+  },
+  {
+    "q0": 44984239,
+    "q3": "Turn-based battles with environmental interactions (e.g., pigs push units, screens can stun).",
+    "q6": "Environmental hazards and interactables that affect fights.",
+    "q7": 1,
+    "q8": "Interactive objects add tactical options.",
+    "q9": -1,
+    "q10": "Stamina is insufficient, causing level gating."
+  },
+  {
+    "q0": 44984089,
+    "q9": -2,
+    "q10": "Severe stamina gating blocks progress and makes the game not fun."
+  },
+  {
+    "q0": 44201203,
+    "q1": true,
+    "q2": "Feminized depictions of male generals; BL/yaoi aesthetics.",
+    "q33": true,
+    "q34": "Three Kingdoms historical IP with stylized male characters.",
+    "q35": -1,
+    "q36": "Art direction clashes with expectations for the historical IP."
+  },
+  {
+    "q0": 44983894,
+    "q11": -2,
+    "q12": "Tower content and meta favor Wu ‘fire’ teams, indicating faction bias.",
+    "q41": "Perceived developer favoritism toward Wu faction."
+  },
+  {
+    "q0": 44983834,
+    "q3": "Requires tapping each time to trigger attacks in combat.",
+    "q4": -2,
+    "q5": "Manual tap-per-hit is tedious; overwhelming recharge prompts; non-whales have no experience.",
+    "q29": -2,
+    "q30": "Heavy monetization presence; micro-spending provides little benefit."
+  },
+  {
+    "q0": 44983737,
+    "q29": -2,
+    "q30": "Immediate upselling and social pressure (guild leader ‘greetings’) create uncomfortable monetization.",
+    "q41": "Early aggressive promotions; intrusive social/guild messaging."
+  },
+  {
+    "q0": 43797122
+  },
+  {
+    "q0": 44983697,
+    "q3": "Some stages force manual play; no early skip/auto options.",
+    "q4": -1,
+    "q5": "Players seeking idle relaxation are forced to think and play manually; wants later-turn skip.",
+    "q41": "Forced manual gameplay in early stages; lack of skip options."
+  },
+  {
+    "q0": 44983637,
+    "q31": 1,
+    "q32": "Good early welfare; daily guaranteed ‘star wish’ pull helps non-lucky players.",
+    "q29": 1,
+    "q30": "Playable without heavy grind; welfare supports casual play."
+  },
+  {
+    "q0": 44983534,
+    "q3": "Visual novel-style storytelling plus turn-based card combat.",
+    "q15": "Lengthy VN-style narrative chapters between battles."
+  },
+  {
+    "q0": 44983394,
+    "q9": -1,
+    "q10": "Enemy stat stacking makes progression frustrating.",
+    "q41": "Enemies gain inflated arrays of buffs/stats."
+  },
+  {
+    "q0": 44983357
+  },
+  {
+    "q0": 44983288
+  },
+  {
+    "q0": 44983258,
+    "q6": "Resonance system only shares levels; awakening shares main path only; weapons/branches not shared; shield disappears in one hit.",
+    "q7": -1,
+    "q8": "Systems feel clunky and regressive vs. the first game; shield design undermines certain heroes.",
+    "q41": "AI-flavored art; tedious lineup inheritance (must reassign per team); confusing shield mechanic."
+  },
+  {
+    "q0": 44648775,
+    "q3": "Primarily auto-battle gameplay.",
+    "q4": -1,
+    "q5": "Auto combat plus P2W tuning reduces engagement.",
+    "q6": "Some PvE strategy but overshadowed by stats/spending.",
+    "q7": -1,
+    "q8": "Strategy exists but is dominated by numerical power and monetization.",
+    "q29": -2,
+    "q30": "PVE and especially PvP rely heavily on spending; frequent new servers (roll servers).",
+    "q41": "‘Mecha/waifu’ art; rolling servers; perceived dissonant story."
+  },
+  {
+    "q0": 44983160
+  },
+  {
+    "q0": 44983147
+  },
+  {
+    "q0": 44983088,
+    "q29": -2,
+    "q30": "Leaderboard dominated by suspected whales/boosted accounts; huge level jumps overnight.",
+    "q41": "Suspected boosters or unfair matchmaking; improbable level progression for rank 1."
+  },
+  {
+    "q0": 44982954,
+    "q3": "Idle card RPG with forced manual stages early.",
+    "q4": -1,
+    "q5": "Weak combat ‘爽感’ and collection fun; too much early story and forced manual play.",
+    "q41": "Early-game pacing dominated by long story; discounts fail to entice spending."
+  },
+  {
+    "q0": 44982887,
+    "q29": -2,
+    "q30": "Deceptive ‘official pays half’ marketing; feels like price hike then discount.",
+    "q41": "Chat flooded with ads/promos; questionable subsidy messaging."
+  },
+  {
+    "q0": 44982765,
+    "q41": "Guild management issues: kicked after completing tasks; prefers AI leader to avoid arbitrary kicks."
+  },
+  {
+    "q0": 44982139
+  },
+  {
+    "q0": 44981996,
+    "q11": -2,
+    "q12": "‘Girl group’ team is weak (‘下水道’); BL/otome tone not suited for many male players."
+  },
+  {
+    "q0": 44981951,
+    "q6": "Team synergy reliance; ‘no useless units’ claim undermined by needing meta carries.",
+    "q7": -1,
+    "q8": "Lineup dependency reduces strategic freedom; meta carry-centric.",
+    "q29": -2,
+    "q30": "‘Half-off’ recharge and ‘loan-style’ 1000 pulls feel misleading and push spending.",
+    "q31": -1,
+    "q32": "Promoted ‘thousand pulls’ are delayed/conditional rather than immediate."
+  },
+  {
+    "q0": 44981716,
+    "q11": -2,
+    "q12": "Only certain comps (群、火烧) are viable; ‘no useless unit’ claim disproven.",
+    "q13": -2,
+    "q14": "Team building is narrow; some archetypes (e.g., female group) are non-viable."
+  },
+  {
+    "q0": 44981666,
+    "q3": "Idle/turn-based core with hand-operated gimmick stages.",
+    "q4": -1,
+    "q5": "Hand-operated stages clash with idle design; feels formulaic.",
+    "q41": "Frequent new servers; reskinned turn-based formula."
+  },
+  {
+    "q0": 44981542,
+    "q1": true,
+    "q2": "BL/gay undertones; otome-style presentation.",
+    "q23": true,
+    "q24": "Has a pity system guaranteeing a high-rarity unit after a set number of pulls.",
+    "q31": -1,
+    "q32": "‘Thousand pulls’ gated behind conditions; sign-in ‘god general’ mixed with low-rarity units.",
+    "q29": -1,
+    "q30": "Monetization and welfare feel promotional and conditional rather than generous."
+  },
+  {
+    "q0": 44981472,
+    "q1": true,
+    "q2": "BL/‘selling fu’ content."
+  },
+  {
+    "q0": 44981388,
+    "q11": -1,
+    "q12": "Perceived favoritism toward Dongwu and Cao Cao; Shu fans feel sidelined."
+  },
+  {
+    "q0": 44981295,
+    "q15": "Extensive multi-track hero growth (6-unit team) with heavy material farming and stamina usage.",
+    "q17": -2,
+    "q18": "Too many systems to grind; requires raising six heroes; feels exhausting.",
+    "q9": -2,
+    "q10": "High stamina costs and multi-hero investment cause progression fatigue.",
+    "q41": "Strategy in mainline feels unfun; six-hero requirement drives players away."
+  },
+  {
+    "q0": 44981288,
+    "q41": "Story replay bug: after skipping, cannot rewatch if the chapter includes a battle."
+  },
+  {
+    "q0": 44980842,
+    "q31": -1,
+    "q32": "Aside from some launch tickets, welfare is sparse compared to competitors.",
+    "q9": -2,
+    "q10": "Stamina drains quickly when farming materials; blocks dungeon runs."
+  },
+  {
+    "q0": 44980703,
+    "q4": -1,
+    "q5": "Gameplay is boring/sleep-inducing, worse than the first title."
+  },
+  {
+    "q0": 44980484,
+    "q11": -2,
+    "q12": "Meta heavily favors ‘Qun’ faction at start; balance skewed."
+  },
+  {
+    "q0": 44980428,
+    "q9": -1,
+    "q10": "Stamina is somewhat low, slowing progress.",
+    "q31": 1,
+    "q32": "Considered more generous than similar titles."
+  },
+  {
+    "q0": 44980357,
+    "q1": true,
+    "q2": "Perceived political/ideological messaging inserted into narrative; disrespect to historical figures.",
+    "q41": "Narrative criticized for forced ‘grand narrative’ and authorial bias."
+  },
+  {
+    "q0": 44980270,
+    "q31": -2,
+    "q32": "Promised ‘1000 pulls’ feel misleading; not granted upfront."
+  },
+  {
+    "q0": 44980191,
+    "q31": -1,
+    "q32": "‘1000 pulls’ spread over long time; without strong pulls, progression is hard.",
+    "q9": -1,
+    "q10": "Difficulty spikes if you don’t pull good units."
+  },
+  {
+    "q0": 44980004,
+    "q31": -2,
+    "q32": "Welfare is poor; first day meta grants high-power units to many, creating pressure.",
+    "q25": -2,
+    "q26": "Very low perceived rates; early high-power unit availability increases pay pressure.",
+    "q29": -2,
+    "q30": "Looks like a rolling-server, heavy monetization game with gatekeeping by power and level."
+  },
+  {
+    "q0": 44979994,
+    "q31": -2,
+    "q32": "Sign-in rewards are tiny and even limited in quantity; early story is too long."
+  },
+  {
+    "q0": 44979868,
+    "q9": -2,
+    "q10": "Progression is gated at every turn (‘everything is locked’)."
+  },
+  {
+    "q0": 44979669,
+    "q31": -1,
+    "q32": "Rewards concentrated in stages and limited-time; login ‘god general’ choice restricted by faction slots.",
+    "q41": "Cannot repeatedly choose same faction for login reward; faction cap blocks building a complete lineup."
+  },
+  {
+    "q0": 44979768,
+    "q29": -2,
+    "q30": "Perceived as a ‘re-skin to harvest whales’; encourages fast spending."
+  },
+  {
+    "q0": 44979639,
+    "q31": 1,
+    "q32": "Welfare considered decent; not very grindy."
+  },
+  {
+    "q0": 44979440,
+    "q13": -1,
+    "q14": "Game pushes you to focus on a single team; missing a few key cards blocks progress.",
+    "q41": "Core gameplay feels monotonous despite decent gacha."
+  },
+  {
+    "q0": 44979384,
+    "q7": -1,
+    "q8": "Systems like ‘strategy pouches’ feel useless; less strategic than the first game."
+  },
+  {
+    "q0": 44979379,
+    "q4": -1,
+    "q5": "Poor hit impact compared to the first game; character designs lack masculinity.",
+    "q41": "Art direction criticized (overly ‘pretty’ male models)."
+  },
+  {
+    "q0": 44979169,
+    "q29": -2,
+    "q30": "Top ranking implies pay-to-win dominance."
+  },
+  {
+    "q0": 44979105,
+    "q31": -2,
+    "q32": "‘1000 pulls’ promotion lacks sincerity; feels like bait."
+  },
+  {
+    "q0": 44979091,
+    "q9": -1,
+    "q10": "Overly grindy for a card game."
+  },
+  {
+    "q0": 44979085
+  },
+  {
+    "q0": 44979058,
+    "q25": -2,
+    "q26": "Gacha probability feels suffocatingly low; poor value for pulls."
+  },
+  {
+    "q0": 44979009,
+    "q31": -2,
+    "q32": "Welfare is stingy; often stuck on main story.",
+    "q9": -1,
+    "q10": "Frequently blocked on story progression."
+  },
+  {
+    "q0": 44978995
+  },
+  {
+    "q0": 44978983,
+    "q27": -1,
+    "q28": "Paying made the game ‘very fun’ while 0-spend struggled and needed help.",
+    "q29": -1,
+    "q30": "Spending noticeably improves experience and access."
+  },
+  {
+    "q0": 44978693
+  },
+  {
+    "q0": 44978689,
+    "q33": true,
+    "q34": "Three Kingdoms IP with heavy otome-style narrative.",
+    "q35": -1,
+    "q36": "Story feels like otome text pasted onto Three Kingdoms, disappointing to some."
+  },
+  {
+    "q0": 44978600,
+    "q29": -2,
+    "q30": "‘Half-price recharge’ is meaningless if everyone has it; feels like marketing gimmick."
+  },
+  {
+    "q0": 44978562,
+    "q3": "Turn-based with field buffs that can restrict skills to basic attacks.",
+    "q4": -2,
+    "q5": "Non-spenders get one-shotted; restrictive field and team-binding mechanics feel unfair.",
+    "q6": "Team link/bond bonuses tied to specific teammates; forced-normal-attack field effects.",
+    "q7": -2,
+    "q8": "Strategy is a façade; restrictive mechanics and stat checks dominate.",
+    "q29": -2,
+    "q30": "Feels like a P2W numbers game masquerading as strategy."
+  },
+  {
+    "q0": 44978431
+  },
+  {
+    "q0": 44966725,
+    "q31": -2,
+    "q32": "‘1000 pulls’ is misleading; weak rewards overall.",
+    "q9": -1,
+    "q10": "Even day-one story can hard-block progress.",
+    "q21": -2,
+    "q22": "Invisible/‘dead’ operations team; poor event/ops presence."
+  },
+  {
+    "q0": 44978391,
+    "q31": 2,
+    "q32": "Generous rewards; heroes given readily; cheap monthly pass.",
+    "q25": 1,
+    "q26": "Monetization is inexpensive (e.g., 15 RMB monthly).",
+    "q29": 1,
+    "q30": "Low pressure; can play leisurely without rushing."
+  },
+  {
+    "q0": 44978194,
+    "q4": -1,
+    "q5": "Lacks a sense of player participation; 2D-only art and no standout features.",
+    "q41": "No 3D art; feels like watching rather than playing."
+  },
+  {
+    "q0": 44978107,
+    "q25": -1,
+    "q26": "Multiple orange units pulled but none with ‘1-fire’; feels unusable.",
+    "q9": -1,
+    "q10": "Cannot progress due to weak pulls."
+  },
+  {
+    "q0": 44978010,
+    "q1": true,
+    "q2": "Requests for shirtless male skin (sexualized/nudity) and desire for male healer role.",
+    "q41": "Players want male healer options."
+  },
+  {
+    "q0": 44977918,
+    "q1": true,
+    "q2": "BL/yaoi undertones (Cao Cao and Yuan Shao).",
+    "q31": -1,
+    "q32": "‘1000 pulls’ spread over a month; little immediate value.",
+    "q9": -1,
+    "q10": "Severe progression gating without spending; awakening needed or units feel useless."
+  },
+  {
+    "q0": 44977750,
+    "q15": "Equipment and relic (‘wind object’) management tied to formations vs. heroes.",
+    "q17": -1,
+    "q18": "Current system causes re-equipping friction when switching teams; suggests formation-bound gear to simplify.",
+    "q41": "Detailed suggestion to bind gear to formations and prevent accidental dismantle."
+  },
+  {
+    "q0": 44977361,
+    "q1": true,
+    "q2": "Extensive BL/‘male-moe’ content; feminized male cast.",
+    "q33": true,
+    "q34": "Three Kingdoms IP with heavy BL/feminized reinterpretation.",
+    "q35": -2,
+    "q36": "Perceived as egregiously misusing the historical IP."
+  },
+  {
+    "q0": 44977525,
+    "q7": 1,
+    "q8": "There is some strategy but not overly complex; accessible for new players.",
+    "q41": "Male characters lack masculinity in art."
+  },
+  {
+    "q0": 44977506,
+    "q33": true,
+    "q34": "Three Kingdoms historical IP with new art/modeling.",
+    "q35": -2,
+    "q36": "Art/modeling fails to meet expectations; seen as ‘ruining’ the IP."
+  },
+  {
+    "q0": 44977493,
+    "q1": true,
+    "q2": "BL/‘腐’ narrative elements; male characters overly covered (commentary on sexualization).",
+    "q33": true,
+    "q34": "Three Kingdoms with named writer; otome/BL-leaning ties.",
+    "q35": -1,
+    "q36": "Narrative tone and character presentation clash with expectations for the IP."
+  },
+  {
+    "q0": 44965375,
+    "q33": true,
+    "q34": "Three Kingdoms story focus (Cao Cao, Yuan Shao, Yuan Shu).",
+    "q35": 1,
+    "q36": "Main story is well-written with clear characterization and good pacing."
+  },
+  {
+    "q0": 44977479,
+    "q4": 1,
+    "q5": "More interesting level design and less ‘fast-food’ pacing than the first game.",
+    "q7": 1,
+    "q8": "Stage design feels engaging; requires some thought."
+  }
+]

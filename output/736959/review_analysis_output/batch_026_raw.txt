@@ -1,0 +1,581 @@
+[
+  {
+    "q0": 44650193,
+    "q9": -2,
+    "q10": "Described as very grindy.",
+    "q29": -2,
+    "q30": "Called the game pay-heavy ('grindy and monetized')."
+  },
+  {
+    "q0": 44650047,
+    "q4": 1,
+    "q5": "Early impressions are fun; team composition matters.",
+    "q6": "Team composition/synergy significantly affects outcomes.",
+    "q7": 1,
+    "q8": "Lost to lower-rarity (blue) heroes, highlighting synergy over rarity.",
+    "q11": 1,
+    "q12": "Lower-rarity units can outperform via proper setup.",
+    "q13": 1,
+    "q14": "Emphasizes importance of lineup combinations."
+  },
+  {
+    "q0": 44649957,
+    "q9": -2,
+    "q10": "Stuck at chapter 7 on day 1; stamina is low and awakening is costly.",
+    "q31": -1,
+    "q32": "No free pulls in test except via tasks/events.",
+    "q41": "Low stamina; awakening a character is resource-intensive."
+  },
+  {
+    "q0": 44649829,
+    "q9": -2,
+    "q10": "Could not pass 7-10 without help; ran out of resources by day 2.",
+    "q27": -2,
+    "q28": "States that low/mini spenders and F2P cannot keep playing smoothly.",
+    "q29": -2,
+    "q30": "Very few welfare rewards; pressure to rely on others or spend.",
+    "q31": -2,
+    "q32": "Says welfare is scarce and resources dry up by the second day.",
+    "q41": "Had to rely on others’ assistance to pass stage 7-10."
+  },
+  {
+    "q0": 44648889,
+    "q9": -1,
+    "q10": "Long development/upgrade cycles and low stamina.",
+    "q11": -1,
+    "q12": "Low-rarity cards considered useless.",
+    "q21": 1,
+    "q22": "Developer listens to feedback and improved the latest test."
+  },
+  {
+    "q0": 44648204,
+    "q21": 2,
+    "q22": "After multiple tests, prior resource shortage was addressed; added a resonance system.",
+    "q41": "Introduced a resonance system to alleviate resource issues."
+  },
+  {
+    "q0": 44648003,
+    "q29": -1,
+    "q30": "Rewards feel deliberately stingy.",
+    "q31": -2,
+    "q32": "States welfare is too little."
+  },
+  {
+    "q0": 44647962,
+    "q6": "Requires thinking; cannot rely on brain-off play.",
+    "q7": 1,
+    "q8": "Gameplay needs planning rather than autoing.",
+    "q27": -1,
+    "q28": "F2P can only 'run alongside'; resources are barely enough."
+  },
+  {
+    "q0": 43759838,
+    "q9": 1,
+    "q10": "Progression less stuck than earlier; pushing stages is easier.",
+    "q31": 1,
+    "q32": "Welfare feels better than the first test; early game feels comfortable.",
+    "q41": "Perceived higher SSR rate but experienced repeated pulls of the same hero."
+  },
+  {
+    "q0": 44647527,
+    "q3": "Strategy-focused, likely turn-based combat.",
+    "q4": 1,
+    "q5": "Finds the strategy gameplay interesting.",
+    "q6": "Emphasis on strategic play.",
+    "q7": 1,
+    "q8": "Notes engaging strategy elements.",
+    "q41": "Mascot penguin is off-putting."
+  },
+  {
+    "q0": 44647244,
+    "q4": 1,
+    "q5": "Lowered farming difficulty improved smoothness.",
+    "q9": 1,
+    "q10": "Stage progression feels smoother after difficulty reductions.",
+    "q41": "Suggests gradually increasing challenge later."
+  },
+  {
+    "q0": 44647219,
+    "q4": 1,
+    "q5": "Overall experience is good; art is attractive.",
+    "q11": 1,
+    "q12": "Perceives hero strength as 'not bad'."
+  },
+  {
+    "q0": 44647060,
+    "q4": 2,
+    "q5": "Very addictive and highly strategic.",
+    "q6": "Strong strategic emphasis.",
+    "q7": 2,
+    "q8": "Highlights high strategy that keeps players engaged."
+  },
+  {
+    "q0": 44647043,
+    "q1": true,
+    "q2": "BL/gay romance themes in the script (CP shipping).",
+    "q3": "Classic turn-based combat with team composition.",
+    "q4": 1,
+    "q5": "Enjoys lineup-building and classic turn-based system, but dislikes the narrative tone.",
+    "q6": "Lineup composition matters in classic turn-based battles.",
+    "q7": 1,
+    "q8": "Notes strategy via lineup building."
+  },
+  {
+    "q0": 44647042,
+    "q3": "Turn-based with tactical (war-chess) elements and manual controls.",
+    "q4": 1,
+    "q5": "Second test feels better after easing heavy grind and gacha volatility.",
+    "q6": "War-chess attributes; requires manual operation.",
+    "q7": 1,
+    "q8": "More tactical than the first entry.",
+    "q9": 1,
+    "q10": "Progression and overall feel improved versus the first test.",
+    "q29": 1,
+    "q30": "Spending pressure eased compared with the first test."
+  },
+  {
+    "q0": 44646887,
+    "q4": 1,
+    "q5": "Enjoys using Sun Shangxiang; combat feels strong."
+  },
+  {
+    "q0": 44646885,
+    "q4": 1,
+    "q5": "Multiple gameplay types; overall decent for a Three Kingdoms game."
+  },
+  {
+    "q0": 44646884,
+    "q9": 1,
+    "q10": "Farming difficulty reduced; more friendly this test.",
+    "q21": 1,
+    "q22": "Another test within a month with noticeable adjustments."
+  },
+  {
+    "q0": 44646874,
+    "q29": -1,
+    "q30": "Hero development now requires more duplicates (4 for first talent), increasing cost.",
+    "q41": "Needs 4 duplicates to unlock the first talent."
+  },
+  {
+    "q0": 44646852,
+    "q4": 1,
+    "q5": "Challenging stages are well-designed and require thought.",
+    "q6": "Brain-engaging stages; auto cannot clear all.",
+    "q7": 1,
+    "q8": "Difficult stages designed to require planning.",
+    "q9": 1,
+    "q10": "Story and stage flow are smooth.",
+    "q31": 2,
+    "q32": "On day 1 obtained about 120-130 pulls; perceived good rates.",
+    "q41": "Stamina feels insufficient; suggests increasing stamina income."
+  },
+  {
+    "q0": 44646801,
+    "q3": "Turn-based combat with environmental interactions.",
+    "q4": 1,
+    "q5": "Finds environmental interaction creative.",
+    "q6": "Environmental interaction within battles.",
+    "q7": 1,
+    "q8": "New interaction adds strategic variety.",
+    "q41": "3D characters lack the visual impact of 2D; some details need polish."
+  },
+  {
+    "q0": 44646647,
+    "q3": "Turn-based battles influenced by positioning and lineup synergy.",
+    "q4": 2,
+    "q5": "Enjoys outplaying stronger teams through strategy.",
+    "q6": "Distinct role skills; positioning; lineup synergy enables 'weak beating strong'.",
+    "q7": 2,
+    "q8": "Emphasizes positioning and composition determining outcomes.",
+    "q31": 2,
+    "q32": "Says free pulls and items are ample for early progression."
+  },
+  {
+    "q0": 44646535,
+    "q4": 2,
+    "q5": "Strategy gameplay feels distinctive and well-crafted.",
+    "q6": "Strong strategic focus versus genre peers.",
+    "q7": 2,
+    "q8": "Feels highly engaging and thoughtfully designed."
+  },
+  {
+    "q0": 44646525,
+    "q4": 2,
+    "q5": "Burns the brain with lineup/skill planning; very rewarding on success.",
+    "q6": "Lineup and skill synergy; rich hero growth system.",
+    "q7": 2,
+    "q8": "Requires careful planning each battle; high sense of achievement."
+  },
+  {
+    "q0": 44645857,
+    "q13": -1,
+    "q14": "Complains about too few heroes in the second test, limiting team options.",
+    "q41": "Requests adding more heroes (e.g., reuse data from 'Codename Hero')."
+  },
+  {
+    "q0": 44645324,
+    "q4": -1,
+    "q5": "3D presentation is worse than the first game."
+  },
+  {
+    "q0": 44645303,
+    "q4": -1,
+    "q5": "3D battle models and ultimate effects feel rough compared to 2D; asks for optimization.",
+    "q41": "Requests better 3D modeling, skill cut-ins, and character showcase screens."
+  },
+  {
+    "q0": 44644582,
+    "q6": "Three-unit bond synergy used to clear main story day 1.",
+    "q7": 1,
+    "q8": "Bond mechanics impact performance.",
+    "q9": 1,
+    "q10": "Cleared main story day 1.",
+    "q11": -1,
+    "q12": "Lü Bu is very strong for pushing stages, suggesting imbalance."
+  },
+  {
+    "q0": 44644496,
+    "q6": "Strategy-focused gameplay; emphasizes lineup research.",
+    "q7": 1,
+    "q8": "Wants attention shifted from grind to strategy.",
+    "q15": "Tower/sweep-style grind loops for resources.",
+    "q17": -1,
+    "q18": "Asks to reduce meaningless tower sweeping and streamline growth.",
+    "q41": "Requests simplifying the growth system and reducing repetitive chores."
+  },
+  {
+    "q0": 44644411,
+    "q41": "Complains about male:female character ratio skewed toward males and a female-oriented narrative tone."
+  },
+  {
+    "q0": 44644087,
+    "q41": "Advertising copy feels region-specific/off-putting ('Chengdu special supply?')."
+  },
+  {
+    "q0": 44643953,
+    "q41": "Asks whether the protagonist will have future design updates."
+  },
+  {
+    "q0": 44642828"
+  },
+  {
+    "q0": 44643768,
+    "q29": -1,
+    "q30": "Says welfare does not match the banner setup (poor value).",
+    "q31": -1,
+    "q32": "Perceives misalignment between rewards and gacha needs."
+  },
+  {
+    "q0": 44643618,
+    "q41": "Suggests getting influencer 'Sugar Very Sweet' as spokesperson."
+  },
+  {
+    "q0": 44643356,
+    "q41": "Art style is off-putting but still hopeful due to fast testing cadence."
+  },
+  {
+    "q0": 44643135,
+    "q41": "Criticizes the opening story as shallow, cliché 'youth' romance from an adult gaze."
+  },
+  {
+    "q0": 44643091,
+    "q41": "Selected female protagonist but control defaults to male."
+  },
+  {
+    "q0": 44643003,
+    "q41": "Suggests making it open world with constellation-like dupes."
+  },
+  {
+    "q0": 44642932,
+    "q41": "Penguin-like bird companion appears abruptly; art could be improved; scenery is nice."
+  },
+  {
+    "q0": 44642910,
+    "q4": -2,
+    "q5": "Feels like a 20-year-old web game; poor 3D models; mascot choice criticized.",
+    "q41": "Penguin mascot seen as a poor choice."
+  },
+  {
+    "q0": 44642888,
+    "q41": "Questions testing quality after seeing the initial in-game state."
+  },
+  {
+    "q0": 44642443,
+    "q39": -2,
+    "q40": "Unable to download the game."
+  },
+  {
+    "q0": 44640869,
+    "q41": "Complains about lacking an activation code this time and asks for a refund of prior payment."
+  },
+  {
+    "q0": 44639492,
+    "q4": -1,
+    "q5": "Almost every stage requires calculations; feels tedious.",
+    "q7": 1,
+    "q8": "Stages demand precise planning, reminiscent of classic grind.",
+    "q41": "Gives 'Dream of the Westward Journey' vibe."
+  },
+  {
+    "q0": 44639219,
+    "q4": -1,
+    "q5": "Stage pushing feels exhausting.",
+    "q9": -1,
+    "q10": "Progress requires too much effort."
+  },
+  {
+    "q0": 44636894,
+    "q29": -2,
+    "q30": "Accuses the game of being a reskinned cash grab of a 'broken IP' with no innovation.",
+    "q41": "Calls out producer and claims asset reuse."
+  },
+  {
+    "q0": 44636060"
+  },
+  {
+    "q0": 44636057,
+    "q41": "Claims they cannot access/play the test at all."
+  },
+  {
+    "q0": 44635690,
+    "q41": "Joke about a 'Xiao' figure becoming a game mascot."
+  },
+  {
+    "q0": 44635605,
+    "q1": true,
+    "q2": "BL/yaoi content ('腐游').",
+    "q4": -1,
+    "q5": "States it's worse than the first game."
+  },
+  {
+    "q0": 44635336"
+  },
+  {
+    "q0": 44634837,
+    "q41": "Skeptical; cites 'Hundred Generals' as the best similar game despite being shut down."
+  },
+  {
+    "q0": 44625883,
+    "q41": "Questions whether the 'no useless heroes' design can be maintained."
+  },
+  {
+    "q0": 44623525,
+    "q41": "Encourages continuing a female-oriented direction."
+  },
+  {
+    "q0": 44618299,
+    "q3": "Turn-based stages allow in-level save/load or rewind.",
+    "q4": 1,
+    "q5": "Praises the ability to reload within a stage.",
+    "q6": "In-stage reload/rewind to retry tactics.",
+    "q7": 1,
+    "q8": "Rewind improves tactical experimentation."
+  },
+  {
+    "q0": 44613562,
+    "q41": "Female generals’ art lacks the desired heroic, mature feel."
+  },
+  {
+    "q0": 44604466,
+    "q29": -1,
+    "q30": "Accuses the project of swapping games to 'cash in' again."
+  },
+  {
+    "q0": 44598781,
+    "q23": true,
+    "q24": "First test had a 50-pull pity; the first featured SSR did not off-rate."
+  },
+  {
+    "q0": 44587199,
+    "q15": "Growth tasks that grant/boost specific heroes (e.g., Cao Cao, Cai Wenji, Sun Kailang, Gan Ning).",
+    "q16": false,
+    "q41": "Wishes Lü Bu were included in the growth task lineup."
+  },
+  {
+    "q0": 44582037,
+    "q41": "Claims the game is not aimed at male players."
+  },
+  {
+    "q0": 44575267,
+    "q41": "Asks when the next test is; felt the beta ended too soon."
+  },
+  {
+    "q0": 44575114,
+    "q41": "Presentation (graphics/UI/effects) feels a decade out-of-date."
+  },
+  {
+    "q0": 44352218,
+    "q4": -1,
+    "q5": "Heavy manual play for main and resource stages makes it tiring.",
+    "q9": -1,
+    "q10": "Progress punished by high respec/experiment cost; no resource refunds if you level the wrong character.",
+    "q41": "Requests resource refunds/respec to reduce trial-and-error cost."
+  },
+  {
+    "q0": 44533945,
+    "q1": true,
+    "q2": "Political themes: depicts corrupt officials and suffering commoners.",
+    "q3": "Standard turn-based combat similar to genre norms.",
+    "q4": 0,
+    "q5": "Strategy improved over the first game but not distinctive versus other turn-based titles.",
+    "q41": "Requests cinematic ultimate animations for high-star characters; praises the historical-political narrative angle."
+  },
+  {
+    "q0": 44521633,
+    "q29": -2,
+    "q30": "Calls it a 'blood-sucking' game and criticizes the art style’s audience fit."
+  },
+  {
+    "q0": 44519217,
+    "q41": "Praises character art, especially Zhang Chunhua."
+  },
+  {
+    "q0": 44500205,
+    "q3": "Manual play guided by tips and stage objectives.",
+    "q4": 1,
+    "q5": "Manual mainline play feels good.",
+    "q6": "Uses stage hints/objectives to guide clears.",
+    "q7": 1,
+    "q8": "Objectives-based stages require planning.",
+    "q9": 1,
+    "q10": "Meeting recommended levels makes stages generally passable."
+  },
+  {
+    "q0": 44497648"
+  },
+  {
+    "q0": 44480624,
+    "q41": "Thinks Sun Shangxiang’s portrait is the best-looking."
+  },
+  {
+    "q0": 44479750,
+    "q39": -2,
+    "q40": "Official site provides an outdated client that cannot be updated."
+  },
+  {
+    "q0": 44470966,
+    "q41": "Feels like an otome (female-oriented) game."
+  },
+  {
+    "q0": 44470219,
+    "q41": "Female-oriented art style; criticizes male designs as effeminate."
+  },
+  {
+    "q0": 44461163,
+    "q41": "Cover art resembles 'Song of Time'."
+  },
+  {
+    "q0": 44461157,
+    "q13": 1,
+    "q14": "Mentions 'no useless cards' design from the first game; hopes it continues."
+  },
+  {
+    "q0": 44432499,
+    "q4": -1,
+    "q5": "Auto-battle ineffective; stages add special requirements forcing manual play.",
+    "q6": "Special stage conditions; manual play required; six-faction system added.",
+    "q7": 1,
+    "q8": "Objective-based stages require thought but feel forced.",
+    "q31": -2,
+    "q32": "Calls resources the hardest to obtain among similar games.",
+    "q41": "Criticizes female-oriented targeting, 'pretty boy' art, and a six-faction split."
+  },
+  {
+    "q0": 44458839,
+    "q41": "Default/avatar assets look cheap."
+  },
+  {
+    "q0": 44447748"
+  },
+  {
+    "q0": 44439654,
+    "q6": "Varied stage win conditions; auto often fails; some bosses roam the map.",
+    "q7": 1,
+    "q8": "Thoughtful stage design requires manual tactics.",
+    "q4": 1,
+    "q5": "Mainline shows care in design with diverse objectives."
+  },
+  {
+    "q0": 44436641"
+  },
+  {
+    "q0": 44432206,
+    "q9": -1,
+    "q10": "Expects grindy progression based on prior operations.",
+    "q29": -2,
+    "q30": "Anticipates heavy grind and monetization."
+  },
+  {
+    "q0": 44359733,
+    "q1": true,
+    "q2": "Otome aesthetics and BL/shipping elements.",
+    "q4": -2,
+    "q5": "Auto-battle is ineffective; stages deliberately add conditions that force manual play.",
+    "q6": "Special mainline conditions that require manual clears; auto performs poorly.",
+    "q7": 1,
+    "q8": "Objective-based design increases tactical requirements.",
+    "q31": -2,
+    "q32": "Welfare far worse than the predecessor; seven-day event requires paying for all packs.",
+    "q29": -2,
+    "q30": "Events/packs push spending; freebies reduced."
+  },
+  {
+    "q0": 44430815,
+    "q4": -1,
+    "q5": "Perceives graphics quality worse than the first game."
+  },
+  {
+    "q0": 44413452,
+    "q41": "Complains that Zhuge Liang and other Shu portraits look worse than in the first game."
+  },
+  {
+    "q0": 44394360,
+    "q1": true,
+    "q2": "BL/gay romance between male historical figures (e.g., Cao Cao and Yuan Shao)."
+  },
+  {
+    "q0": 44393874,
+    "q1": true,
+    "q2": "Otome-style (female-oriented romance) storytelling."
+  },
+  {
+    "q0": 44390377,
+    "q1": true,
+    "q2": "Declares the game an otome title.",
+    "q41": "Criticizes using the legacy brand while shifting to otome."
+  },
+  {
+    "q0": 44384715,
+    "q41": "Could not obtain an activation code before the test ended."
+  },
+  {
+    "q0": 44370856,
+    "q27": -2,
+    "q28": "Says non-spenders cannot clear even basic mainline stages.",
+    "q29": -2,
+    "q30": "Feels mandatory to spend to progress.",
+    "q9": -2,
+    "q10": "Cannot clear normal mainline without paying."
+  },
+  {
+    "q0": 44366381,
+    "q41": "Art style considered worse than in the first game."
+  },
+  {
+    "q0": 44365195,
+    "q41": "Accuses the art of being AI-generated."
+  },
+  {
+    "q0": 44362089,
+    "q1": true,
+    "q2": "Sexualized fanservice (showing skin) and BL pandering.",
+    "q41": "Predicts failure if relying on fanservice for a '腐' audience."
+  },
+  {
+    "q0": 44341961,
+    "q1": true,
+    "q2": "Gay/BL narrative and 'femboy' art style.",
+    "q25": -2,
+    "q26": "Calls out 68 RMB per 10-pull (quoted as '2.6-discount of 68'), implying poor value."
+  }
+]

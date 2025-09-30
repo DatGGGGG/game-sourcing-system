@@ -1,0 +1,507 @@
+[
+  {
+    "q0": 44991999,
+    "q1": true,
+    "q2": "Homoerotic/BL subtext that conflicts with a male-targeted positioning."
+  },
+  {
+    "q0": 44958035,
+    "q1": true,
+    "q2": "Homoerotic/BL fanservice ('selling boy-love').",
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms historical IP (Cao Cao, Qiao sisters, Yuan Shao, etc.).",
+    "q35": -2,
+    "q36": "Reviewer says it lacks Three Kingdoms flavor vs. the first game and focuses on BL/OC/renamed generals."
+  },
+  {
+    "q0": 44991814,
+    "q3": "Turn-based team combat with real-time PvP modes; multiple lineups required for different systems (armory, beacon).",
+    "q4": -1,
+    "q5": "Real-time PvP is annoying and multiple systems force building many lineups.",
+    "q6": "Mixed-faction lineup building; faction purity is weak; multi-team requirements for Armory/Beacon; real-time PvP.",
+    "q7": 1,
+    "q8": "Mixed comps outperform mono-faction and different modes need different teams, adding planning depth.",
+    "q9": -1,
+    "q10": "Armory and Beacon modes create hard progression gates; multi-team demands slow progress.",
+    "q25": -2,
+    "q26": "High draw cost and many units require at least one dupe ('1 flame') to feel strong.",
+    "q27": -1,
+    "q28": "Playable with lots of time, otherwise feels pay-to-win.",
+    "q29": -2,
+    "q30": "Either invest significant money/time or fall behind."
+  },
+  {
+    "q0": 44991606
+  },
+  {
+    "q0": 44991420,
+    "q6": "Overly complex systems/mechanics for a casual experience.",
+    "q7": 1,
+    "q8": "Complexity implies depth but deters casual play."
+  },
+  {
+    "q0": 44991295,
+    "q27": 1,
+    "q28": "You can play without paying if you progress slowly.",
+    "q29": -1,
+    "q30": "Some monetization pressure is felt but not mandatory."
+  },
+  {
+    "q0": 44991040,
+    "q41": "Wrongful/unclear account ban after two days of play."
+  },
+  {
+    "q0": 44991028
+  },
+  {
+    "q0": 44990940
+  },
+  {
+    "q0": 44990869,
+    "q6": "Main quests/achievements require thinking; very guided daily task flow.",
+    "q7": 1,
+    "q8": "Achievement tasks need planning/logic.",
+    "q41": "Art/portraits feel misaligned with a male-targeted audience; daily routine feels over-prescribed."
+  },
+  {
+    "q0": 44990769
+  },
+  {
+    "q0": 44990378,
+    "q3": "Turn-based combat with order sequencing, bond-chain triggers, and dynamic skill condition checks.",
+    "q4": 2,
+    "q5": "New systems add engagement without excessive burden; visuals and combat presentation are strong.",
+    "q6": "Action order planning; bond/affinity chain triggers; skills with dynamic conditional logic.",
+    "q7": 1,
+    "q8": "Team-building and conditional triggers encourage thoughtful play.",
+    "q27": 1,
+    "q28": "Mainline and daily resource flow allow building teams without heavy spending.",
+    "q29": 1,
+    "q30": "Does not feel pay-forced; welfare and duplicate utility lessen pressure.",
+    "q31": 1,
+    "q32": "Fast mainline+dailies, dupes used for star/skill, and frequent limited-time welfare."
+  },
+  {
+    "q0": 44990375,
+    "q3": "Turn-based card battler with PvE auto and a real-time PvP arena.",
+    "q4": -1,
+    "q5": "Real-time PvP has slow turns and poor experience for a rolling, gacha, turn-based game.",
+    "q6": "PvE largely auto-resolvable; real-time PvP matches with slow opponent actions.",
+    "q7": 0,
+    "q8": "Strategy is minimal in PvE once numbers are up; PvP is more about pacing than depth."
+  },
+  {
+    "q0": 44990247,
+    "q41": "Feels like a half-finished release."
+  },
+  {
+    "q0": 44990241
+  },
+  {
+    "q0": 44990156,
+    "q39": -2,
+    "q40": "Patch/data download hangs at 'searching update resources', burning large amounts of data."
+  },
+  {
+    "q0": 44990147,
+    "q4": -1,
+    "q5": "PvP has the usual issues (win/lose swinginess).",
+    "q6": "Slightly more strategy in PvE stages; team-building feels chaotic; PvP win-loss volatility.",
+    "q7": 0,
+    "q8": "Some tactics exist in PvE, but team-building coherence is weak and PvP lacks meaningful depth."
+  },
+  {
+    "q0": 44358050,
+    "q23": true,
+    "q24": "SSR has a pity guarantee; SR guaranteed per 10-pull.",
+    "q25": -1,
+    "q26": "Draws felt expensive during testing, though rates improved at launch.",
+    "q41": "Too many male cards vs. female; no skins or awakening arts; cannot reset upgrades; poor auto-battle; intrusive chat button; launch still lacks visual variety."
+  },
+  {
+    "q0": 44990091,
+    "q41": "Stage 7 'Death Edict' mechanic bug—healing still applies despite supposed block."
+  },
+  {
+    "q0": 44989827,
+    "q41": "World chat report and block features ineffective; moderation tools not working as expected."
+  },
+  {
+    "q0": 44989699,
+    "q1": true,
+    "q2": "Effeminate/gay-coded male characters and sexualized expectations not met for female characters.",
+    "q31": -2,
+    "q32": "Promised large free draws (e.g., 1000) not delivered; stingy rewards.",
+    "q41": "Primarily idle/AFK feel; character appeal is weak compared to the first game."
+  },
+  {
+    "q0": 44989578,
+    "q3": "Auto-battle focused turn-based combat; formation and attack axis mixing.",
+    "q4": 0,
+    "q5": "Auto-battle is solid but design leans towards future numeric steamrolls.",
+    "q6": "Shallow mix of formation setup and horizontal/vertical attack patterns.",
+    "q7": 0,
+    "q8": "Some structure but limited variability in roles leads to shallow tactical choices.",
+    "q41": "Likely heavy future power creep and frequent new servers."
+  },
+  {
+    "q0": 44989550,
+    "q23": true,
+    "q24": "There is a pity for high rarity; reviewer pulled before hitting pity."
+  },
+  {
+    "q0": 44989428
+  },
+  {
+    "q0": 44989421,
+    "q9": -1,
+    "q10": "Stuck two days at Beacon Tower floor 160."
+  },
+  {
+    "q0": 44989414
+  },
+  {
+    "q0": 44989398,
+    "q4": -2,
+    "q5": "Combat feels very poor compared to expectations.",
+    "q29": -2,
+    "q30": "Reviewer calls it pure cash-grab.",
+    "q41": "Story and character models are also criticized as very weak."
+  },
+  {
+    "q0": 44989347,
+    "q41": "Account suddenly logged out and cannot log back in."
+  },
+  {
+    "q0": 44989315,
+    "q41": "Player avatar lacks presence/usage; narrative mostly follows Cao Cao; no protagonist portrait."
+  },
+  {
+    "q0": 44989297,
+    "q4": -1,
+    "q5": "Gameplay/combat, story, and art all feel worse than the first game."
+  },
+  {
+    "q0": 44989275,
+    "q6": "Dungeons require heavy manual strategy.",
+    "q7": 1,
+    "q8": "High cognitive demand for solving stages (feels like an exam)."
+  },
+  {
+    "q0": 44989273,
+    "q11": 1,
+    "q12": "Cao Cao is strong despite lower rarity; reviewer believes there are no useless heroes."
+  },
+  {
+    "q0": 44989266,
+    "q41": "Excessive server splitting (e.g., 73 servers within days)."
+  },
+  {
+    "q0": 44989210,
+    "q41": "Story quality issues; 'content-driven card' direction seen as a trap."
+  },
+  {
+    "q0": 44989180,
+    "q41": "A mode is lengthy, lacks auto, and often throws data errors."
+  },
+  {
+    "q0": 44989052,
+    "q7": -1,
+    "q8": "Manual strategy feels superfluous and boring."
+  },
+  {
+    "q0": 44988946,
+    "q6": "Faction/lineup planning; transitional '4-heroines' comp; single-target vs. AoE role choices.",
+    "q7": 1,
+    "q8": "Advises specific early comps and hero choices, indicating meaningful build planning.",
+    "q27": 1,
+    "q28": "Gives workable F2P/micro-spend routes and hero picks to progress efficiently."
+  },
+  {
+    "q0": 44988934,
+    "q41": "Launch black screen/optimization issues; permanent 50% off pack is appealing."
+  },
+  {
+    "q0": 44988927,
+    "q3": "Turn-based with auto-battle.",
+    "q4": 1,
+    "q5": "Matches desired genre: Three Kingdoms, bonds/factions, turn-based auto, low grind.",
+    "q6": "Bond and faction synergies; auto-battle support.",
+    "q7": 1,
+    "q8": "Presence of bond/faction systems supports strategic team-building."
+  },
+  {
+    "q0": 44988911,
+    "q31": -2,
+    "q32": "Marketing of '1000 pulls' feels deceptive—only a few tickets are actually given."
+  },
+  {
+    "q0": 44960613,
+    "q29": -2,
+    "q30": "Requires eight duplicates to fully break through; battle pass split into stages to buy.",
+    "q41": "Battle pass cannot be purchased in full at once; staged monetization."
+  },
+  {
+    "q0": 44988862,
+    "q4": -1,
+    "q5": "PvP matchmaking feels like bots and forces alternating wins; PvE is okay but stamina-gated.",
+    "q6": "Lineup strategy exists; PvP matching issues; PvE constrained by stamina and frequent gates.",
+    "q7": 0,
+    "q8": "Some lineup tactics, but overall systems feel shallow due to matching and gating.",
+    "q9": -1,
+    "q10": "Frequent progression gates and stamina purchases needed.",
+    "q29": -1,
+    "q30": "Pressure to buy stamina to keep playing."
+  },
+  {
+    "q0": 44988817,
+    "q1": true,
+    "q2": "Homoerotic/BL scenes between male characters (e.g., Cao and Yuan).",
+    "q41": "Device overheating; protagonist rarely appears; perceived low gacha rates."
+  },
+  {
+    "q0": 44988613,
+    "q4": -1,
+    "q5": "Combat feels like raw power race; manual skill tapping is tedious.",
+    "q6": "Manual skill timing in certain stages.",
+    "q7": -1,
+    "q8": "Strategy sections feel poorly designed and annoying.",
+    "q9": -1,
+    "q10": "Sheer number of difficult stages leads to frequent stalls; low perceived drop rates.",
+    "q41": "Protagonist from the first game is missing; weaker art direction than 1."
+  },
+  {
+    "q0": 44988534
+  },
+  {
+    "q0": 44988520,
+    "q9": -1,
+    "q10": "Heavy early grind then stamina depletion; inactivity led to guild kick."
+  },
+  {
+    "q0": 44988512
+  },
+  {
+    "q0": 44988446,
+    "q9": -1,
+    "q10": "Materials (gold, etc.) are heavily gated; must wait for handouts, no reliable farming.",
+    "q31": -1,
+    "q32": "Resource distribution feels stingy and inconsistent."
+  },
+  {
+    "q0": 44988408,
+    "q41": "Wishlist system repeatedly gives the same hero (Lu Xun) instead of the selected target (Zhou Yu)."
+  },
+  {
+    "q0": 44988378,
+    "q9": -1,
+    "q10": "Frequent stage walls with punishing designs."
+  },
+  {
+    "q0": 44988342,
+    "q9": -1,
+    "q10": "Progress stalls after a few stages; weak positive feedback.",
+    "q7": -1,
+    "q8": "Mandatory manual stages feel poorly designed."
+  },
+  {
+    "q0": 44988310,
+    "q41": "Sun Ce portrait criticized (likened to Zhang He); requests art revision."
+  },
+  {
+    "q0": 44988283,
+    "q29": 1,
+    "q30": "Permanent 50% off reduces perceived spending pressure.",
+    "q41": "Daily content runs out quickly; wants more gameplay variety."
+  },
+  {
+    "q0": 44988205,
+    "q41": "Low engagement; boredom by day three."
+  },
+  {
+    "q0": 44988120,
+    "q41": "Co-op 'Xingyuan Pavilion' requires scheduling; asks for soloable variant."
+  },
+  {
+    "q0": 44988116,
+    "q41": "Early recruitment limited to one WeChat account; no account switching."
+  },
+  {
+    "q0": 44988016
+  },
+  {
+    "q0": 44987949,
+    "q41": "Suspected rating manipulation (scores fluctuating strangely)."
+  },
+  {
+    "q0": 44987945,
+    "q1": true,
+    "q2": "BL/腐 elements and effeminate male designs in narrative and art.",
+    "q25": -2,
+    "q26": "10-pull costs 2000 Jade, pity at 50 pulls (10k Jade) while rewards give tiny amounts.",
+    "q29": -2,
+    "q30": "Permanent 50% off becomes a trap; non-payers and payers alike feel forced to keep spending; systems demand duplicates/base copies.",
+    "q31": -2,
+    "q32": "Welfare is very stingy; rewards are mostly small Jade amounts.",
+    "q41": "Optimization neglected; pure stat treadmill marketed as strategy; heavy focus on ads and FOMO."
+  },
+  {
+    "q0": 44987914
+  },
+  {
+    "q0": 44987689
+  },
+  {
+    "q0": 44987604,
+    "q31": 0,
+    "q32": "Benefits and operations are average; nothing stands out.",
+    "q41": "Standard gacha loop (draw heroes and exclusive weapons); little novelty."
+  },
+  {
+    "q0": 44987587,
+    "q9": -1,
+    "q10": "Stamina is insufficient for daily activities."
+  },
+  {
+    "q0": 44987310,
+    "q29": -2,
+    "q30": "Constant prompts to purchase; stamina and awakening mats throttled.",
+    "q9": -1,
+    "q10": "Progress hampered by stamina and material gating."
+  },
+  {
+    "q0": 44987260
+  },
+  {
+    "q0": 44987185,
+    "q31": -1,
+    "q32": "Low resource income for non-spenders.",
+    "q7": -1,
+    "q8": "Mandatory manual tactics points are frustrating and unwanted."
+  },
+  {
+    "q0": 44986272,
+    "q41": "Art direction praised for national style intent but seen as surface-level; story unsatisfying; suggests deeper traditional cultural elements."
+  },
+  {
+    "q0": 44987038
+  },
+  {
+    "q0": 44341979,
+    "q1": true,
+    "q2": "Gay-coded/BL vibes; male-presenting designs in a Three Kingdoms title.",
+    "q4": -2,
+    "q5": "Combat and overall gameplay called terrible.",
+    "q41": "Alleges AI-generated art; messy writing and tone."
+  },
+  {
+    "q0": 44986825
+  },
+  {
+    "q0": 43772304,
+    "q1": true,
+    "q2": "BL/腐 undertones and effeminate tone in story/art.",
+    "q41": "Removed features vs. first game (e.g., invitation system, home/onsen); third-person Cao Cao story sidelines player avatar; art style seen as 'yin/soft'; 3D is an upgrade but overall below the first game."
+  },
+  {
+    "q0": 44986710,
+    "q41": "Story uses female-audience perspective and excessive contact logs; can skip everything."
+  },
+  {
+    "q0": 44986246,
+    "q1": true,
+    "q2": "Male-male 'selling腐' moments; partial male nudity while female characters are more covered; not an otome structure.",
+    "q41": "Target audience confusion (not truly female/otome); protagonist is a background device."
+  },
+  {
+    "q0": 44986241,
+    "q11": -1,
+    "q12": "Wei faction cards from newbie pool feel significantly weaker; arena stomps and rerolling pressure.",
+    "q41": "Starter pool encourages rerolls; dead servers likely due to early frustration."
+  },
+  {
+    "q0": 44986266,
+    "q9": -1,
+    "q10": "Stamina limits prevent finishing events; heavy costs to reach Awakening 7; feels more demanding than the first game.",
+    "q41": "Play feels more execution-heavy and less comfortable than 1."
+  },
+  {
+    "q0": 44986265,
+    "q41": "Rough character models; cannot skip battles—forced to watch."
+  },
+  {
+    "q0": 44986125,
+    "q29": -2,
+    "q30": "Monetization pushes spending even on stamina to keep pace.",
+    "q9": -1,
+    "q10": "Without buying stamina you fall behind others."
+  },
+  {
+    "q0": 44986090,
+    "q23": true,
+    "q24": "High-rarity pity exists (reviewer often only pulls at pity).",
+    "q41": "Low effective drop rates despite stated 3%; frequently hits pity."
+  },
+  {
+    "q0": 44985718,
+    "q31": -1,
+    "q32": "Benefits feel stingy vs. the first game; claims of false advertising.",
+    "q41": "Perceived false advertising; art and story weaker than 1."
+  },
+  {
+    "q0": 44985615,
+    "q31": -1,
+    "q32": "Even sign-in rewards are quantity-limited."
+  },
+  {
+    "q0": 44985499,
+    "q41": "Removal of fixed hero growth tasks increases player freedom and build diversity."
+  },
+  {
+    "q0": 44985446,
+    "q31": -2,
+    "q32": "Promised '1000 pulls' not actually delivered; seen as false promo.",
+    "q41": "Accusation of false advertising."
+  },
+  {
+    "q0": 44985371,
+    "q41": "Boss mechanic ('Dark Growth') inconsistent: first phase triggers fail; second phase absorbs kills oddly and miscalculates damage/stacks."
+  },
+  {
+    "q0": 44985365,
+    "q29": -2,
+    "q30": "Too many stamina sinks; monetization feels aggressive.",
+    "q9": -1,
+    "q10": "Progress constrained by multiple stamina-gated activities.",
+    "q41": "Feels like a reskinned previous title with greedy ops."
+  },
+  {
+    "q0": 44985361,
+    "q29": -2,
+    "q30": "Overall experience worse than the first game and monetization appears greedy."
+  },
+  {
+    "q0": 44985314,
+    "q41": "Criticism of frequent new-server (rolling server) model."
+  },
+  {
+    "q0": 44985245
+  },
+  {
+    "q0": 44985221,
+    "q9": -1,
+    "q10": "Multiple progression gates make experience frustrating."
+  },
+  {
+    "q0": 44958751,
+    "q31": -1,
+    "q32": "Welfare tied to chores (sign-ins/tasks) with little generosity.",
+    "q4": -2,
+    "q5": "Stages lack strategy and rely on enemy stat stacking; stamina gating creates frustration.",
+    "q7": -2,
+    "q8": "Reviewer states there is essentially no strategy in stage design.",
+    "q9": -1,
+    "q10": "Stamina prevents continuous play and progress.",
+    "q41": "Alleges AI-like art with dull models; cheap VFX; empty narrative; mislabeled 'high freedom'; ultimates lack CG and options."
+  }
+]

@@ -1,0 +1,593 @@
+[
+  {
+    "q0": 44971393,
+    "q27": -2,
+    "q28": "Says non-paying players should not come, implying major features are inaccessible without spending.",
+    "q29": -2,
+    "q30": "Complains about missing promised 1000 pulls and pay pressure.",
+    "q31": -2,
+    "q32": "Promised 1000 draws not delivered; free rewards perceived as very stingy."
+  },
+  {
+    "q0": 45001031,
+    "q11": -1,
+    "q12": "States Lyu Bu faction feels like a trap while Zhou Yu fire team is T0 across story, tower, and PK.",
+    "q13": -1,
+    "q14": "Implies meta is dominated by fire team; other factions underperform."
+  },
+  {
+    "q0": 45000993
+  },
+  {
+    "q0": 45000723,
+    "q31": -2,
+    "q32": "Says welfare is terrible.",
+    "q41": "Suspected AI-used illustrations; female faces look samey; poor idle animations and voice; BGM downgraded."
+  },
+  {
+    "q0": 45000709,
+    "q41": "Story and gameplay experience described as very poor compared to the first game."
+  },
+  {
+    "q0": 45000682,
+    "q13": 1,
+    "q14": "Says there are more generals and improved playability; asks for more heroes and modes.",
+    "q41": "Wants additional heroes and new gameplay modes."
+  },
+  {
+    "q0": 45000203,
+    "q6": "PvP has auto vs manual modes with same-server matching; can target-ban opponents by name. PvE is number and lineup crush.",
+    "q7": -2,
+    "q8": "Says PvE has no strategy and is pure stat/lineup crush.",
+    "q9": -2,
+    "q10": "Daily progression feels like jail due to wrong faction choice, stamina shortage, losing in PvP and failing in PvE.",
+    "q11": -2,
+    "q12": "Says lineups have no balance.",
+    "q41": "Names in PvP not masked enabling targeted bans; stamina complaints; story tone criticized."
+  },
+  {
+    "q0": 44999818,
+    "q41": "World chat flooded by scam ads and bots; frequent private spam messages; requests chat limits and filters; accuses devs of rolling servers to cash grab."
+  },
+  {
+    "q0": 44994330,
+    "q1": true,
+    "q2": "Otome/BL flavor and perceived agenda in Three Kingdoms story.",
+    "q7": -1,
+    "q8": "Early game encourages strategy but new players can overlevel and brute force; later feels more like number game.",
+    "q9": -2,
+    "q10": "Severe stamina gating and need to buy daily stamina packs to keep up.",
+    "q13": -2,
+    "q14": "Says only two viable teams: big spenders on Lyu Bu, low spenders on fire; saw no other comps in arena.",
+    "q31": -2,
+    "q32": "Free rewards thin; stamina severely limited; 1000-draw claim seen as misleading."
+  },
+  {
+    "q0": 44999783,
+    "q9": -2,
+    "q10": "Tower (Beacon platform) difficulty spike; progress blocked even after some spending.",
+    "q29": -2,
+    "q30": "Quit after spending due to difficulty and pressure to pay for progress."
+  },
+  {
+    "q0": 44999725,
+    "q4": 1,
+    "q5": "Says strategy and gacha feel okay; combat acceptable.",
+    "q7": 1,
+    "q8": "Thinks strategy is decent for a card game."
+  },
+  {
+    "q0": 44999569,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms IP (historical figures like Cao Cao and Yuan Shao).",
+    "q35": -2,
+    "q36": "Claims character portrayals do not match historical personas; story writing wastes the IP."
+  },
+  {
+    "q0": 44999265
+  },
+  {
+    "q0": 44999082,
+    "q7": -1,
+    "q8": "Says stages claim to value strategy but are mainly stat checks; need higher numbers to clear.",
+    "q9": -2,
+    "q10": "Stamina hard-gated; progress blocked by stat checks and needing multiple copies/constellations to unlock skills.",
+    "q25": -2,
+    "q26": "Early pulls okay but later draws mostly paywalled; without monthly card barely one pull a day.",
+    "q29": -2,
+    "q30": "Feels engineered by 'actuaries' to force spending; many monetization sinks and stat gates.",
+    "q31": -2,
+    "q32": "Resources scarce; 1000 draws stretched over very long time; free income very low.",
+    "q41": "Co-op help runs fail even by devs on stream; requires multiple copies to fully unlock characters."
+  },
+  {
+    "q0": 44999053,
+    "q11": -2,
+    "q12": "Tower top floors seemingly require fire burn comp to clear.",
+    "q13": -2,
+    "q14": "Implies only fire burn works at the top of the tower."
+  },
+  {
+    "q0": 44971794,
+    "q1": true,
+    "q2": "BL/gay vibe in side content; perceived agenda on cover of a mode.",
+    "q9": -2,
+    "q10": "F2P cannot progress due to stamina and resource gating; high upgrade requirements and star unlocks block progress.",
+    "q27": -2,
+    "q28": "States zero-spenders cannot continue; heavy resource and stamina gates.",
+    "q31": -2,
+    "q32": "Very stingy rewards; only one ten-pull from early chapters; gem income very low; requires soul stones and stars to unlock mechanics."
+  },
+  {
+    "q0": 44998717,
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms IP with reimagined characters (e.g., Cao Cao, Dong Zhuo).",
+    "q35": -1,
+    "q36": "Says portrayals diverge a lot from historical expectations (e.g., Cao Cao as hero savior), reducing IP authenticity.",
+    "q41": "Mixed views on art direction; some characters look worse than earlier versions."
+  },
+  {
+    "q0": 44998713,
+    "q4": 1,
+    "q5": "Notes more varied strategy than typical number-focused games, though personally not hooked.",
+    "q7": 1,
+    "q8": "Praises different strategic elements compared to fast-food stat games.",
+    "q31": 1,
+    "q32": "Says welfare is decent; plenty of premium currency and frequent hero gifts; 0-spend can reach full stars."
+  },
+  {
+    "q0": 44998337,
+    "q9": -2,
+    "q10": "Low per-run rewards and constant stamina gating.",
+    "q31": -2,
+    "q32": "Rewards per action are small and stamina is restrictive."
+  },
+  {
+    "q0": 44998007,
+    "q9": -2,
+    "q10": "Heavily stamina-gated; PvE progress feels like slow grind; PvP feels scripted vs bots.",
+    "q41": "World chat full of ads; PvP perceived as fixed outcomes vs bots."
+  },
+  {
+    "q0": 44997839,
+    "q11": -2,
+    "q12": "Says lineup balance is awful; fire burn team is overwhelmingly strong.",
+    "q13": -2,
+    "q14": "Recommends only playing fire burn; implies other comps are non-viable."
+  },
+  {
+    "q0": 44997689,
+    "q27": -2,
+    "q28": "Says it is too pay-heavy to continue playing.",
+    "q29": -2,
+    "q30": "Complains about excessive monetization pressure."
+  },
+  {
+    "q0": 44997606,
+    "q25": -2,
+    "q26": "Accuses of stealth rate changes; needed items never drop while unwanted ones overdupe.",
+    "q41": "Claims gacha rates are manipulated."
+  },
+  {
+    "q0": 44997604,
+    "q11": -2,
+    "q12": "States the game has no balance; advises only using fire burn team.",
+    "q13": -2,
+    "q14": "Says all other teams are trash compared to fire."
+  },
+  {
+    "q0": 44997587,
+    "q6": "Many stages require proper team composition, positioning, and switching roles to clear.",
+    "q7": 2,
+    "q8": "Says high strategy requirement for non-spenders; multiple tactical levers needed to beat content."
+  },
+  {
+    "q0": 44997556,
+    "q1": true,
+    "q2": "Story described as heavy on gay/BL content.",
+    "q41": "Story tone is off-putting to the reviewer."
+  },
+  {
+    "q0": 44997437,
+    "q29": 1,
+    "q30": "Perceives the 50% discount card as fairly generous.",
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms IP; mentions favorite general Dian Wei."
+  },
+  {
+    "q0": 44997419,
+    "q41": "Art and story quality criticized as far worse than first game."
+  },
+  {
+    "q0": 44355775,
+    "q9": -2,
+    "q10": "Increased grind and pay requirements; forced story viewing; quit by day two.",
+    "q29": -2,
+    "q30": "Perceives heavier monetization and grind than before.",
+    "q31": -2,
+    "q32": "Welfare significantly reduced."
+  },
+  {
+    "q0": 44997348,
+    "q7": -2,
+    "q8": "Says lineups are fixed with no strategy.",
+    "q13": -2,
+    "q14": "Meta is rigid with little team variety.",
+    "q29": -2,
+    "q30": "Describes both grind and heavy monetization; even big spenders leave."
+  },
+  {
+    "q0": 44997332,
+    "q1": true,
+    "q2": "Called a BL/\"fu\" game; reviewer dislikes this angle."
+  },
+  {
+    "q0": 44997270,
+    "q9": -2,
+    "q10": "Progression constantly blocked by stat gates; daily play limited unless paying.",
+    "q29": -2,
+    "q30": "Feels forced to pay or log in briefly and quit due to gates."
+  },
+  {
+    "q0": 44997174,
+    "q3": "Arena PvP; facing meta comps like fire burn; mandatory PvP for weekly rewards.",
+    "q4": -2,
+    "q5": "Forced PvP and losing to meta teams; very low win rate when missing key lineup.",
+    "q11": -2,
+    "q12": "Fire burn team dominates; other lineups struggle.",
+    "q41": "Player wants to avoid PvP but is forced by rewards structure."
+  },
+  {
+    "q0": 44997015,
+    "q7": -2,
+    "q8": "Says playability is low and implies no meaningful strategy.",
+    "q11": -2,
+    "q12": "States balance is very poor."
+  },
+  {
+    "q0": 44996934
+  },
+  {
+    "q0": 44996910,
+    "q3": "Requires frequent manual operation for main story stages; less like idle card battler.",
+    "q4": -2,
+    "q5": "Manual, fiddly stage requirements frustrate a player expecting a casual card game."
+  },
+  {
+    "q0": 44996840
+  },
+  {
+    "q0": 44996686,
+    "q41": "No reset function for Awakening; requests a reset feature."
+  },
+  {
+    "q0": 44996674,
+    "q1": true,
+    "q2": "Voice acting criticized as overly effeminate.",
+    "q23": true,
+    "q24": "There is a pity/guarantee system for gacha, but the threshold feels too high.",
+    "q25": -1,
+    "q26": "Mentions the pity feels bad/unfriendly."
+  },
+  {
+    "q0": 44996508,
+    "q1": true,
+    "q2": "Perceived BL/otome vibes and effeminate male designs; male bonding framed like a boys’ love show.",
+    "q29": -2,
+    "q30": "Feels like heavy discounts are monetization tricks; strong pay pressure.",
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms IP with reimagined historical figures.",
+    "q35": -2,
+    "q36": "Says tone and designs clash with war-era IP; removed earlier interactive content; shallow integration.",
+    "q41": "Aggressive multi-server rollout; frequent ads; plastic home replaces previous features; strategy lacking; discount perceived as bait."
+  },
+  {
+    "q0": 44996385,
+    "q29": 1,
+    "q30": "Describes the game as welfare-rich and low-burden, allowing relaxed play.",
+    "q31": 2,
+    "q32": "States art looks good, welfare is plentiful, and the game is chill/low-grind."
+  },
+  {
+    "q0": 44996334,
+    "q41": "Questions design of 'Destiny' affixes extending downward; suggests questionable system design."
+  },
+  {
+    "q0": 44996323,
+    "q21": -1,
+    "q22": "Requests events; says it is too boring and enters 'idle phase' too early."
+  },
+  {
+    "q0": 44996307,
+    "q6": "High-difficulty stages require repeated team testing and composition; puzzle-like approach.",
+    "q7": 1,
+    "q8": "Finds strategy solid with enjoyable lineup building.",
+    "q29": -2,
+    "q30": "Permanent 50% off seen as marketing trick (price hikes before discounts, halved pass rewards)."
+  },
+  {
+    "q0": 44996288,
+    "q25": -1,
+    "q26": "Claims 'no useless cards' is false and pulls are often off-banner.",
+    "q41": "Heavy off-banner results; criticizes 'no useless cards' claim."
+  },
+  {
+    "q0": 44996283
+  },
+  {
+    "q0": 44996263,
+    "q41": "Forced co-op from day 5 despite many servers and few active players at the same time."
+  },
+  {
+    "q0": 44996216,
+    "q27": -2,
+    "q28": "Says fivefold discounts mainly benefit spenders; non-paying players suffer.",
+    "q31": -2,
+    "q32": "Very little welfare for non-spenders."
+  },
+  {
+    "q0": 44996155,
+    "q31": -2,
+    "q32": "Calls the 50% off and 1000-draw promo fake; refuses to play."
+  },
+  {
+    "q0": 44995966,
+    "q27": -2,
+    "q28": "Says the game 'kills regulars' and warns non-spenders not to play.",
+    "q29": -2,
+    "q30": "Perceives predatory monetization."
+  },
+  {
+    "q0": 44965515,
+    "q1": true,
+    "q2": "Complains about heavy BL/CP vibes and effeminate portrayals of male leads.",
+    "q33": true,
+    "q34": "Romance of the Three Kingdoms IP; focuses on figures like Cao Cao and Yuan Shao.",
+    "q35": -2,
+    "q36": "Says characters do not resemble their historical counterparts; story and tone mismatch the IP.",
+    "q41": "Criticizes story structure (no main character), shallow 'dark' setting, weak art vs first game, and overall poor quality."
+  },
+  {
+    "q0": 44995430,
+    "q27": -2,
+    "q28": "Says rankings and rewards favor big spenders; only serve whales.",
+    "q31": -2,
+    "q32": "Welfare called weak; suggests playing other games instead."
+  },
+  {
+    "q0": 44995396,
+    "q11": -2,
+    "q12": "States balance is poor; hyped comps (Lyu Bu, Zhang Chunhua) are traps."
+  },
+  {
+    "q0": 44995390,
+    "q23": true,
+    "q24": "Orange/SSR pity at 50 pulls.",
+    "q25": -2,
+    "q26": "Dislikes the 50-pull pity setup; finds it unfun."
+  },
+  {
+    "q0": 44995303,
+    "q31": -2,
+    "q32": "TapTap sign-in rewards are tiny and limited to 10001 copies; perceived as stingy.",
+    "q41": "Calls the sign-in campaign hunger marketing and grossly stingy."
+  },
+  {
+    "q0": 44995111,
+    "q11": -2,
+    "q12": "Says balance is terrible; non-fire players suffer.",
+    "q13": -2,
+    "q14": "Meta forces playing fire; others sit idle.",
+    "q31": -1,
+    "q32": "Sign-in rewards insufficient to sustain play."
+  },
+  {
+    "q0": 44995110,
+    "q1": true,
+    "q2": "Game appears to sell CP dynamics; reviewer likes certain relationship tropes.",
+    "q6": "Strategy at a moderate level; story fully voiced; daily tasks exist.",
+    "q7": 1,
+    "q8": "Finds strategy level just right.",
+    "q27": 1,
+    "q28": "Says it is okay to play as a free player; would not recommend spending yet.",
+    "q41": "CGs are rough; UI design poor; daily tasks tedious; music unremarkable; limited touch interactions."
+  },
+  {
+    "q0": 44994945,
+    "q9": -2,
+    "q10": "Stamina is too low even after a small purchase."
+  },
+  {
+    "q0": 44994863,
+    "q41": "Optimization issues; crashes a few times per dungeon run."
+  },
+  {
+    "q0": 44994860,
+    "q11": -2,
+    "q12": "Fire burn team considered too strong, leaving no room for other comps.",
+    "q13": -2,
+    "q14": "Complains other teams have no viability."
+  },
+  {
+    "q0": 44994676,
+    "q3": "Stages involve operations/mechanics the player cannot understand.",
+    "q4": -1,
+    "q5": "Confusing stage mechanics lower combat enjoyment."
+  },
+  {
+    "q0": 44994592,
+    "q7": -1,
+    "q8": "Described as a pure stat-stacking game rather than strategic.",
+    "q9": -2,
+    "q10": "Resources are scarce; progress feels blocked."
+  },
+  {
+    "q0": 44994564,
+    "q1": true,
+    "q2": "Otome targeting with male fanservice and noticeable feminization.",
+    "q29": -2,
+    "q30": "High pay demands; pressure expected to rise with new characters.",
+    "q41": "High power consumption and poor optimization."
+  },
+  {
+    "q0": 44994544,
+    "q29": -2,
+    "q30": "Battle pass segments require repeated purchases; monetization feels sneaky.",
+    "q41": "Awakening stat allocations do not carry over to next level; feels punishing."
+  },
+  {
+    "q0": 44994260,
+    "q7": -1,
+    "q8": "Traditional card game with no innovation; includes standard tower mode.",
+    "q41": "Overall playability called low."
+  },
+  {
+    "q0": 44991982,
+    "q3": "Tactical positioning, shared energy management, interrupting enemy casts, and interacting with environmental objects (e.g., braziers).",
+    "q6": "De-emphasized visible combat power; relies on recommended levels; tower progress tied to leveling.",
+    "q7": 0,
+    "q8": "Early strategy present but outside main stages it becomes mostly about combat power.",
+    "q9": 1,
+    "q10": "As 0-spend, progression is smooth with reasonable gating; focused goals help pass checkpoints.",
+    "q41": "Story is boring; mascot design disliked; content depth shallow; frequent new servers observed."
+  },
+  {
+    "q0": 44994101,
+    "q41": "Simultaneously has chat-spam scammers and suspected shills."
+  },
+  {
+    "q0": 44994058,
+    "q41": "Art style accused of being AI-generated."
+  },
+  {
+    "q0": 44994003,
+    "q31": -2,
+    "q32": "Welfare too little; 1000-draw promise mocked as empty."
+  },
+  {
+    "q0": 44993941,
+    "q41": "Guild kicks on entry; gameplay perceived as pure stat race; uninstalled."
+  },
+  {
+    "q0": 44993928
+  },
+  {
+    "q0": 44993870,
+    "q3": "Auto-battle available but AI sometimes poor; manual control can compensate.",
+    "q4": 1,
+    "q5": "Finds it mostly relaxing; manual helps when auto fails."
+  },
+  {
+    "q0": 44993678
+  },
+  {
+    "q0": 44993651,
+    "q6": "Environmental interactions in PvE (e.g., destroy braziers to damage a row); inheritance system transfers pre-70 upgrades to new heroes.",
+    "q7": 0,
+    "q8": "Some PvE design effort but overall a numbers game; PvP is stat-driven.",
+    "q29": -2,
+    "q30": "Permanent 50% off seen as a monetization trick; either lowers F2P output or doubles spender value.",
+    "q41": "Rapid server rolling; story confusing; suspected hunger marketing around 1000 draws."
+  },
+  {
+    "q0": 44993625,
+    "q3": "Many modes require manual play; arena has mandatory manual combat.",
+    "q9": -2,
+    "q10": "Progress blocked unless you heavily spend; forced manual and stat gates.",
+    "q27": -2,
+    "q28": "Zero/low spenders cannot push story; manual arena causes losses.",
+    "q29": -2,
+    "q30": "Multiple pay gates and low free resources.",
+    "q41": "Story forced with extra settings; gendered art complaints; resources very low."
+  },
+  {
+    "q0": 44993592,
+    "q9": -2,
+    "q10": "Progress requires unlocking skills via copies (e.g., 1-flame Lyu Bu) and buying stamina; many additional upgrade sinks.",
+    "q29": -2,
+    "q30": "Daily stamina must be purchased; numerous monetization pits (gear, talents, rerolls).",
+    "q41": "Daily guaranteed hero baited by copy/constellation requirements."
+  },
+  {
+    "q0": 44989624,
+    "q1": true,
+    "q2": "Sells CP/BL/GL across side content; reviewer is okay with it but notes heavy selling.",
+    "q3": "Turn-based battles with interactive stage objects and boss behaviors; lacks main-story fast-forward/auto early on.",
+    "q4": -1,
+    "q5": "No fast-forward/auto in main story lowers enjoyment despite interesting mechanics.",
+    "q6": "Interact with scene items to damage enemies; bosses can harm allies when enraged; dungeons have auto-sweep.",
+    "q25": 1,
+    "q26": "Says rates are acceptable overall; 'no useless cards' claim is false but drop rate feels okay.",
+    "q41": "Pre-pull hero delivery required relog; UI/flow issues; recommends putting unit stories in side content."
+  },
+  {
+    "q0": 44993161,
+    "q9": -2,
+    "q10": "Progression blocked by stamina.",
+    "q23": true,
+    "q24": "SSR pity at 50 pulls, but results often off-banner.",
+    "q25": -2,
+    "q26": "High pity threshold and frequent off-banner make gacha feel bad."
+  },
+  {
+    "q0": 44992650,
+    "q7": -1,
+    "q8": "Low tolerance for mistakes; requires guides to play effectively.",
+    "q41": "High punishment for not following guides."
+  },
+  {
+    "q0": 44992584,
+    "q15": "Affection/favor system via gifting, but once maxed it yields nothing notable.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple and straightforward but shallow.",
+    "q19": -2,
+    "q20": "Provides little to no meaningful rewards after maxing.",
+    "q29": -2,
+    "q30": "Focus on paying to gain power and fight.",
+    "q31": -2,
+    "q32": "Welfare worse than the first game; gifting system unrewarding."
+  },
+  {
+    "q0": 44992539,
+    "q41": "Criticizes repeat 'rolling server' strategy; warns about overcrowding."
+  },
+  {
+    "q0": 44992383,
+    "q6": "Strategy and team counters matter (e.g., Zhou Tai/Cao Ren counter some comps); lineup building impacts results.",
+    "q7": 1,
+    "q8": "States skillful players with good comps can beat higher spenders.",
+    "q11": -1,
+    "q12": "Admits overall balance is off; different nation teams dominate at times.",
+    "q41": "Story quality poor; notes directed pulls are available."
+  },
+  {
+    "q0": 44992396,
+    "q1": true,
+    "q2": "Complains about BL/yaoi elements in the story.",
+    "q41": "Story criticized heavily by a Three Kingdoms fan."
+  },
+  {
+    "q0": 44992136,
+    "q9": -2,
+    "q10": "Stamina fully reliant on spending; frequent new servers hurting experience.",
+    "q29": -2,
+    "q30": "Rolling servers and stamina monetization create pressure.",
+    "q41": "Notes persistent server rolling."
+  },
+  {
+    "q0": 44992041,
+    "q25": -2,
+    "q26": "Low gacha rates and pushy recharge ads early on.",
+    "q29": -2,
+    "q30": "Accused of being a pay-bait game.",
+    "q31": -2,
+    "q32": "Promised 1000 draws not delivered; welfare perceived as poor."
+  },
+  {
+    "q0": 44992007,
+    "q9": -2,
+    "q10": "Resource gating severe; progress feels stuck.",
+    "q41": "Art accused of AI; visuals and gameplay worse than first game."
+  }
+]

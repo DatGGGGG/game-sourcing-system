@@ -1,0 +1,722 @@
+[
+  {
+    "q0": 45259458
+  },
+  {
+    "q0": 45259115,
+    "q3": "Stage with 100% physical damage immunity in Zhu Lu mode blocks physical DPS teams.",
+    "q4": -2,
+    "q5": "Player stuck at Zhu Lu 75 due to full physical immunity and high enemy damage.",
+    "q9": -1,
+    "q10": "Progression blocked by mode-specific hard counter to their only DPS type.",
+    "q6": "Stage modifiers forcing team-type swaps (e.g., 100% physical immunity).",
+    "q7": -1,
+    "q8": "Design pushes counter-picking rather than diverse viable strategies."
+  },
+  {
+    "q0": 45257446,
+    "q9": -2,
+    "q10": "After 14 days resources dry up; main story ends quickly and nothing to do but idle ‘harvest’.",
+    "q31": -2,
+    "q32": "Rewards are stingy and largely one-time; daily income negligible.",
+    "q41": "Early content drought; frequent player churn."
+  },
+  {
+    "q0": 45256473
+  },
+  {
+    "q0": 45066336,
+    "q11": -2,
+    "q12": "Fire team dominates; balance changes minimal since launch.",
+    "q13": -2,
+    "q14": "Leaderboard meta is essentially one lineup (fire).",
+    "q31": -2,
+    "q32": "Daily income called the lowest they've seen; progress feels like months of wasted time.",
+    "q29": -2,
+    "q30": "Heavy duplicates and low useful returns pressure spending without progress.",
+    "q9": -1,
+    "q10": "Low daily output and useless duplicates stall progress.",
+    "q41": "Gacha yields repeated duplicates (e.g., Lu Bu) with poor conversion value; population drop early after launch."
+  },
+  {
+    "q0": 45158337,
+    "q9": -2,
+    "q10": "Only fun for 14 days; afterwards becomes idle ‘养老’.",
+    "q31": -2,
+    "q32": "Very few benefits/free rewards."
+  },
+  {
+    "q0": 45255637,
+    "q3": "Mode with 100% physical damage immunity (Zhu Lu 75) hard-counters certain factions.",
+    "q4": -2,
+    "q5": "Cannot clear due to immunity walls; resource starvation post day 14.",
+    "q9": -2,
+    "q10": "Resource drip stops after 14 days; blocked in Zhu Lu.",
+    "q31": -2,
+    "q32": "Can’t even gather 3 daily pulls; event provides little.",
+    "q11": -2,
+    "q12": "Fire team dominates while Wei struggles in PVE.",
+    "q13": -2,
+    "q14": "Single viable meta (fire) restricts lineup diversity."
+  },
+  {
+    "q0": 45254974
+  },
+  {
+    "q0": 45254953,
+    "q9": -1,
+    "q10": "High story push difficulty and time-gated sub-roles with low, non-resource rewards.",
+    "q4": -1,
+    "q5": "Over-tuned progression dungeons sap enjoyment.",
+    "q31": -1,
+    "q32": "Dungeon rewards are meager and not resource-focused.",
+    "q41": "Time-locked sub-character dungeon; overtuned push stages."
+  },
+  {
+    "q0": 45254175,
+    "q3": "Turn-based hero battler; previously unique backline-support MC removed.",
+    "q4": -1,
+    "q5": "Loss of MC backline support identity and forced dual-team levelling reduce fun.",
+    "q15": "Light home/fishing features; equipment forging/collection.",
+    "q16": false,
+    "q17": -2,
+    "q18": "Fishing feedback feels shallow (“just a vibration”); home less engaging than prior game.",
+    "q31": -2,
+    "q32": "After initial welfare, resources are too scarce to build another unit.",
+    "q27": -1,
+    "q28": "Forced second team progression when players can’t even finish first team.",
+    "q41": "Equipment system criticized as worse than artifact systems: random acquisition without controllable affixes; forced dual-team progression."
+  },
+  {
+    "q0": 45134649,
+    "q11": -2,
+    "q12": "Poison/Direct-damage lineups far weaker than burn; Zhang Chunhua requires channeling and underperforms while burn ends fights quickly.",
+    "q13": -2,
+    "q14": "Burn is the only competitive indirect-damage archetype.",
+    "q9": -2,
+    "q10": "Severe walling in PVE (e.g., Fire teams 30W power lower still win; tower stuck).",
+    "q4": -1,
+    "q5": "One-sided fights against burn teams undermine combat satisfaction."
+  },
+  {
+    "q0": 45253784,
+    "q9": -2,
+    "q10": "After 14 days there’s little to do and resources decline daily.",
+    "q21": -2,
+    "q22": "Few events/content appear post launch.",
+    "q31": -2,
+    "q32": "Resource income gets lower over time."
+  },
+  {
+    "q0": 45253076,
+    "q9": -2,
+    "q10": "Newbie tasks finish quickly; after that only brief stamina dumps.",
+    "q31": -1,
+    "q32": "Thin content and limited daily income lead to log-off play."
+  },
+  {
+    "q0": 45252226,
+    "q11": -2,
+    "q12": "Outside of burn, other archetypes lag significantly.",
+    "q13": -2,
+    "q14": "Meta lacks variety beyond burn.",
+    "q31": -2,
+    "q32": "Around two weeks in, resource sources (mines) exhausted; very slow to earn wishes.",
+    "q9": -2,
+    "q10": "Progress stalls after about two weeks due to resource scarcity."
+  },
+  {
+    "q0": 45252174,
+    "q9": -2,
+    "q10": "No meaningful progression after 14 days; can’t even gather a 10-pull in a week.",
+    "q31": -2,
+    "q32": "Post-14 days, income too low to do 10-pulls."
+  },
+  {
+    "q0": 45251653,
+    "q27": -2,
+    "q28": "Claimed unplayable without spending; extremely slow pull income for non-payers.",
+    "q31": -2,
+    "q32": "May not reach a single 10-pull in a week.",
+    "q9": -2,
+    "q10": "Tower difficulty spikes every 20 floors; stuck at 620 for 10 days.",
+    "q41": "Tower (Fenghuotai) difficulty jumps every 20 floors cause hard progression walls."
+  },
+  {
+    "q0": 45251378,
+    "q27": -2,
+    "q28": "Non-paying users lack meaningful experience due to scarce pulls.",
+    "q31": -2,
+    "q32": "Few free pulls; high upgrade costs.",
+    "q9": -2,
+    "q10": "Overtuned stages and heavy gear/upgrade demands stall progress.",
+    "q41": "Equipment system feels poor; stage values are overtuned."
+  },
+  {
+    "q0": 45228861,
+    "q11": -2,
+    "q12": "Worse balance than the first title.",
+    "q31": -2,
+    "q32": "Lower welfare than the first title.",
+    "q21": -2,
+    "q22": "Slow updates and poor matchmaking; unresponsive ops.",
+    "q41": "Poor matchmaking; sluggish, dismissive operations vs. player feedback."
+  },
+  {
+    "q0": 45242257,
+    "q1": true,
+    "q2": "Suggestive BL/‘fujoshi’-style content (“卖腐”) involving Three Kingdoms characters.",
+    "q21": -2,
+    "q22": "Critique of extremely low development output (“产能低下”)."
+  },
+  {
+    "q0": 45249693,
+    "q9": -2,
+    "q10": "Core loop can be finished in ~10 minutes; little to progress.",
+    "q7": -1,
+    "q8": "Strategy exists but mainly incremental stat gains; stages feel like pure number bumps.",
+    "q41": "Design leans on numeric inflation; minimal event cadence; operations perceived as inactive."
+  },
+  {
+    "q0": 45249587,
+    "q1": true,
+    "q2": "Androgynous (‘trap-like’) male designs and overt shipping/CP focus.",
+    "q41": "Arena matching pairs extreme power disparities; banner UP pools output off-banner heroes."
+  },
+  {
+    "q0": 45249241,
+    "q41": "Item ranges and descriptions are changed arbitrarily; poor documentation/consistency."
+  },
+  {
+    "q0": 45249085,
+    "q9": -2,
+    "q10": "Less than two weeks in, no mainline or event content left; daily log-in harvest only.",
+    "q29": -2,
+    "q30": "Perceived as a cash grab during open beta with little to do.",
+    "q21": -2,
+    "q22": "Lack of ongoing content drops post launch."
+  },
+  {
+    "q0": 45001041,
+    "q11": -2,
+    "q12": "Unbalanced meta causing frustration.",
+    "q41": "Equipment sets have uneven drop distribution; missing key set pieces even after extensive play."
+  },
+  {
+    "q0": 45248428,
+    "q9": -2,
+    "q10": "After ~10 days, zero daily improvement and only one-time rewards remain.",
+    "q31": -2,
+    "q32": "All meaningful rewards are one-time; weekly income can’t reach a 10-pull.",
+    "q27": -2,
+    "q28": "Non-spenders have no paths to progression aside from paying.",
+    "q29": -2,
+    "q30": "Monetization is the only meaningful progression path."
+  },
+  {
+    "q0": 45248398,
+    "q21": -2,
+    "q22": "Main story delivered as a split, week-long event; minimal content per day."
+  },
+  {
+    "q0": 45248262,
+    "q9": -2,
+    "q10": "After a few days, nothing substantial left to play despite running fire team."
+  },
+  {
+    "q0": 45248185,
+    "q3": "Chapters require manual play every stage, increasing grind.",
+    "q4": -1,
+    "q5": "Forced manual progression is tiring and time-consuming."
+  },
+  {
+    "q0": 45247676,
+    "q21": -2,
+    "q22": "Main story is treated as events; limited new content cadence.",
+    "q31": -2,
+    "q32": "Key resources placed in paid packs; after 14 days even pulls are unaffordable.",
+    "q27": -2,
+    "q28": "Game demands a second team before the first is finished, pushing paywalls.",
+    "q29": -2,
+    "q30": "Resource gating and multi-team requirements pressure spending.",
+    "q9": -2,
+    "q10": "Daily loop devolves into brief material sweep; other rewards have little impact.",
+    "q41": "Second team requirement with high difficulty; paid packs hold crucial resources."
+  },
+  {
+    "q0": 45247646,
+    "q11": -2,
+    "q12": "Burn/fire team dominates both PVP and PVE; strategy reduced to number stacking.",
+    "q13": -2,
+    "q14": "Single-meta environment eliminates variety.",
+    "q29": -2,
+    "q30": "Early aggressive monetization and low welfare.",
+    "q9": -2,
+    "q10": "After ~half a month, daily play drops to ~10 minutes.",
+    "q31": -2,
+    "q32": "Welfare perceived far inferior to predecessor."
+  },
+  {
+    "q0": 45247328,
+    "q9": -2,
+    "q10": "Rapid onset of content drought with negligible daily income.",
+    "q31": -2,
+    "q32": "Day-to-day rewards are minimal; no resource stockpiling in ‘long grass’ periods.",
+    "q21": -2,
+    "q22": "New version used main story as an event with minutes of content."
+  },
+  {
+    "q0": 45246985,
+    "q41": "Art feedback: Zhen Ji looks good but her skin is not appealing."
+  },
+  {
+    "q0": 45246972,
+    "q11": -2,
+    "q12": "Fire team monopolizes meta; others underperform.",
+    "q13": -2,
+    "q14": "Single viable lineup post-14 days.",
+    "q31": -2,
+    "q32": "Daily welfare is meager.",
+    "q29": -2,
+    "q30": "Perceived pay-or-suffer design.",
+    "q9": -2,
+    "q10": "After 14 days, progression becomes ‘jail’ for non-spenders."
+  },
+  {
+    "q0": 45166654,
+    "q31": -2,
+    "q32": "Resource sources are mostly one-time; even with a monthly card, premium currency trends negative.",
+    "q9": -2,
+    "q10": "Fast clear then deep content drought; can’t stockpile during long grass and even lose currency.",
+    "q11": -1,
+    "q12": "Burn is clearly strongest; Wei improved; Shu/Qun lag; devs sometimes buff weak units.",
+    "q6": "PVE towers with situational buffs; PVP includes auto-battle modules and high-rank ban-pick.",
+    "q7": 1,
+    "q8": "Some thoughtful mechanics (ban-pick, situational buffs) but pacing/values issues.",
+    "q21": -1,
+    "q22": "Few scheduled events; limited resource channels.",
+    "q25": -2,
+    "q26": "‘All 50% off’ packs still feel overpriced and reward-light.",
+    "q29": -2,
+    "q30": "Frontloaded ‘welfare’ with push to buy costly packs.",
+    "q15": "Guild bargain packs and ‘Three Mountains’ (e.g., fishing) as light, relaxing side loops.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Side activities are simple and relaxing but shallow.",
+    "q41": "Unskippable rank-up animations in PVP; art skewed too feminine for some."
+  },
+  {
+    "q0": 45246354,
+    "q23": true,
+    "q24": "Character pity akin to other gacha; 5-star guaranteed by 40 pulls; equipment also relies on gacha.",
+    "q25": -2,
+    "q26": "Equipment gacha is extremely demanding (thousands of pulls for a viable set).",
+    "q31": -2,
+    "q32": "Sources for pull currency dry up after the first week; events reward little.",
+    "q27": -2,
+    "q28": "Forced second team further increases cost for non/low-spenders.",
+    "q9": -2,
+    "q10": "After early pushes, content dries up; updates add few story stages.",
+    "q21": -2,
+    "q22": "Monthly update ‘憋’ a month to add 5 main story stages."
+  },
+  {
+    "q0": 45005571,
+    "q9": -2,
+    "q10": "New players see no daily improvement; progression stalls quickly."
+  },
+  {
+    "q0": 45246114,
+    "q31": -2,
+    "q32": "Only 20–30 pulls per week and often need full pity to get units.",
+    "q9": -2,
+    "q10": "Very few playable modes after a week; devolves to idle harvest.",
+    "q11": -2,
+    "q12": "Only Wu (fire) feels complete and flexible; others lag; burn is dominant.",
+    "q13": -2,
+    "q14": "Meta centered around one faction limits viable builds.",
+    "q41": "Story quality criticized."
+  },
+  {
+    "q0": 45245727,
+    "q31": -2,
+    "q32": "Daily loop yields near-zero resources; hard cut-off after 14 days.",
+    "q9": -2,
+    "q10": "Resource drip ends after 14 days, halting progress."
+  },
+  {
+    "q0": 45245124,
+    "q41": "Perceived cash-grab release; operators ignore player feedback."
+  },
+  {
+    "q0": 45244761,
+    "q31": -2,
+    "q32": "Post 14-day event, only enough to save one 10-pull per week.",
+    "q9": -2,
+    "q10": "Progress slows to a crawl after the event ends."
+  },
+  {
+    "q0": 45191031,
+    "q21": -2,
+    "q22": "Half-month wait for an ‘event’ that takes ~5 minutes.",
+    "q11": -2,
+    "q12": "Balance issues persist while monetization points are emphasized.",
+    "q29": -2,
+    "q30": "Monetization design perceived as the main focus."
+  },
+  {
+    "q0": 45241453,
+    "q31": -2,
+    "q32": "No welfare after day 8; rewards are one-time; 14 days in you can’t pull.",
+    "q9": -2,
+    "q10": "Daily loop reduced to fishing/forging; PVE values overtuned; stuck across modes.",
+    "q15": "Fishing and equipment forging/tempering as daily side tasks.",
+    "q16": false,
+    "q19": -2,
+    "q20": "Equipment sets are highly random with poor drop rates; even a month may not complete a set.",
+    "q11": -2,
+    "q12": "Burn dominates; other factions like Wei feel bad in PVP and PVE.",
+    "q29": -2,
+    "q30": "Perceived cash-grab with silent operations.",
+    "q41": "Operations unresponsive; equipment RNG extremely punishing."
+  },
+  {
+    "q0": 45242299,
+    "q41": "Guild war matches by power rather than rank, locking #2 guilds into repeatedly fighting #1 and blocking top-10 placement."
+  },
+  {
+    "q0": 45242725,
+    "q3": "2.5D battle presentation vs. expected full animation focus.",
+    "q4": -1,
+    "q5": "Disappointment with battle visuals compared to expectations from 1."
+  },
+  {
+    "q0": 45177407,
+    "q31": -2,
+    "q32": "No resource loop; daily purpose unclear for small spenders/F2P.",
+    "q27": -2,
+    "q28": "New heroes effectively for whales; 3-star copies unhelpful for F2P in PVP/PVE.",
+    "q9": -2,
+    "q10": "Most F2P leave early; little to do without spending.",
+    "q41": "Suggests copying 1’s guild dividends and treasure map to provide daily purpose."
+  },
+  {
+    "q0": 45242464,
+    "q11": -2,
+    "q12": "Burn team excessively strong.",
+    "q13": -2,
+    "q14": "Other lineups are punching bags."
+  },
+  {
+    "q0": 45034414,
+    "q15": "Fishing mini-game as a daily side activity.",
+    "q16": false
+  },
+  {
+    "q0": 45242235,
+    "q41": "Player sentiment highly negative in community; micro-spender feels ignored."
+  },
+  {
+    "q0": 45241300,
+    "q31": -2,
+    "q32": "Few benefits; no resources to improve.",
+    "q9": -2,
+    "q10": "Cannot progress in tower or Zhu Lu with Zhang Liao team."
+  },
+  {
+    "q0": 45241299,
+    "q9": -2,
+    "q10": "Playable for only about 14 days for F2P.",
+    "q27": -2,
+    "q28": "F2P experience halts quickly.",
+    "q31": -2,
+    "q32": "Rewards insufficient beyond early period."
+  },
+  {
+    "q0": 45241298,
+    "q31": -2,
+    "q32": "Resources are one-time; no loop; wish list doesn’t yield targeted units.",
+    "q27": -2,
+    "q28": "Only way to improve is paying; F2P can’t progress.",
+    "q9": -2,
+    "q10": "Stages are pure stat checks; F2P can’t clear with strategy alone.",
+    "q7": -2,
+    "q8": "Levels rely on numbers over strategy; ‘rushing’ doesn’t help.",
+    "q41": "Wish list frequently fails to deliver targeted hero (e.g., wants Zhang Chunhua but gets Cao Ren)."
+  },
+  {
+    "q0": 45241293,
+    "q15": "Fishing and egg-smashing as the remaining daily activities.",
+    "q16": false
+  },
+  {
+    "q0": 45240934,
+    "q29": -2,
+    "q30": "Feels like a monetized gacha album rather than a game.",
+    "q27": -2,
+    "q28": "Gameplay too thin without spending.",
+    "q41": "Critique: lack of substantive gameplay."
+  },
+  {
+    "q0": 44326655,
+    "q21": -2,
+    "q22": "Post-team-change, feedback loops with players vanished; tests no longer iterate quickly.",
+    "q41": "Team changed from earlier tests; current team seen as unresponsive."
+  },
+  {
+    "q0": 45240897,
+    "q31": -2,
+    "q32": "Welfare is one-time; after 14 days F2P have near-zero daily improvement.",
+    "q29": -2,
+    "q30": "Introduces ‘mi-pool’ style banners while cutting free income.",
+    "q9": -2,
+    "q10": "Resource wall post-14 days halts progress."
+  },
+  {
+    "q0": 45240671,
+    "q11": -2,
+    "q12": "Fire burn teams beat players 500k power higher; extreme imbalance.",
+    "q13": -2,
+    "q14": "One-meta dominance.",
+    "q9": -1,
+    "q10": "Progression feels pointless when massively outperformed by lower-power fire teams."
+  },
+  {
+    "q0": 45240606,
+    "q29": -2,
+    "q30": "Perceived as a money grab with no meaningful event resources.",
+    "q31": -2,
+    "q32": "Events give little to no resources.",
+    "q41": "Server attrition severe; only one guild active in a server."
+  },
+  {
+    "q0": 45240595,
+    "q7": -2,
+    "q8": "Strategy called ‘disgusting’ compared to the first title.",
+    "q41": "Released before being ready; unfavorable comparison to predecessor."
+  },
+  {
+    "q0": 45240404,
+    "q3": "Burn DoT stacks applied via AOE (e.g., Zhou Yu/Lu Xun) bypass high DR tanks (Cao Ren, Zhou Tai) to finish fights.",
+    "q11": -2,
+    "q12": "Cao Ren/Zhou Tai provide huge DR; burn uniquely counters this, enabling massive power gap wins.",
+    "q13": -2,
+    "q14": "Burn is the only top-tier archetype for both PVP and PVE.",
+    "q23": true,
+    "q24": "5-star guaranteed by 40 pulls.",
+    "q41": "Art viewed as otome-style; narrative lukewarm; gacha phrasing criticized."
+  },
+  {
+    "q0": 44998001,
+    "q15": "Guild bargain system and ‘Three Mountains’ mini-games (e.g., fishing).",
+    "q16": false,
+    "q17": 1,
+    "q18": "Side systems are light and relaxing though shallow.",
+    "q25": -2,
+    "q26": "Aggressive ‘all 50% off’ marketing; rewards feel like repackaged one-time clears.",
+    "q29": -2,
+    "q30": "Frontloaded ‘1000 pulls’/discounts mask weak ongoing value.",
+    "q23": true,
+    "q24": "Yuan Shao banner uses a ‘mi-pool’ with 50-pull soft pity.",
+    "q21": -2,
+    "q22": "Long wait for ‘big version’ that disappointed; odd guild cap increase caused player exodus.",
+    "q41": "PVP quit delay (30s) feels bad; guild cap jump from 50 to 73 scattered communities."
+  },
+  {
+    "q0": 45239694,
+    "q11": -2,
+    "q12": "Wu (fire) dominates; balance is shattered.",
+    "q21": -2,
+    "q22": "Very thin content cadence; new mainline added only a few stages with delays."
+  },
+  {
+    "q0": 45239356,
+    "q41": "Guild war matching pits #2 guild vs #1 repeatedly, tanking rankings."
+  },
+  {
+    "q0": 45239153,
+    "q41": "Publisher reputation: short-term operation and withdrawal after monetization."
+  },
+  {
+    "q0": 45237745,
+    "q9": -2,
+    "q10": "Very few modes; runs out of things to do in 1–2 weeks.",
+    "q41": "Art feels juvenile and unbefitting Three Kingdoms."
+  },
+  {
+    "q0": 44335767,
+    "q41": "Perception that otome-focused planning dooms the game."
+  },
+  {
+    "q0": 45216742,
+    "q31": -2,
+    "q32": "Daily resource output too low; tickets dry up despite saved premium currency.",
+    "q27": -2,
+    "q28": "F2P/low spenders can’t sustain play despite careful planning.",
+    "q9": -2,
+    "q10": "Little to play; advised to leave as progression halts."
+  },
+  {
+    "q0": 45237322,
+    "q31": -2,
+    "q32": "Daily production is too low to pull heroes.",
+    "q9": -1,
+    "q10": "Progress hampered by lack of pull currency."
+  },
+  {
+    "q0": 45237279,
+    "q31": -2,
+    "q32": "Daily resources are minimal; 14 days after, day-to-day has nothing left.",
+    "q29": -2,
+    "q30": "Discounted packs and frequent banners feel predatory amid content drought.",
+    "q9": -2,
+    "q10": "Event content ends within minutes; roguelike mode feels like a test build.",
+    "q21": -2,
+    "q22": "Mainline-as-event releases with trivial day-one content; updates focus on monetization."
+  },
+  {
+    "q0": 45237077,
+    "q21": -2,
+    "q22": "Promised new content finishes in ~10 minutes; perceived half-finished."
+  },
+  {
+    "q0": 45236907,
+    "q31": -2,
+    "q32": "Low drop rates and poor welfare.",
+    "q9": -2,
+    "q10": "Launch content insufficient to last 14 days."
+  },
+  {
+    "q0": 45236866,
+    "q41": "Guild war matching repeatedly pairs the same top guild, preventing fair rankings."
+  },
+  {
+    "q0": 45236816,
+    "q27": -2,
+    "q28": "High costs and multi-lineup requirements make non/low-spender experience poor.",
+    "q31": -2,
+    "q32": "Welfare too little; progression walls for non-spenders.",
+    "q9": -2,
+    "q10": "Frequent progression blocks without spending.",
+    "q13": -1,
+    "q14": "Multiple lineups required increases burden and reduces viable choices for low spenders."
+  },
+  {
+    "q0": 45236794,
+    "q27": -2,
+    "q28": "Second-team requirement with scarce resources makes continuation unaffordable.",
+    "q31": -2,
+    "q32": "Resource allocation is too tight to build multiple teams."
+  },
+  {
+    "q0": 45236776,
+    "q21": -2,
+    "q22": "Event runs out of content by day two despite long pre-release promotion; perceived neglectful operations."
+  },
+  {
+    "q0": 44326843,
+    "q4": 1,
+    "q5": "Battle is entertaining despite other flaws.",
+    "q41": "Art criticized: men too effeminate, women unattractive; suggests early sunset."
+  },
+  {
+    "q0": 45236455,
+    "q25": -2,
+    "q26": "Inconsistent 10-pull pack pricing (e.g., 36 then 60) feels exploitative.",
+    "q29": -2,
+    "q30": "Aggressive, confusing limited-time bundles post day 14.",
+    "q31": -2,
+    "q32": "No meaningful welfare after day 14.",
+    "q9": -2,
+    "q10": "Unplayable after 14 days due to resource drought."
+  },
+  {
+    "q0": 45236314,
+    "q31": -2,
+    "q32": "No welfare; rewards are tiny; 14-day event finishes early.",
+    "q11": -2,
+    "q12": "Fire meta dominates.",
+    "q9": -2,
+    "q10": "Can’t beat stages; devs unresponsive."
+  },
+  {
+    "q0": 45236262,
+    "q15": "Egg-smashing mini activity as daily loop.",
+    "q16": false,
+    "q11": -1,
+    "q12": "Equal power fights feel lopsided; hero damage variance is extreme."
+  },
+  {
+    "q0": 45236251,
+    "q11": -2,
+    "q12": "Single team (fire) is best in both PVP and PVE.",
+    "q13": -2,
+    "q14": "One-team dominance eliminates diversity."
+  },
+  {
+    "q0": 45236244,
+    "q31": -2,
+    "q32": "Poor welfare and bad events; negative art reception for Yuan Shao."
+  },
+  {
+    "q0": 44957717,
+    "q21": -2,
+    "q22": "Updates feel like ‘pasted’ story and stingy welfare; not enough content to last to the next version.",
+    "q11": -2,
+    "q12": "Burn team overwhelms even higher-power opponents.",
+    "q31": 1,
+    "q32": "Positive note: daily dozens of draws early on; quick fishing; forging feels good.",
+    "q9": -2,
+    "q10": "Boredom sets in quickly; minimal goals between versions.",
+    "q41": "UI/UX for growth systems feels convoluted; strategy depth shallow across systems."
+  },
+  {
+    "q0": 45235681,
+    "q9": -2,
+    "q10": "Too few modes; playability lacking.",
+    "q13": -2,
+    "q14": "All about the fire/burn lineup.",
+    "q11": -2,
+    "q12": "Fire dominates meta."
+  },
+  {
+    "q0": 45235666,
+    "q9": -2,
+    "q10": "After 14 days there’s no content or welfare.",
+    "q31": -2,
+    "q32": "Welfare dries up post early period.",
+    "q29": -2,
+    "q30": "Many pay bundles; copies limited/exclusive weapon model copied from Genshin-style events."
+  },
+  {
+    "q0": 45235649,
+    "q21": -2,
+    "q22": "A month in, no new dungeons and little new gameplay.",
+    "q9": -2,
+    "q10": "Sessions drop to a 5-minute login.",
+    "q29": -2,
+    "q30": "Focus on top-ups and numeric growth over content."
+  },
+  {
+    "q0": 45235531,
+    "q9": -2,
+    "q10": "Sparse content and unfinished mainline.",
+    "q31": -2,
+    "q32": "Resources are scarce.",
+    "q13": -2,
+    "q14": "Lineup variety is low; burn too strong.",
+    "q11": -2,
+    "q12": "Burn’s dominance signals poor balance.",
+    "q21": -1,
+    "q22": "Mainline not finished."
+  },
+  {
+    "q0": 45235500,
+    "q31": -2,
+    "q32": "Very low resources even with passes and weekly stamina packs.",
+    "q9": -2,
+    "q10": "Daily sessions last ~5 minutes yet can’t progress in tower.",
+    "q11": -2,
+    "q12": "Big faction power gaps; non-fire factions lag badly."
+  }
+]

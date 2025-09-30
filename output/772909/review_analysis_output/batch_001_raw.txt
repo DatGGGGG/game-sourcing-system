@@ -1,0 +1,388 @@
+[
+  {
+    "q0": 46479733,
+    "q41": "Asks how to download the game."
+  },
+  {
+    "q0": 46479591,
+    "q41": "Urges the game to release soon."
+  },
+  {
+    "q0": 46479589,
+    "q41": "Praises the game's performance and ease of use; recommended it to friends."
+  },
+  {
+    "q0": 46479546,
+    "q41": "Requests a farming/casual mode with cooking from harvested food and Overcooked-like co-op challenge stages."
+  },
+  {
+    "q0": 46479201,
+    "q41": "Loves the art style and adventure vibe (reminds them of It Takes Two and micro-world themes); eager to play soon."
+  },
+  {
+    "q0": 46478975,
+    "q41": "Loves the art style; hopes for more stylish, unique clothing."
+  },
+  {
+    "q0": 46478230,
+    "q41": "Likes the game and asks when it will release."
+  },
+  {
+    "q0": 46478160,
+    "q41": "Likes the art; hopes outfits are pretty and not too expensive."
+  },
+  {
+    "q0": 46477725,
+    "q41": "Asks whether the game supports online co-op."
+  },
+  {
+    "q0": 46477600,
+    "q41": "Likes the building mode and cute art style; looking forward to it."
+  },
+  {
+    "q0": 46477065,
+    "q41": "Loves the cute art and is excited for a sim/management experience; worries their phone might not handle performance/optimization."
+  },
+  {
+    "q0": 46476622,
+    "q41": "Worried about heavy user acquisition at launch and rapid post-launch decline; hopes for sustained support."
+  },
+  {
+    "q0": 46476139,
+    "q41": "Very excited; loves the cute art; wishes for public beta soon."
+  },
+  {
+    "q0": 46476138,
+    "q41": "Wishes the game to be very popular at launch."
+  },
+  {
+    "q0": 46476104,
+    "q41": "Asks when the public beta will start."
+  },
+  {
+    "q0": 46475982,
+    "q41": "Asks when the game will go live."
+  },
+  {
+    "q0": 46475329,
+    "q41": "Played Heart Town and is very excited; asks when this will launch."
+  },
+  {
+    "q0": 46474932,
+    "q41": "Asks when the game will launch; thinks it looks fun."
+  },
+  {
+    "q0": 46473865,
+    "q29": -1,
+    "q30": "Fears the game will rely on heavy monetization; complains that many games feel unplayable without spending."
+  },
+  {
+    "q0": 46472402,
+    "q41": "Asks when the game will launch."
+  },
+  {
+    "q0": 46471934,
+    "q41": "Asks when the game will launch."
+  },
+  {
+    "q0": 46471718,
+    "q41": "Requests a clean UI without excessive red-dot notifications and fragmented micro-activities; wants centralized rewards and fewer daily chore-like clicks."
+  },
+  {
+    "q0": 46471122,
+    "q41": "Is excited and finds the art soothing; hopes for good optimization and a quick test."
+  },
+  {
+    "q0": 46470528,
+    "q41": "Loves the healing art style; compares the vibe to certain cartoons/MVs."
+  },
+  {
+    "q0": 46470341,
+    "q41": "Suggests design choices: avoid numerous complex orders, keep daily tasks simple, allow pet raising, add interactive furniture, and make basic vehicles obtainable without paying."
+  },
+  {
+    "q0": 46470066,
+    "q15": "Tiny-world home building and customization using everyday objects; exploration and collection of unique resources (e.g., sunlight, flower fragrance) to craft items; warm social interactions with many NPCs.",
+    "q16": true,
+    "q17": 2,
+    "q18": "Described as relaxing and pressure-free; each resource-gathering trip feels like a gentle adventure.",
+    "q19": 1,
+    "q20": "Collecting special resources like sunlight/flower fragrance enables crafting various items, making gathering feel rewarding and varied."
+  },
+  {
+    "q0": 46469872,
+    "q41": "Wants a combat mode with co-op monster fighting and rewards like outfits."
+  },
+  {
+    "q0": 46469031,
+    "q41": "Finds the setting/art like a fairy-tale; suggests future IP collaborations (e.g., Miyazaki, Disney, Pixar); hopes for high freedom; worries about phone performance."
+  },
+  {
+    "q0": 46468884,
+    "q41": "Asks when the game will launch and whether the wait will be long."
+  },
+  {
+    "q0": 46468225,
+    "q41": "Skeptical about the PV; suspects CG masquerading as gameplay and lack of real in-engine footage."
+  },
+  {
+    "q0": 46468068,
+    "q41": "Very excited; loves the art; requests a beta slot."
+  },
+  {
+    "q0": 46467547,
+    "q41": "Loves the art; requests comfortable camera/rotation for players prone to 3D motion sickness; expects classic sim-management gameplay and emphasizes smooth controls."
+  },
+  {
+    "q0": 46467450,
+    "q41": "Praises unique building style and 3D character models; eager for test access and launch."
+  },
+  {
+    "q0": 46467140,
+    "q41": "Hopes for camera controls suitable for players who get 3D motion sickness."
+  },
+  {
+    "q0": 46466496,
+    "q41": "Thinks this looks better than Heart Town in action and graphics; hopes for cloud play."
+  },
+  {
+    "q0": 46466246,
+    "q41": "Asks if multiplayer allows interacting with partners."
+  },
+  {
+    "q0": 46466003,
+    "q41": "Asks if the game can launch this year."
+  },
+  {
+    "q0": 46465968,
+    "q41": "Urges for a public beta soon."
+  },
+  {
+    "q0": 46465940,
+    "q41": "Wants this game to surpass Heart Town."
+  },
+  {
+    "q0": 46465629,
+    "q41": "Hopes the game avoids gacha or roulette-based acquisition systems, saying those reduce motivation."
+  },
+  {
+    "q0": 46465522,
+    "q41": "Loves the art style; asks when it will launch."
+  },
+  {
+    "q0": 46465346,
+    "q41": "Asks when it will be released to market."
+  },
+  {
+    "q0": 46465259,
+    "q41": "Thinks the PV looks good but worries about mobile optimization."
+  },
+  {
+    "q0": 46464966,
+    "q41": "Has pre-registered; asks how long until launch."
+  },
+  {
+    "q0": 46464871,
+    "q41": "Praises the puppet-themed minigame: fun, novel design, and clear/beautiful visuals."
+  },
+  {
+    "q0": 46464409,
+    "q41": "Finds the art cute and believes gameplay looks rich; waiting for public beta."
+  },
+  {
+    "q0": 46464344,
+    "q41": "Asks how long after reservation they can play."
+  },
+  {
+    "q0": 46463464,
+    "q41": "Hopes for more areas worth exploring."
+  },
+  {
+    "q0": 46463284,
+    "q41": "Says the art style is promising and worth anticipating."
+  },
+  {
+    "q0": 46463136,
+    "q41": "Asks why they still can't play after making a reservation."
+  },
+  {
+    "q0": 46459599,
+    "q41": "Complains they reserved a day ago but still cannot play, calling it scammy."
+  },
+  {
+    "q0": 46463012,
+    "q41": "Asks whether the game supports online co-op."
+  },
+  {
+    "q0": 46462800,
+    "q41": "Saw a gameplay video and thinks it looks fun; asks when it will be available."
+  },
+  {
+    "q0": 46462459,
+    "q41": "Asks how to download the reserved game."
+  },
+  {
+    "q0": 46462205,
+    "q41": "Likes the art and asks if the game supports co-op."
+  },
+  {
+    "q0": 46462158,
+    "q41": "Asks when the game will launch; finds the art cute and appealing."
+  },
+  {
+    "q0": 46462080,
+    "q41": "Asks when the game will launch."
+  },
+  {
+    "q0": 46461873,
+    "q41": "Asks when the game will be listed/released."
+  },
+  {
+    "q0": 46461841,
+    "q41": "Asks whether it is possible to download now."
+  },
+  {
+    "q0": 46461818,
+    "q41": "Asks when the game will launch."
+  },
+  {
+    "q0": 46461666,
+    "q41": "Asks when it will be playable."
+  },
+  {
+    "q0": 46461640,
+    "q41": "Asks when a public beta will start; finds the game very cute."
+  },
+  {
+    "q0": 46461611,
+    "q41": "Hopes the game goes live soon."
+  },
+  {
+    "q0": 46461473,
+    "q41": "Asks when the game will launch."
+  },
+  {
+    "q0": 46461129,
+    "q41": "The micro-world concept reminds them of The Secret World of Arrietty; very excited."
+  },
+  {
+    "q0": 46461126,
+    "q41": "Asks when the game will launch."
+  },
+  {
+    "q0": 46460996,
+    "q41": "Very excited; loves the soothing art style."
+  },
+  {
+    "q0": 46460964,
+    "q41": "Hopes for a feature to build together with friends."
+  },
+  {
+    "q0": 46460945,
+    "q41": "Requests features: farming, house building, and dress-up."
+  },
+  {
+    "q0": 46460923,
+    "q41": "Asks when it will be playable."
+  },
+  {
+    "q0": 46460912,
+    "q41": "Has reserved; asks when they can play."
+  },
+  {
+    "q0": 46460805,
+    "q41": "Complains they cannot download or figure out how to play; finds it meaningless without access."
+  },
+  {
+    "q0": 46460612,
+    "q41": "Notes it hasn't launched yet but really wants to play."
+  },
+  {
+    "q0": 46460421,
+    "q41": "Asks to simplify gameplay, comparing to Eggy Party."
+  },
+  {
+    "q0": 46460343,
+    "q41": "Asks when the game can be downloaded."
+  },
+  {
+    "q0": 46460317,
+    "q41": "Believes the PV's visual fidelity is unrealistic on mobile; hopes the mobile version is not heavily downgraded."
+  },
+  {
+    "q0": 46460296,
+    "q41": "Expresses confusion about the game's name (asks 'Infinite small?')."
+  },
+  {
+    "q0": 46460242,
+    "q41": "Says it is super fun with a strong atmospheric art style."
+  },
+  {
+    "q0": 46460195,
+    "q41": "Asks when it will launch."
+  },
+  {
+    "q0": 46459566,
+    "q41": "Loves the art style; asks when public beta starts."
+  },
+  {
+    "q0": 46459496,
+    "q41": "Frustrated after days of waiting without being able to play; losing patience."
+  },
+  {
+    "q0": 46459350,
+    "q9": 1,
+    "q10": "Believes (per claims) the game won't force tasks and is not grindy, unlike Heart Town which feels grindy and has expensive clothing gacha with high pity.",
+    "q41": "Thinks the art is very cute; compares negatively to Heart Town's grind and costly gacha."
+  },
+  {
+    "q0": 46459320,
+    "q41": "Notes the game is in reservation phase and likely not playable yet."
+  },
+  {
+    "q0": 46459133,
+    "q41": "Asks how to enter the game."
+  },
+  {
+    "q0": 46458772,
+    "q9": 1,
+    "q10": "States that outfits can be freely matched and daily tasks are not required, implying a light, non-grindy progression.",
+    "q41": "Very excited after seeing the video; likes the art style."
+  },
+  {
+    "q0": 46458482,
+    "q41": "Asks how to download a reserved game."
+  },
+  {
+    "q0": 46458462,
+    "q41": "Cheering the game on and says they will spend money if it surpasses Heart Town."
+  },
+  {
+    "q0": 46458367,
+    "q41": "Asks when servers open or if there will be a beta."
+  },
+  {
+    "q0": 46458221,
+    "q41": "Asks when the game will be playable."
+  },
+  {
+    "q0": 46458010,
+    "q41": "Asks when the game will launch."
+  },
+  {
+    "q0": 46457696,
+    "q41": "Says the scene has strong visual impact and the game looks worth playing."
+  },
+  {
+    "q0": 46457663,
+    "q41": "Asks when the game will launch; very excited."
+  },
+  {
+    "q0": 46457429,
+    "q41": "Says it's fun and gives a shrunken, micro-world feeling."
+  },
+  {
+    "q0": 46457221,
+    "q41": "Asks when public beta will start."
+  }
+]

@@ -1,0 +1,403 @@
+[
+  {
+    "q0": 43805634
+  },
+  {
+    "q0": 43805618
+  },
+  {
+    "q0": 43805550
+  },
+  {
+    "q0": 43804814,
+    "q1": true,
+    "q2": "Sexualized/borderline advertising featuring female generals",
+    "q41": "Complains of misleading advertising bait-and-switch on character gender; ad shows sexy female generals but in-game pulls are mostly male."
+  },
+  {
+    "q0": 43803642,
+    "q3": "Card-based Three Kingdoms battler",
+    "q4": 1,
+    "q5": "Calls the earlier title top-tier among Three Kingdoms card games.",
+    "q6": "Painless card-growth system; card game format",
+    "q9": -1,
+    "q10": "Mentions the series’ numerical inflation/power creep as the only major problem.",
+    "q41": "Veteran hopes the new entry keeps early quality and satisfies long-time players."
+  },
+  {
+    "q0": 43803105,
+    "q41": "Asks if it is turn-based and says they would skip if so."
+  },
+  {
+    "q0": 43802119,
+    "q41": "Rejects rolling servers and says they won’t play if it’s a rolling-server game."
+  },
+  {
+    "q0": 43801775,
+    "q41": "Says the art style changed and male characters look overly effeminate."
+  },
+  {
+    "q0": 43801351,
+    "q41": "Dislikes the publisher (LXHY); only credits the artists; likes the Three Kingdoms theme but distrusts the company."
+  },
+  {
+    "q0": 43800373,
+    "q29": -2,
+    "q30": "Calls it an otome cash-grab targeting female spenders."
+  },
+  {
+    "q0": 43800260,
+    "q1": true,
+    "q2": "Fanservice hot-spring scenes with handsome male characters",
+    "q15": "Character interaction mini-events such as hot-spring scenes",
+    "q16": false
+  },
+  {
+    "q0": 43800128,
+    "q41": "Thinks from the trailer that it will be fun."
+  },
+  {
+    "q0": 43800011,
+    "q41": "Dislikes the downgraded art style."
+  },
+  {
+    "q0": 43799508,
+    "q41": "Says they kept buying skins in the first game; looking toward the new title."
+  },
+  {
+    "q0": 43799301,
+    "q6": "Multiple gameplay modes",
+    "q7": 1,
+    "q8": "Reviewer claims visuals are gorgeous and gameplay is diverse; expresses anticipation.",
+    "q41": "Praises flashy visuals."
+  },
+  {
+    "q0": 43799175,
+    "q41": "Mocks marketing claim of being ‘copied countless times’ for an unreleased game."
+  },
+  {
+    "q0": 43792729,
+    "q41": "Says the total damage display and feel are like low-quality web games; questions overall quality."
+  },
+  {
+    "q0": 43796276,
+    "q41": "Four-star wait-and-see; likes Three Kingdoms theme and played the previous game long-term."
+  },
+  {
+    "q0": 43794556,
+    "q41": "Spotted a favorite character and is very hyped."
+  },
+  {
+    "q0": 43794210,
+    "q41": "Suggestions: observer-style narrative; clearly label character eras; consider tower-defense mass attacks or speed-based turn system; avoid grid tactics."
+  },
+  {
+    "q0": 43793849,
+    "q41": "Complains about intrusive ads redirecting from anime sites; says good games aren’t made by advertising."
+  },
+  {
+    "q0": 43793577,
+    "q41": "Expresses anticipation."
+  },
+  {
+    "q0": 43793045,
+    "q41": "Asks if this is already the third closed test."
+  },
+  {
+    "q0": 43792910,
+    "q29": -2,
+    "q30": "Accuses the publisher of early over-marketing followed by heavy monetization; cites mismanagement and a PV that pleases no one."
+  },
+  {
+    "q0": 43792621,
+    "q41": "Gives one star due to a prior bad experience on a ‘Cao Ren’ server leading to forced payback."
+  },
+  {
+    "q0": 43792577,
+    "q41": "Likes combining Three Kingdoms with fantasy; deviations from historical looks are acceptable."
+  },
+  {
+    "q0": 43792072,
+    "q41": "Art seems akin to Fantasy; expresses distrust of LXHY."
+  },
+  {
+    "q0": 43791905,
+    "q41": "Warns players based on how the last game ended; suggests caution."
+  },
+  {
+    "q0": 43791574,
+    "q41": "Accuses AI art, fake positive reviews, and half-finished product; predicts cash grab and exit."
+  },
+  {
+    "q0": 43790003,
+    "q41": "Cheers for the project’s revival."
+  },
+  {
+    "q0": 43789921,
+    "q41": "Veteran who left and returned multiple times; says it was fun."
+  },
+  {
+    "q0": 43788336,
+    "q9": -1,
+    "q10": "Asks not to repeat prior title’s stat inflation."
+  },
+  {
+    "q0": 43788221,
+    "q41": "Urges the team to test rather than just bait players."
+  },
+  {
+    "q0": 43786969,
+    "q29": -2,
+    "q30": "Calls it predatory ‘cheat-coin’ monetization; says veterans understand."
+  },
+  {
+    "q0": 43786931,
+    "q41": "Praises the prior game’s exquisite skins; hopes the sequel matches."
+  },
+  {
+    "q0": 43786836,
+    "q1": true,
+    "q2": "Sexualized presentation overshadowing warfare",
+    "q41": "Complains that focus shifted from battles to lewdness; unclear target audience and gameplay."
+  },
+  {
+    "q0": 43786783,
+    "q41": "Jokes about promoting the character Yuan Ji."
+  },
+  {
+    "q0": 43786761,
+    "q41": "Plans to return after seeing the sequel."
+  },
+  {
+    "q0": 43785110,
+    "q41": "Requests bringing a particular designer/strategist back."
+  },
+  {
+    "q0": 43785031,
+    "q41": "Wants masculine male characters and non-revealing female outfits; will wait and see with LXHY."
+  },
+  {
+    "q0": 43784096,
+    "q41": "Asks when testing starts."
+  },
+  {
+    "q0": 43783899,
+    "q41": "Wants turn-based PvP and asks for careful balance."
+  },
+  {
+    "q0": 43783777,
+    "q41": "Says many character designs are highly similar; accuses intra-company copying; disappointed."
+  },
+  {
+    "q0": 43783497,
+    "q41": "Points out inconsistent use of ‘Three Kingdoms Fantasy’ design sheets versus old CG; questions if it’s the same dev team."
+  },
+  {
+    "q0": 43782945,
+    "q41": "Asks if this is the ‘Three Fantasy’ they think of."
+  },
+  {
+    "q0": 43782868,
+    "q41": "Wants Pang Tong as a husband character."
+  },
+  {
+    "q0": 43782853,
+    "q41": "Skeptical of ‘guofeng’ marketing; only gives two stars."
+  },
+  {
+    "q0": 43782699,
+    "q41": "Says if it isn’t vertical/portrait, it will flop."
+  },
+  {
+    "q0": 43782330,
+    "q41": "Hopes this test won’t just feature training dummies."
+  },
+  {
+    "q0": 43782283,
+    "q41": "Accuses AI-like art; says PV looks like fan-made and leans on Japanese aesthetics."
+  },
+  {
+    "q0": 43782079,
+    "q29": -2,
+    "q30": "Says it’s just a cash grab; advises others to run."
+  },
+  {
+    "q0": 43781941,
+    "q41": "Praised story in the old game but dislikes the new art style."
+  },
+  {
+    "q0": 43781463,
+    "q41": "Asks if it’s shifting to an otome (female-targeted) style."
+  },
+  {
+    "q0": 43781239,
+    "q41": "Rejects chibi ‘big-head’ character proportions."
+  },
+  {
+    "q0": 43781004,
+    "q41": "Fatigued by the overused Three Kingdoms theme."
+  },
+  {
+    "q0": 43780493,
+    "q41": "Art seems worse than the previous game; will watch and wait."
+  },
+  {
+    "q0": 43779913,
+    "q41": "Worried about rigid, time-gated daily events that feel like a job."
+  },
+  {
+    "q0": 43779167,
+    "q41": "Claims the art is AI-generated."
+  },
+  {
+    "q0": 43778554,
+    "q41": "Loves this art style."
+  },
+  {
+    "q0": 43778116,
+    "q41": "Hates the art; says if making an otome, don’t use the Three Fantasy brand."
+  },
+  {
+    "q0": 43777796,
+    "q41": "Asks about gameplay; fears it’s card-battle again."
+  },
+  {
+    "q0": 43777674,
+    "q41": "Mocks characters as skinny like a ‘Code: Bird’ sequel."
+  },
+  {
+    "q0": 43777222,
+    "q29": -2,
+    "q30": "Fears focus on art over gameplay; expects influencer ‘how to spend’ guides; worries it’s a shallow reskin centered on monetization.",
+    "q41": "Says male audience is neglected; Three Kingdoms flavor lost with paper-thin designs; warns art alone won’t sustain long-term play."
+  },
+  {
+    "q0": 43777139,
+    "q41": "Says the art looks like an otome style."
+  },
+  {
+    "q0": 43776970,
+    "q41": "Notices ‘Jian Shuo’ (a eunuch) in the opening; expresses confusion."
+  },
+  {
+    "q0": 43776821,
+    "q41": "Notes there’s no strong MC and the player is an observer; calls out teen-styled Cao Cao and a tragic CP arc, implying shipping intent."
+  },
+  {
+    "q0": 43776458,
+    "q41": "Questions reservation ranking credibility (few reservations despite #1 ranking)."
+  },
+  {
+    "q0": 43776340,
+    "q41": "Expects good story under a female lead artist; mixed on some designs; spends on skins; found prior titles grindy; hopes to separate casual and combat modes."
+  },
+  {
+    "q0": 43775979,
+    "q41": "Says original art was good; current art has an AI vibe; urges hiring proper artists."
+  },
+  {
+    "q0": 43773905,
+    "q41": "Likes the overall style but finds some characters ugly."
+  },
+  {
+    "q0": 43773079,
+    "q41": "Attracted by art but deterred by LXHY’s reputation; won’t play."
+  },
+  {
+    "q0": 43773006,
+    "q6": "Inheritance progression system; hero bond/synergy mechanics",
+    "q41": "Long-time player recounts history; dislikes 3D models and prefers 2D; hopes the sequel meets expectations."
+  },
+  {
+    "q0": 43772125,
+    "q41": "Strong AI-art vibe; says previous LXHY titles drew players with art but this one loses that advantage."
+  },
+  {
+    "q0": 43772089,
+    "q6": "Inheritance system; zero-spend viable; bond/synergy among heroes",
+    "q11": 1,
+    "q12": "Says units had distinct strengths and weren’t all trash picks.",
+    "q13": 1,
+    "q14": "Praised roster variety with each role having merits.",
+    "q41": "Prefers 2D over 3D; wants detailed illustrations instead of models; requests Five Tigers bond."
+  },
+  {
+    "q0": 43772035,
+    "q41": "Says the new art lacks the old eye candy."
+  },
+  {
+    "q0": 43772010,
+    "q41": "Sarcastically suggests gender-swapping to revealing female characters; criticizes art direction."
+  },
+  {
+    "q0": 43771577,
+    "q41": "Asks where the macho men are."
+  },
+  {
+    "q0": 43771313,
+    "q41": "Complains that most cover characters are effeminate male generals; says it looks like a ‘Code: Bird’ take on Three Fantasy."
+  },
+  {
+    "q0": 43771287,
+    "q41": "Ridicules the name choice."
+  },
+  {
+    "q0": 43770809,
+    "q41": "Says it looks simplistic and art is worse than web games; asks for more polish."
+  },
+  {
+    "q0": 43770501,
+    "q41": "Thinks it looks like a new ‘Code: Bird’; asks otome style not to co-opt Three Fantasy."
+  },
+  {
+    "q0": 43770364,
+    "q41": "Says CG looks incomplete and accuses a pre-release cash grab."
+  },
+  {
+    "q0": 43770061,
+    "q41": "Says LXHY keeps making same-y Three Kingdoms games without innovation."
+  },
+  {
+    "q0": 43769655,
+    "q41": "Interested but wary due to LXHY’s track record; says the male-otome style is attractive."
+  },
+  {
+    "q0": 43769647,
+    "q41": "Questions whether this art style is appropriate."
+  },
+  {
+    "q0": 43769631,
+    "q41": "Claims the images are AI-generated."
+  },
+  {
+    "q0": 43769332,
+    "q41": "Says male characters lack masculine spirit and look overly flirty."
+  },
+  {
+    "q0": 43769146,
+    "q41": "After watching PVs, feels positive and anticipates the game."
+  },
+  {
+    "q0": 43768874,
+    "q41": "Questions completeness and says the art is weak."
+  },
+  {
+    "q0": 43768785,
+    "q41": "Sarcastic about yet another Three Kingdoms card game ‘blowing up’."
+  },
+  {
+    "q0": 43768529,
+    "q41": "Came because they played Three Fantasy; requests a test slot."
+  },
+  {
+    "q0": 43768041,
+    "q41": "Most anticipated; has played Three Fantasy since high school."
+  },
+  {
+    "q0": 43767789,
+    "q9": -1,
+    "q10": "Promises of a fixed top rarity were later broken by overpowered ‘Soul Generals’, indicating power creep.",
+    "q11": -1,
+    "q12": "Introduction of Soul Generals created imbalance and undermined prior tiers."
+  }
+]
