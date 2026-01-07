@@ -1,0 +1,488 @@
+[
+  {
+    "q0": 38031901,
+    "q29": -2,
+    "q30": "Described as pure money-grabbing."
+  },
+  {
+    "q0": 38031894,
+    "q31": -2,
+    "q32": "Says the game is too stingy with rewards.",
+    "q29": -2,
+    "q30": "Complains about being overly tight-fisted despite good art."
+  },
+  {
+    "q0": 38031838,
+    "q4": -2,
+    "q5": "Says this kind of fighting gameplay is boring."
+  },
+  {
+    "q0": 38031831,
+    "q9": -2,
+    "q10": "States there is no variety—only pushing stages with forced play."
+  },
+  {
+    "q0": 38031826,
+    "q31": -2,
+    "q32": "Says the game withholds rewards; implies refusing to give rewards.",
+    "q41": "Accuses the game of using AI-assisted illustrations; KPI-driven design."
+  },
+  {
+    "q0": 38031823,
+    "q31": -2,
+    "q32": "Inbox only gave one 10-pull ticket and two discount coupons."
+  },
+  {
+    "q0": 38031818,
+    "q9": -2,
+    "q10": "Onboarding/tutorial is too long.",
+    "q31": -2,
+    "q32": "Says the developer is stingy."
+  },
+  {
+    "q0": 38031817,
+    "q1": true,
+    "q2": "Sexual content censored (characters made white-themed with added black veils).",
+    "q41": "Art/costume changes are considered ugly."
+  },
+  {
+    "q0": 38031809,
+    "q29": -2,
+    "q30": "Calls the gacha extremely stingy."
+  },
+  {
+    "q0": 38031808,
+    "q1": true,
+    "q2": "Sexual content censored.",
+    "q27": -2,
+    "q28": "Says growth requires paying (P2W).",
+    "q29": -2,
+    "q30": "Lists resource gain as stingy and overall experience as pay-heavy.",
+    "q31": -2,
+    "q32": "States resources/rewards are stingy.",
+    "q41": "Says gacha often goes off-banner; claims low playability; mentions frequent server rolling."
+  },
+  {
+    "q0": 38031799,
+    "q29": -2,
+    "q30": "Gacha/reward claims gated behind stage requirements; called it quits.",
+    "q41": "Must meet stage requirements even after drawing to claim rewards."
+  },
+  {
+    "q0": 38031788,
+    "q1": true,
+    "q2": "Sexual content censored (more clothing added).",
+    "q31": -2,
+    "q32": "Benefits and rewards are poor; skin costs 780 diamonds.",
+    "q29": -2,
+    "q30": "Complains about skin pricing and poor benefits."
+  },
+  {
+    "q0": 38031787,
+    "q1": true,
+    "q2": "Sexual content heavily censored (promotional art fully masked).",
+    "q9": -2,
+    "q10": "Forced to raise levels and clear stages to claim pre-registration rewards.",
+    "q31": -2,
+    "q32": "Pre-registration rewards are gated behind progression."
+  },
+  {
+    "q0": 38031779,
+    "q1": true,
+    "q2": "Sexualized marketing.",
+    "q37": -2,
+    "q38": "Says it wasted several GB of data."
+  },
+  {
+    "q0": 38031770,
+    "q4": -2,
+    "q5": "No pause in novice stages; must repeatedly watch low-quality ultimate animations; game froze during skill use.",
+    "q41": "Reports game freeze during tutorial battle."
+  },
+  {
+    "q0": 38031762,
+    "q41": "Verification code (OTP) not received; cannot proceed."
+  },
+  {
+    "q0": 38031756,
+    "q31": -2,
+    "q32": "Calls the game extremely stingy."
+  },
+  {
+    "q0": 38031755"
+  },
+  {
+    "q0": 38031751,
+    "q9": -2,
+    "q10": "Says the game wastes players' time to the extreme and nothing is engaging."
+  },
+  {
+    "q0": 38031745,
+    "q31": -2,
+    "q32": "Self-select 10-pull at stage 3; prereg rewards at stage 4; 10-pull claim at stage 10; inbox gives recharge discount coupon.",
+    "q29": -2,
+    "q30": "Gating rewards behind stages and pushing discount coupons increases spending pressure."
+  },
+  {
+    "q0": 38031737"
+  },
+  {
+    "q0": 38031729,
+    "q31": -2,
+    "q32": "Accuses the game of not wanting to give rewards."
+  },
+  {
+    "q0": 38031714,
+    "q9": -2,
+    "q10": "Tutorial is long and unpleasant; after it there is not even one draw from mail.",
+    "q31": -2,
+    "q32": "No summon rewards given via mail after tutorial."
+  },
+  {
+    "q0": 38031688,
+    "q4": -2,
+    "q5": "Forced clicks early; no option found to disable ultimate animations; animations are blurry and repeated 4–5 times per stage."
+  },
+  {
+    "q0": 38031682,
+    "q29": -2,
+    "q30": "Complains about flashy hurdles preventing players from drawing; feels manipulative."
+  },
+  {
+    "q0": 38031680,
+    "q1": true,
+    "q2": "Sexual content censored (asking about anti-censorship)."
+  },
+  {
+    "q0": 38031677,
+    "q37": -2,
+    "q38": "Says it wastes data and time.",
+    "q31": -2,
+    "q32": "Complains about the quality of given rewards."
+  },
+  {
+    "q0": 38031658,
+    "q4": -2,
+    "q5": "Battle cannot be sped up; forced to watch each fight during an overly long tutorial."
+  },
+  {
+    "q0": 38031650"
+  },
+  {
+    "q0": 38031620,
+    "q31": -2,
+    "q32": "No starting draws or characters; inbox gives only discount coupons and less than one 10-pull worth of gems.",
+    "q29": -2,
+    "q30": "Pushes discount coupons and withholds early draws/characters."
+  },
+  {
+    "q0": 38031588,
+    "q31": -2,
+    "q32": "10-pull and prereg rewards require clearing specific stages.",
+    "q29": -2,
+    "q30": "Recharge discount card does not count toward first purchase bonus."
+  },
+  {
+    "q0": 38031583"
+  },
+  {
+    "q0": 38031539,
+    "q31": -2,
+    "q32": "10-pull requires clearing early stages; claiming another 10-pull requires stage 10; fewer than 20 pulls after first 3 stages; no SSR.",
+    "q9": -2,
+    "q10": "Difficulty spike (almost failed the 3rd boss) while rewards remain gated."
+  },
+  {
+    "q0": 38031535,
+    "q3": "Mostly auto-battle, number-driven combat with unskippable skill animations.",
+    "q4": -2,
+    "q5": "Nearly fully automatic combat with blurry, unskippable animations and an overlong tutorial.",
+    "q6": "Minimal player operation; pure stat checks.",
+    "q7": -2,
+    "q8": "States there is little to no room for player operation; progression is a stat check.",
+    "q9": -2,
+    "q10": "Rewards tied to main story push and stretched over time.",
+    "q31": -2,
+    "q32": "Inbox gives very little and most rewards require main story push.",
+    "q41": "Graphics/UI feel outdated; many character models look disproportionate."
+  },
+  {
+    "q0": 38031529,
+    "q3": "Turn-based idle/auto combat.",
+    "q4": -1,
+    "q5": "Says gameplay is not deep—just a turn-based idle loop.",
+    "q31": -2,
+    "q32": "Newcomer rewards are time-limited (1 day) and locked behind reaching Chapter 7.",
+    "q29": -2,
+    "q30": "Forces long initial playtime to use rewards; uses purchase discount coupons.",
+    "q9": -2,
+    "q10": "Progress and reward usage gated by reaching Chapter 7 within 1 day."
+  },
+  {
+    "q0": 38031521,
+    "q37": -2,
+    "q38": "Final download is ~3GB; initial 200MB was not final.",
+    "q39": -2,
+    "q40": "Full resource download only starts after login; no pause or progress bar.",
+    "q29": -2,
+    "q30": "Discount-coupon purchases do not count toward recharge progress; permanent card pricier than other regions.",
+    "q41": "Warns that coupon-purchased gems do not count toward recharge/bonus."
+  },
+  {
+    "q0": 38031518,
+    "q1": true,
+    "q2": "Sexual content censored (many changes; character removed/altered).",
+    "q41": "Mentions localized pricing and better frame rate but says the game lacks distinguishing features."
+  },
+  {
+    "q0": 38031505,
+    "q9": -2,
+    "q10": "Calls the process long and unpleasant."
+  },
+  {
+    "q0": 37963335,
+    "q1": true,
+    "q2": "Sexual content censored; swimsuits layered over clothing.",
+    "q23": true,
+    "q24": "Reports 50-pull soft pity and 200-pull hard pity.",
+    "q29": -2,
+    "q30": "Calls the game very pay-heavy; often only gets hits at hard pity.",
+    "q31": -2,
+    "q32": "Says very few free pulls are given and dupes give only half shards."
+  },
+  {
+    "q0": 38031504,
+    "q31": -2,
+    "q32": "Random pre-launch pre-draw event is disliked."
+  },
+  {
+    "q0": 38031500,
+    "q31": -2,
+    "q32": "No resources to draw after tutorial; mail gives only a 1 RMB 100-gem discount coupon.",
+    "q29": -2,
+    "q30": "Pushes discount coupon instead of starter summons."
+  },
+  {
+    "q0": 38031467,
+    "q1": true,
+    "q2": "Sexualized character design (implied by comment)."
+  },
+  {
+    "q0": 38031455"
+  },
+  {
+    "q0": 38031451,
+    "q4": -2,
+    "q5": "Long, unskippable ultimate animations; forced tutorial interactions.",
+    "q39": -2,
+    "q40": "Requires additional in-game downloads despite pre-download; poor UX.",
+    "q41": "Criticizes forced strengthening/exploration steps in tutorial."
+  },
+  {
+    "q0": 38031440"
+  },
+  {
+    "q0": 38031437,
+    "q41": "Says gameplay is archaic, story is bad, and servers are mixed."
+  },
+  {
+    "q0": 38031415,
+    "q4": -2,
+    "q5": "Battle presentation feels five years outdated.",
+    "q31": -2,
+    "q32": "Mail includes recharge coupons; only one 10-pull and it is locked behind stage progression.",
+    "q29": -2,
+    "q30": "Use of recharge coupons and gating of pulls increases monetization pressure.",
+    "q41": "Criticizes character proportions."
+  },
+  {
+    "q0": 38031379,
+    "q1": true,
+    "q2": "All character art has been censored (more clothing/black cloth added).",
+    "q4": -1,
+    "q5": "Cannot find where to disable ultimate animations; suspects it's locked until high level."
+  },
+  {
+    "q0": 38031363,
+    "q9": -2,
+    "q10": "Sarcastically notes the tutorial is excessively long and hand-holding."
+  },
+  {
+    "q0": 38031322,
+    "q3": "Auto-battle with heavy, lengthy skill animations.",
+    "q4": -2,
+    "q5": "Small skills trigger long animations, no skip; 80% of battle time is animations; forced tutorial."
+  },
+  {
+    "q0": 38031316"
+  },
+  {
+    "q0": 38031313,
+    "q39": -2,
+    "q40": "Starts downloading content after beginning; cannot run in background; issue persisted from CBT to launch."
+  },
+  {
+    "q0": 38031303"
+  },
+  {
+    "q0": 38031302,
+    "q41": "Game cannot be opened."
+  },
+  {
+    "q0": 38031288,
+    "q4": -2,
+    "q5": "Tutorial forces watching long animations."
+  },
+  {
+    "q0": 38031283,
+    "q4": -2,
+    "q5": "Animations drag on, HP bars too thick, no fast-forward."
+  },
+  {
+    "q0": 38031259,
+    "q4": -2,
+    "q5": "Skill animations in tutorial are headache-inducing."
+  },
+  {
+    "q0": 38031253,
+    "q39": -2,
+    "q40": "Requires additional internal downloads."
+  },
+  {
+    "q0": 38031242,
+    "q1": true,
+    "q2": "Character art censored/heavily altered."
+  },
+  {
+    "q0": 38031204,
+    "q4": -2,
+    "q5": "No skip or speed-up early; forced to watch repeated chibi animations."
+  },
+  {
+    "q0": 38031196"
+  },
+  {
+    "q0": 37888113,
+    "q4": -2,
+    "q5": "Animation presentation has poor clarity; quality below a previous title."
+  },
+  {
+    "q0": 38031127,
+    "q31": -2,
+    "q32": "Pre-draw/invite event yields useless results; even got own alt account.",
+    "q41": "Criticizes the pre-draw referral system."
+  },
+  {
+    "q0": 38030141"
+  },
+  {
+    "q0": 38029866"
+  },
+  {
+    "q0": 38029843,
+    "q31": -2,
+    "q32": "Pre-registration draw tied to inviting others; rewards depend on luck.",
+    "q41": "Players are used for marketing via invite-based pre-draw."
+  },
+  {
+    "q0": 37895671,
+    "q4": -2,
+    "q5": "Half of combat time is watching animations; skill animation skip unlocks only at level 40; newbie pool appears locked.",
+    "q31": -2,
+    "q32": "Calls the game stingy overall, including the global version."
+  },
+  {
+    "q0": 38029733,
+    "q31": -2,
+    "q32": "Referral-based pre-draw requires inviting newcomers and only gives an SR after two invites."
+  },
+  {
+    "q0": 38029708,
+    "q41": "Describes it as a rolling-servers game."
+  },
+  {
+    "q0": 38029237"
+  },
+  {
+    "q0": 38028248"
+  },
+  {
+    "q0": 38027602,
+    "q41": "Cannot complete real-name verification."
+  },
+  {
+    "q0": 38027529"
+  },
+  {
+    "q0": 38026429,
+    "q41": "Warns of stat inflation and frequent server rolling."
+  },
+  {
+    "q0": 38025817,
+    "q31": -2,
+    "q32": "Uninstalled because of the pre-draw (invite) event."
+  },
+  {
+    "q0": 38025767"
+  },
+  {
+    "q0": 38025304"
+  },
+  {
+    "q0": 38025058"
+  },
+  {
+    "q0": 38024971"
+  },
+  {
+    "q0": 38024537"
+  },
+  {
+    "q0": 38024287,
+    "q39": -2,
+    "q40": "Update/download stuck and does not proceed."
+  },
+  {
+    "q0": 38024264"
+  },
+  {
+    "q0": 38023984"
+  },
+  {
+    "q0": 38023636"
+  },
+  {
+    "q0": 38022933"
+  },
+  {
+    "q0": 38022673"
+  },
+  {
+    "q0": 38022646,
+    "q1": true,
+    "q2": "Censored character art in CN version.",
+    "q29": -2,
+    "q30": "Complains about a screen full of monetization buttons."
+  },
+  {
+    "q0": 38022492,
+    "q1": true,
+    "q2": "CN version adjusted/censored character art.",
+    "q41": "Says core appeal (art) is gone; only PvP and cumbersome dailies remain."
+  },
+  {
+    "q0": 37832065"
+  },
+  {
+    "q0": 38021797"
+  },
+  {
+    "q0": 38021438"
+  },
+  {
+    "q0": 38020510"
+  },
+  {
+    "q0": 38020505"
+  }
+]

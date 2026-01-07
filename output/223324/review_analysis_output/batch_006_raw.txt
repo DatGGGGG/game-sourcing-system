@@ -1,0 +1,601 @@
+[
+  {
+    "q0": 39665487,
+    "q33": true,
+    "q34": "Chinese cultural relics/antiquities anthropomorphized as characters (museum/artefact IP).",
+    "q35": -1,
+    "q36": "IP exists but linkage feels superficial; some characters seem generic with relic elements pasted on; reviewer suspects AI art for non-core characters.",
+    "q41": "Art quality inconsistency and suspected AI-generated illustrations; hesitation to spend due to perceived AI use."
+  },
+  {
+    "q0": 39665445,
+    "q41": "Very limited test eligibility; frustration at being asked to rate despite not getting access."
+  },
+  {
+    "q0": 39665429,
+    "q39": -1,
+    "q40": "Long update process before login followed by no available slots.",
+    "q41": "Reserved for test but no quota on login; disappointment after long anticipation."
+  },
+  {
+    "q0": 39665397,
+    "q3": "Turn-based SRPG/tactics with ult animations.",
+    "q4": 1,
+    "q5": "Overall fine visuals and portraits; ult animations need polish.",
+    "q9": -1,
+    "q10": "Character growth resources feel scarce."
+  },
+  {
+    "q0": 39665292,
+    "q3": "Turn-based tactics with stage star conditions and turn limits.",
+    "q4": -2,
+    "q5": "Star conditions are harsh, stage pacing wastes time, and some stages cannot be autoed.",
+    "q6": "Turn-limit clears, split enemy spawns, manual-only stages.",
+    "q7": -1,
+    "q8": "Objectives feel punitive rather than strategic.",
+    "q9": -2,
+    "q10": "Stages require tight clears; progress gated by design frustrations.",
+    "q29": -1,
+    "q30": "Frustrating UP experience and harsh objectives increase pressure.",
+    "q31": -2,
+    "q32": "Reviewer calls the welfare bad despite decent gold drop rate."
+  },
+  {
+    "q0": 39665240,
+    "q3": "Turn-based tactics with skill animations and auto battle.",
+    "q4": 1,
+    "q5": "Overall positive; rough skill animations and some UI hints unclear.",
+    "q41": "Frequent network instability; hidden challenge prompts and activity red dots not obvious; gifted skin visual change too subtle."
+  },
+  {
+    "q0": 39665224,
+    "q3": "Turn-based SRPG with summoner-style units.",
+    "q4": -1,
+    "q5": "Summons are slow and awkward; ranged UP character forced to play close; poor feel.",
+    "q6": "Summoned units, positioning constraints for ranged, level-recommended stages overly hard.",
+    "q7": -1,
+    "q8": "Design makes ranged clustering mandatory; mechanics fight intended roles.",
+    "q9": -2,
+    "q10": "Needs higher levels to clear recommended stages; extends progression timeline.",
+    "q11": -2,
+    "q12": "UP red feels underpowered vs orange cards at same level; balance feels untested.",
+    "q41": "Creature aesthetics (e.g., Xuanwu, Golden Crow) look unappealing; low visual polish."
+  },
+  {
+    "q0": 39665176,
+    "q3": "Turn-based war chess with auto-battle.",
+    "q4": -1,
+    "q5": "Not into the genre and auto AI is dumb; ultimate VFX underwhelming.",
+    "q23": true,
+    "q24": "Hard pity around 180 pulls for featured unit.",
+    "q25": -1,
+    "q26": "180 pulls feels too high to guarantee favorite character."
+  },
+  {
+    "q0": 39665173,
+    "q3": "Turn-based war chess SRPG.",
+    "q9": -1,
+    "q10": "Growth systems are very resource hungry (level caps plus talent-like nodes and gear grind).",
+    "q15": "Post-clear idle/auto with increasing multipliers (6x–8x) to farm stages.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Straightforward automated farming once unlocked.",
+    "q23": true,
+    "q24": "No universal soft pity; only a 180-pull spark/selector; off-banner can happen multiple times.",
+    "q27": -1,
+    "q28": "Core features available but pull currency acquisition is limited.",
+    "q29": -1,
+    "q30": "Limited currency and heavy growth encourage planning or spending.",
+    "q31": -1,
+    "q32": "Pull resources seen as not much; welfare only okay.",
+    "q41": "UI flashy and cluttered; weapon system uses random substats reminiscent of relic grinding."
+  },
+  {
+    "q0": 39665120,
+    "q3": "Turn-based tactics; slow battle pacing with ult repeats.",
+    "q4": -1,
+    "q5": "Pacing too slow; needs higher speed and reduced repeated ult animations; lacks sweep.",
+    "q23": true,
+    "q24": "Only a 180-pull hard pity; no smaller pity mentioned.",
+    "q29": -1,
+    "q30": "Monthly F2P pulls ~20+, too little to keep up with event cycles; lack of pity variety hurts non-spenders.",
+    "q31": -2,
+    "q32": "Very low monthly free pulls; events don’t compensate; requests small/large pity.",
+    "q41": "Some cards lack voice; new player guidance weak (missed better shop bundles); wants more character interactions; certain ult animations feel perfunctory."
+  },
+  {
+    "q0": 39665072,
+    "q41": "Test qualification confusion; asks where their test access is."
+  },
+  {
+    "q0": 39665066,
+    "q3": "Classic SRPG (war chess) with auto AI and multi-speed.",
+    "q4": -1,
+    "q5": "In-battle presentation feels old and rough versus peers.",
+    "q6": "Auto AI assistance, multiple battle speeds.",
+    "q7": 0,
+    "q8": "Basic SRPG toolkit; nothing novel but functional.",
+    "q23": true,
+    "q24": "Hard pity around 180; small pity exists; can convert high rarity (gold to rainbow) akin to Arknights mechanics.",
+    "q41": "Launch server stability concerns; recommends planning PR for potential outage."
+  },
+  {
+    "q0": 39665043,
+    "q3": "Turn-based war chess with auto and various star conditions.",
+    "q4": -1,
+    "q5": "Auto AI often idle/no skills; star conditions feel punishing.",
+    "q6": "Protect hostage, specific-turn kills, immunity mechanics affecting stars.",
+    "q7": -1,
+    "q8": "Objectives increase frustration more than strategy.",
+    "q9": -1,
+    "q10": "Very grindy; stamina tight; many systems to raise.",
+    "q15": "Logistics/back-end assignments; gear crafting with random substats.",
+    "q16": false,
+    "q17": 0,
+    "q18": "Logistics simple but capacity limited; gear RNG adds complexity.",
+    "q41": "No daily stamina meals; logistics slots few; gear RNG may be discouraging."
+  },
+  {
+    "q0": 39664988,
+    "q3": "Turn-based SRPG with auto and limited sweep.",
+    "q4": 0,
+    "q5": "Overall okay but some UX complaints (skill targeting flow, stamina low, descriptions inaccurate).",
+    "q6": "Auto battle, sweep with limits.",
+    "q7": 0,
+    "q8": "Standard features; nothing standout.",
+    "q23": true,
+    "q24": "180-pull hard pity; acceptable if rates stay as observed.",
+    "q25": 0,
+    "q26": "Pity acceptable to reviewer given current rates; would be a downside if worsened.",
+    "q41": "Low stamina; inaccurate skill range descriptions; lost a 10-pull due to launch lag; limited filtering (e.g., by healer)."
+  },
+  {
+    "q0": 39664986,
+    "q3": "Turn-based tactics with grid movement.",
+    "q4": -2,
+    "q5": "Frequent mis-taps (e.g., stage 1-12) ruin experience."
+  },
+  {
+    "q0": 39664949,
+    "q39": -2,
+    "q40": "Small-windowing pauses game; loading stuck at ~84% after story-to-battle transition if interacting in PiP.",
+    "q41": "Game pauses in background/PiP; blocking bug on transition."
+  },
+  {
+    "q0": 39664928,
+    "q3": "Turn-based SRPG with speed turn-order system.",
+    "q4": -1,
+    "q5": "Reliance on stats and stars; star conditions and speed system create frustration.",
+    "q6": "8-unit team compositions, speed stat affects turn order, HP>50% full-star checks, replay-to-claim sweeps.",
+    "q7": -1,
+    "q8": "Strategy overshadowed by stat checks and punitive star conditions.",
+    "q9": -2,
+    "q10": "Extremely resource hungry across many systems (skills, base stats, constellations, gear RNG).",
+    "q11": -1,
+    "q12": "Constellation (dupe) power spikes are large, making duplicates too important.",
+    "q29": -1,
+    "q30": "Heavy resource demands and star checks push grinding/spending.",
+    "q41": "Replay watching for sweeps feels like padding; environment hazards and fast enemies punish full-star attempts."
+  },
+  {
+    "q0": 39664050,
+    "q3": "Classic SRPG; no unique combat ideas cited.",
+    "q23": true,
+    "q24": "SSR 2.5% with ~1.25% rate-up; soft pity around 70 for any SSR; 180-pull hard pity for banner unit; progress not shared between banners; no guaranteed 50/50 mechanic.",
+    "q25": -2,
+    "q26": "About 10 RMB per pull perceived as expensive; pity non-shared and off-banner risk remains.",
+    "q33": true,
+    "q34": "Cultural relics/antiquities IP; heavy national-style packaging.",
+    "q35": 1,
+    "q36": "Strong cultural wrapping and intent to introduce artifacts, though reviewer dislikes didactic feel.",
+    "q41": "UI overly ornate and unreadable; concern project might be under-resourced; many features unfinished for a paid test."
+  },
+  {
+    "q0": 39664851,
+    "q3": "Turn-based tactics; easy to pick up.",
+    "q4": 1,
+    "q5": "Light, accessible feel; strong art and VA enhance battles.",
+    "q41": "Server instability and frequent reconnects; some missing voice lines; text readability issues in story; unclear auto/speed toggles in story."
+  },
+  {
+    "q0": 39664731,
+    "q41": "Overall gameplay experience described as very poor."
+  },
+  {
+    "q0": 39664657,
+    "q13": -1,
+    "q14": "Currently little synergy between characters.",
+    "q29": -1,
+    "q30": "No fixed source of gacha currency; stamina low; growth costs high.",
+    "q31": -1,
+    "q32": "No stable gacha income and high costs reduce perceived generosity.",
+    "q41": "Gacha can off-rate multiple times in one banner; weapon substats are random (though no random substat leveling)."
+  },
+  {
+    "q0": 39664526,
+    "q23": true,
+    "q24": "Hard pity via spark/‘well’ at 180 pulls; progress not carried between banners.",
+    "q31": -1,
+    "q32": "Welfare perceived worse than other recent tactics games.",
+    "q41": "No sweep feature; concerns that if unchanged for release the game may fail."
+  },
+  {
+    "q0": 39664574,
+    "q3": "Turn-based tactics (misnamed as auto chess by reviewer).",
+    "q4": -1,
+    "q5": "Gameplay feels ordinary; only art/BGM stand out.",
+    "q41": "Server meltdown and poor PR; cluttered UI; minimal tutorials; lack of sweep; Live2D feels low quality for the price."
+  },
+  {
+    "q0": 39664553,
+    "q41": "Notified of test qualification but access required separate registration; perceived as download bait."
+  },
+  {
+    "q0": 39658972,
+    "q33": true,
+    "q34": "Cultural relics theme; characters embody artifacts.",
+    "q35": -1,
+    "q36": "Story feels only loosely related to specific relics; could be any object anthropomorphism.",
+    "q41": "Cluttered, headache-inducing UI; qualification gating after prompting downloads."
+  },
+  {
+    "q0": 39664462,
+    "q23": true,
+    "q24": "Around 180 pulls for multiple SSRs with at least one UP guaranteed; no separate weapon banner.",
+    "q25": 0,
+    "q26": "Described as middle-of-the-road within the genre.",
+    "q31": -1,
+    "q32": "Opening-event rewards considered insufficient.",
+    "q41": "Requests richer challenge modes and better battle cut-ins; suggests more regional dialect VOs and varied music."
+  },
+  {
+    "q0": 39664448,
+    "q41": "Prompted with 'You have test qualification' then told registration is at capacity after downloading."
+  },
+  {
+    "q0": 39664428,
+    "q41": "Low interaction with characters despite appealing art; gameplay ordinary but acceptable."
+  },
+  {
+    "q0": 39664427,
+    "q3": "War chess-style tactics.",
+    "q4": 1,
+    "q5": "Reviewer enjoys this gameplay type.",
+    "q9": -1,
+    "q10": "Difficulty spikes sharply from chapter 2; level-gating feels severe."
+  },
+  {
+    "q0": 39658437,
+    "q3": "Old-school turn-based combat.",
+    "q4": 0,
+    "q5": "Feels conventional; nothing standout.",
+    "q41": "Network issues; preferences for more mature female models and less clothing; requests more stable service."
+  },
+  {
+    "q0": 28724797,
+    "q15": "Higher battle speeds and multi-multipliers partially offset lack of sweep.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple speed/multiplier system makes farming tolerable.",
+    "q41": "Defends against 1-star spam due to qualification; notes full Chinese VO per nationality; acknowledges no sweep and small niche appeal."
+  },
+  {
+    "q0": 39664319,
+    "q9": -1,
+    "q10": "Feels grindy without clear positioning (neither fully casual nor deep).",
+    "q41": "Art looks oddly off on closer look; story integration feels stiff."
+  },
+  {
+    "q0": 39656950,
+    "q23": true,
+    "q24": "Hard pity at 180; rising soft pity from ~50; off-banner possible; UP ~1.25% within 2.5% SSR.",
+    "q25": -2,
+    "q26": "About 18 RMB per pull perceived as expensive; pity still allows off-banner; banner progress not shared.",
+    "q41": "Voice lines have long initial silence; repeated qualification/download confusion."
+  },
+  {
+    "q0": 39664212,
+    "q3": "Turn-based SRPG with auto option.",
+    "q4": 1,
+    "q5": "Strong art/music; generally positive experience.",
+    "q6": "Auto battle, star condition requiring 50% HP+ at end.",
+    "q7": -1,
+    "q8": "Star conditions hinder auto-friendly play.",
+    "q9": -1,
+    "q10": "Some main stages full-star requirements are too strict."
+  },
+  {
+    "q0": 39664150,
+    "q41": "Auto battle pauses when app is in small-window mode; requests change."
+  },
+  {
+    "q0": 39663987,
+    "q3": "Turn-based tactics.",
+    "q4": -2,
+    "q5": "Gameplay called boring and overly difficult.",
+    "q9": -2,
+    "q10": "Very grindy; progression feels punishing.",
+    "q41": "Art quality uneven; some paid skins worse than base; music is the only praised aspect."
+  },
+  {
+    "q0": 39663770,
+    "q9": -1,
+    "q10": "Resource income feels low; gameplay mentally taxing."
+  },
+  {
+    "q0": 39663730,
+    "q3": "War chess battles; no sweep yet.",
+    "q4": 1,
+    "q5": "Finds it playable and suitable as a side game; service responses timely.",
+    "q41": "Requests sweep to further reduce time cost."
+  },
+  {
+    "q0": 39663679,
+    "q41": "Unable to enter the game; no evaluation possible."
+  },
+  {
+    "q0": 39663599,
+    "q41": "Downloaded and registered prior day but missed 11:00 slot; strong dissatisfaction with qualification process and bugs."
+  },
+  {
+    "q0": 39663549,
+    "q4": -1,
+    "q5": "Gameplay feels uncomfortable despite good art and creative artifact theme."
+  },
+  {
+    "q0": 39663547,
+    "q4": -1,
+    "q5": "Story boring; gameplay average; no Live2D/dynamic home animations at time of test.",
+    "q41": "Main screen only shows static illustration; lack of Live2D."
+  },
+  {
+    "q0": 39663511,
+    "q3": "Turn-based SRPG.",
+    "q4": 0,
+    "q5": "Initial wow from art/UI; combat design okay but nothing special.",
+    "q9": -1,
+    "q10": "Difficulty jumps noticeably even within chapter 1."
+  },
+  {
+    "q0": 39663451,
+    "q37": -2,
+    "q38": "Large download size (~7 GB) perceived as waste after failing to get access.",
+    "q41": "Network/qualification timing issues; repeated re-openings caused frustration."
+  },
+  {
+    "q0": 39663447,
+    "q41": "Testing locked by registration despite open download; perceived as misleading operations."
+  },
+  {
+    "q0": 39655598,
+    "q39": -2,
+    "q40": "Stuck after second story video; background auto pauses in small window; frequent network errors.",
+    "q41": "Network instability; small-window auto pause criticized; battle pacing slow for war chess."
+  },
+  {
+    "q0": 39663393,
+    "q3": "Turn-based tactics with AI auto and post-clear entrust.",
+    "q4": 1,
+    "q5": "Simple to auto for clears; manual for perfect stars when needed.",
+    "q9": -1,
+    "q10": "Early resources limited; advises focusing upgrades.",
+    "q15": "Post-clear entrust/AI with buffs to farm stages.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Entrust system is straightforward once unlocked.",
+    "q41": "Some chibi animations look odd; story playback lacks auto/voice replay controls."
+  },
+  {
+    "q0": 39663250,
+    "q3": "Turn-based SRPG with environmental tiles and hidden objectives.",
+    "q4": 0,
+    "q5": "Core loop okay but several pain points reduce fun.",
+    "q6": "Hidden achievements, environmental hazards (e.g., lightning tiles, high ground), surprise enemy drops.",
+    "q7": -1,
+    "q8": "UI/telegraphing unclear; hidden challenges feel annoying.",
+    "q9": -1,
+    "q10": "Overly complex growth (multiple advancements per unit; gear with rarity/upgrade/star) slows progress.",
+    "q41": "Requests simplifying growth like Arknights; clearer telegraphs for tiles and spawns."
+  },
+  {
+    "q0": 39656805,
+    "q41": "Qualification/backstab perception; stuck at loading after card draw; lost promised 10-pull due to lag; later optimization improved."
+  },
+  {
+    "q0": 39663175,
+    "q3": "Turn-based tactics.",
+    "q4": 2,
+    "q5": "Reviewer calls both art and gameplay full marks."
+  },
+  {
+    "q0": 39663156,
+    "q31": 2,
+    "q32": "Claims 50 free pulls as a non-spender."
+  },
+  {
+    "q0": 39663107,
+    "q41": "Test slots opened at 11:00 on a workday; suggests opening qualification at more accessible times."
+  },
+  {
+    "q0": 39663104,
+    "q41": "Requests a more thematically appropriate font to match the ancient theme."
+  },
+  {
+    "q0": 39662928,
+    "q31": -1,
+    "q32": "Perceived as stingy with welfare.",
+    "q41": "Modeling/art criticized as ugly; calls for remake."
+  },
+  {
+    "q0": 39662884,
+    "q15": "Logistics assignments and gear crafting; stage “sweep” plays a single battle animation then pays multi-run rewards.",
+    "q16": false,
+    "q17": 0,
+    "q18": "Logistics is straightforward; ‘watch-to-sweep’ adds time friction.",
+    "q41": "Growth materials and systems feel complex and time-consuming."
+  },
+  {
+    "q0": 39662894,
+    "q41": "Stability issues; positive note that failed hidden challenges can be retried without stamina."
+  },
+  {
+    "q0": 39662888,
+    "q3": "War chess with small maps and hidden conditions.",
+    "q4": -1,
+    "q5": "Hand-feel worse than peers and high early difficulty; hidden conditions add pressure.",
+    "q9": -1,
+    "q10": "Must grind materials to raise stats to perfect-clear; progress based on numbers.",
+    "q29": -1,
+    "q30": "Pull rewards and experience not generous; duplicates provide notable power (between Arknights and Genshin)."
+  },
+  {
+    "q0": 39662722,
+    "q3": "Turn-based SRPG; long boss fights.",
+    "q4": -1,
+    "q5": "Prolonged, repetitive fights feel exhausting.",
+    "q9": -1,
+    "q10": "Many materials to grind; even with entrust you must wait through battle scenes.",
+    "q15": "Replay-once-to-claim multi-battle rewards style sweep/entrust.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Time-consuming to watch/execute despite being a ‘sweep’.",
+    "q29": -1,
+    "q30": "High time cost and grindiness create pressure."
+  },
+  {
+    "q0": 39662715,
+    "q25": -1,
+    "q26": "Criticizes gacha/monetization model and pricing for a tactics game.",
+    "q41": "Dislikes adopting ‘Genshin-like’ monetization in a war chess game."
+  },
+  {
+    "q0": 39662624,
+    "q3": "Turn-based tactics.",
+    "q4": -1,
+    "q5": "Too time-consuming and difficult for the reviewer.",
+    "q9": -1,
+    "q10": "Progress hampered by hard clears and time cost."
+  },
+  {
+    "q0": 39662517,
+    "q41": "Dislikes outfit choice for a young male character."
+  },
+  {
+    "q0": 39662444,
+    "q11": -1,
+    "q12": "Star level boosts are too large; 6-star blue surpasses 1-star red; unclear source of star-up materials.",
+    "q15": "‘Sweep’ runs one battle and awards multi-run loot; acceptable time cost.",
+    "q16": false,
+    "q17": 0,
+    "q18": "Approach is tolerable but still takes some time.",
+    "q41": "All SSRs off-banner in 60 pulls; up rate feels low; story voice lines skip too easily; each stage first clear gives premium currency good for skins."
+  },
+  {
+    "q0": 39656143,
+    "q41": "Persistent network instability; unable to return during tutorial; negative impression of publisher’s track record."
+  },
+  {
+    "q0": 39662435,
+    "q41": "Poor communication on fixes; Tap page lacked clear test markers; immediate network instability upon entry."
+  },
+  {
+    "q0": 39655740,
+    "q23": true,
+    "q24": "No reliable UP guarantee aside from hard pity; off-rate can occur repeatedly; no soft UP guarantee.",
+    "q29": -1,
+    "q30": "Repeated off-banner hits reduce desire to continue.",
+    "q41": "Event BGM too noisy; after five hours lost interest."
+  },
+  {
+    "q0": 39662334,
+    "q3": "Turn-based tactics; mis-tap prone UI.",
+    "q4": -2,
+    "q5": "Very easy to mis-tap; calls combat awful.",
+    "q23": false,
+    "q29": -2,
+    "q30": "Low resources and perceived lack of pity make spending pressure feel heavy.",
+    "q31": -2,
+    "q32": "Resources are very scarce; perceived no-pity increases frustration.",
+    "q41": "Overly busy UI design; frequent off-rate pulls."
+  },
+  {
+    "q0": 39662269,
+    "q41": "Unimpressed by art and gameplay; expresses concern about male character treatment and targeting."
+  },
+  {
+    "q0": 39662232,
+    "q9": -1,
+    "q10": "Complex growth and limited stamina potions (time-limited) impede progress.",
+    "q23": true,
+    "q24": "Pity does not carry or share across banners.",
+    "q29": -1,
+    "q30": "Arknights-like monetization with non-shared pity and time-limited stamina items discourages continued play."
+  },
+  {
+    "q0": 39662215,
+    "q41": "Told ‘test qualification obtained’ after downloading 4GB, then unable to log in; strong frustration with ops."
+  },
+  {
+    "q0": 39656723,
+    "q41": "Download/update completed but no access due to lack of qualification; perceived as chasing download numbers."
+  },
+  {
+    "q0": 39662167,
+    "q41": "Message shows qualification acquired but still cannot play; repeated ‘additional slots’ announcements feel like download bait."
+  },
+  {
+    "q0": 39662145,
+    "q41": "Toggled between ‘qualified’ and ‘registration full’ after repeated downloads; suggests closing download when slots are full."
+  },
+  {
+    "q0": 39662071,
+    "q3": "First-time war chess experience; turn-based tactics.",
+    "q4": 1,
+    "q5": "Finds the mode interesting; art/UI appealing despite some onboarding clutter.",
+    "q23": true,
+    "q24": "180-pull pity; reviewer got UP at 21 pulls.",
+    "q25": 0,
+    "q26": "Neutral on pity given early luck.",
+    "q41": "Newcomer UI overlays blend into background; tasks are hard to find."
+  },
+  {
+    "q0": 39662051,
+    "q3": "Turn-based tactics.",
+    "q4": 1,
+    "q5": "Art, visuals, music, and story meet expectations; combat still being learned."
+  },
+  {
+    "q0": 39661992,
+    "q41": "Launch-day server/connectivity issues; pre-drawing breaks tutorial; promised 20 pulls bugged (lost one 10-pull)."
+  },
+  {
+    "q0": 39661969,
+    "q3": "Turn-based tactics with meaningful strategy.",
+    "q4": 1,
+    "q5": "Good look and feel; sufficient strategy; only a bit tiring over time.",
+    "q6": "Strategic positioning and planning.",
+    "q7": 1,
+    "q8": "Strategy depth perceived as adequate."
+  },
+  {
+    "q0": 39661929,
+    "q41": "Notes war chess is niche; suggests alternate gameplay style would be more popular."
+  },
+  {
+    "q0": 39661898,
+    "q4": -1,
+    "q5": "Attractive art but gameplay not engaging; squandered potential."
+  },
+  {
+    "q0": 39661835,
+    "q41": "Obtained qualification but still told no qualification after download."
+  },
+  {
+    "q0": 39661796,
+    "q41": "Felt misled to download; registration gate wastes time."
+  },
+  {
+    "q0": 39661749,
+    "q41": "Unable to enter; registration limit reached despite attempts."
+  }
+]

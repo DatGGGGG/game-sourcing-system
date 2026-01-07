@@ -1,0 +1,350 @@
+[
+    {
+        "question_code": "q1",
+        "question_content": "Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)",
+        "synthesis_answer": {
+            "null": 1625,
+            "true": 3
+        }
+    },
+    {
+        "question_code": "q2",
+        "question_content": "List the sensitive content mentioned, if any.",
+        "synthesis_answer": "• Excess of childlike-looking female characters causes discomfort and unease. [39719728]  \n• Perceived trend toward more revealing female art; sexualization concerns — \"women wear less and less.\" [39674101]  \n• Presence of blood in the story, but gore impact felt weak. [26832835]"
+    },
+    {
+        "question_code": "q3",
+        "question_content": "Summarize the core combat mechanics (or “N/A” if not mentioned).",
+        "synthesis_answer": "- Turn-based grid tactics with speed bar; acting order fixed; players can’t choose sequence. [39669068, 39732296, 39656444]\n- No counterattacks, backstabs, height or class counters; combat feels stat checks. [39655675, 39687593]\n- Small maps, short movement; units clog paths; positioning feels cramped. [39666720, 39673930, 39669068]\n- Skills feel homogeneous; classes mostly differ by range and damage type. [39717334, 39669068, 39665817]\n- Limited team synergy; characters often fight independently with minimal combos. [39732859, 39667078, 39666495]\n- Bosses are spongy; fights frequently last 10–13 minutes. [39716894, 39690127]\n- Hidden objectives (turn limits, HP>50%) frustrate and discourage auto. [39679695, 39665732, 39731067]\n- Auto exists mainly for farming; “auto AI is dumb.” [39656686, 39672703]\n- Auto/委托 pauses on split‑screen; background farming inconvenient. [39665977, 39729517]\n- Only 2x speed; players request 3x–4x, especially enemy turns. [26880466, 39679695, 39667078]\n- No undo; frequent misclicks; unclear targeting and attack ranges. [39660056, 39657282, 26845328]\n- Some enjoy thinking and tactics; others find it number-heavy and dull. [39676115, 39680248, 39669068]\n- Speed system unpopular; limited adjustment options with bad trade‑offs. [39669068, 39660056, 39656720]\n- Environmental mechanics often hinder players; enemy behavior rules unclear. [39717334, 39655675]\n- Role notes: healers useful but slow; tank lacks taunt; certain DPS excel. [39731067, 39655675, 39729477]\n- Energy economy matters; some kits enable early extra actions. [39729477, 39731067]\n- Weekly equalized‑level mode undermines progression satisfaction. [39666689]\n- Boss mechanics interest some; telegraphs and readability need work. [39679702, 39729477]\n- Long multi‑wave stages and forced manual controls cause fatigue. [39679695, 39656686]\n- AI target priority and skill usage often illogical; publish logic. [39655675, 39656686]"
+    },
+    {
+        "question_code": "q4",
+        "question_content": "Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.4844290657439446,
+            "detailed_scoring": {
+                "null": 1339,
+                "-1.0": 131,
+                "1.0": 63,
+                "0.0": 47,
+                "-2.0": 42,
+                "2.0": 6
+            }
+        }
+    },
+    {
+        "question_code": "q5",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Combat reception is mixed: some enjoy strategy, many feel bored or tedious. [39807474,39665628,39663175,39655719,39658024,39804550]\n- Pace feels slow; requests for faster speeds like 3x/4x. \"2x speed isn't enough.\" [39679695,26880466,39667078,39657254]\n- Auto battle AI is poor; frequent misplays force manual control. [39720251,39655608,39705368,39679260]\n- Hidden objectives require repetitive manual replays, hurting satisfaction. [39679695,39705368,39666689,39664928,39668486]\n- Controls are fiddly; misclicks between Attack/Standby and targeting issues. [39739839,39687275,39666183]\n- Attack ranges and action order are unclear; players want customizable turn order. [39727099,39668435,39732296]\n- Early difficulty spikes and long boss fights cause frustration. [39716894,39668486,39664427,39662722]\n- Strategy depth criticized as number-focused; lacks flanking, counters, terrain. [39666685,39680248,39669068,39717334,39687593]\n- Some find battles engaging once learned; war-chess fans satisfied. [39807474,39669734,39676115,39661285]\n- Chibi battle animations feel crude; many want skippable ult animations. [39666272,39659046,26874981,26829153,39660056]\n- Lack of sweep/skip and replay-watching increases time fatigue. [39680248,39727721,39656441,26888059,39665977]\n- Map design criticized: narrow lanes, small grids, short movement. [39717334,39673930,39669068]\n- Role balance concerns: weak healing/defense; similar skills across classes. [39837747,39690127,39739839]\n- Boss mechanics interest some, but runs are long and punishing. [39729477,39731067,39716894]\n- Tutorials insufficient; new players struggle to learn combat. [39655732,39662088,39660412]"
+    },
+    {
+        "question_code": "q6",
+        "question_content": "List the strategic/tactical features mentioned, if any.",
+        "synthesis_answer": "- Turn order driven by speed; players can't freely choose activation sequence. [39661519, 39656444, 39669068, 39666720]\n- Lacks counterattacks, flanking, height, and class advantage systems. [39655675, 39687593]\n- Movement ranges are short; units clump, limiting positional tactics. [39669068, 39666720, 39680248]\n- Terrain effects and danger tiles are hard to see. [39679702, 39664871, 39666193]\n- Map gimmicks mostly hinder players; few harm enemies. [39717334]\n- Enemy targeting logic unclear; shield units cannot taunt. [39655675]\n- Bosses use delayed large-area attacks and hazard tiles. [39727721, 39679702, 39664871]\n- Multi-wave encounters prolong battles; clear wave indicators are lacking. [26880466, 28754036]\n- Hidden objectives impose strict constraints (turn limits, HP≥50%, specific kills). [39679695, 39664212, 39731067, 39663250]\n- Auto-battle AI is poor; wastes skills and fails hidden goals. [39707884, 39664871, 39665292]\n- Only 2x speed in combat; players want 3–4x, especially enemy turns. [39679695, 26880466]\n- Undo requires consumables; not always available. [39683512, 39664871]\n- Some stages force class restrictions or mandatory story units. [28754036, 39666720]\n- Speed system hard to manipulate; limited tools to adjust initiative. [39669068, 39729477]\n- High-speed enemies can act twice, hurting HP-threshold objectives. [39664928]\n- Weekly “Winter Valley” equalizes levels; each unit usable once per run. [39732644, 39669068, 39729477]\n- Challenge mode applies debuffs across consecutive battles. [39729477]\n- Commission/auto replays recorded clears with boosted stats. [39732677, 39707884, 39655767]\n- Six-unit teams; many players clear with three high-level units. [40328409]\n- Class roles exist, but intra-class differentiation feels limited. [39760902, 39732644]\n- Sniper aim stance consumes a turn; enemies can reposition away. [26830195]\n- Light melee can jump obstacles; terrain interaction is otherwise minimal. [26883034]\n- Reposition skills exist; Rabbit Shawm can swap allies/enemies. [39729477]\n- “Rabbit Shawm excels at boss fights.” [39825268]\n- Gold Cup provides easy burst AoE but is fragile. [39729477, 39731067]\n- T-Shaped Painting summons durable pets; low burst, can block allies. [39731067, 39681459, 39665224]\n- Melee damage counts once on large bosses, reducing output. [39733227]\n- First-chapter boss hazard cracks are visually unclear. [39679702, 39664871]\n- Events include high evasion enemies causing self-damage interactions. [39701518]\n- Protect-NPC objectives end late under auto; AI wastes turns waiting. [28754036]\n- Manual targeting requires moving before attacking; misclicks can trigger standby. [39658600, 39658524, 39729517]\n- Buff and status indicators during combat are unclear. [39727721, 39680219]"
+    },
+    {
+        "question_code": "q7",
+        "question_content": "Rate strategic/tactical depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.45161290322580644,
+            "detailed_scoring": {
+                "null": 1535,
+                "-1.0": 47,
+                "1.0": 21,
+                "0.0": 17,
+                "-2.0": 8
+            }
+        }
+    },
+    {
+        "question_code": "q8",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Many say tactical depth is weak; gameplay feels number-driven. [39680248, 39666689, 39687593, 39669068, 39690127, 40248901, 39722624, 39659468]\n- Lacks genre staples: no counterattacks, flanking, height, or class counters. [39655675, 39687593, 26843108]\n- Terrain impact is minimal; mechanics often disadvantage only players. [39680248, 39717334, 39690127]\n- Role synergies feel limited; characters often “fight individually.” [39666689, 39698853, 39760902, 39679702, 39732859]\n- Skills feel repetitive; classes lack distinctive mechanics. [39717334, 39665817, 39760902]\n- Speed/turn-order system hinders planning; players can’t control action order. [39669068, 39729477, 39666720, 39661519]\n- Short movement and unit blocking reduce positional tactics. [39669068, 39666720]\n- Hidden objectives constrain strategy; often frustrating and manual-only. [39666689, 39679695, 39663250, 39665043, 39662088, 39665292, 39731067]\n- Auto-battle AI is poor; undermines planning and increases tedium. [26880466, 39678646, 39669238, 39656686, 39707884, 39665043]\n- Combat pacing is slow; limited 2x speed and long enemy turns. [39679695, 26880466]\n- Poor information clarity (ranges, tiles, buffs) impedes decisions. [39658600, 39729517, 39679702, 39664871, 39680219]\n- Some enjoy thoughtful play; find acceptable or strong strategy. [40328409, 39807474, 39735026, 39733227, 39664212, 39676115]\n- Certain boss fights praised for requiring planning. [28726311, 39680219, 39729477]\n- Equalized weekly mode feels restrictive and frustrating. [39729477, 39669068, 39666689]\n- Compared to peers, tactical design seen as inferior. [39687593, 39655675, 39665817, 40248901]"
+    },
+    {
+        "question_code": "q9",
+        "question_content": "Rate game progression: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.0746268656716418,
+            "detailed_scoring": {
+                "null": 1427,
+                "-1.0": 158,
+                "-2.0": 33,
+                "1.0": 8,
+                "0.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q10",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Early progression blocks at level 15/30; breakthroughs demand multiple material types. [39885891, 39795198]  \n• Material drops are low or random; breakthroughs require many runs. [39668892, 26865371]  \n• Stamina is scarce and costly; progression feels heavily gated. [39662533, 39669238]  \n• Early onboarding suffers from stamina shortages; players want more sources. [39669781, 39666428]  \n• No true sweep; “委托” remains time-consuming and pauses in background. [28799856, 28744068]  \n• Auto-battle AI is inefficient, prolonging farming and bonus attempts. [39780193, 39665948]  \n• Progression systems feel overcomplicated: levels, breakthroughs, skills, passives, weapons. [39732974, 39680248]  \n• Weapon system’s random substats widely criticized; many want removal/rework. [39729517, 39690126]  \n• Materials are fragmented; many currencies/items to juggle for growth. [39727721, 39722097]  \n• Difficulty spikes outpace growth; recommended levels feel unrealistic without grind. [39662088, 28733034]  \n• Some required resource stages unlock later than needed, blocking progress. [39721498]  \n• Hidden conditions enforce specific roles; unraised units stall progression. [39795198, 39687432]  \n• Lack of respec/refund punishes misinvestment; players request reset features. [39704546, 39700955]  \n• Dupe/constellation impacts power; “complete” often needs three duplicates. [39660533]  \n• A few praise flexible paths: grind or level to brute-force clears. [40328409]  \n• Affection affects normal attacks; affection gains feel too slow. [39814193]  \n• “委托” multi-reward helps some farming; perceived as pseudo-sweep. [39668755, 39666935]  \n• Event stamina costs deepen bottlenecks during progression. [39712713, 39684096]"
+    },
+    {
+        "question_code": "q11",
+        "question_content": "Rate hero balance: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.96,
+            "detailed_scoring": {
+                "null": 1603,
+                "-1.0": 18,
+                "-2.0": 4,
+                "1.0": 2,
+                "0.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q12",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Healing and shielding feel weak; heals outpaced by damage; shielders lack durability. [39837747, 28808204]\n- Mixed views on six-star balance: some overpowered, others underwhelming. [39814193, 39770358]\n- Red T0 required for good experience; most gold cards feel useless. [39737756]\n- Overall balance acceptable; only a few red units considered weak. [39732859]\n- Featured UP T-shaped Painting criticized as weak and misaligned with role. [39665224]\n- Star-up scaling eclipses rarity; high-star blues outstat low-star reds. [39662444]\n- Leveling costs illogical; lower rarity demands similar or more resources for less growth. [39666908]\n- Perceived gender bias conflicting: some say males stronger; others say weak and few. [39719814, 39696607]\n- Skills feel homogenized; high and low rarities lack differentiation. [39707023, 39783168]\n- Tanks/guard classes feel underpowered or purposeless. [26887984, 28777963, 28808204]\n- Lightguard unit type viewed as overtuned without counterattacks. [26843108]\n- Sniper aim mechanic punishes mobility; reduces viability. [26907910, 26830195]\n- Specific kits criticized: Fuchai Spear passive, Mao Gong Ding weak vs Liu Jin, Yue Sword underwhelming. [26912834, 26907910]\n- Enemies overtuned; speedy mobs and numeric checks overshadow strategy. [39664928, 39677434]\n- Some claim \"reds worse than golds\" in actual use. [28808204, 39665224]"
+    },
+    {
+        "question_code": "q13",
+        "question_content": "Rate hero/team build diversity: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.8,
+            "detailed_scoring": {
+                "null": 1613,
+                "-1.0": 13,
+                "0.0": 1,
+                "1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q14",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Late-game team-building is somewhat fun; six-unit squads show synergy potential. [39814193, 39732859]\n• Current synergies are scarce; \"everyone fights their own battles.\" [39732859]\n• A few specific pair synergies exist, but are limited. [39732859]\n• Skills feel homogenized; characters lack distinctive mechanics. [28728357, 28737313, 26830762]\n• Many same-class skills overlap, reducing roster uniqueness. [26780264, 26887984, 26833418]\n• Role distinctions blur; some classes feel redundant or weak. [28808204, 26887984, 26902586]\n• Shooter aiming mechanic hurts viability and flexibility. [26907910]\n• Tanks/Guardians’ impact unclear; blocking/reliability criticized. [28808204, 26887984, 26907910]\n• Mixed rarity perceptions: some see little difference across stars. [39707023]\n• Others report six-stars overpowering, encouraging straightforward builds. [39814193]\n• Several high-rarity units underperform versus lower-rarity options. [28808204, 26907910]\n• Stage terrain restricts viable lineups and deployment. [39814193]\n• Early resource scarcity locks players into fixed teams. [26907910]\n• Making class skills active reduces build flexibility. [28744313]\n• Inter-character synergy currently feels minimal. [39664657, 39699931]\n• Players expect more synergy with AI improvements. [39732859]"
+    },
+    {
+        "question_code": "q15",
+        "question_content": "Describe the secondary core loop (or “N/A”)",
+        "synthesis_answer": "- Stamina-gated material runs drive Exams and level-cap breakthroughs at 15/30/50/70/100. [39690127, 26831904]\n- Skills and attribute nodes share scarce mats, making six-unit teams costly to raise. [39692377, 39690127]\n- After first clear, commission auto-runs stages with 6–8x rewards; no true sweep. [39665173, 39662884]\n- Commission battles still play out in real time, extending farming time. [39662722, 39662884]\n- Weapons: craft via timed orders, roll random substats, upgrade at thresholds. [39681459, 39665173]\n- Disassemble weapons for materials, exchange to ascend weapon stars. [28726311, 39692377]\n- Affinity and tea room interactions raise stats; base is mostly processing and affection. [39690127, 28726311]\n- Dispatch missions generate stamps/currency, then shop exchanges supply upgrade materials. [39668892, 39665977]\n- Weekly Winter Valley: limited unit usage, multiple squads required, unique-currency shop. [39717334, 39669068]\n- Events run token-shop grinds; some tasks gate progress behind pulls or boss clears. [39681459, 39668892]\n- Mini-games (2048, Four-in-a-row) grant one-time pulls; difficulty often frustrating. [39692377, 39664438]\n- Gacha loop: earn tickets via dailies/events/shops; duplicates power up constellations. [40328409, 39690127]\n- Post-clear auto struggles with hidden objectives; manual runs needed for perfect clears. [39727721, 39663393]\n- Monthly resource shops offer limited extra pulls and materials. [39665977, 39665173]\n- Production timers and mini-games extend online time for small rewards. [39664438, 39690127]"
+    },
+    {
+        "question_code": "q16",
+        "question_content": "Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 1602,
+            "false": 24,
+            "true": 2
+        }
+    },
+    {
+        "question_code": "q17",
+        "question_content": "Rate simplicity of the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.03125,
+            "detailed_scoring": {
+                "null": 1596,
+                "-1.0": 13,
+                "1.0": 10,
+                "0.0": 5,
+                "2.0": 3,
+                "-2.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q18",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Progression is overly complex and grindy, with many layers (skills, weapons, exams, stars, affection). [39760902, 39729517, 39665173, 39662444, 39662884, 28734647]\n• Weapon system’s random substats and crafting timers feel convoluted; compared to relic grinding, a bottomless pit. [39760902, 39683472, 39677074, 39665977, 26831904, 28726311]\n• Scarce stamina and time-gated loops increase friction; routine tasks feel punishing and unsimple. [39677074, 39668892, 39665173, 39665043, 39690127, 28734647]\n• Missing sweep/skip and slow automation make farming repetitive, hurting simplicity. [28724797, 26831904, 39662884, 39664438, 28726311]\n• UI and menus feel cluttered; many request simplification and clearer indicators. [39727721, 39729517, 28754036, 26830956]\n• Minigames (2048, four-in-a-row) are too hard or unrewarding, adding frustration. [39692377, 39669068, 39690127, 39691156, 39681459, 39664438]\n• Base/dispatch and production systems feel shallow yet time-consuming. [39717334, 39690127, 39729517, 39664438]\n• Events and weeklies demand excessive roster/effort; perceived unfriendly to early players. [39669068, 39717334, 39681459, 39664438]\n• Auto-battle AI is weak; full-star conditions feel fiddly and stressful. [39665043, 39727721, 39681459]\n• Some consider progression manageable despite slight cumbersomeness. [39732859, 39663393, 39693237]\n• A few praise post-clear delegation with multi-rate rewards as acceptable alternative to sweep. [39663393, 39665173]\n• Daily tasks feel excessive and click-heavy, reducing simplicity. [39729517]"
+    },
+    {
+        "question_code": "q19",
+        "question_content": "Rate resources earned from the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.6111111111111112,
+            "detailed_scoring": {
+                "null": 1610,
+                "-1.0": 14,
+                "1.0": 3,
+                "0.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q20",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Energy/stamina is stingy; farming materials and weapons is constrained. [39760902, 39690127, 28726311]\n- Daily resource income is low; progression feels starved. [39690127]\n- Material drop rates in resource stages feel low for costs. [26833418, 28726311, 26831904]\n- Upgrading one team demands excessive materials and repeated runs. [26831904, 28726311, 39683472]\n- Manufacturing/weapon crafting is slow; rewards too small. [39729517, 39664438, 28726311]\n- Dispatch/base yields are slow and limited; feel unrewarding. [39664438, 39683472]\n- Dispatch can yield high-rarity items, a rare positive. [39671584]\n- Minigame rewards are minimal or time-consuming per pull. [39669068, 39681459, 39717334]\n- Minigame rewards are \"one-time\"; no repeat incentive. [39692377]\n- Winter tournament gives few pulls; special currency exchange praised. [39717334]\n- Winter tournament weekly feels unfinishable; rewards inaccessible. [39669068]\n- Activities demand heavy effort for scant tokens. [39690127]\n- Event shop praised as generous and cleanly segmented by type. [39668892]\n- Other events considered stingy; tokens far from major rewards. [39690127]\n- Resource shop offers currency-for-pulls/skins flexibility; add stamina pots. [39665977]\n- Newbie welfare is generous; many early pulls available. [40328409, 39677074]\n- Long-term activity grants 160 skin tickets free. [40328409]\n- Refinement at level 60 grants a free portrait skin. [40328409]\n- Exploration “mooncake” currency scarce; limits collection. [28726311]"
+    },
+    {
+        "question_code": "q21",
+        "question_content": "Rate frequency of content/meta updates: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.75,
+            "detailed_scoring": {
+                "null": 1620,
+                "1.0": 4,
+                "-1.0": 2,
+                "2.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q22",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Developers quickly adjust content after criticism; \"quickly changed the approach.\" [40328409]\n- Many pain points were addressed by public test, showing responsive iteration. [39662956]\n- Large changes between tests suggest an active, frequent update cadence. [28726311, 26829054]\n- New features and activities added by second test imply steady content updates. [26854371, 26829054]\n- Some report slow reactions to launch issues and bug fixes. [39658428, 39658690]\n- Perceived inconsistency: fast event tweaks, but slow early technical fixes. [40328409, 39658428]\n- Event rollout occurred soon after mention, indicating timely scheduling. [28726311]"
+    },
+    {
+        "question_code": "q23",
+        "question_content": "Does the game have a gacha guarantee system? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 1550,
+            "true": 70,
+            "false": 8
+        }
+    },
+    {
+        "question_code": "q24",
+        "question_content": "Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "- Base SSR rate 2.5%; soft pity increases after 50, red guaranteed by 70. [39671250, 39657649, 39659184]\n- UP chance on SSR hits reportedly 50%. [39657649, 39659654]\n- No “guaranteed UP after a miss”; frequent off-banners. [39690126, 39737756]\n- Hard pity lets you exchange one UP at 180 pulls. [39690139, 39659654, 39659345]\n- Some players reported a 160 hard pity during tests. [40328409, 39655953]\n- Pity resets when any SSR appears. [39690139]\n\n- Pity/progress often not shared across banners; not inherited. [39721498, 39662232]\n- Some expect dual-UP banners to share progress in future. [28770756]\n- Banner ends convert leftover progress into shop currency. [39721498, 39690126]\n- Conflicting reports: some saw “no small/big pity,” only 160 select-UP. [39655953, 39725928]\n\n- Newbie pool guarantees an SSR within 40 pulls; ends if obtained early. [39655767]\n- Test banners commonly had two concurrent UP characters. [39679695, 39662533]\n- Gold rarity can upgrade to red during reveal. [39663058, 39655953]\n- No separate weapon gacha pool reported. [39671250, 39661285]"
+    },
+    {
+        "question_code": "q25",
+        "question_content": "Rate reasonableness of gacha pull price: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.2380952380952381,
+            "detailed_scoring": {
+                "null": 1586,
+                "-2.0": 21,
+                "-1.0": 13,
+                "0.0": 5,
+                "1.0": 3
+            }
+        }
+    },
+    {
+        "question_code": "q26",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Typical price reported: 15–18 RMB per pull; three paid stones per pull. \"About 15–16 RMB per pull.\" [39655767, 39649818, 39660826, 39656950]\n- 648 top-up lowers effective price to ~15 RMB per pull. [39649818, 39659284]\n- Some report bundle deals near ~10 RMB per pull, still seen pricey. [39664050]\n- Many perceive pull price as expensive or unreasonable. [39667078, 39657999, 39658297, 39655675]\n- A few consider pricing market-typical or cheaper than peers. [39655767, 39656815, 39661285]\n- High 180-pity with no carryover worsens value perception of pulls. [39689223, 39691908, 39690139, 39668581]\n- Limited free income intensifies cost concerns for F2P players. [39672733, 39660826, 39658297]\n- Some think overall value acceptable due to no weapon banner. [39661285, 39671250]"
+    },
+    {
+        "question_code": "q27",
+        "question_content": "Rate major feature access for non-paying users: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.6428571428571429,
+            "detailed_scoring": {
+                "null": 1614,
+                "2.0": 5,
+                "1.0": 5,
+                "-2.0": 2,
+                "-1.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q28",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• New players receive roughly 200 free pulls from early missions. [40328409]\n• Events provide a freely usable red-tier character. [40328409]\n• Skins can be earned for free via tickets or grinding. [42929067, 39666935, 40328409, 39660826]\n• One free refinement skin at level 60; year-long event grants 160 skin tickets. [40328409]\n• Many F2P progress fine through grinding; spending not required. [39972388, 39732679, 39724253, 39659712, 26829138]\n• Some feel F2P is unplayable due to stamina and resource scarcity. [39731043, 39656455]\n• Stamina is widely viewed as insufficient, restricting F2P playtime. [39677074, 39666935, 28754036]\n• Gacha rates perceived as decent by several F2P players. [39972388, 39724253, 42929067]\n• Pity criticized: no true hard pity, only spark system. [39665173, 39677074]\n• Conflicting reports claim 70 soft pity and 160 hard pity. [40328409]\n• Free premium currency from stage clears; better saved for skins than pulls. [39660826]\n• Welfare considered decent, but F2P must plan banners carefully. [39665173, 39724253]\n• Auto and post-clear idle multipliers accessible; many stages support auto/AFK. [39665173, 42929067]"
+    },
+    {
+        "question_code": "q29",
+        "question_content": "Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.0754716981132075,
+            "detailed_scoring": {
+                "null": 1575,
+                "-1.0": 32,
+                "-2.0": 15,
+                "1.0": 5,
+                "0.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q30",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- 180-pity/well widely criticized as excessive. [39662533, 39668581, 39665173, 39659654]\n- Some mention 160 big pity and 70 soft pity. [40328409, 28770756]\n- Pity/well progress not inheriting between banners frustrates players. [39662232, 39770358, 39692377]\n- Frequent off-banner results; requests “next must be UP” guarantee. [39737756, 39664657, 39720251, 39655740]\n- Some praise rates and abundant early pulls. [42929067, 40328409, 39677074, 39659712]\n- Daily/weekly pull income perceived as low. [39656860, 39679260]\n- F2P monthly pulls estimated around 20–26. [39665120, 39660826]\n- Test reportedly gave only ~20 pulls; multiple limited banners strain resources. [39657408, 39704379]\n- Simultaneous limited banners amplify spending pressure. [39704379, 39657408]\n- Constellation/duplicate system gives big power; seen as pay pressure. [39661166, 39664928]\n- “Seven copies for full power” criticized as demanding. [39666477]\n- Duplicate pass system viewed expensive and time-gated. [39657270]\n- Random-stat weapons add endless grind and cost pressure. [39760902, 39660533, 39692377]\n- Stamina is tight; material drops stingy, nudging spending on refills. [39677074, 39885891, 28796761, 28754036]\n- Some feel non-spenders “can’t play comfortably.” [39731043, 39656455, 39662334]\n- Skin pricing criticized; limited preview and high stone costs. [39666908, 39885891, 39795198]\n- Currency pricing seen as high (e.g., ~15 RMB per pull). [39657999, 39658769, 39658297]\n- Monthly card criticized for not giving paid currency. [39655675, 39663058]\n- Perception that standard banner yields worse than UP. [39731067]\n- Quote: “180 pity is too harsh.” [39662533, 39668581]"
+    },
+    {
+        "question_code": "q31",
+        "question_content": "Rate quality/quantity of free rewards: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.2988505747126437,
+            "detailed_scoring": {
+                "null": 1541,
+                "-1.0": 39,
+                "1.0": 25,
+                "-2.0": 14,
+                "2.0": 8,
+                "0.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q32",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Newcomer rewards considered generous; roughly 200 free pulls from story and tasks. [40328409]\n- Some reported 50 free pulls without spending. [39663156, 39659551]\n- About 26 free pulls monthly, excluding events. [39660826]\n- Limited-banner rotation granted two free 10-pulls during test. [28770756]\n- Skins obtainable for free with stage stones or tickets. [39671250, 39697988]\n- Event awarded 160 skin tickets; effectively a free skin. [40328409]\n- Welfare praised as generous by multiple players. [39724253, 39655819, 42929067, 39752947]\n- Others felt test welfare was stingy; only ~20 pulls given. [39657408, 39670312, 39659345, 39668012]\n- Daily/weekly income criticized: “150 per pull,” no daily stones. [39656860]\n- Gacha resources seen as scarce or slow to accumulate. [39770358, 39665173, 39664657]\n- Rewards viewed insufficient relative to stamina and upgrade costs. [39671925, 39687432, 39662334]\n- Event exchanges described as very generous. [28827816, 39668892]\n- Some events felt costly, e.g., 1500 stones for a costume. [39795198, 28770756]\n- Requests: increase starting welfare and stable resource sources. [39669482, 28820596]\n- Calls for pity/guarantee improvements to offset limited freebies. [39666477, 28748011]\n- Compensation included pulls or stamina (e.g., 21 pulls, 200 stamina). [39656666, 28741486]\n- Mixed sentiment: free pulls and skins versus perceived low welfare. [39665977, 39671250, 39662928]"
+    },
+    {
+        "question_code": "q33",
+        "question_content": "Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.",
+        "synthesis_answer": {
+            "null": 1623,
+            "true": 5
+        }
+    },
+    {
+        "question_code": "q34",
+        "question_content": "Briefly describe the IP if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "- Core IP anthropomorphizes Chinese cultural relics; collaboration with National Treasure TV program. [39666689, 26884571]\n- Players expected relic-history narratives; got modern-world, world-saving plot instead. [39666689, 39658972]\n- Specific relic characters cited: Goujian Sword, Wu King Spear, Fu Hao Owl Zun, Jin'ou Yonggu Cup. [39666689]\n- Additional relic references: Birdsong Landscape Clock, Sky-blue Vase, T-shaped Silk Painting, Shangyangtai Calligraphy. [39666689]\n- Some feel designs merely layer relic motifs onto generic characters. [39665487]\n- Personality-history mismatches noted; e.g., Yonggu Cup lines conflict with Qianlong context. [39666689]\n- Short memory episodes effectively explore relics adapting to modern roles. [39666689]\n- UI and naming are heavily “guofeng” packaged, hurting readability. [39664050]\n- Players want more modes reinforcing relic origins beyond combat and archives. [26884571]\n- Enemies exhibit strong Chinese aesthetic, complementing the relic-themed IP. [39666689]\n- Many say the relic IP is the game's only standout. [39665487]"
+    },
+    {
+        "question_code": "q35",
+        "question_content": "Rate IP integration depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.2,
+            "detailed_scoring": {
+                "null": 1623,
+                "-1.0": 3,
+                "1.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q36",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Relic characterizations feel inconsistent with historical context in modern setting. [39666689]\n- Example: \"wheat grows on trees\" line feels forced and uncorrected. [39666689]\n- Main plot uses generic world-saving; link to relic histories is weak. [39666689, 39658972]\n- Some vignettes effectively show relics adapting to modern life; more desired. [39666689]\n- Suggestions for side stories reenacting eras (Wu–Yue war, Qianlong). [39666689]\n- Visual designs sometimes paste relic motifs onto generic characters. [39665487]\n- Overdone cultural packaging hurts readability; feels educational over entertaining. [39664050]\n- Players want systems to convey relic backgrounds (quizzes, home, voice). [26884571]\n- Artifact info access is obscure; current archives feel thin. [26884571]\n- Relic IP perceived as the game's primary strength. [39665487]\n- Some character inspirations align well with their relics. [39666689]\n- Obscure names hinder accessibility; add pinyin to support learning. [39664050]\n- Characters holding their own artifacts in art feels odd. [39666689]"
+    },
+    {
+        "question_code": "q37",
+        "question_content": "Rate lightness of installation file: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.5535714285714286,
+            "detailed_scoring": {
+                "null": 1572,
+                "-2.0": 31,
+                "-1.0": 25
+            }
+        }
+    },
+    {
+        "question_code": "q38",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Installation/resource packages are large (1–3+ GB), deterring downloads. [26805488, 26829469, 26828481, 39655919]\n• Single install/download packages reported at 4–5 GB in cases. [39657881, 39657929]\n• Additional resource updates require several more GB (3–5+ GB) after install. [39657779, 39656682, 39656524, 39655937]\n• Total data usage often reaches 4–7 GB, sometimes up to 10 GB. [39656329, 39663451, 39658068]\n• Heavy storage demand forced users to clear space (e.g., 6 GB). [39658079]\n• Slow download speeds reported for a ~3 GB resource package. [39655919]\n• Large downloads felt wasted due to registration caps and access limits. [39657298, 39657187, 39656206, 39657929]\n• Pre-download seen as consuming 3–5 GB for nothing. [39655981, 39656248, 39655937]"
+    },
+    {
+        "question_code": "q39",
+        "question_content": "Rate in-game download experience: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.7777777777777777,
+            "detailed_scoring": {
+                "null": 1502,
+                "-2.0": 98,
+                "-1.0": 28
+            }
+        }
+    },
+    {
+        "question_code": "q40",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Large resource downloads (3–4 GB), plus extra in-game data after install. [39655919, 39652836, 39656682]\n- Pre-download felt pointless; after downloading, registration already full. [39656274, 39655937, 39665429]\n- Repair client often forces re-downloading ~3 GB, wasting data. [39656041, 39656524, 39655993]\n- Download speeds slow (1–2 MB/s), causing long waits. [39655919, 39656098]\n- Last-minute updates before opening made players miss registration. [39655869, 39658592]\n- Multiple repeated downloads despite previous full downloads. [39656682, 39656629]\n- Some reported smooth downloads later, around 30 minutes. [39660056]\n- Many felt downloads wasted data; accused developers of traffic baiting. [39656087, 39655962, 39656132]\n- Progress stuck at 84%–100% or black screens after downloads. [39664949, 39657110, 39658191]\n- High storage burden; players cleared ~6 GB to install. [39658079]\n- “You can download but not play” frustration. [39656121, 39655937]\n- Pre-download SMS to users without access wasted downloads. [39656132]"
+    },
+    {
+        "question_code": "q41",
+        "question_content": "Briefly list other issues (not captured by the questions above)",
+        "synthesis_answer": "• Test access messaging confusing; eligibility shown but separate time-limited registration required. [39998008, 39674856, 39666654, 39657113]\n• Download allowed without eligibility; perceived as misleading — \"Download allowed but cannot play.\" [39657929, 26819896, 26810021, 39998008]\n• Poor communication on quotas and timings; information buried in forums. [39658895, 39658611, 26814788]\n• Unclear qualification process; code timing and delivery uncertain. [26812076, 26772372, 26780216]\n• Entry failures after download due to missing activation code; test duration felt short. [26817048, 26821813]\n• Scarcity of codes spurred reselling or trading of test slots. [26810742, 26811771, 26806471]\n• Additional slots announced late; perceived poor PR and silence. [39660047, 39658921, 39656805]\n• Request to restrict downloads for non-qualified accounts or add pre-download notice. [26816540, 26814923, 26817365]\n• Confusion over official server equals B server labeling. [39748742]\n• Low awareness and genre confusion from marketing visuals. [26808360, 26821483]\n• Frequent network errors, disconnects, black screens, and 100% loading stalls. [39655741, 39656028, 39655931, 39658279]\n• Server instability caused failed runs and post-cutscene softlocks. [39660797, 39665804, 39656752]\n• Forced reconnects and error loops at launch. [39655638, 39658921, 39655858]\n• Tutorial bugs: stuck flows, repeats, and softlocks. [39659563, 39658504, 39655634]\n• Gacha or newbie issues: swallowed tickets and vanished pool. [39659654, 39656081]\n• Combat results misjudged as failure on victory. [39656081, 39659654]\n• Account lost or missing after reinstall or channel change. [45552974]\n• Payment malfunction; recharge not working for some players. [39657236]\n• UI cluttered and tiring; fonts and elements hard to read. [39659913, 28748011, 26830956]\n• Buttons too small or at screen edges; frequent mis-taps. [39657058, 39659928, 28770532]\n• Excessive red-dot notifications and flawed notification logic. [39988469, 39655732, 39657649]\n• Event entry and signposting unclear; activity icons too small. [28840843, 39665027, 39672098, 28754036]\n• Hidden objectives unclear; must enter stage to view them. [39683620, 39683512]\n• Attack and standby buttons too close; accidental touches common. [39739839, 39715525]\n• Attack targeting and range feedback unclear during battles. [39658600, 39659928]\n• No undo option; widely requested by players. [39683512, 39665027]\n• Auto-battle unavailable in some main story stages. [39685252]\n• App pauses during split-screen or backgrounding; interrupts automation. [39655593, 39657497, 28818666]\n• Battle speed options insufficient; need higher speed or skip. [39795198, 39674695]\n• Class or role icons lack explanation for newcomers. [39658769, 39658524]\n• City and mission map visuals look blurry; scaling requested. [28741486, 26833654]\n• Device-specific input issue: stylus taps not recognized. [39657497]\n• Text typos and writing errors present. [39677074]\n• Performance issues: lag, stutter, heavy loading, battery drain, overheating. [39656124, 39666689, 39655973]\n• Visual quality problems: blurry cutscenes and emulator graphics. [39693796, 39668362, 39668435]\n• Cutscene transitions feel slideshow-like; low-resolution subtitles. [39693796, 39837747]\n• Music and effects too loud or mismatched; startup volume excessive. [39659654, 39660056, 39655593]\n• Voice playback cuts off when tapping; no auto-advance option. [39658848, 39657061]\n• Voice and text desync; audio missing after app switch. [39658035, 39661334, 28818666]\n• Sound persists despite volume set to off. [39660584]\n• Voice casting changes upset some players. [28726082]\n• Art quality and style inconsistency; some faces appear collapsed or AI-like. [39657839, 40295147, 40287315]\n• Chibi models and ultimate animations feel cheap. [39656466, 39685700, 39739839]\n• Skin previews missing; some skins look worse than base. [39666952, 39725928]\n• Missing skin model comparison on dressing interface. [39719814, 39732859]\n• Character names use rare characters, hurting readability. [39664050]\n• Certain visuals cause trypophobia discomfort for players. [39659046]\n• Awkward naming and jokes like knight and Wi‑Fi break immersion. [39659671, 39657309]\n• Gacha transparency concerns: missing probabilities and pool details. [26830045, 26833418, 26826983]\n• Customer support unresponsive; limited self-service FAQs. [40322043]\n• Worries about Bilibili long-term operation and support. [39656852, 40258247, 39690804]\n• Growth plan pricing criticized as too expensive. [39692377]\n• Story criticized as cliché or confusing; poor onboarding. [39659654, 39658600]\n• Player ID not set early; blank name shown. [39659654]\n• Survey locked until stage 2-1; blocks feedback for stuck players. [39716894]\n• Tutorial guidance unclear or intrusive; mechanics underexplained. [39752947, 39735026, 39660391]\n• Visual effects and ground hazards lack clear indicators. [39657649, 39727721, 39716894]\n• Requests for broader access; frustration with limited tests. [26822602, 26820721]"
+    }
+]

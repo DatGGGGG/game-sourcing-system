@@ -1,0 +1,404 @@
+[
+  {
+    "q0": 39656057,
+    "q41": "Registration slots full; could not join test."
+  },
+  {
+    "q0": 39656053,
+    "q41": "Server crash and unstable network at launch; could not enter; registration filled up."
+  },
+  {
+    "q0": 39656050,
+    "q41": "Server crashed at start; afterward showed slots full."
+  },
+  {
+    "q0": 39656049,
+    "q41": "Got test, downloaded, but blocked by 'server full/slots full' message; couldn't enter."
+  },
+  {
+    "q0": 39656041,
+    "q39": -2,
+    "q40": "Repair forced a 3+ GB re-download; login kept failing due to unstable network; slots were gone afterward.",
+    "q41": "Internal test server crashed; unstable network; then claimed player cap reached."
+  },
+  {
+    "q0": 39656038,
+    "q41": "Network issues made it hard to play."
+  },
+  {
+    "q0": 39655609,
+    "q37": -1,
+    "q38": "Complains the download cost time and mobile data.",
+    "q41": "Frustration over wasted download time and data."
+  },
+  {
+    "q0": 39655869,
+    "q39": -1,
+    "q40": "Forced update right before test start caused missing the limited registration window.",
+    "q41": "Had to fight for test slots at 11:00; after updating, quota was gone."
+  },
+  {
+    "q0": 39656031
+  },
+  {
+    "q0": 39656028,
+    "q41": "Finally got in but stuck on a long black screen."
+  },
+  {
+    "q0": 39656027,
+    "q41": "Limited-slot test but allowed unlimited pre-download, causing frustration."
+  },
+  {
+    "q0": 39656013,
+    "q41": "Initially blocked as 'no test qualification', then forced offline for 'network issue' after entering."
+  },
+  {
+    "q0": 39656008,
+    "q41": "Registration full; unable to test."
+  },
+  {
+    "q0": 39656007,
+    "q41": "Pre-download allowed, but entry was quota-limited; feels like download bait; labeled 'runaway game'."
+  },
+  {
+    "q0": 39656004,
+    "q41": "Access gating criticized: activation-code race or limited registration; feels needlessly restrictive."
+  },
+  {
+    "q0": 39656003,
+    "q41": "Shown as 'qualified' but in-game says registration full."
+  },
+  {
+    "q0": 39655999,
+    "q37": -2,
+    "q38": "Downloaded several GB of resources before being blocked.",
+    "q41": "Login showed network errors, then claimed test slots were gone; frustrating process."
+  },
+  {
+    "q0": 39655998,
+    "q3": "Grid-based 'war chess' tactical/turn-based combat (SRPG-style).",
+    "q41": "Launch network crash for about 10 minutes; then registration full."
+  },
+  {
+    "q0": 39655994
+  },
+  {
+    "q0": 39655993,
+    "q39": -2,
+    "q40": "After crash, 'repair' required re-downloading and then quota was gone; wasted time/data.",
+    "q41": "Server crash at launch; forced repair; lost qualification; heavy frustration."
+  },
+  {
+    "q0": 39655992,
+    "q41": "Shown as qualified but blocked from entry; feels like 'monkeying' players."
+  },
+  {
+    "q0": 39655990,
+    "q41": "Poor servers; accuses the game of farming downloads/data."
+  },
+  {
+    "q0": 39655987,
+    "q41": "Despite receiving test qualification, login errors followed by 'registration full'; had to uninstall."
+  },
+  {
+    "q0": 39655984,
+    "q41": "Server crashed at open, then qualification cap reached."
+  },
+  {
+    "q0": 39655981,
+    "q37": -2,
+    "q38": "Pre-download used about 4+ GB of data.",
+    "q41": "Downloaded but had no qualification; feels like download bait."
+  },
+  {
+    "q0": 39655978,
+    "q41": "Limited-slot test not disclosed until after download; asks to gate activation before download; hurts player sentiment."
+  },
+  {
+    "q0": 39655977,
+    "q41": "Publisher trust issues; couldn't enter this test; prior negative experience with another title."
+  },
+  {
+    "q0": 39655976,
+    "q41": "Unplayable despite decent network speed."
+  },
+  {
+    "q0": 39655970
+  },
+  {
+    "q0": 39655965,
+    "q41": "Immediate server crash at start; after 10 minutes, registration was full."
+  },
+  {
+    "q0": 39655858,
+    "q41": "Black screen before even finishing the tutorial; persists after relaunch."
+  },
+  {
+    "q0": 39655956,
+    "q41": "Secured test slot and downloaded, but got 'cannot connect', then 'registration full'."
+  },
+  {
+    "q0": 39655955,
+    "q41": "Notified of qualification but still not allowed to play."
+  },
+  {
+    "q0": 39655954,
+    "q41": "Network unstable right at 11:00 opening; poor testing experience."
+  },
+  {
+    "q0": 39655947,
+    "q41": "Had test qualification; after long download, got 'full' on entry."
+  },
+  {
+    "q0": 39655945,
+    "q41": "Network unstable, then registration reached limit."
+  },
+  {
+    "q0": 39655944,
+    "q41": "Frequent network slowdowns while playing."
+  },
+  {
+    "q0": 39655943,
+    "q41": "Accuses the game of fake/forced downloads."
+  },
+  {
+    "q0": 39655941,
+    "q41": "Long download yesterday; today entry says player cap full."
+  },
+  {
+    "q0": 39655938
+  },
+  {
+    "q0": 39655937,
+    "q37": -2,
+    "q38": "3–4 GB resource download.",
+    "q39": -1,
+    "q40": "Long update/patch time before entry.",
+    "q41": "At 11:00, network unstable; after about 10 minutes, registration cap reached."
+  },
+  {
+    "q0": 39655936,
+    "q41": "Had qualification but blocked from entry by 'registration cap'; complains about the publisher."
+  },
+  {
+    "q0": 39655934,
+    "q41": "Entered at 11:00; network errors; then quota full; calls servers trash."
+  },
+  {
+    "q0": 39655932,
+    "q41": "Network unstable, then cap reached."
+  },
+  {
+    "q0": 39655931,
+    "q3": "Turn-based combat combined with grid-based movement (war-chess style).",
+    "q4": -1,
+    "q5": "Gameplay feels boring and tiring; lacks novelty.",
+    "q6": "Grid positioning and turn-by-turn movement.",
+    "q7": -1,
+    "q8": "Perceived as unoriginal and tedious, reducing strategic appeal.",
+    "q41": "2D art is praised, but 3D models look disproportionate ('big-headed')."
+  },
+  {
+    "q0": 39655926,
+    "q41": "At 11:00 showed unstable network; later said slots full; player gives up."
+  },
+  {
+    "q0": 39655925,
+    "q39": -1,
+    "q40": "Clicked 'repair' after crash; download took around 10 minutes during the critical window.",
+    "q41": "Server crashed at 10:59; by the time repair finished, quota was gone."
+  },
+  {
+    "q0": 39655922
+  },
+  {
+    "q0": 39655921,
+    "q41": "Registration cap reached very quickly."
+  },
+  {
+    "q0": 39655919,
+    "q37": -2,
+    "q38": "About 3 GB resources to download.",
+    "q39": -2,
+    "q40": "Average resource download speed 1–2 MB/s; took around 30 minutes.",
+    "q41": "Unclear/late notice that test qualification was first-come, causing wasted download."
+  },
+  {
+    "q0": 39655916,
+    "q41": "Misleading 'you have test qualification' message despite not being able to enter."
+  },
+  {
+    "q0": 39655914,
+    "q41": "TapTap showed test qualification, but in-game said registration full."
+  },
+  {
+    "q0": 39655912,
+    "q41": "Shown as qualified, then told to race to register; by login time, test was full."
+  },
+  {
+    "q0": 39655907,
+    "q41": "No prior notice of no remaining slots until after downloading and entering."
+  },
+  {
+    "q0": 39655905,
+    "q41": "Registration full; wasted mobile data."
+  },
+  {
+    "q0": 39655904,
+    "q41": "At open, skipping intro videos leads to black screen/hard lock; questions QA before launch."
+  },
+  {
+    "q0": 39655901,
+    "q41": "Network unstable; then saw 'slots full' message."
+  },
+  {
+    "q0": 39655898
+  },
+  {
+    "q0": 39655897,
+    "q41": "At 11:00 server crashed; minutes later showed cap full; user says this pushed them to quit."
+  },
+  {
+    "q0": 39655894,
+    "q41": "Feels scammed on data; network unstable, then slots gone."
+  },
+  {
+    "q0": 39655895,
+    "q41": "Secured slot but still unplayable."
+  },
+  {
+    "q0": 39655893,
+    "q41": "Even when network seems fine, game reports 'quota full'."
+  },
+  {
+    "q0": 39655890,
+    "q41": "After 10 minutes of being stuck, shown 'registration limit reached'."
+  },
+  {
+    "q0": 39655889,
+    "q41": "Server crashed at launch; black screen and connection errors."
+  },
+  {
+    "q0": 39655872,
+    "q41": "Used mobile data to download; then told registration full; requests gating download after slot claim."
+  },
+  {
+    "q0": 39655867,
+    "q41": "TapTap indicated test qualification; player delayed; later saw 'registration full'; poor cross-platform messaging."
+  },
+  {
+    "q0": 39655582,
+    "q41": "Could not enter at 11:00; by 11:11 it shows cap full despite having 'qualification'."
+  },
+  {
+    "q0": 39655856,
+    "q41": "Server crashed at open; once in, it said no slots left; unclear announcements."
+  },
+  {
+    "q0": 39655859,
+    "q41": "Player cap reached."
+  },
+  {
+    "q0": 39655857,
+    "q41": "On-time login; crash then relog; within under 10 minutes slots were gone; morale hit."
+  },
+  {
+    "q0": 39655854
+  },
+  {
+    "q0": 39655853,
+    "q41": "Game froze; on relaunch, 'registration limit' message."
+  },
+  {
+    "q0": 39655852,
+    "q41": "Long download; blocked by 'network problem'; later told cap reached."
+  },
+  {
+    "q0": 39655847,
+    "q41": "At 11:00, 'network busy', shortly after said 'full'."
+  },
+  {
+    "q0": 39655846,
+    "q41": "Since last night: frequent network errors, then 'slots full' today."
+  },
+  {
+    "q0": 39655843,
+    "q41": "Wasted data due to being unable to play."
+  },
+  {
+    "q0": 39655842,
+    "q41": "Suggests servers under-provisioned; asks if they need another server."
+  },
+  {
+    "q0": 39655838,
+    "q41": "Says the test is 'monkeying' players (unfair/teasing)."
+  },
+  {
+    "q0": 39655837,
+    "q41": "Black screen halfway through the newbie tasks."
+  },
+  {
+    "q0": 39655835,
+    "q37": -2,
+    "q38": "About 4 GB install/resources.",
+    "q41": "Constant 'communication error'; accuses the game of colluding with carriers to farm data."
+  },
+  {
+    "q0": 39655823,
+    "q41": "Praises the visuals (very beautiful)."
+  },
+  {
+    "q0": 39655665,
+    "q41": "Cannot connect; connection not established on both mobile data and Wi‑Fi; even when briefly entering, still failed."
+  },
+  {
+    "q0": 39655809,
+    "q41": "Typical launch overload: 6–7 minutes unable to enter; later crashed during story; server capacity poor; asks for improvements."
+  },
+  {
+    "q0": 39655741,
+    "q41": "Server quality poor; frequent 'network unstable' prompts."
+  },
+  {
+    "q0": 39655591,
+    "q41": "Got kicked out again."
+  },
+  {
+    "q0": 39655802,
+    "q41": "Game froze."
+  },
+  {
+    "q0": 39655801,
+    "q41": "During story, forced to reconnect four times."
+  },
+  {
+    "q0": 39655788,
+    "q41": "Server crash at launch."
+  },
+  {
+    "q0": 39655784,
+    "q41": "Frequent 'network unstable' right after entering."
+  },
+  {
+    "q0": 39655770
+  },
+  {
+    "q0": 39655768,
+    "q41": "Cannot enter the game."
+  },
+  {
+    "q0": 39655760,
+    "q41": "Even the test server crashed; sarcastic remark about poor stability."
+  },
+  {
+    "q0": 39655758,
+    "q41": "Over six minutes unable to enter."
+  },
+  {
+    "q0": 39655621,
+    "q41": "Network unstable and server crash; eventually entered but still problematic."
+  },
+  {
+    "q0": 39655744
+  }
+]

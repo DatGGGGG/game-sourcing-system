@@ -1,0 +1,492 @@
+[
+  {
+    "q0": 43899623,
+    "q9": -2,
+    "q10": "Forced, very long tutorial must be redone on return; tedious despite guaranteed win"
+  },
+  {
+    "q0": 43890259,
+    "q41": "Frequent iOS crashes (2–3 times per day)"
+  },
+  {
+    "q0": 43855140,
+    "q41": "Self-select 10-pull prompt persists but banner not available; customer service replies like a bot"
+  },
+  {
+    "q0": 43875294
+  },
+  {
+    "q0": 43874610,
+    "q41": "Verification code for login not received"
+  },
+  {
+    "q0": 43868717,
+    "q31": 1,
+    "q32": "Welfare is okay"
+  },
+  {
+    "q0": 43853177,
+    "q31": 1,
+    "q32": "Resources are easy to obtain",
+    "q41": "Requests rerun of character 'Yagumo'"
+  },
+  {
+    "q0": 43852550,
+    "q41": "After newbie protection ended, repeatedly pulled off-banner"
+  },
+  {
+    "q0": 43852313,
+    "q29": -1,
+    "q30": "Too grindy if you want every banner; skins cost many diamonds and exchanges are limited",
+    "q41": "High grind; expensive skins with limited exchange counts"
+  },
+  {
+    "q0": 38300702,
+    "q1": true,
+    "q2": "Sexualized artwork censored/covered in CN version compared to global",
+    "q31": -2,
+    "q32": "Welfare is very poor",
+    "q29": -2,
+    "q30": "Heavy monetization focus, feels pay-or-nothing",
+    "q41": "Complains CN version adds censorship and pushes spending"
+  },
+  {
+    "q0": 43843452,
+    "q9": -2,
+    "q10": "Limited UP banner still locked/unavailable by chapter 7"
+  },
+  {
+    "q0": 43842885,
+    "q41": "Self-select 10-pull opens to a single generic pool; selectable pool missing"
+  },
+  {
+    "q0": 43834221
+  },
+  {
+    "q0": 43805509,
+    "q41": "Banner advertised 40% rate-up but lost off-banner 10 times; very poor gacha experience"
+  },
+  {
+    "q0": 43800084,
+    "q23": true,
+    "q24": "Has pity but can lose rate-up, so targeting a unit may take 200+ pulls"
+  },
+  {
+    "q0": 43787756,
+    "q23": true,
+    "q24": "Large pity is 120 pulls"
+  },
+  {
+    "q0": 38368006,
+    "q4": -1,
+    "q5": "Gameplay is weak; better as a side game"
+  },
+  {
+    "q0": 43770247,
+    "q41": "Requests PC client (global is on Steam)"
+  },
+  {
+    "q0": 43768839,
+    "q31": -2,
+    "q32": "No free 10-pull and little welfare",
+    "q29": -2,
+    "q30": "Frequent prompts to spend"
+  },
+  {
+    "q0": 43747295,
+    "q41": "Poor optimization; stutters on every tap"
+  },
+  {
+    "q0": 43745738,
+    "q9": -2,
+    "q10": "Guide points to a self-select banner that isn’t available after chapter 3"
+  },
+  {
+    "q0": 43743077,
+    "q4": -2,
+    "q5": "Combat is very boring",
+    "q9": -2,
+    "q10": "Progression is extremely grindy: many dupes + exclusive weapon/gear; story is shallow",
+    "q41": "Requires 10 dupes per character plus exclusive weapon and artifact grind; recommends avoiding"
+  },
+  {
+    "q0": 43742385,
+    "q1": true,
+    "q2": "Sexual/erotic character art is a draw but access to related banners is locked",
+    "q9": -2,
+    "q10": "Forced progression; rewards and banners locked until reaching certain chapters",
+    "q41": "Forced main story; 10-pull only visible after long progress"
+  },
+  {
+    "q0": 43737346,
+    "q41": "Self-select banner and reward missing; no items in inventory"
+  },
+  {
+    "q0": 43727819,
+    "q41": "Cannot enter game after reinstalling"
+  },
+  {
+    "q0": 43713175,
+    "q41": "After early luck, got extreme off-banners"
+  },
+  {
+    "q0": 43712748,
+    "q23": true,
+    "q24": "Early game pity is 50 for an SSR; UR banners unlock at level 20; seven 'self-select' 10-pulls become choosable only after chapter 7",
+    "q11": -2,
+    "q12": "SR/R units are vastly weaker than SSR/UR (huge stat gap), making lower rarities useless",
+    "q9": -2,
+    "q10": "Many features and rewards gated by level and chapters",
+    "q29": -2,
+    "q30": "Marriage skin requires 128 RMB direct purchase; heavy monetization across systems",
+    "q41": "Misleading new-player rewards and banner unlocks; frequent off-banners; feels like a cash-grab"
+  },
+  {
+    "q0": 43702728,
+    "q3": "Frontline tank with backline DPS; minimal synergy required",
+    "q4": -1,
+    "q5": "Repetitive stage farming; low playability",
+    "q6": "Stat stacking; UR/new units dominate; little need for combos",
+    "q7": -1,
+    "q8": "Lineups rarely require strategy; most players use a few units",
+    "q9": -1,
+    "q10": "Progression revolves around repetitive grind and events",
+    "q11": -1,
+    "q12": "UR and paid units stronger than SSR; power creep on new releases",
+    "q13": -1,
+    "q14": "Most players run the same characters; little roster variety",
+    "q23": true,
+    "q24": "New units typically obtained around 60 pulls (small pity)",
+    "q31": 1,
+    "q32": "Resources are decent; F2P can save crystals",
+    "q29": -1,
+    "q30": "To rank you need to spend; monetization is visible throughout"
+  },
+  {
+    "q0": 43693071
+  },
+  {
+    "q0": 43692761,
+    "q9": -2,
+    "q10": "Newbie tutorial is long and has no speed-up"
+  },
+  {
+    "q0": 43692282
+  },
+  {
+    "q0": 43690700,
+    "q41": "Account disappeared"
+  },
+  {
+    "q0": 43681657,
+    "q31": -1,
+    "q32": "Hard to accumulate diamonds and stamina drains quickly",
+    "q41": "Back button is laggy; often only gets SSR at pity"
+  },
+  {
+    "q0": 43679058,
+    "q9": -2,
+    "q10": "Unlocks are level-gated; takes ~9 days to unlock full systems and banners may end before that",
+    "q29": -2,
+    "q30": "2–3 UR rate-ups per month; cannot collect without spending and level caps still block progress",
+    "q3": "Power-check gameplay: if your power overwhelms stages you auto-win; little else to do",
+    "q4": -2,
+    "q5": "Outside of dungeons there’s little content; arena is whale-dominated; lag issues",
+    "q41": "Severe stutter when entering gacha or returning home"
+  },
+  {
+    "q0": 43674892,
+    "q37": -2,
+    "q38": "Very large install (several GB of data)",
+    "q41": "Extremely boring"
+  },
+  {
+    "q0": 43672049,
+    "q15": "Dorm/home system with room upgrades and various activities",
+    "q16": false,
+    "q17": 1,
+    "q18": "Dorm upgrades and activities are straightforward and fun though a bit grindy"
+  },
+  {
+    "q0": 43671387,
+    "q37": -2,
+    "q38": "Game size feels very large"
+  },
+  {
+    "q0": 43670292,
+    "q1": true,
+    "q2": "Sexualized art and marriage/contract skins",
+    "q29": -2,
+    "q30": "Final event rewards often require payment; must buy stamina to keep pace; 128 RMB direct-purchase marriage skin",
+    "q3": "Auto-battle that feels chaotic; UR stat-check dominates",
+    "q4": -2,
+    "q5": "URs overwhelm others; combat lacks depth",
+    "q11": -2,
+    "q12": "UR baseline stats create a big gap regardless of skills",
+    "q41": "Poor optimization (stutters when returning home); messy, unengaging story"
+  },
+  {
+    "q0": 43665496,
+    "q41": "Gift code redemption appears missing"
+  },
+  {
+    "q0": 43658857,
+    "q31": -2,
+    "q32": "Resource income is low while UR banners launch back-to-back",
+    "q29": -2,
+    "q30": "Consecutive UR banners create heavy spending pressure; advises pure F2P",
+    "q41": "Frequent stutters on multiple devices"
+  },
+  {
+    "q0": 43654094,
+    "q41": "One 10-pull yielded two URs (lucky outcome)"
+  },
+  {
+    "q0": 43648571,
+    "q23": true,
+    "q24": "Rate-up typically arrives around 110–120 pulls",
+    "q41": "Story requires manual skipping; server lag present"
+  },
+  {
+    "q0": 43647370,
+    "q41": "Strong appeal to otaku via artwork; gameplay is standard card-battler"
+  },
+  {
+    "q0": 43645361,
+    "q41": "Accused of being a reskin of 少年三国志2"
+  },
+  {
+    "q0": 43644774,
+    "q41": "Forced to watch a low-quality opening animation"
+  },
+  {
+    "q0": 43642180,
+    "q41": "After chapter 3, 10-pull entry goes to wrong page; reward missing"
+  },
+  {
+    "q0": 43631056,
+    "q9": -2,
+    "q10": "Cleared chapter 4 but still no 10-pull; only one banner available—feels like a bug",
+    "q41": "Missing 10-pull reward"
+  },
+  {
+    "q0": 43630634,
+    "q41": "Feels unfinished and cash-grabby; very poor experience"
+  },
+  {
+    "q0": 43326334,
+    "q1": true,
+    "q2": "Perceived as an 'adult/eroge' type game (sexual content)",
+    "q31": 1,
+    "q32": "Not very grindy and plenty of welfare"
+  },
+  {
+    "q0": 43627543
+  },
+  {
+    "q0": 43626277,
+    "q39": -2,
+    "q40": "In-game resource pack download speed is extremely slow (progress updates roughly once per minute)"
+  },
+  {
+    "q0": 43626064,
+    "q31": -1,
+    "q32": "Asks for more welfare and freebies (e.g., New Year 10-pull)",
+    "q9": -1,
+    "q10": "Leveling feels slow; suggests increasing stage EXP",
+    "q41": "Requests raising on-banner hit chance to 50%"
+  },
+  {
+    "q0": 43625674,
+    "q41": "Very low quality overall; only the art looks good"
+  },
+  {
+    "q0": 43623296,
+    "q27": 1,
+    "q28": "Reports good experience playing without paying if progressing steadily"
+  },
+  {
+    "q0": 43619094,
+    "q31": -2,
+    "q32": "Welfare extremely low; rates are stingy; can't reach small pity during newbie phase"
+  },
+  {
+    "q0": 43619162,
+    "q41": "Previous account missing"
+  },
+  {
+    "q0": 43615236,
+    "q1": true,
+    "q2": "Fanservice toned down; art style feels too youthful; not 'lewd' enough",
+    "q41": "Gameplay similar to 三国志幻想大陆"
+  },
+  {
+    "q0": 43611646,
+    "q41": "Claims misleading promo about self-select 10-pull after chapter 7/8; couldn't find it; 6 RMB first top-up wasted"
+  },
+  {
+    "q0": 43609544
+  },
+  {
+    "q0": 43604728
+  },
+  {
+    "q0": 43595776,
+    "q27": -2,
+    "q28": "Newbie banner requires payment to pull",
+    "q29": -2,
+    "q30": "Early gacha access is pay-gated"
+  },
+  {
+    "q0": 43593481,
+    "q41": "UP rate claims (e.g., 80% with 60 minimum) still led to repeated off-banners; advises not to play unless spending heavily"
+  },
+  {
+    "q0": 43565419,
+    "q41": "Multiple bugs: event page freezes, cannot enter events, battle black screens"
+  },
+  {
+    "q0": 43556593,
+    "q41": "Weapon pool seems heavily off-banner (e.g., 6 of 8 pulls off-banner)"
+  },
+  {
+    "q0": 43548712,
+    "q41": "Feels like 少年三国志2"
+  },
+  {
+    "q0": 43544908,
+    "q41": "Questioning uneven compensation rules for the 'ancient relic' pool (some got 3 pulls, others 280–400)"
+  },
+  {
+    "q0": 38054148,
+    "q29": -2,
+    "q30": "Lower draw rates than beta and poor value in consecutive top-ups; small spenders not worthwhile"
+  },
+  {
+    "q0": 43543401
+  },
+  {
+    "q0": 43538963,
+    "q41": "Not fun"
+  },
+  {
+    "q0": 43528790,
+    "q23": true,
+    "q24": "Pity around 120 exists but you can lose rate-up multiple times",
+    "q41": "Gacha mechanism frustrating (lost rate-up twice in ~120 pulls)"
+  },
+  {
+    "q0": 43521047,
+    "q41": "Always hitting pity; very unlucky"
+  },
+  {
+    "q0": 43513591,
+    "q41": "Requests rerun of 'Dainimocha'"
+  },
+  {
+    "q0": 43494048,
+    "q41": "Previous account data lost; refuses to restart"
+  },
+  {
+    "q0": 43479328,
+    "q41": "Cannot find self-select 10-pull"
+  },
+  {
+    "q0": 43475514,
+    "q1": true,
+    "q2": "JP version is a fanservice/'sell meat' title; CN version is sanitized"
+  },
+  {
+    "q0": 43474288
+  },
+  {
+    "q0": 43462168
+  },
+  {
+    "q0": 43452458,
+    "q4": -1,
+    "q5": "Gameplay is boring and often hits pity",
+    "q31": 1,
+    "q32": "Welfare feels okay"
+  },
+  {
+    "q0": 43324785,
+    "q1": true,
+    "q2": "Highly sexualized characters",
+    "q3": "AI auto-battle",
+    "q4": -1,
+    "q5": "Gameplay is a bit single/monotonous",
+    "q23": true,
+    "q24": "Small pity at 60 pulls",
+    "q41": "Skins worth buying but bundles have low value"
+  },
+  {
+    "q0": 43304265
+  },
+  {
+    "q0": 43263486
+  },
+  {
+    "q0": 43242644,
+    "q41": "Main appeal is character looks"
+  },
+  {
+    "q0": 43224000,
+    "q1": true,
+    "q2": "Strong erotic/fanservice focus",
+    "q31": -2,
+    "q32": "Low welfare and very off-banner; not recommended for unlucky players"
+  },
+  {
+    "q0": 43191770,
+    "q41": "Cannot claim chapter rewards (10-pull and self-select 10-pull)"
+  },
+  {
+    "q0": 43189614,
+    "q41": "Huawei devices: entering others' home or event stages causes crashes; requests optimization"
+  },
+  {
+    "q0": 43140527,
+    "q3": "Cinematic ultimate skill animations",
+    "q4": 1,
+    "q5": "Ultimate animations are well-made"
+  },
+  {
+    "q0": 43128060,
+    "q9": -2,
+    "q10": "Gets grindier and less rewarding; combat power barely increases without draws; worsens after chapter 40"
+  },
+  {
+    "q0": 43126415,
+    "q27": 0,
+    "q28": "Spendy game overall, but F2P can still play casually"
+  },
+  {
+    "q0": 43123756,
+    "q9": -1,
+    "q10": "Newbies need a long time to unlock all content"
+  },
+  {
+    "q0": 43118726,
+    "q41": "Limited banner missing"
+  },
+  {
+    "q0": 43111347,
+    "q41": "Previous account cannot be recovered"
+  },
+  {
+    "q0": 43098550,
+    "q31": -2,
+    "q32": "Welfare is lacking",
+    "q9": -2,
+    "q10": "Very long forced newbie sequence",
+    "q41": "Lag even during basic attacks; feels like time-wasting to push spending"
+  },
+  {
+    "q0": 43091198,
+    "q31": -2,
+    "q32": "Newbie welfare is too little",
+    "q9": -2,
+    "q10": "Tutorial is long"
+  }
+]

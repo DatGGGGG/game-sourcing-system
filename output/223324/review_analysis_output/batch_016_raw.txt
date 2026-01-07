@@ -1,0 +1,437 @@
+[
+  {
+    "q0": 26887480,
+    "q9": -1,
+    "q10": "Confusing onboarding/tutorial, lack of skip and better battle speed, and heavy grind make progression tiring.",
+    "q41": "Controversial operations/community tone; tutorial is messy; lacks skip/high-speed options; very grindy."
+  },
+  {
+    "q0": 26886989
+  },
+  {
+    "q0": 26886957,
+    "q3": "Turn-based tactics (war chess); concern about autoplay making it a passive watch.",
+    "q4": -1,
+    "q5": "Fears forced autoplay will reduce engagement to watching replays in long battles.",
+    "q6": "Manual play first clear; allow auto/skip only after clearing for material farming."
+  },
+  {
+    "q0": 26886227,
+    "q4": 1,
+    "q5": "Smooth operation and strong BGM; Q-style ult presentation feels abrupt.",
+    "q9": -1,
+    "q10": "Later-stage difficulty spikes may deter less-invested players."
+  },
+  {
+    "q0": 26886269,
+    "q3": "Turn-based tactics with many systems and materials.",
+    "q4": -1,
+    "q5": "Too many upgrade materials with RNG drops, no sweep, and no early auto; quickly hit a wall.",
+    "q6": "Complex systems for upgrades/material farming.",
+    "q7": 0,
+    "q8": "Perceived complexity but not evaluated as deep.",
+    "q9": -1,
+    "q10": "Early progression blocked by RNG material drops and lack of auto/sweep."
+  },
+  {
+    "q0": 26885468
+  },
+  {
+    "q0": 26885222
+  },
+  {
+    "q0": 26885103,
+    "q41": "Limited access test yet download left open; users download but cannot play."
+  },
+  {
+    "q0": 26884571,
+    "q3": "Turn-based tactics with player turns, ult animations, and positional play; suffers from small visuals, easy mis-taps, and no undo.",
+    "q4": 0,
+    "q5": "Good story/music but UX limits combat (small scale, mis-taps); no undo; ult CG lacks skip.",
+    "q9": -1,
+    "q10": "Breakthrough material stages are too hard and rely on RNG; no auto/sweep; level-up stuck at 30.",
+    "q15": "Dispatch missions on the world map; weapon acquisition via order-like activities; archive interactions.",
+    "q16": false,
+    "q33": true,
+    "q34": "National Treasure (Chinese TV program) collaboration; emphasizes cultural relics IP.",
+    "q35": 1,
+    "q36": "Theme and official tie-in reinforce the relic personification concept but not deeply expressed in gameplay systems.",
+    "q41": "Wants zoom and per-turn character focus; add undo; improve history review access; add friend assist; separate voice unlock from level; consider de-emphasizing rarity; avoid PvP; add sweep and more weapon acquisition modes."
+  },
+  {
+    "q0": 26831849,
+    "q3": "Turn-based tactics; moderate difficulty; smooth with no lag.",
+    "q4": 1,
+    "q5": "Good performance and responsive controls.",
+    "q41": "Story touch input sometimes delayed; gacha felt generous in test; no intrusive monetization pop-ups observed."
+  },
+  {
+    "q0": 26884541,
+    "q3": "Simplified, newcomer-friendly turn-based tactics.",
+    "q4": 1,
+    "q5": "Approachable tactics gameplay.",
+    "q9": -1,
+    "q10": "Big jumps at level 30/50 material stages; RNG material/dispatch rewards hinder steady progress.",
+    "q41": "Material drops for breakthroughs need pity; weapons need reroll/transfer; dispatch rewards feel RNG; tutorial could better explain enemy traits; double-UP banner criticized."
+  },
+  {
+    "q0": 26884508,
+    "q41": "Requires registration/qualification despite open download."
+  },
+  {
+    "q0": 26884351,
+    "q41": "Ult animations feel low-quality and cannot be turned off individually; hopes launch gacha pool isn’t stingy."
+  },
+  {
+    "q0": 26883417,
+    "q41": "Asks how to obtain test qualification."
+  },
+  {
+    "q0": 26883034,
+    "q3": "Turn-based tactics with ult animations; suggests richer terrain using jump mechanics shown for light units.",
+    "q4": 0,
+    "q5": "Core gameplay feels too standard; lacks auto/chain battle or sweep for farming.",
+    "q6": "Terrain interaction (unit jump) potential; requests chain-battle or sweep over passive auto.",
+    "q7": 0,
+    "q8": "Current tactical layer feels conventional; asks for more distinctive mechanics.",
+    "q41": "Hide story replay under tiny arrow; needs per-ult skip/daily-first-show; no rate/UP disclosure; overheating and post-ult damage number stutter; overall gameplay mid while art is excellent."
+  },
+  {
+    "q0": 26882131,
+    "q41": "Game requires test qualification to play."
+  },
+  {
+    "q0": 26881599,
+    "q4": 0,
+    "q5": "Targeting enemies can be difficult when units are clustered; occasional missed taps.",
+    "q41": "Strong Live2D art and character writing; limited story chapters so far."
+  },
+  {
+    "q0": 26881528,
+    "q41": "3D/Chibi modeling quality criticized."
+  },
+  {
+    "q0": 26880242,
+    "q41": "Marketing created high expectations; warns of potential rating drop if launch quality doesn’t match hype."
+  },
+  {
+    "q0": 26865371,
+    "q3": "Turn-based tactics with 2x speed; lacks auto and sweep.",
+    "q4": -1,
+    "q5": "Needs 3x speed; no auto; farming same stage is time-consuming.",
+    "q9": -2,
+    "q10": "Random breakthrough material drops, huge stage level gaps (e.g., jump to ~31), and no auto/sweep block progress.",
+    "q41": "Wants story collection/recap; story clarity/VO lacking (test); suggests auto/chain battle/sweep; asks handling of duplicate characters."
+  },
+  {
+    "q0": 26877141,
+    "q3": "Combat is standard turn-based battling.",
+    "q4": -1,
+    "q5": "Feels old/derivative; requests auto and sweep to enjoy character art."
+  },
+  {
+    "q0": 26876506,
+    "q3": "Turn-based tactics; feels basic and unoriginal.",
+    "q4": -1,
+    "q5": "Core tactics feel primitive; clunky operations requiring double taps.",
+    "q31": 2,
+    "q32": "Daily free 10-pull and high early-test SSR rates plus multiple login rewards."
+  },
+  {
+    "q0": 26876525,
+    "q41": "Ult cutscene framing issues (heads cut off); tutorial unclear; requests balanced gender distribution."
+  },
+  {
+    "q0": 26876255
+  },
+  {
+    "q0": 26875581,
+    "q3": "Turn-based tactics with clunky input (often requires double taps).",
+    "q4": -1,
+    "q5": "Poor feel and tedious interactions; unengaging main story."
+  },
+  {
+    "q0": 26874981,
+    "q4": -1,
+    "q5": "Chibi models and VFX look low quality; forced tutorial overlapped with sign-in pop-up, blocking progress; auto present but not implemented.",
+    "q41": "Tutorial/UX bug with overlapping pop-ups; Q-style models/VFX blurry/dated; auto not available yet."
+  },
+  {
+    "q0": 26874595,
+    "q41": "Test build has some bugs; hopes for quality improvements at launch."
+  },
+  {
+    "q0": 26874066,
+    "q4": 0,
+    "q5": "2x speed setting doesn’t persist; chibi and ult animation quality underwhelms but skippable.",
+    "q41": "Speed preference not saved between battles."
+  },
+  {
+    "q0": 26872253,
+    "q41": "Questionnaire felt overbearing; limited-time exclusive cosmetics criticized; concerns about long-term commitment."
+  },
+  {
+    "q0": 26829153,
+    "q4": -1,
+    "q5": "Ult animations too long; lacks one-time-per-day option; no auto/sweep makes farming too time-consuming; UI interactions need polish.",
+    "q41": "Improve tutorial; diversify art style/backgrounds; disclose gacha pool and rates; add artifact-specific side stories."
+  },
+  {
+    "q0": 26871062,
+    "q3": "Turn-based tactics (war chess).",
+    "q4": -2,
+    "q5": "Strong dislike of the war chess genre choice."
+  },
+  {
+    "q0": 26870382,
+    "q41": "Requests an invite/code for test access."
+  },
+  {
+    "q0": 26870265
+  },
+  {
+    "q0": 26870044,
+    "q41": "Limited test but openly downloadable; concerns about community climate."
+  },
+  {
+    "q0": 26869667,
+    "q41": "Open download during limited test criticized as inflating downloads/benefiting scalpers."
+  },
+  {
+    "q0": 26869604,
+    "q41": "Negative reaction to perceived unfair/opaque operations."
+  },
+  {
+    "q0": 26869174,
+    "q41": "Long-standing reservation/expectation; missed questionnaire-based qualification."
+  },
+  {
+    "q0": 26869023,
+    "q41": "Complaint about limited-time exclusives tied to questionnaire and inconsistent qualification criteria."
+  },
+  {
+    "q0": 26868762,
+    "q41": "Asks how to obtain internal test qualification."
+  },
+  {
+    "q0": 26868343,
+    "q41": "Open download but blocked by qualification requirement."
+  },
+  {
+    "q0": 26868279,
+    "q41": "Perceives the test as funneling/screening fans ('筛粉养蛊')."
+  },
+  {
+    "q0": 26868249,
+    "q41": "Allowed to download/register but cannot play without qualification."
+  },
+  {
+    "q0": 26867931,
+    "q37": -1,
+    "q38": "Installer about 1 GB; user felt data was wasted due to access block.",
+    "q41": "Open download despite access requirement; plans to revisit when qualified."
+  },
+  {
+    "q0": 26867784,
+    "q41": "Praised UI, art, music, artifact-persona idea, certain level design (2-13), and the archive."
+  },
+  {
+    "q0": 26866262
+  },
+  {
+    "q0": 26827722,
+    "q3": "Turn-based tactics; repeated material farming; no auto.",
+    "q4": -1,
+    "q5": "No auto makes repeated farming exhausting; input lag and mis-taps due to confirm/skill proximity.",
+    "q41": "UI needs optimization; requests auto in next test."
+  },
+  {
+    "q0": 26866061,
+    "q41": "Disappointed by chibi 2D presentation; no desire to continue."
+  },
+  {
+    "q0": 26865491,
+    "q41": "Open download despite internal test qualification requirement."
+  },
+  {
+    "q0": 26864083,
+    "q3": "Turn-based tactics; auto exists but disabled in test.",
+    "q4": 1,
+    "q5": "Enjoyable art/BGM and overall experience, though input lag and button proximity cause mis-presses.",
+    "q9": -1,
+    "q10": "Difficulty spikes are too large; requests reduced difficulty.",
+    "q41": "Only ~22 characters in test; high apparent gacha rate (test-only); no JP dub (positive for some); may have dialect VOs; potential skins; wants auto enabled."
+  },
+  {
+    "q0": 26860691,
+    "q41": "Critiques the fan-circle environment around the game."
+  },
+  {
+    "q0": 26860562,
+    "q41": "Feels misled; complains about wasted data."
+  },
+  {
+    "q0": 26859668,
+    "q41": "Could not register; qualification requirement not clearly visible (buried in announcements)."
+  },
+  {
+    "q0": 26859559,
+    "q41": "Allows download but blocks play; expected rating drop."
+  },
+  {
+    "q0": 26859444,
+    "q41": "Frustration about data usage due to access block."
+  },
+  {
+    "q0": 26859191,
+    "q41": "Anger at limiting access while leaving download open."
+  },
+  {
+    "q0": 26858367,
+    "q41": "Open download during limited access seen as deceptive and poor ops quality."
+  },
+  {
+    "q0": 26858088,
+    "q41": "Found the experience boring."
+  },
+  {
+    "q0": 26857748,
+    "q41": "Asks whether the test crashed; notes Bilibili rating is high."
+  },
+  {
+    "q0": 26857117,
+    "q41": "First time seeing limited test with open download; poor flow (download/register then blocked)."
+  },
+  {
+    "q0": 26857017
+  },
+  {
+    "q0": 26856983,
+    "q41": "Open download despite being unable to play; wastes time/data."
+  },
+  {
+    "q0": 26855428,
+    "q41": "Art great; big map stylish but navigation unclear; equipment has appearances; writing feels nonsensical; needs script polish."
+  },
+  {
+    "q0": 26853016,
+    "q41": "Enable auto earlier for casual players; story not engaging and lacks Live2D; disclose gacha probabilities and pool contents; artifact gallery is a highlight."
+  },
+  {
+    "q0": 26829426,
+    "q3": "Turn-based tactics; repeated farming required.",
+    "q4": -1,
+    "q5": "No auto/sweep after clear; ult cannot be skipped; some touch/click issues.",
+    "q41": "Tutorial incomplete; artifact archive well-done; BGM acceptable."
+  },
+  {
+    "q0": 26851002,
+    "q41": "Blocked by no qualification despite download."
+  },
+  {
+    "q0": 26850647
+  },
+  {
+    "q0": 26850576,
+    "q41": "Strongly negative impression."
+  },
+  {
+    "q0": 26850528,
+    "q41": "Criticizes perceived 'hunger marketing.'"
+  },
+  {
+    "q0": 26850460,
+    "q41": "Open download during limited test seen as farming traffic."
+  },
+  {
+    "q0": 26850063,
+    "q41": "Store shows 'trial' but access blocked due to lack of qualification."
+  },
+  {
+    "q0": 26849844,
+    "q41": "Downloaded but cannot play."
+  },
+  {
+    "q0": 26849348,
+    "q41": "Limited test yet open download; criticized."
+  },
+  {
+    "q0": 26849304,
+    "q41": "Sarcastic remark about collusion with carriers due to data wastage."
+  },
+  {
+    "q0": 26848760,
+    "q41": "Aware it’s a qualification test; still criticizes open download."
+  },
+  {
+    "q0": 26847820,
+    "q3": "Turn-based tactics; story has speed and skip; no auto/sweep.",
+    "q4": 0,
+    "q5": "Addictive first tactics experience but lacks auto/sweep.",
+    "q9": -1,
+    "q10": "Stuck at 2-3; progression gated without auto/sweep and more resources.",
+    "q41": "Manual taps sometimes feel unresponsive."
+  },
+  {
+    "q0": 26847450,
+    "q41": "Open download but access locked by qualification."
+  },
+  {
+    "q0": 26847359,
+    "q41": "Questionnaire selection + limited test + open download + homepage feature + exclusive cosmetics felt off-putting."
+  },
+  {
+    "q0": 26846640,
+    "q41": "Pushback against gatekeeping new players; notes marketing emphasized relic IP over gameplay."
+  },
+  {
+    "q0": 26846495,
+    "q9": -1,
+    "q10": "No auto leads to grindy experience; would re-evaluate if auto is added.",
+    "q41": "Art praised; lack of auto makes it grindy."
+  },
+  {
+    "q0": 26803651,
+    "q3": "Turn-based tactics; initially tough for non-genre players but becomes manageable.",
+    "q4": 1,
+    "q5": "Enjoyable art and improved comfort with gameplay; some device heating.",
+    "q41": "Phone heating observed in test."
+  },
+  {
+    "q0": 26846167,
+    "q3": "Turn-based tactics; movement/skill constraints (must move before melee skill); auto not yet open.",
+    "q4": 1,
+    "q5": "Likes war chess and production values; controls feel a bit clumsy.",
+    "q6": "Team of six; movement vs. skill usage constraints; suggests roles for benched units.",
+    "q7": 0,
+    "q8": "Core tactics fine but content limited (mostly main/resource stages).",
+    "q41": "Wants more modes and sweep for long-term farming; gacha lacks probability disclosure."
+  },
+  {
+    "q0": 26845328,
+    "q3": "Turn-based tactics; skill targeting should consider post-move range.",
+    "q4": 0,
+    "q5": "UX friction: need to combine move + skill flow; team edit returns you to main page unnecessarily.",
+    "q41": "Improve team-edit flow; refine skill/move UI."
+  },
+  {
+    "q0": 26845312,
+    "q41": "Limited access test despite being downloadable; user expected to play."
+  },
+  {
+    "q0": 26845203,
+    "q41": "Strongly negative sentiment."
+  },
+  {
+    "q0": 26844963,
+    "q41": "Limited test but open download criticized."
+  },
+  {
+    "q0": 26844047,
+    "q41": "Downloaded but cannot play."
+  },
+  {
+    "q0": 26843979,
+    "q41": "Client presented as playable; after registering, access blocked by qualification."
+  }
+]

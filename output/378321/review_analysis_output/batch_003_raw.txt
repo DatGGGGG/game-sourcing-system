@@ -1,0 +1,511 @@
+[
+  {
+    "q0": 44446413,
+    "q1": true,
+    "q2": "Sexual content; players suggest using an 18+ version instead of 16+"
+  },
+  {
+    "q0": 44435814,
+    "q23": true,
+    "q24": "Pity/guarantee at 120 pulls",
+    "q9": 1,
+    "q10": "Described growth experience as 'okay'",
+    "q31": -1,
+    "q32": "Resource acquisition is grindy"
+  },
+  {
+    "q0": 44430958,
+    "q1": true,
+    "q2": "Sexual/erotic positioning mentioned via rankings"
+  },
+  {
+    "q0": 44427167,
+    "q9": -1,
+    "q10": "Tutorial is overly long and restrictive"
+  },
+  {
+    "q0": 44426438,
+    "q6": "Cross-server PvP with guild base occupation; bounty tasks with star ratings; numerous PvP modes",
+    "q7": -1,
+    "q8": "Strategic play is overshadowed by whale power gaps",
+    "q27": -2,
+    "q28": "Non-payers can't obtain PvP rewards; get bullied in cross-server events",
+    "q29": -2,
+    "q30": "PvP is used to push spending; whales dominate",
+    "q31": -2,
+    "q32": "Zero-spend players cannot secure PvP rewards; activity rewards are tiny",
+    "q11": -2,
+    "q12": "Power depends on spending/URs, creating severe imbalance",
+    "q41": "Cross-server guild events dominated by whales; forced new servers to 're-harvest'; perceived pay-to-win"
+  },
+  {
+    "q0": 44426177,
+    "q41": "Gacha banner bug: only base pool shown"
+  },
+  {
+    "q0": 44407894,
+    "q31": -1,
+    "q32": "Outside of dungeons, resource income is limited",
+    "q41": "Art/illustrations praised; other aspects average"
+  },
+  {
+    "q0": 44400895,
+    "q29": -2,
+    "q30": "Pay more equals higher power; perceived reskinned P2W design"
+  },
+  {
+    "q0": 44397723,
+    "q9": -1,
+    "q10": "Main story is level-gated; slow leveling around 53+"
+  },
+  {
+    "q0": 44397432,
+    "q11": -2,
+    "q12": "High strength requirements create big gaps between characters/teams",
+    "q9": -1,
+    "q10": "Easy to get stuck; early gacha inducement leads to roadblocks"
+  },
+  {
+    "q0": 44380573,
+    "q41": "Gacha pulls keep going off-rate on a fresh account"
+  },
+  {
+    "q0": 44388748,
+    "q31": -2,
+    "q32": "Very few welfare rewards and low drop rates",
+    "q1": true,
+    "q2": "Sexual content censored ('characters toned down')"
+  },
+  {
+    "q0": 44384592,
+    "q41": "Severe lag and frequent crashes"
+  },
+  {
+    "q0": 44378453,
+    "q9": -1,
+    "q10": "Promised newbie select-10 pull not delivered after clearing chapters"
+  },
+  {
+    "q0": 44373115,
+    "q1": true,
+    "q2": "Censored sexualized art in CN release; promo used uncensored art; no toggle",
+    "q27": -1,
+    "q28": "Non-payers' power is too low to compete",
+    "q29": -2,
+    "q30": "Feels mandatory to pay to keep up"
+  },
+  {
+    "q0": 44370146,
+    "q41": "Perceived low-quality loop: poor gameplay and visuals leading to worse production"
+  },
+  {
+    "q0": 44357913,
+    "q9": -1,
+    "q10": "Hard to find promised select 10-pull; early chapters already very difficult",
+    "q29": -1,
+    "q30": "Early difficulty feels like forced monetization",
+    "q41": "Gacha UI/UX confusing; couldn't locate ticket"
+  },
+  {
+    "q0": 44345951,
+    "q41": "Character model missing ears (art/design regression)"
+  },
+  {
+    "q0": 44342869,
+    "q29": -2,
+    "q30": "Aggressive cash prompts; perceived rate control and repeated off-rate pulls",
+    "q41": "Suspected manipulated gacha rates; emulator play noted"
+  },
+  {
+    "q0": 44338542,
+    "q31": -2,
+    "q32": "Scarce diamonds outside events and story",
+    "q29": -2,
+    "q30": "Strong pay-to-win atmosphere"
+  },
+  {
+    "q0": 44337677,
+    "q41": "Inconsistent login support: emulator can use WeChat login, this client cannot"
+  },
+  {
+    "q0": 44336093,
+    "q11": -1,
+    "q12": "Older characters struggle to see play; need buffs",
+    "q41": "Too many upgrade branches; art praised"
+  },
+  {
+    "q0": 44322291,
+    "q39": -2,
+    "q40": "Game updates won't download over Wi‑Fi; forces mobile data"
+  },
+  {
+    "q0": 44316843,
+    "q31": 2,
+    "q32": "Claims '1,000 pulls on launch'"
+  },
+  {
+    "q0": 44315299,
+    "q41": "Double rate-up banner available"
+  },
+  {
+    "q0": 44312784,
+    "q41": "2D-focused; 3D-preferring players may not like it"
+  },
+  {
+    "q0": 37212384,
+    "q31": -2,
+    "q32": "Event rewards/diamonds reduced; cross-server competition starves non-spenders",
+    "q21": -1,
+    "q22": "Monthly small events decreased; repetitive cross-server events",
+    "q27": -2,
+    "q28": "Without heavy spending (~100k), can't compete on rankings",
+    "q29": -2,
+    "q30": "Very high spending required; player reports being 'pit' for 30k",
+    "q41": "All-server cross events share a single reward pool; alleges many astroturf reviews"
+  },
+  {
+    "q0": 44302835,
+    "q3": "Auto-battle with chibi/big-head 3D models",
+    "q4": -1,
+    "q5": "Combat relies on auto and feels sleepy"
+  },
+  {
+    "q0": 44301860,
+    "q41": "Game freezes; needs optimization"
+  },
+  {
+    "q0": 44297107,
+    "q9": -1,
+    "q10": "Promised select 10-pull after clearing not delivered; very poor experience",
+    "q41": "False advertising of newbie select 10-pull"
+  },
+  {
+    "q0": 44293013,
+    "q41": "Cannot receive verification code"
+  },
+  {
+    "q0": 44279011,
+    "q41": "Perceived worse gacha luck after paying; high-star units necessary; advises not to pay"
+  },
+  {
+    "q0": 44278594,
+    "q41": "Players ask if it's 'Pride of Eden 2'"
+  },
+  {
+    "q0": 44277043,
+    "q21": 1,
+    "q22": "Too many events; suggests simplifying"
+  },
+  {
+    "q0": 44276579,
+    "q41": "Gacha UI bug: missing select-10 interface; character display switches to a different unit"
+  },
+  {
+    "q0": 44272213,
+    "q9": -1,
+    "q10": "Early game fine; late game becomes boring"
+  },
+  {
+    "q0": 44269373,
+    "q41": "Missing characters in roster; can't find protagonist"
+  },
+  {
+    "q0": 44262390,
+    "q41": "Returning player reports double gold in one pull"
+  },
+  {
+    "q0": 44259686
+  },
+  {
+    "q0": 44253707,
+    "q41": "Praised visuals and characters"
+  },
+  {
+    "q0": 44251408,
+    "q1": true,
+    "q2": "Marketed as adult, but in-game characters are more covered (censored)",
+    "q3": "Mostly auto-battle; skip/auto unlocks are gated; some stages cannot be skipped",
+    "q4": -1,
+    "q5": "Boring combat and forced non-skippable stages",
+    "q41": "Low rates; messy home UI"
+  },
+  {
+    "q0": 44235999,
+    "q41": "Channel server seems abandoned; compendium lacks newer characters"
+  },
+  {
+    "q0": 44234377,
+    "q27": -2,
+    "q28": "Combat speed is paywalled; no sweep",
+    "q31": -2,
+    "q32": "Clearing an entire event yields about 1 pull",
+    "q29": -2,
+    "q30": "Monetizes QoL (battle speed)"
+  },
+  {
+    "q0": 44225017,
+    "q31": -1,
+    "q32": "Newbie welfare is stingy",
+    "q9": -1,
+    "q10": "Forced long tutorial and abrupt early difficulty spike",
+    "q4": -1,
+    "q5": "Skills feel weaker than normal attacks; combat feels frustrating"
+  },
+  {
+    "q0": 44223654,
+    "q1": true,
+    "q2": "CN version adds extra clothing (censored sexual content); international version preferred"
+  },
+  {
+    "q0": 44220557
+  },
+  {
+    "q0": 44217321,
+    "q41": "Average art/gameplay; suspects low rating due to gacha/welfare issues"
+  },
+  {
+    "q0": 44204883,
+    "q1": true,
+    "q2": "Censored sexual content in CN/TW versions ('everyone wears coats')",
+    "q4": -1,
+    "q5": "Other aspects lack play value"
+  },
+  {
+    "q0": 44199780,
+    "q41": "Customer support unresponsive; blames players for issues"
+  },
+  {
+    "q0": 44194164,
+    "q9": 1,
+    "q10": "Progression/raising characters feels easy"
+  },
+  {
+    "q0": 44191309,
+    "q29": -2,
+    "q30": "Early pushes to pay via discount coupons",
+    "q31": -1,
+    "q32": "Starter ten-pull locked behind chapter progress; effectively nothing early",
+    "q9": -1,
+    "q10": "Newbie fights are 4v6 and hard"
+  },
+  {
+    "q0": 44190041,
+    "q1": true,
+    "q2": "Censorship due to 16+ rating; player wants 18+"
+  },
+  {
+    "q0": 44189159,
+    "q31": -2,
+    "q32": "Few resource avenues; only 3–4 pulls/day later",
+    "q29": -2,
+    "q30": "Too many recharge pop-ups; 'welfare' mostly paid",
+    "q11": -2,
+    "q12": "SR vs SSR have large stat gap; hurts balance",
+    "q6": "Arknights-like structure",
+    "q7": -1,
+    "q8": "Similar structure but lacks Arknights' depth/fun"
+  },
+  {
+    "q0": 44188184,
+    "q31": -1,
+    "q32": "TapTap sign-in rewards nerfed (last day reduced to 1 pull)"
+  },
+  {
+    "q0": 44186379,
+    "q27": -2,
+    "q28": "Newbie-limited banner requires payment",
+    "q29": -2,
+    "q30": "Forces spending for 'newbie limited'"
+  },
+  {
+    "q0": 44184854
+  },
+  {
+    "q0": 44180929,
+    "q41": "Frequent crashes on entering stages"
+  },
+  {
+    "q0": 44174419,
+    "q41": "Returning to main page stutters"
+  },
+  {
+    "q0": 44174124,
+    "q41": "Asks when a new server will open"
+  },
+  {
+    "q0": 44169868
+  },
+  {
+    "q0": 44173629,
+    "q41": "Poor newbie tutorial"
+  },
+  {
+    "q0": 44171210,
+    "q31": -1,
+    "q32": "Diamonds too few; low rates; soft pity unreliable",
+    "q11": -2,
+    "q12": "UR vs SSR stat gap is very large",
+    "q41": "Recommends focusing on URs; SSRs are poor value"
+  },
+  {
+    "q0": 44163883,
+    "q31": 1,
+    "q32": "Says welfare sends a lot",
+    "q41": "Feels like time-play grind"
+  },
+  {
+    "q0": 44160026,
+    "q1": true,
+    "q2": "Erotic art present but not excessive",
+    "q29": -1,
+    "q30": "Very pay-heavy overall",
+    "q27": 1,
+    "q28": "Zero-spenders can still play it as a collection game"
+  },
+  {
+    "q0": 44149183,
+    "q41": "Sign-in/gift code issue and poor gacha luck"
+  },
+  {
+    "q0": 44148860,
+    "q41": "Account lost"
+  },
+  {
+    "q0": 44122219,
+    "q41": "Felt scammed by low-value redemption code purchase"
+  },
+  {
+    "q0": 44118097,
+    "q41": "Frequent crashes"
+  },
+  {
+    "q0": 44088686
+  },
+  {
+    "q0": 44084268,
+    "q41": "Described as numbers-driven 'small爽游' with combat and growth"
+  },
+  {
+    "q0": 44077535,
+    "q31": -2,
+    "q32": "Starter 'select 10' gated to Chapter 7; rename costs 1 pull",
+    "q41": "Broken phone/name input fields; disappointing intro ten-pull structure"
+  },
+  {
+    "q0": 44070079,
+    "q31": -1,
+    "q32": "Welfare declines later versus early game",
+    "q9": -1,
+    "q10": "Quality drops later in the game"
+  },
+  {
+    "q0": 44068301,
+    "q41": "Reports high UP pull rates"
+  },
+  {
+    "q0": 44061031,
+    "q29": -2,
+    "q30": "Many monetization points; pity still off-rate; forced unskippable boss battles",
+    "q11": -2,
+    "q12": "UR vs SSR power gap is very large",
+    "q41": "No skip for some boss stages; frequent off-rate even at pity"
+  },
+  {
+    "q0": 44050354,
+    "q41": "iOS crashes every couple of minutes"
+  },
+  {
+    "q0": 44048343,
+    "q29": -2,
+    "q30": "Both grind and pay heavy",
+    "q31": -1,
+    "q32": "Feels very grindy"
+  },
+  {
+    "q0": 44034167,
+    "q41": "Chapter 5 causes instant crash"
+  },
+  {
+    "q0": 44024172,
+    "q31": -1,
+    "q32": "Welfare not in place; too grindy"
+  },
+  {
+    "q0": 44011161,
+    "q41": "Prefers actual adult games over this"
+  },
+  {
+    "q0": 44007958,
+    "q3": "Low-interaction gameplay with minimal player control",
+    "q4": -1,
+    "q5": "Boring story and copied mechanics; almost fell asleep"
+  },
+  {
+    "q0": 43998216,
+    "q31": -1,
+    "q32": "Per event only roughly 23–30 pulls",
+    "q9": -1,
+    "q10": "Very slow leveling; story locked behind level caps",
+    "q41": "UR felt about 1 per 110–130 pulls"
+  },
+  {
+    "q0": 43993722,
+    "q9": -1,
+    "q10": "Gameplay becomes repetitive; just log in to collect then leave"
+  },
+  {
+    "q0": 43982887,
+    "q41": "Severe gacha stinginess (700 pulls can't max a unit); claims 2% UR feels <1%; dull gameplay despite decent art"
+  },
+  {
+    "q0": 43808007,
+    "q41": "Always hitting pity; soft pity never yields the rate-up"
+  },
+  {
+    "q0": 43979033,
+    "q41": "Severe off-rate results (partners and weapons); deleted game in anger"
+  },
+  {
+    "q0": 43977200,
+    "q41": "One mode (fhx) is overly long and tedious"
+  },
+  {
+    "q0": 43954713,
+    "q41": "Two accounts disappeared; player still treats it as a chill long-term game"
+  },
+  {
+    "q0": 43948051,
+    "q21": -1,
+    "q22": "Event rotation is slow and repetitive"
+  },
+  {
+    "q0": 43945865,
+    "q41": "Reports high draw rates"
+  },
+  {
+    "q0": 43914998,
+    "q29": -1,
+    "q30": "Skins are expensive"
+  },
+  {
+    "q0": 43911832,
+    "q41": "Feels like an addictive mini-game but rated 16+"
+  },
+  {
+    "q0": 43911482,
+    "q23": true,
+    "q24": "UR pity at 120 pulls; 10-pull costs 1,500 diamonds; UR needs 12 dupes for 7-star; new UR about weekly",
+    "q25": -2,
+    "q26": "Extremely high diamond cost per UR relative to low income",
+    "q31": -2,
+    "q32": "Severely limited diamond income (about 1,000/day later; events ~900)",
+    "q29": -2,
+    "q30": "Designed for whales: huge dupe requirements and frequent new URs",
+    "q21": 1,
+    "q22": "New URs appear roughly weekly (fast meta cadence)"
+  },
+  {
+    "q0": 43902009,
+    "q41": "Frequent crashes within five minutes; needs optimization"
+  }
+]

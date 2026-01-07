@@ -1,0 +1,339 @@
+[
+    {
+        "question_code": "q1",
+        "question_content": "Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)",
+        "synthesis_answer": {
+            "null": 720,
+            "true": 9
+        }
+    },
+    {
+        "question_code": "q2",
+        "question_content": "List the sensitive content mentioned, if any.",
+        "synthesis_answer": "• Female outfits widely criticized as overly revealing; some expect censorship at release. [46947048, 46925596, 46934639, 46836976]\n• Request for an option to toggle revealing outfits. [46859104]\n• Breast jiggle and very short skirts, \"skirts exposing buttocks\" reported. [46934639]\n• Others say most female outfits are normal, though some feel overtly pandering. [46851689]\n• Desire for more male fanservice; male characters are few and plain. [46851689]\n• Early scenes include sexualized art like boob windows and high skin exposure. [46836976]\n• Age rating questioned; some think content is more suitable for 18+. [46859104]\n• Presence of homo content in gallery bothers some players. [42514957]\n• Forced female protagonist prompts concern about yuri or boyfriend romance. [46828587]\n• Narrative features deities, creation myths, and divine swords. [46834055]"
+    },
+    {
+        "question_code": "q3",
+        "question_content": "Summarize the core combat mechanics (or “N/A” if not mentioned).",
+        "synthesis_answer": "- Turn-based, GBF-like combat; largely number checks with minimal strategy. [46828590, 46819524, 46958102, 46823148]\n- Auto-battle unlocks early; exploration and fights can be fully automated. [46928089, 46834055, 46834000]\n- Skill axis lets you script actions; but setup UI lacks descriptions. [46832432, 46843571]\n- Auto AI wastes heals/buffs on turn one; poor timing logic. [46834000, 46837066, 46841939]\n- Skill axis settings often reset or disappear; some skills can’t be added. [46958908, 46925128]\n- Requests for separate ultimate toggle; teammates overstack ultimates. [46956348, 46828590]\n- Ultimate chains exist but effects are unexplained. [46928089, 46834000]\n- Buff/status terminology unclear; many icons without in-battle explanations. [46903937, 46832432, 46828079]\n- Long skill cooldowns (7–8 turns); healing caps too low for AoE. [46846433, 46834000, 46928089]\n- Elemental mono-teams rewarded; four attributes with synergy/affinity. [46928089, 46860366, 46832540]\n- Party uses 4 active plus 2 reserves; pets and weapons add skills/stats. [46928089, 46832540, 46834055]\n- Ten-slot weapon grid drives stats; slot rules and effects are confusing. [46832540, 46928613, 46841939]\n- Boss HP is huge; battles often take several minutes or longer. [46834000, 46863198, 46841939, 46955938]\n- No battle speedup or sweeps; only skip current turn. [46934951, 46834733, 46860752]\n- Tower/climb auto-battles are slow; ~4 minutes per floor. [46863198, 46832432]\n- Auto sometimes defaults to normal attacks in co-op. [46843571, 46841939]\n- Frequent combat bugs: freezes, black screens, post-battle softlocks. [46834000, 46860752, 46903937]\n- Controls hinder combat flow: fixed central joystick in vertical orientation. [46934951, 46842449]\n- Balance concerns: fire outdamages earth; SR–SSR damage gap is huge. [46947048, 46825708]\n- Suspected damage caps; multi-hit skills likely superior. [46832540]\n- Enemies feel basic; boss attacks lack telegraph and damage feedback. [46903937]\n- Co-op rewards hinge on contribution/MVP; non-drops feel punishing. [46860366, 46841939]"
+    },
+    {
+        "question_code": "q4",
+        "question_content": "Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.6428571428571429,
+            "detailed_scoring": {
+                "null": 659,
+                "-1.0": 45,
+                "1.0": 12,
+                "-2.0": 7,
+                "0.0": 5,
+                "2.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q5",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Many find battles too slow; no speed-up or skip hurts satisfaction. [46934951, 46834733, 46860752, 46849692, 46821284]\n• Long, grindy fights; high boss HP makes runs minutes long. [46955938, 46834000, 46863198, 46947048]\n• No sweep; repeating material runs feels tedious and time-wasting. [46834000, 46832432, 46834733, 46860752, 46841939]\n• Turn-based combat polarizes; some enjoy it, many dislike it. [46828079, 46889659, 46807914, 46700684, 46823148]\n• Auto-battle AI often misuses skills; heals and buffs blown early. [46837066, 46841939, 46840461]\n• Skill axis customization praised but buggy, resets, lacks descriptions. [46832432, 46925128, 46958908, 46843571, 46934951]\n• Request separate ultimate toggle; teammates clump ultimates awkwardly. [46956348, 46828590]\n• Combat bugs: freezes, black screens, stuck after fights degrade enjoyment. [46834000, 46860752, 46843571, 46842305]\n• Effects mixed: flashy ult animations and big numbers vs. cheap-looking attacks. [46955237, 46928089, 46958102, 46819377, 46819129]\n• Status and buff explanations unclear; mechanics hard to understand mid-battle. [46903937, 46832432, 46841939, 46828079]\n• Auto unlocks early; idle-friendly combat appeals to some players. [46928089, 46834055]\n• Healing caps and long cooldowns hurt survivability in harder fights. [46834000, 46863198]\n• Some find combat shallow, “numbers collide” with limited strategy. [46958102, 46878755, 46823494, 46825773]\n• Chain/ultimate link effects poorly explained, weak feedback. [46832540, 46834000]"
+    },
+    {
+        "question_code": "q6",
+        "question_content": "List the strategic/tactical features mentioned, if any.",
+        "synthesis_answer": "• Turn-based combat with customizable skill order and auto execution. [46958908, 46832432, 43763811]\n• Skill order editor lacks in-place descriptions; requires leaving to read skills. [46834000, 46841939, 46843571]\n• Skill cooldowns are long (often 7–8 turns); plan buff windows. [46846433, 46832540]\n• Skill order now displays cooldown values in the list. [46834000]\n• Copy/paste skill orders between teams; mismatched slots disrupt sequences. [46834000]\n• Monster/pet skills integrate into the skill order system. [46958908]\n• Auto-battle AI prioritizes heals early; needs smarter logic. [46834000, 46841939]\n• Request: toggle to control Ougi release independently. [46956348]\n• Ougi chains and fusion attacks trigger when allies act together. [46834000, 46834492]\n• Elemental system: same-element teams gain bonuses. [46928089, 46860366]\n• Non-advantage hits suffer -50% damage; train four element teams. [46877074, 46875475]\n• Team composition uses 4 frontline + 2 reserves. [46928089]\n• Weapon grid with multiple slots; passives buff matching-element allies teamwide. [46832540, 46822805]\n• Duplicate weapons needed for limit breaks; some upgrades have success chance. [46846433, 46832540]\n• Same-name weapon passives likely don’t stack. [46832540]\n• Summon/pet slots (4–5); attribute-matched passives and limit breaks. [46928089, 46832540]\n• Damage cap exists; multi-hit characters gain advantage. [46832540]\n• Yellow gauge under HP suggests a break/control mechanic. [46832540]\n• Skip current turn exists; no full battle skip or sweep. [46828079, 46832432]\n• Co-op raids with MVP, contribution, and host reward tiers. [46860366]\n• Raid rooms capped at six players; limited daily host attempts. [46877074]\n• Attribute-specific towers provide idle resource income. [46832540, 46834492]\n• Main character has multiple jobs; job affects main weapon types. [46817957]\n• Characters have skill trees; shards grant permanent attribute bonuses. [46819470, 46819346]\n• One-click team setup by power or attribute; recommended builder available. [46928089, 46841939]\n• Status effects like Frozen stack; effect descriptions lack clarity. [46834000]\n• Shields use fixed values; some heals are percent with caps. [46834000]\n• Boss HP is very high; long fights reward planned rotations. [46834000, 46841939]\n• Auto-battle settings granularity supports varied conditions. [43670677]\n• Buff stacking enables massive single-skill bursts; time rotations accordingly. [46846433]\n• Healers are scarce with long CDs; sustaining requires shields and planning. [46863198, 46834000]"
+    },
+    {
+        "question_code": "q7",
+        "question_content": "Rate strategic/tactical depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.0,
+            "detailed_scoring": {
+                "null": 683,
+                "1.0": 20,
+                "-1.0": 18,
+                "0.0": 5,
+                "-2.0": 2,
+                "2.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q8",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Strategic agency is low; battles often feel number-driven and automated. [46928089, 46819524, 46878755]\n- Mono-element damage reduction (−50%) forces building four single-attribute teams. [46877074, 46875475]\n- Single-element team-building perceived as straightforward, limiting tactical complexity. [46872868, 46828639]\n- Skill axis enables custom turn orders, offering potential tactical control. [46832432, 43670677, 43763811]\n- Auto AI undermines strategy; healers often waste skills on turn one. [46834000, 46841939]\n- Skill-axis tools are buggy; skills disappear or paste scrambles orders. [46958908, 46834000]\n- Auto-setup lacks skill descriptions; players must exit to check effects. [46841939, 46843571]\n- Mechanic explanations are unclear, hindering planning (buffs, debuffs, chain ougi). [46828079, 46834000, 46832540]\n- Co-op synergies exist (ougi chains, same-element buffs) but guidance is minimal. [46860366, 46834000]\n- Players request ultimate toggles to coordinate ougi chains. [46956348]\n- Build depth via GBF-like weapon grids, summons, and attribute synergies. [46832540, 46860366, 42512938]\n- Systems lean pure-stat, funneling to best-in-slot metas. [46854207, 46823964, 46834492]\n- Healing balance limits strategies; long cooldowns and low ceilings. [46834000, 46863198]\n- Damage caps push multi-hit meta over tactical choices. [46832540]\n- Element balance concerns impact viable teams (fire/water outperform earth). [46947048]\n- Newcomers overwhelmed by multi-system builds; clearer grid guidance needed. [46823306, 43761110]\n- Some appreciate strategic flavor from class and team composition. [46828880, 46819283]\n- Auto-centric design reduces incentive to explore builds and rotations. [46828079]\n- Co-op emphasizes optimized builds; lacking summons severely handicaps performance. [46860366, 46875475]\n- Burst combos exist, but rotations are long-CD buff cycles plus autos. [46846433]"
+    },
+    {
+        "question_code": "q9",
+        "question_content": "Rate game progression: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.0612244897959184,
+            "detailed_scoring": {
+                "null": 680,
+                "-1.0": 34,
+                "-2.0": 11,
+                "1.0": 4
+            }
+        }
+    },
+    {
+        "question_code": "q10",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Progression revolves around repetitive dungeon farming; boredom sets in quickly. [46955237,46947048,46829245,46867994,46824335]\n• No sweep/skip and no battle speed make daily grinding overly time-consuming. [46947048,46934951,46840461,46825580,46824638,46820171]\n• Boss HP is high; single runs and tower floors take minutes. [46834000,46863198,46841939,46823876]\n• Drop rates for weapons, monsters, and materials are frustratingly low. [43495890,46830120,46912176,46876326]\n• Stamina/AP costs and limits restrict progress; recent increases intensify grind. [46876326,46875475,44917070,46841939]\n• 50% resistance forces training 4–6 elemental teams, inflating grind and cost. [46875475,46824629,46841939,46863198]\n• Main character job breakthroughs aren’t shared; respec/refunds absent. [46934951,46817957,46834000,46821284]\n• Bugs and locks block progression (quests/dungeons won’t open). [46937790,46904513,46862161,46842305]\n• Auto-battle AI wastes skills; skill-order tools lack clarity. [46841939,46834000,46840461]\n• Difficulty spikes later; progress demands heavy grind or payment. [46928089,43495890,46841939]\n• Event windows are short; required rare items gate rewards. [46834000,46877074]\n• Key upgrade materials (proofs, black hearts) drop too rarely. [46834000,46825957,46877074]\n• Team-building depends on gacha; off-rate/dup needs hinder progression. [46934951,46842305,46896729,46875475]\n• Guidance is weak; unlocks slow; systems confuse early progression. [46928089,46834000,46825708]\n• Daily multiplayer reliance hurts progress when rooms are empty; no AI assist. [43495890,46860111,46821284]\n• Quote: \"Feels like work.\" [46947048]\n• Early progression can be smooth with generous test rewards (≈200 pulls, free SSRs). [46819470,46819346,43670677]\n• One-click team setup helps, but multi-layered upgrades deepen grind. [46928089]\n• Content and hosting are time-gated (limited hosts per boss, day locks). [46824335,46877074]"
+    },
+    {
+        "question_code": "q11",
+        "question_content": "Rate hero balance: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.6,
+            "detailed_scoring": {
+                "null": 724,
+                "-2.0": 3,
+                "-1.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q12",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Elemental balance skewed by bugs; water crit/multi-hit broken, wind stronger due to fewer issues. [46898892]\n• Perceived power creep: new characters much stronger than existing ones. \"crush old ones\". [46878782]\n• Class imbalance noted; top-rarity healers are scarce and underpowered. [46863198]\n• Rarity power gap excessive: SR vs SSR damage differs by multiples at equal level. [46825708]\n• Specific unit overtuned: Earth \"noble\" has constant 500% defense. [43670677]\n• Content demands separate elemental teams, amplifying balance frustrations and roster dependency. [46863198, 46825708]"
+    },
+    {
+        "question_code": "q13",
+        "question_content": "Rate hero/team build diversity: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.0,
+            "detailed_scoring": {
+                "null": 717,
+                "-1.0": 6,
+                "-2.0": 4,
+                "1.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q14",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Meta is singular; other teams perform poorly, discouraging alternatives. [46895932]\n- Attribute-lock forces mono-element teams; flexibility is low. [46825423, 46831894, 46860498]\n- Gacha results dictate team compositions; player choice feels limited. [46886382, 46825423, 45444345]\n- No random affixes; optimal setups dominate, reducing experimentation. [46854207]\n- Per-element healer scarcity and weak healing restrict viable builds. [46863198]\n- Team attribute requirements are high, limiting viable choices. [45444345]\n- Players want mixed-attribute synergies to broaden team diversity. [46825708]\n- Boss resistance to off-elements enforces specific team counters. [46877782]\n- Required to build four mono-element teams, increasing grind. [46825423, 46860498]\n- Simple approach: stack same-element characters, weapons, and pets. [46825423]\n- Large SR-SSR power gap reduces mixed-rarity team options. [46825708]\n- \"114 weapons, 514 builds\" used sarcastically about claimed variety. [44759581, 42518014]"
+    },
+    {
+        "question_code": "q15",
+        "question_content": "Describe the secondary core loop (or “N/A”)",
+        "synthesis_answer": "- Explore open 2.5D maps via auto-path; find chests, items, light puzzles, limited interactions. [46955237, 46928089]\n- Gather overworld mining materials to upgrade weapons; no dedicated weapon-material dungeons. [46832540]\n- Collect junk during exploration; alchemy converts to stamina, proofs, and class unlock components. [46834000, 46820456]\n- Alchemy grind is heavy; key drop rates low; guidance for recipes and sources is poor. [46834000, 46823964]\n- Fish daily with limited bait; unclear rewards; mainly monster materials or small gacha currency. [46895365, 46890101]\n- Climb attribute towers for idle hourly income; functions as AFK progression. [46832540, 46832432]\n- Run single-player XP and breakthrough trials; no sweep; repeated clears demanded. [46819346, 46832432]\n- Players request trial sweep after multiple clears to reduce time sink. [46825160]\n- Daily and weekly tasks reward currency; claiming and navigation feel inconvenient. [46819346, 43763811]\n- Short-timed events; expected to supply high-tier upgrade materials like black steel. [46834000, 46890101]\n- Guild battles recur as a social side activity beyond raids. [46848453]\n- Configure skill order and CDs, then rely on auto-battle for farming. [46832432, 46834000]\n- “刷子游戏，挂机模式.” [46817957]"
+    },
+    {
+        "question_code": "q16",
+        "question_content": "Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 713,
+            "false": 15,
+            "true": 1
+        }
+    },
+    {
+        "question_code": "q17",
+        "question_content": "Rate simplicity of the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.16666666666666666,
+            "detailed_scoring": {
+                "null": 717,
+                "1.0": 6,
+                "-1.0": 4,
+                "0.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q18",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Early auto battle enables hands-free play; exploration supports auto-pathing. [46928089]\n- Lack of sweep/skip makes routine farming tedious and slow. \"No sweep; too time-consuming.\" [46834000, 46832432, 42512938]\n- Boss fights and towers consume lengthy time even when idling. [46834000, 46832432]\n- Skill-axis customization is powerful but time-consuming to configure. [46832432, 43763811]\n- One-click team and equip setup simplifies routine management. [46928089]\n- Auto AI usage feels suboptimal without meticulous setup. [46834000, 43763811]\n- System depth (roles, weapons, pets, attributes) feels complex and grind-heavy. [46832540, 46928089]\n- Poor guidance on mechanics, statuses, and slots confuses players. [46834000]\n- Navigation QoL lacking; mini-map enlargement and smarter teleport requested. [46834000]\n- Daily tasks simplified, but rewards feel stingy. [46895365]\n- Co-op raids lack kick/limits; AFK freeloaders frustrate rooms. [46895365]\n- Alchemy and proof drops feel opaque, low, and grindy. [46823964, 46834000]\n- Early progression accessible; material dungeons moderate and soloable. [46819346]\n- Exploration loop shallow; few interactions cause quick boredom. [46955237]\n- Routine UI lacks convenience: auto-claim, quick joins, filters. [43763811, 42512938]\n- Confusing class/attribute conversions and team auto-switching frustrate. [46817957]\n- Time demands and grind deter continued play. [46832540, 46823964]"
+    },
+    {
+        "question_code": "q19",
+        "question_content": "Rate resources earned from the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.0,
+            "detailed_scoring": {
+                "null": 719,
+                "1.0": 4,
+                "-1.0": 4,
+                "-2.0": 1,
+                "2.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q20",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Early loops grant abundant gacha currency; 100–200+ pulls achievable quickly. [46820456, 46819346, 42512938]\n- Stamina is easy to gain via exploration/alchemy; many report overflow without sweep. [46820456, 46834000, 42512938]\n- Green stamina stacks up; daily gifts exacerbate overflow. [46834000]\n- Red stamina potions can be crafted via alchemy from junk. [46834000]\n- “Raid Proof” tickets are scarce; drop rates feel too low. [46834000]\n- Weapon upgrade materials lack dedicated farming; players are frequently short. [46834000]\n- Weapon/magic drops are plentiful, but breakthrough gold mats are painfully rare. [46890101]\n- Hidden/rare weapons seldom drop; common weapon overflow lacks recycling options. [46890101]\n- Alchemy provides alternative resources but feels grindy and poorly explained. [46834000, 46823964]\n- Fishing yields low-value materials; bait is limited and underwhelming. [46895365, 46890101]\n- Daily task rewards were simplified and feel “significantly reduced.” [46895365]\n- Co-op rewards feel unfair; AFK players earn nearly the same as contributors. [46895365]\n- Players request contribution-based rewards and better host benefits in co-op. [46825160, 46834000]\n- Co-op loot reliability was buggy (low/no drops), later adjusted to guaranteed drops. [42512938]\n- Coin income initially insufficient for upgrades; later sources improved earnings. [42512938]\n- Compensation during server issues gave extra resources, easing early team setup. [46928089]\n- Point shop needs better items; higher contribution should yield more points. [46825160]\n- Tower, dailies, weeklies, and sign-ins provide substantial pull resources. [46820456, 42512938]"
+    },
+    {
+        "question_code": "q21",
+        "question_content": "Rate frequency of content/meta updates: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.6923076923076923,
+            "detailed_scoring": {
+                "null": 716,
+                "1.0": 8,
+                "-1.0": 3,
+                "2.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q22",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Many praise quick bugfix cadence; devs active and communicative. [46934689, 46830074, 46819283, 43761110]\n- Hotfixes sometimes pushed even on weekends during tests. [42512938]\n- Others report slow responses; critical bugs persist 10+ hours or overnight. [46825957, 46909211]\n- Frequent regressions suggest chaotic patch cycle — \"Fix today, break tomorrow.\" [46912141]\n- Content updates occur (new events/dungeons), but story additions feel sparse. [43763811, 46841939, 46824943]\n- Limited improvement between test phases despite months passing. [42512938]\n- Balance and drop-rate changes seem reactive to events, not proactive. [46825957]\n- Some note timely server fixes with generous compensation. [46841939]\n- Steady improvements observed, but studio efficiency considered low. [46819336]"
+    },
+    {
+        "question_code": "q23",
+        "question_content": "Does the game have a gacha guarantee system? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 699,
+            "true": 26,
+            "false": 4
+        }
+    },
+    {
+        "question_code": "q24",
+        "question_content": "Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "- \"30 pulls pity\" guarantees an SSR, widely noted in tests. [46928089, 46834000, 46841939]\n- Hard pity at 200 pulls allows selecting one UP unit. [46860366, 46834492]\n- 30-pull pity yields a random SSR; not guaranteed UP. [46860366, 46825423]\n- Mixed pools (characters, weapons, monsters) increase off-banner results. [46860366, 46832432]\n- Multiple UPs per banner reduce individual UP odds. [46834492, 46821284]\n- Pity progress resets when banners change; no carryover. [46830120]\n- Some banners: two limited UP, one permanent, one friend pool. [46928089]\n- Monsters reportedly have no pity; very low drop rates. [46860366, 46837066]\n- Players reported 400–500 pulls without any UP despite pity. [46915562, 46934579]\n- Many advise saving for the 200-pull “well” to secure targets. [46834492, 46860366]"
+    },
+    {
+        "question_code": "q25",
+        "question_content": "Rate reasonableness of gacha pull price: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.25,
+            "detailed_scoring": {
+                "null": 721,
+                "1.0": 4,
+                "-1.0": 2,
+                "-2.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q26",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• 30-pull SSR pity reported; views differ on fairness. [46841939, 46846781, 46820456, 42512938]\n• Pull price praised as low, about 10 RMB per draw. [46841939]\n• Others find ten-pull cost high and not reasonable. [46819129]\n• Reported costs vary: 100–150 currency per pull; 1000–1500 per ten-pull. [46846781, 42512938, 46820456]\n• 6 RMB ≈108 diamonds (~1 pull); perceived as pricey. [46906079]\n• Multi-up banners hinder targeting; players expect to hit pity often. [46830519]\n• Specific UP spark cited at 20000; seen as heavy. [46830519]\n• Pity system called harsh; duplicates reported frequently. [46923269]\n• Test welfare generous; 100+ pulls day one reduced pressure. [46820456]\n• Compensation granted ~110 pulls in test; launch generosity uncertain. [46846781]\n• Building 4–6 element teams increases demand; gacha feels average. [46841939]\n• Some twice reached pity for beasts; worry about spend and grind. [46906079]\n• Characters are complete without dupes, easing spending pressure. [46820456, 42512938]"
+    },
+    {
+        "question_code": "q27",
+        "question_content": "Rate major feature access for non-paying users: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.1875,
+            "detailed_scoring": {
+                "null": 713,
+                "1.0": 10,
+                "-2.0": 4,
+                "-1.0": 1,
+                "2.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q28",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Many say core content is playable without paying; grind substitutes for spending. [46955557, 46942153, 46860366, 46824943]\n• Test welfare generous: quick 200 pulls and free SSRs help F2P progression. [46819470, 46819346]\n• Zero-spenders report acceptable early game; basic dungeons can be soloed. [46878130, 46819346]\n• High-end raids feel paywalled; \"No pay, don't solo dungeons.\" [43495890]\n• Building four-element teams greatly raises resource demands, challenging F2P. [46860366, 46841939, 46831284]\n• Mixed gacha pools and limited pity hinder targeted F2P roster building. [46860366, 46877782, 46896729]\n• Co-op rewards favor MVP or host; newcomers often get little or nothing. [46860366, 46877782, 42512938]\n• Non-gacha weapons and monsters can be maxed by grinding; paid outperform. [46854207]\n• Some see light monetization; others say only heavy spending keeps pace. [46942153, 46912967]\n• Low population and weak assistance systems block F2P in harder co-op. [46912967]\n• Lower pull price and 30-pull SSR pity slightly aid F2P. [46841939, 42512938]\n• Generous welfare but no auto/sweep increases F2P time burden. [46860366, 46841939]"
+    },
+    {
+        "question_code": "q29",
+        "question_content": "Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -0.851063829787234,
+            "detailed_scoring": {
+                "null": 682,
+                "-1.0": 22,
+                "-2.0": 14,
+                "1.0": 10,
+                "0.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q30",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Strong aversion to gacha; many wish it were buy-to-play instead. [44673914, 43649608, 42568919]\n- “Ten-pull” pre-registration rewards signal gacha; some lose interest instantly. [42548239, 42536815, 42526144]\n- Monetization depth seen as heavy; many gift packs and recharge prompts. [46928089, 46891707, 46818874]\n- About 10 RMB per pull; perceived as pricey over time. [46841939]\n- Pity noted: SSR every 30 pulls; UP exchange at 200 pulls. [46860366, 46841939, 46825423]\n- Some banners reportedly lack pity; pets have no pity. [46896729, 46860366]\n- Extremely low pet rates cited (e.g., 0.01%). [46875475]\n- Mixed pools (characters/weapons/monsters) dilute targeting; UP odds feel weak. [46860366, 46886382, 46825423]\n- Progress reportedly reset across banners, angering spenders. [46830120]\n- Forced multi-element teams multiply costs; “raise four teams” pressure. [46830519, 46841939, 46825423]\n- Building multiple teams called prohibitively expensive for completionists. [46831284, 46828079]\n- Co-op rewards favor high-investment players; non-spenders struggle to solo. [43495890, 46877782]\n- Whales gain big via UP weapons/pets and MVP reward gaps. [46860366, 46877782]\n- Some testers felt F2P viable; spending accelerates progression. [46860366, 46819346, 46878130]\n- Light spenders reported completing elemental teams during tests. [46839800, 46852852]\n- Concern welfare will shrink at launch, increasing spend pressure. [46842305]"
+    },
+    {
+        "question_code": "q31",
+        "question_content": "Rate quality/quantity of free rewards: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 1.2894736842105263,
+            "detailed_scoring": {
+                "null": 691,
+                "1.0": 18,
+                "2.0": 17,
+                "-1.0": 3
+            }
+        }
+    },
+    {
+        "question_code": "q32",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Test phase widely praised for generous freebies: ~200 initial pulls and large diamond grants. [46948892, 46834000, 46879530, 46909260]\n- Some received 10,000 diamonds via mail; others noted many ticket gifts. [46825423, 46874488]\n- Several reported 400–500 free pulls during testing, mostly from mailbox distributions. [46915562, 46903937]\n- Compensation after outages/bugs was substantial for some, e.g., ~110 pulls. [46826556, 46928089, 46841939]\n- Others criticized compensation as stingy, delayed, or limited to standard-ticket giveaways. [46825957, 46834492]\n- Ongoing income estimates: roughly 80+ pulls per month from tower and actives. [46834492, 42512938]\n- Story progression grants three free fire SSRs, easing early team building. [46819470, 46819346, 43670677]\n- Despite quantity, mixed pools and off-rate make UP acquisition feel poor. [46915562, 46825423, 46895365, 46847370]\n- Players worry generosity is only for tests; launch rewards may shrink. [46948892, 46834883, 46842305, 46903937]\n- A minority felt free resources were insufficient, reducing motivation to continue. [46821148]\n- Requests: 200-pull selector, lock-in targets, and generally bolder giveaway strategy. [46903937, 46820456, 46895365]\n- One claim of rating incentives: 10k diamonds for scores above eight. [46843528]"
+    },
+    {
+        "question_code": "q33",
+        "question_content": "Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.",
+        "synthesis_answer": {
+            "null": 729
+        }
+    },
+    {
+        "question_code": "q34",
+        "question_content": "Briefly describe the IP if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q35",
+        "question_content": "Rate IP integration depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 729
+            }
+        }
+    },
+    {
+        "question_code": "q36",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q37",
+        "question_content": "Rate lightness of installation file: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.0,
+            "detailed_scoring": {
+                "null": 728,
+                "-1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q38",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Install size seen as large (\"a full 2GB\") for limited content. [46819244]\n• 2.5D backgrounds blamed for bloated size. [46819244]"
+    },
+    {
+        "question_code": "q39",
+        "question_content": "Rate in-game download experience: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -2.0,
+            "detailed_scoring": {
+                "null": 728,
+                "-2.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q40",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Post-update, player couldn't log in and update failed repeatedly [46892372]\n- Update process triggers network drop; \"disconnects when update starts\" [46892372]\n- User uninstalled due to failed updates and access issues [46892372]"
+    },
+    {
+        "question_code": "q41",
+        "question_content": "Briefly list other issues (not captured by the questions above)",
+        "synthesis_answer": "• Frequent black screens, crashes, and freezes, sometimes immediately on launch. [46944148, 46904258, 46858443]\n• Severe performance issues: lag, frame drops, overheating, high battery drain. [46899786, 46882284, 46829636]\n• Network instability: disconnects, login failures, repeated relogin prompts. [46830120, 46828300, 46851167]\n• Wi‑Fi login failures; mobile data required for access. [46832792, 46828590, 46852920]\n• Server outages and rollbacks causing lost progress or rewards. [46924821, 46876326, 46830120]\n• Purchases or gacha items missing after payment; “swallowed” banners/UI. [46928613, 46818522, 46851291]\n• Co‑op lobbies lack kick/limits; leechers stall starts and share rewards equally. [46895365, 46823238]\n• Co‑op ready system allows cancel spamming; no passworded rooms. [46895365, 46825352]\n• Rewards sometimes not granted in co‑op; MVP/host chests “eaten”. [46875475, 46831059]\n• Co‑op room caps and entry failures hinder matching. [46895365, 46877074]\n• No battle reconnection; disconnects forfeit runs. [46825708, 46895365]\n• Auto battle/skill queue bugs: skills not added, reset or not triggering. [46958908, 46925128, 46912141]\n• “Auto exploration” progress stuck and not advancing offline. [46909211]\n• Quest blockers: bonfire talk loop, early mission lock, “天启骑士” softlock. [46904513, 46903930, 46869952]\n• Resume from background causes black screen; must restart app. [46849849, 46923015]\n• UI/UX: fixed center joystick, no customization; hard to control single‑handed. [46934951, 46829636, 44473088]\n• No horizontal mode despite promotion; orientation toggle missing. [46958102, 46912163, 46819708]\n• Minimap poor: opens world map; no zoom for local areas. [46874622, 46834733]\n• Auto pathing ignores nearest teleports; unnecessary long runs. [46834000]\n• Interaction hitboxes finicky; chests/doors mis-detected. [46846781, 46842449]\n• Red‑dot notifications persist; backpack “New” clears are tedious. [46825160, 46835912]\n• Missing or unclear buff/effect descriptions; frequent text garbling. [46899786, 46877782, 46834000]\n• “Asdasd” placeholders and random letters in skill details. [46958908, 46834000]\n• Inconsistent terminology: “队伍” excludes backline; confuses players. [46877782]\n• Missing monster/codex; hard to find material sources. [46899786]\n• Limited tutorial/guidance for crafting, jobs, and drop sources. [46834000, 46831059]\n• Inventory management lacks locks; fear of accidental mass disassembly. [46825160]\n• Can’t decompose or repurpose duplicate weapons; no material refund. [46887887, 46912967]\n• Weapon system confusing: many slots; unclear who equips what. [46928613, 46834000]\n• Visual clarity issues: excessive VFX “light pollution,” dim scenes, screen flicker. [46899786, 46818381, 46843562]\n• Art concerns: alleged AI/borrowed assets; inconsistent style quality. [46850948, 46809135, 46958102]\n• Missing or weak combat animations; no ultimate/summon cut‑ins. [46818381, 46819283]\n• Audio feedback and BGM lack variety; SFX feel flat. [46874488, 46819129]\n• Story writing criticized: juvenile, internet slang breaks immersion. [46851775, 46957862, 46819510]\n• No voiceover; text/fonts cramped or hard to read. [46823494, 46834000]\n• Event or shop bugs: timers reset, shops unrefreshed, currencies useless. [46895365, 46830120]\n• Excess currencies cause confusion. [46958102]\n• Small map content and side quests feel sparse; exploration unrewarding. [46899786, 46874622]\n• Stamina/AP/BP changes mid‑test without notice; costs spiked. [46876326, 46877074]\n• Customer support hard to find or unresponsive; report buttons ineffective. [46906084, 46818352]\n• World chat and on‑screen players reduce immersion; option to hide requested. [46842449, 46184981]\n• Some devices cannot launch; “黑屏有声音” cases reported. [46923015, 46827338]\n• Localization/typos: homepage slogan misspells; in‑game ads feel intrusive. [46875375, 46818874]\n• Fishing feature unclear utility; no rewards beyond minor mats. [46895365]\n• No male protagonist option; gender lock harms immersion. [46851775, 45064073, 46818564]\n• “Quote: bug上长了个游戏” sentiment reflects frustration. [46909211]"
+    }
+]

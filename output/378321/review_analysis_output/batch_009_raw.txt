@@ -1,0 +1,600 @@
+[
+  {
+    "q0": 38338930
+  },
+  {
+    "q0": 38336424,
+    "q9": -2,
+    "q10": "Progression is blocked by stamina and level caps; a stamina purchase bug consumed diamonds without granting items, halting progress.",
+    "q31": 1,
+    "q32": "Daily ten-pulls and many tickets can be found via forum tips, but it is grindy so it works best as a side game.",
+    "q41": "Stamina purchase bug (diamonds deducted, no potions); first top-up hero feels weak; lacks in-game customer service."
+  },
+  {
+    "q0": 38334865,
+    "q11": -2,
+    "q12": "Frequent limited banners cause power creep; non-spenders get stomped.",
+    "q21": -1,
+    "q22": "Claims at least four limited characters per month, perceived as excessive.",
+    "q27": -2,
+    "q28": "All PvP and pay-to-win; cannot play competitively without spending.",
+    "q29": -2,
+    "q30": "Heavy pressure from frequent limited banners and PvP environment."
+  },
+  {
+    "q0": 38331359,
+    "q1": true,
+    "q2": "Sexualized fanservice that appeals to specific fetishes."
+  },
+  {
+    "q0": 38321617,
+    "q1": true,
+    "q2": "Censored outfits/extra clothing; sexual innuendo/fanservice mentioned."
+  },
+  {
+    "q0": 38320296,
+    "q1": true,
+    "q2": "References to uncensoring content and ‘selling meat’ style fanservice.",
+    "q31": -2,
+    "q32": "Daily/basic resources are scarce; perceived low welfare and off-rate gacha.",
+    "q41": "Repetitive tasks; few gameplay modes; felt only barely playable with uncensor active."
+  },
+  {
+    "q0": 38316416,
+    "q4": -2,
+    "q5": "Calls the gameplay the dumbest they've seen."
+  },
+  {
+    "q0": 38313415,
+    "q41": "Samsung Galaxy Z Flip4 displays only part of the screen; device compatibility issue."
+  },
+  {
+    "q0": 38310840,
+    "q9": -1,
+    "q10": "Self-select 10-pull is gated until Chapter 7; complains about numeric inflation.",
+    "q11": -2,
+    "q12": "New characters reportedly invalidate older ones due to power creep.",
+    "q41": "Self-select 10-pull gating and power creep concerns."
+  },
+  {
+    "q0": 38308443,
+    "q31": -2,
+    "q32": "Daily/basic resources like credit and task data feel insufficient; asks for more daily premium currency.",
+    "q33": true,
+    "q34": "Collaboration with 少年三国志2 (Youth Three Kingdoms 2)."
+  },
+  {
+    "q0": 38306869,
+    "q29": -2,
+    "q30": "Too many monetization entry points, negatively impacting experience."
+  },
+  {
+    "q0": 37606802,
+    "q9": -2,
+    "q10": "Speed/skip locked behind many chapters; difficulty vs. displayed power is inconsistent; relics require grinding fragments.",
+    "q11": -2,
+    "q12": "PvP is dominated by spenders; perceived ‘number collapse’ where lower power can still crush you.",
+    "q27": -1,
+    "q28": "Some content and characters are purchase-only; stamina is limited and not restored on level up.",
+    "q29": -2,
+    "q30": "Frequent top-up prompts and pay-only characters create strong spending pressure.",
+    "q41": "Relic gacha yields mostly fragments (SSR needs 100); outfits add stats; stamina only from fixed times and friend gifts; speed/skip gated."
+  },
+  {
+    "q0": 38305771,
+    "q9": -1,
+    "q10": "Becomes monotonous later; player ends up just logging in for sign-in rewards.",
+    "q31": 1,
+    "q32": "Describes welfare as okay despite monotony."
+  },
+  {
+    "q0": 38305308,
+    "q6": "Says no strategy is needed; pay-to-win determines strength.",
+    "q7": -2,
+    "q8": "States the game requires no intelligence/strategy—spending dictates outcome.",
+    "q27": -2,
+    "q28": "Non-paying users can hardly progress; feels like a toy for whales.",
+    "q29": -2,
+    "q30": "Heavy pay-to-win pressure and poor welfare make spending feel mandatory.",
+    "q31": -2,
+    "q32": "Calls the welfare extremely poor; progress feels impossible without paying."
+  },
+  {
+    "q0": 38299847,
+    "q3": "Idle auto-battle with stage skip; no positioning or strategy.",
+    "q4": -2,
+    "q5": "Describes gameplay as brainless stat stacking with skip; no strategy.",
+    "q6": "Stage skip; no positioning; auto progression.",
+    "q7": -2,
+    "q8": "Explicitly says there’s no strategy/positioning—just stacking stats.",
+    "q29": -2,
+    "q30": "Criticizes monetization ‘eating ugly’ and new-player recharge coupons.",
+    "q31": -2,
+    "q32": "Perceived as stingy; new-player benefits tied to recharge coupons."
+  },
+  {
+    "q0": 38294954,
+    "q41": "Account recovery/login issue—cannot access previous account without signs of theft."
+  },
+  {
+    "q0": 38293646,
+    "q1": true,
+    "q2": "Sexualized art is a highlight; notes heavier censorship in CN vs JP.",
+    "q9": -1,
+    "q10": "Difficulty spikes after Chapter 30 make growth feel poor.",
+    "q23": true,
+    "q24": "There is a pity; player often hits full pity before getting SSR.",
+    "q31": -1,
+    "q32": "Self-select 10-pull and daily ten-pull perceived as low quality/junk."
+  },
+  {
+    "q0": 38292561,
+    "q27": -1,
+    "q28": "Perceives the game as requiring spending; numerous events consume time.",
+    "q29": -1,
+    "q30": "Too many events and perceived need to whale create pressure.",
+    "q41": "Very time-consuming clicking; feels like working due to many events."
+  },
+  {
+    "q0": 38292044,
+    "q4": -1,
+    "q5": "Many dungeons but gameplay is monotonous; describes it as a numbers game."
+  },
+  {
+    "q0": 38253418,
+    "q27": -2,
+    "q28": "States that without spending, the game becomes unplayable.",
+    "q29": -2,
+    "q30": "Heavy paywall perceived for continued play."
+  },
+  {
+    "q0": 38252767,
+    "q9": -2,
+    "q10": "Main story is very difficult; third SSR locked behind Chapter 50; significant early gating.",
+    "q11": -2,
+    "q12": "Huge PvP power gaps early; whales at 1M+ power vs. new players ~100k.",
+    "q29": -2,
+    "q30": "Multiple expensive contracts and low gacha rates; strong monetization push.",
+    "q41": "Chat limited to 10s cooldown; warnings about scammers; overpriced ‘contracts’ (98 CNY)."
+  },
+  {
+    "q0": 38248421,
+    "q41": "Tutorial is overly long and tedious; art is the only positively noted element."
+  },
+  {
+    "q0": 38246227,
+    "q9": -2,
+    "q10": "After half a month, progression stalls without spending due to resource scarcity vs. consumption.",
+    "q27": -2,
+    "q28": "Non-payers fall far behind; remaining servers feel dominated by whales/possible shills.",
+    "q29": -2,
+    "q30": "Perceived as a ‘cash and run’ design with heavy monetization."
+  },
+  {
+    "q0": 38243726,
+    "q27": -2,
+    "q28": "PvP presence forces spending; cannot keep up otherwise.",
+    "q29": -2,
+    "q30": "Reskinned game with pressure to pay to remain competitive."
+  },
+  {
+    "q0": 38239363,
+    "q9": -1,
+    "q10": "Free 100 pulls are locked behind progression (e.g., Chapter 7).",
+    "q31": -1,
+    "q32": "Free pulls are gated and trickle out per chapter, frustrating new players."
+  },
+  {
+    "q0": 38239173,
+    "q9": -1,
+    "q10": "Gates the self-select 10-pull to Chapter 7 and locks daily 10-pull behind progress.",
+    "q31": -1,
+    "q32": "Advertised daily/self-select pulls are locked behind progression, reducing perceived welfare."
+  },
+  {
+    "q0": 38237103,
+    "q21": -2,
+    "q22": "Bug in ‘Desperate Action’ team switching persisted for over an hour; slow responsiveness to issues.",
+    "q41": "Unresolved bug prevents swapping teams in a key mode."
+  },
+  {
+    "q0": 38232953,
+    "q4": -1,
+    "q5": "Skill animations are dizzying and unimpressive.",
+    "q31": -1,
+    "q32": "No initial 10-pull in mail; early welfare feels lacking.",
+    "q41": "Forced, lengthy tutorial; unengaging onboarding."
+  },
+  {
+    "q0": 38225904,
+    "q27": -1,
+    "q28": "Either spend heavily or play casually; top ranks suspected of having ‘plants’; F2P advised to just do dailies.",
+    "q29": -1,
+    "q30": "Perceived pay emphasis but can be played casually without competing."
+  },
+  {
+    "q0": 38224160,
+    "q9": -1,
+    "q10": "Day 1 progression stalls due to lack of DPS until getting a specific hero.",
+    "q31": -1,
+    "q32": "Daily ten-pull is in a separate pool with low-value items; welfare feels mediocre.",
+    "q41": "Typical idle gacha loop; art style polarizing."
+  },
+  {
+    "q0": 38222307,
+    "q9": -1,
+    "q10": "Later chapters are hard to 3-star; star-ups for characters/weapons are slow; progression is slow for F2P."
+  },
+  {
+    "q0": 38214797,
+    "q1": true,
+    "q2": "‘Selling meat’ fanservice is noted.",
+    "q4": -2,
+    "q5": "Called a boring number-grind with long newbie tasks."
+  },
+  {
+    "q0": 38214567
+  },
+  {
+    "q0": 38214372,
+    "q27": -2,
+    "q28": "Key rewards in ‘Data Exchange’ are paywalled after 2000 points; stamina purchases scale for payers.",
+    "q29": -2,
+    "q30": "Non-spenders face stamina shortages and paywalls in reward tracks.",
+    "q41": "Reward track paywall at 2000+ points blocks further claims without an 18 RMB purchase."
+  },
+  {
+    "q0": 38214276,
+    "q41": "Weapon farming cannot be one-click cleared; quality-of-life missing."
+  },
+  {
+    "q0": 38212930,
+    "q41": "Account reset upon reinstall using same phone number; prior purchases lost."
+  },
+  {
+    "q0": 38210921,
+    "q41": "Overly forced story/tutorial flow with little player control early."
+  },
+  {
+    "q0": 38210666,
+    "q1": true,
+    "q2": "Eye-candy/sexualized imagery noted; posting images resulted in warnings.",
+    "q4": -1,
+    "q5": "Says it is mainly for eye candy and not fun to play.",
+    "q31": 1,
+    "q32": "States CN has more resources than JP."
+  },
+  {
+    "q0": 38210634,
+    "q4": -1,
+    "q5": "Excessive battle animations (even on basic attacks) make combat feel tedious.",
+    "q41": "Poor UI; performance issues; heavy battle presentation slows play."
+  },
+  {
+    "q0": 38210394,
+    "q41": "Lacks Chinese voiceover and lacks 3D models."
+  },
+  {
+    "q0": 38210219,
+    "q6": "Territory occupation mode heavily favors strong guilds; quitting mid-battle does not consume stamina/attempts.",
+    "q7": -1,
+    "q8": "Outside strong guilds, players die quickly when leaving base in occupation mode; strategy feels limited.",
+    "q9": -1,
+    "q10": "Mainline becomes hard without multiple days of play; 3-starring requires retries.",
+    "q27": -1,
+    "q28": "Progress and power rely heavily on gacha and being in a strong guild.",
+    "q31": 0,
+    "q32": "Welfare is middling; not very strong nor very poor.",
+    "q41": "Progress mostly from gacha-driven systems (dex, stars, bonds, furniture, exclusive weapons)."
+  },
+  {
+    "q0": 38210077,
+    "q23": true,
+    "q24": "Roughly SSR guaranteed at 50 pulls; UP rate 40% but off-rate can occur multiple times; 100-pull self-select exists but often yields duplicates.",
+    "q41": "Reports repeated off-rate results and frequent duplicates; claims account may be ‘locked’ to bad luck."
+  },
+  {
+    "q0": 38208127,
+    "q9": -1,
+    "q10": "Becomes boring around Chapter 40; pacing issues despite decent core quality.",
+    "q21": -1,
+    "q22": "CN runs a faster, messy cadence vs. international’s slower, more curated rollout.",
+    "q41": "Multiple power sources beyond team synergy add breadth; operations/strategy concerns reduce confidence."
+  },
+  {
+    "q0": 38207756,
+    "q4": -1,
+    "q5": "Highly repetitive grind with little innovation."
+  },
+  {
+    "q0": 38206431,
+    "q29": -2,
+    "q30": "Accuses gacha of being rigged—claims UP requires several rounds and spending to obtain.",
+    "q41": "Alleges tampered gacha pool where UP only drops after multiple cycles."
+  },
+  {
+    "q0": 38204368,
+    "q31": 1,
+    "q32": "Recent events and daily sign-ins considered good (though longevity is uncertain).",
+    "q41": "UP at +40% still took 100+ pulls and multiple golds to obtain; skepticism about banner timing."
+  },
+  {
+    "q0": 38203488,
+    "q1": true,
+    "q2": "Heavily censored CN version reduces sexualized content compared to other regions."
+  },
+  {
+    "q0": 38202759,
+    "q9": -2,
+    "q10": "Progress stalls around 1M power; resources (gold, mats) severely bottlenecked and expensive; relics are only fragments.",
+    "q11": -1,
+    "q12": "Whales advance far faster; early servers show players jumping hundreds of thousands of power quickly.",
+    "q27": -2,
+    "q28": "Multiple funds and VIP-like systems create large gaps; F2P cannot catch up.",
+    "q29": -2,
+    "q30": "Heavy monetization across diamonds, funds, relic fragments, and resource bottlenecks.",
+    "q31": -1,
+    "q32": "Opening welfare feels insufficient relative to needs.",
+    "q41": "Gold scarcity; relics only dropping fragments; expensive resource sinks block advancement."
+  },
+  {
+    "q0": 38202679,
+    "q1": true,
+    "q2": "Described as a ‘gentleman’ (lewd) game.",
+    "q29": -1,
+    "q30": "Complaints about stamina gating and over-complexity for a ‘harvest’ game.",
+    "q41": "Time sink with level gating; feels like a complex reskin."
+  },
+  {
+    "q0": 38202338,
+    "q1": true,
+    "q2": "Skins/visuals use sexualized appeal to monetize.",
+    "q31": 1,
+    "q32": "Welfare feels plentiful and in-game currency accrues faster than some competitors, though grindy.",
+    "q29": -1,
+    "q30": "Grindy loop and cosmetic monetization, though UP characters can be obtained relatively easily."
+  },
+  {
+    "q0": 38195595,
+    "q31": -1,
+    "q32": "Diamonds from Data Exchange were reduced; many banners increase resource strain.",
+    "q29": -2,
+    "q30": "Suggests non-spenders ‘don’t deserve’ to play due to reduced income and many banners."
+  },
+  {
+    "q0": 38195208,
+    "q4": -2,
+    "q5": "Uninstall within 20 minutes due to long, unskippable onboarding and tedious clicking.",
+    "q41": "Onboarding is longer and less engaging than typical ‘legend’ clones."
+  },
+  {
+    "q0": 38194993,
+    "q9": -2,
+    "q10": "Mainline difficulty spikes with massive enemy heals; requests reduced difficulty.",
+    "q41": "Frustration with AI healers restoring millions, blocking progression."
+  },
+  {
+    "q0": 38189193,
+    "q3": "Auto-battle against AI with simple visuals; turn-based feel.",
+    "q4": -2,
+    "q5": "Combat visuals considered poor and the AI is dumb; heavy level gating disrupts flow.",
+    "q9": -2,
+    "q10": "Frequent level caps at specific levels block further actions without grinding.",
+    "q23": true,
+    "q24": "150 diamonds per pull; 50-pull SSR pity; four small off-rate pities before a guaranteed UP; frequent off-rate experiences.",
+    "q25": -2,
+    "q26": "Pricing and pity system are seen as unfair/overpriced compared to genre leaders.",
+    "q29": -2,
+    "q30": "Monthly card pricing and pity model compared negatively to top titles.",
+    "q41": "Multiple level caps (19/20/25/29/30) hinder progression."
+  },
+  {
+    "q0": 38183477,
+    "q1": true,
+    "q2": "CN version adds clothing/censorship reducing sexualized appeal versus international.",
+    "q4": -2,
+    "q5": "Considers gameplay non-existent and turn-based exchanges boring.",
+    "q27": -2,
+    "q28": "Removal of universal fragments and heavy censorship reduces F2P paths.",
+    "q31": -1,
+    "q32": "CN ‘welfare’ seen as less valuable than key items like universal fragments."
+  },
+  {
+    "q0": 38181949
+  },
+  {
+    "q0": 38181506,
+    "q31": 1,
+    "q32": "Day-one welfare is attractive; resource ‘slot’ leveling is user-friendly.",
+    "q29": -1,
+    "q30": "Many monetization systems (stamina, speed) feel semi-forced for convenience.",
+    "q41": "Character levels tied to shared slots rather than specific units."
+  },
+  {
+    "q0": 38181297
+  },
+  {
+    "q0": 38180916
+  },
+  {
+    "q0": 38180215
+  },
+  {
+    "q0": 38180114,
+    "q1": true,
+    "q2": "Mentions erotic appeal but says it is inferior to other titles.",
+    "q27": -2,
+    "q28": "States non-spenders get stuck on the main story quickly.",
+    "q9": -1,
+    "q10": "Progression stalls early without spending."
+  },
+  {
+    "q0": 38178986,
+    "q6": "Progression sources include compendium, star-ups, bonds, furniture, and exclusive weapons; character level adds less.",
+    "q7": 0,
+    "q8": "Multiple systems contribute to power but do not feel deeply tactical.",
+    "q9": -1,
+    "q10": "After midgame, levels slow (about one per day without paying) and 3-starring becomes difficult.",
+    "q23": true,
+    "q24": "Has a large-pity mechanism; hitting big pity occasionally.",
+    "q29": -1,
+    "q30": "Many types of gift bundles; strength is closely tied to gacha."
+  },
+  {
+    "q0": 38178960,
+    "q4": -2,
+    "q5": "Labels combat and gameplay as the worst among card games tried.",
+    "q9": -2,
+    "q10": "Condemns the progression and systems as very poor."
+  },
+  {
+    "q0": 38178568,
+    "q25": -2,
+    "q26": "Weapon banner probability cited as 0.2%, perceived as unreasonably low.",
+    "q41": "Very low weapon gacha rate complaint."
+  },
+  {
+    "q0": 38177501,
+    "q41": "No Chinese language support despite local promotion; uninstalled over localization."
+  },
+  {
+    "q0": 38176186,
+    "q41": "Community moderation issues—sharing character art leads to mutes; hostile community management."
+  },
+  {
+    "q0": 38174398,
+    "q31": 1,
+    "q32": "Welfare with skins and badges feels acceptable; can build an all-gold starter roster.",
+    "q9": -1,
+    "q10": "Self-select 10-pull is gated too late; early game is time-consuming and can cause fatigue.",
+    "q41": "Early time investment is high; praises art, audio, and chibi designs."
+  },
+  {
+    "q0": 38173091,
+    "q29": -2,
+    "q30": "Skins cannot be bought with earned premium currency; appear to be cash-only.",
+    "q41": "Spent ~3000 but promo stones can’t purchase skins; advises 0-spend."
+  },
+  {
+    "q0": 38171373,
+    "q27": -2,
+    "q28": "Level-gated event nearly ends right as the player hits the required level; zero-spenders disadvantaged.",
+    "q41": "Event timing/claim windows tied to levels, leaving late levelers unable to participate."
+  },
+  {
+    "q0": 38170736,
+    "q1": true,
+    "q2": "States ‘features’ (implied sexual content) have been censored.",
+    "q29": -1,
+    "q30": "Many monetization points and frequent off-rate pity; limited welfare.",
+    "q31": -1,
+    "q32": "Notes welfare isn’t much."
+  },
+  {
+    "q0": 38170173,
+    "q27": -2,
+    "q28": "Everything costs (cards, exclusive weapons, MC weapon); stamina and materials bottleneck growth.",
+    "q29": -2,
+    "q30": "Daily pop-ups and paywalls everywhere; high star/weapon upgrade demands.",
+    "q41": "Heavy stamina/mats gating; constant offers; advises only viewing art and leaving."
+  },
+  {
+    "q0": 38170146,
+    "q23": true,
+    "q24": "Requires four off-rates before the big guaranteed UP; gold appears around every 50 pulls but often off-rate.",
+    "q25": -1,
+    "q26": "Perceived as predatory due to repeated off-rates before guarantee."
+  },
+  {
+    "q0": 38170141,
+    "q3": "Turn-based auto-battle; heavy gear/artifact/weapon layering; guild PvP present.",
+    "q4": -2,
+    "q5": "Combat is described as boring and the progression is a numbers race.",
+    "q6": "Guild PvP; artifact/weapon systems; multiple upgrade layers.",
+    "q7": -1,
+    "q8": "Depth comes from layers of progression rather than tactical richness.",
+    "q27": -1,
+    "q28": "Either grind heavily as F2P or spend; whales dominate.",
+    "q29": -2,
+    "q30": "Many monetization choices across systems."
+  },
+  {
+    "q0": 38170007,
+    "q9": -1,
+    "q10": "Free SSR locked to Chapter 50; early off-rate experiences discourage progression.",
+    "q29": -2,
+    "q30": "Accuses game of opening new servers to cash in and run; urges not to spend.",
+    "q41": "Multiple off-rates on Kraken; skeptical of server strategy."
+  },
+  {
+    "q0": 38169200,
+    "q9": -1,
+    "q10": "Progression is fine early but stalls later; main story cannot be pushed."
+  },
+  {
+    "q0": 38167849,
+    "q9": -2,
+    "q10": "Late-game enemies hit far harder than player damage at similar/greater power; exhausting difficulty."
+  },
+  {
+    "q0": 38167562,
+    "q1": true,
+    "q2": "Says it relies on sexualized ‘selling meat’.",
+    "q4": -2,
+    "q5": "Calls story flow and battle scenes terrible; outdated quality."
+  },
+  {
+    "q0": 38166982,
+    "q27": -2,
+    "q28": "International server is extremely grindy; 0-spenders are destroyed by payers.",
+    "q29": -2,
+    "q30": "States money is the main resource; pay-to-win dominates.",
+    "q31": -1,
+    "q32": "International server provides few resources, making progress difficult."
+  },
+  {
+    "q0": 38165993,
+    "q9": -1,
+    "q10": "Free SSR/self-select and 10-pulls are gated by Chapters 4 and 7, with Chapter 4 final stage blocking progress.",
+    "q31": -1,
+    "q32": "First day only one 10-pull due to progression locks."
+  },
+  {
+    "q0": 38165312,
+    "q6": "Guild/point occupation event where players must hold points.",
+    "q7": -1,
+    "q8": "Without joining a strong guild, you cannot hold points and are easily killed.",
+    "q27": -2,
+    "q28": "Event is unplayable for non-spenders who can’t join big guilds."
+  },
+  {
+    "q0": 38162424,
+    "q29": -2,
+    "q30": "Accuses devs of buying reviews instead of giving welfare; requires diamonds for cross-server stamina recovery.",
+    "q31": -2,
+    "q32": "Event rewards locked behind recharge coupons; free rewards can’t be claimed without paying later.",
+    "q41": "Introduced ‘discount coupon’ welfare requiring payment to unlock later rewards."
+  },
+  {
+    "q0": 38161877,
+    "q11": -2,
+    "q12": "New characters every half month power-creep old ones; a new unit easily beats older, well-invested teams.",
+    "q21": -1,
+    "q22": "Frequent new character releases with power creep degrade balance rather than adding healthy updates.",
+    "q29": -2,
+    "q30": "High spending is needed to keep up with the power creep."
+  },
+  {
+    "q0": 38160368,
+    "q41": "Labels the game as highly deceptive and not worth trying."
+  },
+  {
+    "q0": 38159884,
+    "q9": -1,
+    "q10": "Self-select 10-pull is locked behind chapters; non-spenders will find progression unpleasant.",
+    "q27": -1,
+    "q28": "Says non-spenders struggle to obtain gated rewards while spenders won’t care.",
+    "q31": -1,
+    "q32": "Free pull marketing is perceived as bait due to progression locks."
+  }
+]

@@ -1,0 +1,730 @@
+q0,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10,q11,q12,q13,q14,q15,q16,q17,q18,q19,q20,q21,q22,q23,q24,q25,q26,q27,q28,q29,q30,q31,q32,q33,q34,q35,q36,q37,q38,q39,q40,q41
+46958908,,,Auto skill queue (“skill axis”) system for battles where you pre-edit skill orders; pets/skills added to the queue execute automatically.,-1.0,"Edited skills get deleted in runs; some pet skills can’t be added and placeholders like 'asdasd' appear, indicating broken combat automation.",Pre-battle skill order editing for each unit/pet (skill axis).,-1.0,"Skill order system frequently resets or refuses inputs due to bugs, undermining any tactical setup.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Skill axis resets skills; some skills show placeholder text; pet skills cannot be added.
+46955237,,,Combat features flashy pixel-style ultimate animations.,1.0,Early impression of battle visuals is positive with big ult cut-ins.,,,,-1.0,"Core loop is just dungeon farming; open maps have only chests and almost no interaction, leading to fast fatigue.",,,,,Light overworld exploration with treasure chests; repeated dungeon runs.,,1.0,"Secondary activities are very simple (open chests), with little interaction so they get boring quickly.",,,,,,,,,,,,,,,,,,,,,,,
+46958102,,,Simplistic JRPG-style exchanges where two sprites fling effects and huge damage numbers.,-2.0,Shallow effect-spam presentation with inflationary numbers feels low quality.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Too many currency types; no clear landscape mode; only a female protagonist option.
+46957862,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Modern internet slang in text breaks immersion.
+46956348,,,Has an 'Ougi/Ultimate' system that auto-chains; currently several units dump ultimates at once.,-1.0,Lack of control over ultimate timing leads to clumped Ougi usage.,Requested toggle to independently enable/disable ultimate releases.,-1.0,Missing basic control (ultimate on/off) reduces tactical control in combat.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46955938,,,Battles are lengthy single encounters.,-2.0,"Single fights take excessively long, hurting moment-to-moment fun.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46955557,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Grind exists but isn’t severe; play feels flexible for spenders and non-spenders.,1.0,Spending pressure feels light; 'you can spend a lot or play frugally'.,,,,,,,,,,,
+46950677,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Extremely buggy test build; warns launch will fail if bugs persist.
+46948892,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,"Test build offered around 200 free pulls, making gacha very generous.",,,,,,,,,
+46948882,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46947048,True,Sexualized female character designs with very revealing outfits.,Turn-based battles with a 'skip turn' option but no speed-up and no battle skip.,-1.0,Runs are long with no 2x speed or skip; skipping turns repeatedly is tedious and sometimes freezes.,Elemental team building (switched from Earth to higher-damage Fire).,0.0,"Element choice affects damage, but no deeper tactics discussed.",-1.0,Daily loop devolves into repetitive dungeon farming with no sweep; little to do after spending stamina.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vertical-only with large central interaction button; requests customizable UI; occasional freeze when skipping turns.
+46944187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,After a force-close the game loads to a black screen and cannot enter.
+46944183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black screen on launch on a mid-range phone; game won’t load.
+46944148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Game fails to open, stuck on a black screen."
+46942427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46942153,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Low grind and low monetization burden; easy to play casually.,,,,,,,,,,,,,Server instability and mediocre optimization.
+46938373,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Many impactful bugs; new characters feel off; materials lack exchange; weapon enchant not implemented; overall poor experience.
+46938164,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46937790,,,,,,,,,-2.0,Main quests and dungeons failed to unlock for a week.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Core features like mainline and instance access didn’t open.
+46935235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46934951,,,No battle speed-up or skip; material dungeons also lack sweep; a single fight can last up to ~40 minutes.,-2.0,Excessive time per battle with no QoL (speed/skip/sweep).,,,,-1.0,"Main character jobs don’t share breakthrough levels, forcing duplicate investment; early gacha off-rates make a coherent team hard to assemble.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fixed centered joystick hampers one-hand play; desire for horizontal mode; visuals look slightly blurry.
+46934689,,,,,,,,,,,,,,,,,,,,,1.0,Developers respond and fix issues quickly despite messy code.,,,,,,,,,,,,,,,,,,,
+46934639,True,Breast jiggle and skirts so short they expose buttocks.,Very simple combat; tutorial immediately guides into auto-battle with one-click formation.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46934579,,,,,,,,,,,,,,,,,,,,,,,True,"Has a spark/pity system (players reference '2 sparks' with 400 pulls), though banners reportedly lack a clear UP target.",,,,,,,,,,,,,,,,,
+46934152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Concerns about stability and minor issues after launch.
+46825957,,,,,,,,,-1.0,"High material demands with low drops (e.g., breakthrough 15, 'black heart'); progression feels punitive.",,,,,,,,,,,-1.0,"Frequent server issues; major bugs take many hours to fix; compensation delayed or insufficient, though some feedback has been adopted.",,,,,,,,,-1.0,"Compensation and test rewards are stingy, e.g., limited draws from 'friend fees'.",,,,,,,,,"Server crashes, exploit fixes delayed, low drop rates adjusted only when new event required them, event resource infinite farm bug, skill-axis issues remain."
+46931127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46874622,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mini-map opens world map instead of local; few or no side quests; resource nodes scarce and don’t refresh; no male protagonist option; perceived drop rate nerfs; heroes and monsters share a banner causing monsters to lag in stars.
+46928613,,,"Traditional turn-based system with per-turn actions, multi-skill casting and stacking buffs; 10 equipment slots where only one is for the protagonist’s weapon.",-1.0,Combat feels plain and buff-stacky.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No horizontal mode; fixed central movement stick; recharge/gacha UI blacked out and purchase items disappeared; lost items after relog.
+46928089,,,"Pure numeric, turn-based card/battle system with early manual then early-unlocked auto; flashy skills and special shots.",1.0,"Solid presentation and auto makes it smooth, though conventional.","Party of 4+2 reserves; same-attribute synergy; one-click team/weapon/partner configuration; leveling and breakthrough across characters, weapons, and monster partners.",1.0,Multiple interlocking growth systems and attribute synergies add planning depth.,-1.0,Progress slows into routine dungeon farming with slow feature unlocks and foreseeable power checks requiring grind or pay.,,,,,"Open-map exploration with light puzzles, autopathing, treasure and item discovery alongside main dungeon farming.",False,1.0,Exploration is straightforward with autopath and simple finds.,1.0,Exploration yields chests and scattered items to support growth.,,,True,Multiple banners including two limited; pity at 30 pulls for an SSR.,,,,,-1.0,Many shop bundles and overall deep monetization.,1.0,"Server issues and tests granted ample resources (~200 pulls), enabling a full mono-attribute team.",,,,,,,,,
+46834000,,,Turn-based with auto-battle and skill order; no sweep; multi-minute boss fights at equal recommended power; features an 'Ougi chain' (ultimate link).,-1.0,Lengthy fights and lack of sweep make farming tedious despite auto.,"Skill order configuration, ultimate chain synergy, role filtering for team-building (requested), recommended teams.",1.0,"There are combo and sequencing mechanics, but guidance/UI are lacking.",-1.0,Key items like 'proofs' drop sparsely; progress hinges on low-probability drops and limited stamina.,,,,,Alchemy/refining to craft items like proofs; multiplayer co-op bosses; fishing; simplified dailies.,False,-1.0,"Secondary systems exist but are under-explained or awkward to use (alchemy undiscoverable, fishing purpose unclear).",-1.0,Low drop rates for essential items; fishing yields trivial materials; daily rewards reduced.,,,True,30-pull pity for SSR; test provided ~200 pulls.,,,,,,,2.0,Test-time freebies were very generous (~200 pulls plus stamina and items).,,,,,,,,,"Frequent freezes/soft-locks, crashes; missing effect descriptions; weapon upgrade materials lack dedicated source; event duration and banner cadence feel too short; copy-paste skill order bugs."
+46819888,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small team with many issues but claims ongoing optimization.
+46899786,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Severe bugs (drop rates, missing texts, sprite conflicts), device overheating even at low settings, heavy light pollution, lack of monster codex and effect descriptions, post-mainline content is only material grinding, no horizontal mode and only wheel movement."
+46925596,True,Overly revealing character outfits.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46925542,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Highly streaky drop rates—periods of abundance followed by droughts.
+46925204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46925128,,,Auto skill release via skill order list per unit.,-2.0,Skill automation alternates between only the protagonist casting or everyone but the protagonist; custom skill lists reset mid-play.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Skill list UI showed empty icons; saved skill orders randomly cleared.
+43495890,,,,,,,,,-2.0,Severe power creep and low drops with stamina limits block progression unless you grind heavily or max gacha gear/pets.,,,,,,,,,,,,,,,,,-2.0,Non-spenders cannot solo farm; later bosses unplayable without paying and top gear.,-2.0,Upgrading relies on rare drops or maxing UP weapons/pets via gacha.,,,,,,,,,,,Extremely low drops in boss dungeons and no AI assist; co-op required even to attempt new content.
+46924821,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"After maintenance, event resources from 'Machine God Descends' disappeared."
+46895365,,,,,,,,,,,,,,,Fishing and simplified dailies (currently shallow).,,0.0,Fishing is basic but present.,-2.0,Fishing rewards are trivial and lack systems (no cooking); daily rewards also reduced.,,,,,,,,,,,-1.0,Daily rewards became sparse after simplification.,,,,,,,,,6-player boss rooms suffer AFK leechers and host can’t kick; revival item bug; event progress reset; banner skill labeling errors; no material salvage or event currency sink.
+46923269,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,"Pity feels too high and duplicates are frequent, making pulls feel poor value.",,,,,,,,,,,,,,,Performance is very poor; crashes/force-closes when party grows.
+46923015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black screen on entry with audio only.
+46922995,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46906079,,,,,,,,,,,,,,,,,,,,,,,True,Pity/spark exists for 'divine beasts'—player twice hit pity to exchange.,-2.0,"Paid value feels low (e.g., ~¥6 buys ~108 gems ≈ 1 pull) and no evident monthly card; overall too expensive.",,,,,,,,,,,,,,,Buff/effect descriptions are missing; unclear if there is a monthly card.
+46918642,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vertical-only orientation feels awkward.
+46909211,,,,,,,,,,,,,,,,,,,,,-1.0,Obvious event auto-exploration bug remained unfixed across days.,,,,,,,,,,,,,,,,,,,Auto-exploration value stuck overnight; many bugs remain unaddressed.
+46916722,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vertical-only; player requests horizontal mode.
+46916559,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pixel art appears coarse/low fidelity.
+46916127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46915998,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weapon drops progress quickly while pet ('war beast') drops lag far behind; suggests raising pet drop rates.
+46915562,,,,,,,,,,,,,,,,,,,,,,,True,30-pull pity for an SSR; gold rate feels high overall.,,,,,,,2.0,Over 400 draws from mail plus in-game stones during test.,,,,,,,,,Extremely high off-rate on UP banners; hundreds of pulls without any UP.
+46855073,,,Stationary turn-based combat focused on stat checks rather than action.,-1.0,Late-game devolves into pure number colliding; little moment-to-moment interaction.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Requests more side quests, home/farming/crafting/trade systems, romance/favorability, and male protagonist option; non-combat BGM feels flat."
+46915216,,,,,,,,,-1.0,Daily routine feels tiring and many systems are still incomplete.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Several systems are unfinished in the test build.
+45064073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Only a female protagonist is available.
+46914634,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bug count is high in test but overall quality seems good; value depends on launch welfare.
+46914441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cannot enter the game.
+46912967,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.0,Progress requires heavy spending; few players to help in hard co-op; weapon upgrade has no inheritance or resource refund.,,,,,,,,,,,,,Black-screen login bug; upgrade system deletes invested materials on switch; requested refund due to being unable to play.
+46912880,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frequent black screens and freezes.
+46912638,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Water Mecha 'full-team guard' interaction inconsistent—boss special actions with Wind damage wipe the team even under guard.
+46912176,,,,,,,,,-1.0,Low dungeon drop rates make farming dull without auto-hangup.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests horizontal mode; pixel chibi quality; need auto-farm for better late-game experience.
+46912163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Advertised landscape mode not actually available.
+46912141,,,,,,,,,,,,,,,,,,,,,-1.0,Bugfixes keep breaking other systems; daily whack-a-mole issues persist.,,,,,,,,,,,,,,,,,,,Skill axis doesn’t apply; passives and skills fail to trigger; saved teams reset or switch elements unexpectedly.
+46911406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Progress/wallet will reset at launch despite lucky pulls in test.
+46909690,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46909260,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,"Received around 10,000 premium currency in test.",,,,,,,,,
+46909139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Huge variance in gacha luck between players.
+46908645,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Battle pass/energy ('BP') rewards are too limited; over-restricted grinding.
+46906084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Customer support contact not easily found.
+46904513,,,,,,,,,-2.0,Stuck at the 'Campfire talk' story step; dungeons won’t open.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Persistent story soft-lock at 'campfire night chat'.
+46830519,,,,,,,,,-2.0,Very low drops and extreme grind across weapon sets and four mandatory elemental teams; no sweep and tight BP gates.,,,,,,,,,,,,,True,Spark system with multiple UPs per banner; described as needing roughly 200 pulls to select one UP.,-2.0,High cost to reach pity and diluted UP targeting make pulls poor value.,,,-2.0,Forces investment into four teams and heavy weapon trees under tight BP limits; gacha design pushes spending.,,,,,,,,,,,No sweep; long fights despite auto; heavy BP gating; weapon set reworks reset progress; unsuitable as a side game.
+46904411,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Game-breaking early-story bug; perception that the team ignores issues and may be cash-grabbing.
+46904258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Immediate black screen on login even after relaunching.
+46904229,,,,,,,,,-2.0,"Repeated crashes/black screens block progression (e.g., 'campfire talk' quest never completes).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frequent crashes and black screens; quest completion not registering.
+46904050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,World chat appears filled with bots; main story cannot progress; instance UI empty; gacha rates look high.
+46903989,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Numerous critical bugs: wrong skill CDs making MC useless; weapon-plate predictor broken; assassin debuff applies to allies instead of enemies.
+46903937,,,Turn-based battles with many buffs/debuffs but poor feedback; bosses mostly auto-attack with little telegraphing.,-1.0,Lack of damage feedback and effect descriptions; boss attacks feel bland.,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Many pulls came from test mails; in normal play pull income felt low.,,,,,,,,,Desire for MC wardrobe; sparse map content; missing buff descriptions; frequent MC sprite bugs; low UP rates (400 pulls yielded few UPs).
+46903930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck on 'Apocalypse Knight—Late arrival' story step; restart doesn’t help.
+46903148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vertical middle joystick is awkward; dialogue interaction buttons are hard to tap; story tone feels juvenile; prefers horizontal mode.
+46902867,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Soft-locked at the very first stage; relaunching doesn’t resolve.
+46819510,,,,,,GBF-like buildcraft around stacking skills and effect combinations.,1.0,"Skill combo and build systems are the main appeal, despite balance/UI issues.",,,,,,,,,,,,,,,,,,,,,-1.0,Monetization feels somewhat heavy; expect to pay later.,,,,,,,,,,,Many bugs; poor job balance for the protagonist; incomplete effect texts; UI stutter.
+46900742,,,Card-like turn-based battles; exploration separated from combat.,-1.0,Turn-based format and map running make pacing feel wasted relative to the art and world.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46900212,,,,-1.0,Gameplay is soporific and slow-paced.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46898892,,,,,,,,,,,-1.0,Water element suffers multiple damage/crit bugs while Wind feels stronger largely because it has fewer bugs.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Persistent bugs in skills, skill axis, and dungeon entry; critical issues with water-element mechanics (crit, multihit, freeze stack interactions)."
+46898083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Praises visuals; requests a landscape (horizontal) mode.
+46851775,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dislikes story and finds gameplay uninteresting; praises art but requests landscape mode; dislikes female-locked protagonist which hurts immersion.
+46896824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poor optimization; multiple bugs and frequent crashes during main story.
+46896763,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Too many bugs encountered, more than enemies."
+46896729,,,,,,,,,-2.0,Progression blocked by gacha luck and need for carries; no satisfying feedback loop.,,,,,,,,,,,,,False,,,,-2.0,Relies on high-spenders to carry co-op; without strong characters/teams progress stalls.,-2.0,Heavy pressure to pull new characters to progress; reviewer burned large amounts with poor returns and says there is no pity.,,,,,,,,,,,Complains about power/leaderboard PUA; requests auto skill-order memory; lacks clear ‘fun moments’.
+46831059,,,,,,,,,1.0,Easy to get started and progress due to rewards and support.,,,,,,,,,,,,,,,,,,,1.0,Spending felt optional; with BP support and rewards it was easy to progress.,1.0,Generous testing rewards; spending not required to progress.,,,,,,,,,"Low drop rates and many bugs (class switching resets, fluctuating power, skill casts fail, illegal text blocks recruitment); suspects some AI art and asset reuse."
+46896655,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Visuals are beautiful; nothing else noteworthy.
+46839800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Small spender achieved full four-attribute teams; gacha felt not punishing during test.,,,,,,,,,,,Excellent art and a classic yet fresh story; gameplay acceptable; later complains many bugs remain unfixed.
+46896501,,,GBF-like party RPG system with heavy grind.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Octopath Traveler-like HD-2D art; concerns about balance/rewards leading to excessive grind/pay.
+46896220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Banner composition is messy (fire banner drops other elements); pet drop rates too low; a bit grindy but overall positive.
+46895981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Skill/setting text garbling; frequent crashes and loading errors; severe overheating.
+46895932,,,,,,,,,,,,,-2.0,States only one meta team works globally; other teams cannot obtain rewards.,,,,,,,,,,,,,,,,,,,,,,,,,,,Gameplay feels monotonous; visual style matches trailers.
+46892874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cannot enter the game despite getting a test slot.
+46892372,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.0,After an update the game cannot be entered or updated; updating drops network; user uninstalled.,Login/update loop prevents play.
+45444345,,,,,,,,,,,,,-1.0,Strict attribute-based team requirements raise the barrier and limit viable builds.,,,,,,,,,,,,,,,,,,,,,,,,,,,Art is strong; vertical orientation disliked; concerns about gacha pools and team attribute requirements.
+46891707,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.0,Accuses dev of greed with worsening issues.,,,,,,,,,,,Says the studio lacks technical capability; predicts failure.
+46877074,,,,,,Non-advantage elements suffer -50% damage; forced to train four elemental teams; increased AP and BP costs; event requires rare ‘demon hearts’ with limited drops and entries.,-1.0,Element checks and four-team requirement feel punitive rather than offering interesting tactics.,-2.0,Resource costs raised sharply and scarce drops block event progression.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Grind increased by several times; co-op rooms hard to enter; event item scarcity.
+46890423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Co-op stamina is too restrictive; mechanics feel copied; UI/controls laggy; pixel UI and battle layout look ugly; map design/pixel art criticized.
+46890141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fun game; highly grindy/addictive.
+46890101,,,,,,,,,,,,,,,"Alchemy crafting (e.g., copper/silver steel), fishing for rewards, and repeated dungeon farming.",True,,,-1.0,"Alchemy cannot produce high-tier mats; fishing baits are scarce and yields low (e.g., only a few pulls).",,,True,Frequent pity hits; 200-pull ‘well’ for selection; reviewer says every pull session hit hard pity.,,,,,,,,,,,,,,,,,Very low material/weapon drop rates; excess ‘magic weapons’ with no sink; gacha feels low-rate; concerned about early power creep.
+46889659,,,,1.0,States music and battle mechanics are good.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Likes art and scenes; suggests simplifying overall power-up system.
+46889328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks how to enable landscape mode.
+46830120,,,,,,,,,-2.0,Crashes/login issues and heavy farming without sweep hinder progress.,,,,,,,,,,,,,True,200-draw hard pity that resets when switching banners; reviewer lost pity progress on banner change.,,,,,-2.0,Very grindy with pity reset and poor drops; feels exploitative.,,,,,,,,,,,Initial login flagged as hacking; repeated crashes; resource farming is time-consuming; no sweep; no compensation seen.
+46807831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very positive early impression; asks when the game will launch.
+46887887,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cannot dismantle duplicate weapons; ‘demon heart’ drop rate extremely low; inventory fills with duplicates.
+46887204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46886382,,,,,,,,,,,,,-2.0,"Mixed, polluted banners and low rates force teams based on what drops rather than choice.",,,,,,,,,,,,,,,-2.0,Calls it blatant cash grab with polluted pools and micro odds.,,,,,,,,,,,"Too many bugs; unexplained terms (e.g., ‘undying’, ‘phantom’, ‘rousing’, ‘ougi chain’) allegedly copied from GBF."
+46828079,,,Turn-based combat with auto-battle and a configurable skill queue/rotation.,0.0,Likes turn-based but auto-battle reduces engagement; skill queue sometimes fails to trigger.,Attribute-focused team building; skill queue system; many buffs lacking clear descriptions.,0.0,Systems exist but unclear BD and buff details limit meaningful planning.,-1.0,Becomes boring and lacks long-term goals; feels like either pay or grind.,,,,,,,,,,,,,,,,,,,-1.0,Feels pay-or-grind; suggests monthly pass and better SR viability.,,,,,,,,,,,Auto-path/teleport kills exploration; story average with odd memes; art/music praised.
+46885417,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feels like a mishmash of design elements (miHoYo/MMO) with too many features.
+46884830,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Hard to pull desired items which reduces motivation to continue.,,,,,,,,,,,Retro visuals but low playability; UI layout poor; no full-screen art view; team building UI is awkward.
+46876326,,,,,,,,,-2.0,Stamina/AP costs massively increased and frequent disconnects waste stamina; stats dropped after maintenance.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe lag/disconnects despite strong signal; co-op/join costs raised; experience dungeon cost set to 100 AP.
+46883821,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Overall poor experience; pixel models look bad.
+46883248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finds it good; notes comedic opening where protagonist is hit by a meteor.
+46883209,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Feels not very grindy and enjoyable in vertical mode as F2P.,,,1.0,Says welfare is plentiful.,,,,,,,,,Unique mix of dungeon grinding and anime style; likes vertical orientation.
+46805839,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0 weapon drop rates are too low.
+46882284,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Phone heats up quickly (5–10 minutes of play).
+46880802,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Great art; character relationships feel forced; unclear boss unlock indicators.
+46880530,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Suggests it is a rebranded revival.
+46829636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frame rate feels low/uneven; joystick positioned too high; suggests moving joystick and collapsing chat; update did not address it.
+46860366,,,"GBF-style co-op, turn-based combat with Ougi/ultimate chains, same-element bonuses, and buffs.",,,"Element synergy, Ougi coordination, co-op roles with MVP competition.",1.0,"Multiple interacting systems (elements, buffs, chaining) provide tactical options despite co-op MVP imbalance.",,,,,,,,,,,,,,,True,30-pull SSR pity and 200-pull UP selection; drawing characters also grants weapons.,,,1.0,Most resources can be farmed with time; not overtly pay-forcing.,1.0,Spending mainly accelerates progress; not pay-to-win focused.,2.0,Hundreds of test pulls; enough to form four elemental teams.,,,,,,,,,Poor optimization; main quest is long with lots of auto-run; story writing criticized; no auto/sweep; co-op MVP hogging; UI issues.
+46834492,,,,,,Non-advantage damage -50%; forced to build four elemental teams; daily farm structure; joystick ergonomics; protagonist gender locked.,-1.0,Forced multi-element progression and some AI behavior reduce meaningful tactics.,,,,,,,,,,,,,,,True,30-pull guaranteed gold and 200-pull pity; varying UP rates by banner; test distributed daily pulls.,,,,,,,1.0,Estimates ~80+ free pulls/month via activity and AFK tower farming.,,,,,,,,,"Mid-test changes (e.g., Baha weapon drop model); perceived cash-grab banners; lacks full-body art/gallery; AI art concerns; joystick too high; no sex selection."
+46879530,,,,1.0,Says gameplay is good and recommends to pixel-art fans.,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,Claims 200 free pulls at entry.,,,,,,,,,Praises high banner rates and generous rewards.
+46878842,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Material farming is boring auto-grind with no skip; lost motivation after a few days.
+46878782,,,,,,,,,,,-2.0,New character heavily power-creeps older ones via raw stat scaling.,,,,,,,,,,,True,"Reports always hitting pity after update; failed to obtain target (e.g., Diabolo) within 120 pulls; implies 200-draw pity/well.",,,,,,,,,,,,,,,,,Feels rates were nerfed; straightforward stat inflation.
+46878755,,,,-1.0,"Says there is no strategic combat, movement feels bad, story is bland, and UI is inconvenient.",,-2.0,States combat lacks strategy and exploration fun.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Feels like an old, copied JP mobile design with little to enjoy beyond visuals."
+46878725,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frequent crashes; user confused by an in-game prompt/screen.
+46878242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gacha presentation feels cheap; pulled characters lack introductions or story context.
+46878130,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Few pop-ups and only a small first-purchase offer; F2P playable in test.,1.0,Monetization feels light and unobtrusive.,,,,,,,,,,,Frequent freezes/crashes.
+46877883,,,Turn-based combat similar to FGO.,,,,,,,,,,,,"Grinding gear, pets, and materials as core progression.",False,,,,,,,,,,,,,,,,,,,,,,,,,Good music and visuals but many severe bugs (including black screen); UI needs optimization; progression is very grind-heavy.
+46877782,,,,,,,,,,,,,-2.0,RNG-dictated mixed pools constrain team building.,,,,,,,,,True,30-pull SSR pity and 200-pull UP selection.,,,-1.0,Co-op MVP racing and punishing boss design exclude new players from meaningful rewards.,-2.0,Polluted banners with low rates and mixed pools push heavy spending to get desired units/pets.,,,,,,,,,,,Lack of clear buff/skill descriptions; inconsistencies between skills and behavior; poor optimization; frequent changes to mechanics mid-test.
+42513412,,,"Pixel-art, turn-based JRPG.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Multiple tests yet many problems remain; community management tone is off-putting.
+46876956,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks not to grant buffs to enemies (likely a buff bug or misapplied effect).
+46876511,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nostalgic expectations; recalls a similar game; keen to try the test.
+46876236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Many bugs (team attribute/job display errors, stutter, crashes, story locks); content feels thin yet time-consuming; upset with new banner; quitting."
+46875972,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Good art and content; waiting for public release.
+46875787,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fun but prone to crashes; asks for optimization.
+46875616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No sweep or multi-battle for resource dungeons; limited tickets used on standard characters.
+46875475,,,,,,Element disadvantage causes -50% damage; must build four elemental teams.,-1.0,Forced multi-team grind rather than meaningful tactics.,-2.0,Severe bugs (swallowed mail/rewards) and extremely low drop rates block progress.,,,,,,,,,,,,,,,,,,,-2.0,"Limited tickets used on standard characters and extremely low pet rates (e.g., 0.01%) feel exploitative.",,,,,,,,,,,Frustration with element counter requirements presented in a meme-like dialogue.
+46828590,,,Turn-based with shared ultimate chain (Ougi); suggests separate Ougi button to avoid accidental simultaneous use.,0.0,Likes visuals but finds Ougi control clunky; login requires mobile data.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Must switch to mobile data to log in; game runs fine afterward.
+46875375,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Homepage promo text contains a typo.
+46875281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Complains about changes reducing value and pushing players to raise four teams before launch.
+46875182,,,,,,Forced four-element progression due to element counters and weapon gating.,-1.0,"Element constraints force raising four teams, which is frustrating for new players.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46875253,,,,,,Forced four-element progression due to element counters and weapon gating.,-1.0,"Element constraints force raising four teams, which is frustrating for new players.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46875156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nice visuals; a bit grindy.
+46874504,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Art is good; sometimes freezes (possibly network-related).
+46874488,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,Very generous tickets during test.,,,,,,,,,Loves art and login music; battle music feels repetitive; stays mainly for visuals; requests more male characters.
+46874312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Quest tracking teleported to a softlock; relog/unstuck failed; uninstalled.
+46873756,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wants more adventure/combat focus and horizontal mode; suggests pacing/story optimization.
+46872868,,,Turn-based; team building focused on single-element compositions.,1.0,Finds the traditional RPG approach fun.,Single-element team focus.,0.0,Not difficult according to reviewer; straightforward team focus.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks how to enable landscape.
+46872669,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Relaxing, ‘养老’-style game; hopes it lasts long-term."
+46871638,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Requests a ‘pure mode’ (hide chat/players, optional auto-path); wants a more single-player-like experience."
+46869952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck after naming; reconnecting/reinstalling didn’t help.
+46869041,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Joystick fixed in center; quest tracking indicator too large; occasional black screens and UI lag; weak hit feel and sparse SFX.
+46868410,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,Test welfare very generous; quickly formed full SSR team.,,,,,,,,,Suspected AI art; dark-humor opening (meteor kills couple); daily login issues; requests more distinctive ultimates.
+46868058,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Persistent ‘network connection failed’ errors.
+46867994,,,,,,,,,-1.0,Became boring by day 5.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lost interest quickly.
+46867964,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck at a certain screen; cannot proceed.
+46867567,,,,-1.0,Says combat is not good and overall game lacks fun.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Needs performance optimization.
+46866215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No option to choose protagonist gender after naming.
+46866006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Art style feels similar to Brown Dust 2.
+46816574,,,,,,,,,,,,,,,,,,,,,,,True,30-pull SSR pity.,,,,,,,,,,,,,,,,,Good style but movement feels bad; team-building has a noticeable entry barrier; ultimately feels like a gacha-heavy game.
+46864190,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks how to switch to landscape mode.
+46859104,True,Sexual content/partial nudity; requests an option to toggle revealing outfits.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Overall positive but wants a ‘censor/uncensor’ option; questions 16+ vs 18+ rating.
+46863355,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hit a blocking bug immediately after entering the game.
+46863198,,,Turn-based battles with auto mode; elemental team building; long boss/tower fights with high HP; manual tapping to skip turns makes runs very slow.,-1.0,Tower layers take ~4 minutes on auto unless constantly skipping; very time-consuming.,Elemental team requirement; class roles feel imbalanced with scarce/weak healers.,-1.0,Team composition is constrained by elements and weak healer options.,-1.0,"Progress is gated by slow, grindy tower/boss fights.",-1.0,Perceived severe imbalance across jobs; healers are few and underpowered.,-1.0,Forced mono-attribute teams and reliance on a small top tier limit diversity.,,,,,,,,,,,,,,,,,,,,,,,,,,,Art perceived as AI-edited; monetization not fully enabled during test.
+46863185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46862993,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Downloaded but cannot open the game at all.
+46862161,,,,,,,,,-2.0,Hard-stuck on a quest from level 30 to 100 despite reporting; progression blocked by bug.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Only female protagonist praised; player spent money but remains blocked.
+46862083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Persistent 'cannot connect' bug for several days.
+46861994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46861854,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46861728,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46861552,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"After the opening boss, the game gets stuck; cannot proceed."
+46861542,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck/frozen.
+46860752,,,Turn-based combat feels slow; lacks QoL like sweep and fast skip.,-1.0,Battles take too long; encountered a post-battle soft-lock in a side quest.,,,,-1.0,Side-quest bug blocks leveling needed to continue main story.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Post-battle soft-lock; requests sweep/skip and faster combat; map needs better detail and teleport points.
+46860498,,,,,,Element choice heavily influences team (players tend to focus on the element they have most of).,-1.0,Players feel forced into mono-element paths.,,,,,-1.0,"Team building guided by whichever element has more units, reducing diversity.",,,,,,,,,,,,,,,,,,,,,,,,,,,Some bugs and grindy gameplay.
+46860486,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46860256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non-wipe test but login is not possible.
+46860111,,,,,,,,,-1.0,Missing a day caused noticeable setback; soloing instances became too hard and co-op had no players.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Co-op lobbies feel empty; strong 'job-like' daily pressure.
+46859114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Feels like a half-finished, boring build."
+46858934,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Story and controls feel mediocre despite good visuals; dropped after ~1 hour.
+46858825,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frequent disconnects during play; needs optimization.
+46858443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck at initial screen; reinstalling didn’t help.
+46857878,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46830762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Optimization issues despite being fun and good-looking.
+46857611,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Frequent stutter, black screens, and crashes over several days; player ready to quit."
+46856554,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Requests for codex, sweep, and battle speed-up features."
+46856226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Compared to GBF-like design with extreme grind and near-bottomless spending ceiling; doubts about fit for local market.,,,,,,,,,,,Feels like a 1:1 Octopath/GBF mashup with no unique identity.
+46856062,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strong art direction undermined by weak gameplay/story; art-gameplay dissonance.
+46855732,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Camera perspective feels awkward; story feels empty.
+46855626,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fixed center joystick feels awkward; landscape mode promised but unavailable; name filter overly strict.
+46855526,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46854972,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Locked female protagonist reduces immersion for some players.
+46854820,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frequent crashes during test; gacha UI looks cheap and could be more polished.
+46854597,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck on a screen; reboot doesn’t fix.
+46828880,,,,,,Exploration and class synergy evoke classic JRPG strategy.,1.0,Appreciated exploration feel and party-building strategy reminiscent of classic JRPGs.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Suggests hiding monetization popups to preserve immersion; add landscape mode; fix stutter/disconnect/black screen.
+46854207,,,,,,"Linear stat-only growth for characters, weapons, and pets; no random affixes; clear best-in-slot outcomes.",-1.0,Lack of randomness and existence of optimal builds reduce decision-making.,,,,,-1.0,Absence of affixes leads to a single optimal setup per slot.,,,,,,,,,,,,,1.0,"Persistent play can max non-paid gear/pets, though paid options remain stronger.",0.0,"Whales stronger, but core systems are accessible without paying.",,,,,,,,,,,
+46853894,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46853737,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Locked female protagonist and onboarding scene choices alienate some male players; gameplay simple but art comfortable.
+46841939,,,Turn-based with auto; requires manual or custom skill order due to poor auto AI; element-based teams; bosses with very high HP.,-1.0,Auto burns heals/buffs at bad times; long boss HP bars; no sweep for single-run instances.,"Elemental teams (4 now, likely 6 later); custom skill order; manual play recommended.",0.0,"Potential in skill order and element teams, but poor AI and overtuned HP reduce depth in practice.",-1.0,New players confused by unclear growth paths; grindy bosses gate gear mats; no sweep.,,,,,,,,,,,1.0,Timely server fixes with generous compensation during test.,True,30-pull pity for SSR.,1.0,"About 10 RMB per pull, cheaper than many contemporaries.",1.0,Not very pay-heavy; most features playable without heavy spend.,1.0,Light monetization feel during test and relatively cheap pulls.,1.0,Test rewards and compensations felt generous.,,,,,,,,,"Frequent crashes; no sweep; dungeon HP scaling extreme in new content (e.g., 40M+ HP)."
+46827288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Crashes resumed; too many bugs.
+46853304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Game loads into an unresponsive state; restart doesn’t help.
+46852920,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Login bug on some Wi-Fi networks; can update but cannot enter the game.
+46852852,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Currently relaxed play with decent rates in test; overall friendly experience.,,,,,,,,,,,Mixed gacha pool but feels good during test.
+46852310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46832958,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests sweep; performance issues with screen flicker leading to freezes.
+46851820,,,Instance grinding requires repeated manual runs; no quick/sweep.,-1.0,Repetitive dungeons without fast-clear options are tiring.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"200-pull selection returned only weapons, not characters; lacks sweep."
+46851689,True,Sexualized fanservice in some character art (though most female outfits are normal).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Prefers female-only MC; would like a skip feature; male characters feel scarce.
+46851291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frequent crashes and text encoding issues.
+46851167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cannot enter on day 2 due to persistent 'network problem'.
+46850948,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AI-generated-looking character art leads to rejection.
+46850372,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46850309,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests landscape mode; current experience feels lacking.
+46850299,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests landscape mode.
+46849849,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black screen after waking from sleep; must restart the app.
+46849729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Test benefits are attractive; could be playable at launch if maintained.,,,,,,,,,Initial gameplay felt stale; depends on story quality.
+46849692,,,"Idle-friendly progression with slow turn-based battles; only per-turn skip, no 2x speed.",-1.0,Combat pacing is slow with limited skipping and no speed-up.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AI-looking art; poor joystick feel; cumbersome UI flows; locked female MC and few male characters.
+46849599,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Becomes monotonous over time; requests more world and player interactions; asks if there are male characters.
+46848453,,,,,,,,,,,,,,,Guild-based co-op battles (guild war) alongside core PvE.,False,,,,,,,,,,,,,,,,,,,,,,,,,
+46848429,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests option to choose a male protagonist; locked female MC is off-putting.
+46840461,,,Pixel-style turn-based battles with auto mode; auto skill usage bug observed; lacks sweep for exp runs.,-1.0,Auto uses limited-per-turn skills less often than expected; repetitive runs without sweep.,,,,-1.0,Grindy experience and lack of sweep increase time cost.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Auto-battle bug; gacha characters lack story integration; pixel maps could be improved; very grindy.
+46847916,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests landscape mode option.
+46845293,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very high HP numbers suggest potential balance issues; device overheats; locked female protagonist questioned.
+46847752,,,Battles are very long and feel sluggish.,-1.0,Combat duration is excessively long.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Directional control uncomfortable; portrait orientation not preferred.
+46847370,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Test resources felt generous and rates high (though off-banner).,,,,,,,,,"Optimization issues (crashes, black screens, unresponsive nodes); urgently needs sweep due to auto-heavy gameplay."
+46847336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests in-game role comments; performance/overheating issues.
+46846781,,,,,,,,,,,,,,,,,,,,,,,True,30-pull pity for SSR.,1.0,About 1000 diamonds for a ten-pull; relatively cheap compared to peers.,,,,,,,,,,,,,,,Fixed center joystick; chest interaction detection issues; one-click team misleads; story average; poor duplicate handling for maxed weapons.
+46846783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cannot enter the game.
+46846433,,,Turn-based with long cooldown skills and buff stacking; can set up big single-skill bursts; weapons upgrade via duplicates; pets from gacha.,0.0,Mechanics are serviceable but not remarkable.,Skill cooldown management; buff stacking; four-person party with weapon/pet synergies; dupes for weapon upgrades.,0.0,Some timing and setup depth but constrained by linear systems.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Accidental mass-dismantle risk due to lack of lock; limited content; storyline skippable.
+46834733,,,Turn-based combat feels slow; lacks sweep and battle speed-up.,-1.0,Fights take too long without 2x speed; repetitive farming without sweep.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mini-map not useful (no zoom/position); performance a bit laggy.
+46846011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Great art, story, and music, but many bugs."
+46835912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Test welfare strong; small spend obtained most characters.,,,,,,,,,"Poor info guidance (unclear buffs, item sources); minimal map utility; asset reuse; many bugs."
+46845864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46844680,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Progress/resources lost after a story update.
+46844325,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frozen at a point; cannot move.
+46844253,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fun but buggy; occasional crashes; needs optimization.
+46844185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks whether landscape mode is supported.
+46827387,,,Auto-pathing and auto-battle exist but feel mismatched with the game's style.,0.0,"Overall okay, but automation hurts experience.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Annoying red-dot notifications; requests main story voice acting.
+46843571,,,Auto-battle sometimes only normal-attacks due to team preset bug; skill-queue system present but incomplete.,-1.0,Combat hindered by bugs and missing skill descriptions.,Team preset system and skill rotation customization (buggy).,-1.0,Potential depth undermined by bugs and lack of in-UI skill info.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frequent crashes; team reuse requires manual reconfiguration; combat power fluctuates unexpectedly.
+46843562,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Constant screen flickering causes eye strain; uninstalled.
+46843528,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Rewards for high ratings and in-game bug compensation perceived as generous.,,,,,,,,,Incentivized positive reviews (gems for high ratings); some bugs but responsible ops.
+46825160,,,,,,,,,,,,,,,Town facilities like a bakery producing stamina bread daily and a blacksmith offering weekly weapon packs alongside routine dungeon farming.,False,,,1.0,"Town outputs provide stamina and weapons, aiding progression.",,,,,,,,,-1.0,Mixed gacha pool and reliance on specific cores require many pulls; suggests monthly pass and UP pool improvements.,,,,,,,,,,,Requests lock features for items; sweeping after clears; co-op reward fairness; map markers; hero reset; detailed QoL proposals; concerns over mixed gacha and UP pool composition.
+46826556,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,Received 110 pulls as compensation during test; occasional extremely lucky ten-pulls.,,,,,,,,,Extended login outage; repeated crashes; requests sweep for solo dungeons; suspected shop listing bug; co-op support rewards sometimes missing.
+46842488,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46842449,,,Auto-pathing and auto-battle reduce exploration and combat engagement.,-1.0,Automation diminishes player agency in exploration and fights.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fixed joystick feels bad; no detailed map; frequent crashes.
+46842431,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe lag in test; optimization issues; cannot move.
+46842305,,,Auto-pathing/battle remove core fun; core loop is tower/dungeon grind; gacha includes five-element plus light/dark with constellations via dupes.,-1.0,Automation and half-finished state reduce combat enjoyment.,,,,-1.0,Daily income tied to tower progress increases pressure over story progression.,,,,,,,,,,,,,,,,,,,-1.0,"Mixed pools and duplicate requirements (e.g., 5 dupes) imply heavy long-term spend/grind.",2.0,"Test welfare excellent (e.g., 200+80 free pulls).",,,,,,,,,Severe bug after crash prevents creating solo dungeons; feels like a half-finished product.
+46842085,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Good mail rewards and solid art/mechanics during test.,,,,,,,,,Warns that predatory monetization would ruin the experience.
+46842049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Small update reduced shop resource availability unexpectedly.
+46841473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gacha split into five-element and light/dark pools; pulls grant power more than characters.
+46841438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Questions lack of male protagonist option.
+46841203,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hard-to-pull monster provides very strong support when borrowed.
+46840913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.0,Feels like a numbers-heavy webgame suited for big spenders,,,,,,,,,,,Stat-centric design; webgame/MMO feel
+46840886,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Suggests moving the skip button to bottom in portrait for one-handed play
+46840415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gameplay variety is low; requests a gallery to view full character illustrations
+46840156,,,,,,,,,,,,,,,,,,,,,,,True,SSR guaranteed at 30 pulls,,,,,,,1.0,Test period rewards felt generous,,,,,,,,,Control/hand-feel of the crank/joystick is uncomfortable
+46839784,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46839504,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Good gameplay but needs optimization
+46839268,,,"Auto-battle, attributes with strengths/weaknesses (GBF-like, portrait)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Tutorials lacking (fishing, attribute counters, gear/monster usage, progression); auto farming needs optimization"
+46839053,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Likes art and Western fantasy pixel vibe; dislikes co-op raids/guilds; hopes for deeper story focus
+46838922,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Clunky UI (especially weapon equip); combat and gacha okay; repeated crashes forced uninstall
+46838059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Critiques it as a 2025 GBF clone; questions GBF-style gameplay
+46837997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pixel sprites are blurry; cannot choose character gender; fixed-position d-pad feels bad in portrait; female character ratio too high
+46837702,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks whether the game has male characters
+46820679,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Positives: pixel art, lighting, music, easy growth, free weapons, skip/auto/auto-match. Issues: no detailed local maps, poor portrait joystick feel (wants tap-to-move or choice of joystick/D-pad), cumbersome page switching between characters and weapons, red-dot UX requires opening new items to clear"
+46818479,,,Turn-based battles,-1.0,Monotonous pacing; no sweep or battle speed in routine stages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maps small; wants tap-to-move/drag movement; missing skill descriptions cause confusion
+46837350,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frequent crashes (4–5 times); needs optimization
+46837066,,,Auto-battle available; AI uses buffs then skills; healers blow heals at start and die,-1.0,"Auto AI mismanages healing, causing wipes",,,,,,,,,,,,,,,,,,True,"30-pull pity for a gold/SSR (mixed pool, not necessarily UP)",,,,,,,,,,,,,,,,,"Many bugs (garbled data, gacha black screen, battle freezes, missing characters), mixed pool makes UP hard to get, very low monster drop rates (~0.03%), requests sweep for material stages, performance/heat/no VA/weak story (acknowledges CBT)"
+46836976,True,Sexualized female art with prominent cleavage and high exposure in character portraits (including the protagonist),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pixel environments neat but splash art over-sexualized; expected a classic RPG tone
+46836895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wants a summary when skipping story; requests touch-to-move controls
+46836527,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck after naming; cannot enter the game
+46830773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Art and core gameplay okay; optimization must improve
+46835990,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Casual/simple gameplay; requests multi-run (e.g., 1 run counts as 6) to save time when spending stamina"
+46835599,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Material stages lack speed and sweep; feels like forced online time in a grindy game
+46832809,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Glad a character returned; requests fixes for knight treasure settlement jump-to black screen bug
+46835294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Too many daily resource stages require watching battles; requests sweep or hidden auto-run and battle speed
+46835231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Post-update bug: dungeon button locked while others can play
+46834883,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Generous rewards during test; uncertain about launch difficulty,,,,,,,,,Overall fine in test phase
+46834856,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Rates not low and welfare fairly generous; no constellation system and no separate weapon banner,,,,,,,,,Story and character writing weak; vertical layout and activity pages feel like low-quality webgame; lighting/shadow on maps underwhelming
+46834674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Impressed overall; needs better guidance for pets and parts of battle system
+46834556,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Story feels childish and uninteresting; dropped immediately despite pretty visuals
+46834333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unclear positioning as a GBF-like; too many filler tasks; questions need for separate standard vs limited pools; performance issues (stutter/black screen/crash); large boss art blurry
+46834215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Portrait joystick position/sensitivity bad; large but under-interactive maps; low-quality tutorial videos; frequent crashes (shop, gacha 10-pull)"
+46834055,True,"Religious themes (gods, god-sword chosen hero, creation myths)","Auto-battle unlocks early; team includes characters, main weapon, and assisting monsters",1.0,"Combat feels rich by combining character, weapon, and monster systems; auto early",,,,,,,,,,,,,,,,,,,,,,,,,,2.0,Lots of free items; frequent SSR pulls compared to other games,,,,,,,,,Initial login stutter; pixel presentation could be sharper; unsure how to rename
+46833824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Story decent and designs okay; requests one-click sweep because stamina is time-consuming
+46833651,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46833638,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe bugs: post-crash rollback removed unlocked functions and settings; tasks demand equipping but features got rolled back
+46833500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Crashes when rolling; team swap in dungeon doesn’t swap MC weapon/job; uneven gacha outcomes between attributes; low drop rate for MC breakthrough certificates; requests sweep/speed; buff descriptions unclear
+46833412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Veteran GBF player suggests auto multi-battle and sweep for material stages to fit modern time constraints
+44473088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fixed-center joystick doesn’t follow finger; requires large thumb movement; uninstalled
+46832919,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Boring gameplay; gacha lacks skip for animation
+46832792,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cannot log in via Wi-Fi, only mobile data; concerned about launch server stability"
+46825423,,,,,,,,,,,,,-2.0,"Team-building is attribute-locked; skills and assists target same-attribute allies, encouraging pure-color teams",,,,,,,,,True,30-pull pity yields one gold/SSR (mixed pool with weapons and monsters; not necessarily UP),,,,,-1.0,Mixed pool and attribute-locked teams require dupes and building four teams,2.0,"Mail gave ~10,000 diamonds during test; 100 pulls yielded multiple SSRs",,,,,,,,,Characters come with their exclusive weapon; caps broken via dungeon; weapon/monster dupes needed; low UP rate in mixed pool
+46832540,,,"Turn-based GBF-like: queue skills/pet skills/ultimate, then auto attacks; long skill CDs; damage cap; simple chain presentation",-1.0,"Underwhelming presentation (chain as an image), damage cap, long CDs; grindy feel",Elemental attributes (fire/water/earth/wind) with mutual counters; 6-person teams; weapon/monster synergies,1.0,"Multiple synergies across elements, weapons, and monsters imply moderate tactical depth",,,,,,,Idle tower by attribute that generates resources per hour,False,1.0,Straightforward idle/tower accrual,,,,,,,,,,,,,,,,,,,,,,,High build demand (many chars/weapons/monsters across attributes); weapon upgrades with success chance; grind-heavy
+46832524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46832432,,,"Turn-based with customizable skill order (buffs first, attacks later)",-1.0,"Skill-order system is nice but buggy (icons vanish, skills fail) and very time-consuming; no battle skip",Customizable skill timeline; attribute purity for future meta,1.0,Skill-order customization adds tactical choices despite bugs,,,,,,,Attribute-based tower idle; long auto runs without skip,,-1.0,Tower/auto runs consume time and cause device heat without skips,,,,,True,30-pull pity; mixed pool; monsters hard to pull,,,,,,,,,,,,,,,,,"Poor joystick feel; coarse map; wants detailed mini-maps and fish list; many bugs (crashes, repeated gacha animation, avatar resets to MC, display issues); pesky NEW tags; suggests syncing MC job levels; needs detailed buff tooltips"
+46832312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Asks for portrait/landscape toggle; otherwise praises gameplay, art, and story"
+46832212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NPC dialogs have humor and details; writing praised
+46831926,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests sweep for cleared stages; grinding XP/materials is too time-consuming
+46831894,,,,,,,,,,,,,-1.0,Team composition constrained by attributes; lacks flexibility,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46831644,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Octopath art vibe and GBF feel; solid quality; could be a niche evergreen if details are polished
+46831433,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Support runs don’t consume stamina in test (only energy), enabling infinite material farm; unsure for launch"
+46831425,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Suggests limiting weapon loadout per character (1–2) as current multi-weapon system feels odd
+46831294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Many bugs; stuck at meteor shower; needed new phone number; still optimistic
+46831284,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.0,"Raising all-attribute teams requires massive resources, impractical for non-payers",-2.0,Full basic endgame teams across attributes estimated to cost extremely high (claims seven-figure RMB),,,,,,,,,,,Severe lag; optimization poor; attribute-locked team building multiplies resource costs
+46831204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46831184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GBF-like and enjoyable; story currently thin
+46831126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Server issues; draggy story with clichéd Western fantasy; pretty art but ugly/confusing UI; combat stuck between retro manual and auto—needs speed/sweep/AFK; MMO map with many players feels pointless; overall lacks innovation and modern pacing
+46830964,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feels like an idle game; suggests learning from Octopath Traveler
+46830379,,,,,,,,,,,,,,,,,,,,,1.0,Operators responsive about fixing bugs,,,,,,,,,1.0,Good welfare in test,,,,,,,,,Chinese GBF-like; requests bug fixes before launch
+46830124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,Welfare better than GBF; auto is smart,,,,,,,,,Needs server optimization and better auto settings; requests boss HP thresholds/special move markers; positive operator attitude
+46830074,,,,,,,,,,,,,,,,,,,,,2.0,Visible overtime bug-fixing and frequent dev interactions,,,,,,,,,,,,,,,,,,,
+46824270,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,"Very generous (10,000 crystals) if maintained at launch",,,,,,,,,
+46829954,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Improved completion vs earlier tests; still needs performance optimization; requests clickable buff detail tooltips; more pixel character cutscene staging
+46826385,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Octopath-like art very close; points off for unstable servers and confusing gacha design
+46829857,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46829669,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UI uncomfortable; wants customizable joystick position; chat as small icon; collapsible menus
+46829533,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Good core gameplay but visuals coarse and many bugs
+46829462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Only female protagonist; network unstable
+46829446,,,,,,,,,,,,,,,,,,,,,,,True,30 pulls guarantee a gold/SSR; exact rates unclear,,,,,,,,,,,,,,,,,
+46829420,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Card pool odd: pity resets on permanent SSR; low UP rate
+46829364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Image quality too blurry; pixel resolution seems low
+46829245,,,,,,,,,-1.0,Main story pacing slow to unlock new modes; rest is idle material grind,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pretty visuals but boring loop; little exploration desire
+46829146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cannot switch to landscape
+46829020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Got stuck after relogging; could only wander town
+46828890,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GBF-like; many bugs and frequent crashes; hopes for improvement at launch
+46828767,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Promo shows landscape but game is portrait; portrait reduces visual impact; account disappeared after first exit; early dialogue writing criticized
+46828762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Good operator attitude but weak technical execution
+46828725,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Many bugs: party screen black, main UI functions locked; core game is promising but needs fixes"
+46828639,,,,,,Attribute-locked team building,-2.0,Fixed-attribute comps make strategy feel absent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Beautiful art and okay story; gameplay repetitive
+46828587,True,"Sexual/romantic themes concern (forced female MC, fear of yuri/boyfriend-centric plots)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Forced female protagonist raises concern about romance direction
+46828405,,,,,,,,,,,,,,,,,,,,,,,False,N/A,,,,,,,,,,,,,,,,,Claims no pity; character and pet share one pool; mentions AI-generated art
+46828394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dismissed as a reskinned ‘Legend’; advises pixel-art fans to skip
+46828364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Positive first impression; Octopath-like art style
+46828300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Must re-login every launch; frequent disconnects; main quest area locked despite level 1; frustrated user experience
+46826374,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Login black screen with only music; reinstalling and multiple retries eventually worked
+46828092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Playable and likeable pixel style; major issues: freezes and black screens
+46809135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"HD-2D used mostly for maps/sprites; UI and item screens feel like generic MMO, causing tonal dissonance; character portraits lack Octopath/GBF quality"
+46827338,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Black screen after login with only BGM; many users affected
+46827337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Calls it an obvious GBF copy
+46827296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Forces login every time; repeated phone registration prompts
+46827086,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck on a persistent popup; downtime/lockout much longer than the 'short time' stated.
+46827073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Can't enter game; always shows 'no network connection'; technical/servers need polish.
+46826719,,,Party-based turn-based combat similar to GBF (Granblue Fantasy).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Server overload; cannot log in.
+46826418,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Likes art and music; requests dedicated gacha/BOSS phase music; red-dot UX is inconvenient; cannot quickly switch characters/weapons.
+46823494,,,Traditional turn-based battles.,-2.0,Calls turn-based 'the same old' and not fun.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No voiceover; UI looks like a reskinned web game; poor optimization; weak VFX.
+46826198,,,,,,,,,-1.0,Replaying cleared nodes without a sweep option wastes time in a stamina-driven grinder.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests sweep for cleared stages.
+46824528,,,,,,,,,-1.0,"Expects very grindy loops (endless dungeon runs), no battle speed-up.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Text quality/immersion issues; wants battle 2x speed, faster tower/challenges, better minimap; formation UI shows 'in use' across all teams; option to hide other players; side quests; multi-line dialogues."
+46826108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60 FPS setting not taking effect.
+46826030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46825898,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Server instability/rollbacks; purchases/progress lost after a rollback.
+46825773,,,Turn-based battles; feels repetitive; has auto pathing issues.,-1.0,Combat feels 'the same' and boring.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frequent disconnects; vertical-only; wants gender choice; auto-navigation unreliable; UI feels like mini-game.
+46825851,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No landscape mode; 60 FPS not applied (possible bug).
+46825824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Server quality issues; requests better servers.
+46825791,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Disconnected after naming; then unable to enter despite normal network.
+46825708,,,Turn-based with long fights and no battle speed-up; disconnects drop you from combat without reconnection.,-1.0,"Battles are slow, lack speed-up, and network blips force exits.",Attribute teams matter; weapon slot effects unclear; desires multi-attribute synergy.,-1.0,Limited synergy and unclear weapon-slot rules; single-attribute focus.,-1.0,"Design feels aimed at delaying progression (e.g., mob avoidance timers, slow loops).",-2.0,Large damage gap between SR and SSR at same level.,-1.0,Single-attribute meta reduces team-mix options.,,,,,,,,,,,,,,,,,,,,,,,,,,,Frequent crashes; no reconnection; joystick too high; can't hide activity panel; weak chest/interaction cues; boss room entry unclear; needs auto-match; inventory UX (exp tickets filtering) is tedious.
+46825665,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck on 'enter game'; inputs unresponsive.
+46825605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,"Says diamonds are plentiful, but many things require gacha; progress/upgrade guidance unclear.",,,,,,,,,Clunky UI; forced social 30-man boss rooms with ready griefing; frequent freezes/network drops.
+46825580,,,,,,,,,-1.0,Daily material dungeons cannot be swept; skip only jumps one round; very time-wastey.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests sweep for dailies.
+46825565,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Disconnected during a long tower fight, losing progress/time."
+46825545,,,,-1.0,Gameplay feels bland and lacks novelty beyond pixel art.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46817278,,,Old-style turn-based gameplay.,-1.0,Considers the gameplay outdated.,Weapon roster and pairing feel poor.,-1.0,Complaints about limited/unsatisfying weapon choices and combos.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Visual clarity issues; screen is harsh and hard to read.
+46825352,,,Octopath-like visuals with GBF-like gameplay (raids/weapon grid).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes for optimization and solid operations; many similar pixel games shut down.
+46825329,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46825218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Joystick sensitivity awkward on vertical; chat channels need separation; wants auto-path/auto-farm.
+46825053,,,"Turn-based, card/weapon-collecting meta with shallow co-op.",-1.0,Feels like traditional card-battle with limited co-op depth.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Multiple login prompts/forced re-login; co-op ready griefing without kicks or password; poor network; movement lag; persistent red-dot notifications; guild features feel useless; world-boss-like asynchronous combat not truly co-op.
+46825104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Needs richer SFX/music; red-dot UX; minimap cannot expand; monster designs rough; movement feels slippery/rotates.
+46825025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46824983,,,,,,,,,,,,,,,,,,,,,,,True,Character banner guarantees an SSR at 30 pulls.,,,,,,,,,,,,,,,,,Vertical-only movement feels bad; no landscape toggle; skills lack clear explanations; concerns about future resource scarcity and unit value.
+46824943,,,Traditional turn-based PvE with attribute teams and co-op bosses.,,,,,,,,,,,,,,,,,,1.0,Notes very active official communication/operations.,,,,,1.0,Believes grinding can substitute for spending to access content.,,,,,,,,,,,,,Wants landscape mode; suggests more social interactions in town.
+46824851,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Gacha introduction breaks narrative mood; prefers buy-to-play model.,,,,,,,,,,,
+46824826,,,GBF-like raid-and-grid gameplay.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46824669,,,Traditional turn-based with fixed skill sets per character.,,,,-1.0,Wants more complexity; current system is simple/light.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests a minimalist UI mode and ability to hide other players.
+46824638,,,,,,,,,-1.0,Cleared content cannot be swept; repetitive re-runs are tedious.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests sweep for repeatable content.
+46824629,,,,,,,,,-1.0,GBF-style grind across six attributes is exhausting; low population would make it worse.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduce grind; more attributes than expected (6).
+46824626,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Multiple freezes; crowd animations (players shaking heads) are distracting.
+46824335,,,,,,,,,-1.0,Main story and dungeon difficulties are day-gated; heavy reliance on daily co-op.,,,,,Co-op raid farming loop to obtain SSR beasts/weapons.,False,,,,,,,,,,,,,,,,,,,,,,,,,Feels like a raid-only game; limited variety.
+46824250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Joystick placed near screen center; very awkward to control.
+46824163,,,Turn-based PvE with lengthy fights.,-1.0,Battle duration too long; wants dungeon multi-run and tower speed-up.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests more challenge events.
+46823964,,,Octopath-style look with GBF-like weapon-grid combat.,,,Weapon grid is too uniform (one core weapon per element).,-1.0,Single viable weapon choice per element reduces build decisions.,,,,,,,Alchemy loop to craft BP/AP items by running around and gathering.,False,-1.0,Alchemy grind is tedious and time-consuming.,-1.0,"Despite effort, the payoff feels poor compared to GBF.",,,,,,,,,,,,,,,,,,,,,Skill icons/effects feel cheap; 60 vs 30 FPS feels the same; noticeable stutter.
+46823876,,,,,,,,,-1.0,Tower is slow with no skip; cleared dungeons lack sweep.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests skip/sweep.
+46823869,,,,-1.0,Constant fighting becomes boring despite liking the art/lighting.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46815980,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Protagonist is locked female; lack of gender choice hurts immersion.
+46823605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe overheating and stutter even on lowest settings.
+46823576,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Crashed at the gacha screen despite good art.
+46823457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46823440,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46823313,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Harsh transition animations causing stutter even at 60 FPS; no voiceover; skill/login UI feels cheap; no landscape adaptation for domestic market.
+46823306,,,"Turn-based battles with touch-to-start, simple animations.",,,"6-unit teams, 10+ weapons, 5 pets; same-element bonuses; multi-element team building likely required.",1.0,Many systems and element synergies add planning depth but also complexity.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female-protagonist locked criticized; joystick centered and unmovable; delay from contact to battle start.
+46823238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Co-op rooms often stalled by players not ready; needs redesign.
+46823148,,,Auto-battle without speed-up.,-2.0,Feels like a pure gacha auto-battler that undermines RPG appeal.,,,,,,,,,,,,,,,,,,,,,,,,-2.0,Monetization-centric design ('pure gacha') feels heavy and off-putting.,,,,,,,,,,,
+46822967,,,Turn-based combat.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Suspected AI-assist in art; severe stutter despite no heat on high-end device; early tutorial already off-putting.
+46822909,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wants richer overworld interactions (pets/NPC affinity, bounties); fishing input timing feels too coarse."
+46822805,,,,,,"Weapons give teamwide stats but passives only apply to same-element units, raising pairing costs.",-1.0,Attribute-locked weapon passives restrict flexible team-building.,,,,,,,,,,,,,,,True,30 pulls guarantee an SSR; limited UP banners can off-rate; one pull costs 100 gems (~¥10).,,,,,,,,,,,,,,,,,Severe lag/overheating; stutter during dialogue/movement/battles; wants hideable event/UP panels.
+46822613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46822479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43488420,,,,,,,,,,,,,,,,,,,,,,,True,Likely a 200-pull 'spark' to target a unit; large mixed pool causes frequent off-rate.,,,,,,,,,,,,,,,,,Requests guides/team recommendations; co-op rooms lack password/limits; someone can take your slot; occasional network reconnects.
+46822345,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks how to enable landscape mode.
+44917070,,,,,,,,,-1.0,Stamina limits and time-padding replace content; performance stutter persists.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not a satisfying 'looter' due to energy gating; frequent hitching.
+46822336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Praises locked female MC; night/day transitions are abrupt; general stutter issues.
+46822023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Early dialogue feels off-tone (NPC tells MC to 'get lost'); worldbuilding/role hierarchy feels weak.
+46821945,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Perceives it as a gacha- and recharge-driven online game under a single-player pixel facade.,,,,,,,,,,,
+46821906,,,,,,,,,,,,,,,,,,,,,,,False,,,,,,,,,,,,,,,,,,Many bugs; UP banner lacks specific pity; wants landscape mode and movable joystick.
+46821814,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Forced exit mid-fight due to 'battle exception'; co-op readying frequently blocked by cancellations.
+46821542,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46821284,,,Turn-based auto-battle; slow without speed multipliers.,-1.0,Needs 2x/4x speed; fights feel sluggish.,,,,-1.0,No sweep; co-op waits for many players to ready.,,,,,,,,,,,,,True,No per-pull pity; only a 'spark' exchange with four limited units sharing a banner.,,,,,,,,,,,,,,,,,Joystick can't be repositioned; heavy heating; job change doesn't inherit levels.
+46821148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Mixed pool off-rates often and free resources feel scarce.,,,,,,,,,Frustration with constant off-rates.
+46820628,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NPC dialogue is entertaining.
+46820571,,,,2.0,Finds the loot-grind very fun; vertical 'moyu' play is convenient; music/effects decent.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46820456,,,,,,,,,,,,,,,Exploration to collect junk items and alchemize them into stamina potions.,False,,,2.0,Alchemy refills stamina so progression isn't energy-gated.,,,True,30 pulls guarantee an SSR; no constellations/dupe system for characters.,1.0,100 gems per pull and abundant free income (100+ limited pulls day 1) feel fair.,,,,,2.0,"Day 1 rewards from dailies/weeklies/achievements gave 150+ pulls (100+ limited, ~50 standard).",,,,,,,,,No landscape; experience-book dungeon can't multi-run; co-op ready confirmation stalls runs; occasional crashes during purchase/single-pull.
+46820244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Overlong, restrictive tutorial auto-run; UI locked during auto-path."
+46820189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UP banner feels meaningless after three SSR off-rates.
+45005769,,,,,,,,,-1.0,Cleared solo stages lack skip (only per-turn skip); co-op has no skip; time-consuming.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Minor battle stutter; 60 FPS helps; no character dupe system but weapons have star ranks.
+46820171,,,,,,,,,-1.0,No sweep or multi-run; manual grinding despite many tests; low drop rates stretch playtime.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Art/illustration quality mismatch; hard-stalling via low material drops.
+46820051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30 FPS feels smoother than 60 FPS.
+46820022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests character side stories; item art style mismatch with main art; wants guaranteed paths for summons and better BP acquisition.
+46819957,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vertical mode causes eye fatigue; heavy stutter.
+46819877,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gameplay heavily focused on battles; limited story/exploration/collection.
+46819835,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cannot choose protagonist gender.
+46819803,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Loves art; would consider spending if other aspects are optimized.
+46819785,,,Turn-based with minions/companions and gacha elements.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46819731,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46819713,,,,-1.0,"Aside from visuals, nothing stands out.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46819708,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cannot find landscape/portrait toggle; settings only offer audio/graphics.
+46819607,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Accuses AI-assisted map pathing and asset plagiarism (similar to Honkai: Star Rail ticket texture).
+46819524,,,Auto-centric combat.,,,,-1.0,Says there's little strategy; spending dictates power.,,,,,,,,,,,,,,,,,,,,,-1.0,Perceived pay-to-win tilt.,,,,,,,,,,,
+46819486,,,GBF-like gameplay loop.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bugs present but acceptable to the reviewer.
+46819470,,,,,,Skill tree with free allocation; permanent stat gains via shard collection.,1.0,"Multiple growth layers (skills, shards) add planning without heavy constraints.",1.0,Smooth growth with flexible skill tree and shard-based permanent stats.,,,,,,,,,,,,,,,,,1.0,New-player friendly progression and generous rewards reduce need to pay.,,,2.0,Very generous: easy to reach 200 pulls; story grants 3 SSR for fire; materials/tower not gatey.,,,,,,,,,
+46819386,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Loves the map art; requests a full-time landscape mode.
+46819377,,,,-1.0,Hit SFX and skill VFX feel rough and unsatisfying.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Art/style is fine; lacks a landscape mode option.
+46819346,,,,,,Flexible skill tree; free build customization.,1.0,Skill tree allows自由 allocation and varied builds.,1.0,Generous resources and moderate material dungeon difficulty avoid progress gating.,,,,,Farm material dungeons and progress story to unlock resources.,,1.0,Material runs are straightforward and solo-friendly.,1.0,Diamonds easy to save; story grants 3 Fire SSRs; material drops adequate.,,,,,,,1.0,Solo play handles material stages well; free SSRs help new players push.,1.0,Test economy is generous; little pressure felt.,2.0,Diamonds easy to get; story gifts three Fire SSRs.,,,,,,,,,Small bugs/optimization issues but acceptable for a small studio test.
+46819284,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Virtual joystick is stuck near the screen center; requests customizable position.
+46819336,,,,,,,,,,,,,,,,,,,,,1.0,From 1st test to now the team has been iterating and fixing bugs based on feedback.,,,,,,,,,,,,,,,,,,,Notable improvement from very buggy early tests; small studio but receptive to feedback.
+46819297,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pixel art and BGM integration are highly praised; visually and aurally immersive.
+46819285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Severe stutter and frame drops; gacha froze with 'not responding'; caused dizziness after ~1 hour.
+46819283,,,GBF-like turn-based co-op raids focused on team/weapon-grid building and farming drops.,,,Weapon grid/team building; co-op raids; plate/party composition.,1.0,Grid/team building depth but onboarding is tough for new players.,-1.0,"Bugs, content gates, and an uneven growth curve impede progression.",,,,,,,,,,,1.0,Active dev replies and fixes during test.,,,,,,,,,,,,,,,,,,,Buggy with progress blocks; small studio but responsive.
+46819281,,,,-2.0,Felt there was no gameplay beyond visuals; suggested focusing on single-player story.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Aside from visuals, found it lacking in gameplay."
+45965955,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Main story about the meaning of life is deep and well-performed; strong voice acting and presentation; highly immersive.
+46819244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Install is about 2 GB; background’s 2.5D assets likely inflate size.,,,2.5D backgrounds look coarse; questions why a pixel game needs heavy 2.5D; complains about limited gameplay.
+46819231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Top-tier visuals but story and controls feel weak; vertical controls on iPad are awkward; requests landscape for better sightseeing.
+46819212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Great potential but test build underperforms; needs more polish from the small team.
+46819129,,,,-1.0,Battle transitions feel unnatural with stutters; bland hit SFX; enemies slide into contact instead of animating attacks.,,,,,,,,,,,,,,,,,,,,-1.0,Ten-pull cost feels high.,,,,,,,,,,,,,,,Praised art; suggested adding attack animations like Octopath; music/VFX average.
+46819104,,,,1.0,Combat feels chill/low-stress.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Likes the visuals and relaxed combat.
+46819048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Loves the high-quality, beautiful visuals."
+46812541,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Even at 60 FPS it feels laggy; frequent battle disconnects; high background resource usage; needs optimization.
+46818896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feels like a boring WeChat mini-game; not engaging.
+46818874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.0,"Obtrusive first-recharge and repeated cash shop prompts clutter the main UI, creating strong monetization pressure.",,,,,,,,,,,Requests a cleaner main screen without in-your-face recharge pages.
+46818807,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Visuals are good; says nothing besides art compares favorably to GBF.
+46818735,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Complains about a locked female protagonist.
+46817957,,,,-1.0,"Poor operation feel, underwhelming skill VFX, fixed joystick, and lack of landscape or map tap-to-move.",Elemental system; job change; auto team adjustment.,-1.0,"Systems feel confusing/overcomplicated (job level reset, element mismatch).",-1.0,Time-heavy grind with idle resources; little perceived payoff.,,,,,Idle/AFK resource accrual alongside grinding.,,1.0,AFK/idle loop is straightforward but not engaging.,-1.0,Resources gained from idle/grind feel stingy relative to time.,,,,,,,,,,,,,,,,,,,,,No landscape; fixed joystick; confusing job/attribute conversions; team auto-change misassigns elements.
+46818639,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vertical-only in test (dev says landscape exists but not enabled); blurry visuals; overall feels like a WeChat mini-game.
+46818564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks for a male protagonist option; default female MC breaks immersion for them.
+46818542,,,Turn-based battles with gacha (limited/standard/friend pools) and light overworld interactions.,-1.0,Dislikes long story and turn-based combat.,,,,,,,,,,"Overworld exploration with interactables, patrolling enemies, and treasure chests.",,1.0,Basic interactions add a small layer of variety.,,,,,,,,,,,,,,,,,,,,,,,Not their genre; left after ~30 minutes.
+46818522,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Bug: Exchanged UP-pool vouchers turned into standard-pool vouchers, preventing UP pulls."
+46818382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Issues: repeated reconnects entering battle; clunky map movement with heavy auto-pathing; odd character art; low gacha feedback; UP vouchers converted to standard; screen flicker; unengaging story.
+46818381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Top-tier rendering but severe cohesion issues: mismatched UI/portraits/fonts and pixel scales; music restarts on every scene change.
+46818352,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Finds the story cringe; report button seemingly ineffective.
+46818275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pre-download SMS verified, but login later fails with 'too frequent' attempts."
+46818256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Game locks the protagonist as female.
+46818173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46818131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Marketed like Octopath but now feels like a cash-grab pixel game; canceled reservation.
+46818090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mentions a 'disconnecting boss'—implies boss fight/network instability.
+46818086,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stuck in tutorial due to repeated 'network fluctuation'; had to replay 5–6 times without clearing.
+46818082,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Servers froze ~15 minutes after opening; asks for optimization.
+46818049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Likes aesthetics and feel; requests male/female MC choice; dislikes being forced as female and frequent yuri push.
+46818023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cutscene soft-lock during story.
+46818016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Only female protagonist selectable—deal-breaker for them.
+46817971,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests landscape/portrait toggle (tablet user).
+46817961,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Female MC locked; lag spikes when fighting the werewolf.
+46817937,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Looping network errors cause forced exits mid-battle; stuck at early game.
+46812924,,,Turn-based combat.,-1.0,Prefers real-time action like Battleheart; not interested in turn-based.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Would have preferred an ARPG combat model.
+46814715,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cannot enter the game.
+46813009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TapTap install directed to a sandbox path; game didn’t install normally.
+46811658,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46810884,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46807914,,,Turn-based combat.,-1.0,Doesn’t play turn-based despite liking the art.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Great art but won’t play due to turn-based combat.
+46807898,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Promised a fixed date but turned out to be a paid, data-wiping test—frustrating."
+46807457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46807426,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wishes it were an ARPG like Seiken Densetsu/Golden Sun with puzzles, not turn-based."
+46700684,,,Turn-based combat.,-1.0,Dislikes the game being turn-based.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46695236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Will rate well if servers don’t crash at launch.
+46686032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feels highly playable; art resembles Octopath; very期待.
+46613049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Appealed by Valkyrie theme and pixel art.
+46305986,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46184981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests an option to hide other players for story immersion; prefers a single-player feel despite multiplayer.
+46111574,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks why can’t download; wonders if there’s no CN server.
+45887800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Complains about selling test access codes; long-time tester didn’t get in; codes resold elsewhere.
+45647035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Calls it a low-quality 2D anime take on Octopath with little substance.
+45544306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Long reservation period; asks when it will actually release.
+45535182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45455211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45254471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45162669,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hopes it won’t use restrictive stamina, like GBF’s grind-friendly model."
+44876917,,,GBF-like gameplay loop.,1.0,Enjoyed the retro art and played daily during test.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Prefers this over other domestic GBF-likes (e.g., Artery Gear/悠久之树)."
+45003575,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Visuals strongly resemble Octopath Traveler.
+44974168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44966938,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gave a positive rating purely for the art direction.
+42513607,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Still not open; also complains their negative reviews get reported/removed.
+42512938,,,GBF-like turn-based co-op raids with weapon grid (10-slot) and summons; team is 3 frontline + 2 backline; raid farming core.,-1.0,No ultimate animations and repetitive actions; auto-behavior issues (later hotfixed) and early raid/co-op reward problems hurt feel.,Weapon grid building; multi-attribute teams; co-op raid rescue; job/class unlocks; summons; team slot management.,1.0,"Systems are deep but onboarding and QoL (filters, quick-join, guidance) lag behind; some design choices felt clunky.",-1.0,"Short content, quest/task bugs, and early economy issues (gold, drops) hindered progress (many later fixed).",,,,,"Overworld exploration (collecting light points/chests), daily material trials, tower (巴布塔) runs alongside raid farming.",,0.0,Exploration is simple but felt redundant; tower/dailies are straightforward loops.,1.0,"After fixes/events, raid/tower drop rates and gold improved (e.g., 100% drop windows, slime/gw gold).",2.0,"Rapid hotfixes and weekend work; multiple issues (drops, auto, team slot unlock, gold, story gate) addressed quickly.",True,Beginner pity: SSR guaranteed within 30 pulls; 10-pull costs 1500 premium currency.,1.0,Reasonable with 30-pull SSR pity and generous test rewards.,2.0,Test build offered effectively unlimited stamina/diamonds and high drops; F2P could access/play core modes fully.,1.0,Low pressure during test due to high welfare and pity.,2.0,"High welfare in test (daily/weekly/sign-ins, pity, boosted drops).",,,,,,,,,"Pain points included locked female MC, no fast travel, poor co-op rewards early, no sweeps, limited team slots (then reduced), weak guidance, no boss filters/quick-join; many were later fixed."
+44943561,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Says it feels similar to Brown Dust.
+44922621,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks if a buy-to-play (premium) version will be offered.
+44919642,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Art reminiscent of Triangle Strategy (NS).
+44915624,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Waited long; disappointed by female-MC lock and less inclined to play.
+44913364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44908424,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44900303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Impressed by detailed pixel art and layered world design; high expectations.
+44896673,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Test access grabbed by scalpers and resold at high prices; couldn’t play.
+44883410,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Claims story is rich; urges a quick launch.
+44876858,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Test access distribution felt like a hand-speed race; many codes appeared on resale markets; poor ops impression.
+44876428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scalpers took most test accounts; official may miss data; player couldn’t participate.
+44861214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Very attracted by the art style; hopes gameplay quality matches.
+44844171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44767648,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44759581,,,,,,Large variety of weapons and combinations.,,,,,,,1.0,Implied many weapon combinations enable different builds.,,,,,,,,,,,,,,,,,,,,,,,,,,,"References '114 weapons, 514 combinations'—suggests high build variety."
+44722410,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Notes it’s natively vertical; looks forward to it.
+44721196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jokes about playing many 'galgames' and having a bad premonition; still excited.
+44700478,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44681143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44676765,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Feels like watching a movie rather than playing a game.
+44673914,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Wants buy-to-play; worries heavy gacha/monetization will harm the experience.,,,,,,,,,,,
+44671018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44492701,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44426344,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44421162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weapon design feels off/strange.
+44328852,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44138092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44083985,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44066419,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Portrait/landscape orientation brings to mind Brown Dust 2.
+44021861,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43877514,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43867664,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes for rich gameplay; prefers portrait mode.
+43862070,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Criticizes it as an Octopath-style imitation lacking originality.
+43861117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Art style similar to Octopath Traveler; looks promising.
+43853975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Trailer visuals are too dark; prefers brighter scenes.
+43846388,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43842791,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wants cute-girls-bonding romance content.
+43839070,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Negative on weapon design (“septic tank weapon”).
+43828599,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dislikes invisible random encounters; wants visible enemies while traveling.
+43821108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes growth/upgrade demand won’t be too grindy for working players.
+43809841,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests a story skip option.
+43769836,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43763811,,,GBF-like turn-based combat with fast refresh and an auto-battle system where you can configure a per-skill timing/logic “skill axis.”,1.0,"Combat refresh is smooth and the configurable auto is powerful, though a save bug occurred.",Configurable auto skill rotation/logic; weapon-grid farming; co-op raids; guild war.,1.0,Per-skill timing and team logic add planning depth alongside grid/raid systems.,-1.0,Main story was short in the test.,,,,,"Two-feel structure: narrative main story and a GBF-style grind loop (farm weapon grid, co-op raids, guild war, dailies/weeklies).",False,-1.0,"Non-combat UX felt inconvenient (manual reward claiming, clunky navigation/load); suggests decoupling story from core grind.",,,1.0,A guild-war-like event was added during test and the team was responsive to feedback.,,,,,,,,,,,,,,,,,,,"Performance/optimization issues; rough collisions during cutscenes; sparse presentation/FX; inconvenient UI (no auto-claim, slow page loads, device lock, no multi-window)."
+43761849,,,GBF-style turn-based system.,1.0,Likes the GBF mode; overall first test felt acceptable though map interaction was thin.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Map interactions felt sparse; hopes combat and map systems will integrate more.
+43761110,,,Turn-based combat mirroring GBF with weapon grid and summon setups.,1.0,Familiar and easy to pick up; feels fine despite being somewhat old-school.,Weapon-grid building; summon synergy selection; team composition.,1.0,"Mature, build-oriented system; suggests guidance for new players.",,,,,,,,,,,,,1.0,Many test bugs but fixes came quickly after feedback.,False,"Reviewer proposes adding pity/exchange for key summons, implying no current guarantee for summons.",,,,,,,,,,,,,,,,,"Bugs and optimization issues (map loading problems, crashes, stutter)."
+43759747,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43746837,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests portrait/landscape screen switching; prefers landscape.
+43743281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43740193,,,,-1.0,Believes GBF-like design is a dead end.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43716183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43701673,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43688044,,,,,,,,,,,,,,,Mentions/anticipates casual multiplayer modes.,False,,,,,,,,,,,,,,,,,,,,,,,,,
+43687856,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Art style looks like Octopath Traveler 2; waiting and watching.
+43678099,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43672754,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43670677,,,Turn-based combat with chain attacks and detailed Full-Auto (FA) behavior settings.,0.0,"Core framework is fine, but poor optimization and unpolished UI/presentation hurt the experience.",Detailed FA configuration; soloable boss content; material dungeons.,1.0,FA rules enable nuanced automation and planning.,1.0,Progression felt smooth in test (materials not gated; story grants early SSRs).,-2.0,Reports an earth unit with permanent 500% DEF being overtuned.,,,,,,,,,,,,,,,,,1.0,Abundant test currency and freebies reduced perceived spending pressure.,2.0,Received many diamonds (~200 pulls) and story awarded 3 SSRs during test.,,,,,,,,,"Severe performance/optimization issues; rough UI (plain '4chain' text, color-block UI); wants main screen to show character artwork."
+43668707,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43665707,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42512839,,,Time-limited turn-based battles with a weapon-grid system.,1.0,Finds the weapon-grid approach novel and fun.,High-DIY weapon-grid builds; multiplayer co-op raids.,2.0,High DIY build freedom and co-op coordination add depth.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"First-test had many issues, notably optimization."
+43663053,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes the game finds its own unique features.
+42514103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Criticizes lack of changes/improvements.
+43661975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43660091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43649608,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Would play if buy-to-play; wary of F2P monetization.,,,,,,,,,,,
+43643920,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Test qualification required following the account without prior notice, leading to frustration."
+43642206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43636353,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Did not receive test qualification despite following; unfollowed in frustration.
+43632902,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Calls it a poor imitation of Octopath Traveler.
+43626027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43619530,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43594167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43557753,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43552264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43551866,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43545961,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43529555,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43506239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43494833,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,An advertisement popped up when applying for test qualification.
+43493071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes the gameplay will be fresh; requests test access.
+43492891,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43492350,,,,,,,,,,,,,,,Multiplayer co-op/casual modes are a key draw.,False,,,,,,,,,,,,,,,,,,,,,,,,,
+43492207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43492184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43490604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43490160,,,,,,,,,-1.0,Tried a prior test but didn’t continue playing.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43488696,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43487697,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43487419,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Accused of copying Octopath Traveler; asks for innovation.
+43485018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43344436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43273633,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43130043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43083371,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43042282,,,,,,,,,,,,,,,Loot grind with online co-op is a main attraction.,False,,,,,,,,,,,,,,,,,,,,,,,,,
+43022147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43012029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42894818,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42851525,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42790476,,,,,,,,,,,,,,,Online co-op is expected and valued for long-term play.,False,,,,,,,,,,,,,,,,,,,,,,,,,
+42781567,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42759016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42758152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42714567,,,,,,,,,,,,,,,"Behind an initial farming/relax impression, the meta appears to be GBF-style grinding.",False,,,,,,,,,,,,,,,,,,,,,,,,,
+42634619,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42614442,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Warns that copying Octopath’s visuals isn’t enough; hopes for unique class/ability mechanics.
+42610516,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42604818,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42604589,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42602763,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Highlights that it supports switching between portrait and landscape.
+42601956,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Identifies it as a gacha; hopes welfare comparable to Brown Dust 2
+42584454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Unclear gameplay; speculates multiple possible modes (separate battle screen, action with timer, grid tactics, or idle story mode)"
+42580931,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Criticizes trailer using English/Japanese instead of Chinese
+42580845,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42576738,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes generosity/welfare will be good
+42573699,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compares it to a domestic GBF and is eager to try
+42572297,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.0,Rejects playing due to gacha; expresses preference to spend money elsewhere,,,,,,,,,,,
+42568919,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Prefers a buyout model; disappointed it seems GBF-like (gacha),,,,,,,,,,,
+42566542,,,,,,Multiplayer co-op,1.0,States co-op is the most important aspect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Asks about an 'F5' feature; dismisses buyout expectations, emphasizing co-op"
+42559575,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes for a buyout model
+42550152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42548239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Pre-registration 'ten-pull' deterred them; dislikes gacha structure,,,,,,,,,,,
+42546691,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Wanted a buyout Octopath-like RPG; seeing gacha removed desire to play,,,,,,,,,,,
+42545860,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Will rate low if it includes a 'stone' system (likely stamina/energy)
+42545046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Notes GBF’s systems are dated but have merits; hopes the game keeps the good parts
+42544638,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes for Octopath-level quality and a buyout model
+42538968,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests good mobile optimization; otherwise will use emulator
+42536815,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Seeing a pre-reg ten-pull erased desire to play,,,,,,,,,,,
+42536386,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42533381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42533299,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42531897,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42530591,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42530419,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Praises vertical (portrait) orientation and art; says it has a Shadowverse vibe
+42529598,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42526144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Complains games are tied to gacha/lotteries,,,,,,,,,,,
+42525945,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42525550,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Fears a gacha + instanced dungeon ARPG loop similar to Laplace M; prefers not having instanced ARPG focus,,,,,,,,,,,
+42524968,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-2.0,Strongly opposes gacha,,,,,,,,,,,
+42524911,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42524820,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42524741,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42524583,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Dislikes card locks and limited banners; can keep playing if these are avoided and prefers buyout,,,,,,,,,,,"Wants a story-rich, anime-like experience"
+42524431,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Supports portrait (vertical) mode
+42524330,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42524194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42523175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42523150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Says character art and UI look cheap; predicts failure unless improved
+42522007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42521601,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Questions gameplay depth and controls; dislikes vertical or orientation switching; worries about grind and inflated ratings; urges focus on making it fun
+42520686,,,,,,Weapon build system; multiplayer co-op,1.0,Mentions portrait mode with weapon builds and co-op that look fun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42520492,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42520234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42520007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42519832,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42519557,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42519484,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42519283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42519094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks for generous launch rewards
+42518014,,,,,,Large number of weapons and combinations,1.0,"Highlights '114 weapons, 514 combinations' implying build options",,,,,1.0,Notes many weapon combinations indicating build diversity,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42517469,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42517312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42517284,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Advocates branching narrative with moral choices and stronger immersion; asks about buyout vs F2P monetization direction
+42517249,,,,,,Multiplayer co-op,1.0,Says co-op gameplay is eye-catching,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42517172,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42517152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42516824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42516745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42516614,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42516452,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42516168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42515883,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Will avoid if it is turn-based
+42515822,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wants a domestic GBF competitor; rallying to surpass Cygames
+42515784,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42515372,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42515162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42515104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks if there is an affection/relationship system
+42515054,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42514957,True,Mentions 'homo' content in gallery images,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Likes the look but complains about pervasive 'homo' content in the gallery
+42514895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42514820,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No combat footage shown yet; hard to evaluate
+42514232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42514142,,,,,,Portrait mode; multiplayer co-op; social systems,1.0,Requests unique combat design not dominated by stat-carry; wants social emphasis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42514100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes it can compete with GBF; guild plans to migrate if good
+42513980,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unsure about grind level despite promising visuals and gameplay
+42513914,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513879,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Asks to avoid 'door in/out' layering plus gacha like a competitor,,,,,,,,,,,
+42513713,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wants richer gameplay with lower grind; eager for a test build
+42513662,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513543,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-1.0,Opposes Octopath-style gacha with 5-star packs,,,,,,,,,,,
+42513541,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513494,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513458,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513352,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42513090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Asks about drops for certain 'beast sprites', implying loot expectations"
+42513040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mentions Apple/iOS playability (“can play on ”).
+42513006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes it can be a strong competitor to Granblue Fantasy.
+42512886,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Requests high-quality character illustrations; concerned about cost-cutting on art.
+42512832,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks about dark element strength and gender composition; would avoid if dark roster is all female.
+42512830,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Praises visuals; hopes for strong story and music.
+42512811,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Concerned whether the production quality (art, music) can match Octopath Traveler standards."
+42512783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Likes the screenshots/art; excited and waiting.
+42512704,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Art style appeals; hopes it turns out to be a good game.
+42512580,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Perceives it as an anime-style/pixel Octopath Traveler.
+42512504,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,On-hold; asks if it’s similar to Octopath Traveler.
+42512435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pre-registered due to art, promo image, and song; loves pixel-style games."
+42512275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Thinks it looks like Octopath Traveler.
+42512196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks when it will launch.
+42512130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Notes existing Octopath-like mobile competitors; expects HD-2D quality at least at Octopath Traveler 2 level.
+42512075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Likes the art style and is looking forward to it.
+42512072,,,Turn-based combat (inferred from trailers).,-1.0,User doesn’t like turn-based games and says it looks turn-based.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Turn-based presentation is a turn-off for this user.
+42512046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Trailers/promo look very strong; highly anticipated.
+42511872,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mixed on pixel style; says art resembles GBF and color tone like Shadowverse; feels too dark and prefers brighter palette; waiting to see character art and gameplay.
+42511818,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gives a 5-star pre-rating influenced by the high current score.
+42511790,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hopes it becomes a quality domestic Granblue Fantasy-like game.
+42511672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wants a Chinese equivalent to Granblue Fantasy.
+42511378,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks about the release date.
+42511215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Loves this art/style of game.
+42511130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asks if there is an overseas/global version to play first.

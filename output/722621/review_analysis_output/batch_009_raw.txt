@@ -1,0 +1,101 @@
+[
+  {
+    "q0": 42513040,
+    "q41": "Mentions Apple/iOS playability (“can play on ”)."
+  },
+  {
+    "q0": 42513006,
+    "q41": "Hopes it can be a strong competitor to Granblue Fantasy."
+  },
+  {
+    "q0": 42512886,
+    "q41": "Requests high-quality character illustrations; concerned about cost-cutting on art."
+  },
+  {
+    "q0": 42512832,
+    "q41": "Asks about dark element strength and gender composition; would avoid if dark roster is all female."
+  },
+  {
+    "q0": 42512830,
+    "q41": "Praises visuals; hopes for strong story and music."
+  },
+  {
+    "q0": 42512811,
+    "q41": "Concerned whether the production quality (art, music) can match Octopath Traveler standards."
+  },
+  {
+    "q0": 42512783,
+    "q41": "Likes the screenshots/art; excited and waiting."
+  },
+  {
+    "q0": 42512704,
+    "q41": "Art style appeals; hopes it turns out to be a good game."
+  },
+  {
+    "q0": 42512580,
+    "q41": "Perceives it as an anime-style/pixel Octopath Traveler."
+  },
+  {
+    "q0": 42512504,
+    "q41": "On-hold; asks if it’s similar to Octopath Traveler."
+  },
+  {
+    "q0": 42512435,
+    "q41": "Pre-registered due to art, promo image, and song; loves pixel-style games."
+  },
+  {
+    "q0": 42512275,
+    "q41": "Thinks it looks like Octopath Traveler."
+  },
+  {
+    "q0": 42512196,
+    "q41": "Asks when it will launch."
+  },
+  {
+    "q0": 42512130,
+    "q41": "Notes existing Octopath-like mobile competitors; expects HD-2D quality at least at Octopath Traveler 2 level."
+  },
+  {
+    "q0": 42512075,
+    "q41": "Likes the art style and is looking forward to it."
+  },
+  {
+    "q0": 42512072,
+    "q3": "Turn-based combat (inferred from trailers).",
+    "q4": -1,
+    "q5": "User doesn’t like turn-based games and says it looks turn-based.",
+    "q41": "Turn-based presentation is a turn-off for this user."
+  },
+  {
+    "q0": 42512046,
+    "q41": "Trailers/promo look very strong; highly anticipated."
+  },
+  {
+    "q0": 42511872,
+    "q41": "Mixed on pixel style; says art resembles GBF and color tone like Shadowverse; feels too dark and prefers brighter palette; waiting to see character art and gameplay."
+  },
+  {
+    "q0": 42511818,
+    "q41": "Gives a 5-star pre-rating influenced by the high current score."
+  },
+  {
+    "q0": 42511790,
+    "q41": "Hopes it becomes a quality domestic Granblue Fantasy-like game."
+  },
+  {
+    "q0": 42511672,
+    "q41": "Wants a Chinese equivalent to Granblue Fantasy."
+  },
+  {
+    "q0": 42511378,
+    "q41": "Asks about the release date."
+  },
+  {
+    "q0": 42511215,
+    "q41": "Loves this art/style of game."
+  },
+  {
+    "q0": 42511130,
+    "q41": "Asks if there is an overseas/global version to play first."
+  }
+]

@@ -1,0 +1,684 @@
+[
+  {
+    "q0": 38112717,
+    "q3": "Power-scaling, one-hit-kill style disguised as an anime card game.",
+    "q4": -2,
+    "q5": "Called it a reskinned 'one slash 999' game and uninstalled after bad pull results.",
+    "q25": -2,
+    "q26": "200 pulls on relics with nothing decent; very poor value and experience.",
+    "q41": "Feels like a browser/idle power-fantasy game under an anime skin."
+  },
+  {
+    "q0": 38112647,
+    "q27": -2,
+    "q28": "Next-stage rewards are locked behind payments (e.g., need to top-up 18 RMB to claim).",
+    "q29": -2,
+    "q30": "Blatant paywalling of mission rewards; pay once to unlock, next stage 'free' bait."
+  },
+  {
+    "q0": 38112479
+  },
+  {
+    "q0": 38111945,
+    "q23": true,
+    "q24": "Has a 'path' or targeted guarantee system; user hit the target immediately.",
+    "q25": 1,
+    "q26": "Positive experience with targeted guarantee ('pathing') working quickly."
+  },
+  {
+    "q0": 38111407,
+    "q1": true,
+    "q2": "Heavy censorship of character art (suggestive content toned down).",
+    "q23": false,
+    "q25": -2,
+    "q26": "UP banner 3% vs standard 5%; 70 pulls yielded two SSRs but none were rate-up and no visible guarantee.",
+    "q41": "Story pacing too fast; later chapters lack voice acting."
+  },
+  {
+    "q0": 38091843,
+    "q9": -2,
+    "q10": "Key gacha selections unlock very late (third selection at Chapter 50).",
+    "q31": -2,
+    "q32": "Marketing claims like '3650 pulls' feel misleading due to extreme chapter gates."
+  },
+  {
+    "q0": 38110628,
+    "q27": -2,
+    "q28": "Non-paying progression feels meaningless versus paying; heavy monetization gates.",
+    "q29": -2,
+    "q30": "Constant monetization and extended grind via meaningless tasks.",
+    "q31": -2,
+    "q32": "Resources described as 'garbage'; paying one day beats a year of F2P.",
+    "q9": -2,
+    "q10": "Progress padded with time-wasting tasks, pushing players to pay."
+  },
+  {
+    "q0": 38110393,
+    "q23": true,
+    "q24": "User reports a large pity at 300 pulls and milestone unlocks at Chapters 10/20/50.",
+    "q25": -2,
+    "q26": "Very high pity cost and long tutorial; freebies are gated by deep chapter progress.",
+    "q9": -2,
+    "q10": "Gacha and rewards locked behind Chapter 10/20/50 milestones.",
+    "q29": -2,
+    "q30": "Feels like a polished pay-to-win browser game with an excessively long tutorial."
+  },
+  {
+    "q0": 38109672,
+    "q41": "No auto progression/sweep; manual play feels exhausting."
+  },
+  {
+    "q0": 38109155,
+    "q3": "Turn-based but heavily number-driven; rigid and dated mechanics.",
+    "q4": -2,
+    "q5": "Described as a pure stats game with unclear values and poor mechanics; worse than old titles.",
+    "q6": "Mechanics light; mostly number checks; comparisons to older turn-based titles.",
+    "q7": -2,
+    "q8": "States that turn-based games need mechanics but this one lacks them; strategy feels absent.",
+    "q41": "Stats are unclear; claims of probability-based nerfs."
+  },
+  {
+    "q0": 38109128,
+    "q27": -2,
+    "q28": "Monthly pass/low spenders get little advantage; either go whale or don't bother.",
+    "q29": -2,
+    "q30": "Whales dominate; duplicates provide huge power; micro-spending feels meaningless.",
+    "q31": -1,
+    "q32": "Welfare is only average; progression tied to heavy spending.",
+    "q41": "Rolling servers and pay-driven progression."
+  },
+  {
+    "q0": 38109077,
+    "q25": 1,
+    "q26": "User perceives high drop rates compared to expectations."
+  },
+  {
+    "q0": 38108055,
+    "q1": true,
+    "q2": "Censored artwork (fanservice toned down).",
+    "q9": -2,
+    "q10": "Boring grind and frequent stuck points; poor progression even after significant spend.",
+    "q29": -2,
+    "q30": "Described as very pay-to-win with poor overall satisfaction.",
+    "q31": -2,
+    "q32": "Welfare is poor; multiple hard pities experienced despite spending.",
+    "q25": -2,
+    "q26": "Multiple hard pity experiences; gacha felt very bad."
+  },
+  {
+    "q0": 38105168,
+    "q29": -2,
+    "q30": "Heavy grind and spending pressure; frequent off-banner pulls.",
+    "q31": -2,
+    "q32": "Stingy rewards with overwhelming task and battle volume.",
+    "q41": "Excessive number of tasks and battles."
+  },
+  {
+    "q0": 38097240,
+    "q27": -2,
+    "q28": "Exclusive pay-only content considered unacceptable.",
+    "q25": -2,
+    "q26": "Perceived lowest practical drop rates and suspected stealth changes.",
+    "q29": -2,
+    "q30": "Criticizes pay-exclusive advantages and poor rates.",
+    "q41": "Accusation of stealth rate modifications."
+  },
+  {
+    "q0": 38107764,
+    "q27": -2,
+    "q28": "Implied that free-to-play is unrealistic.",
+    "q29": -2,
+    "q30": "Publisher known for heavy monetization; expects players to pay."
+  },
+  {
+    "q0": 38107757,
+    "q1": true,
+    "q2": "Sexualized character designs (e.g., stockings fetish)."
+  },
+  {
+    "q0": 38107566,
+    "q1": true,
+    "q2": "Censored fanservice art; sexualized content toned down.",
+    "q3": "Turn-based with heavy automation; skills feel auto-cast with little player control.",
+    "q4": -2,
+    "q5": "Player cannot freely use skills; feels like the weakest form of turn-based.",
+    "q23": true,
+    "q24": "Reported 50-pull small pity and a 250-pull guarantee for limited; user claims you need four cycles to secure the limited.",
+    "q25": -2,
+    "q26": "High hard pity and multiple cycles needed to secure rate-up feels punishing.",
+    "q27": -2,
+    "q28": "PvP and rewards heavily favor spenders; frequent pay prompts after losses.",
+    "q31": -2,
+    "q32": "Newbie welfare criticized; 10-chapter gate for rewards and constant pay prompts."
+  },
+  {
+    "q0": 38107228
+  },
+  {
+    "q0": 38107038,
+    "q25": 1,
+    "q26": "Daily free 10-pull (though non-stacking) and free hero help value perception.",
+    "q31": 1,
+    "q32": "Free hero and daily 10-pull give a decent amount of free content early.",
+    "q41": "Daily 10-pull cannot accumulate; must be used the same day."
+  },
+  {
+    "q0": 38106689,
+    "q1": true,
+    "q2": "Suggestive 'waifu' appeal is a core draw.",
+    "q25": 1,
+    "q26": "Described as a 'satisfying' gacha experience; main draw is collecting characters."
+  },
+  {
+    "q0": 37843972,
+    "q1": true,
+    "q2": "Censorship in CN server (added clothing) and mention of a marriage system.",
+    "q25": 1,
+    "q26": "CN server has lower pull cost (150 gems vs 200 in global) and single-UP banners.",
+    "q27": -2,
+    "q28": "States 0-spend is a nightmare and monetization options are overwhelming.",
+    "q29": -2,
+    "q30": "Aggressive monetization, frequent recharge prompts, and many paid bundles.",
+    "q41": "Marriage/oath system boosts stats; CN has high-FPS mode and single-UP banners."
+  },
+  {
+    "q0": 38106438,
+    "q1": true,
+    "q2": "Live2D animations and suggestive movement cause embarrassment."
+  },
+  {
+    "q0": 38106042,
+    "q41": "Overlong ultimate animations and prolonged forced tutorial reduce engagement."
+  },
+  {
+    "q0": 38105848,
+    "q29": -2,
+    "q30": "Summarized as grindy, stingy, and monetized."
+  },
+  {
+    "q0": 38105754,
+    "q29": -2,
+    "q30": "Heavily gated by spend/time; long tutorial and daily chores without convenience features.",
+    "q9": -2,
+    "q10": "Non-spenders hit walls; dailies are manual with no one-click options.",
+    "q41": "Very long tutorial; device overheating; lack of auto/one-key features."
+  },
+  {
+    "q0": 38105600
+  },
+  {
+    "q0": 38105462,
+    "q3": "Power-based, low-interaction combat.",
+    "q4": -2,
+    "q5": "Game values raw combat power; little interactivity.",
+    "q6": "Strategy is minimal; mostly power checks.",
+    "q7": -2,
+    "q8": "Described as having very low strategic depth."
+  },
+  {
+    "q0": 38105240,
+    "q31": 1,
+    "q32": "Hundreds of free pulls feel good even if each selection can only be claimed once.",
+    "q25": 1,
+    "q26": "Free pulls provide a satisfying early gacha experience."
+  },
+  {
+    "q0": 38105224,
+    "q1": true,
+    "q2": "Censored artwork; request for uncensored (FHX).",
+    "q25": 1,
+    "q26": "CN pricing felt cheaper and acceptable; micro-spend viable though pop-up bundles are intrusive.",
+    "q29": -1,
+    "q30": "Frequent bundle pop-ups are a noted annoyance.",
+    "q41": "CN-exclusive 60 FPS; frequent monetization pop-ups."
+  },
+  {
+    "q0": 38105049,
+    "q27": 1,
+    "q28": "As a 0-spender, could progress by leveling and cultivating without obvious blocks.",
+    "q9": 1,
+    "q10": "No notable early walls; leveling/power-up allows continued progression."
+  },
+  {
+    "q0": 38104820,
+    "q29": -2,
+    "q30": "Game spammed with monetization and heavy daily workload.",
+    "q31": -1,
+    "q32": "Advertised 200 pulls require reaching Chapter 20 and are limited to two selections.",
+    "q41": "Too many daily tasks; Abyss resets daily and lacks one-click/sweep; leaderboard credibility issues."
+  },
+  {
+    "q0": 38104123,
+    "q41": "Music perceived as similar to Punishing: Gray Raven."
+  },
+  {
+    "q0": 38104113,
+    "q1": true,
+    "q2": "Sexualized themes (black/white/skin-colored stockings) and 'raising daughters' vibe."
+  },
+  {
+    "q0": 38104006,
+    "q31": -2,
+    "q32": "Very stingy stamina; diamonds are mostly one-time from clears.",
+    "q23": true,
+    "q24": "Small pity at 50 pulls; user mentions needing three cycles to secure a guaranteed hit.",
+    "q25": 1,
+    "q26": "Despite multiple cycles to pity, 50-pull small pity felt acceptable to this user.",
+    "q3": "Idle/power-fantasy 'Legend'-like combat with long animations.",
+    "q4": 0,
+    "q5": "Average enjoyment; pacing issues due to stamina and animation length."
+  },
+  {
+    "q0": 38081488,
+    "q9": -2,
+    "q10": "Free 100-pull claims are gated deep in story (e.g., 50 chapters).",
+    "q31": -2,
+    "q32": "Freebie pulls require excessive story progression; feels like bait-and-switch marketing."
+  },
+  {
+    "q0": 38102879,
+    "q27": -2,
+    "q28": "Paid skins grant 10% all-stats; strong pay-only advantage.",
+    "q29": -2,
+    "q30": "P2W skins providing significant permanent stat boosts."
+  },
+  {
+    "q0": 38102557,
+    "q31": -2,
+    "q32": "Resources and progression described as 'painful'.",
+    "q9": -2,
+    "q10": "Overall growth experience is frustrating.",
+    "q25": -2,
+    "q26": "Gacha experience described as extremely bad."
+  },
+  {
+    "q0": 38102363,
+    "q23": true,
+    "q24": "50-pull small pity and 250-pull hard pity; UP resets when off-rate; need ~12 copies to max.",
+    "q25": -2,
+    "q26": "Very costly pity and duplicate requirements; low value and poor UP retention.",
+    "q27": -2,
+    "q28": "Ordinary players need large spend to get acceptable experience; micro-packs are weak.",
+    "q29": -2,
+    "q30": "Multiple fund types, passes, and expensive bundles strongly push spending.",
+    "q31": -2,
+    "q32": "Daily diamond income is very low; most resources locked behind paid bundles.",
+    "q15": "Routine of world/raid bosses, guild bosses, towers (general and faction), daily resource dungeons, and arena.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Standard card-RPG loops; quick daily collection then 'idle' play.",
+    "q19": -1,
+    "q20": "Secondary modes give limited resources; heavy reliance on paid bundles."
+  },
+  {
+    "q0": 38102222,
+    "q23": true,
+    "q24": "Small pity around 50 per cycle, but repeated off-banner results.",
+    "q25": -2,
+    "q26": "150 pulls, three pities, all off-rate; very poor UP reliability."
+  },
+  {
+    "q0": 38101433
+  },
+  {
+    "q0": 38101252,
+    "q1": true,
+    "q2": "Heavily sexualized art in other regions; CN version censored and no anti-censor available.",
+    "q3": "Power-based, 'one slash 999' style with minimal gameplay depth.",
+    "q4": -2,
+    "q5": "Described as a flashy browser-like game relying on power stacking and fragments.",
+    "q27": -2,
+    "q28": "Many overlapping fragment systems and paywalls make non-spender progress extremely hard.",
+    "q29": -2,
+    "q30": "Aggressive monetization across weapons, gear, artifacts, and duplicates.",
+    "q41": "Claims of deceptive 'anti-censor' promises and heavy fragment-based progression."
+  },
+  {
+    "q0": 38101248,
+    "q3": "Battles can be skipped starting at Chapter 3; PvP is limited.",
+    "q4": 1,
+    "q5": "Skip reduces time spent in stages; user likes this QoL.",
+    "q41": "PvP content feels lacking."
+  },
+  {
+    "q0": 38101198,
+    "q9": -2,
+    "q10": "Difficulty spikes after Chapter 30; stringent chapter gates for self-select 10-pulls.",
+    "q31": -2,
+    "q32": "Diamonds scarce; gold insufficient for upgrades; weapon/char dupes are costly.",
+    "q23": true,
+    "q24": "Nearly always hitting pity; small pity ~50; weapon banner requires both maxed unit and weapon.",
+    "q25": -2,
+    "q26": "High cost of character and weapon dupes; frequent pity hits.",
+    "q3": "Basic turn-based; early dungeons are easy but later are very hard.",
+    "q4": -1,
+    "q5": "Early game is straightforward; later content becomes frustrating."
+  },
+  {
+    "q0": 38101061,
+    "q31": 1,
+    "q32": "Launch welfare allowed for a burst of pulls early, though interest faded quickly."
+  },
+  {
+    "q0": 38100355,
+    "q1": true,
+    "q2": "Relies on sexualized art; CN version censored."
+  },
+  {
+    "q0": 38099492,
+    "q31": -1,
+    "q32": "Launch freebies are scarce; SSR self-select requires clearing stages.",
+    "q9": -1,
+    "q10": "Must progress story to unlock initial SSR selection."
+  },
+  {
+    "q0": 38099241,
+    "q1": true,
+    "q2": "Censored character art.",
+    "q41": "Heavy daily routine across multiple sweep modes; high complexity in intimacy and growth systems."
+  },
+  {
+    "q0": 38097178
+  },
+  {
+    "q0": 38096897,
+    "q27": -2,
+    "q28": "Non-spenders have no viable experience; early PvP is dominated by whales.",
+    "q29": -2,
+    "q30": "Huge gap between paying and non-paying players.",
+    "q23": true,
+    "q24": "UP banner reportedly has a 250-pull hard pity.",
+    "q25": -2,
+    "q26": "Very high pity threshold and heavy power gap."
+  },
+  {
+    "q0": 38096602,
+    "q41": "Proliferation of private servers within days of launch; poor enforcement."
+  },
+  {
+    "q0": 38095957,
+    "q1": true,
+    "q2": "Censored art; loss of fanservice appeal.",
+    "q29": -2,
+    "q30": "Stamina constraints, many materials, cross-server PvP, and monetized events frustrate progress.",
+    "q31": -1,
+    "q32": "Event shops feel impossible to clear without spending.",
+    "q41": "Stamina stingy; too many upgrade materials; cross-server PvP increases pressure."
+  },
+  {
+    "q0": 38095591,
+    "q31": -1,
+    "q32": "Launch welfare is low; small spend yields little benefit.",
+    "q29": -2,
+    "q30": "Frequent pities or off-banners make spending feel like a donation.",
+    "q25": -2,
+    "q26": "Bad pull experiences with frequent off-banner results."
+  },
+  {
+    "q0": 38095239,
+    "q9": 1,
+    "q10": "By level 32, can form a complete team and enter 'maintenance' mode."
+  },
+  {
+    "q0": 38095123,
+    "q25": -2,
+    "q26": "Low probabilities and off-banner results hurt gacha experience."
+  },
+  {
+    "q0": 38094738
+  },
+  {
+    "q0": 38046815,
+    "q3": "Has skip and sweep early, but many later modes cannot be skipped, increasing playtime.",
+    "q4": -1,
+    "q5": "Initially convenient, but later daily grind grows without skip options.",
+    "q31": -1,
+    "q32": "Daily income drops after the first week; takes days to save for a 10-pull.",
+    "q41": "Not suitable as a lightweight side game due to unskippable modes."
+  },
+  {
+    "q0": 38094021,
+    "q1": true,
+    "q2": "Censorship with no way to revert (no anti-censor)."
+  },
+  {
+    "q0": 38093982,
+    "q39": -2,
+    "q40": "Consumed ~2.9 GB of mobile data in ~2 hours; likely heavy background downloads."
+  },
+  {
+    "q0": 38054637,
+    "q31": -2,
+    "q32": "Rewards are too few and hard to obtain.",
+    "q29": -2,
+    "q30": "Extremely heavy monetization; alleged paid reviews.",
+    "q41": "Accusation of buying positive reviews."
+  },
+  {
+    "q0": 38093901
+  },
+  {
+    "q0": 38093474,
+    "q41": "No skip for many actions; constant tapping makes the game feel exhausting."
+  },
+  {
+    "q0": 38093244,
+    "q31": -2,
+    "q32": "Extreme fragment requirements (e.g., 500 per piece) and heavy grind.",
+    "q23": true,
+    "q24": "User frequently hits pity on pulls.",
+    "q25": -2,
+    "q26": "Always hitting pity suggests poor value; heavy fragment gating.",
+    "q9": -2,
+    "q10": "Stuck by Chapter 25 without spending."
+  },
+  {
+    "q0": 38092964,
+    "q3": "Mostly idle and number-check gameplay with minimal manual input.",
+    "q4": -1,
+    "q5": "Little operation; reliance on cumulative stat systems.",
+    "q15": "Stat systems (gallery, furniture, skins, intimacy) plus guild battles and arena.",
+    "q16": false,
+    "q17": 0,
+    "q18": "Many systems but straightforward stat stacking.",
+    "q19": -2,
+    "q20": "Event currency and secondary modes have low yields; many paid add-attempts.",
+    "q29": -2,
+    "q30": "Aggressive upselling and pay-to-increase attempts.",
+    "q31": -2,
+    "q32": "Event currency is low; many modes give meager rewards.",
+    "q27": -1,
+    "q28": "Skins and other systems grant stats; paying boosts progression noticeably."
+  },
+  {
+    "q0": 38092817,
+    "q9": -1,
+    "q10": "Main story becomes difficult around Chapter 20; frequent multi-day blocks later.",
+    "q29": -1,
+    "q30": "Progress feels tied to spending due to stamina and difficulty.",
+    "q31": -1,
+    "q32": "Diamonds trickle in small amounts; action points insufficient for all tasks."
+  },
+  {
+    "q0": 38092776,
+    "q27": 1,
+    "q28": "Claims zero-spend can progress with codes and early freebies by raising power.",
+    "q31": 1,
+    "q32": "Early exchange codes and free pulls enable several SSRs."
+  },
+  {
+    "q0": 38092638,
+    "q9": -1,
+    "q10": "Self-select 10-pull unlocked at Ch.3 but redeemable only at Ch.7.",
+    "q31": -1,
+    "q32": "Free 10-pull is gated and delayed behind chapter progress."
+  },
+  {
+    "q0": 38092230,
+    "q9": -1,
+    "q10": "Must push chapters to claim welfare; rewards tied to progression.",
+    "q31": -1,
+    "q32": "Freebies require chapter progression to unlock."
+  },
+  {
+    "q0": 38039248,
+    "q1": true,
+    "q2": "Game's only appeal is spicy art; CN version is censored.",
+    "q31": -2,
+    "q32": "Event currency is scarce; no stable diamond income for F2P.",
+    "q29": -2,
+    "q30": "Most resources are placed into paid bundles; must open wallet to continue."
+  },
+  {
+    "q0": 38091885,
+    "q41": "Music/VA praised but ultimate skill CGs are very blurry; overall graphics feel poor."
+  },
+  {
+    "q0": 38091287,
+    "q31": 1,
+    "q32": "Skins can be obtained via diamonds to skin-voucher exchange; considered fair."
+  },
+  {
+    "q0": 38090652,
+    "q9": -1,
+    "q10": "Stuck at Chapter 25 after a day; rewards locked behind main story progress.",
+    "q25": 0,
+    "q26": "Pull rates felt okay after small spend, but '100 pulls' claim feels misleading.",
+    "q31": -1,
+    "q32": "Some email rewards require main story progression to claim.",
+    "q41": "Email rewards gated by campaign progress."
+  },
+  {
+    "q0": 38090322,
+    "q27": -2,
+    "q28": "Zero-spenders cannot survive; micro-spenders struggle.",
+    "q29": -2,
+    "q30": "Game is filled with monetization points to ensure whales have places to spend."
+  },
+  {
+    "q0": 38090308,
+    "q9": -1,
+    "q10": "Early rewards only become claimable after several chapters (e.g., Ch.6–7).",
+    "q31": -1,
+    "q32": "Initial welfare is effectively gated; '100-pull' marketing underdelivers.",
+    "q41": "Onboarding locks freebies behind chapters."
+  },
+  {
+    "q0": 38083738,
+    "q31": -2,
+    "q32": "Approx. 5800 gems + 10-pull per month under ideal conditions; many constraints and tasks reduce practicality.",
+    "q23": true,
+    "q24": "Character UP: 50 small pity, 250 hard pity; weapon: 30-pull pity with no hard pity; artifacts: fragment-based, no pity.",
+    "q25": -2,
+    "q26": "High hard pity and no hard pity on weapon/artifact systems; poor value.",
+    "q29": -2,
+    "q30": "Many monetization hooks and account-locked redemption codes.",
+    "q41": "Codes locked to account (not region); some fights intentionally block progress."
+  },
+  {
+    "q0": 37601976,
+    "q1": true,
+    "q2": "Censored artwork.",
+    "q9": -2,
+    "q10": "Rewards require clearing chapters but progression is blocked without more pulls.",
+    "q31": -2,
+    "q32": "Free pull and reward access require chapter gates.",
+    "q29": -2,
+    "q30": "Players feel forced to pay when stuck."
+  },
+  {
+    "q0": 38088313,
+    "q27": -2,
+    "q28": "Exclusive P2W skins/badges grant permanent % stats; ranking rewards favor spenders.",
+    "q29": -2,
+    "q30": "Many monetization points and early limited banners; power is pay-driven.",
+    "q41": "All modes have ranking rewards with massive gaps."
+  },
+  {
+    "q0": 38088014,
+    "q27": -2,
+    "q28": "QoL (10x speed) gated by spending; frequent pay prompts.",
+    "q29": -2,
+    "q30": "Activities and draws limited without paying; frequent pity streaks.",
+    "q31": -1,
+    "q32": "Few daily pulls; many diamond sinks limit F2P experience.",
+    "q25": -2,
+    "q26": "Repeated hard pities and few opportunities to pull.",
+    "q9": -1,
+    "q10": "Noticeable difficulty spikes after mid-chapters for non-spenders."
+  },
+  {
+    "q0": 38086668,
+    "q31": -2,
+    "q32": "Self-select pulls require reaching Chapter 50 and are very limited.",
+    "q25": -2,
+    "q26": "Consistent pities and off-banners; claims of 'lock card' behavior.",
+    "q29": -2,
+    "q30": "Perceived predatory gacha and misleading freebies.",
+    "q41": "Alleged 'lock card' mechanism causing constant pities and off-rate."
+  },
+  {
+    "q0": 38086688,
+    "q3": "Primarily power-stacking; low gameplay depth.",
+    "q4": -1,
+    "q5": "Overloaded UI and red dots; combat boils down to power checks.",
+    "q25": 1,
+    "q26": "Pull resources feel plentiful and 'satisfying' despite design criticisms."
+  },
+  {
+    "q0": 38086435,
+    "q29": -2,
+    "q30": "Forced tutorial and aggressive monetization; predicted short lifecycle.",
+    "q41": "Strongly forced onboarding instructions."
+  },
+  {
+    "q0": 38085952,
+    "q4": -2,
+    "q5": "User found no fun at all; experience felt like torture."
+  },
+  {
+    "q0": 38085786,
+    "q31": -1,
+    "q32": "Rewards start being handed out only after Chapter 7.",
+    "q9": -1,
+    "q10": "Must clear multiple chapters before receiving promised freebies."
+  },
+  {
+    "q0": 38085626,
+    "q27": -1,
+    "q28": "Event progression requires an 18 RMB payment to unlock later 'free' rewards.",
+    "q29": -2,
+    "q30": "Very stingy diamonds and heavy gating of event rewards.",
+    "q31": -2,
+    "q32": "Third self-select 10-pull locked to Chapter 50; very low generosity.",
+    "q9": -1,
+    "q10": "Event and reward gates tied to deep progression.",
+    "q41": "Very few active guilds early on."
+  },
+  {
+    "q0": 38085476,
+    "q31": -2,
+    "q32": "Resources are hard to get; codes didn’t work; welfare decreased.",
+    "q29": -2,
+    "q30": "Many spending points; low free resource flow.",
+    "q41": "Redemption codes reportedly unusable."
+  },
+  {
+    "q0": 38085360,
+    "q31": -2,
+    "q32": "Perceived welfare downgrade in CN server.",
+    "q23": true,
+    "q24": "Reports a 250-pull hard pity.",
+    "q25": -2,
+    "q26": "Very poor gacha experience with extremely high hard pity."
+  },
+  {
+    "q0": 38033903,
+    "q1": true,
+    "q2": "Loss of anti-censor option; censored assets.",
+    "q23": true,
+    "q24": "Hard pity at 250 pulls.",
+    "q25": -1,
+    "q26": "High hard pity reduces value; removal of anti-censor reduces appeal."
+  }
+]

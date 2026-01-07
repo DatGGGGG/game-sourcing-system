@@ -1,0 +1,493 @@
+[
+  {
+    "q0": 39658780,
+    "q39": -2,
+    "q40": "Network error prevents login",
+    "q41": "Server instability/login failures"
+  },
+  {
+    "q0": 39656466,
+    "q3": "Chibi big-head battle presentation",
+    "q4": -1,
+    "q5": "Dislikes the chibi big-head battle visuals",
+    "q41": "Confusing qualification/announcement messaging"
+  },
+  {
+    "q0": 39658769,
+    "q29": -1,
+    "q30": "Prices feel high; mentions in-game currency to RMB ~5:1",
+    "q41": "Server instability; class/role icons poorly explained; gacha UI feels plain"
+  },
+  {
+    "q0": 28808204,
+    "q3": "Grid-based tactics with speed bar turn order; movement range heavily constrained; attack ranges not clearly indicated; no damage preview",
+    "q4": -1,
+    "q5": "Combat feels unclear and clunky with blind attacks and limited movement feedback",
+    "q6": "Archetyped classes (healer, shield, etc.); speed-based turn order; tank/shield and healer roles",
+    "q7": -1,
+    "q8": "Role definitions unclear and some kits feel nonsensical; shield presence weak",
+    "q9": -1,
+    "q10": "Difficulty spike outpaces growth; high development cost with limited stamina/resources makes switching characters hard",
+    "q11": -2,
+    "q12": "Reports many SSRs performing worse than SRs; red healer underwhelming; shields not functioning as taught",
+    "q13": -1,
+    "q14": "High respec cost limits trying alternative builds; roles feel blurred",
+    "q41": "Story feels generic; auto-play/voice UX issues; good art and cultural info but wishes deeper integration of relic history"
+  },
+  {
+    "q0": 39656564,
+    "q39": -2,
+    "q40": "Client shows qualification confusion and cannot enter; likely server not opened",
+    "q41": "Download vs play qualification mismatch"
+  },
+  {
+    "q0": 39658715,
+    "q39": -2,
+    "q40": "Game reports no network while other games work",
+    "q41": "Server/login connectivity issues"
+  },
+  {
+    "q0": 39658690,
+    "q21": -1,
+    "q22": "Bugs remain unfixed for hours after launch",
+    "q41": "Launch bugs not promptly addressed"
+  },
+  {
+    "q0": 39658635,
+    "q41": "Controversial test flow: pre-download then抢注 (registration race)"
+  },
+  {
+    "q0": 39658592,
+    "q39": -2,
+    "q40": "Network errors at login then registration cap reached; capacity expansion announced late and still first-come",
+    "q41": "Capacity/communication timing frustration"
+  },
+  {
+    "q0": 39658600,
+    "q3": "Turn-based grid tactics with speed bar order; limited movement; unclear attack ranges; no damage preview",
+    "q4": -1,
+    "q5": "Poor feedback and clarity lead to a fatiguing experience",
+    "q6": "Arknights-like class icons; speed-based turn order",
+    "q7": -1,
+    "q8": "Unclear range/preview reduces planning; roles feel derivative",
+    "q41": "Story generic with awkward auto/voice UX; good art and relic info pages"
+  },
+  {
+    "q0": 39658571,
+    "q41": "Download qualification separate from play/test qualification"
+  },
+  {
+    "q0": 39658534,
+    "q41": "Registration qualification separate from test qualification; push messages felt spammy"
+  },
+  {
+    "q0": 39658524,
+    "q4": -1,
+    "q5": "Onboarding feels hard; systems and flow not user-friendly",
+    "q6": "Complex card development and many combat categories lacking clear explanations",
+    "q7": -1,
+    "q8": "Poor clarity on roles and upgrades; weak functional guidance",
+    "q41": "Slow dialogue skipping and must rewatch story when retrying challenges"
+  },
+  {
+    "q0": 39658512,
+    "q41": "Requires抢注 despite showing qualification; download data wasted"
+  },
+  {
+    "q0": 39658504,
+    "q39": -2,
+    "q40": "Stuck in tutorial repeatedly",
+    "q41": "Tutorial soft-lock bug"
+  },
+  {
+    "q0": 39658485,
+    "q41": "Download completed without actual test qualification; registration capped"
+  },
+  {
+    "q0": 39658463,
+    "q9": -1,
+    "q10": "High difficulty spikes, especially boss fights",
+    "q41": "Server issues at test start; art and story praised"
+  },
+  {
+    "q0": 39658455,
+    "q39": -2,
+    "q40": "Large download then cannot enter test",
+    "q41": "Gatekept test access after download"
+  },
+  {
+    "q0": 39655681,
+    "q4": -1,
+    "q5": "Described as not fun/difficult to enjoy",
+    "q39": -1,
+    "q40": "Network unstable at launch"
+  },
+  {
+    "q0": 39658428,
+    "q21": -1,
+    "q22": "Slow operational response to launch issues",
+    "q39": -1,
+    "q40": "Progress stuck at 100% fixing too slow",
+    "q41": "Wants compensation applied to full release"
+  },
+  {
+    "q0": 39658427,
+    "q41": "Tap showed qualification but in-game said none"
+  },
+  {
+    "q0": 39658423,
+    "q41": "Shown as qualified, then hit registration cap; long-time follower disappointed"
+  },
+  {
+    "q0": 39658416
+  },
+  {
+    "q0": 39658402
+  },
+  {
+    "q0": 39658395,
+    "q39": -2,
+    "q40": "Server too unstable to enter; later shows cap reached",
+    "q41": "Server capacity and stability issues"
+  },
+  {
+    "q0": 39652828,
+    "q25": -2,
+    "q26": "Gacha rates feel very off for a tactics game"
+  },
+  {
+    "q0": 39658379,
+    "q41": "Pre-download and qualification notice followed by registration full; perceived bait-and-switch"
+  },
+  {
+    "q0": 39658358,
+    "q41": "Missed noon抢注 then later says capacity will be added; confusing operations"
+  },
+  {
+    "q0": 39658331,
+    "q41": "Told qualified to download, then registration full upon login"
+  },
+  {
+    "q0": 39658319,
+    "q41": "Redownload prompted; perceived download bait"
+  },
+  {
+    "q0": 39658311,
+    "q41": "Qualification confusion; wasted mobile data; poor operations"
+  },
+  {
+    "q0": 39658305,
+    "q41": "Wasted data due to inaccessible test"
+  },
+  {
+    "q0": 39658302,
+    "q41": "Poor operations; uninstalled after wasted download"
+  },
+  {
+    "q0": 39658297,
+    "q25": -2,
+    "q26": "Prices high across the board",
+    "q29": -2,
+    "q30": "High prices and stingy compensation create heavy pressure",
+    "q31": -2,
+    "q32": "Very few free rewards and minimal launch compensation",
+    "q39": -1,
+    "q40": "Network quality poor",
+    "q41": "Server issues and stingy launch compensation"
+  },
+  {
+    "q0": 39658288,
+    "q4": -1,
+    "q5": "Does not recommend the gameplay despite liking the art",
+    "q39": -1,
+    "q40": "Server problems at launch",
+    "q41": "Art good but some portraits feel dated"
+  },
+  {
+    "q0": 39655662,
+    "q3": "Tactical battle with auto-battle option",
+    "q4": 1,
+    "q5": "Combat feels okay and gacha experience acceptable",
+    "q39": -1,
+    "q40": "Launch congestion; server bomb at 11:00 schedule",
+    "q41": "Not target audience for tactics; suggests staggering launch time"
+  },
+  {
+    "q0": 39658281
+  },
+  {
+    "q0": 39658279,
+    "q41": "Qualification notice followed by cap reached after long update"
+  },
+  {
+    "q0": 39658277,
+    "q39": -2,
+    "q40": "Black screen and unstable network",
+    "q41": "Early stability issues discourage play"
+  },
+  {
+    "q0": 39658251,
+    "q41": "Told qualified during download, then ineligible after download; perceived download bait"
+  },
+  {
+    "q0": 39658239,
+    "q41": "Busy until later, then told test quota full; perceived download padding"
+  },
+  {
+    "q0": 39658238,
+    "q41": "Positive early impression of visuals"
+  },
+  {
+    "q0": 39658228,
+    "q39": -2,
+    "q40": "Repeated network errors at start; later test slot gone",
+    "q41": "Server instability led to missing registration"
+  },
+  {
+    "q0": 39658225,
+    "q41": "Pre-download showed qualification but still required抢注"
+  },
+  {
+    "q0": 39657270,
+    "q23": true,
+    "q24": "Pity/guarantee reported as 180 pulls for featured (UP); duplicate system requires 4 red passes per constellation, with 1 red pass from 23 shards and a monthly cap on exchanges",
+    "q25": -2,
+    "q26": "Very high cost to progress constellations; expensive pull economics",
+    "q29": -2,
+    "q30": "Design favors heavy spenders with costly dupe/‘命’ progression; monthly caps push spending"
+  },
+  {
+    "q0": 39658209,
+    "q39": -2,
+    "q40": "Downloaded several GB but cannot enter",
+    "q41": "Wasted data due to inaccessible test"
+  },
+  {
+    "q0": 39658191,
+    "q39": -2,
+    "q40": "Severe lag including gacha animation and progress stuck at 100%",
+    "q41": "UI/art praised but operations/server rated poorly"
+  },
+  {
+    "q0": 39658181,
+    "q41": "Tap shows qualification; login limited and then quota full; wasted data"
+  },
+  {
+    "q0": 39658167,
+    "q41": "Operations management criticized"
+  },
+  {
+    "q0": 39658142,
+    "q41": "Tap shows test qualification but game requires抢注"
+  },
+  {
+    "q0": 39658139,
+    "q41": "Data-heavy download before confirming play access"
+  },
+  {
+    "q0": 39658136,
+    "q39": -2,
+    "q40": "Network error then client ‘repair’ forced a 3GB redownload",
+    "q41": "Lost registration while redownloading; uninstalled"
+  },
+  {
+    "q0": 39658133,
+    "q41": "Mismatch between issued test qualifications and available registrations"
+  },
+  {
+    "q0": 39658127,
+    "q41": "Highlights test qualification ≠ registration qualification"
+  },
+  {
+    "q0": 39658125,
+    "q41": "Frustration with test access process"
+  },
+  {
+    "q0": 39658120,
+    "q41": "Questions why not use survey/lottery for qualification; doubts server capacity"
+  },
+  {
+    "q0": 39658113,
+    "q41": "Clarifies test qualification does not equal registration qualification"
+  },
+  {
+    "q0": 39658102,
+    "q39": -2,
+    "q40": "Long-term lockups and still cannot play after抢注",
+    "q41": "Severely frustrating access experience"
+  },
+  {
+    "q0": 39658079,
+    "q37": -2,
+    "q38": "Had to clear significant storage and free ~6GB to install",
+    "q39": -2,
+    "q40": "Repeated login failures then registration cap",
+    "q41": "Highly frustrating qualification/registration flow"
+  },
+  {
+    "q0": 39658070,
+    "q3": "Turn-based tactics with auto-battle; AI behavior is poor",
+    "q4": -2,
+    "q5": "Combat feels boring and auto AI ‘plays dumb’",
+    "q39": -1,
+    "q40": "Severe initial lag that improved later"
+  },
+  {
+    "q0": 39658068,
+    "q37": -2,
+    "q38": "Consumed ~10GB data for minimal playable content",
+    "q41": "Only reached tutorial after heavy downloads"
+  },
+  {
+    "q0": 39658035,
+    "q41": "Voice lines out of sync with text; sometimes cut off"
+  },
+  {
+    "q0": 39658024,
+    "q3": "Tactical battle with only up to 2x speed",
+    "q4": -2,
+    "q5": "Monotonous pacing and limited speed options make it tedious",
+    "q41": "Likes art/music/theme but not gameplay"
+  },
+  {
+    "q0": 39658012,
+    "q39": -1,
+    "q40": "Tutorial can soft-lock if gacha currency spent before guided pull",
+    "q41": "Blocking tutorial bug in gacha onboarding"
+  },
+  {
+    "q0": 39658009,
+    "q41": "Registration quota issue"
+  },
+  {
+    "q0": 39657999,
+    "q23": true,
+    "q24": "Reports 180-pull pity for featured (UP) unit",
+    "q25": -2,
+    "q26": "Very expensive: ~15 RMB per pull, 180 pity; limited-time pack pricing also high",
+    "q29": -2,
+    "q30": "High prices and high pity create heavy spending pressure",
+    "q41": "Notes gender ratio skew; story feels disjointed; many cards lack voice; weak function onboarding"
+  },
+  {
+    "q0": 39657988,
+    "q41": "Large pre-download and update then told registration full; perceived as odd operation"
+  },
+  {
+    "q0": 39657977,
+    "q41": "Launch instability (crash/black screen); story unengaging; mixed voice; portrait quality issues (e.g., feet on SSR)"
+  },
+  {
+    "q0": 39657973,
+    "q41": "Separate download and registration qualifications criticized"
+  },
+  {
+    "q0": 39657968,
+    "q41": "Open download despite lacking qualification; perceived bait"
+  },
+  {
+    "q0": 39657967,
+    "q41": "Suggests activation codes instead of Tap-based抢注; criticizes operational use of platform features"
+  },
+  {
+    "q0": 39657961,
+    "q41": "Perceives the test as ‘monkey show’ (unfair teasing of players)"
+  },
+  {
+    "q0": 39657957,
+    "q39": -2,
+    "q40": "Persistent network errors; finally enters only to find no qualification",
+    "q41": "Access gating after technical issues"
+  },
+  {
+    "q0": 39657942,
+    "q41": "Download finished but test access still gated"
+  },
+  {
+    "q0": 39657939,
+    "q39": -2,
+    "q40": "Network instability at launch; later shows no slots",
+    "q41": "Tap’s ‘qualification’ felt misleading"
+  },
+  {
+    "q0": 39657936,
+    "q3": "Fully automatic option; standard turn-based flow",
+    "q4": 0,
+    "q5": "Average, similar to typical turn-based games"
+  },
+  {
+    "q0": 39657929,
+    "q37": -1,
+    "q38": "Requires ~5GB download before discovering registration cap",
+    "q41": "Site message claimed qualification but game said full; perceived download padding"
+  },
+  {
+    "q0": 39657926,
+    "q4": 0,
+    "q5": "Gameplay feels standard but playable",
+    "q39": -1,
+    "q40": "Servers a bit bad at launch",
+    "q41": "UI praised; indifferent to story"
+  },
+  {
+    "q0": 39657922,
+    "q41": "Perceived download bait to inflate metrics"
+  },
+  {
+    "q0": 39657921,
+    "q41": "States test should not open if cannot handle capacity; qualification yet still抢注"
+  },
+  {
+    "q0": 39657918,
+    "q41": "Calls out using players’ download data then denying test qualification"
+  },
+  {
+    "q0": 39657914,
+    "q39": -2,
+    "q40": "Couldn’t enter for a long time; when able, shows no qualification",
+    "q41": "Suggests continuing to voice complaints at release"
+  },
+  {
+    "q0": 39655614,
+    "q41": "First pull off-banner (‘歪’)"
+  },
+  {
+    "q0": 39657885,
+    "q39": -2,
+    "q40": "Network errors at start; later told no registration slots",
+    "q41": "Requires抢注 after pre-download; very negative reception"
+  },
+  {
+    "q0": 39657875,
+    "q41": "Shown qualified before download; ineligible after download"
+  },
+  {
+    "q0": 39656355,
+    "q41": "Art praised; early gameplay average; reports high personal gacha luck"
+  },
+  {
+    "q0": 39657861,
+    "q41": "Says qualified; after download told registration full; perceived download bait"
+  },
+  {
+    "q0": 39657858,
+    "q39": -2,
+    "q40": "Couldn’t enter at 11:00; when able, registration cap reached",
+    "q41": "Frustration with access gating"
+  },
+  {
+    "q0": 39657845,
+    "q41": "Claimed qualification then told quota full after download"
+  },
+  {
+    "q0": 39657842
+  },
+  {
+    "q0": 39657839,
+    "q4": -1,
+    "q5": "Effects underwhelm; gameplay feels mediocre",
+    "q11": -1,
+    "q12": "Reports some red-rarity ultimates worse than yellow-rarity ones",
+    "q41": "Facial models inconsistent; visual effects feel dated"
+  }
+]

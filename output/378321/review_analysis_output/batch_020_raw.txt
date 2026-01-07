@@ -1,0 +1,492 @@
+[
+  {
+    "q0": 37670418,
+    "q1": true,
+    "q2": "Sexual content/fanservice; suggestive touching during treatment interactions",
+    "q15": "Waifu interaction/treatment minigame where you tap character body parts for reactions",
+    "q16": false,
+    "q17": 1,
+    "q18": "Enjoyable surprise click responses during treatment"
+  },
+  {
+    "q0": 37668044,
+    "q41": "High-quality graphics cause performance stutter; needs optimization"
+  },
+  {
+    "q0": 37666885
+  },
+  {
+    "q0": 37666563,
+    "q4": -1,
+    "q5": "Cannot skip battles",
+    "q41": "Main story is mediocre"
+  },
+  {
+    "q0": 37661563
+  },
+  {
+    "q0": 37661104,
+    "q1": true,
+    "q2": "Sexual content/fanservice with Live2D reactions on touch",
+    "q15": "Interactive Live2D character screen with tap-triggered motions and shy reactions",
+    "q16": false,
+    "q17": 1,
+    "q18": "Touch feedback and animations are well done"
+  },
+  {
+    "q0": 37660823,
+    "q31": 2,
+    "q32": "Events and sign-in give skins; daily free ten-pull"
+  },
+  {
+    "q0": 37658710
+  },
+  {
+    "q0": 37657556,
+    "q31": 2,
+    "q32": "Perceived high drop rate; daily free ten-pull"
+  },
+  {
+    "q0": 37652166,
+    "q1": true,
+    "q2": "Sexual content/fanservice; skins have special touch interactions",
+    "q15": "Live2D with skin-specific touch triggers",
+    "q16": false,
+    "q17": 1,
+    "q18": "Dynamic animations and touch events feel polished"
+  },
+  {
+    "q0": 37651743
+  },
+  {
+    "q0": 37648496,
+    "q41": "Negative perception of publisher (Yoozoo)"
+  },
+  {
+    "q0": 37647542
+  },
+  {
+    "q0": 37647089
+  },
+  {
+    "q0": 37639694,
+    "q31": -1,
+    "q32": "Low welfare, high grind",
+    "q29": -1,
+    "q30": "Heavy PvP focus and low welfare increase pressure",
+    "q41": "Events/story feel perfunctory; heavy PvP orientation"
+  },
+  {
+    "q0": 37638815,
+    "q15": "Customizable main menu character and background",
+    "q16": false,
+    "q41": "Wants more, brighter main-menu backgrounds; some color/background combos clash"
+  },
+  {
+    "q0": 37636409,
+    "q6": "Position/slot-based leveling with inheritance so upgrades carry over",
+    "q7": 1,
+    "q8": "Flexible and cost-effective development via level slots",
+    "q9": 1,
+    "q10": "Progress feels efficient because upgrades transfer between characters"
+  },
+  {
+    "q0": 37636250
+  },
+  {
+    "q0": 37636135,
+    "q3": "Auto-battle with no manual skill timing; some modes cannot be skipped; furniture and skins contribute to combat power",
+    "q4": -2,
+    "q5": "Boring, little to no player agency; forced watching in unskippable modes",
+    "q6": "Account power inflated by furniture; star/constellation upgrades; skins grant stackable stat bonuses",
+    "q7": -2,
+    "q8": "Outcome driven by stats and upgrades rather than tactics",
+    "q9": -1,
+    "q10": "Slow progress and forced viewing due to unskippable modes",
+    "q11": -2,
+    "q12": "SSR vastly out-damage R/SR at equal investment (basic attacks stronger than R/SR ults)",
+    "q13": -1,
+    "q14": "R/SR unusable even at equal or higher investment reduces viable team choices",
+    "q15": "Housing/furniture system that adds combat power; skins with stat buffs",
+    "q16": false,
+    "q23": true,
+    "q24": "Claims 50-pull pity with featured guarantee only after 4 off-banner hits (hard pity ~250 pulls)",
+    "q29": -2,
+    "q30": "Poor welfare, pay-boosted skins, and excessive stat gaps create heavy pressure",
+    "q31": -2,
+    "q32": "Very stingy—clearing a big chapter barely yields one pull",
+    "q41": "Auto-cast ultimates; some modes lack skip; perceived as shallow number game"
+  },
+  {
+    "q0": 37634440,
+    "q1": true,
+    "q2": "Sexual content/fanservice (bathing with characters)",
+    "q15": "Dorm decoration and character interaction (including bathing scenes)",
+    "q16": false
+  },
+  {
+    "q0": 37628960,
+    "q23": true,
+    "q24": "Claims very generous pity/guarantee system in CN version"
+  },
+  {
+    "q0": 37619792,
+    "q31": 1,
+    "q32": "Events give free skins",
+    "q11": -1,
+    "q12": "SR units underperform vs SSR even at max breakthrough; SSR breakthrough is hard",
+    "q13": -1,
+    "q14": "SR rarely viable, limiting team options"
+  },
+  {
+    "q0": 37615453,
+    "q23": true,
+    "q24": "50-pull pity; only after four off-banner hits does hard pity guarantee the UP",
+    "q31": -1,
+    "q32": "Rewards feel stingy and pull currency hard to get",
+    "q29": -1,
+    "q30": "Hard for F2P to obtain featured units under current pity and low income",
+    "q41": "Requests sweep feature for daily stages; tutorial/first-play animations should be skippable"
+  },
+  {
+    "q0": 37615098,
+    "q9": -1,
+    "q10": "Early tasks demand high PvP rankings in newbie event, too competitive for new players",
+    "q41": "Remove first-run animation skip restrictions; better early-game pacing"
+  },
+  {
+    "q0": 37614768,
+    "q15": "Main screen allows changing character and background",
+    "q16": false,
+    "q41": "Requests more background images"
+  },
+  {
+    "q0": 37612505,
+    "q15": "Skins include unique full-scene backgrounds",
+    "q16": false,
+    "q41": "Wants base skins to also have full backgrounds"
+  },
+  {
+    "q0": 37612123,
+    "q31": 1,
+    "q32": "Free SSR and SSR skin; daily free pulls (not via mail)"
+  },
+  {
+    "q0": 37609287,
+    "q27": 1,
+    "q28": "SSR shards obtainable over time from shop",
+    "q9": 1,
+    "q10": "No notably scarce upgrade materials early, so growth is smooth"
+  },
+  {
+    "q0": 37605384,
+    "q1": true,
+    "q2": "Sexual content/fanservice likely censored in CN version",
+    "q41": "Questions the appeal if lewd elements are censored"
+  },
+  {
+    "q0": 37604008,
+    "q3": "Character-based skills dealing damage to multiple random enemies",
+    "q4": 1,
+    "q5": "Finds several characters strong and appealing (e.g., Set, Fenrir); good collection appeal"
+  },
+  {
+    "q0": 37600944
+  },
+  {
+    "q0": 37600333,
+    "q31": -1,
+    "q32": "Welfare is stingy",
+    "q1": true,
+    "q2": "Sexual content/fanservice likely censored in CN version"
+  },
+  {
+    "q0": 37598878,
+    "q9": -1,
+    "q10": "Event tasks require PvP participation/ranking, forcing casual players into PvP",
+    "q41": "Suggests removing PvP ranking requirements from events"
+  },
+  {
+    "q0": 37597993,
+    "q6": "Roguelike deckbuilding-style mode (Deep Abyss)",
+    "q7": 1,
+    "q8": "Adds variety with roguelike card elements",
+    "q9": -1,
+    "q10": "High three-star requirements in main story"
+  },
+  {
+    "q0": 37597599
+  },
+  {
+    "q0": 37595743,
+    "q1": true,
+    "q2": "Sexual content/fanservice needs added censorship to pass review"
+  },
+  {
+    "q0": 37595145,
+    "q31": -1,
+    "q32": "CN test feels as stingy as other regions",
+    "q41": "Distrust due to publisher (Yoozoo)"
+  },
+  {
+    "q0": 37589350
+  },
+  {
+    "q0": 37585927
+  },
+  {
+    "q0": 37585786,
+    "q1": true,
+    "q2": "Sexual content/fanservice; expects CN censorship",
+    "q41": "Wants optional censorship toggle like some games; would spend if uncensored option exists"
+  },
+  {
+    "q0": 37584602
+  },
+  {
+    "q0": 37584461,
+    "q1": true,
+    "q2": "Sexual content/fanservice likely censored, hurting appeal"
+  },
+  {
+    "q0": 37584263,
+    "q3": "Highly automated number-driven gameplay with extensive skipping",
+    "q4": -2,
+    "q5": "Brainless tap-to-progress, little engagement",
+    "q7": -2,
+    "q8": "Outcomes depend on stats, not tactics",
+    "q31": -1,
+    "q32": "Welfare is poor",
+    "q29": -1,
+    "q30": "Weak rewards and ‘toxic’ gacha increase pressure",
+    "q41": "Annoying autoplay/skip emphasis; shallow design; offensive chat marquee"
+  },
+  {
+    "q0": 37583641,
+    "q31": 1,
+    "q32": "CN welfare slightly better than JP/TW/MY; free skin and early self-pick reroll"
+  },
+  {
+    "q0": 37583379,
+    "q41": "Perceived low frame rate/lag; asks for high-FPS option"
+  },
+  {
+    "q0": 37583358,
+    "q1": true,
+    "q2": "Sexual content/fanservice; likely censored in CN",
+    "q41": "Will spend if not censored; currently cautious with small monthly"
+  },
+  {
+    "q0": 37583212,
+    "q3": "Idle/auto gameplay",
+    "q4": -1,
+    "q5": "Finds it boring and interrupted by scrolling marquee",
+    "q41": "Scrolling marquee is intrusive"
+  },
+  {
+    "q0": 37583135,
+    "q9": -1,
+    "q10": "Basic settings (e.g., disable CG) are locked behind main progression (Warzone 10)",
+    "q41": "Odd to gate settings by story progress"
+  },
+  {
+    "q0": 37583013
+  },
+  {
+    "q0": 37582878,
+    "q41": "Cannot input ID number during registration"
+  },
+  {
+    "q0": 37582222,
+    "q1": true,
+    "q2": "Sexual content/fanservice (Leviathan skin) potentially censored"
+  },
+  {
+    "q0": 37573837,
+    "q1": true,
+    "q2": "Sexual content/fanservice; CN censorship uses ‘half-cover’ approach",
+    "q41": "Feels censorship is cleverly done though less impactful"
+  },
+  {
+    "q0": 37571801,
+    "q1": true,
+    "q2": "Sexual content/fanservice; CN likely censored",
+    "q29": -1,
+    "q30": "Game is grindy and pay-heavy (又肝又氪)",
+    "q9": -1,
+    "q10": "New-account 7-day tasks hard to complete without heavy grind"
+  },
+  {
+    "q0": 37569382,
+    "q1": true,
+    "q2": "Sexual content/fanservice; some censored versions look similar to original",
+    "q41": "Censorship may be acceptable if differences small"
+  },
+  {
+    "q0": 37566006,
+    "q41": "Recommends playing foreign version; perceives big differences vs CN"
+  },
+  {
+    "q0": 37564009,
+    "q1": true,
+    "q2": "Sexual content/fanservice (Leviathan, swimsuits) likely to be censored",
+    "q41": "Requests tasteful swimsuit designs with minimal extra coverage"
+  },
+  {
+    "q0": 37563496,
+    "q41": "Hopes for 3650 free pulls; desires swimsuit skins and specific character"
+  },
+  {
+    "q0": 36816267,
+    "q31": -2,
+    "q32": "Per-chapter rewards below one pull; low rates",
+    "q29": -2,
+    "q30": "Perceived as cash grab; skins add stats; review manipulation concerns",
+    "q41": "Skins have attribute bonuses; alleges controlled reviews; up rate only ~40%"
+  },
+  {
+    "q0": 37554106,
+    "q41": "Intl server story translation feels off; expects better CN writing"
+  },
+  {
+    "q0": 37553378,
+    "q1": true,
+    "q2": "Sexual content/fanservice; says nothing else is good and CN will censor"
+  },
+  {
+    "q0": 37552757
+  },
+  {
+    "q0": 37551821,
+    "q4": -1,
+    "q5": "Wants more detailed/appealing in-battle character models/visuals"
+  },
+  {
+    "q0": 37550511,
+    "q31": 2,
+    "q32": "CN promises 3650 pulls and daily self-select 10-pull"
+  },
+  {
+    "q0": 37550479,
+    "q3": "Low-FPS chibi auto-battle with long forced tutorial",
+    "q4": -2,
+    "q5": "Very low frame rate and half-hour forced tutorial",
+    "q9": -1,
+    "q10": "Must clear six large maps before unlocking gacha",
+    "q41": "Frustrated by mandatory left-right clicking tutorial"
+  },
+  {
+    "q0": 37547144,
+    "q1": true,
+    "q2": "Sexual content/fanservice (beastgirl designs)"
+  },
+  {
+    "q0": 37546233,
+    "q1": true,
+    "q2": "Sexual content/fanservice; ‘gentlemen’s game’"
+  },
+  {
+    "q0": 37537957,
+    "q1": true,
+    "q2": "Heavy censorship of sexual content",
+    "q41": "Excessive censorship"
+  },
+  {
+    "q0": 37527422,
+    "q1": true,
+    "q2": "Sexual content/fanservice; CN version heavily censored",
+    "q41": "CN censorship compared to foreign uncensored version"
+  },
+  {
+    "q0": 37526730
+  },
+  {
+    "q0": 37524347
+  },
+  {
+    "q0": 37522704
+  },
+  {
+    "q0": 37517864,
+    "q3": "Turn-based combat"
+  },
+  {
+    "q0": 37510880
+  },
+  {
+    "q0": 37491233
+  },
+  {
+    "q0": 37490630
+  },
+  {
+    "q0": 37490218
+  },
+  {
+    "q0": 37487621
+  },
+  {
+    "q0": 37485601,
+    "q31": 2,
+    "q32": "Daily free ten-pull at launch"
+  },
+  {
+    "q0": 37484926,
+    "q1": true,
+    "q2": "Sexual content/fanservice toned down (censorship)",
+    "q41": "Still looking forward despite some censorship"
+  },
+  {
+    "q0": 37469535
+  },
+  {
+    "q0": 37468638
+  },
+  {
+    "q0": 37467229
+  },
+  {
+    "q0": 37466200,
+    "q31": -1,
+    "q32": "Welfare not good; gacha/progression are expensive/punishing",
+    "q29": -1,
+    "q30": "Advises non-whales to think twice",
+    "q41": "Art/skins are the only real highlight; CN over-censorship could remove it"
+  },
+  {
+    "q0": 37462564,
+    "q3": "Auto-battle oriented; collection/idle focus"
+  },
+  {
+    "q0": 37458981
+  },
+  {
+    "q0": 37456708
+  },
+  {
+    "q0": 37455921,
+    "q1": true,
+    "q2": "Sexual content/fanservice focus"
+  },
+  {
+    "q0": 37448063
+  },
+  {
+    "q0": 37447733,
+    "q6": "Position/slot-based leveling (upgrades apply to slot, not specific card)",
+    "q7": 1,
+    "q8": "Forgiving for players who avoid guides"
+  },
+  {
+    "q0": 37433554
+  },
+  {
+    "q0": 37433163
+  },
+  {
+    "q0": 37432598
+  },
+  {
+    "q0": 37430135
+  }
+]

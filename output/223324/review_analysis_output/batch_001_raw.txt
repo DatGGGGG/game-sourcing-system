@@ -1,0 +1,519 @@
+[
+  {
+    "q0": 45790830,
+    "q29": -1,
+    "q30": "Reduced sign-in and event shop welfare increases pressure on players.",
+    "q31": -2,
+    "q32": "Cut sign-in rewards, nerfed event shop rewards; stingy exchange materials (20-cost item gives only 2); counting main story rewards as version welfare."
+  },
+  {
+    "q0": 45552974,
+    "q41": "Account lost after deleting/reinstalling (Bilibili version); asks what's going on."
+  },
+  {
+    "q0": 44702185,
+    "q41": "Believes rating is being brigaded down despite the game being fun."
+  },
+  {
+    "q0": 43475258,
+    "q41": "Praised UI/art style but found some character illustrations odd; limited playtime during CBT."
+  },
+  {
+    "q0": 42929067,
+    "q27": 2,
+    "q28": "Most content playable with auto-battle; light progression; skins can be exchanged for free; high gacha rates.",
+    "q29": 1,
+    "q30": "Plenty of free pulls; light growth; small-studio but generous approach.",
+    "q31": 2,
+    "q32": "Many free pulls; skins can be obtained for free; overall generous.",
+    "q41": "Likes snow scene and Bird Zun; worries the small studio may not survive; notes many bugs."
+  },
+  {
+    "q0": 39662533,
+    "q3": "Turn-based grid (war chess) battles with classes; some skills/movement feel cramped.",
+    "q4": -1,
+    "q5": "Tactical design feels cramped/odd; not enjoyable compared to peers.",
+    "q6": "Class roles, movement and skills in a grid-based tactical system.",
+    "q7": -1,
+    "q8": "Skills/movement feel weird; overall tactics feel subpar.",
+    "q9": -1,
+    "q10": "High stamina cost and expensive/tedious character growth cause early grind.",
+    "q23": true,
+    "q24": "Test banner used double UP; frequent off-rate results; effectively only a ~180-pull spark to guarantee one copy.",
+    "q29": -1,
+    "q30": "Weak welfare and grind increase pressure.",
+    "q31": -1,
+    "q32": "Stingy feeling in test: few high-rarity pulls and poor welfare; cluttered UI with many red dots.",
+    "q41": "UI has tiny icons and clutter; inconsistent voice-over; confusing story pacing and exposition."
+  },
+  {
+    "q0": 39662956,
+    "q21": 1,
+    "q22": "Since CBT to launch, most pain points were addressed; devs are responsive.",
+    "q31": 1,
+    "q32": "Welfare is good at launch.",
+    "q41": "Weapon affix/roll farming is still painful."
+  },
+  {
+    "q0": 39657781,
+    "q9": -1,
+    "q10": "Difficulty high; even at recommended level, auto cannot clear, causing frustration."
+  },
+  {
+    "q0": 39655757
+  },
+  {
+    "q0": 40394555,
+    "q9": -1,
+    "q10": "Stamina system feels punishing."
+  },
+  {
+    "q0": 40372067,
+    "q41": "Thinks malicious downrating explains low score."
+  },
+  {
+    "q0": 40360032,
+    "q4": -1,
+    "q5": "Finds the game boring; art becomes tiring quickly."
+  },
+  {
+    "q0": 39657407,
+    "q41": "Not as educational as expected; disliked story; test access required抢 (rushing) for slots even with qualification."
+  },
+  {
+    "q0": 39655953,
+    "q3": "Turn-based grid (SRPG) with auto-battle; battles can be long; includes puzzle-like mechanics (e.g., four-in-a-row).",
+    "q4": 0,
+    "q5": "High drop rates but auto AI plays poorly and stages feel lengthy.",
+    "q23": true,
+    "q24": "No small UP guarantee; around 160 pulls lets you select one of the UPs. Newbie/standard/UP use the same ticket.",
+    "q31": 1,
+    "q32": "Resource income felt sufficient from early gameplay.",
+    "q41": "Initial test access/network issues; gacha often off-rate; auto AI causes frustration."
+  },
+  {
+    "q0": 40328409,
+    "q3": "War-chess tactical battles with 6-unit squads; rewards careful play or overleveling.",
+    "q6": "Players can clear by planning or by leveling; materials are craftable; can progress with as few as 3 well-built units.",
+    "q7": 1,
+    "q8": "Requires thought/route planning when underpowered; guides help.",
+    "q9": 1,
+    "q10": "Multiple progression paths (brainplay or grind); generous newbie/event support, including a free red unit.",
+    "q21": 1,
+    "q22": "Dev team adjusted trial event quickly after feedback (listens to players).",
+    "q23": true,
+    "q24": "Approx. 70 small pity and 160 big pity; not necessary to chase UP to progress.",
+    "q27": 2,
+    "q28": "Newbies receive about 200 pulls; event grants a free red character; gold units can fill roles.",
+    "q29": 1,
+    "q30": "Generous pulls and a free event 6-star reduce pressure to spend.",
+    "q31": 2,
+    "q32": "Around 200 newbie pulls; event grants a usable red; long-term activity gives 160 skin tickets (one free skin).",
+    "q15": "Material synthesis/crafting system to convert materials.",
+    "q16": true,
+    "q17": 1,
+    "q18": "Crafting is straightforward and supportive.",
+    "q19": 1,
+    "q20": "Crafting helps bridge resource gaps without heavy spending."
+  },
+  {
+    "q0": 40322043,
+    "q41": "Could not find a specific item after obtaining it; customer service unresponsive/unhelpful; suspects data padding."
+  },
+  {
+    "q0": 40295147,
+    "q41": "Accuses use of AI in splash art; calls core gameplay very poor."
+  },
+  {
+    "q0": 40287315,
+    "q4": -1,
+    "q5": "Gameplay feels bland and torturous; CN voice acting is repetitive/awkward despite decent drop rates.",
+    "q41": "Art quality varies; considers gacha rate high but the game boring."
+  },
+  {
+    "q0": 40287121
+  },
+  {
+    "q0": 40269583,
+    "q4": -1,
+    "q5": "War-chess pace/speed feels uncomfortable; overall combat lacks appeal.",
+    "q41": "Loading screen design is unappealing."
+  },
+  {
+    "q0": 40258541,
+    "q41": "Below expectations; apart from some art/music, finds little of value or fun."
+  },
+  {
+    "q0": 40258247,
+    "q41": "Gameplay is acceptable with some novelty; concerned about Bilibili publishing and long-term survival."
+  },
+  {
+    "q0": 40251889,
+    "q3": "Classic tactics/war-chess layered with Chinese aesthetic.",
+    "q4": -2,
+    "q5": "Battle visuals and animations are crude and off-putting; quickly skipped story/voice due to cringe.",
+    "q41": "Harsh art/UI critique; claims low rates and poor welfare (anecdotal)."
+  },
+  {
+    "q0": 40250553,
+    "q4": -1,
+    "q5": "Combat animations, dialogue, and forced tutorials are draggy; UI is tiring to use."
+  },
+  {
+    "q0": 40248901,
+    "q7": -1,
+    "q8": "As a strategy SRPG it feels insufficient versus competitors (e.g., Tiandi Jie)."
+  },
+  {
+    "q0": 40167939,
+    "q41": "Enjoys browsing artifact-related lore in-game."
+  },
+  {
+    "q0": 39722624,
+    "q7": -1,
+    "q8": "Tactics are mediocre; relies on randomization and systems borrowed from Arknights; insufficient strategic depth to retain fans.",
+    "q15": "Randomized gear/stat growth and multi-layered progression (e.g., constellations, gear rolls).",
+    "q41": "Critiques market viability of war-chess subgenre; dislikes randomized progression."
+  },
+  {
+    "q0": 40092893,
+    "q41": "Spent ~¥40–50; fears low popularity; mistakenly pulled on the wrong limited; wants certain commemorative/limited items to remain exclusive."
+  },
+  {
+    "q0": 40058506
+  },
+  {
+    "q0": 40043749
+  },
+  {
+    "q0": 40037150,
+    "q41": "Requests AI auto-battle optimization."
+  },
+  {
+    "q0": 39998008,
+    "q41": "Limited test required post-download registration; lost test qualification; negative test operations experience."
+  },
+  {
+    "q0": 39656852,
+    "q41": "Bilibili dubbed a 'mobile graveyard'; test qualification mishandled; anxious about post-launch ops."
+  },
+  {
+    "q0": 39988469,
+    "q4": -1,
+    "q5": "Battles and screen transitions take too long; wastes time.",
+    "q9": -1,
+    "q10": "Time-consuming grind and UI friction reduce patience.",
+    "q41": "UI flow not smooth; suggests shortening animations and transitions."
+  },
+  {
+    "q0": 39981935,
+    "q4": -1,
+    "q5": "Ultimate animations are weak and gameplay lacks fun despite good art/style.",
+    "q41": "Likes chibi art; hopes for system optimization."
+  },
+  {
+    "q0": 39669734,
+    "q4": 1,
+    "q5": "Combat is acceptable with no overly complex mechanics or difficulty spikes.",
+    "q7": -1,
+    "q8": "Mechanics are simple; lacks complexity.",
+    "q9": 1,
+    "q10": "No level or stage blocks encountered; difficulty acceptable."
+  },
+  {
+    "q0": 39972388,
+    "q27": 2,
+    "q28": "As a F2P, gacha rates feel high and stages are passable without spending; overall experience good."
+  },
+  {
+    "q0": 39889753,
+    "q41": "Hopes the game can survive long-term."
+  },
+  {
+    "q0": 39885891,
+    "q9": -1,
+    "q10": "Too many separate dungeons, early level caps require multiple farms; stamina micromanagement becomes tedious.",
+    "q29": -1,
+    "q30": "Skins are attractive but require payment; hard to grind enough tickets for them.",
+    "q41": "Flow feels too long and repetitive."
+  },
+  {
+    "q0": 39867148
+  },
+  {
+    "q0": 39865402,
+    "q41": "Failed to get a test account/slot."
+  },
+  {
+    "q0": 39860336,
+    "q3": "Simple, accessible war-chess combat.",
+    "q4": 0,
+    "q5": "Playable and easy to pick up but not very compelling."
+  },
+  {
+    "q0": 39851195,
+    "q4": -1,
+    "q5": "Aside from illustrations, little is compelling."
+  },
+  {
+    "q0": 39849706,
+    "q31": -1,
+    "q32": "Wants more generous welfare/rewards."
+  },
+  {
+    "q0": 39665239,
+    "q3": "War-chess tactics; initially confusing for newcomers but fun after familiarity.",
+    "q4": 1,
+    "q5": "Found the combat enjoyable once learned; left wanting more after test ended."
+  },
+  {
+    "q0": 39837747,
+    "q4": -2,
+    "q5": "Poor hand-feel with frequent mis-taps; auto AI behaves oddly; leveling and shop dependency make fights feel bad.",
+    "q11": -1,
+    "q12": "Healers/shields feel underpowered; tankiness and healing numbers don't match roles.",
+    "q41": "Art proportions sometimes feel AI-like; rough scene transitions; mis-taps due to small touch targets; auto units stop instead of engaging; leveling is hard and shop-dependent."
+  },
+  {
+    "q0": 39837716
+  },
+  {
+    "q0": 39825268,
+    "q3": "War-chess with boss mechanics that demand understanding and tailored teams.",
+    "q4": 1,
+    "q5": "Playable and enjoyable after learning mechanics; specific units shine in boss fights.",
+    "q6": "Boss-specific mechanics; unit recommendations/synergies (e.g., rabbit for boss, Tea sister as F2P carry, Jin'ou Cup as strong but fragile).",
+    "q9": -1,
+    "q10": "Boss fights can hard-gate progress for newcomers; progress lags peers despite active play.",
+    "q41": "Requests resource sweep function; notes officials plan changes; recommends certain units."
+  },
+  {
+    "q0": 39823790,
+    "q41": "Thinks the main character's illustration is unattractive."
+  },
+  {
+    "q0": 39822151,
+    "q41": "Detailed story/worldbuilding feedback: likes dialects and ideas but feels the 'Qujie' origin and emotional impact are weak; suggests time-travel-like storytelling to witness artifact origins."
+  },
+  {
+    "q0": 39816735,
+    "q41": "Cannot log in."
+  },
+  {
+    "q0": 39814193,
+    "q4": 1,
+    "q5": "Early game dull but later team-building adds fun; however, terrain can restrict unit choices.",
+    "q9": -1,
+    "q10": "Early progression requires some grind; events can be painful without it.",
+    "q11": -1,
+    "q12": "Six-star units are broadly overtuned; 'just raise 6-stars' mentality hurts balance.",
+    "q13": 0,
+    "q14": "Terrain differences and 6-star dominance limit team variety.",
+    "q41": "High-tier art quality with lower-tier mismatch; detailed chibi models; side stories show promise."
+  },
+  {
+    "q0": 39807474,
+    "q4": 1,
+    "q5": "Enjoys thinking-oriented war-chess; finds difficulty manageable and fun.",
+    "q7": 1,
+    "q8": "Requires planning/brainwork which the reviewer likes."
+  },
+  {
+    "q0": 39804550,
+    "q4": -2,
+    "q5": "Considers the core gameplay very bad despite some standout art."
+  },
+  {
+    "q0": 39804318,
+    "q4": -1,
+    "q5": "Damage formula/mechanics feel inexplicable; gameplay not enjoyable though art is appealing."
+  },
+  {
+    "q0": 39796602,
+    "q4": -1,
+    "q5": "War-chess battles take several minutes and feel tiring despite strong theme/art.",
+    "q41": "Notes the subgenre is niche."
+  },
+  {
+    "q0": 39795198,
+    "q23": true,
+    "q24": "Small pity can reset on off-rate; hard pity around 180; limited banners are short, making sparking difficult without spending.",
+    "q29": -2,
+    "q30": "Low rates, frequent off-rate pulls, short banner durations, and expensive skins create heavy pressure.",
+    "q31": -1,
+    "q32": "Resource and material shortages; skin requires 1500 currency; overall stingy.",
+    "q9": -2,
+    "q10": "Severe material scarcity, level caps, and forced formation restrictions block progress.",
+    "q41": "Requests skip options for big moves; hidden mission constraints (e.g., required melee units) feel unfair."
+  },
+  {
+    "q0": 39793698
+  },
+  {
+    "q0": 39791969,
+    "q9": -1,
+    "q10": "Overall fun but difficulty feels a bit high."
+  },
+  {
+    "q0": 39791680,
+    "q4": -1,
+    "q5": "Battle system feels poor.",
+    "q9": -1,
+    "q10": "Stamina consumption is excessive."
+  },
+  {
+    "q0": 39789353,
+    "q3": "Classic war-chess/tactical gameplay.",
+    "q4": 0,
+    "q5": "Overall acceptable experience; models are average."
+  },
+  {
+    "q0": 39786123
+  },
+  {
+    "q0": 39783168,
+    "q4": 1,
+    "q5": "Finds the game very playable.",
+    "q11": 0,
+    "q12": "Stats feel averaged with limited differentiation.",
+    "q21": 1,
+    "q22": "Rates operations/service as good.",
+    "q41": "Requests a sweep function; praises art/music and setting."
+  },
+  {
+    "q0": 39780632,
+    "q41": "Reports relatively high drop rate."
+  },
+  {
+    "q0": 39780193,
+    "q9": -1,
+    "q10": "Growth is cumbersome; auto AI is dumb; off-rate gacha is frustrating.",
+    "q41": "Won't spend; plans to focus only on units pulled; questions banner rotation cadence."
+  },
+  {
+    "q0": 39775374,
+    "q41": "Says combat mode and story need improvement; praises art and music."
+  },
+  {
+    "q0": 39770358,
+    "q9": -1,
+    "q10": "Cumbersome growth with many daily materials and no sweep; feels grindy.",
+    "q29": -1,
+    "q30": "Scarce pull resources and no pity carryover increase pressure.",
+    "q31": -1,
+    "q32": "Pull resources feel scarce; no pity inheritance.",
+    "q11": -1,
+    "q12": "Six-star units feel underwhelming/low numbers."
+  },
+  {
+    "q0": 39769884,
+    "q4": -1,
+    "q5": "Says gameplay is weak; story is poor."
+  },
+  {
+    "q0": 39768357,
+    "q4": 1,
+    "q5": "Battle experience is okay.",
+    "q31": 1,
+    "q32": "Pulls accumulate quickly, though banners can be very off-rate.",
+    "q41": "Growth is cumbersome; story lacks surprises; gacha can off-rate multiple times; skin purchased was attractive."
+  },
+  {
+    "q0": 39760902,
+    "q6": "Rich class taxonomy with limited intra-class differentiation.",
+    "q7": 0,
+    "q8": "Strategy feels middling; most roles feel similar within classes.",
+    "q15": "Weapon system with random affixes requiring repeated farming; constellation-like system for units.",
+    "q17": -1,
+    "q18": "Randomized weapon affixes make the loop grindy and opaque.",
+    "q19": -1,
+    "q20": "High stamina cost and RNG make gear farming low-yield.",
+    "q29": -1,
+    "q30": "Constellation splits and randomized gear are unfriendly to low spenders.",
+    "q41": "Weapon models feel cheap; good-will leveling feels slow."
+  },
+  {
+    "q0": 39655639,
+    "q41": "Praises inclusion of a sweep feature, contrasting with competitors."
+  },
+  {
+    "q0": 39756258,
+    "q3": "War-chess combat with Q-models and ult animations; currently a bit monotonous.",
+    "q4": 0,
+    "q5": "Core play is serviceable but somewhat monotonous; effects could be stronger.",
+    "q41": "Music quality varies; growth UI is convoluted; too many material dungeons; hopes for consolidation."
+  },
+  {
+    "q0": 39752947,
+    "q31": 1,
+    "q32": "Welfare feels good for new players.",
+    "q41": "New-player tutorial lacks detail; some systems require self-discovery."
+  },
+  {
+    "q0": 39752219,
+    "q9": -1,
+    "q10": "Too grindy."
+  },
+  {
+    "q0": 39751886,
+    "q41": "Drop rates feel high but often off-rate."
+  },
+  {
+    "q0": 39750814,
+    "q41": "Art is excellent; story is average and a bit fragmented; overall positive on '破局' test."
+  },
+  {
+    "q0": 39748742,
+    "q41": "Notes official server is Bilibili; implies concern."
+  },
+  {
+    "q0": 39741840,
+    "q4": -1,
+    "q5": "Finds the game not fun.",
+    "q41": "Mentions registration issues."
+  },
+  {
+    "q0": 39739839,
+    "q4": -1,
+    "q5": "Skills feel copy-pasted across roles; overlapping attack/wait buttons cause frequent misclicks.",
+    "q41": "Activity times tight; gacha is high-rate but very off-rate; some art/UI dislike."
+  },
+  {
+    "q0": 39739032,
+    "q41": "Requests further optimization of in-battle models."
+  },
+  {
+    "q0": 39738490,
+    "q41": "Regional dialect VO is distinctive; UI similar to Arknights; gacha experience okay; requests more androgynous male designs."
+  },
+  {
+    "q0": 39738340,
+    "q41": "Requests full-auto for every stage; UI feels gaudy; reports extremely off-rate gacha (six consecutive off-rate)."
+  },
+  {
+    "q0": 39737756,
+    "q23": true,
+    "q24": "No soft pity guaranteeing the current UP; can off-rate multiple times before hitting the target.",
+    "q11": -1,
+    "q12": "Without a red T0 unit the experience suffers; most gold units feel weak; nerfs to free units perceived as pushing spending.",
+    "q29": -1,
+    "q30": "Reliance on top-tier reds and nerfing free units increases pressure on non-spenders."
+  },
+  {
+    "q0": 39736855,
+    "q4": 2,
+    "q5": "Loves the gameplay/combat.",
+    "q41": "Thinks the story is terrible and should replace the writer."
+  },
+  {
+    "q0": 39735026,
+    "q3": "War-chess with boss fights; tutorial is brief so players learn by exploration.",
+    "q4": 1,
+    "q5": "Enjoys the strategic gameplay though boss fights can be tough.",
+    "q7": 1,
+    "q8": "Strategy feels strong; boss stages can require multiple attempts.",
+    "q9": -1,
+    "q10": "Leveling and material drops feel tiring; some tasks are too difficult; auto AI feels dumb.",
+    "q41": "Bug with enemy display; wants clearer tutorials; UI/red-dot clutter; suggests simpler UI and better dressing preview; wants higher UP rate."
+  }
+]

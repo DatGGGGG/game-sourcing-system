@@ -1,0 +1,372 @@
+[
+  {
+    "q0": 44700478
+  },
+  {
+    "q0": 44681143
+  },
+  {
+    "q0": 44676765,
+    "q41": "Feels like watching a movie rather than playing a game."
+  },
+  {
+    "q0": 44673914,
+    "q29": -1,
+    "q30": "Wants buy-to-play; worries heavy gacha/monetization will harm the experience."
+  },
+  {
+    "q0": 44671018
+  },
+  {
+    "q0": 44492701
+  },
+  {
+    "q0": 44426344
+  },
+  {
+    "q0": 44421162,
+    "q41": "Weapon design feels off/strange."
+  },
+  {
+    "q0": 44328852
+  },
+  {
+    "q0": 44138092
+  },
+  {
+    "q0": 44083985
+  },
+  {
+    "q0": 44066419,
+    "q41": "Portrait/landscape orientation brings to mind Brown Dust 2."
+  },
+  {
+    "q0": 44021861
+  },
+  {
+    "q0": 43877514
+  },
+  {
+    "q0": 43867664,
+    "q41": "Hopes for rich gameplay; prefers portrait mode."
+  },
+  {
+    "q0": 43862070,
+    "q41": "Criticizes it as an Octopath-style imitation lacking originality."
+  },
+  {
+    "q0": 43861117,
+    "q41": "Art style similar to Octopath Traveler; looks promising."
+  },
+  {
+    "q0": 43853975,
+    "q41": "Trailer visuals are too dark; prefers brighter scenes."
+  },
+  {
+    "q0": 43846388
+  },
+  {
+    "q0": 43842791,
+    "q41": "Wants cute-girls-bonding romance content."
+  },
+  {
+    "q0": 43839070,
+    "q41": "Negative on weapon design (“septic tank weapon”)."
+  },
+  {
+    "q0": 43828599,
+    "q41": "Dislikes invisible random encounters; wants visible enemies while traveling."
+  },
+  {
+    "q0": 43821108,
+    "q41": "Hopes growth/upgrade demand won’t be too grindy for working players."
+  },
+  {
+    "q0": 43809841,
+    "q41": "Requests a story skip option."
+  },
+  {
+    "q0": 43769836
+  },
+  {
+    "q0": 43763811,
+    "q3": "GBF-like turn-based combat with fast refresh and an auto-battle system where you can configure a per-skill timing/logic “skill axis.”",
+    "q4": 1,
+    "q5": "Combat refresh is smooth and the configurable auto is powerful, though a save bug occurred.",
+    "q6": "Configurable auto skill rotation/logic; weapon-grid farming; co-op raids; guild war.",
+    "q7": 1,
+    "q8": "Per-skill timing and team logic add planning depth alongside grid/raid systems.",
+    "q9": -1,
+    "q10": "Main story was short in the test.",
+    "q15": "Two-feel structure: narrative main story and a GBF-style grind loop (farm weapon grid, co-op raids, guild war, dailies/weeklies).",
+    "q16": false,
+    "q17": -1,
+    "q18": "Non-combat UX felt inconvenient (manual reward claiming, clunky navigation/load); suggests decoupling story from core grind.",
+    "q21": 1,
+    "q22": "A guild-war-like event was added during test and the team was responsive to feedback.",
+    "q41": "Performance/optimization issues; rough collisions during cutscenes; sparse presentation/FX; inconvenient UI (no auto-claim, slow page loads, device lock, no multi-window)."
+  },
+  {
+    "q0": 43761849,
+    "q3": "GBF-style turn-based system.",
+    "q4": 1,
+    "q5": "Likes the GBF mode; overall first test felt acceptable though map interaction was thin.",
+    "q41": "Map interactions felt sparse; hopes combat and map systems will integrate more."
+  },
+  {
+    "q0": 43761110,
+    "q3": "Turn-based combat mirroring GBF with weapon grid and summon setups.",
+    "q4": 1,
+    "q5": "Familiar and easy to pick up; feels fine despite being somewhat old-school.",
+    "q6": "Weapon-grid building; summon synergy selection; team composition.",
+    "q7": 1,
+    "q8": "Mature, build-oriented system; suggests guidance for new players.",
+    "q21": 1,
+    "q22": "Many test bugs but fixes came quickly after feedback.",
+    "q23": false,
+    "q24": "Reviewer proposes adding pity/exchange for key summons, implying no current guarantee for summons.",
+    "q41": "Bugs and optimization issues (map loading problems, crashes, stutter)."
+  },
+  {
+    "q0": 43759747
+  },
+  {
+    "q0": 43746837,
+    "q41": "Requests portrait/landscape screen switching; prefers landscape."
+  },
+  {
+    "q0": 43743281
+  },
+  {
+    "q0": 43740193,
+    "q4": -1,
+    "q5": "Believes GBF-like design is a dead end."
+  },
+  {
+    "q0": 43716183
+  },
+  {
+    "q0": 43701673
+  },
+  {
+    "q0": 43688044,
+    "q15": "Mentions/anticipates casual multiplayer modes.",
+    "q16": false
+  },
+  {
+    "q0": 43687856,
+    "q41": "Art style looks like Octopath Traveler 2; waiting and watching."
+  },
+  {
+    "q0": 43678099
+  },
+  {
+    "q0": 43672754
+  },
+  {
+    "q0": 43670677,
+    "q3": "Turn-based combat with chain attacks and detailed Full-Auto (FA) behavior settings.",
+    "q4": 0,
+    "q5": "Core framework is fine, but poor optimization and unpolished UI/presentation hurt the experience.",
+    "q6": "Detailed FA configuration; soloable boss content; material dungeons.",
+    "q7": 1,
+    "q8": "FA rules enable nuanced automation and planning.",
+    "q9": 1,
+    "q10": "Progression felt smooth in test (materials not gated; story grants early SSRs).",
+    "q11": -2,
+    "q12": "Reports an earth unit with permanent 500% DEF being overtuned.",
+    "q29": 1,
+    "q30": "Abundant test currency and freebies reduced perceived spending pressure.",
+    "q31": 2,
+    "q32": "Received many diamonds (~200 pulls) and story awarded 3 SSRs during test.",
+    "q41": "Severe performance/optimization issues; rough UI (plain '4chain' text, color-block UI); wants main screen to show character artwork."
+  },
+  {
+    "q0": 43668707
+  },
+  {
+    "q0": 43665707
+  },
+  {
+    "q0": 42512839,
+    "q3": "Time-limited turn-based battles with a weapon-grid system.",
+    "q4": 1,
+    "q5": "Finds the weapon-grid approach novel and fun.",
+    "q6": "High-DIY weapon-grid builds; multiplayer co-op raids.",
+    "q7": 2,
+    "q8": "High DIY build freedom and co-op coordination add depth.",
+    "q41": "First-test had many issues, notably optimization."
+  },
+  {
+    "q0": 43663053,
+    "q41": "Hopes the game finds its own unique features."
+  },
+  {
+    "q0": 42514103,
+    "q41": "Criticizes lack of changes/improvements."
+  },
+  {
+    "q0": 43661975
+  },
+  {
+    "q0": 43660091
+  },
+  {
+    "q0": 43649608,
+    "q29": -1,
+    "q30": "Would play if buy-to-play; wary of F2P monetization."
+  },
+  {
+    "q0": 43643920,
+    "q41": "Test qualification required following the account without prior notice, leading to frustration."
+  },
+  {
+    "q0": 43642206
+  },
+  {
+    "q0": 43636353,
+    "q41": "Did not receive test qualification despite following; unfollowed in frustration."
+  },
+  {
+    "q0": 43632902,
+    "q41": "Calls it a poor imitation of Octopath Traveler."
+  },
+  {
+    "q0": 43626027
+  },
+  {
+    "q0": 43619530
+  },
+  {
+    "q0": 43594167
+  },
+  {
+    "q0": 43557753
+  },
+  {
+    "q0": 43552264
+  },
+  {
+    "q0": 43551866
+  },
+  {
+    "q0": 43545961
+  },
+  {
+    "q0": 43529555
+  },
+  {
+    "q0": 43506239
+  },
+  {
+    "q0": 43494833,
+    "q41": "An advertisement popped up when applying for test qualification."
+  },
+  {
+    "q0": 43493071,
+    "q41": "Hopes the gameplay will be fresh; requests test access."
+  },
+  {
+    "q0": 43492891
+  },
+  {
+    "q0": 43492350,
+    "q15": "Multiplayer co-op/casual modes are a key draw.",
+    "q16": false
+  },
+  {
+    "q0": 43492207
+  },
+  {
+    "q0": 43492184
+  },
+  {
+    "q0": 43490604
+  },
+  {
+    "q0": 43490160,
+    "q9": -1,
+    "q10": "Tried a prior test but didn’t continue playing."
+  },
+  {
+    "q0": 43488696
+  },
+  {
+    "q0": 43487697
+  },
+  {
+    "q0": 43487419,
+    "q41": "Accused of copying Octopath Traveler; asks for innovation."
+  },
+  {
+    "q0": 43485018
+  },
+  {
+    "q0": 43344436
+  },
+  {
+    "q0": 43273633
+  },
+  {
+    "q0": 43130043
+  },
+  {
+    "q0": 43083371
+  },
+  {
+    "q0": 43042282,
+    "q15": "Loot grind with online co-op is a main attraction.",
+    "q16": false
+  },
+  {
+    "q0": 43022147
+  },
+  {
+    "q0": 43012029
+  },
+  {
+    "q0": 42894818
+  },
+  {
+    "q0": 42851525
+  },
+  {
+    "q0": 42790476,
+    "q15": "Online co-op is expected and valued for long-term play.",
+    "q16": false
+  },
+  {
+    "q0": 42781567
+  },
+  {
+    "q0": 42759016
+  },
+  {
+    "q0": 42758152
+  },
+  {
+    "q0": 42714567,
+    "q15": "Behind an initial farming/relax impression, the meta appears to be GBF-style grinding.",
+    "q16": false
+  },
+  {
+    "q0": 42634619
+  },
+  {
+    "q0": 42614442,
+    "q41": "Warns that copying Octopath’s visuals isn’t enough; hopes for unique class/ability mechanics."
+  },
+  {
+    "q0": 42610516
+  },
+  {
+    "q0": 42604818
+  },
+  {
+    "q0": 42604589
+  },
+  {
+    "q0": 42602763,
+    "q41": "Highlights that it supports switching between portrait and landscape."
+  }
+]

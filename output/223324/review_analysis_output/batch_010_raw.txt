@@ -1,0 +1,430 @@
+[
+  {
+    "q0": 39657187,
+    "q37": -2,
+    "q38": "Large multi-GB update; after downloading, server said test slots were full",
+    "q41": "Server capacity full despite test qualification; cannot enter"
+  },
+  {
+    "q0": 39656666,
+    "q23": true,
+    "q24": "Early/novice draw guarantees at least an SR",
+    "q31": 1,
+    "q32": "Received compensation of about 21 pulls",
+    "q41": "Old-fashioned tutorial; gameplay/art only slightly above average"
+  },
+  {
+    "q0": 39657183,
+    "q37": -2,
+    "q38": "Downloaded many GB for test, then told to race at server open; slots full",
+    "q41": "Misleading test qualification; wasted time/data"
+  },
+  {
+    "q0": 39657180,
+    "q41": "Had to race for slots; predownload; server crashed at open; network errors; failed to get in"
+  },
+  {
+    "q0": 39657175,
+    "q41": "Frustration with test-qualification handling"
+  },
+  {
+    "q0": 39657173,
+    "q41": "Shown as qualified but after download cannot enter"
+  },
+  {
+    "q0": 39657160,
+    "q4": -2,
+    "q5": "Calls main story boring and core gameplay dull",
+    "q41": "Suggests playing another game instead"
+  },
+  {
+    "q0": 39657154,
+    "q41": "Accuses the game of inflating download count"
+  },
+  {
+    "q0": 39655825,
+    "q41": "Server instability; progress stuck at 100%; race-to-register testing; complains about servers and rating jumps"
+  },
+  {
+    "q0": 39657152,
+    "q41": "Given qualification and forced to download, then told no access"
+  },
+  {
+    "q0": 39657148,
+    "q41": "Can download but cannot play"
+  },
+  {
+    "q0": 39657140,
+    "q9": -2,
+    "q10": "Tutorial flow bugged; guided gacha lacked tickets and soft-locked at 150 exchange",
+    "q41": "Onboarding/gacha flow can soft-lock"
+  },
+  {
+    "q0": 39657133,
+    "q41": "Inconsistent/Schrödinger's qualification"
+  },
+  {
+    "q0": 39657132,
+    "q41": "Shown qualified yesterday but told full at launch; wasted data on update"
+  },
+  {
+    "q0": 39657124,
+    "q3": "Turn-based, grid-based tactics ('battle chess')",
+    "q4": -2,
+    "q5": "Derides the tactical combat and chibi style; leaves negative impression"
+  },
+  {
+    "q0": 39657122,
+    "q41": "Downloaded but cannot play; doubts about live service quality at launch"
+  },
+  {
+    "q0": 39657110,
+    "q39": -2,
+    "q40": "Severe stutter/freeze; stuck at 100% loading; couldn't get in"
+  },
+  {
+    "q0": 39657109,
+    "q41": "Claims testing is a lie"
+  },
+  {
+    "q0": 39657107,
+    "q4": -2,
+    "q5": "Says gameplay is boring",
+    "q39": -2,
+    "q40": "Server crash, persistent network errors, heavy lag, black screens; forced to redo tutorial",
+    "q41": "Unstable network and frequent black screens; poor onboarding loop"
+  },
+  {
+    "q0": 39657088,
+    "q41": "Only got install qualification; left a 1-star out of frustration"
+  },
+  {
+    "q0": 39657080,
+    "q41": "Install qualification only; in-game says slots full"
+  },
+  {
+    "q0": 39657071,
+    "q41": "Yesterday showed qualified; today cannot play"
+  },
+  {
+    "q0": 39657069,
+    "q41": "Download does not mean qualified; deceptive"
+  },
+  {
+    "q0": 39657067,
+    "q41": "Says games keep crashing servers during tests"
+  },
+  {
+    "q0": 39657061,
+    "q41": "Performance stutter; tapping dialogue stops voice and auto; server crash in test"
+  },
+  {
+    "q0": 39657055,
+    "q41": "Got qualification notification; on login told test full"
+  },
+  {
+    "q0": 39657051,
+    "q41": "Limited test; server crashed at start; wasted mobile data; did not get test access"
+  },
+  {
+    "q0": 39657048,
+    "q9": -2,
+    "q10": "After gacha during tutorial, stuck on the draw page and cannot proceed",
+    "q41": "Soft-locked during tutorial gacha"
+  },
+  {
+    "q0": 39657047,
+    "q41": "Install qualification does not equal test qualification"
+  },
+  {
+    "q0": 39657041,
+    "q41": "Downloaded a long time but denied entry"
+  },
+  {
+    "q0": 39657030,
+    "q41": "Finished download then told cannot play"
+  },
+  {
+    "q0": 39657029,
+    "q41": "Accuses of download farming; after download says player cap reached"
+  },
+  {
+    "q0": 39657028,
+    "q31": -2,
+    "q32": "Test gives very few summons; no newbie banner; only limited banners; 20–30 pulls yielded nothing",
+    "q41": "Story cannot be sped up; tapping to show all lines cuts voice with no replay; severe stutter/black screens; test qualification issue"
+  },
+  {
+    "q0": 39657012,
+    "q41": "Operations poor; opening reminiscent of another game's troubled launch; criticizes monetization-first approach"
+  },
+  {
+    "q0": 39657009,
+    "q41": "Claims they had qualification but could not get in"
+  },
+  {
+    "q0": 39656995,
+    "q41": "Aside from qualification and initial lag issues, praises in-level story, audio, and visuals"
+  },
+  {
+    "q0": 39656975,
+    "q41": "Downloaded but cannot register"
+  },
+  {
+    "q0": 39656974,
+    "q37": -2,
+    "q38": "Over 3 GB of data downloaded before being told no qualification",
+    "q41": "Late gating of test access after large download"
+  },
+  {
+    "q0": 39656967,
+    "q41": "Able to download but not play"
+  },
+  {
+    "q0": 39656965,
+    "q41": "TapTap showed qualified; entering game froze"
+  },
+  {
+    "q0": 39656963,
+    "q41": "Accuses of inflating download count; double-qualification requirement"
+  },
+  {
+    "q0": 39656944,
+    "q41": "Accuses of download bait"
+  },
+  {
+    "q0": 39656938,
+    "q41": "Separate download and registration qualifications; player feels like a clown"
+  },
+  {
+    "q0": 39656937,
+    "q37": -2,
+    "q38": "Spent several GB downloading/updating then told capacity full",
+    "q41": "Questions meaning of earlier test qualification"
+  },
+  {
+    "q0": 39656924,
+    "q41": "Had qualification but still had to race for test slots; frustration"
+  },
+  {
+    "q0": 39656923,
+    "q41": "Accuses of download bait; told registration full after using mobile data"
+  },
+  {
+    "q0": 39656921,
+    "q3": "Classic grid-based turn-based tactics",
+    "q6": "Currently lacks standout mechanics; suggestion to add unique attributes/knockdown-like systems",
+    "q7": -1,
+    "q8": "Feels standard without unique tactical systems",
+    "q39": -2,
+    "q40": "Frequent network errors, long loading, and connection error overlay blocking subtitles",
+    "q41": "Strong cultural theme with Chinese dialect voice acting praised; optimization/network issues hinder experience"
+  },
+  {
+    "q0": 39656918,
+    "q41": "Got qualification but registration filled within five minutes"
+  },
+  {
+    "q0": 39656915,
+    "q41": "Complains about test-qualification handling and poor attitude"
+  },
+  {
+    "q0": 39656914,
+    "q41": "Downloaded after getting qualification; at login told test full; time wasted"
+  },
+  {
+    "q0": 39656912,
+    "q41": "Having test qualification does not guarantee access"
+  },
+  {
+    "q0": 39656910,
+    "q41": "Couldn't enter at start; later told slot cap reached; had to keep tapping to try to get in"
+  },
+  {
+    "q0": 39656905,
+    "q37": -2,
+    "q38": "After initial downloads, forced to redownload about 3 GB at start time on mobile data",
+    "q39": -2,
+    "q40": "Network errors followed by an additional 3 GB resource download",
+    "q41": "After updating, told registration full; extreme frustration"
+  },
+  {
+    "q0": 39656904,
+    "q41": "Missed registration while in class; asks about public test timing"
+  },
+  {
+    "q0": 39656900,
+    "q41": "Cannot enter; suspects they're just testing download count"
+  },
+  {
+    "q0": 39656896
+  },
+  {
+    "q0": 39656742,
+    "q37": -2,
+    "q38": "Had to download about 3 GB before discovering slots must be raced for",
+    "q41": "Says announcement insufficient; people can still download without a slot; accuses of scheming for downloads"
+  },
+  {
+    "q0": 39656841,
+    "q41": "Could only play about eight minutes"
+  },
+  {
+    "q0": 39656873,
+    "q41": "Disappointing start; will watch for improvements"
+  },
+  {
+    "q0": 39656870,
+    "q4": -2,
+    "q5": "Calls it an unoriginal reskin and boring"
+  },
+  {
+    "q0": 39656860,
+    "q25": -2,
+    "q26": "Single pull costs 150; dailies give no currency; weeklies only 50",
+    "q29": -2,
+    "q30": "High pull cost with meager income increases spending pressure",
+    "q31": -2,
+    "q32": "Very low free premium currency (0 daily, 50 weekly)"
+  },
+  {
+    "q0": 39656853,
+    "q41": "Registration race for test; server crash; theme is promising; will wait for public test"
+  },
+  {
+    "q0": 39656848,
+    "q37": -2,
+    "q38": "Pre-download several GB; at open another large download; then told registration cap reached",
+    "q39": -2,
+    "q40": "Multiple large resource downloads around launch",
+    "q41": "Complains about long pre-registration hype and being toyed with"
+  },
+  {
+    "q0": 39656831,
+    "q41": "Test slots were gone within an hour"
+  },
+  {
+    "q0": 39656828,
+    "q41": "Downloaded but cannot register; suggests blocking downloads for those without slots"
+  },
+  {
+    "q0": 39656825,
+    "q41": "Dual test qualifications required"
+  },
+  {
+    "q0": 39656821,
+    "q41": "States that having test qualification doesn't mean you can test"
+  },
+  {
+    "q0": 39656811,
+    "q41": "Accuses of download baiting; even with qualification couldn't register; performance very laggy"
+  },
+  {
+    "q0": 39656806,
+    "q41": "Persistent network lag; then suddenly told registration cap reached; already lagging minutes after open"
+  },
+  {
+    "q0": 39656803,
+    "q41": "Download showed qualification; on entry says no qualification"
+  },
+  {
+    "q0": 39656801,
+    "q41": "Sarcastically: 'so fun that they don't let you play'"
+  },
+  {
+    "q0": 39656800,
+    "q41": "Slots too few; gone in under half an hour"
+  },
+  {
+    "q0": 39656789,
+    "q41": "Art inconsistent; lacks standout style; SSR rarity not visually distinguished"
+  },
+  {
+    "q0": 39656785,
+    "q41": "Seems good but cannot enter"
+  },
+  {
+    "q0": 39655730,
+    "q41": "Couldn't get into test; uninstalled; predicts failure"
+  },
+  {
+    "q0": 39656782,
+    "q41": "Summary: download bait"
+  },
+  {
+    "q0": 39656775,
+    "q41": "Missed slot due to player cap; server likely insufficient; jokes about related merch"
+  },
+  {
+    "q0": 39656773,
+    "q41": "Qualification only allows download, not play; suggests shutting test down early"
+  },
+  {
+    "q0": 39656772,
+    "q41": "Likes art/theme but complains the newbie pool consumed ten pulls without value"
+  },
+  {
+    "q0": 39656770,
+    "q41": "Download finished but still had to scramble for slots"
+  },
+  {
+    "q0": 39656767,
+    "q41": "Had qualification but blocked by network errors until registration filled"
+  },
+  {
+    "q0": 39656755,
+    "q41": "Got qualification but still cannot enter"
+  },
+  {
+    "q0": 39656612,
+    "q41": "Cannot play; always network error or registration full"
+  },
+  {
+    "q0": 39656325,
+    "q4": -2,
+    "q5": "Reports winning a battle but being marked as failed",
+    "q41": "Newbie banner promised 40 pulls but only allowed one 10-pull"
+  },
+  {
+    "q0": 39656746,
+    "q41": "Demands compensation for wasted mobile data"
+  },
+  {
+    "q0": 39656743,
+    "q41": "Download bait; only those watching announcements could avoid; will revisit at public launch"
+  },
+  {
+    "q0": 39656739,
+    "q41": "Felt deceived; wasted data; cannot enter; must have registration qualification"
+  },
+  {
+    "q0": 39655678,
+    "q41": "Music/art okay; everything else poor"
+  },
+  {
+    "q0": 39656732,
+    "q41": "At 11:00 network errors; later told slots gone; dev said qualification message was a bug; wasted time/data"
+  },
+  {
+    "q0": 39656731,
+    "q41": "Given qualification, then next day had to compete for slots again"
+  },
+  {
+    "q0": 39656717,
+    "q41": "Says downloads bloat storage to feed download stats; mocks 'contact CS to download' messaging"
+  },
+  {
+    "q0": 39656712,
+    "q39": -2,
+    "q40": "Severe stutter; resources can fail to load",
+    "q41": "Performance instability"
+  },
+  {
+    "q0": 39656704,
+    "q41": "Got qualification, used mobile data to download, saw network fluctuations, then 'registration full'"
+  },
+  {
+    "q0": 39656702,
+    "q41": "Server/network poor; frequent black screens"
+  }
+]

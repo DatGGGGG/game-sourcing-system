@@ -1,0 +1,352 @@
+[
+  {
+    "q0": 42601956,
+    "q41": "Identifies it as a gacha; hopes welfare comparable to Brown Dust 2"
+  },
+  {
+    "q0": 42584454,
+    "q41": "Unclear gameplay; speculates multiple possible modes (separate battle screen, action with timer, grid tactics, or idle story mode)"
+  },
+  {
+    "q0": 42580931,
+    "q41": "Criticizes trailer using English/Japanese instead of Chinese"
+  },
+  {
+    "q0": 42580845
+  },
+  {
+    "q0": 42576738,
+    "q41": "Hopes generosity/welfare will be good"
+  },
+  {
+    "q0": 42573699,
+    "q41": "Compares it to a domestic GBF and is eager to try"
+  },
+  {
+    "q0": 42572297,
+    "q29": -2,
+    "q30": "Rejects playing due to gacha; expresses preference to spend money elsewhere"
+  },
+  {
+    "q0": 42568919,
+    "q29": -1,
+    "q30": "Prefers a buyout model; disappointed it seems GBF-like (gacha)"
+  },
+  {
+    "q0": 42566542,
+    "q6": "Multiplayer co-op",
+    "q7": 1,
+    "q8": "States co-op is the most important aspect",
+    "q41": "Asks about an 'F5' feature; dismisses buyout expectations, emphasizing co-op"
+  },
+  {
+    "q0": 42559575,
+    "q41": "Hopes for a buyout model"
+  },
+  {
+    "q0": 42550152
+  },
+  {
+    "q0": 42548239,
+    "q29": -1,
+    "q30": "Pre-registration 'ten-pull' deterred them; dislikes gacha structure"
+  },
+  {
+    "q0": 42546691,
+    "q29": -1,
+    "q30": "Wanted a buyout Octopath-like RPG; seeing gacha removed desire to play"
+  },
+  {
+    "q0": 42545860,
+    "q41": "Will rate low if it includes a 'stone' system (likely stamina/energy)"
+  },
+  {
+    "q0": 42545046,
+    "q41": "Notes GBF’s systems are dated but have merits; hopes the game keeps the good parts"
+  },
+  {
+    "q0": 42544638,
+    "q41": "Hopes for Octopath-level quality and a buyout model"
+  },
+  {
+    "q0": 42538968,
+    "q41": "Requests good mobile optimization; otherwise will use emulator"
+  },
+  {
+    "q0": 42536815,
+    "q29": -1,
+    "q30": "Seeing a pre-reg ten-pull erased desire to play"
+  },
+  {
+    "q0": 42536386
+  },
+  {
+    "q0": 42533381
+  },
+  {
+    "q0": 42533299
+  },
+  {
+    "q0": 42531897
+  },
+  {
+    "q0": 42530591
+  },
+  {
+    "q0": 42530419,
+    "q41": "Praises vertical (portrait) orientation and art; says it has a Shadowverse vibe"
+  },
+  {
+    "q0": 42529598
+  },
+  {
+    "q0": 42526144,
+    "q29": -1,
+    "q30": "Complains games are tied to gacha/lotteries"
+  },
+  {
+    "q0": 42525945
+  },
+  {
+    "q0": 42525550,
+    "q29": -1,
+    "q30": "Fears a gacha + instanced dungeon ARPG loop similar to Laplace M; prefers not having instanced ARPG focus"
+  },
+  {
+    "q0": 42524968,
+    "q29": -2,
+    "q30": "Strongly opposes gacha"
+  },
+  {
+    "q0": 42524911
+  },
+  {
+    "q0": 42524820
+  },
+  {
+    "q0": 42524741
+  },
+  {
+    "q0": 42524583,
+    "q29": -1,
+    "q30": "Dislikes card locks and limited banners; can keep playing if these are avoided and prefers buyout",
+    "q41": "Wants a story-rich, anime-like experience"
+  },
+  {
+    "q0": 42524431,
+    "q41": "Supports portrait (vertical) mode"
+  },
+  {
+    "q0": 42524330
+  },
+  {
+    "q0": 42524194
+  },
+  {
+    "q0": 42523175
+  },
+  {
+    "q0": 42523150,
+    "q41": "Says character art and UI look cheap; predicts failure unless improved"
+  },
+  {
+    "q0": 42522007
+  },
+  {
+    "q0": 42521601,
+    "q41": "Questions gameplay depth and controls; dislikes vertical or orientation switching; worries about grind and inflated ratings; urges focus on making it fun"
+  },
+  {
+    "q0": 42520686,
+    "q6": "Weapon build system; multiplayer co-op",
+    "q7": 1,
+    "q8": "Mentions portrait mode with weapon builds and co-op that look fun"
+  },
+  {
+    "q0": 42520492
+  },
+  {
+    "q0": 42520234
+  },
+  {
+    "q0": 42520007
+  },
+  {
+    "q0": 42519832
+  },
+  {
+    "q0": 42519557
+  },
+  {
+    "q0": 42519484
+  },
+  {
+    "q0": 42519283
+  },
+  {
+    "q0": 42519094,
+    "q41": "Asks for generous launch rewards"
+  },
+  {
+    "q0": 42518014,
+    "q6": "Large number of weapons and combinations",
+    "q7": 1,
+    "q8": "Highlights '114 weapons, 514 combinations' implying build options",
+    "q13": 1,
+    "q14": "Notes many weapon combinations indicating build diversity"
+  },
+  {
+    "q0": 42517469
+  },
+  {
+    "q0": 42517312
+  },
+  {
+    "q0": 42517284,
+    "q41": "Advocates branching narrative with moral choices and stronger immersion; asks about buyout vs F2P monetization direction"
+  },
+  {
+    "q0": 42517249,
+    "q6": "Multiplayer co-op",
+    "q7": 1,
+    "q8": "Says co-op gameplay is eye-catching"
+  },
+  {
+    "q0": 42517172
+  },
+  {
+    "q0": 42517152
+  },
+  {
+    "q0": 42516824
+  },
+  {
+    "q0": 42516745
+  },
+  {
+    "q0": 42516614
+  },
+  {
+    "q0": 42516452
+  },
+  {
+    "q0": 42516168
+  },
+  {
+    "q0": 42515883,
+    "q41": "Will avoid if it is turn-based"
+  },
+  {
+    "q0": 42515822,
+    "q41": "Wants a domestic GBF competitor; rallying to surpass Cygames"
+  },
+  {
+    "q0": 42515784
+  },
+  {
+    "q0": 42515372
+  },
+  {
+    "q0": 42515162
+  },
+  {
+    "q0": 42515104,
+    "q41": "Asks if there is an affection/relationship system"
+  },
+  {
+    "q0": 42515054
+  },
+  {
+    "q0": 42514957,
+    "q1": true,
+    "q2": "Mentions 'homo' content in gallery images",
+    "q41": "Likes the look but complains about pervasive 'homo' content in the gallery"
+  },
+  {
+    "q0": 42514895
+  },
+  {
+    "q0": 42514820,
+    "q41": "No combat footage shown yet; hard to evaluate"
+  },
+  {
+    "q0": 42514232
+  },
+  {
+    "q0": 42514142,
+    "q6": "Portrait mode; multiplayer co-op; social systems",
+    "q7": 1,
+    "q8": "Requests unique combat design not dominated by stat-carry; wants social emphasis"
+  },
+  {
+    "q0": 42514100,
+    "q41": "Hopes it can compete with GBF; guild plans to migrate if good"
+  },
+  {
+    "q0": 42513980
+  },
+  {
+    "q0": 42513952,
+    "q41": "Unsure about grind level despite promising visuals and gameplay"
+  },
+  {
+    "q0": 42513914
+  },
+  {
+    "q0": 42513879
+  },
+  {
+    "q0": 42513874,
+    "q29": -1,
+    "q30": "Asks to avoid 'door in/out' layering plus gacha like a competitor"
+  },
+  {
+    "q0": 42513713,
+    "q41": "Wants richer gameplay with lower grind; eager for a test build"
+  },
+  {
+    "q0": 42513662
+  },
+  {
+    "q0": 42513543,
+    "q29": -1,
+    "q30": "Opposes Octopath-style gacha with 5-star packs"
+  },
+  {
+    "q0": 42513541
+  },
+  {
+    "q0": 42513494
+  },
+  {
+    "q0": 42513458
+  },
+  {
+    "q0": 42513398
+  },
+  {
+    "q0": 42513352
+  },
+  {
+    "q0": 42513286
+  },
+  {
+    "q0": 42513232
+  },
+  {
+    "q0": 42513212
+  },
+  {
+    "q0": 42513209
+  },
+  {
+    "q0": 42513147
+  },
+  {
+    "q0": 42513106
+  },
+  {
+    "q0": 42513090,
+    "q41": "Asks about drops for certain 'beast sprites', implying loot expectations"
+  }
+]

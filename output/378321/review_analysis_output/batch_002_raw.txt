@@ -1,0 +1,495 @@
+[
+  {
+    "q0": 45898492,
+    "q1": true,
+    "q2": "Sexualized visuals/fanservice",
+    "q9": -1,
+    "q10": "Leveling/upgrading is slow and yields too little; growth feels painful",
+    "q31": -1,
+    "q32": "Resources abundant early but very scarce later"
+  },
+  {
+    "q0": 45893583,
+    "q9": -1,
+    "q10": "Feature unlock gating/permission level bug: codex says needs level 1 while at level 20; told to keep leveling",
+    "q41": "Codex unlock/permission level display bug"
+  },
+  {
+    "q0": 45887357
+  },
+  {
+    "q0": 45884944,
+    "q31": -1,
+    "q32": "Event promised UR login reward not received (Feilang Festival)",
+    "q41": "Event reward delivery issue (UR not granted)"
+  },
+  {
+    "q0": 45871931,
+    "q39": -2,
+    "q40": "Stuck after download; cannot enter the game"
+  },
+  {
+    "q0": 45871578,
+    "q39": -2,
+    "q40": "App unresponsive; stuck and not moving"
+  },
+  {
+    "q0": 45869669,
+    "q39": -2,
+    "q40": "Cannot enter the game"
+  },
+  {
+    "q0": 45869278,
+    "q39": -2,
+    "q40": "iOS crashes; tablet/emulator blocked from entering",
+    "q41": "Emulator access blocked"
+  },
+  {
+    "q0": 45867588
+  },
+  {
+    "q0": 45854868
+  },
+  {
+    "q0": 45853027,
+    "q31": 1,
+    "q32": "Plenty of welfare; characters and skins look good"
+  },
+  {
+    "q0": 45852935,
+    "q41": "Skins missing from the costume shop"
+  },
+  {
+    "q0": 45838784,
+    "q41": "Customer service/unofficial channels unresponsive; real-name verification wrongly flags account as underage on registration"
+  },
+  {
+    "q0": 45837494,
+    "q41": "Account disappeared after an update"
+  },
+  {
+    "q0": 45833023,
+    "q9": -1,
+    "q10": "Leveling up is hard"
+  },
+  {
+    "q0": 45824868,
+    "q31": -1,
+    "q32": "Summer login UR self-select reward missing",
+    "q41": "Event UR self-select not received"
+  },
+  {
+    "q0": 45822256,
+    "q31": -1,
+    "q32": "Cannot find the UR self-select reward",
+    "q41": "Missing UR self-select"
+  },
+  {
+    "q0": 45821234,
+    "q1": true,
+    "q2": "Sexualized/erotic character art",
+    "q31": 1,
+    "q32": "100% resource refund on resets; later-stage resource income becomes easier; good for casual play"
+  },
+  {
+    "q0": 45815127,
+    "q31": 1,
+    "q32": "Resources are plentiful",
+    "q27": -1,
+    "q28": "Too many pay points; power lags without spending",
+    "q29": -2,
+    "q30": "Heavy monetization required to raise combat power"
+  },
+  {
+    "q0": 45795409,
+    "q31": 1,
+    "q32": "Summer and returnee welfare are good; worth trying with some patience"
+  },
+  {
+    "q0": 45806927,
+    "q23": true,
+    "q24": "High pity counts reported: ~120 pulls for a hero, ~200 pulls for a pet"
+  },
+  {
+    "q0": 45802624,
+    "q9": -1,
+    "q10": "Tutorial cannot be skipped; feels controlling and uncomfortable",
+    "q41": "Overlong, unskippable tutorial"
+  },
+  {
+    "q0": 45802256
+  },
+  {
+    "q0": 45793282,
+    "q39": -2,
+    "q40": "App crashes (flashback)"
+  },
+  {
+    "q0": 45777243,
+    "q9": 0,
+    "q10": "Early game feels mediocre but improves with time"
+  },
+  {
+    "q0": 45728184,
+    "q41": "Account lost after reinstall; login no longer finds the account"
+  },
+  {
+    "q0": 45668336,
+    "q41": "UI feels cluttered and flashy; overall content similar to other titles but weaker than Azur Lane"
+  },
+  {
+    "q0": 45578058,
+    "q31": 1,
+    "q32": "Early resource acquisition is easy; can save diamonds to buy outfit vouchers, though purchases are limited",
+    "q41": "Outfit voucher/shop has purchase limits"
+  },
+  {
+    "q0": 45564371,
+    "q41": "No billing/receipt history; requests a bill inquiry feature"
+  },
+  {
+    "q0": 45540529,
+    "q1": true,
+    "q2": "Sexual/erotic content"
+  },
+  {
+    "q0": 45483785,
+    "q31": 1,
+    "q32": "Early resources are plentiful; gameplay is casual"
+  },
+  {
+    "q0": 45480631
+  },
+  {
+    "q0": 44690699,
+    "q31": 1,
+    "q32": "Early resources okay if you grind; later rely on season/events/sign-ins; shop also gives a lot",
+    "q23": true,
+    "q24": "Pity system: character banner big pity at 120; weapon banner big pity at 60 with high on-rate (80% not off-banner)",
+    "q21": 1,
+    "q22": "Tight schedule and frequent reruns; requires diamond planning"
+  },
+  {
+    "q0": 45459238,
+    "q11": -2,
+    "q12": "Severe power creep: SSRs eclipsed by later URs; balance poor for F2P",
+    "q27": -2,
+    "q28": "Severe monetization and power inflation make F2P experience very bad",
+    "q29": -2,
+    "q30": "Heavy pay-to-win pressure due to power creep"
+  },
+  {
+    "q0": 45380056,
+    "q9": -1,
+    "q10": "After level 45 the game becomes daily level grind"
+  },
+  {
+    "q0": 45408695,
+    "q31": -1,
+    "q32": "Promised self-select 10-pull missing",
+    "q41": "Missing self-select 10-pull"
+  },
+  {
+    "q0": 45407372,
+    "q41": "Dead Sea Survival mode controls feel bad; needs optimization"
+  },
+  {
+    "q0": 45397363
+  },
+  {
+    "q0": 45388357,
+    "q41": "Official redemption code not working"
+  },
+  {
+    "q0": 45369976
+  },
+  {
+    "q0": 45349725,
+    "q31": -1,
+    "q32": "Sign-in reward (Witch Prinna) missing from roster",
+    "q41": "Sign-in reward not delivered"
+  },
+  {
+    "q0": 45348514,
+    "q29": -1,
+    "q30": "High grind and monetization; better as a side game"
+  },
+  {
+    "q0": 45341338,
+    "q1": true,
+    "q2": "Sexual art censored in CN version (extra cloth); erotic appeal reduced",
+    "q31": -1,
+    "q32": "Low welfare; too few ways to obtain resources",
+    "q41": "Cannot skip dungeons that should be skippable"
+  },
+  {
+    "q0": 45312465,
+    "q9": -1,
+    "q10": "Overbearing tutorial; cannot access settings until finishing chapter 2",
+    "q41": "Excessive onboarding/tutorial, settings locked early"
+  },
+  {
+    "q0": 45309149,
+    "q1": true,
+    "q2": "Sexual content with censorship; user seeks 'uncensor'"
+  },
+  {
+    "q0": 45294843,
+    "q3": "Idle/AFK card battler"
+  },
+  {
+    "q0": 45284482,
+    "q27": -2,
+    "q28": "Some growth materials are only obtainable via payment",
+    "q29": -2,
+    "q30": "Non-spenders cannot play effectively; paywall on progression items",
+    "q31": -1,
+    "q32": "Free paths to key growth items are lacking"
+  },
+  {
+    "q0": 45205451,
+    "q39": -2,
+    "q40": "Large 3+ GB resource download repeats and then hangs at 100%; cannot play"
+  },
+  {
+    "q0": 45194204,
+    "q41": "Bug: pulled character not visible in roster interface"
+  },
+  {
+    "q0": 45153622,
+    "q9": -1,
+    "q10": "Tutorial is excessively long",
+    "q41": "Overlong tutorial"
+  },
+  {
+    "q0": 45102654,
+    "q33": true,
+    "q34": "Collaboration with Scarlet Echoes (绯色回响), featuring a 'Holy Grail' item",
+    "q35": 0,
+    "q36": "Only an item is mentioned; integration appears shallow"
+  },
+  {
+    "q0": 45055425,
+    "q3": "Turn-based, place units and auto-battle; essentially a number-driven idle game",
+    "q4": -2,
+    "q5": "Very little gameplay; mostly auto and numbers",
+    "q1": true,
+    "q2": "Sexualized content with censorship; requires 'fhx' to view uncensored",
+    "q31": 1,
+    "q32": "New player welfare is good; early on you can grind a lot; some skins obtainable via events or diamonds",
+    "q9": -2,
+    "q10": "Late-game progression is gated by level and XP; many features locked behind level caps",
+    "q27": -1,
+    "q28": "Higher spend directly raises power; P2W scaling evident",
+    "q41": "Banners locked until clearing chapters; level-gating feels bad"
+  },
+  {
+    "q0": 45055173,
+    "q41": "Missing self-select 10-pull; asks where it is"
+  },
+  {
+    "q0": 45043552,
+    "q39": -2,
+    "q40": "Cannot enter the game"
+  },
+  {
+    "q0": 45043454
+  },
+  {
+    "q0": 45001950,
+    "q9": -2,
+    "q10": "Power stalls and main story cannot be pushed; microspenders hit a wall",
+    "q27": -1,
+    "q28": "Microtransactions insufficient to progress; power gating"
+  },
+  {
+    "q0": 45001782,
+    "q31": 0,
+    "q32": "Requests more welfare despite finding it fun"
+  },
+  {
+    "q0": 44993967,
+    "q41": "Self-select 10-pull missing; suspected 'eaten'"
+  },
+  {
+    "q0": 44935584,
+    "q41": "Cannot find self-select 10-pull"
+  },
+  {
+    "q0": 44934816,
+    "q31": -1,
+    "q32": "Chapter 3 self-select 10-pull missing",
+    "q41": "Self-select 10-pull missing after chapter 3"
+  },
+  {
+    "q0": 44931358,
+    "q41": "Screen aspect ratio/display mismatch"
+  },
+  {
+    "q0": 44924163,
+    "q27": -2,
+    "q28": "Designed for big spenders; late-game story is blocked unless you pay",
+    "q29": -2,
+    "q30": "Forces spending to progress",
+    "q9": -2,
+    "q10": "Late-game story battles cannot be cleared without spending"
+  },
+  {
+    "q0": 44887293,
+    "q9": -1,
+    "q10": "Tutorial/guidance is long and tedious ('臭又长')",
+    "q41": "Overlong guidance/tutorial"
+  },
+  {
+    "q0": 44879644
+  },
+  {
+    "q0": 44853728,
+    "q29": -1,
+    "q30": "Implied daily spending habit"
+  },
+  {
+    "q0": 44852044,
+    "q41": "Gacha collection feels impossible; extremely hard to collect all"
+  },
+  {
+    "q0": 44850581,
+    "q39": -2,
+    "q40": "Downloaded multiple times and switched routes/lines; still cannot start"
+  },
+  {
+    "q0": 44846032
+  },
+  {
+    "q0": 44825313,
+    "q41": "Game feels boring alone; seeks co-op/social play"
+  },
+  {
+    "q0": 44755612,
+    "q27": -2,
+    "q28": "Purely pay-to-win outside of skins; even after spending you must keep paying to stay strong",
+    "q29": -2,
+    "q30": "Continuous spending required to remain competitive"
+  },
+  {
+    "q0": 44706278,
+    "q21": 2,
+    "q22": "During early progression there are tons of events",
+    "q23": true,
+    "q24": "Player reports hitting pity frequently later ('every time big pity')"
+  },
+  {
+    "q0": 44703321,
+    "q41": "New account missing self-select 10-pull and UP banner; only two basic banners available"
+  },
+  {
+    "q0": 44702976
+  },
+  {
+    "q0": 44673820,
+    "q1": true,
+    "q2": "Sexualized/fanservice-oriented game"
+  },
+  {
+    "q0": 44648710,
+    "q9": -1,
+    "q10": "Early-game pacing is poor with a long, forced tutorial and many minutes even if skipping story",
+    "q41": "Forced, lengthy tutorial that dictates actions"
+  },
+  {
+    "q0": 44645947,
+    "q31": 1,
+    "q32": "Onboarding gave a free character, a main-skin, ~4000 diamonds, and a 10-pull voucher"
+  },
+  {
+    "q0": 44633735,
+    "q1": true,
+    "q2": "Censorship adds extra clothing; characters 'wearing too much'"
+  },
+  {
+    "q0": 44624796,
+    "q39": -2,
+    "q40": "Cannot enter the game on Lenovo Legion Y700 (2nd gen)"
+  },
+  {
+    "q0": 44618065,
+    "q41": "Account deletion fails due to 'invalid phone number format' error"
+  },
+  {
+    "q0": 44615179,
+    "q1": true,
+    "q2": "Sexual content; feels like an adult game despite 12+ rating"
+  },
+  {
+    "q0": 44592079,
+    "q1": true,
+    "q2": "Sexualized visuals",
+    "q11": -1,
+    "q12": "UR units massively outperform SSRs (e.g., single UR out-damaging five SSRs)",
+    "q31": 1,
+    "q32": "Progression feels generous/forgiving and wishlist targeting helps"
+  },
+  {
+    "q0": 44610419,
+    "q31": -2,
+    "q32": "Resource-starved: cannot accumulate two 10-pulls on day 1"
+  },
+  {
+    "q0": 44586042,
+    "q21": -1,
+    "q22": "Requests more events"
+  },
+  {
+    "q0": 44583895,
+    "q41": "Self-select 100-pull missing on supposed official server"
+  },
+  {
+    "q0": 44539561,
+    "q23": true,
+    "q24": "Only small pity available for new players; daily 10-pull rarely yields high rarity",
+    "q29": -1,
+    "q30": "Marriage system locked behind pay; gacha often off-rate",
+    "q41": "Frequent off-banner pulls prevent upgrading; gameplay not compelling"
+  },
+  {
+    "q0": 44526480
+  },
+  {
+    "q0": 44514766
+  },
+  {
+    "q0": 44504906,
+    "q41": "Account lost after long inactivity"
+  },
+  {
+    "q0": 44494426,
+    "q31": -2,
+    "q32": "Welfare criticized as poor in 2025",
+    "q9": -2,
+    "q10": "Growth experience feels insulting to players"
+  },
+  {
+    "q0": 44493910,
+    "q1": true,
+    "q2": "Censorship; wants uncensored art"
+  },
+  {
+    "q0": 44488048,
+    "q41": "Gacha rates feel extremely stingy"
+  },
+  {
+    "q0": 44475046,
+    "q41": "Only one gacha pool available"
+  },
+  {
+    "q0": 44462904,
+    "q41": "No self-select gacha even after clearing chapter 8"
+  },
+  {
+    "q0": 44447616,
+    "q1": true,
+    "q2": "Attractive waifu art",
+    "q31": -1,
+    "q32": "Resources are especially scarce; F2P should consider reroll accounts or heavy grinding"
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "q0": 46827086,
+    "q41": "Stuck on a persistent popup; downtime/lockout much longer than the 'short time' stated."
+  },
+  {
+    "q0": 46827073,
+    "q41": "Can't enter game; always shows 'no network connection'; technical/servers need polish."
+  },
+  {
+    "q0": 46826719,
+    "q3": "Party-based turn-based combat similar to GBF (Granblue Fantasy).",
+    "q41": "Server overload; cannot log in."
+  },
+  {
+    "q0": 46826418,
+    "q41": "Likes art and music; requests dedicated gacha/BOSS phase music; red-dot UX is inconvenient; cannot quickly switch characters/weapons."
+  },
+  {
+    "q0": 46823494,
+    "q3": "Traditional turn-based battles.",
+    "q4": -2,
+    "q5": "Calls turn-based 'the same old' and not fun.",
+    "q41": "No voiceover; UI looks like a reskinned web game; poor optimization; weak VFX."
+  },
+  {
+    "q0": 46826198,
+    "q9": -1,
+    "q10": "Replaying cleared nodes without a sweep option wastes time in a stamina-driven grinder.",
+    "q41": "Requests sweep for cleared stages."
+  },
+  {
+    "q0": 46824528,
+    "q9": -1,
+    "q10": "Expects very grindy loops (endless dungeon runs), no battle speed-up.",
+    "q41": "Text quality/immersion issues; wants battle 2x speed, faster tower/challenges, better minimap; formation UI shows 'in use' across all teams; option to hide other players; side quests; multi-line dialogues."
+  },
+  {
+    "q0": 46826108,
+    "q41": "60 FPS setting not taking effect."
+  },
+  {
+    "q0": 46826030
+  },
+  {
+    "q0": 46825898,
+    "q41": "Server instability/rollbacks; purchases/progress lost after a rollback."
+  },
+  {
+    "q0": 46825773,
+    "q3": "Turn-based battles; feels repetitive; has auto pathing issues.",
+    "q4": -1,
+    "q5": "Combat feels 'the same' and boring.",
+    "q41": "Frequent disconnects; vertical-only; wants gender choice; auto-navigation unreliable; UI feels like mini-game."
+  },
+  {
+    "q0": 46825851,
+    "q41": "No landscape mode; 60 FPS not applied (possible bug)."
+  },
+  {
+    "q0": 46825824,
+    "q41": "Server quality issues; requests better servers."
+  },
+  {
+    "q0": 46825791,
+    "q41": "Disconnected after naming; then unable to enter despite normal network."
+  },
+  {
+    "q0": 46825708,
+    "q3": "Turn-based with long fights and no battle speed-up; disconnects drop you from combat without reconnection.",
+    "q4": -1,
+    "q5": "Battles are slow, lack speed-up, and network blips force exits.",
+    "q6": "Attribute teams matter; weapon slot effects unclear; desires multi-attribute synergy.",
+    "q7": -1,
+    "q8": "Limited synergy and unclear weapon-slot rules; single-attribute focus.",
+    "q9": -1,
+    "q10": "Design feels aimed at delaying progression (e.g., mob avoidance timers, slow loops).",
+    "q11": -2,
+    "q12": "Large damage gap between SR and SSR at same level.",
+    "q13": -1,
+    "q14": "Single-attribute meta reduces team-mix options.",
+    "q41": "Frequent crashes; no reconnection; joystick too high; can't hide activity panel; weak chest/interaction cues; boss room entry unclear; needs auto-match; inventory UX (exp tickets filtering) is tedious."
+  },
+  {
+    "q0": 46825665,
+    "q41": "Stuck on 'enter game'; inputs unresponsive."
+  },
+  {
+    "q0": 46825605,
+    "q31": 1,
+    "q32": "Says diamonds are plentiful, but many things require gacha; progress/upgrade guidance unclear.",
+    "q41": "Clunky UI; forced social 30-man boss rooms with ready griefing; frequent freezes/network drops."
+  },
+  {
+    "q0": 46825580,
+    "q9": -1,
+    "q10": "Daily material dungeons cannot be swept; skip only jumps one round; very time-wastey.",
+    "q41": "Requests sweep for dailies."
+  },
+  {
+    "q0": 46825565,
+    "q41": "Disconnected during a long tower fight, losing progress/time."
+  },
+  {
+    "q0": 46825545,
+    "q4": -1,
+    "q5": "Gameplay feels bland and lacks novelty beyond pixel art."
+  },
+  {
+    "q0": 46817278,
+    "q3": "Old-style turn-based gameplay.",
+    "q4": -1,
+    "q5": "Considers the gameplay outdated.",
+    "q6": "Weapon roster and pairing feel poor.",
+    "q7": -1,
+    "q8": "Complaints about limited/unsatisfying weapon choices and combos.",
+    "q41": "Visual clarity issues; screen is harsh and hard to read."
+  },
+  {
+    "q0": 46825352,
+    "q3": "Octopath-like visuals with GBF-like gameplay (raids/weapon grid).",
+    "q41": "Hopes for optimization and solid operations; many similar pixel games shut down."
+  },
+  {
+    "q0": 46825329
+  },
+  {
+    "q0": 46825218,
+    "q41": "Joystick sensitivity awkward on vertical; chat channels need separation; wants auto-path/auto-farm."
+  },
+  {
+    "q0": 46825053,
+    "q3": "Turn-based, card/weapon-collecting meta with shallow co-op.",
+    "q4": -1,
+    "q5": "Feels like traditional card-battle with limited co-op depth.",
+    "q41": "Multiple login prompts/forced re-login; co-op ready griefing without kicks or password; poor network; movement lag; persistent red-dot notifications; guild features feel useless; world-boss-like asynchronous combat not truly co-op."
+  },
+  {
+    "q0": 46825104,
+    "q41": "Needs richer SFX/music; red-dot UX; minimap cannot expand; monster designs rough; movement feels slippery/rotates."
+  },
+  {
+    "q0": 46825025
+  },
+  {
+    "q0": 46824983,
+    "q23": true,
+    "q24": "Character banner guarantees an SSR at 30 pulls.",
+    "q41": "Vertical-only movement feels bad; no landscape toggle; skills lack clear explanations; concerns about future resource scarcity and unit value."
+  },
+  {
+    "q0": 46824943,
+    "q3": "Traditional turn-based PvE with attribute teams and co-op bosses.",
+    "q21": 1,
+    "q22": "Notes very active official communication/operations.",
+    "q27": 1,
+    "q28": "Believes grinding can substitute for spending to access content.",
+    "q41": "Wants landscape mode; suggests more social interactions in town."
+  },
+  {
+    "q0": 46824851,
+    "q29": -1,
+    "q30": "Gacha introduction breaks narrative mood; prefers buy-to-play model."
+  },
+  {
+    "q0": 46824826,
+    "q3": "GBF-like raid-and-grid gameplay."
+  },
+  {
+    "q0": 46824669,
+    "q3": "Traditional turn-based with fixed skill sets per character.",
+    "q7": -1,
+    "q8": "Wants more complexity; current system is simple/light.",
+    "q41": "Requests a minimalist UI mode and ability to hide other players."
+  },
+  {
+    "q0": 46824638,
+    "q9": -1,
+    "q10": "Cleared content cannot be swept; repetitive re-runs are tedious.",
+    "q41": "Requests sweep for repeatable content."
+  },
+  {
+    "q0": 46824629,
+    "q9": -1,
+    "q10": "GBF-style grind across six attributes is exhausting; low population would make it worse.",
+    "q41": "Reduce grind; more attributes than expected (6)."
+  },
+  {
+    "q0": 46824626,
+    "q41": "Multiple freezes; crowd animations (players shaking heads) are distracting."
+  },
+  {
+    "q0": 46824335,
+    "q15": "Co-op raid farming loop to obtain SSR beasts/weapons.",
+    "q16": false,
+    "q9": -1,
+    "q10": "Main story and dungeon difficulties are day-gated; heavy reliance on daily co-op.",
+    "q41": "Feels like a raid-only game; limited variety."
+  },
+  {
+    "q0": 46824250,
+    "q41": "Joystick placed near screen center; very awkward to control."
+  },
+  {
+    "q0": 46824163,
+    "q3": "Turn-based PvE with lengthy fights.",
+    "q4": -1,
+    "q5": "Battle duration too long; wants dungeon multi-run and tower speed-up.",
+    "q41": "Requests more challenge events."
+  },
+  {
+    "q0": 46823964,
+    "q3": "Octopath-style look with GBF-like weapon-grid combat.",
+    "q6": "Weapon grid is too uniform (one core weapon per element).",
+    "q7": -1,
+    "q8": "Single viable weapon choice per element reduces build decisions.",
+    "q15": "Alchemy loop to craft BP/AP items by running around and gathering.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Alchemy grind is tedious and time-consuming.",
+    "q19": -1,
+    "q20": "Despite effort, the payoff feels poor compared to GBF.",
+    "q41": "Skill icons/effects feel cheap; 60 vs 30 FPS feels the same; noticeable stutter."
+  },
+  {
+    "q0": 46823876,
+    "q9": -1,
+    "q10": "Tower is slow with no skip; cleared dungeons lack sweep.",
+    "q41": "Requests skip/sweep."
+  },
+  {
+    "q0": 46823869,
+    "q4": -1,
+    "q5": "Constant fighting becomes boring despite liking the art/lighting."
+  },
+  {
+    "q0": 46815980,
+    "q41": "Protagonist is locked female; lack of gender choice hurts immersion."
+  },
+  {
+    "q0": 46823605,
+    "q41": "Severe overheating and stutter even on lowest settings."
+  },
+  {
+    "q0": 46823576,
+    "q41": "Crashed at the gacha screen despite good art."
+  },
+  {
+    "q0": 46823457
+  },
+  {
+    "q0": 46823440
+  },
+  {
+    "q0": 46823313,
+    "q41": "Harsh transition animations causing stutter even at 60 FPS; no voiceover; skill/login UI feels cheap; no landscape adaptation for domestic market."
+  },
+  {
+    "q0": 46823306,
+    "q3": "Turn-based battles with touch-to-start, simple animations.",
+    "q6": "6-unit teams, 10+ weapons, 5 pets; same-element bonuses; multi-element team building likely required.",
+    "q7": 1,
+    "q8": "Many systems and element synergies add planning depth but also complexity.",
+    "q41": "Female-protagonist locked criticized; joystick centered and unmovable; delay from contact to battle start."
+  },
+  {
+    "q0": 46823238,
+    "q41": "Co-op rooms often stalled by players not ready; needs redesign."
+  },
+  {
+    "q0": 46823148,
+    "q3": "Auto-battle without speed-up.",
+    "q4": -2,
+    "q5": "Feels like a pure gacha auto-battler that undermines RPG appeal.",
+    "q29": -2,
+    "q30": "Monetization-centric design ('pure gacha') feels heavy and off-putting."
+  },
+  {
+    "q0": 46822967,
+    "q3": "Turn-based combat.",
+    "q41": "Suspected AI-assist in art; severe stutter despite no heat on high-end device; early tutorial already off-putting."
+  },
+  {
+    "q0": 46822909,
+    "q41": "Wants richer overworld interactions (pets/NPC affinity, bounties); fishing input timing feels too coarse."
+  },
+  {
+    "q0": 46822805,
+    "q23": true,
+    "q24": "30 pulls guarantee an SSR; limited UP banners can off-rate; one pull costs 100 gems (~¥10).",
+    "q6": "Weapons give teamwide stats but passives only apply to same-element units, raising pairing costs.",
+    "q7": -1,
+    "q8": "Attribute-locked weapon passives restrict flexible team-building.",
+    "q41": "Severe lag/overheating; stutter during dialogue/movement/battles; wants hideable event/UP panels."
+  },
+  {
+    "q0": 46822613
+  },
+  {
+    "q0": 46822479
+  },
+  {
+    "q0": 43488420,
+    "q23": true,
+    "q24": "Likely a 200-pull 'spark' to target a unit; large mixed pool causes frequent off-rate.",
+    "q41": "Requests guides/team recommendations; co-op rooms lack password/limits; someone can take your slot; occasional network reconnects."
+  },
+  {
+    "q0": 46822345,
+    "q41": "Asks how to enable landscape mode."
+  },
+  {
+    "q0": 44917070,
+    "q9": -1,
+    "q10": "Stamina limits and time-padding replace content; performance stutter persists.",
+    "q41": "Not a satisfying 'looter' due to energy gating; frequent hitching."
+  },
+  {
+    "q0": 46822336,
+    "q41": "Praises locked female MC; night/day transitions are abrupt; general stutter issues."
+  },
+  {
+    "q0": 46822023,
+    "q41": "Early dialogue feels off-tone (NPC tells MC to 'get lost'); worldbuilding/role hierarchy feels weak."
+  },
+  {
+    "q0": 46821945,
+    "q29": -1,
+    "q30": "Perceives it as a gacha- and recharge-driven online game under a single-player pixel facade."
+  },
+  {
+    "q0": 46821906,
+    "q23": false,
+    "q41": "Many bugs; UP banner lacks specific pity; wants landscape mode and movable joystick."
+  },
+  {
+    "q0": 46821814,
+    "q41": "Forced exit mid-fight due to 'battle exception'; co-op readying frequently blocked by cancellations."
+  },
+  {
+    "q0": 46821542
+  },
+  {
+    "q0": 46821284,
+    "q23": true,
+    "q24": "No per-pull pity; only a 'spark' exchange with four limited units sharing a banner.",
+    "q3": "Turn-based auto-battle; slow without speed multipliers.",
+    "q4": -1,
+    "q5": "Needs 2x/4x speed; fights feel sluggish.",
+    "q9": -1,
+    "q10": "No sweep; co-op waits for many players to ready.",
+    "q41": "Joystick can't be repositioned; heavy heating; job change doesn't inherit levels."
+  },
+  {
+    "q0": 46821148,
+    "q31": -1,
+    "q32": "Mixed pool off-rates often and free resources feel scarce.",
+    "q41": "Frustration with constant off-rates."
+  },
+  {
+    "q0": 46820628,
+    "q41": "NPC dialogue is entertaining."
+  },
+  {
+    "q0": 46820571,
+    "q4": 2,
+    "q5": "Finds the loot-grind very fun; vertical 'moyu' play is convenient; music/effects decent."
+  },
+  {
+    "q0": 46820456,
+    "q23": true,
+    "q24": "30 pulls guarantee an SSR; no constellations/dupe system for characters.",
+    "q25": 1,
+    "q26": "100 gems per pull and abundant free income (100+ limited pulls day 1) feel fair.",
+    "q31": 2,
+    "q32": "Day 1 rewards from dailies/weeklies/achievements gave 150+ pulls (100+ limited, ~50 standard).",
+    "q15": "Exploration to collect junk items and alchemize them into stamina potions.",
+    "q16": false,
+    "q19": 2,
+    "q20": "Alchemy refills stamina so progression isn't energy-gated.",
+    "q41": "No landscape; experience-book dungeon can't multi-run; co-op ready confirmation stalls runs; occasional crashes during purchase/single-pull."
+  },
+  {
+    "q0": 46820244,
+    "q41": "Overlong, restrictive tutorial auto-run; UI locked during auto-path."
+  },
+  {
+    "q0": 46820189,
+    "q41": "UP banner feels meaningless after three SSR off-rates."
+  },
+  {
+    "q0": 45005769,
+    "q9": -1,
+    "q10": "Cleared solo stages lack skip (only per-turn skip); co-op has no skip; time-consuming.",
+    "q41": "Minor battle stutter; 60 FPS helps; no character dupe system but weapons have star ranks."
+  },
+  {
+    "q0": 46820171,
+    "q9": -1,
+    "q10": "No sweep or multi-run; manual grinding despite many tests; low drop rates stretch playtime.",
+    "q41": "Art/illustration quality mismatch; hard-stalling via low material drops."
+  },
+  {
+    "q0": 46820051,
+    "q41": "30 FPS feels smoother than 60 FPS."
+  },
+  {
+    "q0": 46820022,
+    "q41": "Requests character side stories; item art style mismatch with main art; wants guaranteed paths for summons and better BP acquisition."
+  },
+  {
+    "q0": 46819957,
+    "q41": "Vertical mode causes eye fatigue; heavy stutter."
+  },
+  {
+    "q0": 46819877,
+    "q41": "Gameplay heavily focused on battles; limited story/exploration/collection."
+  },
+  {
+    "q0": 46819835,
+    "q41": "Cannot choose protagonist gender."
+  },
+  {
+    "q0": 46819803,
+    "q41": "Loves art; would consider spending if other aspects are optimized."
+  },
+  {
+    "q0": 46819785,
+    "q3": "Turn-based with minions/companions and gacha elements."
+  },
+  {
+    "q0": 46819731
+  },
+  {
+    "q0": 46819713,
+    "q4": -1,
+    "q5": "Aside from visuals, nothing stands out."
+  },
+  {
+    "q0": 46819708,
+    "q41": "Cannot find landscape/portrait toggle; settings only offer audio/graphics."
+  },
+  {
+    "q0": 46819607,
+    "q41": "Accuses AI-assisted map pathing and asset plagiarism (similar to Honkai: Star Rail ticket texture)."
+  },
+  {
+    "q0": 46819524,
+    "q3": "Auto-centric combat.",
+    "q7": -1,
+    "q8": "Says there's little strategy; spending dictates power.",
+    "q29": -1,
+    "q30": "Perceived pay-to-win tilt."
+  },
+  {
+    "q0": 46819486,
+    "q3": "GBF-like gameplay loop.",
+    "q41": "Bugs present but acceptable to the reviewer."
+  },
+  {
+    "q0": 46819470,
+    "q31": 2,
+    "q32": "Very generous: easy to reach 200 pulls; story grants 3 SSR for fire; materials/tower not gatey.",
+    "q9": 1,
+    "q10": "Smooth growth with flexible skill tree and shard-based permanent stats.",
+    "q6": "Skill tree with free allocation; permanent stat gains via shard collection.",
+    "q7": 1,
+    "q8": "Multiple growth layers (skills, shards) add planning without heavy constraints.",
+    "q27": 1,
+    "q28": "New-player friendly progression and generous rewards reduce need to pay."
+  }
+]

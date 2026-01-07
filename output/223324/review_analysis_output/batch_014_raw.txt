@@ -1,0 +1,438 @@
+[
+  {
+    "q0": 39655738,
+    "q41": "Server crashed at test launch; user accuses scammy behavior."
+  },
+  {
+    "q0": 39655728,
+    "q41": "Complains about name reservation and immediate server crash."
+  },
+  {
+    "q0": 39655724,
+    "q41": "Very hard to log in; only entered after many attempts."
+  },
+  {
+    "q0": 39655723,
+    "q41": "Server capacity/stability issues during test; sarcastic remark about lacking servers."
+  },
+  {
+    "q0": 39655722,
+    "q41": "Reports server crash."
+  },
+  {
+    "q0": 39655717,
+    "q41": "Frustration with limited/unclear qualification access for test."
+  },
+  {
+    "q0": 39655713,
+    "q41": "Despite multiple tests, this one still has technical problems."
+  },
+  {
+    "q0": 39655710,
+    "q41": "Cannot enter the game."
+  },
+  {
+    "q0": 39655707,
+    "q41": "Login/setup loop: progresses then snaps back; can't get in."
+  },
+  {
+    "q0": 39655706,
+    "q41": "Cannot enter; asks not to waste players' time if not ready."
+  },
+  {
+    "q0": 39655703,
+    "q41": "Unplayable due to access issues."
+  },
+  {
+    "q0": 39655697,
+    "q41": "Disappointed in technical competence after years; launch instability."
+  },
+  {
+    "q0": 39655693,
+    "q41": "Says only registered users have access but server isn’t maintained; instant crash."
+  },
+  {
+    "q0": 39655685,
+    "q41": "Cannot get into the game."
+  },
+  {
+    "q0": 39655683,
+    "q41": "Cannot get into the game."
+  },
+  {
+    "q0": 39655682,
+    "q41": "Cannot get into the game at all."
+  },
+  {
+    "q0": 39655671,
+    "q41": "Cannot get into the game."
+  },
+  {
+    "q0": 39655668,
+    "q41": "Challenges devs to try logging in; implies login failure."
+  },
+  {
+    "q0": 39655669,
+    "q41": "Blames publisher; cannot enter game."
+  },
+  {
+    "q0": 39655666,
+    "q41": "Reports that login finally works."
+  },
+  {
+    "q0": 39655661,
+    "q41": "Network unstable message; connectivity issues."
+  },
+  {
+    "q0": 39655660,
+    "q41": "Sarcastic praise of server causing network spikes; instability."
+  },
+  {
+    "q0": 39655659,
+    "q41": "Says even internal test server crashed; worries about future public launch."
+  },
+  {
+    "q0": 39655657,
+    "q41": "Can’t enter even when logging in at the exact time."
+  },
+  {
+    "q0": 39655653,
+    "q41": "Relief that no one can enter; confirms widespread access issue."
+  },
+  {
+    "q0": 39655649,
+    "q41": "Internal test also crashed."
+  },
+  {
+    "q0": 39655647,
+    "q41": "Not surprised by the server crash."
+  },
+  {
+    "q0": 39655638,
+    "q41": "Stuck on 'Establishing connection' then 'Network unstable'; cannot enter."
+  },
+  {
+    "q0": 39655635,
+    "q41": "Gets 'network unstable' error; login failure."
+  },
+  {
+    "q0": 39655629,
+    "q41": "Even after entering, unplayable due to test server instability; doubts about public launch."
+  },
+  {
+    "q0": 39655627,
+    "q41": "Cannot enter the game despite repeated attempts."
+  },
+  {
+    "q0": 39655624,
+    "q41": "Timed login attempt still failed; cannot enter."
+  },
+  {
+    "q0": 39655625,
+    "q41": "Cannot enter; asks for a fix."
+  },
+  {
+    "q0": 39655620,
+    "q41": "Expresses strong frustration, likely due to server/login problems."
+  },
+  {
+    "q0": 39655619,
+    "q41": "Cannot enter test server; blames publisher."
+  },
+  {
+    "q0": 39655617
+  },
+  {
+    "q0": 39655616,
+    "q41": "Questions whether it’s a network problem; cannot connect."
+  },
+  {
+    "q0": 39655615,
+    "q41": "Cannot enter the game."
+  },
+  {
+    "q0": 39655613,
+    "q41": "At test start time, gets 'network unstable' and uninstalled out of frustration."
+  },
+  {
+    "q0": 39655601,
+    "q41": "Questions 'network unstable' error; login issue."
+  },
+  {
+    "q0": 39655585,
+    "q41": "Receives 'network unstable, try later' message."
+  },
+  {
+    "q0": 39655526,
+    "q41": "Accuses the game of baiting downloads without playability."
+  },
+  {
+    "q0": 39655281,
+    "q41": "Criticizes test-time fiasco despite having license; says it scares players off before launch."
+  },
+  {
+    "q0": 39655043,
+    "q3": "Turn-based tactical (SRPG) combat on grids with positioning and skills.",
+    "q4": 1,
+    "q5": "Finds the art appealing and the tactics 'a bit challenging' in a positive way; willing to try."
+  },
+  {
+    "q0": 39652922,
+    "q41": "Says the company pulled a consumer-unfriendly stunt (implied test access/download bait)."
+  },
+  {
+    "q0": 39652917,
+    "q41": "Accuses the game of download bait after finishing download."
+  },
+  {
+    "q0": 39652836,
+    "q39": -2,
+    "q40": "Requires an additional 4GB in-game download after app install, then forces name reservation.",
+    "q41": "Test qualification via 'participate' not honored; limited name reservation causes lockout."
+  },
+  {
+    "q0": 39652492,
+    "q41": "Accuses the game of baiting downloads."
+  },
+  {
+    "q0": 39652110,
+    "q41": "Pre-download finished but then required name reservation; poor in-game communication of this; had to check open times outside game."
+  },
+  {
+    "q0": 39651955,
+    "q41": "Confused by Bilibili vs TapTap distribution; publisher/platform confusion."
+  },
+  {
+    "q0": 39651876,
+    "q41": "Expresses concern due to publisher reputation for new games."
+  },
+  {
+    "q0": 39651857,
+    "q41": "Pre-download but limited test slots; user downloaded but has no test qualification."
+  },
+  {
+    "q0": 39651836,
+    "q41": "Criticizes opening pre-download for a limited-access test; calls it hunger marketing."
+  },
+  {
+    "q0": 26828549,
+    "q41": "Couldn’t play earlier (likely access limits); from streams: UI and art look good and culturally themed; hopes for broader access."
+  },
+  {
+    "q0": 39649989,
+    "q41": "Art praised; gameplay feels a bit stiff with several flaws; grind feels mid; creative story worth reading."
+  },
+  {
+    "q0": 39649868
+  },
+  {
+    "q0": 39649633,
+    "q41": "Unclear whether test access after 'claiming' requires name reservation; access rule confusion."
+  },
+  {
+    "q0": 39649594,
+    "q41": "Test supposedly started but cannot log in; suggests game launched unfinished."
+  },
+  {
+    "q0": 33711979,
+    "q41": "Very eager to play; thinks the game looks great."
+  },
+  {
+    "q0": 31469631,
+    "q3": "Turn-based tactics with character ult animations; player prefers fully manual play and opposes auto-battle.",
+    "q4": 1,
+    "q5": "Enjoys art, ult animations, music; suggests PvP and fast-clear but believes auto would reduce fun.",
+    "q6": "Requests adding PvP; suggests fast-clear/skip for cleared stages.",
+    "q41": "Notes some character art anatomy issues; requests better big-move animations and QoL like stage fast-clear; wants to keep manual tactics over auto."
+  },
+  {
+    "q0": 30955641,
+    "q41": "UI readability poor; clickable vs non-clickable not distinct; battle chibis not centered on tiles; 3D scene weak though portraits are good."
+  },
+  {
+    "q0": 30663699
+  },
+  {
+    "q0": 29825128,
+    "q41": "Music is good; asks launch timing."
+  },
+  {
+    "q0": 28726311,
+    "q3": "Grid-based, turn-based tactics with classes, skills, ultimates, and optional auto; boss stages and 'no-damage' challenge goals.",
+    "q4": 0,
+    "q5": "Interesting bosses and added modules, but heavy performance issues, slow loads, and lack of higher battle speed undermine enjoyment.",
+    "q6": "Auto/proxy mode, boss mechanics, class roles (healer, light skirmisher), 'no-loss' achievements, exploration notes within stages.",
+    "q7": 1,
+    "q8": "Tactical positioning and class usage matter, but AI target logic and performance drag the experience.",
+    "q9": -2,
+    "q10": "Severe stamina scarcity, low material drops, random weapon stat grind, sudden difficulty spikes, and long loading times stall progress.",
+    "q15": "Tea/tea-ceremony (affection system), dispatch/commissions, exploration logs and codex completion.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Secondary loops (tea for affection, dispatch) are straightforward to operate.",
+    "q19": -1,
+    "q20": "Secondary loops focus on affection/lore; minimal core resource/material output compared to needs.",
+    "q21": 2,
+    "q22": "Between tests, many changes and new modules/features were added.",
+    "q39": -2,
+    "q40": "Very slow loading, frequent stutter and overheating; emulator even crashed.",
+    "q41": "Performance/optimization issues; no sweep; UI misclicks; limited battle speed; random weapon stat system disliked; foreign relic in R-tier clashes with 'Chinese cultural relics' theme; event difficulty and reward pacing concerns."
+  },
+  {
+    "q0": 29039355,
+    "q3": "Turn-based SRPG with grid movement, skills, and ultimates; optional auto-battle.",
+    "q4": 1,
+    "q5": "Finds the system solid if complex; overall excited despite AI issues.",
+    "q6": "Auto-battle AI (currently weak).",
+    "q7": 0,
+    "q8": "Strategic elements exist but undermined by poor auto AI.",
+    "q9": -1,
+    "q10": "Grindy progression with no sweep and scarce materials slows advancement.",
+    "q41": "Requests sweep for material farming; AI targeting/usage is poor."
+  },
+  {
+    "q0": 26887733,
+    "q3": "Grid-based turn-based tactics with skills, ultimates, and newly added auto-battle.",
+    "q4": 1,
+    "q5": "Auto-battle addition reduced grind; some presentation improved though issues remain.",
+    "q6": "Auto-battle (but not quick battle), profession traits (not well expressed), skill animations.",
+    "q7": 0,
+    "q8": "Tactics exist but class identity/map reuse reduces depth.",
+    "q9": -1,
+    "q10": "Still grindy due to lack of quick battle and weapon RNG system.",
+    "q23": false,
+    "q24": "High off-banner (discusses frequent 'displacement'), limited banners feel harder; no mention/experience of a hard pity.",
+    "q41": "Weapon system uses random affixes and feels punishing; rates feel low and off-banner is frequent."
+  },
+  {
+    "q0": 28916415
+  },
+  {
+    "q0": 28844005,
+    "q3": "Turn-based tactics; ult animations per unit; line-of-sight/range checking.",
+    "q4": 0,
+    "q5": "Loves art/characters but finds playability low; combat presentation and targeting UX need work.",
+    "q41": "Tutorial is info-dumpy; story pacing/antagonist weak; wants more historical integration; some ult effects feel abrupt; range UI inconvenient."
+  },
+  {
+    "q0": 26829054,
+    "q21": 2,
+    "q22": "Second test improved ult animations, UI feel, story controls, voicework, and more compared to first test.",
+    "q31": 1,
+    "q32": "Test handed out many 10-pulls, but core upgrade resources remained tight.",
+    "q41": "Card pool repeats/offs too often; 'Knowledge' (dupe/awakening) system too costly and nags; resources scarce; split-screen pauses commissions; QoL requests (speed in tutorials, better rewards claims); praises multilingual VO tied to relic origins."
+  },
+  {
+    "q0": 28840843,
+    "q3": "Turn-based tactics with auto-battle option; 3D chibi battle presentation.",
+    "q4": 1,
+    "q5": "Enjoys visuals and is fine if auto can run; focuses more on economy/UX asks.",
+    "q9": -1,
+    "q10": "Stamina and coins feel tight; material costs high for upgrades.",
+    "q41": "Requests many QoL (daily stamina/sign-in, clearer activity entry, consolidate modes); concerns about rarity assignment and male/female ratio."
+  },
+  {
+    "q0": 26826531,
+    "q3": "Turn-based grid tactics with skills/ultimates; tutorial introduces skills and energy bars.",
+    "q4": -1,
+    "q5": "Big-move visuals feel cheap; tutorial and UI make combat understanding clunky.",
+    "q9": -1,
+    "q10": "Low diamond income and grindy feel reduce motivation to progress.",
+    "q31": -1,
+    "q32": "Weekly/daily premium currency feels low; welfare may not keep up.",
+    "q41": "Story intro/pacing confusing; UI flat and hard to read; art quality inconsistent; lacks live2D; needs sweep/auto; unclear skill descriptions; many UX suggestions."
+  },
+  {
+    "q0": 28833492,
+    "q3": "Manual turn-based tactics on grids.",
+    "q4": 2,
+    "q5": "Even a self-described lazy player enjoys manual battles.",
+    "q9": -1,
+    "q10": "Material drop quantities feel too low relative to needs, dampening motivation."
+  },
+  {
+    "q0": 28827816,
+    "q3": "Turn-based tactics with skills/ults; multiple roles (sniper/healer, etc.).",
+    "q4": 1,
+    "q5": "Generally enjoys battles despite tough main stages; likes event battles and generous shop.",
+    "q9": -1,
+    "q10": "Main story difficulty spikes cause repeated retries and tight clears.",
+    "q31": 1,
+    "q32": "Event shop felt generous in test."
+  },
+  {
+    "q0": 28737167,
+    "q3": "Turn-based tactical battles; current loop feels repetitive.",
+    "q4": -1,
+    "q5": "Says combat is single-note and gets boring without new mechanics.",
+    "q6": "Suggests adding new modes/mechanics within tactical battles to add variety.",
+    "q41": "Gacha presentation lacks excitement; high off-banner rate; wants richer antagonist and clearer lore."
+  },
+  {
+    "q0": 28805319,
+    "q3": "Turn-based tactics; suggests QoL like double-tap basic attack and auto for mainline.",
+    "q4": 0,
+    "q5": "Core is fine but UI/UX and control pain points dull the experience.",
+    "q6": "Auto-battle request for mainline; input QoL (double-tap to basic attack).",
+    "q41": "Inconsistent character art quality; UI buttons too small and functions buried; single-pull lacks skip."
+  },
+  {
+    "q0": 28820596,
+    "q3": "Turn-based SRPG; supports auto/proxy but current proxy AI is unreliable.",
+    "q4": 1,
+    "q5": "Enjoys the gameplay but says proxy AI must be able to replicate successful runs.",
+    "q23": false,
+    "q24": "No visible hard pity; user reports low rate with severe off-banner experience and suggests adding a newbie guaranteed high-rarity.",
+    "q31": -1,
+    "q32": "Early progression rewards feel sparse; suggests guaranteed early high-rarity and a stable late-game income mode.",
+    "q41": "Proxy AI frequently throws runs; some VO quality issues; wants clearer, more rewarding progression and pity."
+  },
+  {
+    "q0": 28820206,
+    "q3": "Turn-based tactical system with many elements; includes auto and commission systems.",
+    "q4": 0,
+    "q5": "Complex and somewhat overwhelming; control mis-taps and AI behavior reduce satisfaction.",
+    "q6": "Auto-battle AI, commissions, resource farming.",
+    "q7": 0,
+    "q8": "Has depth but onboarding and AI issues make it hard to leverage.",
+    "q9": -1,
+    "q10": "Low drops and long battles make upgrades feel slow and effortful."
+  },
+  {
+    "q0": 28818666,
+    "q3": "Turn-based tactics with auto/proxy and commissions.",
+    "q4": 0,
+    "q5": "Enjoys variety of heroes but AI is frustrating; wants proxy to mimic prior successful runs.",
+    "q23": false,
+    "q24": "Player hasn’t seen a strong pity ('hard guarantee') and is concerned about lack of guarantee for featured units.",
+    "q31": 2,
+    "q32": "Test was generous with daily 10-pulls, enabling broad roster sampling.",
+    "q41": "Commissions can’t run while split-screening; some skills (dispel) feel useless; desire for story voice, base expansion, better affection content."
+  },
+  {
+    "q0": 28817201,
+    "q41": "Likes the UI design; eager for public release."
+  },
+  {
+    "q0": 28816739,
+    "q3": "Turn-based grid tactics with profession skills and aoe; chibi battle presentation.",
+    "q4": 1,
+    "q5": "Likes art and overall feel; annoyed by auto AI misusing AoE and some time-wasting map layouts.",
+    "q6": "AoE targeting logic, profession skill identities, conservative map designs.",
+    "q7": 1,
+    "q8": "Professions have distinct roles, but auto AI and some maps reduce tactical satisfaction.",
+    "q41": "Suggests expanding tea/affection system with more functionality."
+  },
+  {
+    "q0": 28783659,
+    "q9": -1,
+    "q10": "Material drops are very low; stamina insufficient to raise units early.",
+    "q41": "Wants split-screen allowed during commissions; praises art and loading screens."
+  },
+  {
+    "q0": 28812321,
+    "q9": -1,
+    "q10": "Stamina is too low and low-tier materials require too much farming.",
+    "q41": "Requests more low-tier material sources, sweep/auto for chores, and a character reset/respec option."
+  }
+]

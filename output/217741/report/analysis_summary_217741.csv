@@ -1,0 +1,151 @@
+question_code,question_content,synthesis_answer
+q1,"Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)",{None: 45}
+q2,"List the sensitive content mentioned, if any.",• No reviews matched.
+q3,Summarize the core combat mechanics (or “N/A” if not mentioned).,"• Hybrid of top-down shooting and tower defense roguelike combat. [44920101]
+• Escort-focused battles revolve around protecting the moving base car. [44920101]
+• Summon-based Nest towers enable swarm strategies; Ant build is strong and accessible. [44920101]
+• Engineer-Lion class massively buffs Nests (+75% attack speed, +50% HP). [44920101]
+• Spider Nest offers early ranged damage and a later damage buff. [44920101]
+• Turret rarity tiers escalate (C, A, S, SSS), impacting combat power. [44920101]
+• Craftsman upgrades add effects (burn, partners, explosive ants) for boss burst. [44920101]
+• Player death imposes 10-second respawn; tower placement disabled while dead. [44920101]
+• Base car triggers AoE explosion each 1000 damage, clearing nearby enemies. [44920101]
+• Combat resources: money from destructibles; energy from power stones and extraction. [44920101]
+• Free placement enables flexible tower positioning and strategies. [41754681]
+• ""Perfect blend of randomness and tower defense."" [44900490]
+• Random growth systems drive high replayability and varied builds. [44900461, 44920101, 44900490]
+• Lower difficulties feel relaxed and low-stress to play. [47008437, 44920101]
+• Players appreciate units like Phantom Guardian and Phantom Nest. [47084298]"
+q4,Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”,"{'overall_score': 1.5, 'detailed_scoring': {None: 33, 2.0: 8, 1.0: 3, -1.0: 1}}"
+q5,Reason for previous question’s rating,"- Majority view combat as very fun and addictive. [47008437, 27416018, 43586708]
+- Roguelike plus tower-defense mix makes battles engaging with high replayability. [44900461, 44900490, 44920101]
+- Clearing swarms and summoning builds feel powerful and gratifying. [44920101]
+- Some feel the gameplay lacks sophistication; combat not advanced. [46998863]
+- Players want richer content to sustain combat satisfaction. [47011046]
+- PC combat is praised; mobile should retain the original feel. [47084298, 44900461, 46133921]
+- ""More fun than Slay the Spire."" [40500288]
+- Relaxing lie-back playstyle suggests a low-friction combat loop. [47008437]
+- Free-placement design delivers a fresh, distinct combat experience. [41754681]
+- High anticipation and positivity toward combat systems and flow. [44900490, 44920101]"
+q6,"List the strategic/tactical features mentioned, if any.","• Free-placement roguelike tower defense demands adaptive layouts and synergies. [41754681, 44920101]
+• Online co-op mode enables coordinated builds and shared objectives. [46980519]
+• Runs span four random chapters plus a final boss chapter. [44920101]
+• Chapters: three sections of two battles; route nodes include supply, shop, events, repair, craftsman. [44920101]
+• Supply nodes can be invested to level 6; cash out or gain all-attributes +1. [44920101]
+• Craftsman upgrades turrets; options include burn, Nest Partner, Explosive Ant. [44920101]
+• Shop tiers scale from A/B/C early to S/SSS late; discounts possible. [44920101]
+• Breakable environment yields money; some turrets also generate income. [44920101]
+• Energy management: park base car on energy stones; break, then install collector. [44920101]
+• Boss reward grants powerful golden upgrade; prioritize self-upgrade for easier clearing. [44920101]
+• Death penalty: 10s respawn; cannot place turrets while dead. [44920101]
+• Base car triggers AoE explosion at damage thresholds (e.g., every 1000). [44920101]
+• Ant-nest build summons swarms; effective at lower difficulties. [44920101]
+• Engineer Lion grants nests +75% attack speed and +50% HP. [44920101]
+• Early pick: Spider Nest for ranged support and later damage buff. [44920101]
+• Upgrade C-grade Queen Ant to A-grade via events; unlock more slots. [44920101]
+• Composition tips: Capybara Woodfish aura buff; Gorilla tank; Fly Factory high DPS. [44920101]
+• Before final boss, sell Spider Nest; consider Earthworm Pipeline (underwhelming). [44920101]
+• Nuclear Ladybug excels at fast map clearing. [46968595]
+• All-Savings Lawn reduces costs; strong for economy-focused builds. [46968595]
+• Chain Vending Machines farm money efficiently. [46968595]
+• Optional challenge modifiers further increase difficulty mid-run. [44920101]
+• High difficulty tiers (e.g., Difficulty 15) test builds and mastery. [47002350, 46980519]"
+q7,Rate strategic/tactical depth: -2 to 2 or “N/A”,"{'overall_score': 0.75, 'detailed_scoring': {None: 41, 1.0: 2, -1.0: 1, 2.0: 1}}"
+q8,Reason for previous question’s rating,"- Gameplay not advanced; playability could be improved. [46998863]
+- Multiple specialized strategies for early progress, clearing, resource gain, and farming. [46968595]
+- ""Many builds""; randomness and challenge feel sufficient. [44920101]
+- Ant-summon build considered essential, implying balance limits on strategic diversity. [44920101]
+- Layered systems: upgrades, shop tiers, events, resource and energy management require planning. [44920101]
+- Synergy-driven turret choices and roster swaps across stages and bosses. [44920101]
+- Destructible terrain and base positioning add tactical resource and energy considerations. [44920101]
+- Free-placement roguelike design feels distinct from earlier titles. [41754681]
+- Some towers underperform late-game, narrowing viable options. [44920101]
+- Boss rewards and supply upgrades create meaningful build trade-offs. [44920101]
+- Meta tactic: park the base on energy stones for efficiency. [44920101]"
+q9,Rate game progression: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 45}}"
+q10,Reason for previous question’s rating,• No reviews matched.
+q11,Rate hero balance: -2 to 2 or “N/A”,"{'overall_score': -1.0, 'detailed_scoring': {None: 44, -1.0: 1}}"
+q12,Reason for previous question’s rating,"• ""Engineer Lion is a must-have"" for nest builds; +75% attack speed, +50% HP to nests. [44920101]
+• Ant-summon build is dominant and beginner-friendly; hero selection heavily favors Engineer Lion. [44920101]
+• Combat Chicken plays a minor role in ant builds, indicating hero impact imbalance. [44920101]
+• Death imposes 10s revive and disables building, perceived as a big nerf. [44920101]"
+q13,Rate hero/team build diversity: -2 to 2 or “N/A”,"{'overall_score': 2.0, 'detailed_scoring': {None: 44, 2.0: 1}}"
+q14,Reason for previous question’s rating,"- Player reports many viable archetypes; roguelike randomness supports diverse team compositions. [44920101]
+- Ant-swarm nest build feels indispensable for newcomers and veterans, suggesting meta centralization. [44920101]
+- Early spider nest becomes default pick; later swapped out for bosses, encouraging situational choices. [44920101]
+- Engineer Lion synergizes heavily with nests, often a must-pick for that archetype. [44920101]
+- Turret variety and tiers (C–SSS) plus upgrades enable varied synergies and roles. [44920101]
+- Mid-run lineups evolve: add buffers, tanks, and high-DPS units as needed. [44920101]
+- Shops, events, and crafting broaden build paths, though RNG influences availability. [44920101]"
+q15,Describe the secondary core loop (or “N/A”),"- Run spans four randomized chapters plus a final boss stage. [44920101]
+- Each chapter has three sections, each containing two battles. [44920101]
+- Between battles, choose nodes: supply, shop, random events, repair, artisan. [44920101]
+- Level the supply node, then cash out before the final boss. [44920101]
+- Spend money at shops; early A/B/C turrets, late S and SSS. [44920101]
+- Earn money by breaking destructibles; some turrets also generate income. [44920101]
+- Use the artisan to apply tower modifiers and expand upgrade slots. [44920101]
+- Random events can grant a stronger A-grade Ant Queen nest. [44920101]
+- Manage power: break Power Stones and install collectors for energy. [44920101]
+- Park the base car on Power Stones; its own power is inefficient. [44920101]
+- Escort the base car; every 1000 damage triggers an AoE burst. [44920101]
+- Defeated bosses grant a powerful golden enhancement, often for the hero. [44920101]
+- Start by selecting a random turret; Spider Nest is a common pick. [44920101]
+- Replace early towers later to adjust for late-game needs. [44920101]
+- Unlock Engineer Lion by starting a run and restarting once. [44920101]
+- Enhance ant-nest builds via artisan perks: burning, partners, explosive ants. [44920101]
+- Optional challenges increase battle difficulty. [44920101]
+- Death triggers a 10-second respawn; cannot place turrets while dead. [44920101]"
+q16,"Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)","{None: 44, False: 1}"
+q17,Rate simplicity of the secondary loop: -2 to 2 or “N/A”,"{'overall_score': -1.0, 'detailed_scoring': {None: 44, -1.0: 1}}"
+q18,Reason for previous question’s rating,"• Secondary loop structure is clear: each chapter has three segments with two battles each. [44920101]
+• Between-battle nodes are predictable: supply, shop, random events, repair, craftsman. [44920101]
+• Supply system straightforward: stack levels to six, cash out before final boss. [44920101]
+• Money loop is direct: ""Everything you see can be destroyed"" for cash. [44920101]
+• Turrets can also generate income, supporting the economy loop. [44920101]
+• Energy management is simple: break power stones, place base car on them. [44920101]
+• Shop progression readable: early A/B/C turrets; late S/SSS unlocks and discounts. [44920101]
+• Craftsman upgrades encourage simple choices: take available buffs; luck-driven. [44920101]
+• Short sub-sections reduce complexity and keep pacing brisk. [44920101]"
+q19,Rate resources earned from the secondary loop: -2 to 2 or “N/A”,"{'overall_score': 1.0, 'detailed_scoring': {None: 44, 1.0: 1}}"
+q20,Reason for previous question’s rating,"- Money is crucial; breakable objects and some turrets generate it mid-run. ""Money isn't everything, but without money nothing works."" [44920101]
+- Supply nodes allow stacking investment; before final boss choose 450 cash or all-attributes. Preference: attributes. [44920101]
+- Shops appear once per section; early tiers limited; late maps unlock S/SSS turrets, sometimes discounted. [44920101]
+- Energy production from base is weak; break power stones and install collectors for efficient energy. [44920101]
+- Bosses grant powerful golden upgrades; usually best spent on strengthening the character. [44920101]
+- Craftsman guaranteed each section; provides turret enhancements, but choices are RNG-dependent. [44920101]
+- Random events gate A-tier Ant Queen; resource progression relies partly on luck. [44920101]"
+q21,Rate frequency of content/meta updates: -2 to 2 or “N/A”,"{'overall_score': 1.0, 'detailed_scoring': {None: 43, 1.0: 2}}"
+q22,Reason for previous question’s rating,"- Long pre-release wait noted, about two and a half years. [44920101]
+- Co-op mode was added later, significantly boosting playtime. [46980519]
+- Launch included many new features (characters, turrets, maps, mechanics, bosses). [44920101]
+- Players want continued updates, such as Workshop or DLC. [44920101]
+- No clear feedback on post-launch update or meta balance frequency. [46980519, 44920101]"
+q23,Does the game have a gacha guarantee system? (True/False/“N/A”),{None: 45}
+q24,"Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”",• No reviews matched.
+q25,Rate reasonableness of gacha pull price: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 45}}"
+q26,Reason for previous question’s rating,• No reviews matched.
+q27,Rate major feature access for non-paying users: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 45}}"
+q28,Reason for previous question’s rating,• No reviews matched.
+q29,"Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”","{'overall_score': None, 'detailed_scoring': {None: 45}}"
+q30,Reason for previous question’s rating,• No reviews matched.
+q31,Rate quality/quantity of free rewards: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 45}}"
+q32,Reason for previous question’s rating,• No reviews matched.
+q33,Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.,{None: 45}
+q34,"Briefly describe the IP if answer to previous question is True, else answer “N/A”",• No reviews matched.
+q35,Rate IP integration depth: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 45}}"
+q36,Reason for previous question’s rating,• No reviews matched.
+q37,Rate lightness of installation file: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 45}}"
+q38,Reason for previous question’s rating,• No reviews matched.
+q39,Rate in-game download experience: -2 to 2 or “N/A”,"{'overall_score': None, 'detailed_scoring': {None: 45}}"
+q40,Reason for previous question’s rating,• No reviews matched.
+q41,Briefly list other issues (not captured by the questions above),"• Clarify if mobile version is buy-to-play versus other monetization. [47092007, 46967030]
+• Avoid intrusive ads in the mobile port. [46972638, 46969010]
+• Clarify cross-buy: Steam owners asking if mobile version is included/free. [47092007, 46988450]
+• Provide cross-save/cross-play/account linking between PC and mobile. [46984374]
+• Add online multiplayer/coop mode. [47079839, 40515996]
+• Improve interruption handling; incoming calls force a restart of the run. [47026157]
+• Add an introduction cutscene or clearer story context in tutorial. [47026157]
+• Offer cosmetic-focused monetization; skins grindable, optional purchases. [40515996]
+• Consider paid optional talents/skills monetization, if implemented carefully. [41349602]
+• Expand mode variety and map themes (e.g., space, Moon, Mars). [40515996]
+• Desire for more characters and new gameplay ideas. [46969389]"

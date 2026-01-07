@@ -1,0 +1,245 @@
+[
+  {
+    "q0": 44122096
+  },
+  {
+    "q0": 44116340,
+    "q6": "Requires deep understanding of heroes and skills",
+    "q7": 2,
+    "q8": "Reviewer says it heavily tests knowledge of heroes and skills",
+    "q41": "Wants more characters later and collaboration events"
+  },
+  {
+    "q0": 44115242,
+    "q41": "Gameplay feels somewhat single; hopes for expanded and innovative modes"
+  },
+  {
+    "q0": 44115210,
+    "q3": "Single-hero 1v1 duels",
+    "q4": 1,
+    "q5": "Simple to learn but challenging to master",
+    "q6": "Emphasizes number tuning and strategic planning",
+    "q7": 1,
+    "q8": "Advanced play requires strategy and sensitivity to stats",
+    "q41": "UI/features and visuals could be optimized"
+  },
+  {
+    "q0": 44106486,
+    "q4": 1,
+    "q5": "Hero designs and visuals are appealing; becomes addictive after learning",
+    "q41": "Art style is distinctive and comfortable"
+  },
+  {
+    "q0": 44106475,
+    "q4": 2,
+    "q5": "Fast-paced, strategic and numbers-driven; cute art; good on mobile",
+    "q6": "Fast pace; tests numbers and strategy",
+    "q7": 2,
+    "q8": "Requires balancing stats with strategic choices",
+    "q41": "Mobile-friendly quick sessions; expects more content on launch"
+  },
+  {
+    "q0": 44106094
+  },
+  {
+    "q0": 44105900,
+    "q41": "Likes the art; cute courier contrasts with heroes"
+  },
+  {
+    "q0": 44105888,
+    "q6": "Rich pool with high combo potential; tight counter relationships between archetypes",
+    "q7": 2,
+    "q8": "Multiple countering archetypes and flexible combinations",
+    "q13": 2,
+    "q14": "Large pool enables many viable builds and counters"
+  },
+  {
+    "q0": 44094737,
+    "q4": -2,
+    "q5": "Perceived unfair gold RNG and repeated lowest gold outcomes reduce fun",
+    "q11": -2,
+    "q12": "Says heroes/builds like Fire Mage, Treant, Brawler, and Frost Archer are overpowered",
+    "q41": "Complains about extreme RNG on gold rarity (e.g., 15 rounds with only 5 gold)"
+  },
+  {
+    "q0": 44059620,
+    "q21": -1,
+    "q22": "Updates/adjustments feel arbitrary and do not fix key issues",
+    "q41": "Many bugs: shield not triggering, gold rarity RNG feels off, attack speed inconsistencies, random silence, neglected talent balance"
+  },
+  {
+    "q0": 44042117
+  },
+  {
+    "q0": 44000738,
+    "q41": "Requests disabling opponents viewing one’s cards to prevent targeted countering"
+  },
+  {
+    "q0": 43872750
+  },
+  {
+    "q0": 43803593,
+    "q21": -1,
+    "q22": "Known refresh double-click issue reported many times and still not fixed",
+    "q41": "Refresh action sometimes double-clicks"
+  },
+  {
+    "q0": 43773981,
+    "q13": -1,
+    "q14": "Wants more archetype combinations for fun",
+    "q41": "Legendary skills are too hard to obtain; some skills have no effect"
+  },
+  {
+    "q0": 43706891,
+    "q11": -1,
+    "q12": "Occasionally one or two opponents reach max attack speed too easily"
+  },
+  {
+    "q0": 43701219,
+    "q4": 2,
+    "q5": "Very addictive after understanding the mechanics"
+  },
+  {
+    "q0": 43698437,
+    "q41": "Requests graphics optimization and bug fixes before launch"
+  },
+  {
+    "q0": 43698183
+  },
+  {
+    "q0": 43693081,
+    "q4": 2,
+    "q5": "Addictive to the point of reducing sleep"
+  },
+  {
+    "q0": 43691386,
+    "q41": "Accuses the game of copying another title (欢乐吃货) with similar skill names/effects"
+  },
+  {
+    "q0": 43685536,
+    "q4": 2,
+    "q5": "Addictive despite some shortcomings",
+    "q41": "New player tutorial is lacking"
+  },
+  {
+    "q0": 43685530,
+    "q9": -1,
+    "q10": "Fun may fade in 1–2 weeks without more content; needs sustainable development"
+  },
+  {
+    "q0": 43615946,
+    "q41": "Feels like matches are filled with bots"
+  },
+  {
+    "q0": 43606624,
+    "q6": "Rune system; starting region modifiers; two new legendaries per archetype; character talent tree choices",
+    "q7": 2,
+    "q8": "Multiple layered systems add depth and replayability",
+    "q41": "Encourages innovating beyond the PC version; sees strong potential"
+  },
+  {
+    "q0": 43604721,
+    "q41": "Thinks the game name is not appealing"
+  },
+  {
+    "q0": 43567143,
+    "q41": "Cannot enter the game despite successful pre-registration"
+  },
+  {
+    "q0": 43521331,
+    "q4": 2,
+    "q5": "Very satisfying late game once build patterns are understood"
+  },
+  {
+    "q0": 43499331
+  },
+  {
+    "q0": 43476902
+  },
+  {
+    "q0": 43471251
+  },
+  {
+    "q0": 43467430
+  },
+  {
+    "q0": 43331405,
+    "q4": 1,
+    "q5": "Gameplay is good and creative"
+  },
+  {
+    "q0": 43278650,
+    "q3": "Skill-pick (draft) brawler",
+    "q41": "Viewed as an alternative to other skill-pick games"
+  },
+  {
+    "q0": 43264910,
+    "q29": 1,
+    "q30": "Perceives it as not too predatory; willing to buy a monthly card",
+    "q41": "Excited for portrait-mode version"
+  },
+  {
+    "q0": 43195375
+  },
+  {
+    "q0": 43142911
+  },
+  {
+    "q0": 43137999
+  },
+  {
+    "q0": 43136330
+  },
+  {
+    "q0": 43134927,
+    "q41": "Hopes monetization avoids selling stats; prefers cosmetic skins/effects"
+  },
+  {
+    "q0": 43113287
+  },
+  {
+    "q0": 43112017
+  },
+  {
+    "q0": 43107379
+  },
+  {
+    "q0": 43107351
+  },
+  {
+    "q0": 43106115
+  },
+  {
+    "q0": 43105260
+  },
+  {
+    "q0": 43104665,
+    "q41": "Criticizes art/marketing assets as low quality; asks for better visuals"
+  },
+  {
+    "q0": 43102090
+  },
+  {
+    "q0": 43097804
+  },
+  {
+    "q0": 43096597
+  },
+  {
+    "q0": 43095683,
+    "q41": "Art looks good"
+  },
+  {
+    "q0": 43095429,
+    "q41": "Happy it’s on mobile; in-game visuals look OK"
+  },
+  {
+    "q0": 43095309
+  },
+  {
+    "q0": 43095204
+  },
+  {
+    "q0": 43094956
+  }
+]

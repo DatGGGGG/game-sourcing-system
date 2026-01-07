@@ -1,0 +1,323 @@
+[
+    {
+        "question_code": "q1",
+        "question_content": "Does the game contain any sensitive content (Sexual Content/Nudity, Violence/Gore, Drugs/Alcohol/Tobacco, Religious/Political)? (If not mentioned, answer “N/A”)",
+        "synthesis_answer": {
+            "null": 146
+        }
+    },
+    {
+        "question_code": "q2",
+        "question_content": "List the sensitive content mentioned, if any.",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q3",
+        "question_content": "Summarize the core combat mechanics (or “N/A” if not mentioned).",
+        "synthesis_answer": "- Auto chess core with 1v1 dueling twist; lineup building drives outcomes. [45588362, 44115210, 46859715]\n- Strategic phases: choose archetype, manage economy midgame, adjust lineup late. [46850142]\n- Attribute and archetype counters enable reactive counter-builds against opponents. [45588362, 46849196]\n- Scouting opponents and switching builds for hard counters feels rewarding. [46849196]\n- \"Region\" mechanic adds another strategic layer to battles. [45588362]\n- Hero skills meaningfully impact combat decisions and synergies. [45588362]\n- Simple vertical controls enable one-handed, quick sessions; easy for beginners. [45653850, 45588362, 45287050]\n- Ladder play showcases visible skill growth through better strategy and countering. [46849196]\n- Balance issues: several lineups feel overtuned; overall balance needs work. [46859715]\n- RNG pain: hard to roll core archetypes/abilities; heavy refresh costs. [46850142, 46849196]\n- Early health damage creates snowballing, weak comeback potential. [46849196]\n- Drawing key abilities is satisfying and powerful. [46849196]\n- Draft/selection mode is widely disliked and requested to change. [46041935, 45862186]\n- New playstyles and archetypes keep combat variety fresh. [46849196, 46859715]\n- Lacking visibility of secondary archetypes during hero pick hurts defensive planning. [45287050]\n- Occasional input delay and lag degrade combat responsiveness. [46849196]\n- Single-player turn structure; shorter, less time-consuming than classic auto chess. [45818499, 44246660]\n- Each match plays differently; lineup strategy variety keeps matches fresh. [46859715, 45588362]"
+    },
+    {
+        "question_code": "q4",
+        "question_content": "Rate combat satisfaction: -2 (very negative) to 2 (very positive) or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.9130434782608695,
+            "detailed_scoring": {
+                "null": 123,
+                "1.0": 10,
+                "2.0": 9,
+                "-2.0": 3,
+                "-1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q5",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Overall combat satisfaction is high; many describe it as addictive and engaging. [46859715, 44246694, 44193136, 44106486, 43701219, 43693081, 43685536]\n• Strategic depth and counterplay deliver strong accomplishment when outsmarting opponents. [46849196, 45588362, 43521331]\n• 1v1 auto-battler format feels simple yet deep, pleasing strategy fans. [44115210, 45588362]\n• Fast-paced, vertical design suits short sessions, boosting enjoyment. [45653850, 44246694, 44106475, 45287050, 44246660, 45004937]\n• Ranked ladder progression reinforces satisfaction with visible skill growth. [46849196]\n• Balance concerns: certain compositions/heroes feel overpowered. [46859715, 44094737]\n• RNG frustrations: low gold drop rates and missing core pieces hurt satisfaction. [44242260, 44094737, 46849196]\n• Draft mode is widely disliked; players request changes. [46041935, 45862186]\n• Technical issues like lag, heating, and settlement bugs disrupt enjoyment. [46849196]\n• New content and builds keep combat fresh. [46849196]\n• Onboarding and hero info clarity need improvement for better early combat choices. [45287050, 43685536]\n• Visual fidelity could improve to enhance battle feel. [45818499]"
+    },
+    {
+        "question_code": "q6",
+        "question_content": "List the strategic/tactical features mentioned, if any.",
+        "synthesis_answer": "- Auto battler core with strategic hero lineup building and synergies. [46859715, 45588362, 45238964]\n- Tight faction/attribute counter system enabling build matchups. [45588362, 44105888, 46849196]\n- Opening archetype selection shapes strategy from the first round. [46850142]\n- Mid-game economy management impacts power curve. [46850142]\n- Late-game lineup adjustments and pivoting are crucial. [46850142, 46849196]\n- Scouting opponents and counterpicking their builds. [46849196]\n- Predicting counter relationships for timely reversals. [46849196]\n- Ranked ladder emphasizes strategic play and improvement. [46849196]\n- Frequent new modes and archetypes expand strategic space. [46849196]\n- Drawing special abilities adds spikes of power and variety. [46849196]\n- Build-defining archetype cores; success depends on drawing desired core. [46850142, 46849196]\n- 1v1 dueling combined with autobattler progression. [45588362, 44115210]\n- Region mechanic adds another strategic dimension. [45588362, 43606624]\n- Rune system augments build customization. [43606624]\n- Opening region selection influences early decisions. [43606624]\n- Two legendary options per archetype diversify endgame builds. [43606624]\n- Character talent trees enable long-term build choices. [43606624]\n- Rich card pool enables high-combinability lineups. [44105888]\n- Understanding hero skills is key to tactical mastery. [44116340, 44115210]\n- \"Every match feels like chess.\" [46849196]"
+    },
+    {
+        "question_code": "q7",
+        "question_content": "Rate strategic/tactical depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 1.8,
+            "detailed_scoring": {
+                "null": 136,
+                "2.0": 8,
+                "1.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q8",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Strong strategic depth from lineup synergies and attribute counters. [46859715, 45588362, 45238964, 44105888]\n• Matches feel fresh; diverse builds and counters create varied strategic experiences. [46859715, 45588362, 44105888]\n• Multi-phase decision-making: opening archetype, midgame economy, late-game lineup adjustments. [46850142]\n• Scouting opponents and flexibly switching archetypes to counter is central. [46849196]\n• \"Each game feels like chess.\" Highlights strategic forethought and adaptation. [46849196]\n• High skill ceiling but accessible entry; strategy depth grows with rank and learning. [46849196, 45588362, 46850142, 44115210]\n• Additional systems like regions, runes, talents add layers of tactical choices. [45588362, 43606624]\n• 1v1 auto-chess hybrid praised for meaningful duels and buildcraft. [45588362, 44115210]\n• Balance concerns: certain lineups or heroes feel overtuned, reducing strategic diversity. [46859715, 45238964]\n• RNG on drawing core abilities can derail plans and comebacks. [46850142, 46849196]\n• New archetypes expand strategies, yet players still seek broader variety. [46849196, 46859715, 44116340, 43606624]\n• Fast pace yet remains brainy; suits short sessions without losing depth. [44106475, 45588362]\n• Need to understand heroes and skills deeply to excel. [44116340]"
+    },
+    {
+        "question_code": "q9",
+        "question_content": "Rate game progression: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.0,
+            "detailed_scoring": {
+                "null": 144,
+                "1.0": 1,
+                "-1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q10",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Early progression is accessible; clear onboarding and fast early resource gains. [45588362]\n- The 1v1 growth/progression system meshes well with autobattler combat. [45588362]\n- Long-term progression/content depth feels limited; \"loses freshness after 1–2 weeks\". [43685530]\n- Players ask for more content to sustain progression over time. [43685530]"
+    },
+    {
+        "question_code": "q11",
+        "question_content": "Rate hero balance: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.6071428571428572,
+            "detailed_scoring": {
+                "null": 118,
+                "-2.0": 17,
+                "-1.0": 11
+            }
+        }
+    },
+    {
+        "question_code": "q12",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Balance widely criticized; many say each update worsens fairness. [46647261, 45772139, 44504449, 44436774, 44332778]\n• New heroes feel overtuned and untested, dominating matches. [45797178, 45831693, 45800021, 44272423]\n• Specific OP picks called out: Arthur, Luban, Blackbeard, Captain, Ghoul. [46840402, 45077143, 44968114, 44271777]\n• Certain compositions secure easy wins: Fire Mage, Treant, Brawler, Ice builds. [44094737, 46859715]\n• Strategy exists, but overpowered heroes/lineups undermine competitive balance. [46859715, 45238964, 44317843, 45004495]\n• Mutation/Anomaly abilities create unequal power; same hero, different strength. [46640732, 46639270, 46643397, 46643724]\n• Pay-to-win progression skews balance; non-spenders lack crucial abilities. [46643724, 44572017, 44832805, 46639270, 46640732]\n• Gold abilities dominate outcomes; 'Who picks gold wins.' [44678713]\n• Trial tasks break balance, overshadow equipment and monsters; luck snowballs advantage. [46840402]\n• Early hero choice or economy RNG often decides rankings. [44262698, 44094737]\n• Attack speed spikes appear excessive and unfair. [43706891]\n• Players repeatedly request nerfs to overtuned heroes. [45077143, 44968114, 44271777, 45831693]"
+    },
+    {
+        "question_code": "q13",
+        "question_content": "Rate hero/team build diversity: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.4,
+            "detailed_scoring": {
+                "null": 141,
+                "1.0": 2,
+                "-1.0": 2,
+                "2.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q14",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Players praise strategic, varied hero lineup combinations; \"each game feels new.\" [46859715, 44317843, 44105888]\n• Some report a rich card pool, high combinability, and clear counterplay. [44105888]\n• Others find the hero pool small and playstyle options limited. [43783573]\n• Balance concerns: overpowered builds dominate; repeated identical heroes appear in matches. [46859715, 43783573, 44317843]\n• Requests for more builds and new heroes to expand strategies. [46859715, 43773981, 44317843]\n• Pay-to-win perks grant extra hero choices and scouting, reducing fairness and diversity. [43783573]\n• Hard-to-get or ineffective skills further limit viable build diversity. [43773981]\n• Some say faction counter relationships are tight, improving team-build depth. [44105888]"
+    },
+    {
+        "question_code": "q15",
+        "question_content": "Describe the secondary core loop (or “N/A”)",
+        "synthesis_answer": "- Out-of-match progression with character ability development dominates the metagame. [46640995, 46644773]\n- Players earn exchange points daily through play; daily cap is 150 points. [46644773]\n- Redeem 4000 points for a small character; 2800 points for an attack effect. [46644773]\n- Exchange 700–800 points for 500 coins to fund gacha. [46644773]\n- Coins are scarce; updates only grant around 200 coins. [46644773]\n- Coins fuel gacha: 1000 per single pull, 10000 per ten-pull. [46644773]\n- Gacha feels stingy; multiple singles yield nothing, ten-pull gives few purples. [46644773]\n- Event spending on characters and effects leaves little currency elsewhere. [46644773]\n- Progress favors spenders; non-spenders grind extremely long for draws. [46640995, 46644773]\n- Bounty mode is fun but consumes currency rapidly; two matches drain funds. [45238907]"
+    },
+    {
+        "question_code": "q16",
+        "question_content": "Does the secondary loop match tycoon/crafting (e.g. Township, Hay Day)? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 143,
+            "false": 3
+        }
+    },
+    {
+        "question_code": "q17",
+        "question_content": "Rate simplicity of the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.0,
+            "detailed_scoring": {
+                "null": 145,
+                "-1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q18",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Secondary loop feels complex and grindy, not simple. [46644773]\n- Resource scarcity (gold, points) makes progression cumbersome and slow. [46644773]\n- Multiple currencies and exchange rates add confusion and friction. [46644773]\n- High gacha costs hinder straightforward improvement; F2P finds it overwhelming. [46644773]\n- Early ranks feel easy with bots, but long-term meta loop frustrates. [46644773]\n- Player says it \"turned into out-of-match progression.\" [46644773]"
+    },
+    {
+        "question_code": "q19",
+        "question_content": "Rate resources earned from the secondary loop: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.5,
+            "detailed_scoring": {
+                "null": 144,
+                "-2.0": 1,
+                "-1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q20",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Coin income perceived very low; single pull 1000, ten-pull 10,000, hurting F2P. [46644773]\n- Update rewards only ~200 coins; accumulation feels painfully slow. [46644773]\n- Daily event points cap at 150; items cost 2,800–4,000 points, slowing progress. [46644773]\n- 700–800 points convert to 500 coins; exchange rates feel stingy. [46644773]\n- Event rewards barely cover one minor character and one attack effect. [46644773]\n- Non-spenders feel progression gated; meta pushed toward out-of-match grinding/monetization. [46644773]\n- New Bounty mode drains currency quickly; \"money runs out after two matches.\" [45238907]\n- Unlucky pulls feel punishing; scarce resources risk being wasted on undesired heroes. [46644773]"
+    },
+    {
+        "question_code": "q21",
+        "question_content": "Rate frequency of content/meta updates: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.36363636363636365,
+            "detailed_scoring": {
+                "null": 135,
+                "-1.0": 5,
+                "2.0": 3,
+                "1.0": 3
+            }
+        }
+    },
+    {
+        "question_code": "q22",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• \"Weekly balance adjustments\" keep the meta active. [45004900]\n• Balance changes arrive quickly after community feedback. [46330623]\n• New content is added periodically, keeping the game fresh. [46330623]\n• Each season introduces new heroes and artifacts; updates reshuffle the ladder meta. [46314256]\n• Continuous additions of new playstyles and archetypes sustain long-term engagement. [46849196]\n• Mobile version lags behind PC; hero release pace feels too slow. [44375843]\n• Hero releases are slow; players want a faster cadence. [44332778]"
+    },
+    {
+        "question_code": "q23",
+        "question_content": "Does the game have a gacha guarantee system? (True/False/“N/A”)",
+        "synthesis_answer": {
+            "null": 145,
+            "false": 1
+        }
+    },
+    {
+        "question_code": "q24",
+        "question_content": "Briefly describe the gacha guarantee system if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q25",
+        "question_content": "Rate reasonableness of gacha pull price: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -2.0,
+            "detailed_scoring": {
+                "null": 143,
+                "-2.0": 3
+            }
+        }
+    },
+    {
+        "question_code": "q26",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Pulls cost 1,000 coins single, 10,000 coins ten-pull; earnings tiny; F2P can't afford. [46644773]\n- Very slow coin gains: 200 per update; events prioritize other items; ten-pulls take ages. [46644773]\n- Reported poor outcomes: six singles nothing; one ten-pull only two purples. [46644773]\n- About 20,000 needed to max new skills; pricing viewed as excessive. [46640732]\n- Recharge bonuses are stingy, hurting value perception for pulls. [44739854]"
+    },
+    {
+        "question_code": "q27",
+        "question_content": "Rate major feature access for non-paying users: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.3571428571428572,
+            "detailed_scoring": {
+                "null": 132,
+                "-2.0": 9,
+                "-1.0": 3,
+                "1.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q28",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Advanced ability system favors spenders; free players lack high-tier abilities and power. [46639270, 46640394, 46642283, 46643724]\n• Monthly/privilege cards unlock extra hero choices; non-payers cannot access these selection advantages. [46643724, 43783573, 46132231, 44572017]\n• Privilege card also reveals opponents’ builds; free players miss this information feature. [43783573]\n• Currency income is very low; gacha costs block free players from acquiring desired heroes/abilities. [46644773]\n• Shop heroes are expensive; non-payers struggle to obtain or try all heroes. [46132231, 46371182]\n• Events and updates grant minimal coins, delaying F2P access to major draws. [46644773]\n• Some heroes or privileges are not universally selectable, implying pay-gated access. [46371182]\n• Paid collectible offers nine-choice selection; free players lack equivalent options. [43773334]\n• Many feel it’s \"pay to win\"; non-payers aren’t playing the same game. [43783573, 46640394, 46643724, 46642283]\n• Earlier stages felt fair for F2P; later updates added pay-gated systems. [45588034, 45004900, 44246669, 46639270]\n• Recent shift to out-of-match progression intensifies grind; non-spenders fall behind. [46644773, 46640995]"
+    },
+    {
+        "question_code": "q29",
+        "question_content": "Rate spending pressure: -2 (heavy/annoying) to 2 (elegant/subtle), or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.608695652173913,
+            "detailed_scoring": {
+                "null": 123,
+                "-2.0": 18,
+                "-1.0": 3,
+                "1.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q30",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Strong consensus: game is pay-to-win; spending alters in-match stats and mechanics. [46642283, 46640394, 43783573]\n• New abilities system demands heavy spending; hundreds not enough; about 20,000 to max. [46640394, 46640732]\n• Shift from skill to out-of-match progression; non-spenders disadvantaged. [46644773, 46640995, 46639270]\n• Monthly/privilege cards grant unfair advantages like extra hero choices and info. [44572017, 43783573, 46132231]\n• Gacha is expensive and stingy; 1,000 single, 10,000 ten-pull; poor returns. [46644773]\n• Gold is scarce; heroes and upgrades feel overpriced and slow to obtain. [45215371, 44262698, 46644773]\n• Frequent new heroes perceived as paywalls; pressure to buy to compete. [45800021, 45351475, 44832805]\n• Monetization reaches into stats/mechanics, not just cosmetics. [46642283, 44572017]\n• Publisher history fuels fears of future aggressive monetization. [46371182]\n• Minority sentiment: playable without heavy grind or spend. [45588034, 43264910]\n• Aggressive monetization prompts quits and churn. [46644773, 45800021]\n• iOS payment flow via WeChat feels inconvenient, reducing spend intent. [44748492]\n• Compared to peers, monetization seen as more exploitative. [46643724]\n• Quote: \"Pay to win.\" [46640394, 43783573]"
+    },
+    {
+        "question_code": "q31",
+        "question_content": "Rate quality/quantity of free rewards: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": -1.3,
+            "detailed_scoring": {
+                "null": 136,
+                "-2.0": 5,
+                "-1.0": 4,
+                "1.0": 1
+            }
+        }
+    },
+    {
+        "question_code": "q32",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• Free rewards feel stingy; players ask for more rewards. [46714128, 45215371]\n• Coins are hard to earn; heroes feel very expensive for non-spenders. [46644773, 44262698]\n• Gacha costs are high; tickets scarce; shards dilute pulls. [46644773, 46440493]\n• F2P rarely afford ten-pulls; saving takes very long. [46644773]\n• Update grants only 200 coins; daily activity points capped at 150. [46644773]\n• Exchange prices steep; 4000 points per character, 2800 for effect. [46644773]\n• Event drops feel punishing; low-probability objectives frustrate completion. [44891416, 44410048]\n• Tournament betting rewards low; winnings don't cover two draws. [46314256]\n• Some praise fast early resource accumulation for beginners. [45588362]\n• Players request more events or ways to earn coins. [45004495]"
+    },
+    {
+        "question_code": "q33",
+        "question_content": "Does the game integrate IP? (True/False if says none/“N/A” if not mentioned). Briefly describe.",
+        "synthesis_answer": {
+            "null": 144,
+            "true": 2
+        }
+    },
+    {
+        "question_code": "q34",
+        "question_content": "Briefly describe the IP if answer to previous question is True, else answer “N/A”",
+        "synthesis_answer": "- Inspired by Dota 2 Arcade, replicating the \"electronic cricket fighting\" custom mode. [44801925, 43783573]\n- Origin explicitly linked by players to Dota 2’s Arcade custom games. [44801925, 43783573]\n- Perceived as Dota 2–derived content rather than a standalone original IP. [44801925, 43783573]"
+    },
+    {
+        "question_code": "q35",
+        "question_content": "Rate IP integration depth: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": 0.0,
+            "detailed_scoring": {
+                "null": 144,
+                "0.0": 2
+            }
+        }
+    },
+    {
+        "question_code": "q36",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "- Identified by players as essentially the Dota 2 Arcade version of the game. [44801925, 43783573]\n- Perceived integration depth is shallow, largely replicating the custom mode’s mechanics. [44801925, 43783573]\n- Small hero pool and frequent duplicates point to limited IP content breadth. [43783573]"
+    },
+    {
+        "question_code": "q37",
+        "question_content": "Rate lightness of installation file: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 146
+            }
+        }
+    },
+    {
+        "question_code": "q38",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q39",
+        "question_content": "Rate in-game download experience: -2 to 2 or “N/A”",
+        "synthesis_answer": {
+            "overall_score": null,
+            "detailed_scoring": {
+                "null": 146
+            }
+        }
+    },
+    {
+        "question_code": "q40",
+        "question_content": "Reason for previous question’s rating",
+        "synthesis_answer": "• No reviews matched."
+    },
+    {
+        "question_code": "q41",
+        "question_content": "Briefly list other issues (not captured by the questions above)",
+        "synthesis_answer": "- Unstable connections cause lag; operations frequently delayed during matches [46849196].\n- Phones overheat severely while playing; suspected background “mining” behavior [46849196, 44882493, 44783369].\n- In-match shop flickers; persistent stutter remains unfixed [44897432].\n- Settlement errors, failed skill triggers, unexplained silences; needs urgent bug fixes [46849196, 44059620].\n- Shop refresh occasionally double-clicks unintentionally [43803593].\n- Game sometimes has no sound [44421639].\n- Frequent UI overhauls frustrate veterans [45740032].\n- Hero portraits look AI-generated; prefer previous art [46132231].\n- Battle visuals feel unsatisfying; impact could be improved [46132231].\n- Promotional graphics perceived as very low quality [43104665].\n- Severe rank mismatch; “Platinum 4 fights Masters daily” [44592107, 44409652, 44883133, 44248946].\n- Many matches contain bots; sometimes only 2–3 real players [45772139, 43615946].\n- System explicitly flags some matches as bot lobbies [46644773].\n- Displayed odds feel inaccurate; extreme RNG anomalies frequently reported [44242260, 44807955, 44304139].\n- Perceived arranged wins/losses and extreme RNG polarization [44628524, 44268084, 44094737].\n- AFK players common; desire stronger penalties [46714128].\n- Bounty mode score farming goes unchecked [45464187].\n- iOS purchases redirect to WeChat; item details unclear during checkout [44748492].\n- Tap login loses account; progress seemingly missing [44945518].\n- Reserved but cannot enter the game; unclear access process [43567143].\n- Letter-collection event is tedious and overly luck-dependent [44891416, 44410048].\n- World channel begging/trading caused by event design [44410048, 44891416].\n- Guides contain ads; toxic debates; bot replies reduce engagement [46314256].\n- Opponents can view decks; request option to hide cards [44000738].\n- New player guide insufficient; key systems poorly explained [46714128, 43685536].\n- Hero selection lacks sub-faction details for beginners [45287050].\n- Draft mode addition criticized as unnecessary and off-putting [46041935].\n- Accusations of copying another game’s skills and effects [43691386, 46041935].\n- Some skills have no effect; more QA needed [43773981]."
+    }
+]

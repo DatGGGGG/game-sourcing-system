@@ -1,0 +1,438 @@
+[
+  {
+    "q0": 46819386,
+    "q41": "Loves the map art; requests a full-time landscape mode."
+  },
+  {
+    "q0": 46819377,
+    "q4": -1,
+    "q5": "Hit SFX and skill VFX feel rough and unsatisfying.",
+    "q41": "Art/style is fine; lacks a landscape mode option."
+  },
+  {
+    "q0": 46819346,
+    "q6": "Flexible skill tree; free build customization.",
+    "q7": 1,
+    "q8": "Skill tree allows自由 allocation and varied builds.",
+    "q9": 1,
+    "q10": "Generous resources and moderate material dungeon difficulty avoid progress gating.",
+    "q15": "Farm material dungeons and progress story to unlock resources.",
+    "q17": 1,
+    "q18": "Material runs are straightforward and solo-friendly.",
+    "q19": 1,
+    "q20": "Diamonds easy to save; story grants 3 Fire SSRs; material drops adequate.",
+    "q27": 1,
+    "q28": "Solo play handles material stages well; free SSRs help new players push.",
+    "q29": 1,
+    "q30": "Test economy is generous; little pressure felt.",
+    "q31": 2,
+    "q32": "Diamonds easy to get; story gifts three Fire SSRs.",
+    "q41": "Small bugs/optimization issues but acceptable for a small studio test."
+  },
+  {
+    "q0": 46819284,
+    "q41": "Virtual joystick is stuck near the screen center; requests customizable position."
+  },
+  {
+    "q0": 46819336,
+    "q21": 1,
+    "q22": "From 1st test to now the team has been iterating and fixing bugs based on feedback.",
+    "q41": "Notable improvement from very buggy early tests; small studio but receptive to feedback."
+  },
+  {
+    "q0": 46819297,
+    "q41": "Pixel art and BGM integration are highly praised; visually and aurally immersive."
+  },
+  {
+    "q0": 46819285,
+    "q41": "Severe stutter and frame drops; gacha froze with 'not responding'; caused dizziness after ~1 hour."
+  },
+  {
+    "q0": 46819283,
+    "q3": "GBF-like turn-based co-op raids focused on team/weapon-grid building and farming drops.",
+    "q6": "Weapon grid/team building; co-op raids; plate/party composition.",
+    "q7": 1,
+    "q8": "Grid/team building depth but onboarding is tough for new players.",
+    "q9": -1,
+    "q10": "Bugs, content gates, and an uneven growth curve impede progression.",
+    "q21": 1,
+    "q22": "Active dev replies and fixes during test.",
+    "q41": "Buggy with progress blocks; small studio but responsive."
+  },
+  {
+    "q0": 46819281,
+    "q4": -2,
+    "q5": "Felt there was no gameplay beyond visuals; suggested focusing on single-player story.",
+    "q41": "Aside from visuals, found it lacking in gameplay."
+  },
+  {
+    "q0": 45965955,
+    "q41": "Main story about the meaning of life is deep and well-performed; strong voice acting and presentation; highly immersive."
+  },
+  {
+    "q0": 46819244,
+    "q37": -1,
+    "q38": "Install is about 2 GB; background’s 2.5D assets likely inflate size.",
+    "q41": "2.5D backgrounds look coarse; questions why a pixel game needs heavy 2.5D; complains about limited gameplay."
+  },
+  {
+    "q0": 46819231,
+    "q41": "Top-tier visuals but story and controls feel weak; vertical controls on iPad are awkward; requests landscape for better sightseeing."
+  },
+  {
+    "q0": 46819212,
+    "q41": "Great potential but test build underperforms; needs more polish from the small team."
+  },
+  {
+    "q0": 46819129,
+    "q4": -1,
+    "q5": "Battle transitions feel unnatural with stutters; bland hit SFX; enemies slide into contact instead of animating attacks.",
+    "q25": -1,
+    "q26": "Ten-pull cost feels high.",
+    "q41": "Praised art; suggested adding attack animations like Octopath; music/VFX average."
+  },
+  {
+    "q0": 46819104,
+    "q4": 1,
+    "q5": "Combat feels chill/low-stress.",
+    "q41": "Likes the visuals and relaxed combat."
+  },
+  {
+    "q0": 46819048,
+    "q41": "Loves the high-quality, beautiful visuals."
+  },
+  {
+    "q0": 46812541,
+    "q41": "Even at 60 FPS it feels laggy; frequent battle disconnects; high background resource usage; needs optimization."
+  },
+  {
+    "q0": 46818896,
+    "q41": "Feels like a boring WeChat mini-game; not engaging."
+  },
+  {
+    "q0": 46818874,
+    "q29": -2,
+    "q30": "Obtrusive first-recharge and repeated cash shop prompts clutter the main UI, creating strong monetization pressure.",
+    "q41": "Requests a cleaner main screen without in-your-face recharge pages."
+  },
+  {
+    "q0": 46818807,
+    "q41": "Visuals are good; says nothing besides art compares favorably to GBF."
+  },
+  {
+    "q0": 46818735,
+    "q41": "Complains about a locked female protagonist."
+  },
+  {
+    "q0": 46817957,
+    "q4": -1,
+    "q5": "Poor operation feel, underwhelming skill VFX, fixed joystick, and lack of landscape or map tap-to-move.",
+    "q6": "Elemental system; job change; auto team adjustment.",
+    "q7": -1,
+    "q8": "Systems feel confusing/overcomplicated (job level reset, element mismatch).",
+    "q9": -1,
+    "q10": "Time-heavy grind with idle resources; little perceived payoff.",
+    "q15": "Idle/AFK resource accrual alongside grinding.",
+    "q17": 1,
+    "q18": "AFK/idle loop is straightforward but not engaging.",
+    "q19": -1,
+    "q20": "Resources gained from idle/grind feel stingy relative to time.",
+    "q41": "No landscape; fixed joystick; confusing job/attribute conversions; team auto-change misassigns elements."
+  },
+  {
+    "q0": 46818639,
+    "q41": "Vertical-only in test (dev says landscape exists but not enabled); blurry visuals; overall feels like a WeChat mini-game."
+  },
+  {
+    "q0": 46818564,
+    "q41": "Asks for a male protagonist option; default female MC breaks immersion for them."
+  },
+  {
+    "q0": 46818542,
+    "q3": "Turn-based battles with gacha (limited/standard/friend pools) and light overworld interactions.",
+    "q4": -1,
+    "q5": "Dislikes long story and turn-based combat.",
+    "q15": "Overworld exploration with interactables, patrolling enemies, and treasure chests.",
+    "q17": 1,
+    "q18": "Basic interactions add a small layer of variety.",
+    "q41": "Not their genre; left after ~30 minutes."
+  },
+  {
+    "q0": 46818522,
+    "q41": "Bug: Exchanged UP-pool vouchers turned into standard-pool vouchers, preventing UP pulls."
+  },
+  {
+    "q0": 46818382,
+    "q41": "Issues: repeated reconnects entering battle; clunky map movement with heavy auto-pathing; odd character art; low gacha feedback; UP vouchers converted to standard; screen flicker; unengaging story."
+  },
+  {
+    "q0": 46818381,
+    "q41": "Top-tier rendering but severe cohesion issues: mismatched UI/portraits/fonts and pixel scales; music restarts on every scene change."
+  },
+  {
+    "q0": 46818352,
+    "q41": "Finds the story cringe; report button seemingly ineffective."
+  },
+  {
+    "q0": 46818275,
+    "q41": "Pre-download SMS verified, but login later fails with 'too frequent' attempts."
+  },
+  {
+    "q0": 46818256,
+    "q41": "Game locks the protagonist as female."
+  },
+  {
+    "q0": 46818173
+  },
+  {
+    "q0": 46818131,
+    "q41": "Marketed like Octopath but now feels like a cash-grab pixel game; canceled reservation."
+  },
+  {
+    "q0": 46818090,
+    "q41": "Mentions a 'disconnecting boss'—implies boss fight/network instability."
+  },
+  {
+    "q0": 46818086,
+    "q41": "Stuck in tutorial due to repeated 'network fluctuation'; had to replay 5–6 times without clearing."
+  },
+  {
+    "q0": 46818082,
+    "q41": "Servers froze ~15 minutes after opening; asks for optimization."
+  },
+  {
+    "q0": 46818049,
+    "q41": "Likes aesthetics and feel; requests male/female MC choice; dislikes being forced as female and frequent yuri push."
+  },
+  {
+    "q0": 46818023,
+    "q41": "Cutscene soft-lock during story."
+  },
+  {
+    "q0": 46818016,
+    "q41": "Only female protagonist selectable—deal-breaker for them."
+  },
+  {
+    "q0": 46817971,
+    "q41": "Requests landscape/portrait toggle (tablet user)."
+  },
+  {
+    "q0": 46817961,
+    "q41": "Female MC locked; lag spikes when fighting the werewolf."
+  },
+  {
+    "q0": 46817937,
+    "q41": "Looping network errors cause forced exits mid-battle; stuck at early game."
+  },
+  {
+    "q0": 46812924,
+    "q3": "Turn-based combat.",
+    "q4": -1,
+    "q5": "Prefers real-time action like Battleheart; not interested in turn-based.",
+    "q41": "Would have preferred an ARPG combat model."
+  },
+  {
+    "q0": 46814715,
+    "q41": "Cannot enter the game."
+  },
+  {
+    "q0": 46813009,
+    "q41": "TapTap install directed to a sandbox path; game didn’t install normally."
+  },
+  {
+    "q0": 46811658
+  },
+  {
+    "q0": 46810884
+  },
+  {
+    "q0": 46807914,
+    "q3": "Turn-based combat.",
+    "q4": -1,
+    "q5": "Doesn’t play turn-based despite liking the art.",
+    "q41": "Great art but won’t play due to turn-based combat."
+  },
+  {
+    "q0": 46807898,
+    "q41": "Promised a fixed date but turned out to be a paid, data-wiping test—frustrating."
+  },
+  {
+    "q0": 46807457
+  },
+  {
+    "q0": 46807426,
+    "q41": "Wishes it were an ARPG like Seiken Densetsu/Golden Sun with puzzles, not turn-based."
+  },
+  {
+    "q0": 46700684,
+    "q3": "Turn-based combat.",
+    "q4": -1,
+    "q5": "Dislikes the game being turn-based."
+  },
+  {
+    "q0": 46695236,
+    "q41": "Will rate well if servers don’t crash at launch."
+  },
+  {
+    "q0": 46686032,
+    "q41": "Feels highly playable; art resembles Octopath; very期待."
+  },
+  {
+    "q0": 46613049,
+    "q41": "Appealed by Valkyrie theme and pixel art."
+  },
+  {
+    "q0": 46305986
+  },
+  {
+    "q0": 46184981,
+    "q41": "Requests an option to hide other players for story immersion; prefers a single-player feel despite multiplayer."
+  },
+  {
+    "q0": 46111574,
+    "q41": "Asks why can’t download; wonders if there’s no CN server."
+  },
+  {
+    "q0": 45887800,
+    "q41": "Complains about selling test access codes; long-time tester didn’t get in; codes resold elsewhere."
+  },
+  {
+    "q0": 45647035,
+    "q41": "Calls it a low-quality 2D anime take on Octopath with little substance."
+  },
+  {
+    "q0": 45544306,
+    "q41": "Long reservation period; asks when it will actually release."
+  },
+  {
+    "q0": 45535182
+  },
+  {
+    "q0": 45455211
+  },
+  {
+    "q0": 45254471
+  },
+  {
+    "q0": 45162669,
+    "q41": "Hopes it won’t use restrictive stamina, like GBF’s grind-friendly model."
+  },
+  {
+    "q0": 44876917,
+    "q3": "GBF-like gameplay loop.",
+    "q4": 1,
+    "q5": "Enjoyed the retro art and played daily during test.",
+    "q41": "Prefers this over other domestic GBF-likes (e.g., Artery Gear/悠久之树)."
+  },
+  {
+    "q0": 45003575,
+    "q41": "Visuals strongly resemble Octopath Traveler."
+  },
+  {
+    "q0": 44974168
+  },
+  {
+    "q0": 44966938,
+    "q41": "Gave a positive rating purely for the art direction."
+  },
+  {
+    "q0": 42513607,
+    "q41": "Still not open; also complains their negative reviews get reported/removed."
+  },
+  {
+    "q0": 42512938,
+    "q3": "GBF-like turn-based co-op raids with weapon grid (10-slot) and summons; team is 3 frontline + 2 backline; raid farming core.",
+    "q4": -1,
+    "q5": "No ultimate animations and repetitive actions; auto-behavior issues (later hotfixed) and early raid/co-op reward problems hurt feel.",
+    "q6": "Weapon grid building; multi-attribute teams; co-op raid rescue; job/class unlocks; summons; team slot management.",
+    "q7": 1,
+    "q8": "Systems are deep but onboarding and QoL (filters, quick-join, guidance) lag behind; some design choices felt clunky.",
+    "q9": -1,
+    "q10": "Short content, quest/task bugs, and early economy issues (gold, drops) hindered progress (many later fixed).",
+    "q15": "Overworld exploration (collecting light points/chests), daily material trials, tower (巴布塔) runs alongside raid farming.",
+    "q17": 0,
+    "q18": "Exploration is simple but felt redundant; tower/dailies are straightforward loops.",
+    "q19": 1,
+    "q20": "After fixes/events, raid/tower drop rates and gold improved (e.g., 100% drop windows, slime/gw gold).",
+    "q21": 2,
+    "q22": "Rapid hotfixes and weekend work; multiple issues (drops, auto, team slot unlock, gold, story gate) addressed quickly.",
+    "q23": true,
+    "q24": "Beginner pity: SSR guaranteed within 30 pulls; 10-pull costs 1500 premium currency.",
+    "q25": 1,
+    "q26": "Reasonable with 30-pull SSR pity and generous test rewards.",
+    "q27": 2,
+    "q28": "Test build offered effectively unlimited stamina/diamonds and high drops; F2P could access/play core modes fully.",
+    "q29": 1,
+    "q30": "Low pressure during test due to high welfare and pity.",
+    "q31": 2,
+    "q32": "High welfare in test (daily/weekly/sign-ins, pity, boosted drops).",
+    "q41": "Pain points included locked female MC, no fast travel, poor co-op rewards early, no sweeps, limited team slots (then reduced), weak guidance, no boss filters/quick-join; many were later fixed."
+  },
+  {
+    "q0": 44943561,
+    "q41": "Says it feels similar to Brown Dust."
+  },
+  {
+    "q0": 44922621,
+    "q41": "Asks if a buy-to-play (premium) version will be offered."
+  },
+  {
+    "q0": 44919642,
+    "q41": "Art reminiscent of Triangle Strategy (NS)."
+  },
+  {
+    "q0": 44915624,
+    "q41": "Waited long; disappointed by female-MC lock and less inclined to play."
+  },
+  {
+    "q0": 44913364
+  },
+  {
+    "q0": 44908424
+  },
+  {
+    "q0": 44900303,
+    "q41": "Impressed by detailed pixel art and layered world design; high expectations."
+  },
+  {
+    "q0": 44896673,
+    "q41": "Test access grabbed by scalpers and resold at high prices; couldn’t play."
+  },
+  {
+    "q0": 44883410,
+    "q41": "Claims story is rich; urges a quick launch."
+  },
+  {
+    "q0": 44876858,
+    "q41": "Test access distribution felt like a hand-speed race; many codes appeared on resale markets; poor ops impression."
+  },
+  {
+    "q0": 44876428,
+    "q41": "Scalpers took most test accounts; official may miss data; player couldn’t participate."
+  },
+  {
+    "q0": 44861214,
+    "q41": "Very attracted by the art style; hopes gameplay quality matches."
+  },
+  {
+    "q0": 44844171
+  },
+  {
+    "q0": 44767648
+  },
+  {
+    "q0": 44759581,
+    "q6": "Large variety of weapons and combinations.",
+    "q13": 1,
+    "q14": "Implied many weapon combinations enable different builds.",
+    "q41": "References '114 weapons, 514 combinations'—suggests high build variety."
+  },
+  {
+    "q0": 44722410,
+    "q41": "Notes it’s natively vertical; looks forward to it."
+  },
+  {
+    "q0": 44721196,
+    "q41": "Jokes about playing many 'galgames' and having a bad premonition; still excited."
+  }
+]

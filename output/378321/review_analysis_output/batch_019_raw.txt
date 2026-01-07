@@ -1,0 +1,415 @@
+[
+  {
+    "q0": 37894843
+  },
+  {
+    "q0": 37890367,
+    "q23": true,
+    "q24": "The game has a pity system; the reviewer says they always hit pity while others got multiple SSRs in 10-pulls, as shown by server broadcasts."
+  },
+  {
+    "q0": 37889650,
+    "q31": 2,
+    "q32": "Promotional claim of 3560 pulls and daily sign-in rewards suggests very generous freebies."
+  },
+  {
+    "q0": 37888904
+  },
+  {
+    "q0": 37888087,
+    "q1": true,
+    "q2": "Sexual content/fanservice implied; user asks if it is a lewd game."
+  },
+  {
+    "q0": 37885431
+  },
+  {
+    "q0": 37878917
+  },
+  {
+    "q0": 37878385
+  },
+  {
+    "q0": 37584734,
+    "q1": true,
+    "q2": "Sexual fanservice/censorship; user complains test version removed revealing content.",
+    "q41": "Claims content was censored/removed after test and canceled reservation."
+  },
+  {
+    "q0": 37869034,
+    "q41": "Confusion about identical game under a different name (possibly test vs. official server)."
+  },
+  {
+    "q0": 37868677,
+    "q1": true,
+    "q2": "Sexualized character art/fanservice.",
+    "q9": -2,
+    "q10": "Severe stat walls; progression stalls around 1/3 into story unless heavily paid 7-star units; F2P can be stuck for weeks.",
+    "q21": 2,
+    "q22": "New banners reportedly every 14 days (two per month).",
+    "q23": true,
+    "q24": "Reported 50-pull soft pity (can off-rate) and 250-pull hard pity.",
+    "q25": -2,
+    "q26": "High cost to max units (needs multiple copies; thousands of RMB per banner) and low daily income (1–2 pulls/day).",
+    "q27": -2,
+    "q28": "Only heavy spenders can push content smoothly; F2P/monthly-card players get stuck.",
+    "q29": -2,
+    "q30": "Many cash pop-ups, numerous funds/passes, high duplicate requirements.",
+    "q31": -2,
+    "q32": "Reviewer says welfare is poor and progress relies on spending."
+  },
+  {
+    "q0": 37867249
+  },
+  {
+    "q0": 37863879
+  },
+  {
+    "q0": 37861904,
+    "q1": true,
+    "q2": "Sexual content/fanservice with heavy CN censorship (covered up), bunny outfits/EX animations mentioned.",
+    "q3": "Card RPG with daily ‘point-and-click’ chores; includes a red tower (Abyss) to clear daily, conditional stages (e.g., team HP >50%), and a 2D exploration mode; lacks one-tap sweep.",
+    "q4": -2,
+    "q5": "Repetitive, time-consuming chores and forced conditions; no sweep; intrusive monetization pop-ups.",
+    "q6": "Conditional clear requirements (e.g., maintain team HP threshold) that affect lineup/sustain choices.",
+    "q7": -1,
+    "q8": "Stage conditions add constraints but feel artificial and frustrating.",
+    "q9": -1,
+    "q10": "Daily grind with stamina limits; repetitive modes increase fatigue.",
+    "q11": -2,
+    "q12": "SR units are effectively useless; SSR dominate; many non-combat systems (skins, bonds, furniture) add power.",
+    "q13": -2,
+    "q14": "Team building funnels into SSR-only choices; lower rarities mainly for bonds.",
+    "q15": "Housing/home decoration and character interaction (affection); furniture contributes to combat power.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple decorate-and-interact loop focused on cozy immersion.",
+    "q19": 1,
+    "q20": "Furniture and affinity boost combat power, providing tangible benefits.",
+    "q27": -1,
+    "q28": "QoL like sweep tied to a VIP/permanent card; non-payers face more chores.",
+    "q29": -2,
+    "q30": "Frequent cash pop-up ads and many monetization hooks (funds, VIP privileges).",
+    "q41": "Skin EX animations reportedly unchanged after purchase; VIP card policy changed from monthly to permanent post-purchase."
+  },
+  {
+    "q0": 37859601
+  },
+  {
+    "q0": 37858883
+  },
+  {
+    "q0": 37858187,
+    "q31": 2,
+    "q32": "Claimed 3650 pulls and good welfare alongside high-quality art."
+  },
+  {
+    "q0": 37850316
+  },
+  {
+    "q0": 37845954,
+    "q3": "Combat features flashy ultimate/EX animations and interactive elements.",
+    "q4": 1,
+    "q5": "Praised ultimate animations and immersion."
+  },
+  {
+    "q0": 37845498,
+    "q1": true,
+    "q2": "Anticipated censorship of sexual content."
+  },
+  {
+    "q0": 37843719
+  },
+  {
+    "q0": 37843075,
+    "q1": true,
+    "q2": "Mentions censorship (content already toned down) and hopes it won’t be too severe.",
+    "q41": "Notes CN version appears censored compared to promo."
+  },
+  {
+    "q0": 37841964
+  },
+  {
+    "q0": 37841548,
+    "q15": "Home design/decoration and dressing up characters; collecting and interacting with ‘wives’."
+  },
+  {
+    "q0": 37841525
+  },
+  {
+    "q0": 37840502,
+    "q15": "Home decoration and slice-of-life interactions with favorite characters."
+  },
+  {
+    "q0": 37839533
+  },
+  {
+    "q0": 37838626
+  },
+  {
+    "q0": 37837208
+  },
+  {
+    "q0": 37831769,
+    "q1": true,
+    "q2": "Sexualized skin (e.g., black stockings) desired."
+  },
+  {
+    "q0": 37830681,
+    "q3": "Simple, low-effort operation suitable for casual play.",
+    "q4": 1,
+    "q5": "Appreciates simplicity when tired."
+  },
+  {
+    "q0": 37829297,
+    "q3": "Simple, casual operation requiring little thinking.",
+    "q4": 1,
+    "q5": "Enjoys easy, low-effort gameplay after work."
+  },
+  {
+    "q0": 37828369
+  },
+  {
+    "q0": 37826902,
+    "q15": "Character interaction for mood-lifting; bonding with ‘wives’ outside combat."
+  },
+  {
+    "q0": 37826635
+  },
+  {
+    "q0": 37825960
+  },
+  {
+    "q0": 37825694
+  },
+  {
+    "q0": 37823645,
+    "q3": "Simple operation; battles currently cannot be skipped.",
+    "q4": -1,
+    "q5": "Requests skip function for battles to improve experience."
+  },
+  {
+    "q0": 37821187
+  },
+  {
+    "q0": 37820556
+  },
+  {
+    "q0": 37820289
+  },
+  {
+    "q0": 37820053,
+    "q3": "Skill/ultimate animations are appealing.",
+    "q4": 1,
+    "q5": "Praised art and skill animations."
+  },
+  {
+    "q0": 37819114
+  },
+  {
+    "q0": 37817072
+  },
+  {
+    "q0": 37817066,
+    "q1": true,
+    "q2": "Sexualized themes (bunny girl, black stockings, flirtatious behavior)."
+  },
+  {
+    "q0": 37816532,
+    "q1": true,
+    "q2": "Sexualized focus on large breasts."
+  },
+  {
+    "q0": 37816442
+  },
+  {
+    "q0": 37815832
+  },
+  {
+    "q0": 37815376
+  },
+  {
+    "q0": 37814771,
+    "q6": "Reports that strategy depth needs improvement.",
+    "q7": -1,
+    "q8": "Heard feedback that tactical depth is weak."
+  },
+  {
+    "q0": 37814460,
+    "q1": true,
+    "q2": "Mentions censorship of art in CN version."
+  },
+  {
+    "q0": 37813885
+  },
+  {
+    "q0": 37813490,
+    "q1": true,
+    "q2": "Sexual content focus on stockings and feet."
+  },
+  {
+    "q0": 37812234,
+    "q1": true,
+    "q2": "Anticipated added ‘cloth’ (censorship) for CN version.",
+    "q41": "Speculates launch timing avoids sensitive periods; expects localized CN-only characters."
+  },
+  {
+    "q0": 37812207,
+    "q1": true,
+    "q2": "Hopes censorship won’t be too heavy compared to international version."
+  },
+  {
+    "q0": 37804293,
+    "q1": true,
+    "q2": "Implies the game contains explicit/lewd content obscured by censorship outside the game."
+  },
+  {
+    "q0": 37800427,
+    "q9": -1,
+    "q10": "Described as overly long and time-wasting."
+  },
+  {
+    "q0": 37800271
+  },
+  {
+    "q0": 37798924
+  },
+  {
+    "q0": 37791411
+  },
+  {
+    "q0": 37789589,
+    "q1": true,
+    "q2": "Described as very lewd."
+  },
+  {
+    "q0": 37789399
+  },
+  {
+    "q0": 37785631,
+    "q31": 1,
+    "q32": "Premium currency (diamonds) obtainable from daily activity, modes, and events."
+  },
+  {
+    "q0": 37784163
+  },
+  {
+    "q0": 37783277
+  },
+  {
+    "q0": 37783119,
+    "q41": "Asks whether rewards from another test (Absolute Hero Record) relate to this game; spent 2000+ in that test."
+  },
+  {
+    "q0": 37776254
+  },
+  {
+    "q0": 37763913,
+    "q3": "Includes a 2D exploration map mode with multiple interactive nodes."
+  },
+  {
+    "q0": 37761727
+  },
+  {
+    "q0": 37761543
+  },
+  {
+    "q0": 37742676,
+    "q31": 1,
+    "q32": "Closed beta welfare was good and SSR drop rate felt high."
+  },
+  {
+    "q0": 37737087
+  },
+  {
+    "q0": 37736856
+  },
+  {
+    "q0": 37731555,
+    "q6": "Progression is bound to positions/slots so you can swap characters at zero cost.",
+    "q7": 1,
+    "q8": "Flexible roster changes support broader team options."
+  },
+  {
+    "q0": 37731199
+  },
+  {
+    "q0": 37730626
+  },
+  {
+    "q0": 37724309
+  },
+  {
+    "q0": 37721495
+  },
+  {
+    "q0": 37720999,
+    "q3": "Good L2D art; gameplay feels old-school.",
+    "q41": "Core gameplay described as dated."
+  },
+  {
+    "q0": 37718572
+  },
+  {
+    "q0": 37717510
+  },
+  {
+    "q0": 37717273
+  },
+  {
+    "q0": 37715906,
+    "q41": "Only two protagonist gender options (male/female); strong JP voice cast; wonders about CN voiceover."
+  },
+  {
+    "q0": 37710599
+  },
+  {
+    "q0": 37705801,
+    "q3": "Beautiful art; gameplay lacks innovation; story needs improvement.",
+    "q4": 0,
+    "q5": "Overall experience good but notes limited innovation and weaker story."
+  },
+  {
+    "q0": 37705417
+  },
+  {
+    "q0": 37705111,
+    "q9": -1,
+    "q10": "Low stamina cap leads to overflow; limited-time events unfriendly to working players.",
+    "q41": "Requests increasing stamina cap and avoiding limited-time events."
+  },
+  {
+    "q0": 37701391,
+    "q41": "Mentions closed beta spending and hoping for launch rebate; worries prolonged wait will drain hype."
+  },
+  {
+    "q0": 37696323,
+    "q3": "Cannot disable/skip ultimate animations until after stage 10.",
+    "q4": -1,
+    "q5": "Long unskippable animations early on feel inconvenient."
+  },
+  {
+    "q0": 37683707,
+    "q1": true,
+    "q2": "Large amount of sexual fanservice; reviewer was surprised it appears in CN build."
+  },
+  {
+    "q0": 37681105,
+    "q3": "Skill animations are cute; battles cannot be skipped.",
+    "q4": 1,
+    "q5": "Despite no skip, the appealing animations make it enjoyable."
+  },
+  {
+    "q0": 37676521,
+    "q1": true,
+    "q2": "Sexualized art even on minor enemies; many attractive R cards."
+  },
+  {
+    "q0": 37673383,
+    "q41": "Mentions full recharge rebate; plans to return for launch."
+  },
+  {
+    "q0": 37673164,
+    "q41": "Suspects many 5-star reviews are paid/astroturfed (accounts with zero activity)."
+  }
+]

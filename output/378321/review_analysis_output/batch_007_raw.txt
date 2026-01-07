@@ -1,0 +1,528 @@
+[
+  {
+    "q0": 41097266,
+    "q9": -1,
+    "q10": "Progression gate feels too strict; power requirements spike around stage 47 making advancement very difficult."
+  },
+  {
+    "q0": 41094065,
+    "q3": "Combat feels like pure stat stacking with little meaningful interaction.",
+    "q4": -1,
+    "q5": "Described as brainless number-pumping.",
+    "q6": "Focus on raw stats rather than tactics.",
+    "q7": -2,
+    "q8": "Player calls it mindless stat stacking with no depth.",
+    "q27": -1,
+    "q28": "Heavy monetization noted which likely limits non-paying access.",
+    "q29": -2,
+    "q30": "Described as extremely pay-heavy.",
+    "q41": "Story is shallow."
+  },
+  {
+    "q0": 41079002,
+    "q9": -2,
+    "q10": "Many systems to level (levels, badges, artifacts), hard campaign, and characters need at least 3-star plus exclusive weapons to be useful.",
+    "q29": -2,
+    "q30": "Multiple layered upgrade and gear draws push spending.",
+    "q31": -2,
+    "q32": "Resources are very scarce and gacha currency is hard to obtain."
+  },
+  {
+    "q0": 41068349,
+    "q21": 2,
+    "q22": "New banners roll out very frequently (weekly or biweekly).",
+    "q23": true,
+    "q24": "UP is guaranteed only after missing it 4 times; although a copy is nominally ~50 pulls, off-banner rules can push cost to ~150+ per copy.",
+    "q29": -2,
+    "q30": "Frequent powercreep with fast banner cadence pressures spending."
+  },
+  {
+    "q0": 41062631,
+    "q39": -2,
+    "q40": "In-game downloads fail over Wi-Fi and repeatedly re-download after progress; only mobile data worked intermittently."
+  },
+  {
+    "q0": 41061629,
+    "q9": -2,
+    "q10": "Early progress is fine after paying, but quickly hits a wall around chapter 30 despite spending.",
+    "q29": -2,
+    "q30": "Player regrets spending because progression stalls regardless."
+  },
+  {
+    "q0": 41059488,
+    "q31": -2,
+    "q32": "Rewards and welfare are described as too few."
+  },
+  {
+    "q0": 41039955,
+    "q27": -2,
+    "q28": "Non-paying experience is not recommended; major systems feel locked behind spending.",
+    "q29": -2,
+    "q30": "Perceived as a cash-grab."
+  },
+  {
+    "q0": 40966801
+  },
+  {
+    "q0": 40951266,
+    "q41": "Misleading advertising compared to in-game content."
+  },
+  {
+    "q0": 40927379,
+    "q11": -1,
+    "q12": "Role quality is inconsistent.",
+    "q27": -2,
+    "q28": "Progression strongly tied to spending; too many monetization events.",
+    "q29": -2,
+    "q30": "High degree of monetization undermines gameplay as either a main or side game.",
+    "q41": "Regional content split (overseas vs domestic) and missing small toggle options."
+  },
+  {
+    "q0": 40811272
+  },
+  {
+    "q0": 40779009,
+    "q41": "Art style with oversized heads/feet is unappealing to the player."
+  },
+  {
+    "q0": 40747458,
+    "q41": "Stamina cap is low and recovery is slow, leading to early idle/gating."
+  },
+  {
+    "q0": 40726004,
+    "q41": "Newly released character lacks a skin at launch."
+  },
+  {
+    "q0": 40628306,
+    "q41": "Claims saved 27 pulls disappeared around a return-gift event."
+  },
+  {
+    "q0": 40493266,
+    "q23": true,
+    "q24": "Pity system exists but the player hit multiple pities without obtaining a limited unit.",
+    "q25": -2,
+    "q26": "Very low perceived rates even after substantial spending."
+  },
+  {
+    "q0": 40470499,
+    "q27": -2,
+    "q28": "Non-spenders cannot play effectively.",
+    "q29": -2,
+    "q30": "Heavy paywall."
+  },
+  {
+    "q0": 40457324,
+    "q31": 2,
+    "q32": "Perceived generous rewards and many favorite characters."
+  },
+  {
+    "q0": 40446908
+  },
+  {
+    "q0": 40425260,
+    "q9": -1,
+    "q10": "If unlucky early, even basic dungeons are hard to clear without spending.",
+    "q21": 1,
+    "q22": "Many UP pools with short durations.",
+    "q27": -2,
+    "q28": "Zero-spend players struggle to progress.",
+    "q29": -2,
+    "q30": "Short banner windows and difficulty spikes pressure spending."
+  },
+  {
+    "q0": 40400363,
+    "q41": "Requests a one-tap task completion and higher rewards."
+  },
+  {
+    "q0": 40395690,
+    "q1": true,
+    "q2": "Sexualized content is censored in the CN version."
+  },
+  {
+    "q0": 40368602,
+    "q39": -2,
+    "q40": "Large patch (800MB) downloads are slow and get stuck."
+  },
+  {
+    "q0": 40364196,
+    "q1": true,
+    "q2": "Sexy imagery is a selling point.",
+    "q23": true,
+    "q24": "Pity tiers: small pity ~50, big pity ~250; average ~150 pulls per UP.",
+    "q29": -2,
+    "q30": "Reliance on ‘human-rights’ units and PvP rewards forces spending.",
+    "q31": -2,
+    "q32": "Late-game resource income is very low and depends on PvP."
+  },
+  {
+    "q0": 40348977,
+    "q41": "Account progress was lost upon reinstall; forced to re-register."
+  },
+  {
+    "q0": 40328282,
+    "q41": "Free 10-pull is locked behind progression gates."
+  },
+  {
+    "q0": 40316667,
+    "q41": "Gameplay loop feels exhausting to the player."
+  },
+  {
+    "q0": 40314676,
+    "q11": -2,
+    "q12": "Newly released units quickly powercreep older ones.",
+    "q23": true,
+    "q24": "More than half of the time only big pity yields results.",
+    "q29": -2,
+    "q30": "Heavy reliance on spending to remain competitive."
+  },
+  {
+    "q0": 40308918,
+    "q41": "Requests the addition of costumes."
+  },
+  {
+    "q0": 40308061
+  },
+  {
+    "q0": 40302605
+  },
+  {
+    "q0": 40279450
+  },
+  {
+    "q0": 40270753,
+    "q9": -1,
+    "q10": "Early phase is acceptable but later becomes increasingly unpleasant."
+  },
+  {
+    "q0": 40260331
+  },
+  {
+    "q0": 40220120,
+    "q41": "Previous account/progress is missing."
+  },
+  {
+    "q0": 40216241,
+    "q9": -1,
+    "q10": "Early progression blocked and no self-select offered.",
+    "q25": -2,
+    "q26": "Low perceived gacha rates.",
+    "q31": -2,
+    "q32": "Resources and gacha opportunities are stingy; self-select not granted."
+  },
+  {
+    "q0": 40214691,
+    "q27": -2,
+    "q28": "Many core systems (characters, weapons, artifacts, beasts, furniture) are pay/gacha-gated.",
+    "q29": -2,
+    "q30": "Leaderboards and multiple monetized layers push spending.",
+    "q41": "Guild founder lost ownership after inactivity; extensive monetization touches most systems."
+  },
+  {
+    "q0": 40178113,
+    "q9": -1,
+    "q10": "After the first week, progression stalls without raising stars which consumes resources and money.",
+    "q23": true,
+    "q24": "Character pity ~50; weapon pity ~30.",
+    "q29": -2,
+    "q30": "Explicitly described as resource- and spend-heavy."
+  },
+  {
+    "q0": 40177610,
+    "q1": true,
+    "q2": "Art is described as lewd.",
+    "q31": 1,
+    "q32": "Mentions some early welfare."
+  },
+  {
+    "q0": 40165523,
+    "q3": "Low-cost, turn-based combat focused on raw stats.",
+    "q4": -1,
+    "q5": "Called a generic stat-check turn-based game.",
+    "q29": -2,
+    "q30": "Accused of being a cash-grab with poor rewards."
+  },
+  {
+    "q0": 40148407,
+    "q29": -2,
+    "q30": "Sarcastically suggests only the very wealthy should play."
+  },
+  {
+    "q0": 40141032,
+    "q29": -2,
+    "q30": "Perceived as a scammy pay-to-win model."
+  },
+  {
+    "q0": 40107006,
+    "q25": -1,
+    "q26": "Event UP required 260 pulls for three while most pulls were off-banner.",
+    "q31": -1,
+    "q32": "Resources are scarce and rates feel low."
+  },
+  {
+    "q0": 40104915,
+    "q21": 1,
+    "q22": "New characters/banners added quickly.",
+    "q29": -2,
+    "q30": "Frequent pity hits and rapid pace increase pressure to spend.",
+    "q31": -2,
+    "q32": "Poor rewards and even a newbie ten-pull disappeared due to issues.",
+    "q41": "Bug abuse led to account ban; expensive coupons; multiple bugs impacting rewards."
+  },
+  {
+    "q0": 40097370,
+    "q1": true,
+    "q2": "Swimsuit skins were later censored (black cloth added) compared to launch."
+  },
+  {
+    "q0": 40081902,
+    "q41": "International version perceived better; CN version rated poorly and valued mainly for art."
+  },
+  {
+    "q0": 40050904,
+    "q25": -1,
+    "q26": "150 pulls without obtaining the UP unit."
+  },
+  {
+    "q0": 40048099,
+    "q3": "Ultimate skill animations and VFX are underwhelming compared to genre peers.",
+    "q4": -1,
+    "q5": "Effects and presentation inferior to Pride of Eden."
+  },
+  {
+    "q0": 38697827,
+    "q11": -2,
+    "q12": "Rapid powercreep; new cards consistently outperform old ones and become trash within a month.",
+    "q21": 2,
+    "q22": "New UP banner roughly every 7 days.",
+    "q23": true,
+    "q24": "Approx. 450 pulls for 5-star, 750–900 to fully max; packs priced so 648 CNY ~155 pulls.",
+    "q25": -2,
+    "q26": "Excessive pulls required across multiple gacha layers (characters, relics, beasts, resonance).",
+    "q29": -2,
+    "q30": "Requires continuous spending to keep up due to weekly powercreep.",
+    "q41": "Account value does not hold due to fast powercreep and multiple auxiliary gacha systems."
+  },
+  {
+    "q0": 40017695
+  },
+  {
+    "q0": 40005365,
+    "q41": "Only Japanese voiceover available."
+  },
+  {
+    "q0": 39835629,
+    "q41": "Daily tasks are too tedious; requests one-tap dailies and burden reduction."
+  },
+  {
+    "q0": 39996223,
+    "q23": true,
+    "q24": "Big pity around 200 for a copy and ~800–900 pulls to max; additional gacha layers for relics, weapons, pets.",
+    "q25": -2,
+    "q26": "Perceived underreported rates and heavy multi-layer gacha.",
+    "q29": -2,
+    "q30": "Relentless monetization with many packs and powercreep."
+  },
+  {
+    "q0": 39982612,
+    "q25": -2,
+    "q26": "Frequent off-banner results ('always derails')."
+  },
+  {
+    "q0": 39979927,
+    "q11": -2,
+    "q12": "A single new character can massively outpower older setups.",
+    "q27": -2,
+    "q28": "Non-paying users cannot keep up with power inflation."
+  },
+  {
+    "q0": 39929718,
+    "q25": -2,
+    "q26": "Consistently hits pity and still ends up off-banner."
+  },
+  {
+    "q0": 39880738
+  },
+  {
+    "q0": 39876792,
+    "q21": 1,
+    "q22": "Frequent new server launches ('rolling servers').",
+    "q29": -2,
+    "q30": "Strong pay-first orientation."
+  },
+  {
+    "q0": 39820952,
+    "q3": "Idle/auto combat with sweep; focus on building six units with level/gear inheritance when swapping.",
+    "q13": 1,
+    "q14": "Level/gear inheritance allows rotating different characters more easily."
+  },
+  {
+    "q0": 39787022,
+    "q4": -1,
+    "q5": "Gameplay itself is not enjoyable despite good character art."
+  },
+  {
+    "q0": 39774829,
+    "q23": true,
+    "q24": "Small pity ~50, big pity ~200; gacha currency largely from top-ups, making pity unreachable for F2P.",
+    "q27": -2,
+    "q28": "Events not friendly to new players; draw currency mainly from spending.",
+    "q29": -2,
+    "q30": "More spending leads to worse off-banner experiences per player."
+  },
+  {
+    "q0": 39748638,
+    "q9": -1,
+    "q10": "Progression feels increasingly unpleasant later on.",
+    "q31": -1,
+    "q32": "Resources start okay but become scarce later."
+  },
+  {
+    "q0": 39737503,
+    "q1": true,
+    "q2": "Sexualized content present in global; CN version heavily censored.",
+    "q41": "Battle power system disliked; launching CN version viewed as a mistake due to heavy censorship."
+  },
+  {
+    "q0": 39727404,
+    "q1": true,
+    "q2": "Censored sexualized content in CN; art and voice are the main draws.",
+    "q3": "Turn-based stat check; AoE renders positioning like front/back rows meaningless.",
+    "q6": "Front/back rows exist but often negated by AoE damage.",
+    "q7": -2,
+    "q8": "Strategy reduced to comparing combat power; formation choices feel irrelevant.",
+    "q29": -2,
+    "q30": "Strong push toward spending throughout the game."
+  },
+  {
+    "q0": 39640581,
+    "q25": -2,
+    "q26": "Gacha frequently goes off-banner; very poor experience."
+  },
+  {
+    "q0": 39592344,
+    "q31": -2,
+    "q32": "Welfare is poor; overall quality criticized."
+  },
+  {
+    "q0": 39574832,
+    "q1": true,
+    "q2": "Very lewd skins."
+  },
+  {
+    "q0": 39570820,
+    "q41": "UI lags when pressing back/home."
+  },
+  {
+    "q0": 39567409,
+    "q41": "Recharge credited only partially."
+  },
+  {
+    "q0": 39554195,
+    "q41": "Newbie-friendly: a 10-pull self-select appears after clearing chapter 3."
+  },
+  {
+    "q0": 39563480
+  },
+  {
+    "q0": 39560357,
+    "q21": -1,
+    "q22": "Frequent reruns and reduced battle pass rewards (e.g., no skin).",
+    "q29": -2,
+    "q30": "Power strictly tied to spending; always pull the newest."
+  },
+  {
+    "q0": 39541351,
+    "q1": true,
+    "q2": "Sexualized characters including loli and mature archetypes.",
+    "q15": "Dorm management and life platform: assign characters to work for hours, manage fatigue by housing and bath to recover.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple assign-and-wait management with straightforward fatigue recovery.",
+    "q19": 1,
+    "q20": "Work assignments provide resources over time; bath/dorm speed recovery to resume work."
+  },
+  {
+    "q0": 39532110,
+    "q41": "Ten-pull reward is delayed behind chapter gates (claimable much later), perceived as stingy."
+  },
+  {
+    "q0": 39528053,
+    "q11": -1,
+    "q12": "Lower power teams with skins can beat higher power ones, implying imbalances.",
+    "q41": "PvP outcomes feel inconsistent with displayed power."
+  },
+  {
+    "q0": 39521230,
+    "q29": -2,
+    "q30": "New Year event pushes spending via discount vouchers; gacha feels off-banner and pity-dependent."
+  },
+  {
+    "q0": 39514631,
+    "q41": "Severe UI/shop issues: most pages broken except recharge page."
+  },
+  {
+    "q0": 39495267,
+    "q31": -2,
+    "q32": "New Year welfare is poor; focused on sales over gifts."
+  },
+  {
+    "q0": 39492627,
+    "q41": "Gacha is nonfunctional—cannot draw."
+  },
+  {
+    "q0": 39475440,
+    "q27": -2,
+    "q28": "Small spenders still have poor experience due to many monetization hooks.",
+    "q29": -2,
+    "q30": "Game is filled with pay mechanisms despite decent gameplay/models."
+  },
+  {
+    "q0": 39468130
+  },
+  {
+    "q0": 39459669
+  },
+  {
+    "q0": 39418270,
+    "q41": "Ten-pull ticket requires clearing four chapters, viewed as harsh gating."
+  },
+  {
+    "q0": 39410405,
+    "q31": 2,
+    "q32": "Short daily time commitment and accumulation of substantial premium currency."
+  },
+  {
+    "q0": 39402749,
+    "q41": "Character art changes/censorship after starting; refunded feeling and quit."
+  },
+  {
+    "q0": 39395415,
+    "q7": -2,
+    "q8": "Combat lacks depth and is overshadowed by monetization.",
+    "q29": -2,
+    "q30": "Heavy pay-to-win with everything (skins, characters, decorations) counting toward power."
+  },
+  {
+    "q0": 39364768
+  },
+  {
+    "q0": 39345394,
+    "q23": true,
+    "q24": "Big pity at ~250 pulls; significant data inflation requires heavy spending.",
+    "q29": -2,
+    "q30": "Without heavy spending there is no enjoyable experience."
+  },
+  {
+    "q0": 39343803,
+    "q29": -2,
+    "q30": "Core experience is payment-driven.",
+    "q41": "Activity/daily task load is high; even with skip it can take up to two hours."
+  },
+  {
+    "q0": 39318691,
+    "q41": "Later character designs perceived as garish/low quality compared to early game; otherwise little standout."
+  },
+  {
+    "q0": 39311424
+  }
+]

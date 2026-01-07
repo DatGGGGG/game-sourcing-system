@@ -1,0 +1,571 @@
+[
+  {
+    "q0": 43077958,
+    "q9": -2,
+    "q10": "UP banner remains locked at higher level and the selectable 10-pull is missing even at Chapter 8, Level 18.",
+    "q41": "Selectable 10-pull/pool appears swallowed; unclear UP unlock conditions."
+  },
+  {
+    "q0": 43067257,
+    "q9": -1,
+    "q10": "Selectable 10-pull ticket shows but cannot be used.",
+    "q41": "Self-select 10-pull unusable."
+  },
+  {
+    "q0": 43054391,
+    "q9": 2,
+    "q10": "New players progress very fast."
+  },
+  {
+    "q0": 43046792,
+    "q27": -2,
+    "q28": "F2P experience described as extremely poor.",
+    "q29": -2,
+    "q30": "Implied heavy paywall to enjoy the game."
+  },
+  {
+    "q0": 43036209,
+    "q9": -2,
+    "q10": "Promised selectable 10-pull and skins disappeared; only a bot gacha pool remains.",
+    "q41": "Only 'bot' gacha pool available after relog; rewards/skins missing."
+  },
+  {
+    "q0": 43006274,
+    "q31": -1,
+    "q32": "Free skins have restrictions and gacha feels unrewarding.",
+    "q41": "Complaints about roster theme and poor gacha outcomes."
+  },
+  {
+    "q0": 43002299,
+    "q3": "Auto-battle with ult animations each round; capped at 3x speed; ult cutscenes cannot be skipped.",
+    "q4": -1,
+    "q5": "Combat feels slow and repetitive due to unskippable ult animations.",
+    "q29": -2,
+    "q30": "Home screen is filled with monetization prompts creating heavy pressure.",
+    "q31": -1,
+    "q32": "Rewards feel stingy.",
+    "q39": -1,
+    "q40": "Multiple updates during first session, including after the tutorial.",
+    "q41": "Long, pushy tutorial and a reskin feel."
+  },
+  {
+    "q0": 42998424,
+    "q3": "Idle/auto combat with an option to buy permanent battle speed-up.",
+    "q4": 0,
+    "q5": "Bought speed-up due to slow pacing; otherwise acceptable.",
+    "q6": "Team level inheritance when swapping units; star/dupe system tied to skill levels; exclusive weapons; 4-slot artifact/relic system with rarities.",
+    "q7": 1,
+    "q8": "Layered progression and gear systems add planning depth.",
+    "q9": 1,
+    "q10": "Early chapters (to Chapter 10) were smooth with an SSR team.",
+    "q11": -1,
+    "q12": "Rarity gaps are obvious; SSR swap made stages much easier than SR.",
+    "q27": 1,
+    "q28": "Playable without paying; small purchases are optional.",
+    "q29": 0,
+    "q30": "Monetization exists but isn't mandatory early.",
+    "q31": 0,
+    "q32": "Activities and chapter rewards are present but not abundant.",
+    "q41": "Permanent battle speed is paywalled; event relic supply is very limited."
+  },
+  {
+    "q0": 42995894
+  },
+  {
+    "q0": 42993026,
+    "q41": "Character art is attractive."
+  },
+  {
+    "q0": 42991421,
+    "q41": "Only Japanese language available."
+  },
+  {
+    "q0": 42991193,
+    "q9": -1,
+    "q10": "Selectable 10-pull claim gated to Chapter 20 and diamonds are scarce.",
+    "q11": -2,
+    "q12": "New URs are vastly stronger than lower tiers (4–5x), breaking balance across units/gear/relics.",
+    "q29": -2,
+    "q30": "Skins priced exorbitantly (e.g., 198 RMB needing around 24,000 gems).",
+    "q31": -2,
+    "q32": "Diamond income is very stingy; long grind to afford cosmetics.",
+    "q41": "No male characters; story seen as mediocre."
+  },
+  {
+    "q0": 42987091,
+    "q23": true,
+    "q24": "Character gacha cited as 60-pull soft pity and 120-pull hard pity; separate relic gacha afterward.",
+    "q29": -2,
+    "q30": "Back-to-back high-rarity releases plus separate relic gacha create heavy spend pressure.",
+    "q41": "Anniversary perceived as a cash grab."
+  },
+  {
+    "q0": 42984559,
+    "q9": -1,
+    "q10": "Selectable 10-pull cannot be used.",
+    "q41": "Self-select 10-pull unusable."
+  },
+  {
+    "q0": 42983880,
+    "q1": true,
+    "q2": "Sexualized/fanservice-heavy character art and skins.",
+    "q9": -2,
+    "q10": "Long, repetitive stages with selectable 10-pulls gated to very late chapters; stamina is stingy.",
+    "q29": -2,
+    "q30": "Aggressive monetization after tutorial; paid beginner banner (328 RMB).",
+    "q31": -2,
+    "q32": "Very stingy stamina and freebies.",
+    "q41": "Skins showcased but unattainable; energy constraints; beginner banner requires purchase."
+  },
+  {
+    "q0": 42971072,
+    "q3": "Idle/AFK battler.",
+    "q4": -1,
+    "q5": "Described as boring.",
+    "q9": -1,
+    "q10": "Resources become hard to obtain later.",
+    "q31": -1,
+    "q32": "Late-game resource income is low."
+  },
+  {
+    "q0": 42969186,
+    "q9": -1,
+    "q10": "Growth is difficult with low playability.",
+    "q31": -2,
+    "q32": "Resource acquisition is difficult."
+  },
+  {
+    "q0": 42959586
+  },
+  {
+    "q0": 42924570,
+    "q11": -1,
+    "q12": "UR tier and new UR gear reset previous investments; older spenders are devalued.",
+    "q29": -1,
+    "q30": "UR units/gear and impending UR skins increase pressure.",
+    "q41": "SSR era was healthier; UR era introduces power resets."
+  },
+  {
+    "q0": 42924229,
+    "q9": -2,
+    "q10": "Progression heavily stuck by resources.",
+    "q29": -2,
+    "q30": "Full of pay points; strongly pay-to-win.",
+    "q31": -2,
+    "q32": "Daily resources feel like none.",
+    "q41": "Art good but unit vs relic art styles feel dissonant."
+  },
+  {
+    "q0": 42913686,
+    "q39": -2,
+    "q40": "Forced long tutorial followed by another update discouraged play.",
+    "q41": "Heavy forced tutorial."
+  },
+  {
+    "q0": 42913302
+  },
+  {
+    "q0": 42910576,
+    "q31": -1,
+    "q32": "Requests more freebies."
+  },
+  {
+    "q0": 42895868,
+    "q23": true,
+    "q24": "Has a pity/guarantee system on gacha.",
+    "q31": 1,
+    "q32": "Perceived as many benefits/freebies."
+  },
+  {
+    "q0": 42895190,
+    "q9": -1,
+    "q10": "Late game becomes boring and resource-starved.",
+    "q31": -1,
+    "q32": "Resources are scarce later."
+  },
+  {
+    "q0": 42894817
+  },
+  {
+    "q0": 42863143,
+    "q41": "Unclear purpose of 'Resonance card pack' item."
+  },
+  {
+    "q0": 42856491,
+    "q39": -1,
+    "q40": "TapTap build outdated causing version mismatch.",
+    "q41": "Cannot get latest version through TapTap."
+  },
+  {
+    "q0": 42853546,
+    "q3": "Auto-battle with up to 3x speed and no skip; long forced guidance.",
+    "q4": -2,
+    "q5": "Combat feels childish and sluggish; unskippable flow.",
+    "q9": -2,
+    "q10": "Selectable 10-pull teased at Chapter 3 but claim locked until Chapter 10.",
+    "q41": "Strong dislike toward Yoozoo titles due to gating."
+  },
+  {
+    "q0": 42830525,
+    "q39": -2,
+    "q40": "Stuck on a game screen when returning.",
+    "q41": "Cannot progress past a screen."
+  },
+  {
+    "q0": 42826235,
+    "q37": -2,
+    "q38": "Large downloads (~6 GB) just to try the game.",
+    "q39": -2,
+    "q40": "Unable to enter after heavy download."
+  },
+  {
+    "q0": 42824550,
+    "q41": "Newbie cannot open gacha and is looped into check-ins; unplayable state."
+  },
+  {
+    "q0": 42823132,
+    "q39": -2,
+    "q40": "Loads hang at the same step for a long time across attempts.",
+    "q41": "Severe loading/engine issues prevent entry."
+  },
+  {
+    "q0": 42822623,
+    "q39": -2,
+    "q40": "Progress bar stuck; cannot enter."
+  },
+  {
+    "q0": 42822384,
+    "q37": -1,
+    "q38": "Additional 2+ GB resource packs post-install.",
+    "q39": -2,
+    "q40": "Stuck on the same screen even after reinstall."
+  },
+  {
+    "q0": 42821950,
+    "q39": -2,
+    "q40": "Cannot update."
+  },
+  {
+    "q0": 42821640,
+    "q39": -2,
+    "q40": "Frequent crashes; opening notices triggers crash.",
+    "q41": "Stability issues on day two."
+  },
+  {
+    "q0": 42820242,
+    "q9": -1,
+    "q10": "Selectable 10-pull missing after reaching Chapter 5.",
+    "q41": "Missing promised gacha reward."
+  },
+  {
+    "q0": 42815338,
+    "q9": -1,
+    "q10": "Selectable 10-pull locked to Level 30 while story clear gives only around Level 16.",
+    "q41": "Level requirement misaligned with story pacing."
+  },
+  {
+    "q0": 42814141,
+    "q37": -1,
+    "q38": "Game size is large."
+  },
+  {
+    "q0": 42813285,
+    "q9": -1,
+    "q10": "Forced, unskippable tutorial; chat locked until Level 10 and after Chapter 5.",
+    "q29": -2,
+    "q30": "Monetization ads everywhere including coupon prompts.",
+    "q41": "Selectable 10-pull feels worthless; chat heavily gated."
+  },
+  {
+    "q0": 42809745,
+    "q9": -1,
+    "q10": "Lost guidance after relog and got stuck; needs strong (likely paid) characters to pass.",
+    "q29": -2,
+    "q30": "Implied need to pay for strong characters to progress."
+  },
+  {
+    "q0": 42808648,
+    "q41": "Selectable 10-pull not present."
+  },
+  {
+    "q0": 42807881,
+    "q41": "Only the illustrations are appealing; gameplay lacks value."
+  },
+  {
+    "q0": 42806972,
+    "q41": "Japanese-only language; poor graphics; not fun."
+  },
+  {
+    "q0": 42805533,
+    "q41": "Story is rich and characters look good."
+  },
+  {
+    "q0": 42803320,
+    "q41": "Overall drop rates feel high."
+  },
+  {
+    "q0": 42775668,
+    "q1": true,
+    "q2": "Sexual content/fanservice focus; desire for uncensored lewd content.",
+    "q9": -1,
+    "q10": "Gacha is locked by level.",
+    "q29": -2,
+    "q30": "Monetization popups and pay entrances everywhere.",
+    "q41": "Says the game relies on art; recommends another title for lewd content."
+  },
+  {
+    "q0": 42799147
+  },
+  {
+    "q0": 42798440,
+    "q3": "Simple auto battler with small figures fighting.",
+    "q4": -1,
+    "q5": "Gameplay is generic; art only average."
+  },
+  {
+    "q0": 42796730,
+    "q31": 1,
+    "q32": "Welfare considered decent."
+  },
+  {
+    "q0": 42790155,
+    "q39": -2,
+    "q40": "Very long update process; stuck in new player mission afterward."
+  },
+  {
+    "q0": 42787209,
+    "q21": -1,
+    "q22": "Post-update encounter took more turns without announcement.",
+    "q41": "Stealth changes to combat pacing."
+  },
+  {
+    "q0": 42786922,
+    "q41": "Newbie tutorial takes about half an hour."
+  },
+  {
+    "q0": 42786834,
+    "q3": "Very low damage output even with speed-up; early battles drag.",
+    "q4": -2,
+    "q5": "Prologue feels like scratching and then the game gets stuck.",
+    "q39": -2,
+    "q40": "Stuck on a screen after slow combat."
+  },
+  {
+    "q0": 42786339,
+    "q27": 1,
+    "q28": "As a single-player/waifu collector, you can skip spending and play casually.",
+    "q29": 1,
+    "q30": "Many pay points but not mandatory for chill play."
+  },
+  {
+    "q0": 42785590,
+    "q41": "Customer support hostile and kicks players for mild questions."
+  },
+  {
+    "q0": 42775843,
+    "q21": -1,
+    "q22": "Anniversary recharge event poorly executed.",
+    "q29": -2,
+    "q30": "Perceived blatant cash grab for anniversary."
+  },
+  {
+    "q0": 42774451,
+    "q41": "Asks how often new servers open."
+  },
+  {
+    "q0": 42758237,
+    "q11": -1,
+    "q12": "UR units introduced while SSR universal shards have limited exchange options.",
+    "q41": "SSR shard exchange is restricted."
+  },
+  {
+    "q0": 42753416,
+    "q9": -1,
+    "q10": "Other banners locked until very high level (e.g., Level 30) due to a bug.",
+    "q41": "Censorship present; starter resources consumed before banners unlock."
+  },
+  {
+    "q0": 42748937,
+    "q9": -1,
+    "q10": "Told Chapter 3 self-select 10-pull, but claim only after Chapter 7.",
+    "q41": "Deceptive reward timing for selectable 10-pull."
+  },
+  {
+    "q0": 42731755,
+    "q27": -1,
+    "q28": "High strength tied to spending; many daily recharge offers.",
+    "q29": -2,
+    "q30": "Heavy monetization; monthly card good value but overall pressure high.",
+    "q41": "Skins pricier than peers and less erotic."
+  },
+  {
+    "q0": 42723217
+  },
+  {
+    "q0": 42719536,
+    "q9": -2,
+    "q10": "Progress is tightly gated by level, stamina, and chapter milestones; banners locked until Level 30.",
+    "q23": true,
+    "q24": "3% base SSR; 50-pull soft pity with frequent off-rate; 200-pull hard pity for the featured unit.",
+    "q29": -2,
+    "q30": "Aggressive gating and high pity thresholds push spending.",
+    "q31": -1,
+    "q32": "Stamina/resources are very stingy.",
+    "q41": "Very few guilds per server."
+  },
+  {
+    "q0": 42690791,
+    "q31": -1,
+    "q32": "Returnee rewards feel negligible.",
+    "q41": "Marriage/vow system added; feels expensive."
+  },
+  {
+    "q0": 42667799,
+    "q9": -1,
+    "q10": "Progression is level-gated."
+  },
+  {
+    "q0": 42419858,
+    "q3": "Slow, low-damage 'mutual chip' battles.",
+    "q4": -2,
+    "q5": "Combat feels grindy and unsatisfying.",
+    "q29": -2,
+    "q30": "Recharge prompts are in your face.",
+    "q41": "Does not support small-window play."
+  },
+  {
+    "q0": 42665930,
+    "q27": -2,
+    "q28": "Heavily pay-dependent to play; otherwise unplayable.",
+    "q29": -2,
+    "q30": "Very high spending pressure.",
+    "q31": -2,
+    "q32": "Operations/welfare rated very poor."
+  },
+  {
+    "q0": 42665858,
+    "q11": -2,
+    "q12": "New 0-star cards massively overpower old max-star cards; clear power creep.",
+    "q21": 1,
+    "q22": "Very frequent new unit releases (weekly), albeit causing power creep.",
+    "q29": -2,
+    "q30": "If you spend, you must spend heavily to keep up.",
+    "q31": -2,
+    "q32": "Event welfare poor; a month of saving not enough for one SSR."
+  },
+  {
+    "q0": 42664732,
+    "q41": "Warns not to be fooled by daily free 10-pulls; gameplay boring despite nice art."
+  },
+  {
+    "q0": 42663063,
+    "q1": true,
+    "q2": "Sexual content focus; marketed toward male players.",
+    "q41": "Not recommended for story; geared toward fanservice."
+  },
+  {
+    "q0": 42660804,
+    "q41": "Requests QQ login; only phone/guest available."
+  },
+  {
+    "q0": 42322755,
+    "q41": "Casual-friendly; characters are appealing."
+  },
+  {
+    "q0": 42644911,
+    "q21": -2,
+    "q22": "Version and banners not updated; features locked; some characters censored.",
+    "q41": "Feels like the game was abandoned."
+  },
+  {
+    "q0": 42631663,
+    "q23": true,
+    "q24": "Character banner 50 soft pity and 200 hard pity; 40% chance to hit rate-up; weapon banner 30 soft pity.",
+    "q29": -2,
+    "q30": "Gem sinks everywhere; constant popups and recharge pages.",
+    "q31": 0,
+    "q32": "Welfare decent but undermined by gem demand.",
+    "q41": "Daily free 10-pull has a very low SSR chance."
+  },
+  {
+    "q0": 42585640,
+    "q41": "Poor account security (no device view or gacha logs); unhelpful support."
+  },
+  {
+    "q0": 42580927,
+    "q29": -2,
+    "q30": "Many monetization points; gacha often off-rate."
+  },
+  {
+    "q0": 38072059,
+    "q31": -1,
+    "q32": "Needs more welfare to retain non-spenders; server chat is quiet.",
+    "q41": "Low population with mostly whales active."
+  },
+  {
+    "q0": 42510143,
+    "q9": -2,
+    "q10": "Repeatedly misled about selectable 10-pull unlock; stages are tedious and frustrating.",
+    "q41": "Overcomplicated systems."
+  },
+  {
+    "q0": 42498760,
+    "q41": "Early gacha felt exciting with many pulls."
+  },
+  {
+    "q0": 42493927,
+    "q27": -2,
+    "q28": "Merged-server environment seen as pay-to-win."
+  },
+  {
+    "q0": 42489682,
+    "q23": true,
+    "q24": "Small pity stages cited with only 40% chance to hit rate-up across multiple cycles; frequent off-rate; standard banner poor.",
+    "q29": -2,
+    "q30": "Manipulative pity setup leads to repeated off-rate outcomes."
+  },
+  {
+    "q0": 41617271,
+    "q31": 1,
+    "q32": "Welfare becomes generous later though events are simple."
+  },
+  {
+    "q0": 42445989,
+    "q9": -2,
+    "q10": "Selectable 10-pull promised at multiple chapters but never appears; limited banner and skins also missing.",
+    "q41": "Numerous bugs around reward/banners; 'shop obtain' unclear."
+  },
+  {
+    "q0": 42440247,
+    "q41": "New player lacks access to UP banner and seeks help."
+  },
+  {
+    "q0": 42439251,
+    "q11": -1,
+    "q12": "Severe stat inflation reported.",
+    "q41": "Art praised but balance criticized."
+  },
+  {
+    "q0": 42437850,
+    "q41": "Poor gacha luck even at/near pity; only minor currency gained."
+  },
+  {
+    "q0": 42413982
+  },
+  {
+    "q0": 42413456,
+    "q41": "Asks where the 10-pull is."
+  },
+  {
+    "q0": 42394954,
+    "q21": -2,
+    "q22": "New server plagued by bugs (missing selectable 10-pull UI) without prompt fixes.",
+    "q41": "Requests official bug fix for missing feature."
+  },
+  {
+    "q0": 42383714,
+    "q9": -1,
+    "q10": "Pushed to Chapter 13 yet selectable 10-pull still absent.",
+    "q41": "Selectable 10-pull missing."
+  }
+]

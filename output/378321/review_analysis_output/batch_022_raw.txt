@@ -1,0 +1,78 @@
+[
+  {
+    "q0": 36817669,
+    "q1": true,
+    "q2": "Sexual content/lewd art",
+    "q9": -2,
+    "q10": "Daily tasks are lengthy with meager rewards; progression and rewards are gated by power and gacha reliance.",
+    "q21": 1,
+    "q22": "Mentions a biweekly rotating event cycle (14-day \"double-week\" event).",
+    "q27": -2,
+    "q28": "High-benefit dailies, strong guilds, and PvP rewards require high power, locking out weaker players.",
+    "q29": -2,
+    "q30": "Power mainly comes from gacha and even unused pulls add power; competitive rewards tie to power, pressuring spending.",
+    "q31": -2,
+    "q32": "Rewards from dailies are few even at high rank; biweekly event yields more only with high power.",
+    "q41": "Tedious daily routine; strong guilds reject low-power players; biweekly event heavily favors high-power/whales."
+  },
+  {
+    "q0": 36806067,
+    "q1": true,
+    "q2": "Sexual content; CN version likely censored/covered art.",
+    "q9": -2,
+    "q10": "Progress often stalls due to gacha RNG and account variance; event banner access gated behind main story.",
+    "q29": -2,
+    "q30": "States there is basically no welfare (about 10 pulls then nothing) while progress pushes pulls in the standard pool.",
+    "q31": -2,
+    "q32": "Very poor free rewards: essentially only around 10 pulls early on.",
+    "q41": "Grindy dailies even with sweep; event gacha access locked behind story; expects heavier censorship in CN version."
+  },
+  {
+    "q0": 36803200
+  },
+  {
+    "q0": 36802334
+  },
+  {
+    "q0": 36760711,
+    "q1": true,
+    "q2": "Sexual content/lewd art; CN version expected to be censored.",
+    "q3": "Turn-based gacha combat with build systems such as Artifacts and Engravings.",
+    "q4": -2,
+    "q5": "Reviewer calls the game mode bad and says it relies on lewd art rather than engaging combat.",
+    "q6": "Artifacts and Engravings as build systems.",
+    "q7": -1,
+    "q8": "Despite systems, overall design is described as shallow and grindy.",
+    "q9": -2,
+    "q10": "Low gem income vs. high pull costs; heavy grind; month card seen as essential.",
+    "q23": true,
+    "q24": "Approx. 50-pull pity; in standard pool, after 100 pulls you can select a character to increase its rate; still prone to off-banner results.",
+    "q25": -2,
+    "q26": "Pulls are costly (200/150 premium currency per pull; 2000 for 10-pull) while income is stingy; skins also expensive.",
+    "q27": -1,
+    "q28": "Core content is accessible but advancement is grindy and strongly incentivizes purchasing a monthly pass.",
+    "q29": -2,
+    "q30": "Skins grant 1% all-stat bonus and are pricey; low welfare pushes spending and feels pay-to-win.",
+    "q31": -2,
+    "q32": "Welfare is stingy: e.g., perfect-clearing a chapter yields 170 gems vs. 2000 needed for a 10-pull.",
+    "q41": "Publisher reputation concerns (Youzu); skins provide stat bonuses; anticipates censorship in CN release."
+  },
+  {
+    "q0": 36778363
+  },
+  {
+    "q0": 36760013
+  },
+  {
+    "q0": 36750464
+  },
+  {
+    "q0": 36747719
+  },
+  {
+    "q0": 36707474
+  },
+  {
+    "q0": 36675700
+  }
+]

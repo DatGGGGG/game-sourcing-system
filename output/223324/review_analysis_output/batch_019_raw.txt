@@ -1,0 +1,265 @@
+[
+  {
+    "q0": 26824535,
+    "q41": "Limited-slot test but open download causes confusion and wasted downloads; TapTap recommendation exacerbates; warns against review-bombing; urges better communication."
+  },
+  {
+    "q0": 26824416,
+    "q37": -1,
+    "q38": "Reviewer complains the package is several GB and calls it unoptimized bloat.",
+    "q41": "Poor ops planning: pre-download without clear gating; SMS could include the download link; test duration only 2 days feels pointless; predicts server instability; suggests adding extra activation codes and extending test to 7 days."
+  },
+  {
+    "q0": 26824373,
+    "q41": "Wasted mobile data due to downloading without qualification to play."
+  },
+  {
+    "q0": 26824283,
+    "q41": "Frustration over limited slots and sub-3-day test after long wait; notes code reselling on Taobao; praises PV, characters, and graphics but disappointed by access gating."
+  },
+  {
+    "q0": 26824188,
+    "q41": "PV shows no gameplay footage; limited-slot test but public download link provided."
+  },
+  {
+    "q0": 26824078
+  },
+  {
+    "q0": 26823981
+  },
+  {
+    "q0": 26823959,
+    "q41": "Downloaded but cannot play without qualification; frustration with open download for a gated test."
+  },
+  {
+    "q0": 26823917
+  },
+  {
+    "q0": 26823845,
+    "q41": "Calls it hunger marketing with limited slots; not visible in the 'coming soon' list; will only reconsider rating after future chance to play."
+  },
+  {
+    "q0": 26823795,
+    "q41": "Confused that without being selected you cannot play at all."
+  },
+  {
+    "q0": 26823269,
+    "q41": "Mocks the game for limited-slot download like big publishers; suspects code sales cooperation; negative view of gating."
+  },
+  {
+    "q0": 26822674,
+    "q41": "One-star because cannot play; feels like baiting players."
+  },
+  {
+    "q0": 26822602,
+    "q41": "Sarcastic complaint about repeated closed/limited tests."
+  },
+  {
+    "q0": 26821813,
+    "q41": "Two-day test is too short to bother participating."
+  },
+  {
+    "q0": 26821483,
+    "q41": "Mistook it for a 'Nikki'-style dress-up game based on presentation."
+  },
+  {
+    "q0": 26820919,
+    "q41": "Confusion: page says trial, but access still requires qualification."
+  },
+  {
+    "q0": 26820721,
+    "q41": "No qualification; plans to watch streams instead."
+  },
+  {
+    "q0": 26819896,
+    "q41": "Gives a provisional 1-star due to limited-slot test and open download; will revise if an unlimited test becomes available."
+  },
+  {
+    "q0": 26817365,
+    "q41": "Warns others: without test qualification, downloading wastes time and data."
+  },
+  {
+    "q0": 26817048,
+    "q41": "Cannot enter the game, likely due to missing qualification."
+  },
+  {
+    "q0": 26816596,
+    "q41": "Requests an activation code."
+  },
+  {
+    "q0": 26816540,
+    "q41": "Suggests restricting download to qualified accounts or clearly labeling the qualification requirement on the pre-download page."
+  },
+  {
+    "q0": 26814923,
+    "q41": "Confusion why download is available without an activation code."
+  },
+  {
+    "q0": 26814788,
+    "q41": "Criticizes offering open download for a limited-slot test; notes not everyone checks the forum announcements."
+  },
+  {
+    "q0": 26805488,
+    "q37": -2,
+    "q38": "States the package is 2.8GB and too large, discouraging download.",
+    "q41": "Installer size is too big."
+  },
+  {
+    "q0": 26814113,
+    "q41": "Likes the art style; waiting for qualification."
+  },
+  {
+    "q0": 26814055,
+    "q41": "Upset about not having closed beta qualification."
+  },
+  {
+    "q0": 26813174,
+    "q41": "Asks for help obtaining a qualification code."
+  },
+  {
+    "q0": 26812076,
+    "q41": "Asks how to obtain test qualification."
+  },
+  {
+    "q0": 26811771,
+    "q41": "Seeks to buy a qualification; indicates code scarcity and resale."
+  },
+  {
+    "q0": 26810930,
+    "q41": "Requests a chance to join; lacks qualification."
+  },
+  {
+    "q0": 26810742,
+    "q41": "Offers payment for a test slot; code trading."
+  },
+  {
+    "q0": 26810552,
+    "q41": "Downloaded first then discovered qualification required; poor upfront communication."
+  },
+  {
+    "q0": 26810099,
+    "q41": "Gave a low rating because could not play due to access restriction."
+  },
+  {
+    "q0": 26810021,
+    "q41": "Downloaded a long time but no qualification; complains of wasted data and emotions."
+  },
+  {
+    "q0": 26809611,
+    "q41": "Angry that download leads to no access; accuses the game of baiting for traffic/data."
+  },
+  {
+    "q0": 26809448
+  },
+  {
+    "q0": 26809018
+  },
+  {
+    "q0": 26808360,
+    "q41": "Low awareness: did not know this game existed."
+  },
+  {
+    "q0": 26807894,
+    "q41": "Requests an opportunity/qualification."
+  },
+  {
+    "q0": 26806517,
+    "q41": "Community organizing: shares a QQ group for qualified testers to discuss content."
+  },
+  {
+    "q0": 26806471,
+    "q41": "Willing to trade/buy unused qualification; indicates secondary market."
+  },
+  {
+    "q0": 26806214
+  },
+  {
+    "q0": 26806192,
+    "q41": "Realized mid-download that qualification is required; poor disclosure leading to wasted data."
+  },
+  {
+    "q0": 26806043,
+    "q41": "Requests a qualification."
+  },
+  {
+    "q0": 26805233,
+    "q41": "Requests a chance/slot."
+  },
+  {
+    "q0": 26805216,
+    "q41": "Asks how to get a qualification; requests one."
+  },
+  {
+    "q0": 26805193
+  },
+  {
+    "q0": 26805067,
+    "q41": "Wants to buy an unused internal test slot; code resale."
+  },
+  {
+    "q0": 26804595
+  },
+  {
+    "q0": 26799007,
+    "q41": "Encourages selling unused test qualifications via private messages; highlights code resale activity."
+  },
+  {
+    "q0": 26798707
+  },
+  {
+    "q0": 26798564
+  },
+  {
+    "q0": 26795226
+  },
+  {
+    "q0": 26783861,
+    "q41": "Begging for a slot/qualification."
+  },
+  {
+    "q0": 26781599
+  },
+  {
+    "q0": 26780561
+  },
+  {
+    "q0": 26780555
+  },
+  {
+    "q0": 26780544
+  },
+  {
+    "q0": 26780536
+  },
+  {
+    "q0": 26780519
+  },
+  {
+    "q0": 26780505
+  },
+  {
+    "q0": 26780499
+  },
+  {
+    "q0": 26780265,
+    "q41": "Happy to receive SMS; notes the questionnaire was very difficult."
+  },
+  {
+    "q0": 26780215
+  },
+  {
+    "q0": 26780216,
+    "q41": "Unclear next steps after receiving qualification; asks when test codes will be sent."
+  },
+  {
+    "q0": 26780190
+  },
+  {
+    "q0": 26777746,
+    "q41": "Requests a test slot; appeals for visibility."
+  },
+  {
+    "q0": 26772372,
+    "q41": "Anxious about not being told qualification status close to the 10th test start date."
+  }
+]

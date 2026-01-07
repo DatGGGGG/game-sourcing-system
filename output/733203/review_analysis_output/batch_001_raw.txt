@@ -1,0 +1,560 @@
+[
+  {
+    "q0": 46859715,
+    "q3": "Auto chess with hero lineup building and synergies; each match offers new combinations.",
+    "q4": 2,
+    "q5": "Addictive and engaging.",
+    "q6": "Hero composition synergies; lineup planning.",
+    "q7": 2,
+    "q8": "Requires thoughtful lineup building and adaptation.",
+    "q11": -1,
+    "q12": "A few meta lineups are too dominant.",
+    "q13": 1,
+    "q14": "Variety exists per match, but strong metas reduce diversity."
+  },
+  {
+    "q0": 46850142,
+    "q3": "Start by choosing an archetype, manage economy mid-game, then adjust lineup in late game.",
+    "q4": 1,
+    "q6": "Economy management; mid-to-late game lineup adjustments; opening archetype choice.",
+    "q7": 2,
+    "q8": "Players must plan economy and pivot compositions across phases."
+  },
+  {
+    "q0": 46849196,
+    "q3": "Auto chess with constant scouting and countering opponents; adjust flow and lineup to hard-counter.",
+    "q4": 2,
+    "q5": "Ladder matches feel like high-stakes chess; countering gives strong satisfaction.",
+    "q6": "Opponent scouting; counter-picking; flow switching; composition adaptation.",
+    "q7": 2,
+    "q8": "Successfully reading and countering enemy comps is highly rewarding.",
+    "q21": 2,
+    "q22": "Frequently adds new modes and archetypes.",
+    "q41": "Occasional laggy teammates/network, phone overheating, optimization issues, rare settlement bug, and streaks of not rolling desired core increasing early HP pressure."
+  },
+  {
+    "q0": 46846519
+  },
+  {
+    "q0": 46840402,
+    "q11": -2,
+    "q12": "Arthur and Luban heavily favored; 'trial tasks' disrupt balance and create luck snowball.",
+    "q41": "Neutral creeps feel meaningless; equipment bonuses overshadowed by trial-task skill gains."
+  },
+  {
+    "q0": 46777454,
+    "q21": -1,
+    "q22": "Update did not address the 'ability' system issue and reverted engine changes.",
+    "q41": "Churn due to unpopular systemic changes."
+  },
+  {
+    "q0": 46722333,
+    "q23": false,
+    "q41": "Requests a hero pity/guarantee each match and better ability logic; asks for more ability tickets."
+  },
+  {
+    "q0": 46714128,
+    "q21": 1,
+    "q22": "Team listens to player balance feedback and adjusts.",
+    "q31": -1,
+    "q32": "Wants more rewards; ability duplicates still an issue.",
+    "q41": "New player guide is too brief; frequent AFK in matchmaking and needs stronger penalties."
+  },
+  {
+    "q0": 46653743
+  },
+  {
+    "q0": 46647261,
+    "q11": -2,
+    "q12": "Severely imbalanced; has entered a 'steamroll' stage.",
+    "q29": -2,
+    "q30": "Perceived as a cash-grab."
+  },
+  {
+    "q0": 46644773,
+    "q15": "Out-of-battle progression with gacha for abilities/cosmetics and grinding event points/coins to unlock small characters and effects.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Layered exchange systems and daily caps feel cumbersome.",
+    "q19": -2,
+    "q20": "Coins are scarce; strict daily point caps; event exchanges drain resources.",
+    "q25": -2,
+    "q26": "1000 coins per single pull, 10,000 for ten-pull is steep given low income.",
+    "q27": -2,
+    "q28": "Non-payers struggle to afford pulls and upgrades.",
+    "q29": -2,
+    "q30": "Strong pressure to spend to access/roll abilities meaningfully.",
+    "q31": -2,
+    "q32": "Event and update rewards are meager relative to costs.",
+    "q41": "Frequent bot matches even at higher tiers; account progression overshadowing core fairness."
+  },
+  {
+    "q0": 46643724,
+    "q27": -2,
+    "q28": "Paying users access impactful 'abilities' that change hero skills; non-payers are disadvantaged.",
+    "q29": -2,
+    "q30": "Shift from small perks to skill-altering paid systems increases pressure.",
+    "q11": -2,
+    "q12": "Abilities significantly change hero power, breaking fairness."
+  },
+  {
+    "q0": 46643397,
+    "q11": -2,
+    "q12": "Same hero can have different strengths post-update, undermining fairness."
+  },
+  {
+    "q0": 46642283,
+    "q27": -2,
+    "q28": "Purchases can change in-match stats/mechanics.",
+    "q29": -2,
+    "q30": "Selling power (not just cosmetics) creates pay-to-win pressure."
+  },
+  {
+    "q0": 46640995,
+    "q15": "Out-of-battle ability/role development that affects in-match performance.",
+    "q16": false,
+    "q27": -2,
+    "q28": "Heavy out-of-match growth benefits big spenders.",
+    "q29": -2,
+    "q30": "Competitive game tilted by paid progression."
+  },
+  {
+    "q0": 46640740,
+    "q29": -2,
+    "q30": "Perceived as pay-to-win."
+  },
+  {
+    "q0": 46640732,
+    "q11": -2,
+    "q12": "New 'mutation' skills impact balance.",
+    "q25": -2,
+    "q26": "Requires ~20,000 (currency) to max all skills.",
+    "q29": -2,
+    "q30": "Monetized new skills create strong spend pressure."
+  },
+  {
+    "q0": 46640394,
+    "q27": -2,
+    "q28": "Spending directly improves strength.",
+    "q29": -2,
+    "q30": "Hundreds of RMB on new abilities still insufficient; strong pay-to-win sentiment."
+  },
+  {
+    "q0": 46639283,
+    "q29": -2,
+    "q30": "Exclusive abilities seen as a cash-grab."
+  },
+  {
+    "q0": 46639270,
+    "q27": -2,
+    "q28": "High-level abilities locked behind spending; non-payers have degraded experience.",
+    "q29": -2,
+    "q30": "Design encourages spending for balance-breaking abilities.",
+    "q11": -2,
+    "q12": "Ability system steers balance towards paywalled power."
+  },
+  {
+    "q0": 46440493,
+    "q31": -1,
+    "q32": "Too few gacha tickets; pulls give shards instead of full characters."
+  },
+  {
+    "q0": 46371182,
+    "q27": -1,
+    "q28": "Early signs of privileged heroes and monetized stat differences.",
+    "q29": -2,
+    "q30": "History with publisher suggests future heavy monetization and power creep."
+  },
+  {
+    "q0": 46330623,
+    "q21": 2,
+    "q22": "Dev adopts balance suggestions and adds new content periodically, keeping it fresh."
+  },
+  {
+    "q0": 46314256,
+    "q21": 2,
+    "q22": "Each season brings new heroes/artifacts and meta shifts.",
+    "q31": -1,
+    "q32": "Pinnacle match guessing rewards feel too small.",
+    "q41": "Community friction and ads in guides; slow replies to help posts (bot comments)."
+  },
+  {
+    "q0": 46160019
+  },
+  {
+    "q0": 46132231,
+    "q27": -1,
+    "q28": "Paying to select an extra hero is unfair; heroes are priced too high.",
+    "q29": -1,
+    "q30": "Pricing and paid selection slight but noticeable pressure.",
+    "q41": "Requests reverting hero art, improving combat feel/visualization."
+  },
+  {
+    "q0": 46041935,
+    "q3": "Added draft mode on top of the PC design; mobile adapts the auto-battler ruleset.",
+    "q4": -2,
+    "q5": "Draft mode addition is seen as unnecessary and off-putting versus the PC version.",
+    "q41": "Perceived as a poor adaptation that deviates from successful PC design."
+  },
+  {
+    "q0": 45862186,
+    "q3": "Mode includes a draft/selection phase.",
+    "q4": -1,
+    "q5": "Draft mode is disliked and needs change."
+  },
+  {
+    "q0": 45831693,
+    "q11": -1,
+    "q12": "New hero power not nerfed promptly."
+  },
+  {
+    "q0": 45818499,
+    "q3": "Single-player round-based auto chess with 3D heroes.",
+    "q4": 1,
+    "q5": "Overall enjoyable compared to generic card games."
+  },
+  {
+    "q0": 45800021,
+    "q11": -2,
+    "q12": "Released an overtuned tank hero that removes need for strategy.",
+    "q29": -2,
+    "q30": "New heroes at 28,888 cost feel predatory.",
+    "q41": "Randomized UI/illustration changes felt low quality."
+  },
+  {
+    "q0": 45797178,
+    "q11": -2,
+    "q12": "New hero is overpowered and ruins match fun for others."
+  },
+  {
+    "q0": 45772139,
+    "q11": -2,
+    "q12": "New version lacks balance; many bot matches.",
+    "q41": "Poor matchmaking with many AI opponents; few real players."
+  },
+  {
+    "q0": 45740032,
+    "q41": "Frequent UI overhauls frustrate long-term players."
+  },
+  {
+    "q0": 45653850,
+    "q3": "Vertical-format auto chess with simple operation and new-player friendly design.",
+    "q4": 1,
+    "q5": "Easy to pick up and play."
+  },
+  {
+    "q0": 45588362,
+    "q3": "Auto chess blended with 1v1 growth; lineup synergy and attribute counters drive each match.",
+    "q4": 2,
+    "q5": "Strategic depth and smooth vertical play make it very satisfying.",
+    "q6": "Lineup synergy; attribute counter system; 'region' mechanic for added depth.",
+    "q7": 2,
+    "q8": "Multiple interacting systems (synergies, counters, regions) create deep planning.",
+    "q9": 1,
+    "q10": "Clear onboarding and fast early resource gain.",
+    "q31": 1,
+    "q32": "Early rewards feel generous for onboarding."
+  },
+  {
+    "q0": 45588034,
+    "q27": 1,
+    "q28": "Playable and enjoyable without heavy grind or spending.",
+    "q29": 1,
+    "q30": "Low spending pressure for casual play."
+  },
+  {
+    "q0": 45464187,
+    "q41": "Bounty event appears to have point boosting/abuse; perceived lack of enforcement."
+  },
+  {
+    "q0": 45351475,
+    "q29": -1,
+    "q30": "Players must buy heroes; worries that new heroes are made overpowered to sell.",
+    "q41": "Suggests shifting monetization to skins to avoid pay-for-power."
+  },
+  {
+    "q0": 45287050,
+    "q3": "Fast, vertical auto chess with hero/flow selection.",
+    "q4": 1,
+    "q5": "Short, satisfying matches for work breaks.",
+    "q41": "Hero selection UI lacks visibility of secondary faction/synergy for new players."
+  },
+  {
+    "q0": 45238964,
+    "q6": "Faction synergies and bonds are well-formed.",
+    "q7": 1,
+    "q8": "Noticeable strategic planning via synergies.",
+    "q11": -1,
+    "q12": "Some heroes are overtuned."
+  },
+  {
+    "q0": 45238907,
+    "q15": "Bounty mode as an additional competitive loop.",
+    "q16": false,
+    "q19": -1,
+    "q20": "Currency drains quickly; only a few runs before running out."
+  },
+  {
+    "q0": 45215371,
+    "q29": -2,
+    "q30": "Focus on monetization before polishing the game.",
+    "q31": -2,
+    "q32": "Takes very long to accumulate enough currency for a hero."
+  },
+  {
+    "q0": 45107245
+  },
+  {
+    "q0": 45077143,
+    "q11": -2,
+    "q12": "Blackbeard hero remains overtuned and unnerfed."
+  },
+  {
+    "q0": 45004937,
+    "q4": 1,
+    "q5": "Easy to pick up and win, fun as a side game."
+  },
+  {
+    "q0": 45004900,
+    "q21": 1,
+    "q22": "Balance is adjusted weekly.",
+    "q27": -1,
+    "q28": "Monthly card has a small gameplay impact."
+  },
+  {
+    "q0": 45004495,
+    "q11": -1,
+    "q12": "Balance still needs improvement.",
+    "q31": -1,
+    "q32": "Requests more events to earn coins."
+  },
+  {
+    "q0": 44968114,
+    "q11": -1,
+    "q12": "New hero 'Captain' feels mis-tuned."
+  },
+  {
+    "q0": 44572017,
+    "q27": -2,
+    "q28": "Monthly card breaks fairness in a competitive game.",
+    "q29": -2,
+    "q30": "Perceived focus on monetization over balance.",
+    "q11": -2,
+    "q12": "Balance getting worse each update.",
+    "q41": "Official events/commentary show weak game understanding; perceived disrespect toward competitive integrity."
+  },
+  {
+    "q0": 44945518,
+    "q41": "TapTap login/account issue caused loss of account progress."
+  },
+  {
+    "q0": 44897432,
+    "q41": "Persistent stuttering and shop UI flickering not fixed."
+  },
+  {
+    "q0": 44891416,
+    "q31": -2,
+    "q32": "Event collection rewards are extremely rare, leading to frustration.",
+    "q41": "Event requires tedious item collection/coordination in channels."
+  },
+  {
+    "q0": 44883133,
+    "q41": "Matchmaking pits Platinum players against Master/King ranks."
+  },
+  {
+    "q0": 44882493,
+    "q41": "Severe device overheating after a few matches."
+  },
+  {
+    "q0": 44832805,
+    "q29": -2,
+    "q30": "Many payment entry points give a pay-to-win feel.",
+    "q11": -2,
+    "q12": "Game feels unbalanced due to monetization."
+  },
+  {
+    "q0": 44807955,
+    "q41": "Perceived RNG manipulation and bot-like opponents with improbable gold rates; difficult to differentiate AI from players."
+  },
+  {
+    "q0": 44801925,
+    "q33": true,
+    "q34": "Based on the Dota 2 arcade mod 'Electronic Cockfighting'.",
+    "q35": 0,
+    "q36": "Players recognize lineage to the Dota 2 arcade mode."
+  },
+  {
+    "q0": 44783369,
+    "q41": "Abnormal heating suggests poor optimization; user suspects background resource drain."
+  },
+  {
+    "q0": 44763032
+  },
+  {
+    "q0": 43773334,
+    "q27": -2,
+    "q28": "Premium 'collection card' selection odds (e.g., 9-pick-1) give unfair advantages.",
+    "q29": -2,
+    "q30": "Monetized selection power undermines fairness."
+  },
+  {
+    "q0": 44748492,
+    "q11": -1,
+    "q12": "Winning depends heavily on getting orange cards; early economy matters less.",
+    "q29": -1,
+    "q30": "Confusing WeChat payment flow reduces willingness to pay.",
+    "q41": "Payment UX requires switching apps and lacks item details."
+  },
+  {
+    "q0": 43783573,
+    "q33": true,
+    "q34": "Derived from Dota 2 arcade 'Electronic Cockfighting' style.",
+    "q35": 0,
+    "q36": "Player notes origin from Dota 2 arcade but mobile has its own systems.",
+    "q27": -2,
+    "q28": "Privilege card grants a third hero option, extra pick, and opponent info.",
+    "q29": -2,
+    "q30": "Privileges affect competitive balance.",
+    "q13": -1,
+    "q14": "Small hero pool and repeated picks reduce diversity."
+  },
+  {
+    "q0": 44739854,
+    "q25": -2,
+    "q26": "Very poor top-up bonus rates (e.g., 30 gives 1.2; 68 gives 3)."
+  },
+  {
+    "q0": 44678713,
+    "q11": -1,
+    "q12": "Gold-tier skills dominate outcomes; unkillable effects swing matches.",
+    "q41": "Long win streaks can flip to full wipe due to gold skill spikes."
+  },
+  {
+    "q0": 44628524,
+    "q41": "Perceived 'arranged' RNG: system alternates between starved and overly generous gold card drops."
+  },
+  {
+    "q0": 44592107,
+    "q41": "Ranking mismatch: new players frequently matched vs top-tier ranks."
+  },
+  {
+    "q0": 44504449,
+    "q11": -2,
+    "q12": "No meaningful balance."
+  },
+  {
+    "q0": 44410048,
+    "q31": -2,
+    "q32": "Activity rewards tied to rare 'chicken win' probabilities are discouraging.",
+    "q41": "Events feel exhausting and not player-friendly."
+  },
+  {
+    "q0": 44436774,
+    "q11": -2,
+    "q12": "Balance is very poor."
+  },
+  {
+    "q0": 44421639,
+    "q41": "No in-game sound for the user."
+  },
+  {
+    "q0": 44409652,
+    "q41": "White Gold players matched against Masters/Kings, creating lopsided games."
+  },
+  {
+    "q0": 44380105,
+    "q41": "High entry difficulty; short skill selection timers overwhelm new players."
+  },
+  {
+    "q0": 44375843,
+    "q21": -1,
+    "q22": "Mobile version adds heroes too slowly compared to PC; content feels outdated."
+  },
+  {
+    "q0": 44332778,
+    "q11": -2,
+    "q12": "Very poor balance and persistent bugs.",
+    "q21": -1,
+    "q22": "Slow bug fixing and slow hero releases."
+  },
+  {
+    "q0": 44317843,
+    "q13": 1,
+    "q14": "Different heroes encourage distinct playstyles and operations.",
+    "q11": -1,
+    "q12": "Needs balance tuning while adding new heroes to keep it fresh."
+  },
+  {
+    "q0": 44304139,
+    "q41": "Item/skill RNG feels off (e.g., poor returns despite significant investment)."
+  },
+  {
+    "q0": 44272423,
+    "q11": -1,
+    "q12": "A few heroes are overtuned; mobile feels weaker than client aside from portability."
+  },
+  {
+    "q0": 44271777,
+    "q11": -1,
+    "q12": "New hero and Ghoul need stat testing before release."
+  },
+  {
+    "q0": 44268084,
+    "q41": "Severe RNG skew: opponents frequently roll many golds while user cannot, repeatedly."
+  },
+  {
+    "q0": 44262698,
+    "q11": -2,
+    "q12": "Balance lacks coherent mechanics; some heroes rely on model stat crush.",
+    "q29": -2,
+    "q30": "Gold is hard to earn and heroes are very expensive.",
+    "q31": -2,
+    "q32": "Resource acquisition is slow and restrictive.",
+    "q41": "Pacing feels sluggish; early hero selection dictates final placement."
+  },
+  {
+    "q0": 44248946,
+    "q41": "New/below-average players matched vs top-rank opponents, leading to stomped games."
+  },
+  {
+    "q0": 44246694,
+    "q3": "Vertical auto chess suited for short, on-the-go sessions.",
+    "q4": 2,
+    "q5": "Very accessible and fun to play anywhere."
+  },
+  {
+    "q0": 44246669,
+    "q27": 1,
+    "q28": "With no recharge available yet, everyone grinds; no pay-gating in this phase."
+  },
+  {
+    "q0": 44246660,
+    "q3": "Simplified auto-battler variant that's faster than traditional auto chess.",
+    "q4": 1,
+    "q5": "Short and approachable once understood."
+  },
+  {
+    "q0": 44242260,
+    "q4": -2,
+    "q5": "Unlucky/low gold card rates over many rounds ruined experience.",
+    "q41": "Questionable card probability behavior; uninstalled due to frustration."
+  },
+  {
+    "q0": 44205824
+  },
+  {
+    "q0": 44193416,
+    "q21": 1,
+    "q22": "New hero (Nezha) added indicates ongoing content updates.",
+    "q41": "Requests more hit VFX variety."
+  },
+  {
+    "q0": 44193136,
+    "q4": 1,
+    "q5": "Art style and early matches are engaging; creates anticipation."
+  },
+  {
+    "q0": 44144456,
+    "q41": "Wants improved visuals and more competitive/varied builds and heroes."
+  }
+]

@@ -1,0 +1,476 @@
+[
+  {
+    "q0": 39656344,
+    "q41": "Accuses the developers of toying with players."
+  },
+  {
+    "q0": 39656333,
+    "q39": -2,
+    "q40": "Says they were granted test qualification but still could not enter the game.",
+    "q41": "Misleading test qualification and poor player treatment."
+  },
+  {
+    "q0": 39655960,
+    "q41": "Blames the operator for choosing the wrong test mode and poor communication; says devs blamed the platform instead of issuing a clear announcement."
+  },
+  {
+    "q0": 39656329,
+    "q37": -2,
+    "q38": "Wasted about 4GB download due to access issues.",
+    "q39": -2,
+    "q40": "Server lag at launch until player cap was reached; registration status inconsistent.",
+    "q41": "Showed registration success but actually had no registration eligibility."
+  },
+  {
+    "q0": 39656326,
+    "q37": -2,
+    "q38": "Long pre-download ended up being wasted due to access problems.",
+    "q41": "Time/data wasted because access was blocked after download."
+  },
+  {
+    "q0": 39656324,
+    "q41": "Says granted qualification still required抢注 (re-registration), wasting download time."
+  },
+  {
+    "q0": 39656321
+  },
+  {
+    "q0": 39656320,
+    "q41": "Claims false qualification notice and suspected download/install count inflation; notes the game is from 2021."
+  },
+  {
+    "q0": 39656319,
+    "q39": -2,
+    "q40": "Network unstable during抢注; players inside also report lag.",
+    "q41": "Qualification still required抢注 and many could not register; suggests canceling the test."
+  },
+  {
+    "q0": 39656318,
+    "q41": "Accuses the operator of inflating downloads/traffic."
+  },
+  {
+    "q0": 39656317,
+    "q39": -2,
+    "q40": "Got 'network unstable' at start time, then player cap reached.",
+    "q41": "Frustration at being blamed for server issues."
+  },
+  {
+    "q0": 39656315,
+    "q39": -2,
+    "q40": "Lag during抢号; could not enter even after grabbing a slot.",
+    "q41": "Registration rush design causes access failure."
+  },
+  {
+    "q0": 39656313,
+    "q41": "Says the game announced qualification despite no access; criticizes failure to send follow-up bug/clarification notice."
+  },
+  {
+    "q0": 39656303,
+    "q41": "Sarcastic remark about mishandled operations."
+  },
+  {
+    "q0": 39656306,
+    "q39": -2,
+    "q40": "Severe lag and constant network fluctuation."
+  },
+  {
+    "q0": 39656225,
+    "q39": -2,
+    "q40": "Hit with 'network unstable' and 'quota full' despite trying; test used抢注 and lottery for access.",
+    "q41": "Calls抢注+lottery access design disgusting; criticizes using cultural relics as a marketing gimmick."
+  },
+  {
+    "q0": 39656305,
+    "q39": -2,
+    "q40": "Repeated 'poor network' errors on both mobile data and Wi‑Fi."
+  },
+  {
+    "q0": 39656302,
+    "q39": -2,
+    "q40": "Servers crashed at launch; after recovery, slots were already full.",
+    "q41": "Claims users were lured to download and then locked out."
+  },
+  {
+    "q0": 39656297,
+    "q39": -2,
+    "q40": "Showed qualification grabbed, but persistent 'network unstable' until slots were gone.",
+    "q41": "Lost access despite earlier qualification indication."
+  },
+  {
+    "q0": 39656294,
+    "q41": "Limited registration quota led to wasted data/download."
+  },
+  {
+    "q0": 39656293,
+    "q39": -2,
+    "q40": "Game reported poor network despite full signal.",
+    "q41": "Gives a star only for the illustrations."
+  },
+  {
+    "q0": 39656289,
+    "q39": -2,
+    "q40": "Server crash during test."
+  },
+  {
+    "q0": 39656286,
+    "q41": "Says they effectively sold fake 'tickets' (qualifications) leading to crowding."
+  },
+  {
+    "q0": 39656285,
+    "q39": -2,
+    "q40": "Black screen and freeze before finishing the tutorial."
+  },
+  {
+    "q0": 39656282,
+    "q41": "Downloaded for two hours yet had no qualification; calls the game trash."
+  },
+  {
+    "q0": 39656281,
+    "q41": "Asks where the qualification went."
+  },
+  {
+    "q0": 39656277,
+    "q41": "Criticizes how qualification distribution was handled."
+  },
+  {
+    "q0": 39656274,
+    "q37": -1,
+    "q38": "Had to pre-download resources for a long time before being told quota was full.",
+    "q39": -2,
+    "q40": "TapTap showed limited test qualification but in-game said quota full after resource download.",
+    "q41": "Calls the behavior deceptive and possibly fraudulent."
+  },
+  {
+    "q0": 39656271,
+    "q39": -2,
+    "q40": "At launch got 'network not good' and later 'quota full'."
+  },
+  {
+    "q0": 39656269
+  },
+  {
+    "q0": 39656091,
+    "q39": -2,
+    "q40": "Lag during registration; could not enter after grabbing a name."
+  },
+  {
+    "q0": 39656266,
+    "q41": "Says TapTap qualification was fake; requests clear notice before download."
+  },
+  {
+    "q0": 39656262,
+    "q37": -2,
+    "q38": "Downloaded several GB due to misleading qualification messaging.",
+    "q41": "Says operator first shows 'obtained qualification' then requires抢注, wasting data."
+  },
+  {
+    "q0": 39656261,
+    "q39": -2,
+    "q40": "Could not enter despite having test qualification.",
+    "q41": "Qualification did not grant access."
+  },
+  {
+    "q0": 39655962,
+    "q39": -2,
+    "q40": "Pre-downloaded data, then network lag at test start followed by full server.",
+    "q41": "Accuses of luring for downloads/traffic."
+  },
+  {
+    "q0": 39656256,
+    "q41": "Says the 'qualification' was merely for the installer; servers crashed."
+  },
+  {
+    "q0": 39656255,
+    "q37": -1,
+    "q38": "Long download time ended in 'registration full'.",
+    "q41": "Registration quota filled after lengthy setup."
+  },
+  {
+    "q0": 39656253,
+    "q41": "TapTap showed qualification, but after updating the game it reported registration limit reached."
+  },
+  {
+    "q0": 39656248,
+    "q37": -2,
+    "q38": "Downloaded about 3GB only to be told qualification still needed to be抢.",
+    "q41": "Test required separate抢注 despite pre-download."
+  },
+  {
+    "q0": 39656244,
+    "q41": "TapTap showed qualification; in-game said no slots left."
+  },
+  {
+    "q0": 39656242,
+    "q39": -2,
+    "q40": "Post-crash, frequent 'connecting' and unstable connection."
+  },
+  {
+    "q0": 39656237,
+    "q39": -2,
+    "q40": "Could not enter due to server crash; later hit player cap.",
+    "q41": "Tap still showing 'grab test slots' while access already full."
+  },
+  {
+    "q0": 39656224
+  },
+  {
+    "q0": 39656222,
+    "q39": -2,
+    "q40": "Severe lag during registration and then quota gone.",
+    "q41": "Mocks extremely low effective access cap."
+  },
+  {
+    "q0": 39656219,
+    "q41": "Says qualification allowed download but blocked registration; accuses of inflating download stats."
+  },
+  {
+    "q0": 39656214,
+    "q37": -1,
+    "q38": "Two hours of downloading wasted due to registration cap.",
+    "q41": "Uninstalled after being told registration was full."
+  },
+  {
+    "q0": 39656207,
+    "q41": "Given qualification but then told registration was full."
+  },
+  {
+    "q0": 39656206,
+    "q37": -2,
+    "q38": "Installed several GB after being told they had qualification, then told quota full.",
+    "q41": "Qualification messaging misleading; access denied post-download."
+  },
+  {
+    "q0": 26828413,
+    "q41": "Says limit test but unlimited downloads; Tap showed qualification yet got 'quota full'; claims similar ops happened before; vows to spend on other games instead."
+  },
+  {
+    "q0": 39656196,
+    "q37": -1,
+    "q38": "Long resource download followed by server cap message.",
+    "q39": -2,
+    "q40": "Could not enter; resource download ended with 'quota reached'.",
+    "q41": "Withdrew without being able to try the game."
+  },
+  {
+    "q0": 39656189,
+    "q41": "Blames the official team for poor handling."
+  },
+  {
+    "q0": 39656188,
+    "q41": "Says entry immediately reported no qualification, wasting data; uninstalled."
+  },
+  {
+    "q0": 39656187,
+    "q41": "Remarks that the game is so 'hot' they couldn't get a test qualification."
+  },
+  {
+    "q0": 39656182,
+    "q39": -2,
+    "q40": "Had test qualification but was not allowed to play.",
+    "q41": "Angry about blocked access despite qualification."
+  },
+  {
+    "q0": 39656181,
+    "q39": -2,
+    "q40": "Could not connect at start; later hit player cap."
+  },
+  {
+    "q0": 39656178,
+    "q39": -2,
+    "q40": "Pre-download done, but launch-day lag prevented抢注 until slots were gone.",
+    "q41": "Mentions 60k slot stress test still failed."
+  },
+  {
+    "q0": 39656179,
+    "q37": -2,
+    "q38": "3GB update wasted due to post-update 'registration full'.",
+    "q41": "Accuses of inflating downloads and wasting data."
+  },
+  {
+    "q0": 39656177,
+    "q39": -2,
+    "q40": "Could not enter; capacity already full."
+  },
+  {
+    "q0": 39656174,
+    "q41": "Says only art is good; gameplay/design feels outdated like 20 years ago."
+  },
+  {
+    "q0": 39656170,
+    "q41": "Tap showed qualification but in-game said registration cap reached; insults the operator."
+  },
+  {
+    "q0": 39656169,
+    "q41": "Calls the operation disgusting and asks others to rate two stars to affect score."
+  },
+  {
+    "q0": 39656167
+  },
+  {
+    "q0": 39656162,
+    "q39": -2,
+    "q40": "At 11:15 got 'network unstable'; next attempt said quota full while Tap still showed qualification.",
+    "q41": "抢注-based access plus inconsistent qualification messaging."
+  },
+  {
+    "q0": 39656163,
+    "q39": -2,
+    "q40": "抢号 registration followed by server crash and then player limit reached.",
+    "q41": "Notes the game is operated by Bilibili and criticizes operations."
+  },
+  {
+    "q0": 39656155,
+    "q41": "Calls it a scam game."
+  },
+  {
+    "q0": 39656152,
+    "q39": -2,
+    "q40": "At 11:00 repeatedly failed to enter; later showed 'qualification full'.",
+    "q41": "Tap showed qualification conflicting with announcement; criticizes Bilibili operations."
+  },
+  {
+    "q0": 39656146,
+    "q41": "Praises that there is no Japanese voice-over."
+  },
+  {
+    "q0": 39656138,
+    "q39": -2,
+    "q40": "Had qualification but still could not enter.",
+    "q41": "Access blocked despite qualification."
+  },
+  {
+    "q0": 39656139,
+    "q41": "Says announcement clearly stated抢注; blames TapTap for unclear display and clarifies there was no qualification grab the previous day."
+  },
+  {
+    "q0": 39656135,
+    "q39": -2,
+    "q40": "Persistent network issues during access attempt; then slots gone.",
+    "q41": "Says the test qualification design is toying with players."
+  },
+  {
+    "q0": 39649875,
+    "q37": -2,
+    "q38": "Downloaded several GB only to be told qualification must be grabbed again.",
+    "q41": "First time seeing pre-download for a test that still requires抢注."
+  },
+  {
+    "q0": 39656132,
+    "q39": -2,
+    "q40": "Servers crashed at launch.",
+    "q41": "Questions why users without qualification received pre-download SMS; accuses of traffic baiting."
+  },
+  {
+    "q0": 39655721,
+    "q39": -2,
+    "q40": "Server crash during test and perceived qualification recall.",
+    "q41": "Alleges review control/score locking and disrespect toward core reserved players."
+  },
+  {
+    "q0": 39656122,
+    "q37": -1,
+    "q38": "Long download time only to be told registration is full.",
+    "q41": "Frustrated by registration cap after lengthy download."
+  },
+  {
+    "q0": 39656121,
+    "q39": -2,
+    "q40": "Got 'network unstable' and 'registration cap reached'; could download but not play.",
+    "q41": "Wants data costs back due to access gating."
+  },
+  {
+    "q0": 39656120,
+    "q39": -2,
+    "q40": "Server issues blocked entry; later told slots were gone.",
+    "q41": "Accuses of inflating traffic."
+  },
+  {
+    "q0": 39656075,
+    "q41": "Says TapTap 'qualification' still required抢注; accuses of download-count farming."
+  },
+  {
+    "q0": 39656110,
+    "q39": -2,
+    "q40": "Black screen when creating character."
+  },
+  {
+    "q0": 39656106,
+    "q39": -2,
+    "q40": "TapTap 'qualification' did not allow play and the 60k stress test target was not met.",
+    "q41": "Calls TapTap qualification fake and suggests selling the game if it can't handle 60k CCU."
+  },
+  {
+    "q0": 39656104,
+    "q39": -2,
+    "q40": "Extremely choppy; 'stutter at every step'."
+  },
+  {
+    "q0": 39656101,
+    "q39": -2,
+    "q40": "Crashed at start time, then reached capacity.",
+    "q41": "Says players were 'toyed with'."
+  },
+  {
+    "q0": 39656100,
+    "q39": -2,
+    "q40": "Could not enter at start; later told no qualification.",
+    "q41": "Calls it deceitful toward players."
+  },
+  {
+    "q0": 39656098,
+    "q39": -2,
+    "q40": "After 30+ minutes download, first 10 minutes could not connect; when connected, server already full."
+  },
+  {
+    "q0": 39656093,
+    "q41": "Calls the experience a rip-off."
+  },
+  {
+    "q0": 39656089,
+    "q39": -2,
+    "q40": "Server crash in test environment."
+  },
+  {
+    "q0": 39656087,
+    "q39": -2,
+    "q40": "Pre-installed via heavy marketing, then couldn't enter; after 'repair', reported server full.",
+    "q41": "Criticizes aggressive ads and access gating."
+  },
+  {
+    "q0": 39656076,
+    "q41": "Says Bilibili is the publisher and that 'obtained test qualification' does not mean you can play."
+  },
+  {
+    "q0": 39656077,
+    "q41": "General praise: says the game is good and encourages the team."
+  },
+  {
+    "q0": 39656074,
+    "q41": "Accuses of hunger marketing; most on forum failed to get slots; suggests not opening downloads without sufficient access."
+  },
+  {
+    "q0": 39656070,
+    "q39": -2,
+    "q40": "Network unstable at start; after 10 minutes stabilized but quota already full."
+  },
+  {
+    "q0": 39656068,
+    "q39": -2,
+    "q40": "Launch-day network instability and server issues; frequent stutters.",
+    "q41": "Asks why no rate limiting/lottery; praises illustrations/models."
+  },
+  {
+    "q0": 39656063,
+    "q39": -2,
+    "q40": "Server crash prevented抢到 slots."
+  },
+  {
+    "q0": 39656061,
+    "q41": "Suggests limiting downloads; after download still had to抢注; blames operator."
+  },
+  {
+    "q0": 39656059,
+    "q39": -2,
+    "q40": "Persistent 'network unstable'; once stable, got 'server full'."
+  }
+]

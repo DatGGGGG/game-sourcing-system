@@ -1,0 +1,210 @@
+[
+  {
+    "q0": 47144269,
+    "q41": "Requests the PC version to keep getting updates as well."
+  },
+  {
+    "q0": 47138238
+  },
+  {
+    "q0": 47120047
+  },
+  {
+    "q0": 47092007,
+    "q41": "Asks whether the mobile version is buy-to-play and if owning the PC version grants the mobile version (cross-buy)."
+  },
+  {
+    "q0": 47084298,
+    "q3": "Roguelike tower defense where you place turrets including variants like Phantom Guard and Phantom Nest.",
+    "q4": 2,
+    "q5": "Says the PC version plays very well, specifically likes Phantom Guard/Nest, and hopes the mobile is a faithful port."
+  },
+  {
+    "q0": 47079839,
+    "q41": "Requests online/co-op mode."
+  },
+  {
+    "q0": 47026157,
+    "q41": "Phone call interrupts cause a full restart; lacks opening animation and story background in the tutorial or onboarding."
+  },
+  {
+    "q0": 47011046,
+    "q4": 1,
+    "q5": "Says it’s fun but hopes for richer/more content."
+  },
+  {
+    "q0": 47008440,
+    "q41": "Asks if there will be new DLC updates."
+  },
+  {
+    "q0": 47008437,
+    "q3": "Roguelike tower defense.",
+    "q4": 2,
+    "q5": "Calls it a very fun roguelike tower defense and looks forward to playing it casually on mobile."
+  },
+  {
+    "q0": 47002350,
+    "q6": "High difficulty tiers (e.g., difficulty 15) and multiple playable characters indicating replay depth.",
+    "q41": "Notes 130 hours on Steam and all characters cleared at difficulty 15; high replayability; expects strong mobile performance."
+  },
+  {
+    "q0": 47002173,
+    "q41": "Requests new content and asks if the PC version is still being updated."
+  },
+  {
+    "q0": 46998863,
+    "q4": -1,
+    "q5": "Criticizes pixel art as childish and says the gameplay doesn’t feel advanced; asks for improved playability.",
+    "q7": -1,
+    "q8": "Perceives shallow/unsophisticated mechanics."
+  },
+  {
+    "q0": 46992492
+  },
+  {
+    "q0": 46990351
+  },
+  {
+    "q0": 46989774
+  },
+  {
+    "q0": 46988450,
+    "q41": "Requests mobile version for free for Steam owners (cross-buy), due to no longer having a working PC."
+  },
+  {
+    "q0": 46984631
+  },
+  {
+    "q0": 46984374,
+    "q41": "Asks whether PC and mobile versions have cross-save/cross-progression."
+  },
+  {
+    "q0": 46980519,
+    "q6": "Co-op mode available; multiple characters; high difficulty tiers up to 15.",
+    "q21": 1,
+    "q22": "Mentions co-op mode came online later, indicating continued updates post-launch."
+  },
+  {
+    "q0": 46974489
+  },
+  {
+    "q0": 46973474
+  },
+  {
+    "q0": 46972638,
+    "q41": "Hopes the mobile version is buy-to-play with no ads."
+  },
+  {
+    "q0": 46969389,
+    "q41": "Requests more new characters and new gameplay modes."
+  },
+  {
+    "q0": 46969010,
+    "q41": "Hopes the mobile version avoids heavy ads common in other Steam-to-mobile ports."
+  },
+  {
+    "q0": 46968595,
+    "q6": "Mentions distinct builds/tools: early-game clearing with a 'nuke ladybug,' cost-saving lawn economy, and money-farming via chained vending machines.",
+    "q7": 1,
+    "q8": "Lists multiple specialized builds for clearing, farming resources, and efficiency, implying meaningful tactical choices."
+  },
+  {
+    "q0": 46968569
+  },
+  {
+    "q0": 46968210
+  },
+  {
+    "q0": 46967030,
+    "q41": "Asks whether the mobile version is also buy-to-play."
+  },
+  {
+    "q0": 46133921,
+    "q4": 2,
+    "q5": "Says it’s very interesting and prefers to play casually on mobile."
+  },
+  {
+    "q0": 45348779
+  },
+  {
+    "q0": 44920101,
+    "q3": "Top-down shooter-infused roguelike tower defense: escort a base truck while placing turrets and nests that summon animals; fight through chapters with shops/supplies/events/craftsman upgrades; break destructibles for money; harvest energy from power stones; defeat bosses for gold buffs; player death has a respawn delay and blocks turret placement.",
+    "q4": 2,
+    "q5": "Highlights lots of new content and consistently fun combat with many viable builds; waiting felt worth it.",
+    "q6": "Build variety including 'ant swarm' via nests; supplies that stack global buffs; craftsman for turret enhancements (e.g., burning, partners, explosive ants); shops with grades (A/B/C up to S/SSS) and occasional discounts; destructible environment for gold; power stones for energy extraction; base-truck positioning on power stones; boss gold perks; sell/replace towers mid-run; challenge toggles.",
+    "q7": 2,
+    "q8": "Multiple layered systems (supplies, shops, crafting upgrades, energy, destructibles) and synergies provide high tactical depth.",
+    "q11": -1,
+    "q12": "Engineer Lion + ant nests are described as must-have and very strong, suggesting meta dominance over alternatives.",
+    "q13": 2,
+    "q14": "States many distinct flows/builds with high randomness and synergy across numerous turret and nest options.",
+    "q15": "Between-battle management loop: choose supplies (stackable buffs), visit shop, random events, repairs, and craftsman upgrades; during battles farm gold from destructibles and extract energy from power stones while repositioning the base truck as needed.",
+    "q16": false,
+    "q17": -1,
+    "q18": "The loop involves several systems and steps (supplies, shops, events, crafting, energy), making it moderately complex rather than simple.",
+    "q19": 1,
+    "q20": "Gold and energy can be actively farmed via destructibles, turret income, and power stones, providing steady resources.",
+    "q21": 1,
+    "q22": "Notes the addition of new characters, turrets, maps, mechanics, and a new boss compared to earlier builds, indicating active updates."
+  },
+  {
+    "q0": 44900461,
+    "q3": "Roguelike tower defense with high replayability.",
+    "q4": 2,
+    "q5": "Says it’s very interesting on PC with strong replay value and hopes for a faithful mobile port."
+  },
+  {
+    "q0": 44900490,
+    "q3": "Random growth (roguelike) combined with tower defense.",
+    "q4": 2,
+    "q5": "Calls the combo a perfect fit and is very excited after watching a streamer."
+  },
+  {
+    "q0": 43586708,
+    "q4": 1,
+    "q5": "Describes it as addictive and wants a mobile version for bed play."
+  },
+  {
+    "q0": 41754681,
+    "q3": "Roguelike free-placement tower defense.",
+    "q6": "Free placement of towers rather than fixed slots.",
+    "q7": 1,
+    "q8": "Highlights a notably different style and freedom of placement compared with typical TD.",
+    "q4": 1,
+    "q5": "Positive impression and believes it will be even better on mobile."
+  },
+  {
+    "q0": 41349602,
+    "q41": "Suggests mobile monetization by making some talents or skills paid, arguing roguelike/tower defense doesn’t rely heavily on characters."
+  },
+  {
+    "q0": 40573079
+  },
+  {
+    "q0": 40515996,
+    "q41": "Wishlist: more modes, online co-op, monetized cosmetics and rare towers that are also grindable, daily/limited skin grind chances, tower tech branches, high-tech towers, maps like Mars/Moon/Space/Alien worlds, and even a first-person mode."
+  },
+  {
+    "q0": 40500288,
+    "q4": 2,
+    "q5": "Says after playing the PC version, Slay the Spire feels less appealing."
+  },
+  {
+    "q0": 38345808
+  },
+  {
+    "q0": 38281213
+  },
+  {
+    "q0": 38269648
+  },
+  {
+    "q0": 31924050,
+    "q41": "Very eagerly awaiting updates; asks to hurry with updates."
+  },
+  {
+    "q0": 27416018,
+    "q4": 2,
+    "q5": "Simply says it’s very fun."
+  }
+]

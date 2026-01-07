@@ -1,0 +1,455 @@
+[
+  {
+    "q0": 26843744,
+    "q41": "Open download but access is gated by test qualification; user cannot play after downloading."
+  },
+  {
+    "q0": 26843719,
+    "q41": "Positives: striking theme and educational cultural content; Negatives: marketing tactics felt disappointing; plans to check back at launch."
+  },
+  {
+    "q0": 26843717,
+    "q41": "Accuses the game of inflating downloads by allowing downloads without access."
+  },
+  {
+    "q0": 26843618,
+    "q41": "Download allowed despite no play access; suggests closing download if not playable."
+  },
+  {
+    "q0": 26843502,
+    "q41": "Criticism: no sweep feature."
+  },
+  {
+    "q0": 26843416,
+    "q3": "Turn-based grid tactical (war-chess) combat.",
+    "q4": -1,
+    "q5": "Combat feels old/derivative and UI looks very similar to another game.",
+    "q41": "Story feels cryptic; gacha rarity is hidden but indicated by card color (red/yellow/blue)."
+  },
+  {
+    "q0": 26843380,
+    "q41": "Complains that download remains open after slots are taken; feels like baiting for downloads."
+  },
+  {
+    "q0": 26843354,
+    "q3": "Turn-based war-chess combat.",
+    "q4": 2,
+    "q5": "First-time tactics player found it very fun.",
+    "q41": "Story is mediocre and not very compelling."
+  },
+  {
+    "q0": 26843256,
+    "q41": "Accuses the game of baiting downloads."
+  },
+  {
+    "q0": 26843209,
+    "q3": "War-chess/tactical combat; early stages require manual play.",
+    "q9": -1,
+    "q10": "Early game is grindy with manual farming and auto not available at low levels; feels tiring.",
+    "q41": "Likes music, art, and artifact archive; suggests 3D rotatable artifacts; lucky gacha experience, but dislikes early grind and lack of auto."
+  },
+  {
+    "q0": 26826983,
+    "q41": "Gacha concerns: pool doesn’t show rates or pity; no first-10 guarantee of top rarity; two 10-pulls only gave minimum guarantee and duplicates; 2x combat speed feels slow; optimization average; strong praise for art and animation."
+  },
+  {
+    "q0": 26843201,
+    "q41": "Download allowed without clear qualification notice; user only learns about access requirement after installing."
+  },
+  {
+    "q0": 26843108,
+    "q3": "Japanese-style SRPG (Fire Emblem-like) with grid movement; XP via books; no counterattack system; some units (e.g., Light Guard) have double actions and ignore obstacles.",
+    "q4": -1,
+    "q5": "Maps are bland with only obstacles and no terrain effects; lack of counterattacks and unit imbalance make SLG part not very fun.",
+    "q6": "Positioning-based tactics; unit mobility differences; lacks terrain attributes; no counterattack system.",
+    "q7": -1,
+    "q8": "Empty maps and missing mechanics reduce meaningful tactical decisions.",
+    "q11": -1,
+    "q12": "Light melee class feels overpowered (double action, obstacle ignore); melee advantaged since enemies don’t counterattack.",
+    "q41": "Recommends rethinking core: SLG audience split (too easy for SLG fans, too hard/long for newcomers); suggests either pivot to more casual/auto-friendly loop or deepen SLG systems (maps, classes, synergy)."
+  },
+  {
+    "q0": 26843106,
+    "q41": "Upset that download is open without qualification to play."
+  },
+  {
+    "q0": 26842828,
+    "q41": "Reserved for months across platforms yet didn’t get qualification; suggests open launch with first-come slots instead."
+  },
+  {
+    "q0": 26842787,
+    "q41": "Says download was opened to bait traffic; urges closing downloads if access is limited."
+  },
+  {
+    "q0": 26842690,
+    "q41": "If test is limited, close the download/try channel; criticizes download bait."
+  },
+  {
+    "q0": 26842618,
+    "q41": "Limited-qualification test but still promoted/ranked; feels like download bait."
+  },
+  {
+    "q0": 26842498,
+    "q41": "No test qualification."
+  },
+  {
+    "q0": 26842468,
+    "q41": "Allows download without qualification; first time encountering this on TapTap; leaves a bad impression."
+  },
+  {
+    "q0": 26842347,
+    "q41": "Calls the game a scammer due to download vs access mismatch."
+  },
+  {
+    "q0": 26841734,
+    "q3": "War-chess style gameplay.",
+    "q4": 1,
+    "q5": "Core systems feel fine for a niche war-chess + artifact anthropomorphism concept.",
+    "q41": "Strong praise for art, music, and artifact-personification; story could be further polished; hopes for earlier public test."
+  },
+  {
+    "q0": 26841508,
+    "q41": "Refuses to download because access requires qualification post-download."
+  },
+  {
+    "q0": 26841149,
+    "q41": "Marketing criticism: PV shows little real gameplay."
+  },
+  {
+    "q0": 26840606,
+    "q41": "After download and registration, told no qualification; criticizes open download."
+  },
+  {
+    "q0": 26840508
+  },
+  {
+    "q0": 26840291,
+    "q41": "Accuses the game of baiting for downloads."
+  },
+  {
+    "q0": 26839878
+  },
+  {
+    "q0": 26839812,
+    "q3": "Grid-based tactical battles; many actions require confirm/cancel; manual only; some class quirks (e.g., archers can’t act immediately after stowing bow).",
+    "q4": -1,
+    "q5": "Operations are cumbersome and early difficulty is overtuned; lack of auto/sweep makes play tedious.",
+    "q6": "Requests for auto and 2–3x speed; class-specific challenge nodes; archer post-action limitations.",
+    "q7": -1,
+    "q8": "Difficulty spikes and limited mechanics tuning reduce practical tactical choices.",
+    "q9": -1,
+    "q10": "Progress blocked by resource farming and high difficulty nodes without auto/sweep.",
+    "q41": "UI issues (excess red dots), insufficient new user guidance, some blurry assets, chibi ult visuals; story/worldbuilding unclear; L2D feedback requests."
+  },
+  {
+    "q0": 26839686
+  },
+  {
+    "q0": 26839593,
+    "q41": "Complains about open download without access; calls it download bait."
+  },
+  {
+    "q0": 26839454,
+    "q41": "Believes the download-open/limited-access was intentional to gain traffic; downrates accordingly."
+  },
+  {
+    "q0": 26839264,
+    "q41": "Downloaded but cannot play; sarcasm about being a ‘good game’."
+  },
+  {
+    "q0": 26839015,
+    "q41": "Mocks that download is open but access requires qualification."
+  },
+  {
+    "q0": 26838641,
+    "q3": "Turn-based war-chess with classes and physical/magic damage split; character leveling, passives, and breakthroughs.",
+    "q4": 0,
+    "q5": "Gameplay feels average and low difficulty; can clear by overleveling rather than strategy.",
+    "q6": "Distinct damage types; class roles; auto planned but not yet available.",
+    "q7": -1,
+    "q8": "Low strategic requirement; high levels beat most content.",
+    "q11": -1,
+    "q12": "Top-rarity (red) units feel very strong compared to others.",
+    "q41": "Pros: visuals, L2D, ult animations, music; Cons: gets monotonous later, heavy battery drain and heating; one Chinese voice line feels odd."
+  },
+  {
+    "q0": 26838609,
+    "q41": "Worldbuilding note: the in-game foundation feels inspired by SCP (收容-保护) style organizations."
+  },
+  {
+    "q0": 26838313,
+    "q41": "Downloaded but lacks qualification; suggests closing downloads when slots are full."
+  },
+  {
+    "q0": 26838265,
+    "q41": "No test qualification but download is allowed; can’t play."
+  },
+  {
+    "q0": 26838235,
+    "q41": "After downloading and registering, told there’s no qualification."
+  },
+  {
+    "q0": 26837412,
+    "q41": "Cannot play despite downloading."
+  },
+  {
+    "q0": 26837162,
+    "q3": "War-chess where positioning and movement matter; some units can gain extra actions after acting.",
+    "q4": 2,
+    "q5": "Enjoyed planning and positioning; boss fight (2-12) showcased tactical depth.",
+    "q6": "Positioning importance; boss mechanics; extra-action units enabling advanced turns.",
+    "q7": 1,
+    "q8": "Small positional tweaks noticeably change outcomes.",
+    "q41": "UI issue: often taps ‘Wait’ instead of triggering extra action; minor disconnects."
+  },
+  {
+    "q0": 26780395,
+    "q41": "Requests: story backlog and summary on skip; improve chibi ult visuals; refine tutorial and UI; art and content quality praised."
+  },
+  {
+    "q0": 26836751,
+    "q41": "Open download yet still requires test qualification; user frustrated after registering."
+  },
+  {
+    "q0": 26836611,
+    "q41": "Limited qualification but download remains open."
+  },
+  {
+    "q0": 26836249,
+    "q41": "Rare practice: open download while test isn’t open to all."
+  },
+  {
+    "q0": 26835979,
+    "q3": "War-chess, reminiscent of Fire Emblem.",
+    "q4": 1,
+    "q5": "Good first impression of the tactics and strong interaction feedback.",
+    "q41": "Gacha gave duplicate golds in early 10-pull; wants ult-skip option; PV not screen-fitted (black bars)."
+  },
+  {
+    "q0": 26835204,
+    "q41": "Open download but closed test; strongly negative reaction."
+  },
+  {
+    "q0": 26834869,
+    "q41": "Good art and style; gameplay feels somewhat unresponsive with click/input lag; needs optimization."
+  },
+  {
+    "q0": 26834498
+  },
+  {
+    "q0": 26834483
+  },
+  {
+    "q0": 26834126,
+    "q41": "Positive on opening CG, Chinese voice acting, and art; early test impressions good."
+  },
+  {
+    "q0": 26834123,
+    "q41": "Download allowed without access; suspects download inflation."
+  },
+  {
+    "q0": 26827858,
+    "q4": -1,
+    "q5": "Combat hit feedback and sound/pace feel mushy and slow.",
+    "q9": -1,
+    "q10": "Progression gated (e.g., must clear 1-6 to unlock leveling); chapter 2 requires universal breakthrough; no auto/sweep; heavy material grind.",
+    "q41": "Gacha UX: 10-pull lacks confirmation and cannot cancel; SR lineup feels narrow and off-rate; needs sweep; XP scarce even when focusing 4 units."
+  },
+  {
+    "q0": 26833654,
+    "q3": "War-chess with high early difficulty and tutorial inserted into story stages.",
+    "q4": -1,
+    "q5": "Too hard for newcomers; requires grinding; tutorial placement is confusing.",
+    "q9": -1,
+    "q10": "Frequent farming and difficulty spikes hinder smooth progression.",
+    "q41": "Strong praise for art/archives and Chinese VO (with dialects); hopes difficulty and grind get balanced."
+  },
+  {
+    "q0": 26833645,
+    "q41": "Positive on art and Chinese voice direction; optimistic about the theme."
+  },
+  {
+    "q0": 26833452,
+    "q41": "UI and art praised; tutorial needs improvement; non-SLG players may have onboarding difficulty."
+  },
+  {
+    "q0": 26833448,
+    "q9": 1,
+    "q10": "Early progression is light and main story can be pushed without heavy investment.",
+    "q41": "Great art; auto remains locked; high gacha luck in test; several bugs (e.g., material stage returning to main, day-one sign-in bug); story lacks full voice."
+  },
+  {
+    "q0": 26833418,
+    "q3": "War-chess; chapter 2 difficulty spikes.",
+    "q9": -1,
+    "q10": "Chapter 2 is notably harder; low material/XP drops; 2x speed doesn’t persist; auto unlocks too late; manual material grind is tedious.",
+    "q13": -1,
+    "q14": "Some characters’ skills overlap, reducing build diversity; also requests balanced gender ratio.",
+    "q15": "Farm materials to unlock passives and perform breakthroughs to raise level caps.",
+    "q17": -1,
+    "q18": "Manual farming with low drops and no auto/sweep is time-consuming.",
+    "q19": -1,
+    "q20": "Low material and XP drop rates require many runs.",
+    "q41": "Concerns about rarity classification vs cultural relic respect; wants persistent 2x and earlier auto; praises artifact archives with real images."
+  },
+  {
+    "q0": 26833349,
+    "q3": "War-chess.",
+    "q4": -1,
+    "q5": "Too hard for many; requests auto combat.",
+    "q9": -1,
+    "q10": "Repetitive enemies and long stages without auto make progression tiring.",
+    "q41": "Art, writing, and music praised; tutorial and difficulty need tuning."
+  },
+  {
+    "q0": 26833343,
+    "q3": "War-chess.",
+    "q4": -1,
+    "q5": "Stuck early with no auto; manual play for long periods is exhausting.",
+    "q9": -1,
+    "q10": "No sweep/auto; slow and grindy farming even in early chapter.",
+    "q41": "Art is strong; gameplay pacing and automation lacking."
+  },
+  {
+    "q0": 26833327,
+    "q3": "War-chess.",
+    "q4": -1,
+    "q5": "Combat system feels tiring for players who prefer idle; wants auto/sweep.",
+    "q9": -1,
+    "q10": "Breakthrough/material farming requires repeated manual runs; auto button exists but is locked.",
+    "q41": "Story feels cryptic; gacha probabilities not visible; new-user guidance can be intrusive; repeated combat voice lines become annoying."
+  },
+  {
+    "q0": 26833291
+  },
+  {
+    "q0": 26833140,
+    "q41": "No test qualification but download still allowed."
+  },
+  {
+    "q0": 26833076,
+    "q7": -1,
+    "q8": "States strategy is not high, though visuals are decent."
+  },
+  {
+    "q0": 26780260,
+    "q3": "War-chess with manual play; auto is present in UI but disabled this test; chibi ult animations.",
+    "q4": 0,
+    "q5": "Overall quality good but needs auto, smoother operations, and better tutorial; ult animations feel rough.",
+    "q9": -1,
+    "q10": "Material requirements are high and without auto/sweep it’s grindy.",
+    "q41": "Strong praise for art/music/VO; requests for auto, sweep, refined operations, better onboarding, and profession-highlight stages."
+  },
+  {
+    "q0": 26832835,
+    "q1": true,
+    "q2": "Blood shown in a story CG.",
+    "q3": "War-chess with capped 2x speed and frequent ult animations; tutorial pacing within story.",
+    "q4": -1,
+    "q5": "Core guidance is weak and stages feel long and difficult; repeated unskippable elements slow combat.",
+    "q9": -1,
+    "q10": "Overlong, slow stages and limited speed make progression feel dragged out.",
+    "q41": "Major critiques: ‘mystery’ storytelling with low clarity, weak worldbuilding and UI hierarchy, tutorial pacing issues; suggests more thoughtful rarity scheme and better integration of artifact info."
+  },
+  {
+    "q0": 26832534,
+    "q41": "Notes community hostility around SLG difficulty/access; concerned about future environment."
+  },
+  {
+    "q0": 26832510,
+    "q41": "Wants clear, prominent limited-test notice before download/registration; poor first impression after being told no qualification post-registration."
+  },
+  {
+    "q0": 26832409,
+    "q41": "Limited test but open download; suspects download inflation despite TapTap having features to prevent this."
+  },
+  {
+    "q0": 26831904,
+    "q3": "War-chess; 2x speed doesn’t persist; ult cutscenes not skippable; manual farming required.",
+    "q4": -1,
+    "q5": "Friction from non-persistent speed, unskippable ults, and frequent misclicks.",
+    "q9": -1,
+    "q10": "Character passives and breakthroughs require many materials; no auto/sweep; heavy manual grind and device heating.",
+    "q15": "‘Assessment’ farming loop: run stages to collect materials to unlock passives and break level caps, enabling further progression.",
+    "q17": -1,
+    "q18": "Manual-only with high material costs and UI friction feels cumbersome.",
+    "q19": -1,
+    "q20": "Low and inconsistent material drops vs high costs make the loop time-consuming.",
+    "q41": "Phone heats up; frequent ‘Wait’ misclick instead of ult due to button proximity; requests auto/sweep and skippable ults."
+  },
+  {
+    "q0": 26832053,
+    "q41": "Requests auto-battle."
+  },
+  {
+    "q0": 26831840,
+    "q41": "Says limited test wasn’t targeted; time/data wasted downloading without qualification."
+  },
+  {
+    "q0": 26831535,
+    "q41": "No qualification but art appeals; leaves a 5-star expectation rating."
+  },
+  {
+    "q0": 26831498,
+    "q41": "Feels misled: download promoted for ranking despite being a limited test; access details buried in forum/page."
+  },
+  {
+    "q0": 26831454,
+    "q41": "Second login leads to permanent black screen; cannot play."
+  },
+  {
+    "q0": 26804782,
+    "q41": "Early frustration from no auto and device heating; UI lacks premium feel; loading screens are slow; wants pretty CG-style ults; sign-in bug; can’t find gacha rates; praises L2D, customization, and fast-forward/skip once available."
+  },
+  {
+    "q0": 26830956,
+    "q3": "War-chess; tutorial lacks clarity; 2x speed resets each stage; manual-only in test.",
+    "q4": 0,
+    "q5": "Overall good with strong archives and art, but UX/tutorial and speed/inspection controls need polish.",
+    "q6": "Requests long-press to inspect enemies; auto planned; speed toggle should persist.",
+    "q9": -1,
+    "q10": "Flow is slowed by unskippable elements and speed resetting; repetitive stages feel long.",
+    "q15": "Side systems include weapon manufacturing orders and regional dispatch to earn materials.",
+    "q16": true,
+    "q17": -1,
+    "q18": "Order/manufacturing and dispatch lack clear explanations and UI affordances.",
+    "q41": "Wants rate display and pity info; clearer item acquisition tips; better chapter task jump; back navigation consistency."
+  },
+  {
+    "q0": 26830911,
+    "q41": "Told ‘no qualification’ only after fully downloading."
+  },
+  {
+    "q0": 26830762,
+    "q13": -1,
+    "q14": "Mechanics feel conservative and not rich; uneven character art reduces desire to engage with some units.",
+    "q41": "Feature unlocks are slow; overall experience feels standard."
+  },
+  {
+    "q0": 26830755
+  },
+  {
+    "q0": 26830734,
+    "q41": "Criticizes operations for opening downloads to everyone during a limited test."
+  },
+  {
+    "q0": 26830629,
+    "q41": "Cannot play; questions purpose of ‘trial’ when access isn’t available."
+  },
+  {
+    "q0": 26830562,
+    "q41": "Limited qualification but download open; unsure whether platform or developer is responsible; leaves a bad impression."
+  },
+  {
+    "q0": 26830549,
+    "q41": "First-ever negative review due to feeling misled by download-access mismatch."
+  },
+  {
+    "q0": 26830480,
+    "q41": "Open download with limited slots is unreasonable; questions operations competence."
+  },
+  {
+    "q0": 26830423,
+    "q41": "A series of operations (e.g., download vs access) make the user plan to avoid the game at launch."
+  }
+]

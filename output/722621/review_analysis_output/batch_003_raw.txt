@@ -1,0 +1,472 @@
+[
+  {
+    "q0": 46863198,
+    "q3": "Turn-based battles with auto mode; elemental team building; long boss/tower fights with high HP; manual tapping to skip turns makes runs very slow.",
+    "q4": -1,
+    "q5": "Tower layers take ~4 minutes on auto unless constantly skipping; very time-consuming.",
+    "q6": "Elemental team requirement; class roles feel imbalanced with scarce/weak healers.",
+    "q7": -1,
+    "q8": "Team composition is constrained by elements and weak healer options.",
+    "q9": -1,
+    "q10": "Progress is gated by slow, grindy tower/boss fights.",
+    "q11": -1,
+    "q12": "Perceived severe imbalance across jobs; healers are few and underpowered.",
+    "q13": -1,
+    "q14": "Forced mono-attribute teams and reliance on a small top tier limit diversity.",
+    "q41": "Art perceived as AI-edited; monetization not fully enabled during test."
+  },
+  {
+    "q0": 46863185
+  },
+  {
+    "q0": 46862993,
+    "q41": "Downloaded but cannot open the game at all."
+  },
+  {
+    "q0": 46862161,
+    "q9": -2,
+    "q10": "Hard-stuck on a quest from level 30 to 100 despite reporting; progression blocked by bug.",
+    "q41": "Only female protagonist praised; player spent money but remains blocked."
+  },
+  {
+    "q0": 46862083,
+    "q41": "Persistent 'cannot connect' bug for several days."
+  },
+  {
+    "q0": 46861994
+  },
+  {
+    "q0": 46861854
+  },
+  {
+    "q0": 46861728
+  },
+  {
+    "q0": 46861552,
+    "q41": "After the opening boss, the game gets stuck; cannot proceed."
+  },
+  {
+    "q0": 46861542,
+    "q41": "Stuck/frozen."
+  },
+  {
+    "q0": 46860752,
+    "q3": "Turn-based combat feels slow; lacks QoL like sweep and fast skip.",
+    "q4": -1,
+    "q5": "Battles take too long; encountered a post-battle soft-lock in a side quest.",
+    "q9": -1,
+    "q10": "Side-quest bug blocks leveling needed to continue main story.",
+    "q41": "Post-battle soft-lock; requests sweep/skip and faster combat; map needs better detail and teleport points."
+  },
+  {
+    "q0": 46860498,
+    "q6": "Element choice heavily influences team (players tend to focus on the element they have most of).",
+    "q7": -1,
+    "q8": "Players feel forced into mono-element paths.",
+    "q13": -1,
+    "q14": "Team building guided by whichever element has more units, reducing diversity.",
+    "q41": "Some bugs and grindy gameplay."
+  },
+  {
+    "q0": 46860486
+  },
+  {
+    "q0": 46860256,
+    "q41": "Non-wipe test but login is not possible."
+  },
+  {
+    "q0": 46860111,
+    "q9": -1,
+    "q10": "Missing a day caused noticeable setback; soloing instances became too hard and co-op had no players.",
+    "q41": "Co-op lobbies feel empty; strong 'job-like' daily pressure."
+  },
+  {
+    "q0": 46859114,
+    "q41": "Feels like a half-finished, boring build."
+  },
+  {
+    "q0": 46858934,
+    "q41": "Story and controls feel mediocre despite good visuals; dropped after ~1 hour."
+  },
+  {
+    "q0": 46858825,
+    "q41": "Frequent disconnects during play; needs optimization."
+  },
+  {
+    "q0": 46858443,
+    "q41": "Stuck at initial screen; reinstalling didn’t help."
+  },
+  {
+    "q0": 46857878
+  },
+  {
+    "q0": 46830762,
+    "q41": "Optimization issues despite being fun and good-looking."
+  },
+  {
+    "q0": 46857611,
+    "q41": "Frequent stutter, black screens, and crashes over several days; player ready to quit."
+  },
+  {
+    "q0": 46856554,
+    "q41": "Requests for codex, sweep, and battle speed-up features."
+  },
+  {
+    "q0": 46856226,
+    "q29": -1,
+    "q30": "Compared to GBF-like design with extreme grind and near-bottomless spending ceiling; doubts about fit for local market.",
+    "q41": "Feels like a 1:1 Octopath/GBF mashup with no unique identity."
+  },
+  {
+    "q0": 46856062,
+    "q41": "Strong art direction undermined by weak gameplay/story; art-gameplay dissonance."
+  },
+  {
+    "q0": 46855732,
+    "q41": "Camera perspective feels awkward; story feels empty."
+  },
+  {
+    "q0": 46855626,
+    "q41": "Fixed center joystick feels awkward; landscape mode promised but unavailable; name filter overly strict."
+  },
+  {
+    "q0": 46855526
+  },
+  {
+    "q0": 46854972,
+    "q41": "Locked female protagonist reduces immersion for some players."
+  },
+  {
+    "q0": 46854820,
+    "q41": "Frequent crashes during test; gacha UI looks cheap and could be more polished."
+  },
+  {
+    "q0": 46854597,
+    "q41": "Stuck on a screen; reboot doesn’t fix."
+  },
+  {
+    "q0": 46828880,
+    "q6": "Exploration and class synergy evoke classic JRPG strategy.",
+    "q7": 1,
+    "q8": "Appreciated exploration feel and party-building strategy reminiscent of classic JRPGs.",
+    "q41": "Suggests hiding monetization popups to preserve immersion; add landscape mode; fix stutter/disconnect/black screen."
+  },
+  {
+    "q0": 46854207,
+    "q6": "Linear stat-only growth for characters, weapons, and pets; no random affixes; clear best-in-slot outcomes.",
+    "q7": -1,
+    "q8": "Lack of randomness and existence of optimal builds reduce decision-making.",
+    "q13": -1,
+    "q14": "Absence of affixes leads to a single optimal setup per slot.",
+    "q27": 1,
+    "q28": "Persistent play can max non-paid gear/pets, though paid options remain stronger.",
+    "q29": 0,
+    "q30": "Whales stronger, but core systems are accessible without paying."
+  },
+  {
+    "q0": 46853894
+  },
+  {
+    "q0": 46853737,
+    "q41": "Locked female protagonist and onboarding scene choices alienate some male players; gameplay simple but art comfortable."
+  },
+  {
+    "q0": 46841939,
+    "q3": "Turn-based with auto; requires manual or custom skill order due to poor auto AI; element-based teams; bosses with very high HP.",
+    "q4": -1,
+    "q5": "Auto burns heals/buffs at bad times; long boss HP bars; no sweep for single-run instances.",
+    "q6": "Elemental teams (4 now, likely 6 later); custom skill order; manual play recommended.",
+    "q7": 0,
+    "q8": "Potential in skill order and element teams, but poor AI and overtuned HP reduce depth in practice.",
+    "q9": -1,
+    "q10": "New players confused by unclear growth paths; grindy bosses gate gear mats; no sweep.",
+    "q21": 1,
+    "q22": "Timely server fixes with generous compensation during test.",
+    "q23": true,
+    "q24": "30-pull pity for SSR.",
+    "q25": 1,
+    "q26": "About 10 RMB per pull, cheaper than many contemporaries.",
+    "q27": 1,
+    "q28": "Not very pay-heavy; most features playable without heavy spend.",
+    "q29": 1,
+    "q30": "Light monetization feel during test and relatively cheap pulls.",
+    "q31": 1,
+    "q32": "Test rewards and compensations felt generous.",
+    "q41": "Frequent crashes; no sweep; dungeon HP scaling extreme in new content (e.g., 40M+ HP)."
+  },
+  {
+    "q0": 46827288,
+    "q41": "Crashes resumed; too many bugs."
+  },
+  {
+    "q0": 46853304,
+    "q41": "Game loads into an unresponsive state; restart doesn’t help."
+  },
+  {
+    "q0": 46852920,
+    "q41": "Login bug on some Wi-Fi networks; can update but cannot enter the game."
+  },
+  {
+    "q0": 46852852,
+    "q29": 1,
+    "q30": "Currently relaxed play with decent rates in test; overall friendly experience.",
+    "q41": "Mixed gacha pool but feels good during test."
+  },
+  {
+    "q0": 46852310
+  },
+  {
+    "q0": 46832958,
+    "q41": "Requests sweep; performance issues with screen flicker leading to freezes."
+  },
+  {
+    "q0": 46851820,
+    "q3": "Instance grinding requires repeated manual runs; no quick/sweep.",
+    "q4": -1,
+    "q5": "Repetitive dungeons without fast-clear options are tiring.",
+    "q41": "200-pull selection returned only weapons, not characters; lacks sweep."
+  },
+  {
+    "q0": 46851689,
+    "q1": true,
+    "q2": "Sexualized fanservice in some character art (though most female outfits are normal).",
+    "q41": "Prefers female-only MC; would like a skip feature; male characters feel scarce."
+  },
+  {
+    "q0": 46851291,
+    "q41": "Frequent crashes and text encoding issues."
+  },
+  {
+    "q0": 46851167,
+    "q41": "Cannot enter on day 2 due to persistent 'network problem'."
+  },
+  {
+    "q0": 46850948,
+    "q41": "AI-generated-looking character art leads to rejection."
+  },
+  {
+    "q0": 46850372
+  },
+  {
+    "q0": 46850309,
+    "q41": "Requests landscape mode; current experience feels lacking."
+  },
+  {
+    "q0": 46850299,
+    "q41": "Requests landscape mode."
+  },
+  {
+    "q0": 46849849,
+    "q41": "Black screen after waking from sleep; must restart the app."
+  },
+  {
+    "q0": 46849729,
+    "q31": 1,
+    "q32": "Test benefits are attractive; could be playable at launch if maintained.",
+    "q41": "Initial gameplay felt stale; depends on story quality."
+  },
+  {
+    "q0": 46849692,
+    "q3": "Idle-friendly progression with slow turn-based battles; only per-turn skip, no 2x speed.",
+    "q4": -1,
+    "q5": "Combat pacing is slow with limited skipping and no speed-up.",
+    "q41": "AI-looking art; poor joystick feel; cumbersome UI flows; locked female MC and few male characters."
+  },
+  {
+    "q0": 46849599,
+    "q41": "Becomes monotonous over time; requests more world and player interactions; asks if there are male characters."
+  },
+  {
+    "q0": 46848453,
+    "q15": "Guild-based co-op battles (guild war) alongside core PvE.",
+    "q16": false
+  },
+  {
+    "q0": 46848429,
+    "q41": "Requests option to choose a male protagonist; locked female MC is off-putting."
+  },
+  {
+    "q0": 46840461,
+    "q3": "Pixel-style turn-based battles with auto mode; auto skill usage bug observed; lacks sweep for exp runs.",
+    "q4": -1,
+    "q5": "Auto uses limited-per-turn skills less often than expected; repetitive runs without sweep.",
+    "q9": -1,
+    "q10": "Grindy experience and lack of sweep increase time cost.",
+    "q41": "Auto-battle bug; gacha characters lack story integration; pixel maps could be improved; very grindy."
+  },
+  {
+    "q0": 46847916,
+    "q41": "Requests landscape mode option."
+  },
+  {
+    "q0": 46845293,
+    "q41": "Very high HP numbers suggest potential balance issues; device overheats; locked female protagonist questioned."
+  },
+  {
+    "q0": 46847752,
+    "q3": "Battles are very long and feel sluggish.",
+    "q4": -1,
+    "q5": "Combat duration is excessively long.",
+    "q41": "Directional control uncomfortable; portrait orientation not preferred."
+  },
+  {
+    "q0": 46847370,
+    "q31": 1,
+    "q32": "Test resources felt generous and rates high (though off-banner).",
+    "q41": "Optimization issues (crashes, black screens, unresponsive nodes); urgently needs sweep due to auto-heavy gameplay."
+  },
+  {
+    "q0": 46847336,
+    "q41": "Requests in-game role comments; performance/overheating issues."
+  },
+  {
+    "q0": 46846781,
+    "q23": true,
+    "q24": "30-pull pity for SSR.",
+    "q25": 1,
+    "q26": "About 1000 diamonds for a ten-pull; relatively cheap compared to peers.",
+    "q41": "Fixed center joystick; chest interaction detection issues; one-click team misleads; story average; poor duplicate handling for maxed weapons."
+  },
+  {
+    "q0": 46846783,
+    "q41": "Cannot enter the game."
+  },
+  {
+    "q0": 46846433,
+    "q3": "Turn-based with long cooldown skills and buff stacking; can set up big single-skill bursts; weapons upgrade via duplicates; pets from gacha.",
+    "q4": 0,
+    "q5": "Mechanics are serviceable but not remarkable.",
+    "q6": "Skill cooldown management; buff stacking; four-person party with weapon/pet synergies; dupes for weapon upgrades.",
+    "q7": 0,
+    "q8": "Some timing and setup depth but constrained by linear systems.",
+    "q41": "Accidental mass-dismantle risk due to lack of lock; limited content; storyline skippable."
+  },
+  {
+    "q0": 46834733,
+    "q3": "Turn-based combat feels slow; lacks sweep and battle speed-up.",
+    "q4": -1,
+    "q5": "Fights take too long without 2x speed; repetitive farming without sweep.",
+    "q41": "Mini-map not useful (no zoom/position); performance a bit laggy."
+  },
+  {
+    "q0": 46846011,
+    "q41": "Great art, story, and music, but many bugs."
+  },
+  {
+    "q0": 46835912,
+    "q31": 1,
+    "q32": "Test welfare strong; small spend obtained most characters.",
+    "q41": "Poor info guidance (unclear buffs, item sources); minimal map utility; asset reuse; many bugs."
+  },
+  {
+    "q0": 46845864
+  },
+  {
+    "q0": 46844680,
+    "q41": "Progress/resources lost after a story update."
+  },
+  {
+    "q0": 46844325,
+    "q41": "Frozen at a point; cannot move."
+  },
+  {
+    "q0": 46844253,
+    "q41": "Fun but buggy; occasional crashes; needs optimization."
+  },
+  {
+    "q0": 46844185,
+    "q41": "Asks whether landscape mode is supported."
+  },
+  {
+    "q0": 46827387,
+    "q3": "Auto-pathing and auto-battle exist but feel mismatched with the game's style.",
+    "q4": 0,
+    "q5": "Overall okay, but automation hurts experience.",
+    "q41": "Annoying red-dot notifications; requests main story voice acting."
+  },
+  {
+    "q0": 46843571,
+    "q3": "Auto-battle sometimes only normal-attacks due to team preset bug; skill-queue system present but incomplete.",
+    "q4": -1,
+    "q5": "Combat hindered by bugs and missing skill descriptions.",
+    "q6": "Team preset system and skill rotation customization (buggy).",
+    "q7": -1,
+    "q8": "Potential depth undermined by bugs and lack of in-UI skill info.",
+    "q41": "Frequent crashes; team reuse requires manual reconfiguration; combat power fluctuates unexpectedly."
+  },
+  {
+    "q0": 46843562,
+    "q41": "Constant screen flickering causes eye strain; uninstalled."
+  },
+  {
+    "q0": 46843528,
+    "q31": 1,
+    "q32": "Rewards for high ratings and in-game bug compensation perceived as generous.",
+    "q41": "Incentivized positive reviews (gems for high ratings); some bugs but responsible ops."
+  },
+  {
+    "q0": 46825160,
+    "q15": "Town facilities like a bakery producing stamina bread daily and a blacksmith offering weekly weapon packs alongside routine dungeon farming.",
+    "q16": false,
+    "q19": 1,
+    "q20": "Town outputs provide stamina and weapons, aiding progression.",
+    "q29": -1,
+    "q30": "Mixed gacha pool and reliance on specific cores require many pulls; suggests monthly pass and UP pool improvements.",
+    "q41": "Requests lock features for items; sweeping after clears; co-op reward fairness; map markers; hero reset; detailed QoL proposals; concerns over mixed gacha and UP pool composition."
+  },
+  {
+    "q0": 46826556,
+    "q31": 2,
+    "q32": "Received 110 pulls as compensation during test; occasional extremely lucky ten-pulls.",
+    "q41": "Extended login outage; repeated crashes; requests sweep for solo dungeons; suspected shop listing bug; co-op support rewards sometimes missing."
+  },
+  {
+    "q0": 46842488
+  },
+  {
+    "q0": 46842449,
+    "q3": "Auto-pathing and auto-battle reduce exploration and combat engagement.",
+    "q4": -1,
+    "q5": "Automation diminishes player agency in exploration and fights.",
+    "q41": "Fixed joystick feels bad; no detailed map; frequent crashes."
+  },
+  {
+    "q0": 46842431,
+    "q41": "Severe lag in test; optimization issues; cannot move."
+  },
+  {
+    "q0": 46842305,
+    "q3": "Auto-pathing/battle remove core fun; core loop is tower/dungeon grind; gacha includes five-element plus light/dark with constellations via dupes.",
+    "q4": -1,
+    "q5": "Automation and half-finished state reduce combat enjoyment.",
+    "q9": -1,
+    "q10": "Daily income tied to tower progress increases pressure over story progression.",
+    "q29": -1,
+    "q30": "Mixed pools and duplicate requirements (e.g., 5 dupes) imply heavy long-term spend/grind.",
+    "q31": 2,
+    "q32": "Test welfare excellent (e.g., 200+80 free pulls).",
+    "q41": "Severe bug after crash prevents creating solo dungeons; feels like a half-finished product."
+  },
+  {
+    "q0": 46842085,
+    "q31": 1,
+    "q32": "Good mail rewards and solid art/mechanics during test.",
+    "q41": "Warns that predatory monetization would ruin the experience."
+  },
+  {
+    "q0": 46842049,
+    "q41": "Small update reduced shop resource availability unexpectedly."
+  },
+  {
+    "q0": 46841473,
+    "q41": "Gacha split into five-element and light/dark pools; pulls grant power more than characters."
+  },
+  {
+    "q0": 46841438,
+    "q41": "Questions lack of male protagonist option."
+  },
+  {
+    "q0": 46841203,
+    "q41": "Hard-to-pull monster provides very strong support when borrowed."
+  }
+]

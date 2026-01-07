@@ -1,0 +1,422 @@
+[
+  {
+    "q0": 26830309,
+    "q41": "Limited-eligibility test but open download; users only learn about qualification after installing."
+  },
+  {
+    "q0": 26830195,
+    "q3": "Turn-based tactical (SRPG) combat with ultimates; classes include caster/healer; ranged units have an 'aim' mode; enemies move between turns.",
+    "q4": -1,
+    "q5": "Combat feels weak: enemies too easy early, ult zoom shows jagged edges and repetitive backgrounds, ranged aiming consumes a turn and is ineffective.",
+    "q6": "Class roles (healer and mage both under caster), ranged 'aim' mode, enemy movement affecting targeting.",
+    "q7": -1,
+    "q8": "Role classification is confusing and ranged aiming underperforms, reducing meaningful tactical choices.",
+    "q11": -1,
+    "q12": "Ranged aim damage not obvious and healer/mage overlap causes role ambiguity.",
+    "q41": "Iconography inconsistent (realistic vs flat icons across UI), early difficulty too low, ult presentation degrades art quality; script references real-world place names; music on main menu praised."
+  },
+  {
+    "q0": 26830045,
+    "q4": 1,
+    "q5": "Battle animations and flow feel smooth and characters look great.",
+    "q9": -1,
+    "q10": "Perceived grind: separate systems requiring material farming and character duplicates.",
+    "q15": "Collection/archive loop: each artifact has detailed entries with origin and illustrations; players browse and read lore.",
+    "q23": false,
+    "q24": "Gacha banner lacks public details: no displayed probabilities or pity/guarantee; user requests disclosure.",
+    "q41": "Battle speed resets each fight; banner lacks rate and pity info; strong visuals and detailed artifact compendium."
+  },
+  {
+    "q0": 26830027,
+    "q3": "Grid-based turn-based tactics; characters use skills and ultimates.",
+    "q4": -1,
+    "q5": "Combat feel is odd and the SRPG format feels tiring; ult animation skip is hidden in settings.",
+    "q41": "Newbie guidance not smooth; map readability unclear; suggest in-battle skip for ult animations."
+  },
+  {
+    "q0": 26830016,
+    "q41": "No qualification to enter after download."
+  },
+  {
+    "q0": 26830004,
+    "q41": "Strong dissatisfaction with operations/marketing decisions."
+  },
+  {
+    "q0": 26829982,
+    "q37": -1,
+    "q38": "User worried about wasted mobile data due to inaccessible test.",
+    "q41": "Will revisit when accessible; concern about data usage."
+  },
+  {
+    "q0": 26829814,
+    "q41": "Downloaded but lacked test qualification."
+  },
+  {
+    "q0": 26829791,
+    "q9": 1,
+    "q10": "Cleared commonly cited hard stage (2-3) at level 15; felt a sense of achievement."
+  },
+  {
+    "q0": 26829772,
+    "q41": "No qualification."
+  },
+  {
+    "q0": 26829764
+  },
+  {
+    "q0": 26829755,
+    "q41": "Limited test understandable, but open pre-download without qualification; reports of third-party selling test access codes; user still likes the art."
+  },
+  {
+    "q0": 26829732,
+    "q41": "Entered only to be told no qualification; frustrating."
+  },
+  {
+    "q0": 26805136,
+    "q4": 0,
+    "q5": "Overall acceptable; requests ult animation skip and prefers non-chibi ult presentation.",
+    "q6": "Equipment system that grants an extra skill.",
+    "q7": 0,
+    "q8": "Basic gear/skill layer present but no standout depth noted yet.",
+    "q41": "Open download despite limited test; UI layout feels awkward; many CGs and strong artifact lore; appreciates character personalities."
+  },
+  {
+    "q0": 26829475,
+    "q41": "Accused of boosting downloads/visibility while access remains restricted."
+  },
+  {
+    "q0": 26829469,
+    "q37": -2,
+    "q38": "Large installation size (~1.9 GB) drew complaints."
+  },
+  {
+    "q0": 26829286,
+    "q39": -1,
+    "q40": "Loading screens and page transitions feel sluggish; various UI/UX issues (tiny fonts, busy visuals).",
+    "q41": "Gacha call/animation is cumbersome (long-press and extra animations); ult skip button small; story text advances too slowly; inconsistent character portrait sizes in story."
+  },
+  {
+    "q0": 26829215
+  },
+  {
+    "q0": 26829138,
+    "q4": 1,
+    "q5": "Gameplay is interesting so far; strong narrative, music, and character appeal.",
+    "q9": 1,
+    "q10": "No progression wall encountered; story and stages playable with starter resources.",
+    "q27": 2,
+    "q28": "Claims content is passable using free/obtained characters; no hard paywalls seen.",
+    "q31": 1,
+    "q32": "Free resources sufficient to progress early without hitting a paywall.",
+    "q41": "High praise for art, music, and historically grounded characterization with regional-accented voice acting."
+  },
+  {
+    "q0": 26829122
+  },
+  {
+    "q0": 26829027,
+    "q41": "Only after download/registration does the game reveal limited test qualification; seen as traffic bait."
+  },
+  {
+    "q0": 26828868
+  },
+  {
+    "q0": 26828757,
+    "q37": -1,
+    "q38": "Significant time/data spent before learning about qualification requirement.",
+    "q41": "Open download but entry requires test qualification; perceived as disrespectful of user time."
+  },
+  {
+    "q0": 26828116,
+    "q41": "Requires internal test qualification despite open download; perceived as download count bait."
+  },
+  {
+    "q0": 26828690,
+    "q41": "Subjectively high gacha hit rate; attractive character art though one set (Warring States bronze tableware) seems stylistically off; sign-in reward bug fixed quickly; notes imbalance in serving male/female player preferences."
+  },
+  {
+    "q0": 26828631,
+    "q41": "Open download yet blocked by test qualification after registration."
+  },
+  {
+    "q0": 26828505,
+    "q37": -1,
+    "q38": "Complains about wasted mobile data due to inaccessible test.",
+    "q41": "Frustration over data usage with no access."
+  },
+  {
+    "q0": 26828481,
+    "q37": -1,
+    "q38": "Around 1 GB download felt excessive to user for an inaccessible test."
+  },
+  {
+    "q0": 26828471,
+    "q37": -1,
+    "q38": "Users feel they wasted data due to open download with limited eligibility.",
+    "q41": "Limited test but unrestricted download."
+  },
+  {
+    "q0": 26828321,
+    "q41": "If no qualification, don’t allow download."
+  },
+  {
+    "q0": 26828293,
+    "q41": "Allowed to register and download, then blocked for lacking test qualification."
+  },
+  {
+    "q0": 26828253,
+    "q41": "Voice acting includes Cantonese/Guangdong-accented lines."
+  },
+  {
+    "q0": 26828223,
+    "q41": "Open download despite limited test; reports of scalpers selling access; long-time followers feel deceived but still like the art."
+  },
+  {
+    "q0": 26828155
+  },
+  {
+    "q0": 26828098,
+    "q41": "Questions why download is open without providing qualification."
+  },
+  {
+    "q0": 26828081,
+    "q41": "Calls out practice of open download for a two-day limited test; urges players not to tolerate such operations."
+  },
+  {
+    "q0": 26827871
+  },
+  {
+    "q0": 26827845,
+    "q41": "On hot list while limiting access; perceives intent to curate positive scores via limited testers."
+  },
+  {
+    "q0": 26827715
+  },
+  {
+    "q0": 26827639,
+    "q41": "Downloaded but lacked qualification."
+  },
+  {
+    "q0": 26827484
+  },
+  {
+    "q0": 26827297,
+    "q41": "Praises game and TapTap discovery; disappointed by lack of qualification."
+  },
+  {
+    "q0": 26827286,
+    "q3": "Traditional SRPG-style tactics combat.",
+    "q4": 0,
+    "q5": "Did not find standout mechanics yet but core tactical loop is serviceable.",
+    "q41": "Tutorial BGM doesn’t match the narrative tone; UI has comfortable ancient style."
+  },
+  {
+    "q0": 26827200
+  },
+  {
+    "q0": 26827185,
+    "q41": "No qualification; SMS verification is slow (3 minutes) and errors frequently."
+  },
+  {
+    "q0": 26827155,
+    "q41": "Downloaded only to be told no qualification."
+  },
+  {
+    "q0": 26827075,
+    "q41": "Open download but no access—‘downloaded for nothing’."
+  },
+  {
+    "q0": 26827059,
+    "q41": "Questions purpose of an internal limited test without user qualification."
+  },
+  {
+    "q0": 26826962,
+    "q41": "Limited test with pre-download angers users; strong language used against ops."
+  },
+  {
+    "q0": 26826917,
+    "q41": "Downloaded a long time then told no qualification."
+  },
+  {
+    "q0": 26826907,
+    "q41": "Open download while blocking non-qualified users; suggests preregistration gating would be more acceptable."
+  },
+  {
+    "q0": 26826850,
+    "q41": "Foreign players cannot register/play."
+  },
+  {
+    "q0": 26819905,
+    "q41": "Assumed download implied test access; it didn’t."
+  },
+  {
+    "q0": 26826714,
+    "q41": "Large download only to lack qualification; asks for clearer ‘limited test’ labeling."
+  },
+  {
+    "q0": 26826692,
+    "q41": "Even emulator users downloaded only to find no access."
+  },
+  {
+    "q0": 26826680
+  },
+  {
+    "q0": 26826679,
+    "q41": "Black screen issue reported."
+  },
+  {
+    "q0": 26826592,
+    "q37": -1,
+    "q38": "Data wasted due to inaccessible pre-download.",
+    "q41": "Open pre-download but game not playable; perceived as baiting interested users."
+  },
+  {
+    "q0": 26826522,
+    "q41": "Observed rating drop; attributes it to the open-download limited test controversy."
+  },
+  {
+    "q0": 26826513,
+    "q41": "Download completed then informed it’s not playable."
+  },
+  {
+    "q0": 26826503,
+    "q41": "Criticizes releasing a limited test client openly."
+  },
+  {
+    "q0": 26826485,
+    "q41": "Nearly downloaded; implies the open-download limited test is misleading."
+  },
+  {
+    "q0": 26826439,
+    "q41": "After downloading, told no qualification; questions theme consistency when ‘Foundation’ term appears in an ancient-themed game.",
+    "q37": -1,
+    "q38": "Complains about >1 GB data cost for inaccessible test."
+  },
+  {
+    "q0": 26826377,
+    "q41": "Questions purpose of open pre-download for a restricted test."
+  },
+  {
+    "q0": 26826284,
+    "q41": "Open pre-download yet entry requires qualification; users feel data/time wasted."
+  },
+  {
+    "q0": 26826241,
+    "q41": "Advises clearly labeling whitelist/limited tests and avoiding open-platform downloads for such tests."
+  },
+  {
+    "q0": 26826163,
+    "q37": -1,
+    "q38": "User reports wasted data due to inaccessible test."
+  },
+  {
+    "q0": 26826128,
+    "q41": "Praises art and voice acting; believes low ratings stem from access issues; requests an auto-battle feature."
+  },
+  {
+    "q0": 26826110
+  },
+  {
+    "q0": 26826028,
+    "q41": "Only after download does the game reveal limited test status; still featured on homepage."
+  },
+  {
+    "q0": 26825934
+  },
+  {
+    "q0": 26825880,
+    "q37": -1,
+    "q38": "Complains about wasted data due to unrestricted download for a limited test.",
+    "q41": "Says limited tests should also limit downloads, not just entry."
+  },
+  {
+    "q0": 26825867,
+    "q37": -1,
+    "q38": "Wasted data due to lack of access.",
+    "q41": "Frustration over data usage with no access."
+  },
+  {
+    "q0": 26825715,
+    "q41": "No qualification after download; angry response."
+  },
+  {
+    "q0": 26825482,
+    "q41": "Internal test should not be open for download; seen as fishing for download numbers and losing goodwill."
+  },
+  {
+    "q0": 26825462,
+    "q41": "Discovered it’s a limited test only after downloading; questions open availability."
+  },
+  {
+    "q0": 26825411,
+    "q41": "Finds the open-download limited test practice distasteful."
+  },
+  {
+    "q0": 26824796,
+    "q37": -1,
+    "q38": "Complains about data wasted due to no access.",
+    "q41": "Limited test but unlimited downloads; alleges boosted ranking from downloads."
+  },
+  {
+    "q0": 26825284,
+    "q41": "Open download yet no qualification; mentions scalper problem; feels like being toyed with."
+  },
+  {
+    "q0": 26825223,
+    "q37": -1,
+    "q38": "Data wasted by downloading an inaccessible test.",
+    "q41": "Limited test still allows download; user questions logic."
+  },
+  {
+    "q0": 26825176,
+    "q41": "Questionnaire-based selection but open download; leaves poor impression of operations."
+  },
+  {
+    "q0": 26825002
+  },
+  {
+    "q0": 26824983
+  },
+  {
+    "q0": 26824946,
+    "q41": "Doesn’t want to ‘contribute’ downloads when not qualified to test."
+  },
+  {
+    "q0": 26824870,
+    "q41": "Disappointed after download due to no access."
+  },
+  {
+    "q0": 26824826,
+    "q41": "Calls operations inexperienced; suggests replacing ops."
+  },
+  {
+    "q0": 26824690,
+    "q41": "Missed the window and now lacks qualification to play."
+  },
+  {
+    "q0": 26824661,
+    "q41": "Unlimited downloads for a limited test criticized."
+  },
+  {
+    "q0": 26824639,
+    "q37": -1,
+    "q38": "Complains about over 1 GB data wasted on an inaccessible client.",
+    "q41": "Accuses game of download-baiting; notes thematic mismatch with ‘Foundation’ naming in an ancient-themed title."
+  },
+  {
+    "q0": 26824633,
+    "q41": "Promoting widely without distributing adequate access codes criticized."
+  },
+  {
+    "q0": 26824582,
+    "q41": "Open download while requiring qualification labeled ‘foolish’ behavior by platform and developer."
+  },
+  {
+    "q0": 26824547,
+    "q41": "Requests clear ‘limited test’ labeling to avoid users downloading a client they can’t play."
+  },
+  {
+    "q0": 26824542,
+    "q41": "Open download despite being a limited test; user will re-rate after they can play."
+  }
+]

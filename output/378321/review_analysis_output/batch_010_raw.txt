@@ -1,0 +1,527 @@
+[
+  {
+    "q0": 38157916,
+    "q23": true,
+    "q24": "Approx. 3% SSR with pity at ~50 pulls; missing the featured four times stacks a big pity that guarantees the featured on the 5th pity."
+  },
+  {
+    "q0": 38157412,
+    "q1": true,
+    "q2": "Sexual/suggestive character art.",
+    "q31": 1,
+    "q32": "Reviewer says welfare is good."
+  },
+  {
+    "q0": 38156578,
+    "q1": true,
+    "q2": "Sexual/suggestive content; CN server heavily censored (costumes/skins toned down, animal ears removed).",
+    "q3": "Idle/auto card battler with battle and exploration; most non-key fights can be skipped; paid permanent card adds 10x battle speed.",
+    "q4": -1,
+    "q5": "Combat feels generic and slow even with 10x speed; mostly skipped.",
+    "q9": -2,
+    "q10": "Frequent roadblocks from low strength and scarce stamina/resources; self-select gacha rewards delayed to chapter 10/25/50.",
+    "q23": true,
+    "q24": "3% SSR; pity around 50; if you miss the featured four times, a big pity guarantees the featured on the fifth.",
+    "q29": -2,
+    "q30": "Very stingy freebies with constant pop-up paid packs; progress pushes you to buy (e.g., 4★→5★ upgrade choke points).",
+    "q31": -2,
+    "q32": "Daily 10-pull mostly blues; stamina claims expire; overall free resources are very tight.",
+    "q41": "Skins expensive and some cannot use vouchers; gear/relics use shard system (100 shards per item)."
+  },
+  {
+    "q0": 38156135,
+    "q1": true,
+    "q2": "Sexual/suggestive art with some censorship on CN server.",
+    "q41": "Gameplay is single-note and becomes boring later."
+  },
+  {
+    "q0": 38155795,
+    "q31": -2,
+    "q32": "Very stingy launch rewards/welfare.",
+    "q41": "Content is boring; feels like mass-produced low-effort game."
+  },
+  {
+    "q0": 38154444,
+    "q4": -1,
+    "q5": "Tutorial spams ult animations; pacing feels draggy.",
+    "q31": -2,
+    "q32": "Early rewards are meager (e.g., only ~20 pulls after long prologue)."
+  },
+  {
+    "q0": 38154385,
+    "q1": true,
+    "q2": "Large sexual/suggestive content.",
+    "q9": -2,
+    "q10": "F2P progress stalls after two days due to resource scarcity and slow power gain.",
+    "q27": -2,
+    "q28": "Reviewer says zero-spenders cannot really play; lack of stamina limits even grinding.",
+    "q29": -1,
+    "q30": "Requests giving F2P a path; current resource/stamina setup pressures spending.",
+    "q31": -2,
+    "q32": "Resources are hard to get; stamina too limited."
+  },
+  {
+    "q0": 38152885,
+    "q31": 1,
+    "q32": "Reviewer states there are many benefits/rewards."
+  },
+  {
+    "q0": 38151713,
+    "q6": "Bonds, team composition, star-up, badges, gallery, skins; many monetization entry points.",
+    "q23": true,
+    "q24": "SSR pity around 50 per 10-pulls; off-banner is common; featured not guaranteed until big pity.",
+    "q29": -1,
+    "q30": "To raise power quickly you must pay; many spend entry points; F2P advised to be casual.",
+    "q41": "Noted battery drain; mixed gacha luck."
+  },
+  {
+    "q0": 38151600,
+    "q41": "Guest account cannot bind phone number; binding errors frustrate onboarding."
+  },
+  {
+    "q0": 38151572,
+    "q1": true,
+    "q2": "Foreign server has sexual content; CN server censored.",
+    "q3": "Old idle/AFK card RPG similar to 神仙道/闪烁之光.",
+    "q9": -2,
+    "q10": "Daily routine of clearing stamina then hitting walls on power, gold, and resources.",
+    "q29": -2,
+    "q30": "Described as pay-for-power and pushy monetization."
+  },
+  {
+    "q0": 38150974,
+    "q41": "Gacha screen buttons unresponsive; cannot enter summon or daily 10-pull."
+  },
+  {
+    "q0": 38150380,
+    "q13": -1,
+    "q14": "Reviewer says only SSRs matter; others are filler.",
+    "q29": -1,
+    "q30": "Non-stop prompts to pay though F2P experience is possible."
+  },
+  {
+    "q0": 38148509,
+    "q1": true,
+    "q2": "16+ sexualized content; CN server censored compared to other regions.",
+    "q9": -2,
+    "q10": "Without spending many stages are unbeatable; tiny incremental power with scarce resources.",
+    "q23": true,
+    "q24": "Typically 4 small pities before a featured; 12 copies required to max a unit; frequent rotating banners.",
+    "q29": -2,
+    "q30": "Keeping up requires heavy spending due to duplicate needs and banner churn.",
+    "q31": -2,
+    "q32": "Resources look decent on paper but are far from enough in practice."
+  },
+  {
+    "q0": 38148366,
+    "q29": -1,
+    "q30": "Emails include spend-discount coupons; activities gated by level.",
+    "q41": "Heavy censorship of art; new event required level 55 while many active players were 52."
+  },
+  {
+    "q0": 38148119,
+    "q29": -2,
+    "q30": "Reviewer says the game is uncomfortable without very high spending and is not worth choosing even if you can spend."
+  },
+  {
+    "q0": 38147766,
+    "q4": -2,
+    "q5": "Overlong, unskippable tutorial; repeated skill animations make battles take minutes per stage."
+  },
+  {
+    "q0": 38147558,
+    "q41": "New event requires level 55 to enter; early players likely cannot participate."
+  },
+  {
+    "q0": 38147529,
+    "q41": "Start-of-service 'rewards' were just recharge discount coupons; publisher reputation caused immediate uninstall."
+  },
+  {
+    "q0": 38147468
+  },
+  {
+    "q0": 38147309,
+    "q41": "Event participation locked at level ≥55 shortly after launch."
+  },
+  {
+    "q0": 38130539,
+    "q4": -1,
+    "q5": "Battles are very boring; compounded by messy UI and poor gacha/art/story.",
+    "q41": "UI is cluttered; rewards confusing; story feels cliché."
+  },
+  {
+    "q0": 38146505,
+    "q29": -2,
+    "q30": "Perceived as serving whales and cash-grabbing.",
+    "q31": -2,
+    "q32": "Very few ten-pulls available early; came for art but summons are scarce."
+  },
+  {
+    "q0": 38145709,
+    "q29": -2,
+    "q30": "Feels like another reskin where paying drives power; many monetization cues; suspicion of paid shills.",
+    "q41": "Skins are underwhelming; fear of cash-grab then shutdown."
+  },
+  {
+    "q0": 38143647,
+    "q4": -2,
+    "q5": "Unskippable, overlong tutorial plus very poor touch responsiveness (guide taps often not registering).",
+    "q41": "New player onboarding UX is frustrating."
+  },
+  {
+    "q0": 38143607,
+    "q1": true,
+    "q2": "Censored lewd art relied on to attract players.",
+    "q31": -2,
+    "q32": "Even gifted ten-pull is gated behind clearing chapter 7."
+  },
+  {
+    "q0": 38142846,
+    "q41": "Action points/stamina are insufficient despite appealing art and chibi battle presentation."
+  },
+  {
+    "q0": 38141872,
+    "q41": "Trailer used 3D models but in-game is not, perceived as deceptive marketing."
+  },
+  {
+    "q0": 38141097,
+    "q9": -2,
+    "q10": "After initial spike, progress stalls hard unless heavy spending; minimal daily power gains without big spend.",
+    "q23": true,
+    "q24": "Pity around 50; miss featured four times then big pity guarantees featured (effectively ~250 pulls if unlucky); 12 copies to 7★.",
+    "q29": -2,
+    "q30": "Game quickly becomes paywall-heavy; whales dominate power rankings.",
+    "q41": "Looks generous up front but falls into the typical rolling-server grind."
+  },
+  {
+    "q0": 38140749,
+    "q31": -2,
+    "q32": "Resources perceived as trash; unclear, misleading costume voucher value (only 50 at half price).",
+    "q41": "Broad dissatisfaction with growth, gacha, audiovisuals, and operations."
+  },
+  {
+    "q0": 38140617,
+    "q9": -1,
+    "q10": "Very low stamina cap limits play time and progress.",
+    "q41": "Stamina feels insufficient."
+  },
+  {
+    "q0": 38139787,
+    "q31": -2,
+    "q32": "No meaningful early welfare; after 4 chapters still not enough for a single ten-pull."
+  },
+  {
+    "q0": 38139288,
+    "q23": true,
+    "q24": "Small pity ~50; big pity ~250; featured rate around 40% leading to frequent off-banner.",
+    "q41": "Extremely poor gacha experience even with microspend; still 0 constellation."
+  },
+  {
+    "q0": 38139276,
+    "q23": true,
+    "q24": "Pool often goes off-banner; after four misses, big pity ensures the featured.",
+    "q31": -2,
+    "q32": "Very little resource income."
+  },
+  {
+    "q0": 38139242,
+    "q41": "After two days felt mediocre; suggests international server might be more promising."
+  },
+  {
+    "q0": 38138618,
+    "q41": "Heavy spender reports many bugs, no customer support, and no compensation."
+  },
+  {
+    "q0": 38137924,
+    "q29": -2,
+    "q30": "Large gap in strength between paying users and F2P."
+  },
+  {
+    "q0": 38137916,
+    "q9": 1,
+    "q10": "Fast early growth with direct mainline pushes to high power.",
+    "q31": 1,
+    "q32": "Daily free 10-pull and a lot of early resources; saw an SSR within a few days."
+  },
+  {
+    "q0": 38137899,
+    "q41": "Game is boring and extremely grindy; luck was acceptable."
+  },
+  {
+    "q0": 38135750,
+    "q13": 1,
+    "q14": "SR units can perform well and are easier to build; not necessary to field all SSRs.",
+    "q11": 0,
+    "q12": "SSR includes weak units while SR can be strong, suggesting mixed balance."
+  },
+  {
+    "q0": 38135367,
+    "q9": -1,
+    "q10": "At level 48, two days of resources cannot raise six characters even one level."
+  },
+  {
+    "q0": 38135094,
+    "q3": "Power-check auto-battler where victories depend largely on total team power.",
+    "q31": -2,
+    "q32": "Reviewer says there are effectively no free resources.",
+    "q9": -1,
+    "q10": "Progress tied to collecting gallery and raw power numbers."
+  },
+  {
+    "q0": 38134213,
+    "q41": "Newbie event is very grindy on a daily basis."
+  },
+  {
+    "q0": 38134093,
+    "q41": "UP banner feels fake/off-banner; >100 pulls produced only one featured; visuals are the only highlight."
+  },
+  {
+    "q0": 38133931,
+    "q41": "Monetization feels like 'installment payments' for copies/stars; uninstalled despite good visuals."
+  },
+  {
+    "q0": 38133044,
+    "q29": -1,
+    "q30": "Requires some spending or heavy grind; casual play recommended without comparing to whales."
+  },
+  {
+    "q0": 38132960,
+    "q41": "Praises character art and fitting voice acting; aims to collect all voice lines."
+  },
+  {
+    "q0": 38131466,
+    "q41": "Phone binding lacks verification code; cannot bind."
+  },
+  {
+    "q0": 38130354,
+    "q9": -1,
+    "q10": "Fun may last about a week; little reason to continue afterward."
+  },
+  {
+    "q0": 38129736,
+    "q1": true,
+    "q2": "CN server art is censored compared to other regions.",
+    "q31": -1,
+    "q32": "Few stable sources of premium currency; self-select 10-pull delayed to chapter 50.",
+    "q9": -1,
+    "q10": "Small player base makes it feel single-player; longevity is poor."
+  },
+  {
+    "q0": 38128879,
+    "q29": -2,
+    "q30": "Aggressive push to recharge with many discount coupons; stamina refills require RMB.",
+    "q31": -2,
+    "q32": "Stamina given is low; SSR rate criticized as very poor."
+  },
+  {
+    "q0": 38128825,
+    "q9": -1,
+    "q10": "Overwhelming amount of upgrade materials leads to heavy grind; feels like work."
+  },
+  {
+    "q0": 38128509,
+    "q39": -2,
+    "q40": "Download/update screen hangs and takes a long time without loading."
+  },
+  {
+    "q0": 38128250,
+    "q31": -1,
+    "q32": "Self-select 10-pulls are delayed (e.g., start at ch.10 but claims at 25); early welfare feels low.",
+    "q9": -1,
+    "q10": "Perceived artificial time extension by gating rewards deep into chapters."
+  },
+  {
+    "q0": 38127936,
+    "q41": "Reviewer says every pull hits pity; vents at paying users."
+  },
+  {
+    "q0": 38127734,
+    "q31": 1,
+    "q32": "Benefits are okay but require clearing stages to claim; suitable as a side game."
+  },
+  {
+    "q0": 38127669,
+    "q31": -2,
+    "q32": "Reservation and 'free 100 pulls' are heavily gated behind early chapter clears and tasks.",
+    "q9": -1,
+    "q10": "Gating early rewards to ch.5/ch.7 led to immediate drop-off."
+  },
+  {
+    "q0": 38127605,
+    "q41": "Recharge rebate not delivered from test to release; constant pop-up gift packs."
+  },
+  {
+    "q0": 38127242,
+    "q3": "Very traditional gacha/idle gameplay from years ago.",
+    "q4": -1,
+    "q5": "Feels dated and basic despite decent art."
+  },
+  {
+    "q0": 38127068
+  },
+  {
+    "q0": 38125875,
+    "q41": "Finds the art cute and mood-lifting."
+  },
+  {
+    "q0": 38125752,
+    "q3": "Idle/AFK number-driven combat loop with clear upgrade paths.",
+    "q4": 1,
+    "q5": "As a side game it feels comfortable to play with clear ways to raise power.",
+    "q41": "Highly praises animation and voice acting quality."
+  },
+  {
+    "q0": 38125725,
+    "q41": "Lucky early pull (SSR before pity)."
+  },
+  {
+    "q0": 38125698,
+    "q4": -1,
+    "q5": "Frequent roadblocks in chapters make combat feel frustrating; asks for mechanics tuning."
+  },
+  {
+    "q0": 38125606,
+    "q41": "Questions the seriousness of the gameplay and modeling quality."
+  },
+  {
+    "q0": 38125530,
+    "q1": true,
+    "q2": "Censored characters and low SSR rates.",
+    "q29": -2,
+    "q30": "Perceived pay-to-win with messy, tedious progression."
+  },
+  {
+    "q0": 38125495,
+    "q41": "General distrust of the publisher based on past titles; expects poor experience."
+  },
+  {
+    "q0": 38125076,
+    "q23": true,
+    "q24": "SSR pity every ~50 pulls; big pity after five pities.",
+    "q31": -2,
+    "q32": "Very hard to play F2P; resource gain is low.",
+    "q9": -1,
+    "q10": "Few meaningful upgrades without spending."
+  },
+  {
+    "q0": 38124818,
+    "q1": true,
+    "q2": "Censorship of lewd content; wishes for optional uncensor like other games.",
+    "q41": "Stamina is a bit low."
+  },
+  {
+    "q0": 38124715,
+    "q41": "Overwhelming red-dot notifications; skip locked behind level; many traps; weaker than peer title."
+  },
+  {
+    "q0": 38121462
+  },
+  {
+    "q0": 37888274,
+    "q1": true,
+    "q2": "Sexualized art; CN server censored, chibi battle sprites not censored.",
+    "q3": "Idle/auto combat; auto and sweep unlock only after progressing (or paying).",
+    "q4": -1,
+    "q5": "Gameplay is tedious and 'jail-like' despite auto; many stages to grind.",
+    "q9": -1,
+    "q10": "Hits power wall versus whales; limited time/interest to continue.",
+    "q29": -1,
+    "q30": "Emails include recharge discount coupons; some 'free' rewards require spending to unlock; monetization feels pushy.",
+    "q31": 0,
+    "q32": "Daily 10-pull for ~21 days, but some bonuses are locked behind spending."
+  },
+  {
+    "q0": 38120024
+  },
+  {
+    "q0": 38119942
+  },
+  {
+    "q0": 38119748,
+    "q41": "Stuck on login screen; cannot enter the game."
+  },
+  {
+    "q0": 38118329,
+    "q1": true,
+    "q2": "Edgy sexualized 'otaku-bait' presentation.",
+    "q3": "Number-driven stage-clearing with heavy monetization.",
+    "q4": -2,
+    "q5": "Half-hour forced tutorial with unskippable battles; confusing plot and combat.",
+    "q29": -1,
+    "q30": "Perceived as a reskinned pay-to-win number game."
+  },
+  {
+    "q0": 38118261,
+    "q27": 1,
+    "q28": "States F2P can play, mainly as a single-player experience; PvP top rewards are negligible.",
+    "q41": "Gacha often goes off-banner."
+  },
+  {
+    "q0": 38117385
+  },
+  {
+    "q0": 38116892,
+    "q31": -2,
+    "q32": "Coins scarce; shop rewards poor; daily 10-pull has no pity; diamonds hard to earn; event rewards small.",
+    "q9": -2,
+    "q10": "UP banners often miss; pushing to chapter 50 for third SSR is tough without spending."
+  },
+  {
+    "q0": 38116671,
+    "q41": "Reports very high drop rate."
+  },
+  {
+    "q0": 38115606,
+    "q9": -1,
+    "q10": "Early difficulty spike (stuck on chapter 3 with starter team)."
+  },
+  {
+    "q0": 38115443,
+    "q41": "TapTap redeem codes not working in-game."
+  },
+  {
+    "q0": 38115387,
+    "q41": "Anti-reroll measures: one guest per device; gift codes restricted to a single server; notes banners are easy to off-banner."
+  },
+  {
+    "q0": 38115256,
+    "q1": true,
+    "q2": "Lewd art focus.",
+    "q31": -1,
+    "q32": "Self-select 10-pull requires clearing chapter 7; early given units considered weak.",
+    "q41": "Perceived as generic reskin; uninstalled."
+  },
+  {
+    "q0": 38115162,
+    "q31": -1,
+    "q32": "Daily 10-pull is a separate, weaker pool; self-select rolls tied to mainline clears.",
+    "q9": -2,
+    "q10": "End-of-chapter difficulty spikes and level caps force days of waiting."
+  },
+  {
+    "q0": 38114361,
+    "q41": "Pulled Audrey in 30 pulls; very lucky start."
+  },
+  {
+    "q0": 38114293,
+    "q1": true,
+    "q2": "Suggestive 'healing' interaction targeting sensitive points; overall lewd tone.",
+    "q4": -1,
+    "q5": "Repetitive victory voice lines and paid 10x speed hurt combat feel.",
+    "q29": -1,
+    "q30": "Charging for 10x battle speed; welfare underwhelming.",
+    "q31": -1,
+    "q32": "Daily 10-pull is a separate pool; self-select bound to mainline progress."
+  },
+  {
+    "q0": 38082953,
+    "q4": -1,
+    "q5": "Feels like a webgame; wants all skips enabled and auto-sweep available."
+  },
+  {
+    "q0": 38112863,
+    "q3": "Old Q-style chibi battles where power equals outcome.",
+    "q29": -2,
+    "q30": "All payments directly convert to power; very aggressive gift-pack promotion."
+  }
+]

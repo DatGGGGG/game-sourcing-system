@@ -1,0 +1,526 @@
+[
+  {
+    "q0": 46466077,
+    "q21": 2,
+    "q22": "States the game adds content very fast: roughly 3 characters with signature weapons plus 1 item and 1 pet per month, with newer releases powercreeping older ones.",
+    "q27": -2,
+    "q28": "Says all activities serve PvP and spending; low-/non-spenders exist to be farmed by heavy spenders.",
+    "q29": -2,
+    "q30": "Describes it as a pay-to-win rolling-server game; PvP success heavily determined by spending.",
+    "q11": -2,
+    "q12": "Frequent powercreep across characters, weapons, and pets; lacking new releases means you lose to similar setups that have them.",
+    "q41": "Rolling servers, rapid stat inflation/powercreep; highly PvP-centric design."
+  },
+  {
+    "q0": 46461531,
+    "q41": "Account recovery concern: user asking if the account can be retrieved."
+  },
+  {
+    "q0": 45231977,
+    "q41": "Server refresh at 12:00 interrupts dailies; combat power display feels inaccurate (lower power beating higher); bug after activity daily challenge causing infinite loading and features appearing locked afterward."
+  },
+  {
+    "q0": 46456690,
+    "q31": -2,
+    "q32": "New players lack resources and only feel good later; artifact drop rates are very low.",
+    "q9": -1,
+    "q10": "Early experience feels bad due to low resources; enjoyable only much later."
+  },
+  {
+    "q0": 46454873,
+    "q23": true,
+    "q24": "Mentions pity: soft pity at 60 pulls and hard pity at 120 pulls.",
+    "q31": 1,
+    "q32": "Notes that resources for newcomers are okay."
+  },
+  {
+    "q0": 46454415,
+    "q23": true,
+    "q24": "Character banner has a pity around 60 per copy but can lose the 50/50 to off-banner SSRs; sustained off-banner results make maxing a limited unit difficult.",
+    "q41": "Very poor gacha outcome despite 50k diamonds and ~300 pulls; repeated off-banner at pity."
+  },
+  {
+    "q0": 46410582
+  },
+  {
+    "q0": 46446360,
+    "q1": true,
+    "q2": "Sexualized character outfits/skins discussed (amount of clothing).",
+    "q25": -2,
+    "q26": "Claims past banners guaranteed UR within ~40–50 pulls but now 20k vouchers could not get a single UR; asks to revert gacha system.",
+    "q41": "No returnee gift; complaints about changes from earlier rules and models."
+  },
+  {
+    "q0": 46430491,
+    "q41": "Critiques Youzu for rolling servers, constellation/shard systems, stat inflation, and suspected paid 5-star reviews."
+  },
+  {
+    "q0": 46408013,
+    "q41": "Account trading intent (wants to buy an account)."
+  },
+  {
+    "q0": 46383546
+  },
+  {
+    "q0": 46370278,
+    "q11": -2,
+    "q12": "Reports 150k power all-SSR team losing to a 5k team with mixed SR/SSR, indicating severe balance issues or broken power calculations.",
+    "q41": "Perceived combat power/stat discrepancy."
+  },
+  {
+    "q0": 46360306,
+    "q31": -1,
+    "q32": "Main story gives fewer premium currency rewards as you progress; issues with first recharge double and event character not delivered.",
+    "q41": "First recharge double missing; event reward showed claimed but character not unlocked."
+  },
+  {
+    "q0": 46363961,
+    "q41": "Long, forced tutorial prevents accessing settings; ultimate animations are ugly and mismatch the portrait art, causing style dissonance."
+  },
+  {
+    "q0": 46342520,
+    "q41": "Costume voucher cannot be exchanged."
+  },
+  {
+    "q0": 46351872,
+    "q31": 1,
+    "q32": "Says resources are okay; suggests sending more and gifting skins.",
+    "q41": "Play is a bit single/monotonous; requests more free skins despite liking the models."
+  },
+  {
+    "q0": 46338776,
+    "q9": -1,
+    "q10": "Less grindy before level 40; becomes grindy afterwards for various upgrade materials."
+  },
+  {
+    "q0": 46122541,
+    "q3": "Turn-based idle/auto combat where overall battle power dominates outcomes.",
+    "q4": -1,
+    "q5": "Says modes are numerous but boring and designed around power checks, not engaging combat.",
+    "q6": "Cross-server PvP/events (e.g., Dead Sea, Outpost Action), many parallel growth tracks (characters, weapons, gear, pets, witches, assistants, relics, furniture).",
+    "q7": -2,
+    "q8": "Describes gameplay as a power race; other modes feel superficial and designed only to raise power.",
+    "q9": -2,
+    "q10": "Severe level gates and slow midgame progression (e.g., a week to clear a few chapters); many grindy upgrade systems.",
+    "q23": true,
+    "q24": "Weapon UP banner lacks a hard pity; Origin Beast (80-pull) also lacks hard pity; frequent off-banners; character banners have pity but inconsistent outcomes.",
+    "q25": -2,
+    "q26": "Poor value propositions (e.g., 648 CNY for 6480 gems) and frequent monetization prompts; feels overpriced.",
+    "q27": -2,
+    "q28": "Cross-server events pit new servers against older, much stronger players; non-spenders cannot compete.",
+    "q29": -2,
+    "q30": "Daily pop-up bundles and incentives; resource nerfs/backstab; heavy emphasis on spending for competitiveness.",
+    "q31": -2,
+    "q32": "Reports a ‘backstab’ update reducing early rewards/sign-ins; older players receive fewer free URs and changed rewards without proper compensation.",
+    "q41": "Resource/reward changes disadvantaging early players; unhelpful customer support; no hard pity on certain banners; frequent off-banners; cross-server matchmaking issues."
+  },
+  {
+    "q0": 46329118,
+    "q31": -1,
+    "q32": "Some resource avenues are scarce; requests more diamond-earning events; desired shop item (Hela) not available despite grinding."
+  },
+  {
+    "q0": 46318911,
+    "q41": "First recharge double not fully delivered (missing 60 premium currency)."
+  },
+  {
+    "q0": 46317493,
+    "q41": "Requests Chinese voice so players can understand character lines."
+  },
+  {
+    "q0": 46296551,
+    "q1": true,
+    "q2": "Sexualized/erotic appeal (XP) noted; 16+ age mention."
+  },
+  {
+    "q0": 46293159,
+    "q41": "Gacha bug: pulled an SSR resonator that is invisible/not shown."
+  },
+  {
+    "q0": 46290784,
+    "q29": -2,
+    "q30": "Mentions many systems require money; early fun only after getting a UR via spending; feels trapped by monetization.",
+    "q41": "Low playability and heavy stat-driven progression; seeking advice due to sunk cost."
+  },
+  {
+    "q0": 46284779,
+    "q11": -2,
+    "q12": "Whales dominate; reported 1.25B power losing to 50M power; SSR becomes obsolete compared to UR/paid advantages.",
+    "q9": -1,
+    "q10": "Later stages lack story and become pure dailies and saving for new gachas.",
+    "q27": -2,
+    "q28": "States F2P should not play unless only for art; PvP and progress favor spenders.",
+    "q29": -2,
+    "q30": "Emphasizes that spending determines success; continues only for collecting characters."
+  },
+  {
+    "q0": 46271527,
+    "q23": true,
+    "q24": "Pity can still yield off-banner results; lacks strong guarantee on some banners.",
+    "q25": -2,
+    "q26": "Poor recharge value (e.g., 648 CNY for limited goods) and low perceived returns; events yield limited diamonds.",
+    "q41": "Time-wasting modes and UI friction; skins fail to trigger purchase desire and become available via vouchers post-event."
+  },
+  {
+    "q0": 46241967,
+    "q41": "Some character body proportions are seriously off; asks for adjustments."
+  },
+  {
+    "q0": 46232807,
+    "q21": 2,
+    "q22": "Very frequent new character releases (about every two weeks, sometimes two in one week).",
+    "q27": -1,
+    "q28": "Casual play is fine, but PvP and strong performance require significant spending; heavy level gates to unlock content.",
+    "q9": -2,
+    "q10": "Severe level gating after level 50 (4–5 days per level); need ~70 to unlock all content.",
+    "q31": 1,
+    "q32": "Player reports plenty of welfare; monthly card helps secure new characters."
+  },
+  {
+    "q0": 46229094,
+    "q41": "UP banner pity counter not showing after 46 pulls without SSR/UR."
+  },
+  {
+    "q0": 46226683,
+    "q41": "Requests more one-tap claim options; manual reward collection is tedious."
+  },
+  {
+    "q0": 46224494,
+    "q41": "Technical issue with the game display/install despite trying multiple apps."
+  },
+  {
+    "q0": 46223762,
+    "q23": true,
+    "q24": "Mentions a soft pity/50-50 system (often losing rate-up at soft pity).",
+    "q31": 1,
+    "q32": "Says resources are obtainable if you grind events; generally can gather resources by playing regularly.",
+    "q41": "Frequent off-banner results cause frustration."
+  },
+  {
+    "q0": 46218217,
+    "q31": -1,
+    "q32": "Older servers’ first recharge still gives an old SSR while new servers get UR, creating welfare disparity.",
+    "q41": "Inconsistent first recharge rewards between servers."
+  },
+  {
+    "q0": 46186543,
+    "q11": -2,
+    "q12": "Reports high power losing to low power, suggesting balance/stat issues.",
+    "q29": -2,
+    "q30": "Describes the game as a pit with low drop rates and pay pressure."
+  },
+  {
+    "q0": 46184082,
+    "q31": 1,
+    "q32": "Says welfare is okay, but personal gacha luck is bad."
+  },
+  {
+    "q0": 46176496,
+    "q41": "Did not receive the promised compensation/character (e.g., Jiubingwei) in mail."
+  },
+  {
+    "q0": 46180477,
+    "q31": -2,
+    "q32": "Only one pull per main story chapter makes accumulation very slow.",
+    "q27": -2,
+    "q28": "Warns zero/micro spenders not to play; poor progression without spending.",
+    "q29": -2,
+    "q30": "Feels greedy and not playable without spending even after a small top-up."
+  },
+  {
+    "q0": 46176350
+  },
+  {
+    "q0": 46174367,
+    "q7": -2,
+    "q8": "Says if you want strategy this is not the game; implies low strategic depth.",
+    "q41": "Poor service attitude toward players."
+  },
+  {
+    "q0": 46168516,
+    "q3": "Turn-based combat with auto-battle option.",
+    "q4": 1,
+    "q5": "Good experience; auto-battle doesn’t frustrate; overall positive early gameplay.",
+    "q31": 1,
+    "q32": "Early on, received a UR within a couple of hours; resources feel sufficient except for stamina during long sessions."
+  },
+  {
+    "q0": 46074010,
+    "q31": -2,
+    "q32": "Very stingy: one main story chapter gives only one pull; rewards/sign-ins were nerfed, with little compensation.",
+    "q29": -2,
+    "q30": "Accuses the game of forcing spending; registers even provide recharge coupons to push top-ups.",
+    "q9": -2,
+    "q10": "Non-spenders must grind heavily; leveling slows sharply later."
+  },
+  {
+    "q0": 46122882,
+    "q31": -1,
+    "q32": "Backstabbed by changed new player rewards: earlier SSR+weapon vs. now new players get UR, harming older players’ experience.",
+    "q41": "Requests compensation for welfare changes that favor newer players."
+  },
+  {
+    "q0": 46158287
+  },
+  {
+    "q0": 46154162,
+    "q9": -2,
+    "q10": "Early progression heavily gated and incentivizes spending; self-select pulls delayed until chapter 7 with little utility.",
+    "q29": -2,
+    "q30": "Immediate recharge prompts and tough early gates; high stat checks in early chapters.",
+    "q31": -1,
+    "q32": "Compares unfavorably to genre norms offering more generous new player pulls."
+  },
+  {
+    "q0": 46147554,
+    "q1": true,
+    "q2": "Some characters have minimal clothing; sexualized presentation noted.",
+    "q3": "Turn-based gameplay is acceptable per user impression."
+  },
+  {
+    "q0": 46146191,
+    "q31": -2,
+    "q32": "Very little welfare; self-select 10-pull is withheld until later progression.",
+    "q9": -1,
+    "q10": "Progression gate to claim a basic self-select 10-pull; UI feels basic.",
+    "q41": "UI is simple; feels like a reskinned game."
+  },
+  {
+    "q0": 46145788,
+    "q27": -2,
+    "q28": "Event mini-games and boss fights scale off battle power, making them unfriendly to F2P/low power players.",
+    "q41": "Event (e.g., Sand Sea) balance issues: opponents start with higher power; mini-game rewards tied to power gaps."
+  },
+  {
+    "q0": 46125046,
+    "q31": 2,
+    "q32": "Claims generous new player benefits: free UR at start and 50 pulls with guaranteed SSR each pull; daily login and advice from ops."
+  },
+  {
+    "q0": 46135207,
+    "q11": -2,
+    "q12": "Reports power discrepancies (e.g., 700k losing to 500k) influenced by UR strength and skins; suggests stat inflation or hidden modifiers.",
+    "q41": "Very low UR pull rate; many Rs/SRs; distrust in UR pool."
+  },
+  {
+    "q0": 46137668,
+    "q41": "Rewards flagged as claimed but not actually received (old SSR and newer replacement both missing)."
+  },
+  {
+    "q0": 46132263,
+    "q29": -1,
+    "q30": "Too many top-up entry points visible throughout the game.",
+    "q41": "Average gacha results in early days; one SSR was from a gift."
+  },
+  {
+    "q0": 46131531,
+    "q9": -2,
+    "q10": "Main story is blocked by level requirements, effectively forcing leveling before progression.",
+    "q29": -2,
+    "q30": "Perceives level-gating primarily as a monetization tactic."
+  },
+  {
+    "q0": 46130394,
+    "q41": "Asks to restore earlier welfare for old players."
+  },
+  {
+    "q0": 46122218,
+    "q41": "Post-update crashes and missing resources (50+ pulls disappeared after logging in)."
+  },
+  {
+    "q0": 46104906,
+    "q41": "Very frequent hard pity hits and off-banners; rarely gets early rate-up."
+  },
+  {
+    "q0": 46104782,
+    "q9": -1,
+    "q10": "Early game feels grindy."
+  },
+  {
+    "q0": 41597776,
+    "q41": "Missing account concern (“Where is my account?”)."
+  },
+  {
+    "q0": 46090156,
+    "q31": 1,
+    "q32": "States good welfare alongside distinct character designs and strong story."
+  },
+  {
+    "q0": 46075892,
+    "q31": -1,
+    "q32": "Very slow accumulation: ~200–300 diamonds/day; ~15k diamonds in a year yielded only 2 URs.",
+    "q29": -1,
+    "q30": "Says maxing units is impossible without spending."
+  },
+  {
+    "q0": 38533843,
+    "q41": "Returnee self-select weapon gacha bug: cannot select after an update; unfixed for days."
+  },
+  {
+    "q0": 46070461,
+    "q1": true,
+    "q2": "Explicitly not 12+; highly sexualized models and skins."
+  },
+  {
+    "q0": 46063249,
+    "q41": "Asks where to change skins despite reporting high rates."
+  },
+  {
+    "q0": 46061389,
+    "q3": "2D turn-based combat.",
+    "q4": 1,
+    "q5": "Despite not liking 2D turn-based normally, finds this one somewhat interesting."
+  },
+  {
+    "q0": 46058628
+  },
+  {
+    "q0": 46058589,
+    "q11": -1,
+    "q12": "SSR units feel useless relative to higher-rarity; poor balance impression.",
+    "q31": -1,
+    "q32": "Did not feel the welfare was good and pulling was not enjoyable."
+  },
+  {
+    "q0": 46042285,
+    "q31": 1,
+    "q32": "Can obtain many SSRs and a free UR at level 25; perceived as generous."
+  },
+  {
+    "q0": 46040375,
+    "q9": -1,
+    "q10": "Heavy level gating and monotony later; more enjoyable only after significant progression.",
+    "q31": 1,
+    "q32": "Welfare is generally okay for those willing to grind.",
+    "q13": -1,
+    "q14": "Early content can be cleared with SRs, but later the gameplay becomes very single-track with limited variety."
+  },
+  {
+    "q0": 46038066,
+    "q23": false,
+    "q25": -2,
+    "q26": "Says there is no pity across banners and heavy monetization everywhere; daily 10-pull lacks pity and self-select 10-pull is locked behind level 30.",
+    "q29": -2,
+    "q30": "Claims the game constantly pushes spending and locks basic gacha behind progression.",
+    "q41": "Energy/stamina system in 2025; AI-like card art with awkward poses; cannot view compendium; feels like blind-box gambling."
+  },
+  {
+    "q0": 46036952,
+    "q41": "Player burnout."
+  },
+  {
+    "q0": 46035749,
+    "q1": true,
+    "q2": "Sexualized presentation (butt-focused camera, breast jiggle).",
+    "q31": 2,
+    "q32": "Reports daily 10-pull plus a self-select 10-pull; frequent welfare and accessible diamonds leading to multiple URs in a few days."
+  },
+  {
+    "q0": 46025960,
+    "q27": -2,
+    "q28": "As a zero-spender, nearly could not clear content; very poor experience.",
+    "q29": -2,
+    "q30": "Feels compelled to spend to progress."
+  },
+  {
+    "q0": 46010091,
+    "q9": -1,
+    "q10": "Frequent level gates in the main story (e.g., 3 chapters then 2-level gate).",
+    "q31": 1,
+    "q32": "States welfare is good."
+  },
+  {
+    "q0": 46009934,
+    "q41": "Skins can be earned for free and are not too expensive; personal gacha luck is poor."
+  },
+  {
+    "q0": 44114032,
+    "q31": -1,
+    "q32": "Newbie welfare is decent but maintenance compensation is poor; typical daily income ~200–300 gems; event diamonds are low.",
+    "q9": -1,
+    "q10": "Later chapters require UR to progress and are heavily level-gated; many features locked until higher levels.",
+    "q41": "Occasional crashes; repetitive event design; suggests improving compensation and diversifying events."
+  },
+  {
+    "q0": 46006564,
+    "q37": -2,
+    "q38": "Mentions a subsequent 5GB resource download after initial forced gameplay, indicating a heavy footprint.",
+    "q39": -2,
+    "q40": "Forced to play 10+ minutes before a large 5GB in-game download; the forced tutorial experience is frustrating.",
+    "q41": "Heavy forced tutorial before allowing resource download/settings."
+  },
+  {
+    "q0": 45992343,
+    "q29": -2,
+    "q30": "Says the game aggressively pushes spending with low drop rates and low sincerity.",
+    "q31": -1,
+    "q32": "Perceives welfare as poor alongside low gacha rates."
+  },
+  {
+    "q0": 45979381,
+    "q9": -1,
+    "q10": "Main story requires certain level thresholds; must grind stamina to progress later.",
+    "q31": 1,
+    "q32": "If online ~2 hours daily, can clear dailies and earn enough; skins purchasable via diamonds (~8000+).",
+    "q41": "Requests more gameplay variety."
+  },
+  {
+    "q0": 45970996,
+    "q11": -2,
+    "q12": "UR release invalidated prior SSR strength; hard to play without spending.",
+    "q29": -1,
+    "q30": "Non-spenders struggle to continue; persistent crash issues since launch.",
+    "q41": "Long-standing crash problems; regret not quitting earlier."
+  },
+  {
+    "q0": 45965482,
+    "q41": "Maintenance compensation crystals showed as claimed in mail but did not increase inventory."
+  },
+  {
+    "q0": 45965263,
+    "q41": "Maintenance compensation (400 crystals) marked received in mail but balance remained zero."
+  },
+  {
+    "q0": 45964427,
+    "q41": "Compensation issue: claimed 400 crystals but account balance still shows 0."
+  },
+  {
+    "q0": 45958867,
+    "q1": true,
+    "q2": "Discussion around sexualized presentation; suggests characters are too covered and requests more revealing art/models.",
+    "q41": "Recommends updating character art/models to boost popularity and use models as ad focus."
+  },
+  {
+    "q0": 45952181,
+    "q9": -1,
+    "q10": "Free 10-pull unlocks at chapter 3 but only claimable at chapter 7, gating basic rewards behind progression."
+  },
+  {
+    "q0": 45949421,
+    "q41": "Recommends iOS global server due to better welfare."
+  },
+  {
+    "q0": 45937570,
+    "q41": "Overall presentation feels like a WeChat mini-program game."
+  },
+  {
+    "q0": 45935810
+  },
+  {
+    "q0": 45923659,
+    "q31": 1,
+    "q32": "Newbie resources are plentiful and drop rates feel high (reported double URs in 10-pulls).",
+    "q9": -1,
+    "q10": "Game heavily level-gated; low levels can do very little besides grinding.",
+    "q41": "Global chat at night is offensive/annoying."
+  },
+  {
+    "q0": 45914261,
+    "q41": "Requests a skip option for guild fights to reduce time waste."
+  },
+  {
+    "q0": 45905717,
+    "q9": -2,
+    "q10": "Progression/upgrade times are extreme for F2P; leveling a character to max could take years without spending."
+  }
+]

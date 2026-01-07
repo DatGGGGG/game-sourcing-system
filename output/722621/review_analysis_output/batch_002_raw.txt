@@ -1,0 +1,481 @@
+[
+  {
+    "q0": 46898083,
+    "q41": "Praises visuals; requests a landscape (horizontal) mode."
+  },
+  {
+    "q0": 46851775,
+    "q41": "Dislikes story and finds gameplay uninteresting; praises art but requests landscape mode; dislikes female-locked protagonist which hurts immersion."
+  },
+  {
+    "q0": 46896824,
+    "q41": "Poor optimization; multiple bugs and frequent crashes during main story."
+  },
+  {
+    "q0": 46896763,
+    "q41": "Too many bugs encountered, more than enemies."
+  },
+  {
+    "q0": 46896729,
+    "q23": false,
+    "q27": -2,
+    "q28": "Relies on high-spenders to carry co-op; without strong characters/teams progress stalls.",
+    "q29": -2,
+    "q30": "Heavy pressure to pull new characters to progress; reviewer burned large amounts with poor returns and says there is no pity.",
+    "q9": -2,
+    "q10": "Progression blocked by gacha luck and need for carries; no satisfying feedback loop.",
+    "q41": "Complains about power/leaderboard PUA; requests auto skill-order memory; lacks clear ‘fun moments’."
+  },
+  {
+    "q0": 46831059,
+    "q31": 1,
+    "q32": "Generous testing rewards; spending not required to progress.",
+    "q29": 1,
+    "q30": "Spending felt optional; with BP support and rewards it was easy to progress.",
+    "q9": 1,
+    "q10": "Easy to get started and progress due to rewards and support.",
+    "q41": "Low drop rates and many bugs (class switching resets, fluctuating power, skill casts fail, illegal text blocks recruitment); suspects some AI art and asset reuse."
+  },
+  {
+    "q0": 46896655,
+    "q41": "Visuals are beautiful; nothing else noteworthy."
+  },
+  {
+    "q0": 46839800,
+    "q29": 1,
+    "q30": "Small spender achieved full four-attribute teams; gacha felt not punishing during test.",
+    "q41": "Excellent art and a classic yet fresh story; gameplay acceptable; later complains many bugs remain unfixed."
+  },
+  {
+    "q0": 46896501,
+    "q3": "GBF-like party RPG system with heavy grind.",
+    "q41": "Octopath Traveler-like HD-2D art; concerns about balance/rewards leading to excessive grind/pay."
+  },
+  {
+    "q0": 46896220,
+    "q41": "Banner composition is messy (fire banner drops other elements); pet drop rates too low; a bit grindy but overall positive."
+  },
+  {
+    "q0": 46895981,
+    "q41": "Skill/setting text garbling; frequent crashes and loading errors; severe overheating."
+  },
+  {
+    "q0": 46895932,
+    "q13": -2,
+    "q14": "States only one meta team works globally; other teams cannot obtain rewards.",
+    "q41": "Gameplay feels monotonous; visual style matches trailers."
+  },
+  {
+    "q0": 46892874,
+    "q41": "Cannot enter the game despite getting a test slot."
+  },
+  {
+    "q0": 46892372,
+    "q39": -2,
+    "q40": "After an update the game cannot be entered or updated; updating drops network; user uninstalled.",
+    "q41": "Login/update loop prevents play."
+  },
+  {
+    "q0": 45444345,
+    "q13": -1,
+    "q14": "Strict attribute-based team requirements raise the barrier and limit viable builds.",
+    "q41": "Art is strong; vertical orientation disliked; concerns about gacha pools and team attribute requirements."
+  },
+  {
+    "q0": 46891707,
+    "q29": -2,
+    "q30": "Accuses dev of greed with worsening issues.",
+    "q41": "Says the studio lacks technical capability; predicts failure."
+  },
+  {
+    "q0": 46877074,
+    "q6": "Non-advantage elements suffer -50% damage; forced to train four elemental teams; increased AP and BP costs; event requires rare ‘demon hearts’ with limited drops and entries.",
+    "q7": -1,
+    "q8": "Element checks and four-team requirement feel punitive rather than offering interesting tactics.",
+    "q9": -2,
+    "q10": "Resource costs raised sharply and scarce drops block event progression.",
+    "q41": "Grind increased by several times; co-op rooms hard to enter; event item scarcity."
+  },
+  {
+    "q0": 46890423,
+    "q41": "Co-op stamina is too restrictive; mechanics feel copied; UI/controls laggy; pixel UI and battle layout look ugly; map design/pixel art criticized."
+  },
+  {
+    "q0": 46890141,
+    "q41": "Fun game; highly grindy/addictive."
+  },
+  {
+    "q0": 46890101,
+    "q15": "Alchemy crafting (e.g., copper/silver steel), fishing for rewards, and repeated dungeon farming.",
+    "q16": true,
+    "q19": -1,
+    "q20": "Alchemy cannot produce high-tier mats; fishing baits are scarce and yields low (e.g., only a few pulls).",
+    "q23": true,
+    "q24": "Frequent pity hits; 200-pull ‘well’ for selection; reviewer says every pull session hit hard pity.",
+    "q41": "Very low material/weapon drop rates; excess ‘magic weapons’ with no sink; gacha feels low-rate; concerned about early power creep."
+  },
+  {
+    "q0": 46889659,
+    "q4": 1,
+    "q5": "States music and battle mechanics are good.",
+    "q41": "Likes art and scenes; suggests simplifying overall power-up system."
+  },
+  {
+    "q0": 46889328,
+    "q41": "Asks how to enable landscape mode."
+  },
+  {
+    "q0": 46830120,
+    "q23": true,
+    "q24": "200-draw hard pity that resets when switching banners; reviewer lost pity progress on banner change.",
+    "q29": -2,
+    "q30": "Very grindy with pity reset and poor drops; feels exploitative.",
+    "q9": -2,
+    "q10": "Crashes/login issues and heavy farming without sweep hinder progress.",
+    "q41": "Initial login flagged as hacking; repeated crashes; resource farming is time-consuming; no sweep; no compensation seen."
+  },
+  {
+    "q0": 46807831,
+    "q41": "Very positive early impression; asks when the game will launch."
+  },
+  {
+    "q0": 46887887,
+    "q41": "Cannot dismantle duplicate weapons; ‘demon heart’ drop rate extremely low; inventory fills with duplicates."
+  },
+  {
+    "q0": 46887204
+  },
+  {
+    "q0": 46886382,
+    "q13": -2,
+    "q14": "Mixed, polluted banners and low rates force teams based on what drops rather than choice.",
+    "q29": -2,
+    "q30": "Calls it blatant cash grab with polluted pools and micro odds.",
+    "q41": "Too many bugs; unexplained terms (e.g., ‘undying’, ‘phantom’, ‘rousing’, ‘ougi chain’) allegedly copied from GBF."
+  },
+  {
+    "q0": 46828079,
+    "q3": "Turn-based combat with auto-battle and a configurable skill queue/rotation.",
+    "q4": 0,
+    "q5": "Likes turn-based but auto-battle reduces engagement; skill queue sometimes fails to trigger.",
+    "q6": "Attribute-focused team building; skill queue system; many buffs lacking clear descriptions.",
+    "q7": 0,
+    "q8": "Systems exist but unclear BD and buff details limit meaningful planning.",
+    "q9": -1,
+    "q10": "Becomes boring and lacks long-term goals; feels like either pay or grind.",
+    "q29": -1,
+    "q30": "Feels pay-or-grind; suggests monthly pass and better SR viability.",
+    "q41": "Auto-path/teleport kills exploration; story average with odd memes; art/music praised."
+  },
+  {
+    "q0": 46885417,
+    "q41": "Feels like a mishmash of design elements (miHoYo/MMO) with too many features."
+  },
+  {
+    "q0": 46884830,
+    "q29": -1,
+    "q30": "Hard to pull desired items which reduces motivation to continue.",
+    "q41": "Retro visuals but low playability; UI layout poor; no full-screen art view; team building UI is awkward."
+  },
+  {
+    "q0": 46876326,
+    "q9": -2,
+    "q10": "Stamina/AP costs massively increased and frequent disconnects waste stamina; stats dropped after maintenance.",
+    "q41": "Severe lag/disconnects despite strong signal; co-op/join costs raised; experience dungeon cost set to 100 AP."
+  },
+  {
+    "q0": 46883821,
+    "q41": "Overall poor experience; pixel models look bad."
+  },
+  {
+    "q0": 46883248,
+    "q41": "Finds it good; notes comedic opening where protagonist is hit by a meteor."
+  },
+  {
+    "q0": 46883209,
+    "q31": 1,
+    "q32": "Says welfare is plentiful.",
+    "q27": 1,
+    "q28": "Feels not very grindy and enjoyable in vertical mode as F2P.",
+    "q41": "Unique mix of dungeon grinding and anime style; likes vertical orientation."
+  },
+  {
+    "q0": 46805839,
+    "q41": "2.0 weapon drop rates are too low."
+  },
+  {
+    "q0": 46882284,
+    "q41": "Phone heats up quickly (5–10 minutes of play)."
+  },
+  {
+    "q0": 46880802,
+    "q41": "Great art; character relationships feel forced; unclear boss unlock indicators."
+  },
+  {
+    "q0": 46880530,
+    "q41": "Suggests it is a rebranded revival."
+  },
+  {
+    "q0": 46829636,
+    "q41": "Frame rate feels low/uneven; joystick positioned too high; suggests moving joystick and collapsing chat; update did not address it."
+  },
+  {
+    "q0": 46860366,
+    "q3": "GBF-style co-op, turn-based combat with Ougi/ultimate chains, same-element bonuses, and buffs.",
+    "q6": "Element synergy, Ougi coordination, co-op roles with MVP competition.",
+    "q7": 1,
+    "q8": "Multiple interacting systems (elements, buffs, chaining) provide tactical options despite co-op MVP imbalance.",
+    "q23": true,
+    "q24": "30-pull SSR pity and 200-pull UP selection; drawing characters also grants weapons.",
+    "q31": 2,
+    "q32": "Hundreds of test pulls; enough to form four elemental teams.",
+    "q27": 1,
+    "q28": "Most resources can be farmed with time; not overtly pay-forcing.",
+    "q29": 1,
+    "q30": "Spending mainly accelerates progress; not pay-to-win focused.",
+    "q41": "Poor optimization; main quest is long with lots of auto-run; story writing criticized; no auto/sweep; co-op MVP hogging; UI issues."
+  },
+  {
+    "q0": 46834492,
+    "q6": "Non-advantage damage -50%; forced to build four elemental teams; daily farm structure; joystick ergonomics; protagonist gender locked.",
+    "q7": -1,
+    "q8": "Forced multi-element progression and some AI behavior reduce meaningful tactics.",
+    "q23": true,
+    "q24": "30-pull guaranteed gold and 200-pull pity; varying UP rates by banner; test distributed daily pulls.",
+    "q31": 1,
+    "q32": "Estimates ~80+ free pulls/month via activity and AFK tower farming.",
+    "q41": "Mid-test changes (e.g., Baha weapon drop model); perceived cash-grab banners; lacks full-body art/gallery; AI art concerns; joystick too high; no sex selection."
+  },
+  {
+    "q0": 46879530,
+    "q31": 2,
+    "q32": "Claims 200 free pulls at entry.",
+    "q4": 1,
+    "q5": "Says gameplay is good and recommends to pixel-art fans.",
+    "q41": "Praises high banner rates and generous rewards."
+  },
+  {
+    "q0": 46878842,
+    "q41": "Material farming is boring auto-grind with no skip; lost motivation after a few days."
+  },
+  {
+    "q0": 46878782,
+    "q23": true,
+    "q24": "Reports always hitting pity after update; failed to obtain target (e.g., Diabolo) within 120 pulls; implies 200-draw pity/well.",
+    "q11": -2,
+    "q12": "New character heavily power-creeps older ones via raw stat scaling.",
+    "q41": "Feels rates were nerfed; straightforward stat inflation."
+  },
+  {
+    "q0": 46878755,
+    "q4": -1,
+    "q5": "Says there is no strategic combat, movement feels bad, story is bland, and UI is inconvenient.",
+    "q7": -2,
+    "q8": "States combat lacks strategy and exploration fun.",
+    "q41": "Feels like an old, copied JP mobile design with little to enjoy beyond visuals."
+  },
+  {
+    "q0": 46878725,
+    "q41": "Frequent crashes; user confused by an in-game prompt/screen."
+  },
+  {
+    "q0": 46878242,
+    "q41": "Gacha presentation feels cheap; pulled characters lack introductions or story context."
+  },
+  {
+    "q0": 46878130,
+    "q27": 1,
+    "q28": "Few pop-ups and only a small first-purchase offer; F2P playable in test.",
+    "q29": 1,
+    "q30": "Monetization feels light and unobtrusive.",
+    "q41": "Frequent freezes/crashes."
+  },
+  {
+    "q0": 46877883,
+    "q3": "Turn-based combat similar to FGO.",
+    "q15": "Grinding gear, pets, and materials as core progression.",
+    "q16": false,
+    "q41": "Good music and visuals but many severe bugs (including black screen); UI needs optimization; progression is very grind-heavy."
+  },
+  {
+    "q0": 46877782,
+    "q23": true,
+    "q24": "30-pull SSR pity and 200-pull UP selection.",
+    "q27": -1,
+    "q28": "Co-op MVP racing and punishing boss design exclude new players from meaningful rewards.",
+    "q29": -2,
+    "q30": "Polluted banners with low rates and mixed pools push heavy spending to get desired units/pets.",
+    "q13": -2,
+    "q14": "RNG-dictated mixed pools constrain team building.",
+    "q41": "Lack of clear buff/skill descriptions; inconsistencies between skills and behavior; poor optimization; frequent changes to mechanics mid-test."
+  },
+  {
+    "q0": 42513412,
+    "q3": "Pixel-art, turn-based JRPG.",
+    "q41": "Multiple tests yet many problems remain; community management tone is off-putting."
+  },
+  {
+    "q0": 46876956,
+    "q41": "Asks not to grant buffs to enemies (likely a buff bug or misapplied effect)."
+  },
+  {
+    "q0": 46876511,
+    "q41": "Nostalgic expectations; recalls a similar game; keen to try the test."
+  },
+  {
+    "q0": 46876236,
+    "q41": "Many bugs (team attribute/job display errors, stutter, crashes, story locks); content feels thin yet time-consuming; upset with new banner; quitting."
+  },
+  {
+    "q0": 46875972,
+    "q41": "Good art and content; waiting for public release."
+  },
+  {
+    "q0": 46875787,
+    "q41": "Fun but prone to crashes; asks for optimization."
+  },
+  {
+    "q0": 46875616,
+    "q41": "No sweep or multi-battle for resource dungeons; limited tickets used on standard characters."
+  },
+  {
+    "q0": 46875475,
+    "q6": "Element disadvantage causes -50% damage; must build four elemental teams.",
+    "q7": -1,
+    "q8": "Forced multi-team grind rather than meaningful tactics.",
+    "q9": -2,
+    "q10": "Severe bugs (swallowed mail/rewards) and extremely low drop rates block progress.",
+    "q29": -2,
+    "q30": "Limited tickets used on standard characters and extremely low pet rates (e.g., 0.01%) feel exploitative.",
+    "q41": "Frustration with element counter requirements presented in a meme-like dialogue."
+  },
+  {
+    "q0": 46828590,
+    "q3": "Turn-based with shared ultimate chain (Ougi); suggests separate Ougi button to avoid accidental simultaneous use.",
+    "q4": 0,
+    "q5": "Likes visuals but finds Ougi control clunky; login requires mobile data.",
+    "q41": "Must switch to mobile data to log in; game runs fine afterward."
+  },
+  {
+    "q0": 46875375,
+    "q41": "Homepage promo text contains a typo."
+  },
+  {
+    "q0": 46875281,
+    "q41": "Complains about changes reducing value and pushing players to raise four teams before launch."
+  },
+  {
+    "q0": 46875182,
+    "q6": "Forced four-element progression due to element counters and weapon gating.",
+    "q7": -1,
+    "q8": "Element constraints force raising four teams, which is frustrating for new players."
+  },
+  {
+    "q0": 46875253,
+    "q6": "Forced four-element progression due to element counters and weapon gating.",
+    "q7": -1,
+    "q8": "Element constraints force raising four teams, which is frustrating for new players."
+  },
+  {
+    "q0": 46875156,
+    "q41": "Nice visuals; a bit grindy."
+  },
+  {
+    "q0": 46874504,
+    "q41": "Art is good; sometimes freezes (possibly network-related)."
+  },
+  {
+    "q0": 46874488,
+    "q31": 2,
+    "q32": "Very generous tickets during test.",
+    "q41": "Loves art and login music; battle music feels repetitive; stays mainly for visuals; requests more male characters."
+  },
+  {
+    "q0": 46874312,
+    "q41": "Quest tracking teleported to a softlock; relog/unstuck failed; uninstalled."
+  },
+  {
+    "q0": 46873756,
+    "q41": "Wants more adventure/combat focus and horizontal mode; suggests pacing/story optimization."
+  },
+  {
+    "q0": 46872868,
+    "q3": "Turn-based; team building focused on single-element compositions.",
+    "q4": 1,
+    "q5": "Finds the traditional RPG approach fun.",
+    "q6": "Single-element team focus.",
+    "q7": 0,
+    "q8": "Not difficult according to reviewer; straightforward team focus.",
+    "q41": "Asks how to enable landscape."
+  },
+  {
+    "q0": 46872669,
+    "q41": "Relaxing, ‘养老’-style game; hopes it lasts long-term."
+  },
+  {
+    "q0": 46871638,
+    "q41": "Requests a ‘pure mode’ (hide chat/players, optional auto-path); wants a more single-player-like experience."
+  },
+  {
+    "q0": 46869952,
+    "q41": "Stuck after naming; reconnecting/reinstalling didn’t help."
+  },
+  {
+    "q0": 46869041,
+    "q41": "Joystick fixed in center; quest tracking indicator too large; occasional black screens and UI lag; weak hit feel and sparse SFX."
+  },
+  {
+    "q0": 46868410,
+    "q31": 2,
+    "q32": "Test welfare very generous; quickly formed full SSR team.",
+    "q41": "Suspected AI art; dark-humor opening (meteor kills couple); daily login issues; requests more distinctive ultimates."
+  },
+  {
+    "q0": 46868058,
+    "q41": "Persistent ‘network connection failed’ errors."
+  },
+  {
+    "q0": 46867994,
+    "q9": -1,
+    "q10": "Became boring by day 5.",
+    "q41": "Lost interest quickly."
+  },
+  {
+    "q0": 46867964,
+    "q41": "Stuck at a certain screen; cannot proceed."
+  },
+  {
+    "q0": 46867567,
+    "q4": -1,
+    "q5": "Says combat is not good and overall game lacks fun.",
+    "q41": "Needs performance optimization."
+  },
+  {
+    "q0": 46866215,
+    "q41": "No option to choose protagonist gender after naming."
+  },
+  {
+    "q0": 46866006,
+    "q41": "Art style feels similar to Brown Dust 2."
+  },
+  {
+    "q0": 46816574,
+    "q23": true,
+    "q24": "30-pull SSR pity.",
+    "q41": "Good style but movement feels bad; team-building has a noticeable entry barrier; ultimately feels like a gacha-heavy game."
+  },
+  {
+    "q0": 46864190,
+    "q41": "Asks how to switch to landscape mode."
+  },
+  {
+    "q0": 46859104,
+    "q1": true,
+    "q2": "Sexual content/partial nudity; requests an option to toggle revealing outfits.",
+    "q41": "Overall positive but wants a ‘censor/uncensor’ option; questions 16+ vs 18+ rating."
+  },
+  {
+    "q0": 46863355,
+    "q41": "Hit a blocking bug immediately after entering the game."
+  }
+]

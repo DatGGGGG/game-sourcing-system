@@ -1,0 +1,622 @@
+[
+  {
+    "q0": 38084861,
+    "q9": -2,
+    "q10": "Free 100-draws are gated to chapters 7 and 20 and you can only keep one 10-pull from each batch.",
+    "q31": -1,
+    "q32": "Free pulls exist but are heavily gated and subject to heavy off-rate duplicates."
+  },
+  {
+    "q0": 38084822
+  },
+  {
+    "q0": 38084819
+  },
+  {
+    "q0": 38084677,
+    "q27": -2,
+    "q28": "Farming, campaign, arena, and events require spending; F2P can only look at the poster girl.",
+    "q29": -2,
+    "q30": "Heavy pay-to-win; leaderboards filled with 'official' accounts.",
+    "q41": "Claims of official accounts topping rankings."
+  },
+  {
+    "q0": 38084238,
+    "q3": "Turn-based combat without skip early on.",
+    "q4": -1,
+    "q5": "Annoyed that battles can’t be skipped.",
+    "q9": -1,
+    "q10": "A reward ticket can’t be used until chapter 4."
+  },
+  {
+    "q0": 38084211,
+    "q41": "Requests: non-duplicate early 100-draw selection, pity for artifacts, limit golds per multi, reduce main pity to 3 off-rate, make protagonist switch factions, expand guild/friend caps, add (cross-server) balanced PvP modes, add SSR shards per chapter."
+  },
+  {
+    "q0": 38084025,
+    "q29": -1,
+    "q30": "Too many recharge screens.",
+    "q41": "Star-up progression feels too hard."
+  },
+  {
+    "q0": 38083987,
+    "q9": -1,
+    "q10": "Second 100-draw claim is gated to chapter 20.",
+    "q41": "Daily 10-pull uses a different pool than standard pulls."
+  },
+  {
+    "q0": 38083377,
+    "q31": -2,
+    "q32": "“100 draws” is just ten 10-pull chances and cannot be claimed immediately; mailbox empty; gives discount coupons.",
+    "q29": -2,
+    "q30": "Pushes discount coupons instead of substantive rewards.",
+    "q9": -1,
+    "q10": "Free pulls are gated behind progression."
+  },
+  {
+    "q0": 38083516,
+    "q27": -2,
+    "q28": "Dungeons are too hard; self-pick at chapter 50; zero-spend cannot progress.",
+    "q9": -2,
+    "q10": "Severe difficulty spikes; 300k power feels paper-thin.",
+    "q29": -2,
+    "q30": "Feels designed to force spending."
+  },
+  {
+    "q0": 38083193,
+    "q1": true,
+    "q2": "Sexual content/fanservice toned down (censorship) and chibi battle art.",
+    "q3": "Old-school turn-based gacha with chibi battle units.",
+    "q4": -2,
+    "q5": "Worse than similar games; boring and flooded with SSRs to collect.",
+    "q31": -1,
+    "q32": "Welfare is low compared to peers."
+  },
+  {
+    "q0": 38082589,
+    "q29": -2,
+    "q30": "Cash-grab vibe; first screen emphasizes first top-up.",
+    "q31": -2,
+    "q32": "“100 pulls” gated to chapter 10 and only one 10-pull selectable.",
+    "q9": -1,
+    "q10": "Freebies locked behind early chapters."
+  },
+  {
+    "q0": 38081905,
+    "q27": -2,
+    "q28": "Non-paying players stall out; later progression feels like 'prison'.",
+    "q29": -2,
+    "q30": "Many recharge entries and minimal welfare.",
+    "q31": -2,
+    "q32": "Free rewards are scarce."
+  },
+  {
+    "q0": 38081743,
+    "q31": -2,
+    "q32": "Reluctant to give welfare; experience relies on pure power stacking.",
+    "q29": -1,
+    "q30": "Retention tactics around tutorials/self-selects feel forced."
+  },
+  {
+    "q0": 38081346,
+    "q9": -1,
+    "q10": "Can’t draw characters unless you push story; feels like a power game."
+  },
+  {
+    "q0": 38080654,
+    "q9": -1,
+    "q10": "You have to clear stages to claim gacha."
+  },
+  {
+    "q0": 38079529,
+    "q1": true,
+    "q2": "Sexualized fanservice used as the selling point.",
+    "q9": -1,
+    "q10": "Newbie self-select locked until chapter 3 and claimed at chapter 10; later repeats.",
+    "q31": -1,
+    "q32": "Free draws are heavily gated."
+  },
+  {
+    "q0": 38079012,
+    "q37": -2,
+    "q38": "Game occupies a lot of storage space."
+  },
+  {
+    "q0": 38078982,
+    "q41": "Heavy forced story early; later gacha feels low-rate."
+  },
+  {
+    "q0": 38077339,
+    "q6": "Codex/collection unlocks grant global stats even without deploying units.",
+    "q7": -2,
+    "q8": "Progress and power tied to collection quantity over tactics.",
+    "q29": -2,
+    "q30": "Design incentivizes spending to fill the codex."
+  },
+  {
+    "q0": 38077086,
+    "q1": true,
+    "q2": "Censored sexualized parts; requests reconsideration.",
+    "q31": -1,
+    "q32": "Asks for more welfare."
+  },
+  {
+    "q0": 38076928,
+    "q3": "Old-school turn-based, stat-check-focused combat.",
+    "q4": -2,
+    "q5": "Feels like pure power stacking with little gameplay.",
+    "q6": "Furniture provides attributes; systems tie everything to power.",
+    "q7": -2,
+    "q8": "Focus is on raising numbers rather than tactics.",
+    "q29": -2,
+    "q30": "Deceptive '100 free pulls' and heavy monetization; presence of apparent booster accounts.",
+    "q31": -2,
+    "q32": "Promised freebies are gated/limited.",
+    "q41": "Reports of boosted accounts hitting max-star SSR within an hour."
+  },
+  {
+    "q0": 38076719,
+    "q27": -2,
+    "q28": "Early draws feel paywalled; daily ten-pull locked behind long progression.",
+    "q9": -2,
+    "q10": "Had to push multiple stages just to draw; poor early experience.",
+    "q31": -1,
+    "q32": "Little to nothing obtained from early pulls."
+  },
+  {
+    "q0": 38076195,
+    "q31": 0,
+    "q32": "Overall welfare isn’t tiny but is gated by thresholds.",
+    "q1": true,
+    "q2": "Sexualized art is more covered in CN but still present."
+  },
+  {
+    "q0": 38075568,
+    "q3": "Classic auto card-battler; daily ten-pull is a low-rate friendship pool.",
+    "q4": -2,
+    "q5": "Gameplay feels entirely in service of stats.",
+    "q6": "Cumulative recharge grants SSR; furniture adds power.",
+    "q7": -2,
+    "q8": "Progress tied to monetization and stat boosts, not tactics.",
+    "q29": -2,
+    "q30": "Cumulative top-up rewards push spending.",
+    "q31": -1,
+    "q32": "Daily ten-pull has low value."
+  },
+  {
+    "q0": 38075486,
+    "q29": -2,
+    "q30": "“Data exchange” event locks 'free' rewards behind buying the previous tier.",
+    "q31": -2,
+    "q32": "Gives discount coupons; 'free' event tiers require purchases.",
+    "q41": "Event UI mislabels paid-gated tiers as free."
+  },
+  {
+    "q0": 38074518,
+    "q27": -2,
+    "q28": "Many monetization points; nested resources and tedium make F2P hard."
+  },
+  {
+    "q0": 38074259,
+    "q41": "Customer support unreachable (phone number invalid); cannot unbind phone after spending; accuses company of scamming."
+  },
+  {
+    "q0": 38074237,
+    "q29": -2,
+    "q30": "Perceived as pure pay-to-win with no gameplay depth."
+  },
+  {
+    "q0": 38034350,
+    "q41": "Skin visibility issue: others see base art when a skin is equipped; requests dynamic art on result screens."
+  },
+  {
+    "q0": 38007904,
+    "q31": -2,
+    "q32": "Welfare is sparse and inconsistent; no anti-censorship.",
+    "q1": true,
+    "q2": "Sexual content removed in CN version (no anti-censorship)."
+  },
+  {
+    "q0": 38073011,
+    "q1": true,
+    "q2": "Suggestive/sexualized art.",
+    "q31": -2,
+    "q32": "Welfare is poor; self-select ten-pull gated to chapters 3 and 10.",
+    "q9": -1,
+    "q10": "Self-select ten-pull requires pushing to chapter milestones."
+  },
+  {
+    "q0": 38072935
+  },
+  {
+    "q0": 38072869,
+    "q27": 1,
+    "q28": "Playable F2P; small spending improves comfort."
+  },
+  {
+    "q0": 38072851,
+    "q23": true,
+    "q24": "Rate-up guarantee triggers after four off-banner SSRs; the fifth SSR is guaranteed UP."
+  },
+  {
+    "q0": 38072629
+  },
+  {
+    "q0": 38072456,
+    "q27": -2,
+    "q28": "F2P/low spenders can’t keep up with strength."
+  },
+  {
+    "q0": 38071787,
+    "q29": -2,
+    "q30": "Game is flooded with paid bundles; non-spenders get little from daily sources.",
+    "q31": -2,
+    "q32": "Daily resource output is negligible without spending."
+  },
+  {
+    "q0": 38070997,
+    "q1": true,
+    "q2": "Sexualized depiction of large breasts; anime-style dramatic dialogue."
+  },
+  {
+    "q0": 38070891,
+    "q1": true,
+    "q2": "Art heavily censored in CN.",
+    "q29": -1,
+    "q30": "Many monetization bundles; requires significant daily grind."
+  },
+  {
+    "q0": 38070730
+  },
+  {
+    "q0": 38070722,
+    "q3": "Primitive stat-driven gameplay.",
+    "q4": -2,
+    "q5": "Only the art is decent; ladders and 'glory boards' emphasize monetization.",
+    "q29": -2,
+    "q30": "Multiple monetized rankings indicate P2W."
+  },
+  {
+    "q0": 38070712,
+    "q21": -1,
+    "q22": "Few events and little welfare since launch.",
+    "q31": -2,
+    "q32": "Diamonds from tasks are scarce; low pull rates.",
+    "q9": -1,
+    "q10": "High difficulty combines with poor rewards."
+  },
+  {
+    "q0": 38070544,
+    "q29": -2,
+    "q30": "Pushes real-cash discount coupons and outdated recharge UI."
+  },
+  {
+    "q0": 38070319,
+    "q27": -2,
+    "q28": "Power gap enormous between spenders and non-spenders.",
+    "q29": -2,
+    "q30": "Overt 'give me money' monetization."
+  },
+  {
+    "q0": 38070078,
+    "q1": true,
+    "q2": "Censored art in CN; event progression locked behind payments.",
+    "q29": -2,
+    "q30": "An event requires spending to continue progress.",
+    "q41": "Suggests separating paid and free tracks; sees no highlights in CN version."
+  },
+  {
+    "q0": 38069621,
+    "q6": "No noticeable synergistic team combos.",
+    "q7": -1,
+    "q8": "Early experience feels shallow; stamina drains quickly."
+  },
+  {
+    "q0": 38069425,
+    "q29": -2,
+    "q30": "Paywalled event by day 3; frequent off-banner pulls.",
+    "q31": -1,
+    "q32": "Minimal welfare."
+  },
+  {
+    "q0": 38069084
+  },
+  {
+    "q0": 38037217,
+    "q1": true,
+    "q2": "Censored sexual content in CN release.",
+    "q3": "Fully automated combat with one-click skip.",
+    "q4": -2,
+    "q5": "Little combat engagement.",
+    "q9": -2,
+    "q10": "Free draws require passing stage 10 and stamina is insufficient.",
+    "q29": -2,
+    "q30": "Numerous recharge events.",
+    "q31": -1,
+    "q32": "Free pulls are gated behind progression."
+  },
+  {
+    "q0": 38068132,
+    "q3": "Fully auto, power-check combat.",
+    "q4": -2,
+    "q5": "Game plays itself; pay to progress.",
+    "q29": -2,
+    "q30": "Minimal welfare; monetization-first design.",
+    "q31": -2,
+    "q32": "Free rewards are meager.",
+    "q41": "Low population; world chat full of ads; frequent guild kicks; poor graphics."
+  },
+  {
+    "q0": 38067906,
+    "q6": "Strategy depth is low; pure number checks.",
+    "q7": -2,
+    "q8": "Aims for a strategic feel but lacks it compared to peers."
+  },
+  {
+    "q0": 38066997
+  },
+  {
+    "q0": 38066485,
+    "q1": true,
+    "q2": "No anti-censorship; sexual content toned down.",
+    "q23": true,
+    "q24": "UP pool: target is ~40% of SSRs; small pity every 50 pulls; hard pity at 250 pulls; multiple pools (weapon, artifact, pets).",
+    "q31": -2,
+    "q32": "Resources mainly come from monthly cards; free income is scarce."
+  },
+  {
+    "q0": 38066133,
+    "q27": -2,
+    "q28": "Without paying you get very few pulls; progression tied to power.",
+    "q29": -2,
+    "q30": "Designed around whales; small-spend feels powerless.",
+    "q31": -2,
+    "q32": "After the early game, F2P has almost no ticket income; daily ≤5 pulls without monthly."
+  },
+  {
+    "q0": 38066039,
+    "q41": "Only a few characters have ultimate animations; most lack them, hurting feel."
+  },
+  {
+    "q0": 38065519,
+    "q6": "6-hero + 4-artifact + 3-beast template team-building.",
+    "q41": "Perceived as a reskin of 少年三国志2."
+  },
+  {
+    "q0": 38064587,
+    "q41": "Official channels retract messages; accusations of shills; dead server within 3 days; PVP ranking inflation early."
+  },
+  {
+    "q0": 38064540,
+    "q3": "Idle, power-stacking gameplay.",
+    "q4": -2,
+    "q5": "No real gameplay, just numbers.",
+    "q1": true,
+    "q2": "Promised anti-censorship used as bait.",
+    "q29": -2,
+    "q30": "Felt bait-and-switch on content and monetization."
+  },
+  {
+    "q0": 38064382,
+    "q39": 2,
+    "q40": "Fast in-map loading and good optimization.",
+    "q31": -1,
+    "q32": "Welfare low and resources slow; roughly one gold per ~30 pulls."
+  },
+  {
+    "q0": 38064349,
+    "q9": -1,
+    "q10": "Self-select draws must be claimed after more stage progress.",
+    "q31": -1,
+    "q32": "Doesn’t let you draw early like most games."
+  },
+  {
+    "q0": 37950381,
+    "q1": true,
+    "q2": "No anti-censorship; relies on sexualized art to attract players.",
+    "q29": -2,
+    "q30": "Artifacts/pets layers drive monetization; minimal freebies.",
+    "q31": -2,
+    "q32": "Gifts too little; pre-draw event criticized."
+  },
+  {
+    "q0": 38063948,
+    "q1": true,
+    "q2": "Relies on lewd AI-like artwork; only art focus.",
+    "q41": "Critiques use of AI-like art for sexualized content."
+  },
+  {
+    "q0": 38063201,
+    "q1": true,
+    "q2": "Borderline lewd artwork; gameplay nearly zero.",
+    "q29": -2,
+    "q30": "Feels like a cash-grab."
+  },
+  {
+    "q0": 38062763,
+    "q41": "Accusations of astroturfing/fake reviews and rating manipulation."
+  },
+  {
+    "q0": 38062645,
+    "q1": true,
+    "q2": "Promised anti-censorship not delivered.",
+    "q9": -1,
+    "q10": "Self-select 10-pull placed too late to matter.",
+    "q41": "Ops unresponsive; overall quality low."
+  },
+  {
+    "q0": 38062577,
+    "q29": -2,
+    "q30": "Both grindy and pay-heavy.",
+    "q31": -2,
+    "q32": "Welfare very low and rates low."
+  },
+  {
+    "q0": 38062462,
+    "q9": -1,
+    "q10": "Must clear chapter 7 to get a ten-pull; battle pacing is tedious.",
+    "q4": -1,
+    "q5": "Combat feels sluggish/messy; led to uninstall."
+  },
+  {
+    "q0": 38062356,
+    "q41": "Works as a time-killer with skip but lacks anything impressive for today’s market."
+  },
+  {
+    "q0": 38062342,
+    "q1": true,
+    "q2": "Harem/waifu-oriented interactions.",
+    "q15": "Casual waifu/harem companionship loop.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Low time investment; focus on spending time with characters."
+  },
+  {
+    "q0": 38061800,
+    "q1": true,
+    "q2": "Characters remain somewhat sexy despite censorship.",
+    "q27": 0,
+    "q28": "F2P is playable but grindy and frustrating.",
+    "q31": 0,
+    "q32": "Welfare is middling and gated; enough to reach pity.",
+    "q9": -1,
+    "q10": "Self-select draws and chapters gated by level.",
+    "q29": -1,
+    "q30": "Obvious push to spend via events/difficulty.",
+    "q41": "Requests one-click claim for tasks; notes devs say they listen."
+  },
+  {
+    "q0": 38040330,
+    "q11": -2,
+    "q12": "Strength balance is poor; only by spending can you stack enough power.",
+    "q27": -2,
+    "q28": "Resources insufficient without paying."
+  },
+  {
+    "q0": 38061013,
+    "q3": "Auto combat with 3x speed from start; mob stages can be skipped; daily one ten-pull.",
+    "q4": 1,
+    "q5": "Quality-of-life like speed, skip, and lossless gear swap make it smooth.",
+    "q15": "Daily idle check-in to collect resources and interact with waifus.",
+    "q16": false,
+    "q17": 1,
+    "q18": "After day 1, only ~20 minutes per day needed.",
+    "q19": 1,
+    "q20": "Steady daily income from idle/dailies.",
+    "q21": 1,
+    "q22": "Quick adjustments (moved chapter gates for ten-pulls) and compensation (+20 pulls).",
+    "q31": 0,
+    "q32": "Launch welfare is gated but partially compensated.",
+    "q29": -1,
+    "q30": "Gates encourage spending, though micro-spend feels comfortable."
+  },
+  {
+    "q0": 38060528,
+    "q1": true,
+    "q2": "Relies on sexy art; asks for anti-censorship.",
+    "q31": -1,
+    "q32": "Welfare not much; high thresholds push pulling for power.",
+    "q29": -1,
+    "q30": "Complex growth and event gates push spending."
+  },
+  {
+    "q0": 38059863
+  },
+  {
+    "q0": 38059720,
+    "q4": 2,
+    "q5": "Reports high gacha rates.",
+    "q41": "Stamina is insufficient; requests more stamina."
+  },
+  {
+    "q0": 38059487,
+    "q1": true,
+    "q2": "Art edited and censored in CN.",
+    "q29": -1,
+    "q30": "Welfare includes discount coupons rather than real rewards.",
+    "q31": -1,
+    "q32": "Rewards feel stingy/ill-conceived."
+  },
+  {
+    "q0": 38059180,
+    "q1": true,
+    "q2": "Removed sexual fanservice in CN.",
+    "q31": -2,
+    "q32": "Welfare reduced alongside censored art; little reason to play."
+  },
+  {
+    "q0": 38058964,
+    "q4": -1,
+    "q5": "Later stages are a hard grind even at 3x speed."
+  },
+  {
+    "q0": 38058074,
+    "q3": "Turn-based combat.",
+    "q4": -1,
+    "q5": "Feels boring with monetization prompts.",
+    "q29": -1,
+    "q30": "Induces recharges."
+  },
+  {
+    "q0": 38058023,
+    "q29": -2,
+    "q30": "“Data exchange” event forces buying prior tier to claim 'free' rewards.",
+    "q31": -2,
+    "q32": "Event structure makes 'free' rewards effectively paid."
+  },
+  {
+    "q0": 38057076,
+    "q29": -2,
+    "q30": "Paying a few hundred buys top rankings; spending directly boosts experience."
+  },
+  {
+    "q0": 38057024,
+    "q29": -2,
+    "q30": "Everything boosts power; whales outpace; rolling servers are used."
+  },
+  {
+    "q0": 38056839,
+    "q27": -2,
+    "q28": "Outside of lucky players, F2P can’t play well."
+  },
+  {
+    "q0": 38056799,
+    "q1": true,
+    "q2": "Overseas had lewd content; CN removed it; playability absent."
+  },
+  {
+    "q0": 38056351,
+    "q31": -2,
+    "q32": "Newbies get discount coupons instead of items; 10-pull gated to later chapters.",
+    "q9": -1,
+    "q10": "Draws are locked behind lengthy chapter progression.",
+    "q29": -2,
+    "q30": "Feels like a cash-grab preparing to run."
+  },
+  {
+    "q0": 38055521,
+    "q6": "Codex collection increases power.",
+    "q41": "Claims rates are acceptable; skins can be farmed; counters negative reviews."
+  },
+  {
+    "q0": 38055253
+  },
+  {
+    "q0": 38055097,
+    "q9": -1,
+    "q10": "High stage difficulty; hard to obtain the promised draws.",
+    "q31": -1,
+    "q32": "Given pulls are hard to claim."
+  },
+  {
+    "q0": 38055071,
+    "q27": -2,
+    "q28": "Non-spenders struggle; draw items scarce; main story stalls after day 1.",
+    "q23": true,
+    "q24": "Has pity but can still yield off-banner/undesired results.",
+    "q9": -2,
+    "q10": "Progression quickly hits a wall after day one.",
+    "q31": -1,
+    "q32": "Rewards require stage clears to receive."
+  }
+]

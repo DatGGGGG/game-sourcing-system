@@ -1,0 +1,433 @@
+[
+  {
+    "q0": 46840913,
+    "q29": -2,
+    "q30": "Feels like a numbers-heavy webgame suited for big spenders",
+    "q41": "Stat-centric design; webgame/MMO feel"
+  },
+  {
+    "q0": 46840886,
+    "q41": "Suggests moving the skip button to bottom in portrait for one-handed play"
+  },
+  {
+    "q0": 46840415,
+    "q41": "Gameplay variety is low; requests a gallery to view full character illustrations"
+  },
+  {
+    "q0": 46840156,
+    "q23": true,
+    "q24": "SSR guaranteed at 30 pulls",
+    "q31": 1,
+    "q32": "Test period rewards felt generous",
+    "q41": "Control/hand-feel of the crank/joystick is uncomfortable"
+  },
+  {
+    "q0": 46839784
+  },
+  {
+    "q0": 46839504,
+    "q41": "Good gameplay but needs optimization"
+  },
+  {
+    "q0": 46839268,
+    "q3": "Auto-battle, attributes with strengths/weaknesses (GBF-like, portrait)",
+    "q41": "Tutorials lacking (fishing, attribute counters, gear/monster usage, progression); auto farming needs optimization"
+  },
+  {
+    "q0": 46839053,
+    "q41": "Likes art and Western fantasy pixel vibe; dislikes co-op raids/guilds; hopes for deeper story focus"
+  },
+  {
+    "q0": 46838922,
+    "q41": "Clunky UI (especially weapon equip); combat and gacha okay; repeated crashes forced uninstall"
+  },
+  {
+    "q0": 46838059,
+    "q41": "Critiques it as a 2025 GBF clone; questions GBF-style gameplay"
+  },
+  {
+    "q0": 46837997,
+    "q41": "Pixel sprites are blurry; cannot choose character gender; fixed-position d-pad feels bad in portrait; female character ratio too high"
+  },
+  {
+    "q0": 46837702,
+    "q41": "Asks whether the game has male characters"
+  },
+  {
+    "q0": 46820679,
+    "q41": "Positives: pixel art, lighting, music, easy growth, free weapons, skip/auto/auto-match. Issues: no detailed local maps, poor portrait joystick feel (wants tap-to-move or choice of joystick/D-pad), cumbersome page switching between characters and weapons, red-dot UX requires opening new items to clear"
+  },
+  {
+    "q0": 46818479,
+    "q3": "Turn-based battles",
+    "q4": -1,
+    "q5": "Monotonous pacing; no sweep or battle speed in routine stages",
+    "q41": "Maps small; wants tap-to-move/drag movement; missing skill descriptions cause confusion"
+  },
+  {
+    "q0": 46837350,
+    "q41": "Frequent crashes (4–5 times); needs optimization"
+  },
+  {
+    "q0": 46837066,
+    "q3": "Auto-battle available; AI uses buffs then skills; healers blow heals at start and die",
+    "q4": -1,
+    "q5": "Auto AI mismanages healing, causing wipes",
+    "q23": true,
+    "q24": "30-pull pity for a gold/SSR (mixed pool, not necessarily UP)",
+    "q41": "Many bugs (garbled data, gacha black screen, battle freezes, missing characters), mixed pool makes UP hard to get, very low monster drop rates (~0.03%), requests sweep for material stages, performance/heat/no VA/weak story (acknowledges CBT)"
+  },
+  {
+    "q0": 46836976,
+    "q1": true,
+    "q2": "Sexualized female art with prominent cleavage and high exposure in character portraits (including the protagonist)",
+    "q41": "Pixel environments neat but splash art over-sexualized; expected a classic RPG tone"
+  },
+  {
+    "q0": 46836895,
+    "q41": "Wants a summary when skipping story; requests touch-to-move controls"
+  },
+  {
+    "q0": 46836527,
+    "q41": "Stuck after naming; cannot enter the game"
+  },
+  {
+    "q0": 46830773,
+    "q41": "Art and core gameplay okay; optimization must improve"
+  },
+  {
+    "q0": 46835990,
+    "q41": "Casual/simple gameplay; requests multi-run (e.g., 1 run counts as 6) to save time when spending stamina"
+  },
+  {
+    "q0": 46835599,
+    "q41": "Material stages lack speed and sweep; feels like forced online time in a grindy game"
+  },
+  {
+    "q0": 46832809,
+    "q41": "Glad a character returned; requests fixes for knight treasure settlement jump-to black screen bug"
+  },
+  {
+    "q0": 46835294,
+    "q41": "Too many daily resource stages require watching battles; requests sweep or hidden auto-run and battle speed"
+  },
+  {
+    "q0": 46835231,
+    "q41": "Post-update bug: dungeon button locked while others can play"
+  },
+  {
+    "q0": 46834883,
+    "q31": 1,
+    "q32": "Generous rewards during test; uncertain about launch difficulty",
+    "q41": "Overall fine in test phase"
+  },
+  {
+    "q0": 46834856,
+    "q31": 1,
+    "q32": "Rates not low and welfare fairly generous; no constellation system and no separate weapon banner",
+    "q41": "Story and character writing weak; vertical layout and activity pages feel like low-quality webgame; lighting/shadow on maps underwhelming"
+  },
+  {
+    "q0": 46834674,
+    "q41": "Impressed overall; needs better guidance for pets and parts of battle system"
+  },
+  {
+    "q0": 46834556,
+    "q41": "Story feels childish and uninteresting; dropped immediately despite pretty visuals"
+  },
+  {
+    "q0": 46834333,
+    "q41": "Unclear positioning as a GBF-like; too many filler tasks; questions need for separate standard vs limited pools; performance issues (stutter/black screen/crash); large boss art blurry"
+  },
+  {
+    "q0": 46834215,
+    "q41": "Portrait joystick position/sensitivity bad; large but under-interactive maps; low-quality tutorial videos; frequent crashes (shop, gacha 10-pull)"
+  },
+  {
+    "q0": 46834055,
+    "q1": true,
+    "q2": "Religious themes (gods, god-sword chosen hero, creation myths)",
+    "q3": "Auto-battle unlocks early; team includes characters, main weapon, and assisting monsters",
+    "q4": 1,
+    "q5": "Combat feels rich by combining character, weapon, and monster systems; auto early",
+    "q31": 2,
+    "q32": "Lots of free items; frequent SSR pulls compared to other games",
+    "q41": "Initial login stutter; pixel presentation could be sharper; unsure how to rename"
+  },
+  {
+    "q0": 46833824,
+    "q41": "Story decent and designs okay; requests one-click sweep because stamina is time-consuming"
+  },
+  {
+    "q0": 46833651
+  },
+  {
+    "q0": 46833638,
+    "q41": "Severe bugs: post-crash rollback removed unlocked functions and settings; tasks demand equipping but features got rolled back"
+  },
+  {
+    "q0": 46833500,
+    "q41": "Crashes when rolling; team swap in dungeon doesn’t swap MC weapon/job; uneven gacha outcomes between attributes; low drop rate for MC breakthrough certificates; requests sweep/speed; buff descriptions unclear"
+  },
+  {
+    "q0": 46833412,
+    "q41": "Veteran GBF player suggests auto multi-battle and sweep for material stages to fit modern time constraints"
+  },
+  {
+    "q0": 44473088,
+    "q41": "Fixed-center joystick doesn’t follow finger; requires large thumb movement; uninstalled"
+  },
+  {
+    "q0": 46832919,
+    "q41": "Boring gameplay; gacha lacks skip for animation"
+  },
+  {
+    "q0": 46832792,
+    "q41": "Cannot log in via Wi-Fi, only mobile data; concerned about launch server stability"
+  },
+  {
+    "q0": 46825423,
+    "q23": true,
+    "q24": "30-pull pity yields one gold/SSR (mixed pool with weapons and monsters; not necessarily UP)",
+    "q31": 2,
+    "q32": "Mail gave ~10,000 diamonds during test; 100 pulls yielded multiple SSRs",
+    "q13": -2,
+    "q14": "Team-building is attribute-locked; skills and assists target same-attribute allies, encouraging pure-color teams",
+    "q29": -1,
+    "q30": "Mixed pool and attribute-locked teams require dupes and building four teams",
+    "q41": "Characters come with their exclusive weapon; caps broken via dungeon; weapon/monster dupes needed; low UP rate in mixed pool"
+  },
+  {
+    "q0": 46832540,
+    "q3": "Turn-based GBF-like: queue skills/pet skills/ultimate, then auto attacks; long skill CDs; damage cap; simple chain presentation",
+    "q4": -1,
+    "q5": "Underwhelming presentation (chain as an image), damage cap, long CDs; grindy feel",
+    "q6": "Elemental attributes (fire/water/earth/wind) with mutual counters; 6-person teams; weapon/monster synergies",
+    "q7": 1,
+    "q8": "Multiple synergies across elements, weapons, and monsters imply moderate tactical depth",
+    "q15": "Idle tower by attribute that generates resources per hour",
+    "q16": false,
+    "q17": 1,
+    "q18": "Straightforward idle/tower accrual",
+    "q41": "High build demand (many chars/weapons/monsters across attributes); weapon upgrades with success chance; grind-heavy"
+  },
+  {
+    "q0": 46832524
+  },
+  {
+    "q0": 46832432,
+    "q23": true,
+    "q24": "30-pull pity; mixed pool; monsters hard to pull",
+    "q3": "Turn-based with customizable skill order (buffs first, attacks later)",
+    "q4": -1,
+    "q5": "Skill-order system is nice but buggy (icons vanish, skills fail) and very time-consuming; no battle skip",
+    "q6": "Customizable skill timeline; attribute purity for future meta",
+    "q7": 1,
+    "q8": "Skill-order customization adds tactical choices despite bugs",
+    "q15": "Attribute-based tower idle; long auto runs without skip",
+    "q17": -1,
+    "q18": "Tower/auto runs consume time and cause device heat without skips",
+    "q41": "Poor joystick feel; coarse map; wants detailed mini-maps and fish list; many bugs (crashes, repeated gacha animation, avatar resets to MC, display issues); pesky NEW tags; suggests syncing MC job levels; needs detailed buff tooltips"
+  },
+  {
+    "q0": 46832312,
+    "q41": "Asks for portrait/landscape toggle; otherwise praises gameplay, art, and story"
+  },
+  {
+    "q0": 46832212,
+    "q41": "NPC dialogs have humor and details; writing praised"
+  },
+  {
+    "q0": 46831926,
+    "q41": "Requests sweep for cleared stages; grinding XP/materials is too time-consuming"
+  },
+  {
+    "q0": 46831894,
+    "q13": -1,
+    "q14": "Team composition constrained by attributes; lacks flexibility"
+  },
+  {
+    "q0": 46831644,
+    "q41": "Octopath art vibe and GBF feel; solid quality; could be a niche evergreen if details are polished"
+  },
+  {
+    "q0": 46831433,
+    "q41": "Support runs don’t consume stamina in test (only energy), enabling infinite material farm; unsure for launch"
+  },
+  {
+    "q0": 46831425,
+    "q41": "Suggests limiting weapon loadout per character (1–2) as current multi-weapon system feels odd"
+  },
+  {
+    "q0": 46831294,
+    "q41": "Many bugs; stuck at meteor shower; needed new phone number; still optimistic"
+  },
+  {
+    "q0": 46831284,
+    "q27": -2,
+    "q28": "Raising all-attribute teams requires massive resources, impractical for non-payers",
+    "q29": -2,
+    "q30": "Full basic endgame teams across attributes estimated to cost extremely high (claims seven-figure RMB)",
+    "q41": "Severe lag; optimization poor; attribute-locked team building multiplies resource costs"
+  },
+  {
+    "q0": 46831204
+  },
+  {
+    "q0": 46831184,
+    "q41": "GBF-like and enjoyable; story currently thin"
+  },
+  {
+    "q0": 46831126,
+    "q41": "Server issues; draggy story with clichéd Western fantasy; pretty art but ugly/confusing UI; combat stuck between retro manual and auto—needs speed/sweep/AFK; MMO map with many players feels pointless; overall lacks innovation and modern pacing"
+  },
+  {
+    "q0": 46830964,
+    "q41": "Feels like an idle game; suggests learning from Octopath Traveler"
+  },
+  {
+    "q0": 46830379,
+    "q21": 1,
+    "q22": "Operators responsive about fixing bugs",
+    "q31": 1,
+    "q32": "Good welfare in test",
+    "q41": "Chinese GBF-like; requests bug fixes before launch"
+  },
+  {
+    "q0": 46830124,
+    "q31": 1,
+    "q32": "Welfare better than GBF; auto is smart",
+    "q41": "Needs server optimization and better auto settings; requests boss HP thresholds/special move markers; positive operator attitude"
+  },
+  {
+    "q0": 46830074,
+    "q21": 2,
+    "q22": "Visible overtime bug-fixing and frequent dev interactions"
+  },
+  {
+    "q0": 46824270,
+    "q31": 2,
+    "q32": "Very generous (10,000 crystals) if maintained at launch"
+  },
+  {
+    "q0": 46829954,
+    "q41": "Improved completion vs earlier tests; still needs performance optimization; requests clickable buff detail tooltips; more pixel character cutscene staging"
+  },
+  {
+    "q0": 46826385,
+    "q41": "Octopath-like art very close; points off for unstable servers and confusing gacha design"
+  },
+  {
+    "q0": 46829857
+  },
+  {
+    "q0": 46829669,
+    "q41": "UI uncomfortable; wants customizable joystick position; chat as small icon; collapsible menus"
+  },
+  {
+    "q0": 46829533,
+    "q41": "Good core gameplay but visuals coarse and many bugs"
+  },
+  {
+    "q0": 46829462,
+    "q41": "Only female protagonist; network unstable"
+  },
+  {
+    "q0": 46829446,
+    "q23": true,
+    "q24": "30 pulls guarantee a gold/SSR; exact rates unclear"
+  },
+  {
+    "q0": 46829420,
+    "q41": "Card pool odd: pity resets on permanent SSR; low UP rate"
+  },
+  {
+    "q0": 46829364,
+    "q41": "Image quality too blurry; pixel resolution seems low"
+  },
+  {
+    "q0": 46829245,
+    "q9": -1,
+    "q10": "Main story pacing slow to unlock new modes; rest is idle material grind",
+    "q41": "Pretty visuals but boring loop; little exploration desire"
+  },
+  {
+    "q0": 46829146,
+    "q41": "Cannot switch to landscape"
+  },
+  {
+    "q0": 46829020,
+    "q41": "Got stuck after relogging; could only wander town"
+  },
+  {
+    "q0": 46828890,
+    "q41": "GBF-like; many bugs and frequent crashes; hopes for improvement at launch"
+  },
+  {
+    "q0": 46828767,
+    "q41": "Promo shows landscape but game is portrait; portrait reduces visual impact; account disappeared after first exit; early dialogue writing criticized"
+  },
+  {
+    "q0": 46828762,
+    "q41": "Good operator attitude but weak technical execution"
+  },
+  {
+    "q0": 46828725,
+    "q41": "Many bugs: party screen black, main UI functions locked; core game is promising but needs fixes"
+  },
+  {
+    "q0": 46828639,
+    "q6": "Attribute-locked team building",
+    "q7": -2,
+    "q8": "Fixed-attribute comps make strategy feel absent",
+    "q41": "Beautiful art and okay story; gameplay repetitive"
+  },
+  {
+    "q0": 46828587,
+    "q1": true,
+    "q2": "Sexual/romantic themes concern (forced female MC, fear of yuri/boyfriend-centric plots)",
+    "q41": "Forced female protagonist raises concern about romance direction"
+  },
+  {
+    "q0": 46828405,
+    "q23": false,
+    "q24": "N/A",
+    "q41": "Claims no pity; character and pet share one pool; mentions AI-generated art"
+  },
+  {
+    "q0": 46828394,
+    "q41": "Dismissed as a reskinned ‘Legend’; advises pixel-art fans to skip"
+  },
+  {
+    "q0": 46828364,
+    "q41": "Positive first impression; Octopath-like art style"
+  },
+  {
+    "q0": 46828300,
+    "q41": "Must re-login every launch; frequent disconnects; main quest area locked despite level 1; frustrated user experience"
+  },
+  {
+    "q0": 46826374,
+    "q41": "Login black screen with only music; reinstalling and multiple retries eventually worked"
+  },
+  {
+    "q0": 46828092,
+    "q41": "Playable and likeable pixel style; major issues: freezes and black screens"
+  },
+  {
+    "q0": 46809135,
+    "q41": "HD-2D used mostly for maps/sprites; UI and item screens feel like generic MMO, causing tonal dissonance; character portraits lack Octopath/GBF quality"
+  },
+  {
+    "q0": 46827338,
+    "q41": "Black screen after login with only BGM; many users affected"
+  },
+  {
+    "q0": 46827337,
+    "q41": "Calls it an obvious GBF copy"
+  },
+  {
+    "q0": 46827296,
+    "q41": "Forces login every time; repeated phone registration prompts"
+  }
+]

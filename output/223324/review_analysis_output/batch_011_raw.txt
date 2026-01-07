@@ -1,0 +1,409 @@
+[
+  {
+    "q0": 39656701,
+    "q41": "Server is very poor/unstable."
+  },
+  {
+    "q0": 39656693,
+    "q41": "Network seemed fine but game reported registration full; cannot play despite test access."
+  },
+  {
+    "q0": 39656694,
+    "q41": "After downloading, still need to grab an activation/registration slot."
+  },
+  {
+    "q0": 39656692,
+    "q41": "Got test access only to download; in-game shows registration full—feels like download-count bait."
+  },
+  {
+    "q0": 39656682,
+    "q37": -2,
+    "q38": "Large additional downloads (3GB+ then another ~2GB) on mobile data.",
+    "q39": -2,
+    "q40": "Repeated resource downloads after restart but still cannot enter; server access failures.",
+    "q41": "Waited at launch; constant connection issues; wasted mobile data."
+  },
+  {
+    "q0": 39656679,
+    "q41": "Server crash at launch; stuck before name registration."
+  },
+  {
+    "q0": 39656676,
+    "q41": "Issued 'qualification' but blocked play; feels like download-bait."
+  },
+  {
+    "q0": 39656670
+  },
+  {
+    "q0": 39656669,
+    "q41": "Had qualification but game says registration slots are full."
+  },
+  {
+    "q0": 39656667,
+    "q41": "Server exploded at 11:00; by 11:02 registration already full."
+  },
+  {
+    "q0": 39656653,
+    "q37": -2,
+    "q38": "Requires downloading ~3GB data pack before knowing if you can actually register/play.",
+    "q41": "Repeated 'qualification' confusion; similar issue reportedly happened in a prior test."
+  },
+  {
+    "q0": 39656650,
+    "q41": "Accused of inflating download numbers."
+  },
+  {
+    "q0": 39656643,
+    "q41": "After server crash, registration becomes unavailable."
+  },
+  {
+    "q0": 39656640,
+    "q41": "Promotion continues while game reports registration full; suspects opaque operations."
+  },
+  {
+    "q0": 39655584,
+    "q4": -2,
+    "q5": "Severe stuttering; scene reloads; character cannot move.",
+    "q41": "Performance issues (frequent reloads, stuck character)."
+  },
+  {
+    "q0": 39656630,
+    "q41": "Wasted data; made players download but cannot play."
+  },
+  {
+    "q0": 39656629,
+    "q39": -2,
+    "q40": "Had to download full resources twice; frequent crashes; gacha page unusable.",
+    "q41": "Severe lag; tutorial crashes; gacha cannot be opened."
+  },
+  {
+    "q0": 39656620,
+    "q41": "TapTap 'test qualification' only allowed download; actual account registration blocked."
+  },
+  {
+    "q0": 39656613,
+    "q41": "Frustration with the testing/registration setup."
+  },
+  {
+    "q0": 39656602,
+    "q41": "Granted test qualification but game says no access; wasted download."
+  },
+  {
+    "q0": 39656596,
+    "q41": "Accuses the game of baiting downloads."
+  },
+  {
+    "q0": 39655726,
+    "q41": "Art, characters, and dialect VO are good; servers unstable; black screen mid-story forces replay; fast-forward tap cuts off voice lines."
+  },
+  {
+    "q0": 39656589,
+    "q41": "Unstable at open; later shows no qualification; suggests restricting downloads to confirmed testers."
+  },
+  {
+    "q0": 39656586,
+    "q41": "States 'having test qualification ≠ being able to play'."
+  },
+  {
+    "q0": 39656585,
+    "q41": "Calls it a scam and quits."
+  },
+  {
+    "q0": 39656519,
+    "q41": "Limited test still lets unqualified users download; same issue in prior test; blames shifted to TapTap."
+  },
+  {
+    "q0": 39656568,
+    "q41": "Pre-download test; server crash; 60k slots gone quickly; implies unfair registration rush."
+  },
+  {
+    "q0": 39656563,
+    "q41": "Server exploded at 11:00; then shows registration capacity full."
+  },
+  {
+    "q0": 39656124,
+    "q4": -1,
+    "q5": "Gameplay feels okay but heavy lag; 25 pulls yielded one SSR (off-banner).",
+    "q41": "Frequent loading/spinning; overall laggy."
+  },
+  {
+    "q0": 39656556,
+    "q41": "Had qualification and pre-updated; server crashed; afterward shows registration full."
+  },
+  {
+    "q0": 39656550,
+    "q41": "Registration full—pointless to test."
+  },
+  {
+    "q0": 39656551,
+    "q41": "Launch-time network errors; later says registration full; very poor first experience."
+  },
+  {
+    "q0": 39656549,
+    "q4": -1,
+    "q5": "Gameplay feels very ordinary; story pacing is draggy and unoriginal; character models not refined.",
+    "q41": "Wasted the 'antiquities' theme with mediocre story and visuals."
+  },
+  {
+    "q0": 39656547,
+    "q41": "Art, UI, and music praised but severe lag with constant reconnects."
+  },
+  {
+    "q0": 39656539,
+    "q41": "Downloaded then told registration is full."
+  },
+  {
+    "q0": 39656081,
+    "q4": -2,
+    "q5": "Battle victory incorrectly shows defeat; heavy loading after each action; gacha bug swallowed one of two SSRs from a 10-pull.",
+    "q41": "Serious bugs (wrong battle result; gacha reward lost)."
+  },
+  {
+    "q0": 39656535,
+    "q41": "Even with qualification, cannot get in due to congestion."
+  },
+  {
+    "q0": 39656525,
+    "q41": "Feels like being strung along."
+  },
+  {
+    "q0": 39656524,
+    "q37": -2,
+    "q38": "In-game repair triggered another ~3GB download.",
+    "q39": -2,
+    "q40": "After repair download, immediately hit registration cap.",
+    "q41": "Network unstable; registration cap reached mid-troubleshooting."
+  },
+  {
+    "q0": 39656523,
+    "q41": "Has qualification but still not allowed to play; first negative review."
+  },
+  {
+    "q0": 39656518,
+    "q41": "Qualification rules unclear; feels full of tricks."
+  },
+  {
+    "q0": 39656515,
+    "q41": "If servers are weak, don't force in-game registration race; could handle via TapTap instead."
+  },
+  {
+    "q0": 39656514,
+    "q41": "If you can't handle the test, don't run it."
+  },
+  {
+    "q0": 39656511,
+    "q41": "Obtained qualification but registration cap reached."
+  },
+  {
+    "q0": 39656481,
+    "q41": "Server crash; quits the game."
+  },
+  {
+    "q0": 39656508,
+    "q41": "Has qualification, but capacity full."
+  },
+  {
+    "q0": 39656507,
+    "q41": "TapTap 'qualification' still requires an in-game registration rush."
+  },
+  {
+    "q0": 39656198,
+    "q41": "Server meltdown; couldn't grab a slot; asks for an official response."
+  },
+  {
+    "q0": 39656505,
+    "q41": "Owns test qualification but registration is full."
+  },
+  {
+    "q0": 39656500,
+    "q41": "Don't run the test if you can't manage it."
+  },
+  {
+    "q0": 39656498,
+    "q41": "Feels toyed with; time wasted."
+  },
+  {
+    "q0": 39656493,
+    "q41": "Awarded test qualification; within 22 minutes shows full; heavy lag; limited slots not disclosed upfront; suspects hype farming."
+  },
+  {
+    "q0": 39656490,
+    "q41": "After downloading, told it's capped; test wasted time."
+  },
+  {
+    "q0": 39656482,
+    "q41": "Feels like being toyed with."
+  },
+  {
+    "q0": 39656478,
+    "q41": "Got qualification yesterday; after downloading, told registration is full."
+  },
+  {
+    "q0": 39656472,
+    "q41": "Black screen on the second stage."
+  },
+  {
+    "q0": 39656470,
+    "q41": "Server quality mocked; very poor stability."
+  },
+  {
+    "q0": 39656467,
+    "q41": "Stuck on 'reconnecting' repeatedly."
+  },
+  {
+    "q0": 39656463,
+    "q41": "Feels like being tricked."
+  },
+  {
+    "q0": 39656455,
+    "q27": -2,
+    "q28": "Claims non-paying users cannot really play; accuses the game of just chasing money.",
+    "q29": -2,
+    "q30": "Strong paywall/spending pressure perception.",
+    "q41": "Poor graphics and bad experience."
+  },
+  {
+    "q0": 39656448,
+    "q41": "TapTap says you have test qualification to download; Bilibili side says you lack test access."
+  },
+  {
+    "q0": 39656414,
+    "q41": "Reports 60k registration slots vanished almost instantly despite prior tests/lotteries; sarcastic hype."
+  },
+  {
+    "q0": 39656444,
+    "q3": "Turn-based tactics (war-chess/SRPG) with sequential unit action order.",
+    "q4": -1,
+    "q5": "Dislikes forced sequential action order.",
+    "q6": "War-chess grid tactics with strict per-unit turn order."
+  },
+  {
+    "q0": 39656429,
+    "q41": "Download requires qualification, then in-game also requires grabbing registration—feels like a fake ticket."
+  },
+  {
+    "q0": 39656422,
+    "q41": "Received 'qualification' but registration capacity full."
+  },
+  {
+    "q0": 39656421,
+    "q41": "Long-anticipated but disappointed by the registration trick."
+  },
+  {
+    "q0": 39656420,
+    "q41": "Test qualification seems to be download-only."
+  },
+  {
+    "q0": 39656419,
+    "q41": "Suddenly lost qualification."
+  },
+  {
+    "q0": 39656412,
+    "q41": "Why require in-game registration after giving 'qualification'? Wastes time."
+  },
+  {
+    "q0": 39656407,
+    "q41": "Wasted time and mobile data."
+  },
+  {
+    "q0": 39656408,
+    "q41": "Wasted time; allowed download but blocked testing."
+  },
+  {
+    "q0": 39656406,
+    "q41": "Brief network hiccup led to capacity cap; 'qualification' equated to download only; wasted data."
+  },
+  {
+    "q0": 39656231,
+    "q41": "Repeated 'network unstable' errors followed by capacity cap."
+  },
+  {
+    "q0": 39656404,
+    "q41": "Tried to rush registration at launch; constant network errors; then no qualification."
+  },
+  {
+    "q0": 39656403,
+    "q41": "Registration-rush testing accused of baiting downloads."
+  },
+  {
+    "q0": 39656401,
+    "q41": "Got qualification but cannot log in."
+  },
+  {
+    "q0": 39656395,
+    "q41": "Had download qualification; network wobble; then no registration slot."
+  },
+  {
+    "q0": 39656396,
+    "q41": "Prepared everything but told no slots; questions why downloads were open."
+  },
+  {
+    "q0": 39656385,
+    "q41": "If it's a registration rush, say so upfront; stop the tricks."
+  },
+  {
+    "q0": 39656390,
+    "q41": "TapTap 'qualification' only allowed download, not play."
+  },
+  {
+    "q0": 39656388
+  },
+  {
+    "q0": 39656389,
+    "q41": "Requires registering a role after 'qualification'; accuses download bait and monetization intent."
+  },
+  {
+    "q0": 39656387,
+    "q41": "Shouldn't have required a download; time wasted."
+  },
+  {
+    "q0": 39656386,
+    "q41": "Sarcasm about 'congratulations on test qualification'—implies it's meaningless."
+  },
+  {
+    "q0": 39656384,
+    "q41": "Immediately shows no qualification."
+  },
+  {
+    "q0": 39656383,
+    "q41": "Given test qualification but cannot enter."
+  },
+  {
+    "q0": 39656381,
+    "q41": "Played overseas CBT2, but here blocked within 30 minutes."
+  },
+  {
+    "q0": 39656379,
+    "q41": "Too laggy; asks for fixes."
+  },
+  {
+    "q0": 39656367,
+    "q41": "Bilibili qualification leads to lag then 'full'; TapTap qualification not recognized."
+  },
+  {
+    "q0": 39656363,
+    "q41": "Wasted download; network unstable; failed to get test rebate; won't spend at launch."
+  },
+  {
+    "q0": 39656361,
+    "q41": "Calls it word games; waste of time; very negative impression."
+  },
+  {
+    "q0": 39656357,
+    "q39": -1,
+    "q40": "Re-downloaded but still couldn't enter; finally lost qualification.",
+    "q41": "Access blocked despite retries."
+  },
+  {
+    "q0": 39656348,
+    "q41": "Has qualification but blocks registration; says 'next time see you'—user says 'never again'."
+  },
+  {
+    "q0": 39656346,
+    "q41": "Reminded of qualification but login shows registration full."
+  },
+  {
+    "q0": 39656345,
+    "q41": "Downloaded resources early; at start time still blocked; later told registration full."
+  }
+]

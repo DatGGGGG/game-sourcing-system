@@ -1,0 +1,544 @@
+[
+  {
+    "q0": 38042194,
+    "q41": "Complains about off-banner pulls on the rate-up three times; double-SSR pulls briefly renewed interest."
+  },
+  {
+    "q0": 38042188,
+    "q6": "Affection/favor system increases combat power.",
+    "q7": -1,
+    "q8": "Player finds tying power to affection progression unreasonable."
+  },
+  {
+    "q0": 38042042,
+    "q9": -1,
+    "q10": "Rewards are gated behind clearing certain stages."
+  },
+  {
+    "q0": 38041840,
+    "q31": -2,
+    "q32": "Benefits are poor and locked until chapters are cleared."
+  },
+  {
+    "q0": 38041814,
+    "q41": "Describes it as a gacha simulator with little to play."
+  },
+  {
+    "q0": 38041804,
+    "q15": "Stamina-limited stage clearing; once stamina is spent there’s nothing else to do.",
+    "q17": 2,
+    "q18": "Very straightforward loop that ends when stamina runs out.",
+    "q27": -2,
+    "q28": "Progress and power heavily tied to spending/gacha and codex unlocks.",
+    "q29": -2,
+    "q30": "Heavy pay prompts; strength primarily from gacha/codex rather than gameplay.",
+    "q31": -2,
+    "q32": "Free progression feels blocked without spending; rewards perceived as stingy.",
+    "q41": "Alleges presence of paid shills and that the game pushes players to pay."
+  },
+  {
+    "q0": 38041770,
+    "q31": -2,
+    "q32": "Half a day of play only afforded a single 10-pull; benefits called zero."
+  },
+  {
+    "q0": 38041758,
+    "q1": true,
+    "q2": "Sexual content (art) mentioned as censored.",
+    "q4": -1,
+    "q5": "Gameplay is boring; kept only as a side game for the art."
+  },
+  {
+    "q0": 38041729,
+    "q27": -2,
+    "q28": "Core conveniences like 10x speed are paywalled; whales get immediate power spikes.",
+    "q29": -2,
+    "q30": "Numerous monetization points; very low free pulls; urges buying packs for draws.",
+    "q31": -2,
+    "q32": "Free draws are scarce; suggests paying multiple 98 RMB packs for draws.",
+    "q41": "Notes early-game whales achieving full-star progress rapidly."
+  },
+  {
+    "q0": 38041690,
+    "q41": "iOS and Android accounts/servers are not interoperable."
+  },
+  {
+    "q0": 38041614
+  },
+  {
+    "q0": 38041600,
+    "q29": -2,
+    "q30": "Monetization is in-your-face; suggests playing another game for similar art focus."
+  },
+  {
+    "q0": 38041586,
+    "q4": -2,
+    "q5": "Battle feels uninteresting; overall gameplay underwhelming; gacha feels predatory."
+  },
+  {
+    "q0": 38041490,
+    "q41": "Feels derivative of earlier Youzu titles with similar monetization."
+  },
+  {
+    "q0": 38041431,
+    "q29": -2,
+    "q30": "While story/battle can be skipped, monetization pressure is inescapable.",
+    "q41": "Notes both story and battle can be skipped."
+  },
+  {
+    "q0": 38041414,
+    "q41": "Perceives near-guarantee gacha but unlucky; early whales reaching very high power within hours."
+  },
+  {
+    "q0": 38034070,
+    "q41": "Server change caused redemption code already used; uninstalled due to poor first-server luck and code issues."
+  },
+  {
+    "q0": 38041361
+  },
+  {
+    "q0": 38041344,
+    "q4": -1,
+    "q5": "Does not like the chibi big-head battle presentation and finds gameplay/visuals lacking."
+  },
+  {
+    "q0": 38041240,
+    "q1": true,
+    "q2": "Sexual content noted as censored.",
+    "q31": -2,
+    "q32": "Resources rated extremely poor; gacha and growth experiences slammed.",
+    "q41": "Highly negative across art, music, and operations."
+  },
+  {
+    "q0": 38041233,
+    "q29": -1,
+    "q30": "Limited-time diamond vouchers encourage small purchases early."
+  },
+  {
+    "q0": 38041075,
+    "q41": "Says nothing is good except the artwork."
+  },
+  {
+    "q0": 38041028,
+    "q41": "Launch-day login issues; many empty servers; low population."
+  },
+  {
+    "q0": 38041024,
+    "q31": 1,
+    "q32": "States that many welfare/rewards are given despite other issues.",
+    "q41": "Low stamina; no save in Black Abyss; high star-up demands; suspects shills; gameplay feels cobbled together."
+  },
+  {
+    "q0": 38041000,
+    "q27": -2,
+    "q28": "Various functions unlock only after purchasing multiple monthly cards.",
+    "q29": -2,
+    "q30": "Screen filled with packs and monetization (multiple month cards, passes, coupons)."
+  },
+  {
+    "q0": 37587513,
+    "q1": true,
+    "q2": "Sexual content (art) censored; player would have spent if uncensored."
+  },
+  {
+    "q0": 38040924,
+    "q31": -2,
+    "q32": "Rewards and 10-pull access are gated by chapter clears with 24h expiry; had to spend diamonds to reach a 10-pull.",
+    "q41": "Uninstalled after poor draws; notes decent art/skill animation."
+  },
+  {
+    "q0": 38037848,
+    "q23": true,
+    "q24": "Rate-up banner uses a pity/ceiling system: 50-pull pity, rate-up protection after multiple off-banner pulls, and a hard pity around 250 pulls (one spark).",
+    "q25": -1,
+    "q26": "Even at 150 gems per pull, resources are hard to save and the 250-pull ceiling is deep.",
+    "q31": -1,
+    "q32": "Resources are not easy to accumulate; early SEA version was very stingy.",
+    "q41": "Advises saving 250 pulls if targeting a specific unit; mentions many SSR are weak and wonders about an Overlord collab."
+  },
+  {
+    "q0": 38040913,
+    "q31": -1,
+    "q32": "Feels like a less generous version of a comparable title."
+  },
+  {
+    "q0": 38040842,
+    "q29": -2,
+    "q30": "Early limited-time vouchers requiring cash and paid rename; starter 10-pull locked behind chapter 7 with 24h limit.",
+    "q31": -1,
+    "q32": "Starter ten-pull gated by progression and expires; additional costs like rename."
+  },
+  {
+    "q0": 38040752,
+    "q31": -2,
+    "q32": "Daily diamond income (~100) is insufficient relative to gacha odds and pity; limited-time vouchers push spending.",
+    "q11": -2,
+    "q12": "SSR units vastly outperform lower rarities; buffs target gold units; purple cards are unusable."
+  },
+  {
+    "q0": 38040389,
+    "q1": true,
+    "q2": "Sexual content censored.",
+    "q31": -2,
+    "q32": "Promised free pulls are time-limited and restricted to low-tier banners; other rewards scarce; stamina/level gating reduces fun.",
+    "q41": "Accuses review manipulation and misleading marketing; suggests no clear pity; recommends avoiding."
+  },
+  {
+    "q0": 38039965,
+    "q29": -2,
+    "q30": "Describes gameplay as monotonous with various monetization hooks.",
+    "q41": "Says there is no playability."
+  },
+  {
+    "q0": 38039889,
+    "q6": "Resource/upgrade swap system (progression investment can be transferred between units).",
+    "q7": 1,
+    "q8": "Swap system increases flexibility in team building and investment.",
+    "q4": -1,
+    "q5": "Hit animations feel like a web game; presentation underwhelming.",
+    "q29": -1,
+    "q30": "UI feels cluttered and pay-heavy, evoking a P2W mini-game."
+  },
+  {
+    "q0": 38039836,
+    "q31": -2,
+    "q32": "The touted 100 pulls are gated by chapters and other conditions; forced viewing of animations.",
+    "q41": "Poor visual quality for 4GB; alleges fast review deletions."
+  },
+  {
+    "q0": 38039718,
+    "q39": -1,
+    "q40": "Mid-session resource download popup with only a confirm option interrupts play.",
+    "q4": -1,
+    "q5": "Repetitive skill animations and a forced, lengthy tutorial."
+  },
+  {
+    "q0": 38039675,
+    "q6": "Multiple stat-boost systems (skins with stats, housing/home buffs, bond/affection buffs).",
+    "q7": 0,
+    "q8": "Heavily numbers-driven; many additive systems but limited tactical choices.",
+    "q11": -2,
+    "q12": "SSR units overwhelmingly stronger than SR/R (reported ~7x gap).",
+    "q23": true,
+    "q24": "Reports a spark around 200 pulls on some banners.",
+    "q31": 0,
+    "q32": "Estimates ~70 pulls/month for F2P; 200–250 with light spending.",
+    "q29": -1,
+    "q30": "Zero-spend is painful; suggests ~100 CNY/month for a comfortable experience."
+  },
+  {
+    "q0": 38039568,
+    "q3": "Turn-based combat where turn order and outcomes are largely determined by power; higher power moves first.",
+    "q4": -2,
+    "q5": "Pure numbers game with little strategy; whales dominate.",
+    "q7": -2,
+    "q8": "Combat outcome hinges on stats/power rather than tactics.",
+    "q23": true,
+    "q24": "States that the rate-up is guaranteed only at 250 pulls (hard pity/spark).",
+    "q29": -2,
+    "q30": "Recommends avoiding if not spending; suggests heavy pay advantage."
+  },
+  {
+    "q0": 38039400,
+    "q29": -2,
+    "q30": "Seven–eight different monetization tracks (multiple cards, passes, packs); poor draw rates and perceived bad luck when spending.",
+    "q41": "Claims F2P luck feels better than spender luck."
+  },
+  {
+    "q0": 38039260,
+    "q41": "Poor graphics; new-player guide disappeared after relog; encountered an early progression block."
+  },
+  {
+    "q0": 38035999,
+    "q29": -2,
+    "q30": "Many monetization points and events feel like bait; overwhelming and tiring, reminiscent of page-game design.",
+    "q41": "Feels like a web/app mini-game with heavy pay focus."
+  },
+  {
+    "q0": 38038504,
+    "q3": "Turn-based combat.",
+    "q4": -1,
+    "q5": "Very long tutorial; turn-based pacing can feel dull to veterans."
+  },
+  {
+    "q0": 38037944,
+    "q1": true,
+    "q2": "Sexualized art (dynamic, erotic).",
+    "q3": "Auto-battle with 3x speed and battle skip options.",
+    "q4": -1,
+    "q5": "Combat is overly simple due to auto/skip features.",
+    "q29": -2,
+    "q30": "Heavy monetization including limited-time deep discount recharge items.",
+    "q41": "High shard requirements for ascension; servers feel MMO-like; story/VA impressions mixed."
+  },
+  {
+    "q0": 38037916,
+    "q3": "Tap-to-cast skills or fully automated; 6-unit chibi team.",
+    "q4": -2,
+    "q5": "Requires little to no player input; battles feel bad.",
+    "q31": -2,
+    "q32": "Promised 100 free pulls are gated by conditions, feeling deceptive."
+  },
+  {
+    "q0": 38037780,
+    "q41": "Tutorial is overly complex; rewards widely criticized; lacks novelty and core appeal."
+  },
+  {
+    "q0": 38037410,
+    "q31": -2,
+    "q32": "Daily and self-select pulls and pre-reg rewards are locked behind specific stage milestones."
+  },
+  {
+    "q0": 38037317,
+    "q4": -1,
+    "q5": "Cute 3D chibis but poor hit feedback; asks for improvement."
+  },
+  {
+    "q0": 38037156,
+    "q4": -1,
+    "q5": "Gameplay is boring with a long, patronizing tutorial; mentions server rolling.",
+    "q41": "Cannot continue due to dull gameplay and long tutorial."
+  },
+  {
+    "q0": 38037065,
+    "q41": "Very low drop rates; overall experience poor."
+  },
+  {
+    "q0": 38036669,
+    "q15": "Idle/AFK stage grinding constrained by stamina.",
+    "q17": 2,
+    "q18": "Simple, straightforward loop suited to idle grinding.",
+    "q19": -1,
+    "q20": "Low stamina limits XP/resources; leveling feels slow.",
+    "q31": 1,
+    "q32": "Diamonds are relatively easy to obtain, though stamina is scarce.",
+    "q41": "Notes 150 diamonds per pull and frequent off-banner results."
+  },
+  {
+    "q0": 38036554,
+    "q31": -2,
+    "q32": "Limited-time one-day ten-pull takes a long time to unlock; feels like a ‘2D Legend’ style bait."
+  },
+  {
+    "q0": 38036156,
+    "q1": true,
+    "q2": "Sexualized body features highlighted; fully voiced content noted.",
+    "q41": "Story is middling; gacha section left blank by user."
+  },
+  {
+    "q0": 38036257,
+    "q1": true,
+    "q2": "Sexual content is said to be censored.",
+    "q41": "Very generic and boring; too many similar games."
+  },
+  {
+    "q0": 38036052,
+    "q31": -2,
+    "q32": "The advertised 100 pulls are a marketing gimmick/word game.",
+    "q29": -2,
+    "q30": "Many recharge buttons and pushy monetization."
+  },
+  {
+    "q0": 38035942,
+    "q29": -1,
+    "q30": "Game revolves around raising power; whales favored; relic gacha rates feel low.",
+    "q31": -1,
+    "q32": "Even after the ‘hundred pulls,’ you must clear several chapters to claim rewards."
+  },
+  {
+    "q0": 38035907,
+    "q4": -1,
+    "q5": "Long unskippable new-player tutorial and unskippable skill animations waste time."
+  },
+  {
+    "q0": 38035858,
+    "q9": -2,
+    "q10": "Non-spenders get stuck in stages; welfare is scarce.",
+    "q31": -1,
+    "q32": "Benefits reported as low, contributing to progression blocks."
+  },
+  {
+    "q0": 38035763,
+    "q41": "Only the art style is considered an advantage."
+  },
+  {
+    "q0": 38035752,
+    "q29": -1,
+    "q30": "Heavy spending burden; will only dabble due to cost."
+  },
+  {
+    "q0": 38035608,
+    "q29": -2,
+    "q30": "Requires 8 dupes to max; low rates; daily ‘free 10-pull’ used as retention bait; numerous funds to buy.",
+    "q41": "Claims early SSR chances are negligible and calls the game a ‘funds’ frenzy."
+  },
+  {
+    "q0": 38035607,
+    "q31": -2,
+    "q32": "Low draw rates and very little pull currency—only four 10-pulls in two hours."
+  },
+  {
+    "q0": 38035560,
+    "q41": "Entered for art and story; gameplay common but suggests exploration; praises specific characters."
+  },
+  {
+    "q0": 38035509,
+    "q3": "Turn-based card-style battles with notable attack/skill animations.",
+    "q4": 1,
+    "q5": "Main story animation and in-battle effects are smooth and enjoyable."
+  },
+  {
+    "q0": 38035311,
+    "q3": "Main campaign stages can be skipped, indicating less focus on hands-on gameplay.",
+    "q41": "Treats it as a side game; notes CN version is more convenient despite having fewer elements than global."
+  },
+  {
+    "q0": 38035279,
+    "q41": "Praised art and anime-like scenes; favorite characters highlighted."
+  },
+  {
+    "q0": 38035276,
+    "q1": true,
+    "q2": "Sexual content is toned down/censored in CN.",
+    "q4": 1,
+    "q5": "Combat feels smooth; chibi art is cute; requests more welfare."
+  },
+  {
+    "q0": 38035275,
+    "q4": -1,
+    "q5": "Ultimate animation and attack are not linked, hurting perceived flow."
+  },
+  {
+    "q0": 38035256,
+    "q23": false,
+    "q31": -1,
+    "q32": "Self-select 10-pull tied to chapters; questions strange up rates and lack of pity."
+  },
+  {
+    "q0": 38035239,
+    "q1": true,
+    "q2": "Sexual content heavily censored.",
+    "q41": "Low gacha rates make it unplayable for the user."
+  },
+  {
+    "q0": 38035111,
+    "q4": -1,
+    "q5": "Some SSRs lack skill animations; welfare feels worse than a comparable title.",
+    "q31": -1,
+    "q32": "Welfare not as generous as similar games."
+  },
+  {
+    "q0": 38035188,
+    "q1": true,
+    "q2": "Sexualized art (‘涩涩’) noted.",
+    "q31": 1,
+    "q32": "Early CN welfare praised, including a free SSR; hopes for good operations."
+  },
+  {
+    "q0": 38035158,
+    "q31": 1,
+    "q32": "Gives an initial ten-pull and is easy to play; classic JRPG card gameplay with CGs.",
+    "q41": "UI is polished; art has appeal."
+  },
+  {
+    "q0": 38035148,
+    "q29": -1,
+    "q30": "Feels like a ‘Legend’-style P2W; recommends only for killing time."
+  },
+  {
+    "q0": 38035131,
+    "q29": -2,
+    "q30": "Onboarding guides players to the cash shop; daily 10-pull in bag is time-limited.",
+    "q31": -2,
+    "q32": "First 10-pull requires clearing stages; rewards are time-limited and gated."
+  },
+  {
+    "q0": 38035106,
+    "q3": "Turn-based strategy with planning-heavy skill usage, skill trees, and character upgrades.",
+    "q4": 2,
+    "q5": "Deep tactical decisions and fair difficulty curve with satisfying battles.",
+    "q7": 2,
+    "q8": "Multiple build paths and planning via skill trees/upgrades; choices impact outcomes.",
+    "q21": 1,
+    "q22": "Claims the team responds to feedback, fixes bugs, and adds content regularly.",
+    "q29": 1,
+    "q30": "IAP options reportedly do not break balance and feel optional."
+  },
+  {
+    "q0": 38034501,
+    "q15": "Daily resource dungeons via automatic sweep; collect characters and enjoy L2D/ultimate animations as a side loop.",
+    "q17": 2,
+    "q18": "Auto-sweep makes daily resource collection effortless.",
+    "q41": "Highlights L2D and ultimate animations; relaxing routine."
+  },
+  {
+    "q0": 38034991,
+    "q3": "Stage-based ‘Legend’-style progression with sweep, speed-up, and battle skip; focuses on power stacking.",
+    "q4": -1,
+    "q5": "Core loop feels shallow and repetitive; gameplay is dated.",
+    "q9": -1,
+    "q10": "Fast early growth slows to a grindy, bottomless progression later."
+  },
+  {
+    "q0": 38034927,
+    "q23": true,
+    "q24": "Mentions a ‘big pity’ after four off-banner pulls for the rate-up.",
+    "q15": "Idle auto-battle; set it running and wait.",
+    "q17": 2,
+    "q18": "Little to do beyond letting the phone auto-play.",
+    "q29": -2,
+    "q30": "Spending directly boosts power; many monetized events and server-wide purchases give a ‘Legend’ vibe.",
+    "q41": "Reports deeply off-banner gacha and heavy recharge prompts."
+  },
+  {
+    "q0": 38034881,
+    "q41": "Good motion/UI and many early story animations; hopes gacha will be kind."
+  },
+  {
+    "q0": 38034878,
+    "q29": -2,
+    "q30": "Recharge windows dominate the UI; multiple expensive funds; chat filled with shills pushing spending."
+  },
+  {
+    "q0": 38034867,
+    "q31": -1,
+    "q32": "Feels there isn’t much welfare; overall playability is low for this user.",
+    "q4": -1,
+    "q5": "Gameplay didn’t click; mainly liked the art."
+  },
+  {
+    "q0": 38034843,
+    "q41": "Art and character designs highly praised; considered strong 2D fanservice."
+  },
+  {
+    "q0": 38034840,
+    "q29": -2,
+    "q30": "Claims a must-have meta card requires ~3000 RMB and PvP has high weight; decided to quit."
+  },
+  {
+    "q0": 38034670,
+    "q41": "Downloaded due to attractive ad art; praises character design."
+  },
+  {
+    "q0": 38034784,
+    "q41": "Very enthusiastic about character designs; eager to spend due to favorites."
+  },
+  {
+    "q0": 38034761,
+    "q31": -1,
+    "q32": "Rewards system feels stingy; gacha experience rated negatively."
+  },
+  {
+    "q0": 38034743,
+    "q41": "Opening and visuals highly attractive; encourages others to download to view characters."
+  },
+  {
+    "q0": 38034741,
+    "q41": "Requests quick buttons for every mode to save time."
+  },
+  {
+    "q0": 38034711,
+    "q31": -1,
+    "q32": "Rerolls for a specific unit failed across multiple accounts; early pulls felt unsatisfying."
+  }
+]

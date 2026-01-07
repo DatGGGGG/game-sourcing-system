@@ -1,0 +1,489 @@
+[
+  {
+    "q0": 38020012,
+    "q3": "Traditional stage-pushing gameplay; core appeal mainly the character artwork",
+    "q4": -1,
+    "q5": "Described as a generic push-map game where only the artwork stands out"
+  },
+  {
+    "q0": 38019393,
+    "q6": "Has PvP focus/modes",
+    "q41": "Reviewer dislikes that it’s PvP"
+  },
+  {
+    "q0": 38019330
+  },
+  {
+    "q0": 38019036,
+    "q41": "Attracted by the artwork; hopes story and gameplay improve"
+  },
+  {
+    "q0": 38019036,
+    "q41": "Attracted by the artwork; hopes story and gameplay improve"
+  },
+  {
+    "q0": 38017378,
+    "q27": 1,
+    "q28": "F2P reached ~20M power; events provide OK benefits",
+    "q31": 0,
+    "q32": "Daily income is low but event rewards are decent; some skins can be obtained free",
+    "q41": "Level-gated events are annoying; banners are very off-rate; chasing bond double-UP is painful"
+  },
+  {
+    "q0": 38015478,
+    "q1": true,
+    "q2": "Sexualized outfits/partial nudity; concern about censorship",
+    "q41": "Wants CN version to keep revealing outfits similar to overseas"
+  },
+  {
+    "q0": 38014804,
+    "q1": true,
+    "q2": "Sexualized cover art"
+  },
+  {
+    "q0": 38014650,
+    "q1": true,
+    "q2": "Sexual content subject to censorship",
+    "q41": "Curious how much will be censored"
+  },
+  {
+    "q0": 38013127
+  },
+  {
+    "q0": 38012810
+  },
+  {
+    "q0": 38012744,
+    "q31": -2,
+    "q32": "Pre-registration pre-pull event called a joke"
+  },
+  {
+    "q0": 38012636
+  },
+  {
+    "q0": 38011933
+  },
+  {
+    "q0": 38011562
+  },
+  {
+    "q0": 38010944
+  },
+  {
+    "q0": 38009738
+  },
+  {
+    "q0": 38008968
+  },
+  {
+    "q0": 38008592,
+    "q1": true,
+    "q2": "Sexual content likely censored in CN version",
+    "q41": "Low expectations due to anticipated censorship"
+  },
+  {
+    "q0": 38008511
+  },
+  {
+    "q0": 37814938,
+    "q1": true,
+    "q2": "Sexualized artwork; complains about heavy censorship on later versions",
+    "q6": "Guild choice matters for PvP ‘Outpost Shadow Hunt’ with rich rewards; actively join events",
+    "q9": -1,
+    "q10": "Playable as F2P but described as grindy; comfort improves with light spending",
+    "q23": true,
+    "q24": "Newbie 10-pull guarantees SSR; rotating UP banners with pity but frequent off-banner results",
+    "q27": 1,
+    "q28": "Zero-spend recommended yet grindy; can play without paying",
+    "q29": -2,
+    "q30": "Reviewer states it’s for big spenders despite being playable F2P",
+    "q41": "Story is weak; requests anti-censorship; gacha feels very off-rate"
+  },
+  {
+    "q0": 38008350,
+    "q23": true,
+    "q24": "Frequent pity triggers yet still off-banner; CN CBT experience had constant pity hits",
+    "q41": "Aside from gacha pity/off-rate issues, other aspects were fine"
+  },
+  {
+    "q0": 38008101
+  },
+  {
+    "q0": 38008076,
+    "q1": true,
+    "q2": "Sexualized content; CN expected to censor many assets",
+    "q9": -1,
+    "q10": "Progression/raising is described as grindy",
+    "q31": 1,
+    "q32": "Welfare ‘quite good’, includes three SSR self-selects; but banners are off-rate"
+  },
+  {
+    "q0": 38007945,
+    "q1": true,
+    "q2": "Sexual content; desire for anti-censorship",
+    "q41": "Would rate 5 stars if anti-censorship available"
+  },
+  {
+    "q0": 38007846
+  },
+  {
+    "q0": 38007752
+  },
+  {
+    "q0": 38006803,
+    "q1": true,
+    "q2": "Sexualized artwork; CN version expected to censor",
+    "q41": "Says game has nothing besides artwork and advises not to spend"
+  },
+  {
+    "q0": 38004742
+  },
+  {
+    "q0": 38004166,
+    "q1": true,
+    "q2": "Sexual visuals censored in CN; skins with stat bonuses",
+    "q11": -2,
+    "q12": "SSR vastly stronger than SR/R (e.g., SSR normals > SR ult; SSR ult > SR by 10x); heavy stat jumps per star",
+    "q15": "Dorm/furniture and affection systems that increase team-wide stats; skins also grant team stats",
+    "q16": false,
+    "q17": 1,
+    "q18": "Straightforward: buy/unlock items, place furniture, raise affection to boost stats",
+    "q19": -1,
+    "q20": "Stat boosts tied to furniture/skins imply spend to gain power; not a generous resource source",
+    "q23": true,
+    "q24": "Character pity can take up to 250 pulls; weapons lack hard pity but can be exchanged via stones earned per 5 pulls; star-ups to 7 require many dupes with large stat increases",
+    "q25": -2,
+    "q26": "Weapon exchange needs substantial currency (e.g., ~7,500 gems) and many dupes for stars",
+    "q29": -2,
+    "q30": "Skins and furniture add stats; skip locked behind high clear; heavy dupe/star dependence",
+    "q41": "Skip requires clearing hardest difficulties; skins add team attributes; dorm furniture boosts power; heavy duplication requirements"
+  },
+  {
+    "q0": 37999508,
+    "q1": true,
+    "q2": "Sexualized/censored cover art"
+  },
+  {
+    "q0": 37998741
+  },
+  {
+    "q0": 37996478,
+    "q41": "Negative sentiment toward publisher (Youzu)"
+  },
+  {
+    "q0": 37996150
+  },
+  {
+    "q0": 37995201,
+    "q9": -1,
+    "q10": "Concerns that event battle power requirements may keep increasing"
+  },
+  {
+    "q0": 37993693,
+    "q1": true,
+    "q2": "Sexualized artwork (‘lewd’ art)",
+    "q3": "Fully auto-battle card game; flashy animations",
+    "q4": -1,
+    "q5": "Combat is too simple and fully automated; animations nice but gets old"
+  },
+  {
+    "q0": 37992414,
+    "q1": true,
+    "q2": "Sexual content; fears of censorship",
+    "q41": "Requests no censorship in CN"
+  },
+  {
+    "q0": 37991993,
+    "q1": true,
+    "q2": "Censored cover (white fog); sexualized art",
+    "q41": "Critiques that only art is good; suggests ‘go into adult content’ if gameplay is weak"
+  },
+  {
+    "q0": 37987711,
+    "q1": true,
+    "q2": "Advertisements with ‘holy light’ censorship"
+  },
+  {
+    "q0": 37987658,
+    "q1": true,
+    "q2": "Sexualized artwork likely censored in CN",
+    "q41": "Overseas version felt OK after two days"
+  },
+  {
+    "q0": 37985338,
+    "q6": "Team of six units plus Relics (Ancients) and Pets (Origin Beasts); level ‘slots’ instead of individual characters; one-click inheritance",
+    "q9": 1,
+    "q10": "Slot-based growth and inherit system is described as friendly to grinding"
+  },
+  {
+    "q0": 37985003
+  },
+  {
+    "q0": 37983568
+  },
+  {
+    "q0": 37981179,
+    "q41": "Dislikes chibi/mini models"
+  },
+  {
+    "q0": 37980764,
+    "q31": -2,
+    "q32": "Mailbox empty, very stingy; after about 18 pulls decided to uninstall",
+    "q41": "QoL locked late (skip/fastforward around Ch10); only one summon pool early; time-wasting design"
+  },
+  {
+    "q0": 37979350,
+    "q31": -1,
+    "q32": "Invite-based pre-registration activity is off-putting",
+    "q41": "Dislikes invitation reservation activity"
+  },
+  {
+    "q0": 37979131,
+    "q1": true,
+    "q2": "Sexualized ‘waifu collector’; CN expected to add more clothing"
+  },
+  {
+    "q0": 37977432,
+    "q31": -2,
+    "q32": "Called the stingiest anime-style mobile game"
+  },
+  {
+    "q0": 37977104
+  },
+  {
+    "q0": 37975898
+  },
+  {
+    "q0": 37974248,
+    "q41": "Hopes gameplay can be further polished before launch"
+  },
+  {
+    "q0": 37973474
+  },
+  {
+    "q0": 37964511,
+    "q1": true,
+    "q2": "Sexualized/‘generous’ character artwork; ‘welfare game’ due to lewd art focus"
+  },
+  {
+    "q0": 37971502,
+    "q1": true,
+    "q2": "Concern over sexual content being covered up in CN"
+  },
+  {
+    "q0": 37964670,
+    "q1": true,
+    "q2": "Sexualized art expected to be censored in CN",
+    "q27": -1,
+    "q28": "Recommends F2P to play international server instead; CN seen as offering few advantages",
+    "q31": -2,
+    "q32": "States welfare is basically nonexistent"
+  },
+  {
+    "q0": 37961747
+  },
+  {
+    "q0": 37955756,
+    "q41": "Player avatar/protagonist presentation hurts immersion (clear self-insert stored in ‘warehouse’)"
+  },
+  {
+    "q0": 37955450,
+    "q31": -2,
+    "q32": "Pre-pull requires sharing with two people for SSR; sharing didn’t grant pulls; very stingy",
+    "q41": "Frustration with broken/conditional pre-pull event"
+  },
+  {
+    "q0": 37953399,
+    "q31": -1,
+    "q32": "Pre-draw event turned them off from playing"
+  },
+  {
+    "q0": 37950925,
+    "q31": -2,
+    "q32": "Reservation draw is very stingy; overall benefits called too tightfisted"
+  },
+  {
+    "q0": 37950513,
+    "q6": "6-unit team + 4 Relics + 3 Pets; slot-based growth; many PvP modes (Faith Liberation, Beast/King, Outpost, Instant Raid, Radiance Festival), high-difficulty towers and co-op",
+    "q9": -1,
+    "q10": "Many time-consuming daily/weekly PvP tasks; some high-end modes require manual play and high power",
+    "q11": -1,
+    "q12": "UP units often power-crept quickly; investing in a unit can be invalidated by next banner",
+    "q15": "Skins and furniture systems; some skins are event/paid and furniture sets add attributes/comfort bonuses",
+    "q16": false,
+    "q19": -1,
+    "q20": "Skins/furniture contribute stats, often tied to paid/event acquisition",
+    "q21": 2,
+    "q22": "Limited events run roughly every two weeks with no breaks",
+    "q23": true,
+    "q24": "Characters: 3% SSR, 50-pull pity, 40% UP, weighted pity guarantees after several off-banners; Weapons: 5% SSR, 30-pull pity, 80% UP; Pets: ~2% SSR, ~80-pull pity; Relics: 0.2% full, shards 2.6%, no hard pity, shards from pulls (500 to exchange)",
+    "q25": -1,
+    "q26": "Multiple independent pools with pity/shards; Relic pool is a ‘no bottom’ sink",
+    "q27": -1,
+    "q28": "F2P can play but many high-difficulty/PvP modes favor spenders; numerous monetization hooks",
+    "q29": -2,
+    "q30": "Heavy dupe/star needs and multiple gacha pools; many paid bundles and PvP emphasis increase pressure",
+    "q31": -1,
+    "q32": "Perceived welfare reduced over time (fewer sign-ins/freebies); playerbase shrinking",
+    "q41": "Low player retention; no server merges; suspicion of worse gacha luck after heavy spending"
+  },
+  {
+    "q0": 37947748,
+    "q41": "Initially avoided due to chibi look; wants clearer feature communication"
+  },
+  {
+    "q0": 37945063
+  },
+  {
+    "q0": 37943655,
+    "q1": true,
+    "q2": "Sexual content expected to be censored in CN",
+    "q41": "Warns players to avoid; no expectations for CN"
+  },
+  {
+    "q0": 37941460,
+    "q1": true,
+    "q2": "Sexualized art is main draw; CN will censor",
+    "q9": -2,
+    "q10": "High grind; non-spenders struggle with events; PvP is very competitive and time-consuming",
+    "q11": -2,
+    "q12": "Most units need 3 copies to be usable and 5 to ‘graduate’; strong units needed for main/story",
+    "q23": true,
+    "q24": "Remembers pity as 60/80 with 3 small pities leading to a large pity (~180 total); low gem income and frequent off-banner",
+    "q29": -2,
+    "q30": "Requires multiple constellations/copies to meet difficulty; events and PvP demand power",
+    "q31": -2,
+    "q32": "Welfare is ‘pitiful’; gems mainly from events; daily/weekly give very little",
+    "q41": "Negative view on publisher (Youzu) and heavy censorship concerns"
+  },
+  {
+    "q0": 37939869,
+    "q1": true,
+    "q2": "Adult/sexual content expectation; requests 18+ or separate version",
+    "q41": "Suggests separate versions (with/without identity checks) for adult content"
+  },
+  {
+    "q0": 37939165,
+    "q41": "Downvotes due to publisher (Youzu); mistrust of monetization/behavior"
+  },
+  {
+    "q0": 37938374,
+    "q1": true,
+    "q2": "Sexualized character designs fitting user’s fetishes"
+  },
+  {
+    "q0": 37938139
+  },
+  {
+    "q0": 37932618
+  },
+  {
+    "q0": 37931704
+  },
+  {
+    "q0": 37931321
+  },
+  {
+    "q0": 37928943,
+    "q41": "Negative perception of publisher (Youzu)"
+  },
+  {
+    "q0": 37928469
+  },
+  {
+    "q0": 37927891,
+    "q41": "Hopes launch is stable and doesn’t crash like other recent titles"
+  },
+  {
+    "q0": 37927549,
+    "q41": "Publisher’s overseas version ‘already scolded badly’"
+  },
+  {
+    "q0": 37800584,
+    "q41": "Played on OPPO channel; felt not good"
+  },
+  {
+    "q0": 37066891,
+    "q1": true,
+    "q2": "Sexualized artwork as main draw; CN expected to censor",
+    "q3": "Auto-battle only; minimal strategy; stat-check battles; many fights can be skipped",
+    "q4": 1,
+    "q5": "Enjoys low-cognition, skip-friendly gameplay for a sub game",
+    "q6": "Slot-based ‘three-phantom’ growth; raise slots not individual characters",
+    "q7": -2,
+    "q8": "States ‘almost no strategy’; power check decides outcomes",
+    "q9": 1,
+    "q10": "One-click dailies; late-game daily time under 10 minutes",
+    "q23": true,
+    "q24": "200 gems per pull; 50-pull pity; 4 small pities to big; worst-case ~250 pulls; separate pools for characters, weapons, relics, pets",
+    "q27": 1,
+    "q28": "Suitable as a sub game; can save enough for one pity per ~23-day banner",
+    "q29": 1,
+    "q30": "Low gameplay demands and decent accrual make spending optional",
+    "q31": 1,
+    "q32": "Welfare ‘quite high’ vs peers; can save a pity per banner; skins (non-limited) redeemable with gems"
+  },
+  {
+    "q0": 37922197,
+    "q9": -2,
+    "q10": "Progression gated by resources and victory conditions; new player events are very hard",
+    "q29": -2,
+    "q30": "Forces pulling strong characters due to strict victory conditions; UP rate feels deceptive",
+    "q41": "Complains that 40% UP still off-banners; calls game manipulative"
+  },
+  {
+    "q0": 37921258,
+    "q1": true,
+    "q2": "Sexual/‘borderline’ content discussion; suggests playing uncensored overseas version"
+  },
+  {
+    "q0": 37920416
+  },
+  {
+    "q0": 37918291,
+    "q1": true,
+    "q2": "Sexualized art comparable to Azur Lane",
+    "q9": -1,
+    "q10": "Grindier than peers (e.g., Azur Lane)",
+    "q29": -2,
+    "q30": "States spending and grind demands far exceed comparable titles"
+  },
+  {
+    "q0": 37911322,
+    "q1": true,
+    "q2": "Sexualized content is main feature; concerns about CN censorship",
+    "q31": -1,
+    "q32": "Welfare not high and banners are off-rate; suggests waiting and watching"
+  },
+  {
+    "q0": 37905293
+  },
+  {
+    "q0": 37900460,
+    "q1": true,
+    "q2": "Sexualized artwork will be censored in CN",
+    "q41": "Notes gameplay is average; main appeal is art"
+  },
+  {
+    "q0": 37900353,
+    "q1": true,
+    "q2": "Promotional image uses censorship (mosaic)"
+  },
+  {
+    "q0": 37896722,
+    "q1": true,
+    "q2": "Sexual content censored in CN; criticizes low gameplay quality and poor ops",
+    "q41": "Questions playing CN given censorship and perceived poor gameplay/operations"
+  },
+  {
+    "q0": 37895797,
+    "q1": true,
+    "q2": "Anticipated censorship of sexual content",
+    "q41": "Hopes it won’t be pay-to-win/heavy monetization"
+  },
+  {
+    "q0": 37895594,
+    "q1": true,
+    "q2": "‘Holy light’ censorship in promotional images"
+  }
+]

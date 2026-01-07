@@ -1,0 +1,461 @@
+[
+  {
+    "q0": 39661519,
+    "q3": "Hybrid SRPG with fixed turn order; no counterattacks; grid movement with ultimate animations.",
+    "q4": -2,
+    "q5": "Actions feel constrained by fixed order and no counter; hybrid design feels awkward; low-quality 'paper cutout' ult animations.",
+    "q6": "Fixed initiative order; no counterattack",
+    "q7": -2,
+    "q8": "Half turn-based, half SRPG mix feels incoherent and restrictive.",
+    "q41": "Ultimate/skill animations look like paper cutouts despite good portraits/music."
+  },
+  {
+    "q0": 39661440,
+    "q3": "Turn-based tactics with auto-battle available.",
+    "q4": 1,
+    "q6": "Auto-battle",
+    "q41": "Launch server instability noted but expected to be compensated."
+  },
+  {
+    "q0": 39661418,
+    "q39": -1,
+    "q40": "Long in-game update/download, then server crash and registration cap prevented play.",
+    "q41": "Server exploded at launch; later blocked by full registration quota after downloading."
+  },
+  {
+    "q0": 39661347,
+    "q41": "Operations criticized; players ask for an apology after test-day server failure."
+  },
+  {
+    "q0": 39661334,
+    "q41": "Voice-over bug: rapid tapping continues text but cuts off voice."
+  },
+  {
+    "q0": 39661122,
+    "q7": 1,
+    "q8": "Tactical layer has depth but shows no clear advantage over other SRPGs.",
+    "q41": "UI interaction feels cheap; portrait quality is inconsistent; overall polish below older peers."
+  },
+  {
+    "q0": 39661107,
+    "q41": "Portrait quality inconsistency; some artifact characterizations feel disrespectful."
+  },
+  {
+    "q0": 39661095,
+    "q3": "SRPG with grid movement, speed-up and auto-battle.",
+    "q4": -1,
+    "q5": "Pacing feels slow and manual play clumsy; auto and acceleration help but combat still feels cumbersome.",
+    "q41": "Gacha tends to off-banner; story immersion weak; good voice work with regional accents."
+  },
+  {
+    "q0": 39661077,
+    "q41": "High grind concern; equipment system disliked; external sentiment about platform lowers confidence."
+  },
+  {
+    "q0": 39656815,
+    "q25": 1,
+    "q26": "Gacha pulls cheaper than Arknights (but skins are pricier); overall grind feels manageable.",
+    "q41": "UI colors are overly bright/glary; art blends traditional and modern well."
+  },
+  {
+    "q0": 39660826,
+    "q3": "Speed-influenced SRPG (turn order by speed) with auto; simple early game.",
+    "q4": 0,
+    "q5": "Combat is simple but feels ‘sticky’ with accidental turn skips; needs enemy info and input polish.",
+    "q6": "Speed-based initiative; auto-battle; stage premium-currency rewards",
+    "q7": -1,
+    "q8": "Early difficulty is low; lacks enemy info pop-ups and has input mis-ops.",
+    "q23": true,
+    "q24": "Base 2.5% SSR; soft pity after 50 pulls; guaranteed SSR by 70 pulls (50% featured, can off-banner); hard pity/spark at 180.",
+    "q25": 0,
+    "q26": "Costing similar to Arknights: 3 stones per pull; stones better saved for skins (16 stones) while pulls have other sources.",
+    "q27": 1,
+    "q28": "Free pulls per month (~26) and stages grant premium currency; skins optional.",
+    "q29": -1,
+    "q30": "Constellation-like system gives large power spikes, creating pressure to pull dupes.",
+    "q31": 1,
+    "q32": "Monthly free pulls and stage currency feel decent during test.",
+    "q41": "Registration fiasco and launch network issues; accidental turn-skip; missing enemy info pop-ups."
+  },
+  {
+    "q0": 39660533,
+    "q6": "Random-substat equipment progression; fixed turn order by speed; 3-star perfect-clear conditions",
+    "q7": -1,
+    "q8": "SRPG rules are rigid and randomness in gear undercuts planning.",
+    "q9": -1,
+    "q10": "High difficulty for perfect clears; materials gated by commission currency; many unlocks tied to main story.",
+    "q23": true,
+    "q24": "50% featured rate on SSR; can off-banner; hard pity/spark at 180.",
+    "q29": -2,
+    "q30": "Needing ~3 dupes for ‘full’ character plus random-substat gear and high pity increase spending pressure.",
+    "q31": -1,
+    "q32": "Monthly pull income feels low relative to pity and dupe demands.",
+    "q41": "Unclear if speed is adjustable; rigid action order; material acquisition relies on exchange currency."
+  },
+  {
+    "q0": 39660913,
+    "q41": "Marketing overlong; gameplay/characters/story/raising feel average; server crash on qualification grab."
+  },
+  {
+    "q0": 39660892,
+    "q9": -1,
+    "q10": "Stage difficulty is high; hard to 3-star stages."
+  },
+  {
+    "q0": 39656752,
+    "q3": "Traditional turn-based/SRPG combat.",
+    "q4": 0,
+    "q31": 1,
+    "q32": "Stages grant premium currency (1 stone per stage; 3 stones per pull); skins purchasable with earned currency.",
+    "q41": "Network instability, black screens, and voice-character mismatch; early gameplay can feel monotonous."
+  },
+  {
+    "q0": 39660881,
+    "q41": "Has test qualification but cannot register/log in."
+  },
+  {
+    "q0": 39656235,
+    "q41": "Qualification distribution adjusted post-issue; art and backstories considered decent."
+  },
+  {
+    "q0": 39660797,
+    "q9": -1,
+    "q10": "Low resource income and stamina shortages stall progress; main stages feel time-consuming; touch/misinput and network issues waste runs.",
+    "q41": "Frequent mis-taps in battle; network errors trigger failures; server instability; localization includes Traditional Chinese names."
+  },
+  {
+    "q0": 39660822,
+    "q31": 1,
+    "q32": "Test feels generous with pull resources.",
+    "q41": "Lacks an undo (undo/rewind) feature in battles."
+  },
+  {
+    "q0": 39660759,
+    "q41": "Constant ‘network unstable’ pop-ups make the game unplayable."
+  },
+  {
+    "q0": 39660695,
+    "q41": "Could not secure registration despite prior attempts; TapTap shows qualified but servers block entry."
+  },
+  {
+    "q0": 39649704
+  },
+  {
+    "q0": 39660611,
+    "q41": "Initial menu/UI is cluttered; emulator compatibility issues; chat/dialog bubbles appear as long black bars; needs clearer menu hierarchy."
+  },
+  {
+    "q0": 39660584,
+    "q41": "Cannot mute studio splash audio; cutscenes ignore in-game volume; severe aliasing on dynamic portraits; progression friction: sweep locked behind level requirements."
+  },
+  {
+    "q0": 39657139
+  },
+  {
+    "q0": 39660478,
+    "q4": -2,
+    "q5": "Combat is confusing and boring with unclear mechanics.",
+    "q41": "Inconsistent voice presence in story; disliked free skin design; activity UI too small/hard to find."
+  },
+  {
+    "q0": 39660412,
+    "q3": "Grid-based SRPG; slightly higher onboarding complexity than classic turn-based but approachable.",
+    "q4": 1,
+    "q5": "Enjoys SRPG; easy enough to learn by reading skills and practicing.",
+    "q41": "Severe launch server issues (login stuck at 100%); tutorial soft-lock if changing required unit; improved stability later."
+  },
+  {
+    "q0": 39660391,
+    "q4": -2,
+    "q5": "Gameplay feels dull and overly ordinary with low engagement.",
+    "q41": "Story delivery pacing interrupts flow; art/modeling quality varies greatly; test access/ops issues."
+  },
+  {
+    "q0": 39656488,
+    "q4": -1,
+    "q5": "Gameplay feels too generic and repetitive.",
+    "q41": "Unlimited download but limited test access; gacha off-banners easily."
+  },
+  {
+    "q0": 39660339,
+    "q3": "Classic SRPG (grid/turn-based) with straightforward tactics.",
+    "q4": 0,
+    "q6": "Movement/attack range management; positional planning",
+    "q7": 0,
+    "q8": "Core tactics are serviceable but not outstanding; suggests UI improvements for range clarity.",
+    "q29": 1,
+    "q30": "Generous welfare reduces pressure to spend.",
+    "q31": 2,
+    "q32": "Very generous test welfare; hopes it’s maintained at launch.",
+    "q41": "Skill VFX/animations look cheap; battle scenes lack standout visuals; Q-chibi models need more detail; several UI usability issues noted."
+  },
+  {
+    "q0": 39660282
+  },
+  {
+    "q0": 39655973,
+    "q41": "Severe lag throughout early play; visuals/artifacts are pleasant once playable."
+  },
+  {
+    "q0": 39655961,
+    "q3": "Traditional SRPG combat.",
+    "q4": -1,
+    "q5": "UI is chaotic, tutorial lacks value, and play feels tiring; network instability.",
+    "q41": "Frequent ‘network unstable’ warnings; early gacha luck did not translate to perceived power."
+  },
+  {
+    "q0": 39660168,
+    "q3": "Turn-based with basic attacks to build energy for skills; character-specific traits.",
+    "q4": 0,
+    "q5": "Combat lacks innovation but is competent; gacha animation lacks impact.",
+    "q41": "Gacha animation feels underwhelming."
+  },
+  {
+    "q0": 39657881,
+    "q37": -1,
+    "q38": "Initial download around 4+ GB.",
+    "q41": "Likes world/art; cannot understand combat yet; test required separate registration despite TapTap qualification."
+  },
+  {
+    "q0": 39655997,
+    "q41": "Suggests focusing on Chinese cultural promotion and partnering with national cultural institutions; de-emphasize foreign artifacts."
+  },
+  {
+    "q0": 39660101,
+    "q41": "Server/network issues; overly complex leveling (many taps); additional gear layer; small-screen ‘mini-player’ behavior causes UI freeze during story."
+  },
+  {
+    "q0": 39660047,
+    "q41": "Public relations criticized: capped qualifications then closed downloads; reopened qualifications later."
+  },
+  {
+    "q0": 39660025,
+    "q41": "Bug caused game to restart after stage clear; dislikes HP bar style; not suited for heavy-strategy fans."
+  },
+  {
+    "q0": 39660002,
+    "q41": "Repeated downloads without clear qualification messaging; TapTap shows qualified while official says otherwise."
+  },
+  {
+    "q0": 39657019,
+    "q41": "Reported additional qualification slots opened later in the day."
+  },
+  {
+    "q0": 39656827,
+    "q31": 2,
+    "q32": "Perceived very generous rewards during test."
+  },
+  {
+    "q0": 39659928,
+    "q4": -2,
+    "q5": "Tap targeting is frustrating—often opens enemy details or cancels attack when surrounded.",
+    "q41": "Frequent network instability; appreciates artifact-themed learning and art."
+  },
+  {
+    "q0": 39659913,
+    "q41": "UI is overly busy and visually fatiguing; portraits and UI elements compete for attention."
+  },
+  {
+    "q0": 39659818
+  },
+  {
+    "q0": 39659786,
+    "q3": "Standard SRPG/war-chess gameplay.",
+    "q4": 0,
+    "q41": "Visuals are attractive but a bit too flashy."
+  },
+  {
+    "q0": 39659773,
+    "q41": "Operations criticized for capping test slots then increasing later; perceived as antagonizing players."
+  },
+  {
+    "q0": 39659759
+  },
+  {
+    "q0": 39659712,
+    "q27": 2,
+    "q28": "Low pay requirements; friendly to non-spenders; skippable story reduces friction.",
+    "q29": 1,
+    "q30": "Perceived low monetization pressure and F2P-friendliness.",
+    "q31": 1,
+    "q32": "Compared favorably to other titles in generosity."
+  },
+  {
+    "q0": 39659654,
+    "q23": true,
+    "q24": "Base 2.5% SSR with 50% featured; no small pity guarantee; hard pity/spark at 180.",
+    "q29": -1,
+    "q30": "No soft pity; often must rely on 180 spark, which feels punishing.",
+    "q41": "Severe launch/server issues; highly inconsistent portrait styles; cluttered UI; music mix feels noisy."
+  },
+  {
+    "q0": 39656513,
+    "q4": 1,
+    "q5": "SRPG requires some thinking to perfect stages; replaying for full clears felt satisfying.",
+    "q31": 1,
+    "q32": "Test provided many tickets; frequent golds in newbie pulls."
+  },
+  {
+    "q0": 39659677
+  },
+  {
+    "q0": 39659671,
+    "q29": -1,
+    "q30": "‘Plan’ priced at 128 is high; expects better server capacity; test gave decent pulls but wants more at launch.",
+    "q41": "Server capacity concerns; some awkward lines/wordplay in script."
+  },
+  {
+    "q0": 39659643,
+    "q4": -1,
+    "q5": "Gameplay/design feels off compared to peers like TTK; disappointing after long wait."
+  },
+  {
+    "q0": 39655593,
+    "q41": "Requests auto-sweep for commissions; auto-battle pauses when split-screening video; ‘network poor’ on entry; event music too loud; certain ult text is immersion-breaking."
+  },
+  {
+    "q0": 39659563,
+    "q41": "Two early blocking bugs: tutorial froze when trying ultimate; stuck on post-battle screen."
+  },
+  {
+    "q0": 39659551,
+    "q3": "SRPG with auto-battle; standard resource/gear/exp farming.",
+    "q31": -1,
+    "q32": "Welfare feels low in test (about 50 pulls, only one SSR).",
+    "q41": "Female voice timbres sound too similar; not distinctive."
+  },
+  {
+    "q0": 39659468,
+    "q6": "Emphasis on collection/raising over tactical play",
+    "q7": -1,
+    "q8": "Strategy feels shallow; outcomes hinge on unit quality more than tactics.",
+    "q41": "Enemy/skill clarity is lacking; frequent disconnects; story acceptable."
+  },
+  {
+    "q0": 39659456,
+    "q41": "Registered early but still blocked by later qualification gating."
+  },
+  {
+    "q0": 39651732,
+    "q41": "After getting afternoon access, overall quality felt poor relative to expectations over years."
+  },
+  {
+    "q0": 39658992,
+    "q41": "Could log in then got stuck afterwards; demands bug fix or rating stays low."
+  },
+  {
+    "q0": 39659345,
+    "q23": true,
+    "q24": "Hard pity/spark at 180.",
+    "q31": -1,
+    "q32": "Welfare perceived as low; difficult to obtain units.",
+    "q9": -1,
+    "q10": "Many extra conditions to max stage rewards; progression/cultivation lacks novelty."
+  },
+  {
+    "q0": 39659284,
+    "q25": -2,
+    "q26": "A single pack only yielded ~40 pulls; shop feels saturated with monetization options.",
+    "q29": -2,
+    "q30": "Heavy monetization presence creates strong spending pressure."
+  },
+  {
+    "q0": 39659239,
+    "q9": -1,
+    "q10": "Progress stalls due to high raising difficulty and no sweep; newcomers to SRPG feel lost."
+  },
+  {
+    "q0": 39659235
+  },
+  {
+    "q0": 39659224
+  },
+  {
+    "q0": 39659221,
+    "q41": "Downloaded and updated but blocked by full test slots later; suggests not allowing downloads without access."
+  },
+  {
+    "q0": 39659184,
+    "q3": "Simple, easy SRPG/war-chess.",
+    "q23": true,
+    "q24": "2.5% SSR; guaranteed SSR by 70; 180 spark for featured.",
+    "q41": "Launch network instability; hopes for optimization by release."
+  },
+  {
+    "q0": 39659182,
+    "q37": -2,
+    "q38": "Large download size wasted due to access issues."
+  },
+  {
+    "q0": 39655732,
+    "q3": "Time-consuming SRPG; some ult animations are slow.",
+    "q4": 0,
+    "q5": "Gameplay is okay but drags due to slow animations.",
+    "q31": 1,
+    "q32": "Test welfare good; frequent SSRs during test.",
+    "q41": "Server instability and odd UI cues; criticism of certain artifact-to-character depictions; guidance inconsistencies."
+  },
+  {
+    "q0": 39659091,
+    "q41": "Persistent bugs prevent entering the game."
+  },
+  {
+    "q0": 39659060,
+    "q41": "Great art and music; everything else feels lacking."
+  },
+  {
+    "q0": 39659046,
+    "q3": "Standard war-chess SRPG.",
+    "q4": -1,
+    "q5": "Gameplay feels very ordinary and dull.",
+    "q41": "Launch servers poor; certain home screen art elements trigger trypophobia."
+  },
+  {
+    "q0": 39655719,
+    "q3": "SRPG similar to Arknights style.",
+    "q4": -2,
+    "q5": "Gameplay and story feel boring; persistent network issues.",
+    "q41": "Stuck on login; constant ‘network unstable’ after entry."
+  },
+  {
+    "q0": 39658966,
+    "q41": "Access gating makes ‘with/without qualification’ feel the same to players."
+  },
+  {
+    "q0": 39658921,
+    "q41": "Stuck at 100% login; lack of timely official communication."
+  },
+  {
+    "q0": 39658895,
+    "q41": "‘Emergency maintenance’ extended with minimal additional slots; many stuck at 100% for hours."
+  },
+  {
+    "q0": 39657058,
+    "q41": "Wasted data due to ‘network unstable’; UI buttons too close to screen edge, need margin."
+  },
+  {
+    "q0": 39658611,
+    "q41": "Failed to secure promised extra slots; later logged in; UI hitboxes hard to tap; operations rated very poorly."
+  },
+  {
+    "q0": 39658272,
+    "q41": "Couldn’t enter at open; later blocked by full slots; network error caused repeated replays of 1-2."
+  },
+  {
+    "q0": 39658859,
+    "q41": "Players feel the team shows poor attitude during issues."
+  },
+  {
+    "q0": 39658848,
+    "q4": 1,
+    "q5": "As a first-time SRPG player, combat felt good.",
+    "q41": "Clicking dialogue again mutes voice; lacks auto-advance for story."
+  },
+  {
+    "q0": 39658823
+  },
+  {
+    "q0": 39658817,
+    "q41": "Server quality slammed; UI overly busy; access opened despite unresolved server issues."
+  }
+]

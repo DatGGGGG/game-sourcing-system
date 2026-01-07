@@ -1,0 +1,575 @@
+[
+  {
+    "q0": 38032931,
+    "q9": -2,
+    "q10": "Forced tutorial until level 7 and gacha/10-pull locked behind chapter progress",
+    "q29": -2,
+    "q30": "Bombarded with discount coupons pushing spending from the start",
+    "q31": -2,
+    "q32": "Launch 10-pull requires clearing chapters instead of being granted upfront",
+    "q41": "Restricted freedom until level 7; heavy gating of gacha"
+  },
+  {
+    "q0": 38032926,
+    "q1": true,
+    "q2": "Sexualized art censored/toned down",
+    "q31": -2,
+    "q32": "Little to no welfare; very stingy with rewards",
+    "q29": -2,
+    "q30": "Perceived as stingy and crafty monetization"
+  },
+  {
+    "q0": 38032902,
+    "q29": -2,
+    "q30": "Aggressive monetization overshadowing gameplay",
+    "q41": "Gameplay lacks innovation"
+  },
+  {
+    "q0": 38032901
+  },
+  {
+    "q0": 38032897,
+    "q3": "Combat showcases frequent character skill animations; heavy early-stage guidance",
+    "q4": -2,
+    "q5": "Boring skill animation spam and forced grinding made it unenjoyable",
+    "q9": -2,
+    "q10": "Long, mandatory tutorial and continuous forced stage grinding",
+    "q41": "Unfinished tutorial due to poor experience; average character art"
+  },
+  {
+    "q0": 38032884,
+    "q1": true,
+    "q2": "Sexual content expected but censored/toned down",
+    "q6": "PvP present",
+    "q7": -1,
+    "q8": "Focus on monetization; little mention of tactical depth",
+    "q31": -2,
+    "q32": "Very stingy benefits",
+    "q29": -2,
+    "q30": "Heavy monetization pressure and poor benefits",
+    "q41": "Publisher reputation concerns (Youzu)"
+  },
+  {
+    "q0": 38032877,
+    "q23": true,
+    "q24": "Soft pity around 50 pulls can still be off-banner; requires multiple unique SSRs; hard pity around 200 pulls",
+    "q29": -2,
+    "q30": "Frustrating pity rules and off-banner outcomes"
+  },
+  {
+    "q0": 38032871,
+    "q9": -2,
+    "q10": "New-player tutorial is excessively long and off-putting"
+  },
+  {
+    "q0": 38032857,
+    "q1": true,
+    "q2": "Sexual content expected but not explicit; lewd content seemingly paywalled",
+    "q29": -2,
+    "q30": "Implied paywalling for sexualized content"
+  },
+  {
+    "q0": 38032852,
+    "q41": "CN version lacks adaptation compared to global; split-screen unsupported"
+  },
+  {
+    "q0": 38032848
+  },
+  {
+    "q0": 38032839,
+    "q41": "Expectation mismatch with advertised gameplay"
+  },
+  {
+    "q0": 38032833,
+    "q39": -2,
+    "q40": "Resource download extremely slow, preventing entry into the game"
+  },
+  {
+    "q0": 38032818,
+    "q9": -2,
+    "q10": "Self-select 10-pull gated to chapter 10; rewards require deep progression",
+    "q31": -2,
+    "q32": "Launch rewards locked behind heavy progress and time limits",
+    "q29": -2,
+    "q30": "Early push to recharge with discount cards; rewards designed to drive spending",
+    "q41": "Heavily delayed welfare; sarcastic praise of monetization"
+  },
+  {
+    "q0": 38032815,
+    "q41": "Accusation of deceptive advertising"
+  },
+  {
+    "q0": 38032804,
+    "q9": -2,
+    "q10": "Over 10 minutes of tutorial; player quit before finishing"
+  },
+  {
+    "q0": 38032798
+  },
+  {
+    "q0": 38032770,
+    "q4": -1,
+    "q5": "Gameplay feels generic and old-fashioned; not engaging"
+  },
+  {
+    "q0": 38032762
+  },
+  {
+    "q0": 38032734,
+    "q9": -2,
+    "q10": "Early severe difficulty spike leading to stage block within ~30 minutes"
+  },
+  {
+    "q0": 38032708,
+    "q9": -2,
+    "q10": "Pre-registration rewards and self-select ten-pull locked to later maps",
+    "q31": -2,
+    "q32": "Rewards exist but heavily gated by progression"
+  },
+  {
+    "q0": 38032700
+  },
+  {
+    "q0": 38032688,
+    "q31": -2,
+    "q32": "Stingy rewards make the game feel exhausting"
+  },
+  {
+    "q0": 38032675,
+    "q1": true,
+    "q2": "Heavy censorship of character art/illustrations"
+  },
+  {
+    "q0": 38032670,
+    "q9": -2,
+    "q10": "Key functions and gacha options require continuous stage grinding"
+  },
+  {
+    "q0": 38032667,
+    "q31": -2,
+    "q32": "Very stingy benefits"
+  },
+  {
+    "q0": 38032653
+  },
+  {
+    "q0": 38032650,
+    "q31": -2,
+    "q32": "Both content length and welfare perceived as stingy and drawn-out"
+  },
+  {
+    "q0": 38032645,
+    "q41": "Frequent crash on Redmi devices upon entering game"
+  },
+  {
+    "q0": 38032632,
+    "q9": -2,
+    "q10": "Newbie rewards are gated behind progression, unusual for the genre",
+    "q31": -2,
+    "q32": "Newcomer rewards withheld until later"
+  },
+  {
+    "q0": 38032626
+  },
+  {
+    "q0": 38032612
+  },
+  {
+    "q0": 38032609,
+    "q1": true,
+    "q2": "Sexualized areas of character art are visibly covered/censored",
+    "q6": "PvP ranking; VIP privileges; dual battle pass; dual UP gacha banners",
+    "q23": true,
+    "q24": "Pity requires multiple off-banner pulls; guarantee only after several off-banners (e.g., five); overall strict pity rules",
+    "q27": -2,
+    "q28": "VIP privileges and multiple monetization layers limit fair access",
+    "q29": -2,
+    "q30": "Multiple monetization vectors (VIP, double passes, strict pity) create heavy pressure",
+    "q31": -2,
+    "q32": "Small free rewards all have preconditions; very stingy",
+    "q41": "Aggressive monetization stack (VIP, double pass, strict pity); censorship of art"
+  },
+  {
+    "q0": 38032561,
+    "q9": -2,
+    "q10": "Self-select 10-pull gated to chapter 10; early stages felt overtuned in other servers",
+    "q29": -2,
+    "q30": "Low gacha rates and perceived poor welfare; publisher reputation concerns",
+    "q31": -1,
+    "q32": "Fewer benefits than expected",
+    "q41": "Early-game difficulty high in other regions; CN version likely adjusted"
+  },
+  {
+    "q0": 38032600,
+    "q1": true,
+    "q2": "Censorship of sexualized art (notably the 'cow' character)",
+    "q9": -2,
+    "q10": "Self-select SSR 10-pull requires clearing chapter 10"
+  },
+  {
+    "q0": 38032596,
+    "q1": true,
+    "q2": "Censored character art/illustrations",
+    "q9": -2,
+    "q10": "Self-select ten-pull has many restrictions",
+    "q31": -2,
+    "q32": "Advertised rewards are heavily restricted"
+  },
+  {
+    "q0": 38032589,
+    "q1": true,
+    "q2": "Game relies on lewd art; CN server censored (e.g., maid/cow character changed)"
+  },
+  {
+    "q0": 38032588,
+    "q3": "Auto-battle/idle-style combat focus",
+    "q4": -1,
+    "q5": "Combat perceived as idle/boring despite good models",
+    "q15": "Idle/AFK resource accumulation and leveling",
+    "q16": false,
+    "q17": 1,
+    "q18": "Idle/AFK loop is straightforward",
+    "q23": true,
+    "q24": "First ten-pull sets guarantee one gold; inconsistent rarity outcomes across pulls",
+    "q41": "Poor gacha rates despite multiple free ten-pulls"
+  },
+  {
+    "q0": 38032581,
+    "q31": -2,
+    "q32": "Very stingy despite generic gameplay",
+    "q4": -1,
+    "q5": "Overly common gameplay loop"
+  },
+  {
+    "q0": 38032551,
+    "q9": -2,
+    "q10": "No pulls granted after tutorial; ten-pull only after clearing chapter 3",
+    "q31": -2,
+    "q32": "Rewards withheld until later",
+    "q4": -2,
+    "q5": "Combat felt hollow with no meaningful mechanics"
+  },
+  {
+    "q0": 38032530,
+    "q1": true,
+    "q2": "Sexual content expected by players but not present/visible",
+    "q4": -2,
+    "q5": "Low playability"
+  },
+  {
+    "q0": 38032513,
+    "q41": "Stages can be skipped without first clear"
+  },
+  {
+    "q0": 38032512,
+    "q41": "Does not support account deletion"
+  },
+  {
+    "q0": 38032509,
+    "q4": -2,
+    "q5": "Rough visuals/effects and low frame rate; unfun combat",
+    "q9": -2,
+    "q10": "Self-select ten-pull requires deep progress; player quit early",
+    "q29": -2,
+    "q30": "Perceived as cash-grabby"
+  },
+  {
+    "q0": 38032502,
+    "q31": -2,
+    "q32": "Extremely stingy welfare"
+  },
+  {
+    "q0": 38032497,
+    "q9": -1,
+    "q10": "Newbie tutorial feels long",
+    "q41": "Good 2D art but poor 3D models; modeling quality criticized"
+  },
+  {
+    "q0": 37416269,
+    "q3": "2D ultimate animations; story presented via animations",
+    "q4": -1,
+    "q5": "Art praised but gameplay lacking after launch"
+  },
+  {
+    "q0": 38032489,
+    "q29": -2,
+    "q30": "Gives recharge discount coupons; monetization-first impression",
+    "q31": -2,
+    "q32": "Mailbox rewards not immediately usable (ten-pull locked by progress)",
+    "q9": -2,
+    "q10": "Must push mainline to unlock gacha use"
+  },
+  {
+    "q0": 38032488
+  },
+  {
+    "q0": 38032486,
+    "q9": -2,
+    "q10": "New players lack resources to progress; ten-pull requires chapter 10",
+    "q31": -2,
+    "q32": "Launch welfare is difficult to obtain"
+  },
+  {
+    "q0": 38032465,
+    "q9": -2,
+    "q10": "Visible but inaccessible rewards until pushing mainline",
+    "q29": -2,
+    "q30": "Perceived bait-and-switch on rewards",
+    "q31": -2,
+    "q32": "Rewards shown early but locked"
+  },
+  {
+    "q0": 38032451,
+    "q3": "Q-style turn-based 6-character team for stage push; tower; PvP; number-heavy progression",
+    "q4": -1,
+    "q5": "Old, derivative loop with no highlights",
+    "q6": "Tower mode; PvP; resource inheritance across characters",
+    "q7": -1,
+    "q8": "Focus on stats stacking; little tactical novelty",
+    "q31": -2,
+    "q32": "Launch welfare restricted with many conditions",
+    "q9": -1,
+    "q10": "Access to welfare gated by progression",
+    "q41": "Positive: all invested resources are fully inheritable"
+  },
+  {
+    "q0": 38032439
+  },
+  {
+    "q0": 38032422
+  },
+  {
+    "q0": 38032408,
+    "q1": true,
+    "q2": "Sexualized character discussion in chat; frequent profanity in chat",
+    "q41": "Toxic in-game chat environment; discomfort with sexualized art tone"
+  },
+  {
+    "q0": 38032370,
+    "q41": "Low gacha output rates and awkward progression flow"
+  },
+  {
+    "q0": 38032362,
+    "q3": "Frequent big/ultimate skill animations during early story",
+    "q4": -1,
+    "q5": "Ultimate animations okay but excessive, hurting pacing"
+  },
+  {
+    "q0": 38032356,
+    "q27": -2,
+    "q28": "10x speed locked behind payment",
+    "q29": -2,
+    "q30": "Coupons require spending to get premium currency",
+    "q31": -2,
+    "q32": "Given coupons tied to pay-to-claim conditions"
+  },
+  {
+    "q0": 38032355
+  },
+  {
+    "q0": 38032330,
+    "q3": "Long, empty-feeling battles mitigated by high-speed mode",
+    "q4": -2,
+    "q5": "Combat feels hollow and is band-aided by speed-up",
+    "q9": -2,
+    "q10": "Delayed rewards ('draw first then claim') harm progression pacing",
+    "q29": -2,
+    "q30": "High monetization ceiling (e.g., 7-star system) increases pressure",
+    "q31": -2,
+    "q32": "Delayed/locked welfare distribution"
+  },
+  {
+    "q0": 38032327,
+    "q41": "Negative perception due to publisher (Youzu) and its prior titles"
+  },
+  {
+    "q0": 38032279,
+    "q9": -2,
+    "q10": "Required to push to chapter 3+ for rewards; overly time-consuming early progression"
+  },
+  {
+    "q0": 38032299,
+    "q23": true,
+    "q24": "First banner guarantees SSR but can be off-banner; daily ten-pull and self-select ten-pull gated by mainline progress",
+    "q9": -2,
+    "q10": "Gacha draws and claims heavily locked behind long mainline push",
+    "q31": -2,
+    "q32": "Free pulls require significant progression before claim/use"
+  },
+  {
+    "q0": 38032280,
+    "q3": "Skill animations persist even when toggled off",
+    "q4": -2,
+    "q5": "No SSR after ~30 pulls; animation toggle not respected",
+    "q41": "Settings bug where skill animations don't disable"
+  },
+  {
+    "q0": 38032276,
+    "q41": "Blurry visuals; leveling up does not restore stamina"
+  },
+  {
+    "q0": 38032271,
+    "q9": -2,
+    "q10": "Rewards dangled behind prolonged stage clearing; ten-pull at chapter 10",
+    "q31": -2,
+    "q32": "Rewards delayed to the point of frustration",
+    "q29": -1,
+    "q30": "Perceived as manipulative reward gating"
+  },
+  {
+    "q0": 38032250,
+    "q4": -1,
+    "q5": "Generic anime gacha with no novelty fails to spark interest"
+  },
+  {
+    "q0": 38032241,
+    "q31": -2,
+    "q32": "Stingy rewards require mainline progression to claim",
+    "q9": -2,
+    "q10": "Must clear mainline to access even small rewards"
+  },
+  {
+    "q0": 38032218,
+    "q3": "Cinematic animations frequently play; skip options limited or absent",
+    "q4": -2,
+    "q5": "Forced to repeatedly watch animations; unable to skip"
+  },
+  {
+    "q0": 38032212
+  },
+  {
+    "q0": 38032197,
+    "q4": -2,
+    "q5": "Very boring with little gameplay depth",
+    "q29": -2,
+    "q30": "Main UI saturated with monetization and gift packs",
+    "q41": "Cluttered home screen full of monetization; many stages to clear"
+  },
+  {
+    "q0": 38032166,
+    "q29": -2,
+    "q30": "Pre-registration gives recharge discount coupons, emphasizing spending"
+  },
+  {
+    "q0": 38032161,
+    "q9": -2,
+    "q10": "Crash at end of chapter 2 causes tutorial to never finish",
+    "q41": "Frequent crash during tutorial (end of chapter 2)"
+  },
+  {
+    "q0": 38032148,
+    "q9": -2,
+    "q10": "Newbie guidance lasts over ten minutes, causing drop-off"
+  },
+  {
+    "q0": 38032144,
+    "q41": "Audio corruption after receiving a phone call; reinstall did not fix"
+  },
+  {
+    "q0": 38032137,
+    "q1": true,
+    "q2": "Political/cultural sensitivity: CN release uses Japanese voice-over only; criticism amid domestic anti-Japanese sentiment"
+  },
+  {
+    "q0": 38032112
+  },
+  {
+    "q0": 38032111,
+    "q3": "Auto-battle with battle skip available",
+    "q4": 1,
+    "q5": "Appreciates automation and skip features"
+  },
+  {
+    "q0": 38032078,
+    "q1": true,
+    "q2": "Severe censorship of sexualized skins in CN; recommends playing JP/global"
+  },
+  {
+    "q0": 38032062
+  },
+  {
+    "q0": 38032053,
+    "q41": "Frequent lagging/stuttering"
+  },
+  {
+    "q0": 38032049,
+    "q4": -1,
+    "q5": "Both visuals and gameplay feel average"
+  },
+  {
+    "q0": 38032029,
+    "q1": true,
+    "q2": "Censorship much heavier than advertised (thin veil vs. heavy coverage)"
+  },
+  {
+    "q0": 38032027,
+    "q9": -2,
+    "q10": "Forced tutorial; gacha and rewards locked behind progression and time limits",
+    "q29": -2,
+    "q30": "Early push of gift packs and recharge coupons; monetization-first design",
+    "q31": -2,
+    "q32": "Ten-pull vouchers limited-time and progress-gated",
+    "q41": "Heavy forced guidance and gift-pack spam"
+  },
+  {
+    "q0": 38032018,
+    "q31": -2,
+    "q32": "Poor or absent early gacha experience and stingy benefits",
+    "q29": -2,
+    "q30": "Aggressively stingy reward design"
+  },
+  {
+    "q0": 38031998,
+    "q31": -2,
+    "q32": "Perceived lack of obtainable resources and growth"
+  },
+  {
+    "q0": 38031997,
+    "q1": true,
+    "q2": "CN server censored sexualized art; differs from uncensored global versions",
+    "q3": "Chibi-style, turn-based auto-battle driven by power",
+    "q4": -1,
+    "q5": "Generic auto-battle with little novelty",
+    "q9": -2,
+    "q10": "Promised ‘100 pulls’ locked behind significant progress",
+    "q31": -2,
+    "q32": "Launch welfare is heavily gated",
+    "q29": -1,
+    "q30": "Monetization emphasis despite derivative gameplay"
+  },
+  {
+    "q0": 38031956,
+    "q9": -2,
+    "q10": "Forced stage pushing immediately on entry; generic card game loop"
+  },
+  {
+    "q0": 38031949,
+    "q41": "Self-select 10-pull appears to repeat/bug"
+  },
+  {
+    "q0": 38031943,
+    "q31": -2,
+    "q32": "Very stingy"
+  },
+  {
+    "q0": 38031941,
+    "q1": true,
+    "q2": "Censorship removed the game's main appeal (lewd art)"
+  },
+  {
+    "q0": 38031936,
+    "q9": -2,
+    "q10": "Login ten-pull usable only at chapter 7; self-select ten-pull only claimable at chapter 10; early stages hard with starter auto team",
+    "q27": -2,
+    "q28": "Non-payers struggle to clear early stages and access key features",
+    "q29": -2,
+    "q30": "Strong pay incentive to bypass early progression walls",
+    "q31": -2,
+    "q32": "Free pulls time-limited and locked behind late progression"
+  },
+  {
+    "q0": 38031907,
+    "q29": -2,
+    "q30": "Perceived as heavily profit-driven"
+  }
+]

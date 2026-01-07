@@ -1,0 +1,459 @@
+[
+  {
+    "q0": 38034686,
+    "q3": "Auto turn-based battles with partial skip gating; some stages require manual interaction despite being largely automated.",
+    "q4": -2,
+    "q5": "Extremely boring automated turn-based combat with limited player agency and forced unskippable segments.",
+    "q6": "Probability-based buff skills that upgrade from 50% to 100% when characters are starred up.",
+    "q7": -2,
+    "q8": "Power tied heavily to rarity/star levels and automation reduces meaningful decision-making.",
+    "q9": -2,
+    "q10": "Progress gated by gacha-based star upgrades, fragment grind, stamina purchases, and time-limited events tuned against F2P.",
+    "q11": -2,
+    "q12": "Character power is tightly bound to star level and rarity; many skills only become reliable at max stars.",
+    "q13": -2,
+    "q14": "Team strength largely dictated by how many high-star characters you own rather than composition variety.",
+    "q15": "Daily chores and meta progression loops: weapon/relic/furniture collection and upgrades, repetitive daily tasks.",
+    "q16": false,
+    "q17": -2,
+    "q18": "Highly repetitive daily clicking across many screens.",
+    "q27": -2,
+    "q28": "Event rewards (e.g., 7-day/14-day SSR) are difficult or impossible for non-paying players.",
+    "q29": -2,
+    "q30": "Multiple systems push spending (characters, weapons, relic fragments, furniture, even paid automation scripts).",
+    "q31": -1,
+    "q32": "Initial draw welfare exists but is overshadowed by heavy fragment and star-up demands with low SSR relic rate (~0.2%).",
+    "q41": "Relics primarily drop as single fragments requiring 100 to craft; paid automation script advertised to reduce tedious dailies."
+  },
+  {
+    "q0": 38034659,
+    "q3": "Retro idle/auto battler focused on numerical stat checks.",
+    "q4": -1,
+    "q5": "Feels like a dated idle game with little engagement.",
+    "q7": -2,
+    "q8": "Described as a pure numbers game with strong emphasis on PvP power.",
+    "q41": "Strong PvP orientation disliked."
+  },
+  {
+    "q0": 38034626
+  },
+  {
+    "q0": 38034604,
+    "q31": -2,
+    "q32": "Launch welfare is misleading; free SSR pool excludes top-tier units and requires excessive grind to claim.",
+    "q41": "Gacha pool segmentation hides meta-relevant SSRs from free rewards."
+  },
+  {
+    "q0": 38034565,
+    "q31": 2,
+    "q32": "Daily free 10-pull and frequent early SSR drops create a generous start."
+  },
+  {
+    "q0": 38034491,
+    "q9": 1,
+    "q10": "Progress moves along easily and growth feels light for a side game."
+  },
+  {
+    "q0": 38034502,
+    "q1": true,
+    "q2": "Suggestive/sexualized character designs and outfits (\"sexy and cute\" freebies mentioned)."
+  },
+  {
+    "q0": 38034495
+  },
+  {
+    "q0": 38034490,
+    "q31": 1,
+    "q32": "States there are many launch benefits."
+  },
+  {
+    "q0": 38034473
+  },
+  {
+    "q0": 38034474,
+    "q1": true,
+    "q2": "Sexualized skins and characters explicitly desired by the player."
+  },
+  {
+    "q0": 38034470,
+    "q3": "Strategy card-battle/auto-battle hybrid that is easy to pick up.",
+    "q4": 1,
+    "q5": "Easy to learn and enjoyable for a strategy card game newcomer."
+  },
+  {
+    "q0": 38034438
+  },
+  {
+    "q0": 38034418,
+    "q1": true,
+    "q2": "Sexualized outfits criticized as too revealing; political sensitivity implied by linking in-game nation to real-world China."
+  },
+  {
+    "q0": 38034415
+  },
+  {
+    "q0": 38034409
+  },
+  {
+    "q0": 38034407,
+    "q3": "Idle-friendly progression; stages can be cleared while semi-AFK.",
+    "q4": 1,
+    "q5": "Good for work-time idling; one-click inheritance simplifies growth.",
+    "q41": "Mentions CN version is censored compared to JP/overseas art."
+  },
+  {
+    "q0": 38034404,
+    "q15": "Level/equipment inheritance system that lets you swap characters into slots to inherit progress.",
+    "q17": 1,
+    "q18": "One-click inheritance reduces friction when changing team members."
+  },
+  {
+    "q0": 38034402,
+    "q39": -1,
+    "q40": "Requires additional download after a long, forced tutorial; feels inconvenient.",
+    "q41": "Unskippable ultimate animations during tutorial; PvP content appears abundant."
+  },
+  {
+    "q0": 38034376,
+    "q31": 0,
+    "q32": "Rewards have effort gates but are achievable with grinding."
+  },
+  {
+    "q0": 38034377,
+    "q39": -2,
+    "q40": "Massive data usage during updates caused mobile data overage."
+  },
+  {
+    "q0": 38034375,
+    "q3": "Fully automated battles by default.",
+    "q4": 1,
+    "q5": "Auto-battle feels satisfying and smooth early on.",
+    "q31": -1,
+    "q32": "Initial resources feel scarce, requiring pushing stages to progress.",
+    "q41": "Hopes high-quality overseas skins are not heavily censored in CN."
+  },
+  {
+    "q0": 38034372,
+    "q3": "Similar to classic auto-battle card games (e.g., \"I Am MT\" style)."
+  },
+  {
+    "q0": 38034357,
+    "q31": -2,
+    "q32": "Welfare is poor; heavy stamina costs block leveling and progress.",
+    "q27": -1,
+    "q28": "Guild creation gated by level/stamina, letting spenders capture advantages early.",
+    "q29": -2,
+    "q30": "Game systems feel designed around buying stamina and spend-first advantages."
+  },
+  {
+    "q0": 38034346,
+    "q41": "Messy, dated UI; gameplay feels like generic assembly-line card RPG."
+  },
+  {
+    "q0": 38034323,
+    "q31": -2,
+    "q32": "Pre-registration and 10-pull rewards are gated/locked, resulting in a poor early experience."
+  },
+  {
+    "q0": 38034313,
+    "q29": -2,
+    "q30": "Aggressive monetization (cash packs pop up) and leaderboards dominated by extremely higher power accounts suggest heavy spend pressure.",
+    "q41": "Suspected shill/whale dominance on rankings."
+  },
+  {
+    "q0": 38034311
+  },
+  {
+    "q0": 38034305,
+    "q31": 1,
+    "q32": "CN version offers notably more welfare than overseas."
+  },
+  {
+    "q0": 38034298,
+    "q31": -1,
+    "q32": "Generally stingy and lacks standout value."
+  },
+  {
+    "q0": 38034267
+  },
+  {
+    "q0": 38034258
+  },
+  {
+    "q0": 38034256,
+    "q41": "Accused of being a plagiarized game."
+  },
+  {
+    "q0": 38034246,
+    "q4": -1,
+    "q5": "Gameplay feels generic and undifferentiated aside from skill animations."
+  },
+  {
+    "q0": 38034240,
+    "q41": "Experience heavily dependent on luck; whales/lucky players enjoy it while unlucky players suffer."
+  },
+  {
+    "q0": 38034202,
+    "q41": "Very poor early experience; long tutorial is off-putting."
+  },
+  {
+    "q0": 38034186
+  },
+  {
+    "q0": 38034087
+  },
+  {
+    "q0": 38034077,
+    "q3": "Old-school turn-based combat.",
+    "q4": 1,
+    "q5": "Despite being dated and pay-leaning, lucky gacha results improved the experience.",
+    "q29": -1,
+    "q30": "States that paying is dominant for progress."
+  },
+  {
+    "q0": 38034049,
+    "q27": -2,
+    "q28": "Claims the game is unplayable without spending.",
+    "q29": -2,
+    "q30": "Strong paywall perception."
+  },
+  {
+    "q0": 38034034,
+    "q41": "Tutorial is excessively long."
+  },
+  {
+    "q0": 37971087
+  },
+  {
+    "q0": 38033998,
+    "q41": "Newbie tutorial is long and tedious."
+  },
+  {
+    "q0": 38033979,
+    "q41": "Gacha rates feel low."
+  },
+  {
+    "q0": 38033953,
+    "q41": "Split-screen causes black screen/crash (RedMagic 8 Pro); visuals appear blurry; voiced story is a positive."
+  },
+  {
+    "q0": 38033850,
+    "q31": -1,
+    "q32": "Player expects more/better gift packs at launch."
+  },
+  {
+    "q0": 38033812
+  },
+  {
+    "q0": 38033792
+  },
+  {
+    "q0": 38033789
+  },
+  {
+    "q0": 38033782,
+    "q39": -2,
+    "q40": "Cannot complete resource downloads before launch; no clear pause; long tutorial forces using mobile data at work hours."
+  },
+  {
+    "q0": 38033751,
+    "q31": -2,
+    "q32": "Same stingy approach as overseas; advises against spending; gacha feels consistently off-banner.",
+    "q41": "Complains of constant off-banner results."
+  },
+  {
+    "q0": 38033735,
+    "q31": -1,
+    "q32": "Stingy rewards paired with heavy-handed tutorial undermine the marketed generosity.",
+    "q41": "Overbearing tutorial."
+  },
+  {
+    "q0": 38033734,
+    "q37": -2,
+    "q38": "Initial download ~3 GB for a card turn-based game is heavy.",
+    "q39": -1,
+    "q40": "Update process stalls and does not progress."
+  },
+  {
+    "q0": 38009742,
+    "q41": "Accused of being a reskinned anime game with frequent server rolling."
+  },
+  {
+    "q0": 38033697
+  },
+  {
+    "q0": 38033693,
+    "q29": -2,
+    "q30": "Feels like a 7–8-year-old reskinned cash-grab."
+  },
+  {
+    "q0": 38033692
+  },
+  {
+    "q0": 38033675,
+    "q3": "Auto battles with skip for mobs; boss fights play out automatically with character clash animations.",
+    "q4": -2,
+    "q5": "Boring combat with little interaction; forced to watch animations for bosses.",
+    "q9": -1,
+    "q10": "Account level gates character level; meta growth lacks innovation."
+  },
+  {
+    "q0": 38033658
+  },
+  {
+    "q0": 38033619,
+    "q41": "Perceived as a quick cash-grab; only art stands out."
+  },
+  {
+    "q0": 38033616
+  },
+  {
+    "q0": 38033605,
+    "q9": -1,
+    "q10": "Too many upgrade requirements across systems feel coercive and tedious."
+  },
+  {
+    "q0": 38033503,
+    "q23": true,
+    "q24": "There is a pity system but the pity threshold is high; low base rates, frequent off-banner pulls, and high duplicate frequency.",
+    "q41": "Mentions censored art in CN version."
+  },
+  {
+    "q0": 38033577,
+    "q41": "Operations criticized; rates may be okay but off-banner results are frequent; launch event design is poor."
+  },
+  {
+    "q0": 38033548,
+    "q31": -2,
+    "q32": "Pre-reg and self-select 10-pull are gated behind stage clears; feels very stingy."
+  },
+  {
+    "q0": 38033543
+  },
+  {
+    "q0": 38033399
+  },
+  {
+    "q0": 38033374,
+    "q31": -2,
+    "q32": "Resources nearly nonexistent; gacha experience described as disgusting.",
+    "q9": -2,
+    "q10": "Growth experience is almost absent."
+  },
+  {
+    "q0": 38033340,
+    "q31": -2,
+    "q32": "Open beta rewards are stingy in a rolling-server model.",
+    "q41": "Censored art; formulaic gameplay; very stingy operations."
+  },
+  {
+    "q0": 38033303,
+    "q29": -2,
+    "q30": "Perceived as a generic card game that asks for money at every step."
+  },
+  {
+    "q0": 38033280,
+    "q41": "Overly long, patronizing new player tutorial."
+  },
+  {
+    "q0": 38033260
+  },
+  {
+    "q0": 38033214,
+    "q1": true,
+    "q2": "Suggestive sexual content emphasized in overseas version; CN version is censored and considered inferior by the reviewer."
+  },
+  {
+    "q0": 38033195
+  },
+  {
+    "q0": 38033184,
+    "q41": "Core complaint is lack of gameplay fun; dismisses focus on censorship debates."
+  },
+  {
+    "q0": 38033183,
+    "q31": -2,
+    "q32": "Pre-reg and self-select gacha cannot be claimed until clearing chapters; very poor early experience."
+  },
+  {
+    "q0": 38033178,
+    "q29": -1,
+    "q30": "Buyer’s remorse: paid for a card that is also grindable, reducing perceived value of spending."
+  },
+  {
+    "q0": 38033175,
+    "q3": "Combat features long, unskippable ultimate animations during onboarding.",
+    "q4": -2,
+    "q5": "Forces watching ult animations and prevents skipping early on.",
+    "q41": "New player guidance is long and tedious."
+  },
+  {
+    "q0": 38033155,
+    "q31": -1,
+    "q32": "Even a basic 10-pull feels stingy."
+  },
+  {
+    "q0": 38033151,
+    "q31": -1,
+    "q32": "Launch mail only includes small coupons instead of standard 10-pulls; overall rewards feel cheap.",
+    "q41": "Story and gameplay are average; rewards feel miserly."
+  },
+  {
+    "q0": 38033149,
+    "q31": -1,
+    "q32": "Classic bait: allowed to draw but blocked from claiming; poor rates (1 purple, 9 blue).",
+    "q29": -2,
+    "q30": "Heavy monetization tropes (VIP, SSR gear, multiple cash-driven systems) and power inflation cues."
+  },
+  {
+    "q0": 38033113
+  },
+  {
+    "q0": 38033109
+  },
+  {
+    "q0": 38033086,
+    "q41": "CN release perceived as a censored rehash aiming to cash in."
+  },
+  {
+    "q0": 38033081
+  },
+  {
+    "q0": 38033080,
+    "q39": -1,
+    "q40": "Update fails to proceed; cannot patch."
+  },
+  {
+    "q0": 38033075,
+    "q31": -2,
+    "q32": "Launch rewards are unreasonably stingy.",
+    "q29": -2,
+    "q30": "Heavy emphasis on recharging; low playability."
+  },
+  {
+    "q0": 38033013,
+    "q3": "Combat frequently showcases ultimate animations; skip ability is level-gated.",
+    "q4": -2,
+    "q5": "Forced to watch frequent ult animations; skip is locked until reaching a certain level; meta growth feels cumbersome."
+  },
+  {
+    "q0": 38032999,
+    "q41": "Overlong, forced onboarding."
+  },
+  {
+    "q0": 38032985,
+    "q41": "CN version censored compared to overseas; model changes (e.g., removed beast ears)."
+  },
+  {
+    "q0": 38032951
+  },
+  {
+    "q0": 38032949,
+    "q41": "Reports permanent bans for rerolling multiple starter accounts; warns against playing titles by this publisher."
+  },
+  {
+    "q0": 38032948,
+    "q31": -1,
+    "q32": "Self-select 10-pull implementation feels predatory/annoying."
+  }
+]

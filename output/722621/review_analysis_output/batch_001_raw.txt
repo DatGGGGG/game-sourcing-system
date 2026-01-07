@@ -1,0 +1,489 @@
+[
+  {
+    "q0": 46958908,
+    "q3": "Auto skill queue (“skill axis”) system for battles where you pre-edit skill orders; pets/skills added to the queue execute automatically.",
+    "q4": -1,
+    "q5": "Edited skills get deleted in runs; some pet skills can’t be added and placeholders like 'asdasd' appear, indicating broken combat automation.",
+    "q6": "Pre-battle skill order editing for each unit/pet (skill axis).",
+    "q7": -1,
+    "q8": "Skill order system frequently resets or refuses inputs due to bugs, undermining any tactical setup.",
+    "q41": "Skill axis resets skills; some skills show placeholder text; pet skills cannot be added."
+  },
+  {
+    "q0": 46955237,
+    "q3": "Combat features flashy pixel-style ultimate animations.",
+    "q4": 1,
+    "q5": "Early impression of battle visuals is positive with big ult cut-ins.",
+    "q9": -1,
+    "q10": "Core loop is just dungeon farming; open maps have only chests and almost no interaction, leading to fast fatigue.",
+    "q15": "Light overworld exploration with treasure chests; repeated dungeon runs.",
+    "q17": 1,
+    "q18": "Secondary activities are very simple (open chests), with little interaction so they get boring quickly."
+  },
+  {
+    "q0": 46958102,
+    "q3": "Simplistic JRPG-style exchanges where two sprites fling effects and huge damage numbers.",
+    "q4": -2,
+    "q5": "Shallow effect-spam presentation with inflationary numbers feels low quality.",
+    "q41": "Too many currency types; no clear landscape mode; only a female protagonist option."
+  },
+  {
+    "q0": 46957862,
+    "q41": "Modern internet slang in text breaks immersion."
+  },
+  {
+    "q0": 46956348,
+    "q3": "Has an 'Ougi/Ultimate' system that auto-chains; currently several units dump ultimates at once.",
+    "q4": -1,
+    "q5": "Lack of control over ultimate timing leads to clumped Ougi usage.",
+    "q6": "Requested toggle to independently enable/disable ultimate releases.",
+    "q7": -1,
+    "q8": "Missing basic control (ultimate on/off) reduces tactical control in combat."
+  },
+  {
+    "q0": 46955938,
+    "q3": "Battles are lengthy single encounters.",
+    "q4": -2,
+    "q5": "Single fights take excessively long, hurting moment-to-moment fun."
+  },
+  {
+    "q0": 46955557,
+    "q27": 1,
+    "q28": "Grind exists but isn’t severe; play feels flexible for spenders and non-spenders.",
+    "q29": 1,
+    "q30": "Spending pressure feels light; 'you can spend a lot or play frugally'."
+  },
+  {
+    "q0": 46950677,
+    "q41": "Extremely buggy test build; warns launch will fail if bugs persist."
+  },
+  {
+    "q0": 46948892,
+    "q31": 2,
+    "q32": "Test build offered around 200 free pulls, making gacha very generous."
+  },
+  {
+    "q0": 46948882
+  },
+  {
+    "q0": 46947048,
+    "q1": true,
+    "q2": "Sexualized female character designs with very revealing outfits.",
+    "q3": "Turn-based battles with a 'skip turn' option but no speed-up and no battle skip.",
+    "q4": -1,
+    "q5": "Runs are long with no 2x speed or skip; skipping turns repeatedly is tedious and sometimes freezes.",
+    "q6": "Elemental team building (switched from Earth to higher-damage Fire).",
+    "q7": 0,
+    "q8": "Element choice affects damage, but no deeper tactics discussed.",
+    "q9": -1,
+    "q10": "Daily loop devolves into repetitive dungeon farming with no sweep; little to do after spending stamina.",
+    "q41": "Vertical-only with large central interaction button; requests customizable UI; occasional freeze when skipping turns."
+  },
+  {
+    "q0": 46944187,
+    "q41": "After a force-close the game loads to a black screen and cannot enter."
+  },
+  {
+    "q0": 46944183,
+    "q41": "Black screen on launch on a mid-range phone; game won’t load."
+  },
+  {
+    "q0": 46944148,
+    "q41": "Game fails to open, stuck on a black screen."
+  },
+  {
+    "q0": 46942427
+  },
+  {
+    "q0": 46942153,
+    "q27": 1,
+    "q28": "Low grind and low monetization burden; easy to play casually.",
+    "q41": "Server instability and mediocre optimization."
+  },
+  {
+    "q0": 46938373,
+    "q41": "Many impactful bugs; new characters feel off; materials lack exchange; weapon enchant not implemented; overall poor experience."
+  },
+  {
+    "q0": 46938164
+  },
+  {
+    "q0": 46937790,
+    "q9": -2,
+    "q10": "Main quests and dungeons failed to unlock for a week.",
+    "q41": "Core features like mainline and instance access didn’t open."
+  },
+  {
+    "q0": 46935235
+  },
+  {
+    "q0": 46934951,
+    "q3": "No battle speed-up or skip; material dungeons also lack sweep; a single fight can last up to ~40 minutes.",
+    "q4": -2,
+    "q5": "Excessive time per battle with no QoL (speed/skip/sweep).",
+    "q9": -1,
+    "q10": "Main character jobs don’t share breakthrough levels, forcing duplicate investment; early gacha off-rates make a coherent team hard to assemble.",
+    "q41": "Fixed centered joystick hampers one-hand play; desire for horizontal mode; visuals look slightly blurry."
+  },
+  {
+    "q0": 46934689,
+    "q21": 1,
+    "q22": "Developers respond and fix issues quickly despite messy code."
+  },
+  {
+    "q0": 46934639,
+    "q1": true,
+    "q2": "Breast jiggle and skirts so short they expose buttocks.",
+    "q3": "Very simple combat; tutorial immediately guides into auto-battle with one-click formation."
+  },
+  {
+    "q0": 46934579,
+    "q23": true,
+    "q24": "Has a spark/pity system (players reference '2 sparks' with 400 pulls), though banners reportedly lack a clear UP target."
+  },
+  {
+    "q0": 46934152,
+    "q41": "Concerns about stability and minor issues after launch."
+  },
+  {
+    "q0": 46825957,
+    "q21": -1,
+    "q22": "Frequent server issues; major bugs take many hours to fix; compensation delayed or insufficient, though some feedback has been adopted.",
+    "q9": -1,
+    "q10": "High material demands with low drops (e.g., breakthrough 15, 'black heart'); progression feels punitive.",
+    "q31": -1,
+    "q32": "Compensation and test rewards are stingy, e.g., limited draws from 'friend fees'.",
+    "q41": "Server crashes, exploit fixes delayed, low drop rates adjusted only when new event required them, event resource infinite farm bug, skill-axis issues remain."
+  },
+  {
+    "q0": 46931127
+  },
+  {
+    "q0": 46874622,
+    "q41": "Mini-map opens world map instead of local; few or no side quests; resource nodes scarce and don’t refresh; no male protagonist option; perceived drop rate nerfs; heroes and monsters share a banner causing monsters to lag in stars."
+  },
+  {
+    "q0": 46928613,
+    "q3": "Traditional turn-based system with per-turn actions, multi-skill casting and stacking buffs; 10 equipment slots where only one is for the protagonist’s weapon.",
+    "q4": -1,
+    "q5": "Combat feels plain and buff-stacky.",
+    "q41": "No horizontal mode; fixed central movement stick; recharge/gacha UI blacked out and purchase items disappeared; lost items after relog."
+  },
+  {
+    "q0": 46928089,
+    "q3": "Pure numeric, turn-based card/battle system with early manual then early-unlocked auto; flashy skills and special shots.",
+    "q4": 1,
+    "q5": "Solid presentation and auto makes it smooth, though conventional.",
+    "q6": "Party of 4+2 reserves; same-attribute synergy; one-click team/weapon/partner configuration; leveling and breakthrough across characters, weapons, and monster partners.",
+    "q7": 1,
+    "q8": "Multiple interlocking growth systems and attribute synergies add planning depth.",
+    "q9": -1,
+    "q10": "Progress slows into routine dungeon farming with slow feature unlocks and foreseeable power checks requiring grind or pay.",
+    "q15": "Open-map exploration with light puzzles, autopathing, treasure and item discovery alongside main dungeon farming.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Exploration is straightforward with autopath and simple finds.",
+    "q19": 1,
+    "q20": "Exploration yields chests and scattered items to support growth.",
+    "q23": true,
+    "q24": "Multiple banners including two limited; pity at 30 pulls for an SSR.",
+    "q29": -1,
+    "q30": "Many shop bundles and overall deep monetization.",
+    "q31": 1,
+    "q32": "Server issues and tests granted ample resources (~200 pulls), enabling a full mono-attribute team."
+  },
+  {
+    "q0": 46834000,
+    "q3": "Turn-based with auto-battle and skill order; no sweep; multi-minute boss fights at equal recommended power; features an 'Ougi chain' (ultimate link).",
+    "q4": -1,
+    "q5": "Lengthy fights and lack of sweep make farming tedious despite auto.",
+    "q6": "Skill order configuration, ultimate chain synergy, role filtering for team-building (requested), recommended teams.",
+    "q7": 1,
+    "q8": "There are combo and sequencing mechanics, but guidance/UI are lacking.",
+    "q9": -1,
+    "q10": "Key items like 'proofs' drop sparsely; progress hinges on low-probability drops and limited stamina.",
+    "q15": "Alchemy/refining to craft items like proofs; multiplayer co-op bosses; fishing; simplified dailies.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Secondary systems exist but are under-explained or awkward to use (alchemy undiscoverable, fishing purpose unclear).",
+    "q19": -1,
+    "q20": "Low drop rates for essential items; fishing yields trivial materials; daily rewards reduced.",
+    "q23": true,
+    "q24": "30-pull pity for SSR; test provided ~200 pulls.",
+    "q31": 2,
+    "q32": "Test-time freebies were very generous (~200 pulls plus stamina and items).",
+    "q41": "Frequent freezes/soft-locks, crashes; missing effect descriptions; weapon upgrade materials lack dedicated source; event duration and banner cadence feel too short; copy-paste skill order bugs."
+  },
+  {
+    "q0": 46819888,
+    "q41": "Small team with many issues but claims ongoing optimization."
+  },
+  {
+    "q0": 46899786,
+    "q41": "Severe bugs (drop rates, missing texts, sprite conflicts), device overheating even at low settings, heavy light pollution, lack of monster codex and effect descriptions, post-mainline content is only material grinding, no horizontal mode and only wheel movement."
+  },
+  {
+    "q0": 46925596,
+    "q1": true,
+    "q2": "Overly revealing character outfits."
+  },
+  {
+    "q0": 46925542,
+    "q41": "Highly streaky drop rates—periods of abundance followed by droughts."
+  },
+  {
+    "q0": 46925204
+  },
+  {
+    "q0": 46925128,
+    "q3": "Auto skill release via skill order list per unit.",
+    "q4": -2,
+    "q5": "Skill automation alternates between only the protagonist casting or everyone but the protagonist; custom skill lists reset mid-play.",
+    "q41": "Skill list UI showed empty icons; saved skill orders randomly cleared."
+  },
+  {
+    "q0": 43495890,
+    "q9": -2,
+    "q10": "Severe power creep and low drops with stamina limits block progression unless you grind heavily or max gacha gear/pets.",
+    "q27": -2,
+    "q28": "Non-spenders cannot solo farm; later bosses unplayable without paying and top gear.",
+    "q29": -2,
+    "q30": "Upgrading relies on rare drops or maxing UP weapons/pets via gacha.",
+    "q41": "Extremely low drops in boss dungeons and no AI assist; co-op required even to attempt new content."
+  },
+  {
+    "q0": 46924821,
+    "q41": "After maintenance, event resources from 'Machine God Descends' disappeared."
+  },
+  {
+    "q0": 46895365,
+    "q15": "Fishing and simplified dailies (currently shallow).",
+    "q17": 0,
+    "q18": "Fishing is basic but present.",
+    "q19": -2,
+    "q20": "Fishing rewards are trivial and lack systems (no cooking); daily rewards also reduced.",
+    "q31": -1,
+    "q32": "Daily rewards became sparse after simplification.",
+    "q41": "6-player boss rooms suffer AFK leechers and host can’t kick; revival item bug; event progress reset; banner skill labeling errors; no material salvage or event currency sink."
+  },
+  {
+    "q0": 46923269,
+    "q25": -1,
+    "q26": "Pity feels too high and duplicates are frequent, making pulls feel poor value.",
+    "q41": "Performance is very poor; crashes/force-closes when party grows."
+  },
+  {
+    "q0": 46923015,
+    "q41": "Black screen on entry with audio only."
+  },
+  {
+    "q0": 46922995
+  },
+  {
+    "q0": 46906079,
+    "q23": true,
+    "q24": "Pity/spark exists for 'divine beasts'—player twice hit pity to exchange.",
+    "q25": -2,
+    "q26": "Paid value feels low (e.g., ~¥6 buys ~108 gems ≈ 1 pull) and no evident monthly card; overall too expensive.",
+    "q41": "Buff/effect descriptions are missing; unclear if there is a monthly card."
+  },
+  {
+    "q0": 46918642,
+    "q41": "Vertical-only orientation feels awkward."
+  },
+  {
+    "q0": 46909211,
+    "q21": -1,
+    "q22": "Obvious event auto-exploration bug remained unfixed across days.",
+    "q41": "Auto-exploration value stuck overnight; many bugs remain unaddressed."
+  },
+  {
+    "q0": 46916722,
+    "q41": "Vertical-only; player requests horizontal mode."
+  },
+  {
+    "q0": 46916559,
+    "q41": "Pixel art appears coarse/low fidelity."
+  },
+  {
+    "q0": 46916127
+  },
+  {
+    "q0": 46915998,
+    "q41": "Weapon drops progress quickly while pet ('war beast') drops lag far behind; suggests raising pet drop rates."
+  },
+  {
+    "q0": 46915562,
+    "q23": true,
+    "q24": "30-pull pity for an SSR; gold rate feels high overall.",
+    "q31": 2,
+    "q32": "Over 400 draws from mail plus in-game stones during test.",
+    "q41": "Extremely high off-rate on UP banners; hundreds of pulls without any UP."
+  },
+  {
+    "q0": 46855073,
+    "q3": "Stationary turn-based combat focused on stat checks rather than action.",
+    "q4": -1,
+    "q5": "Late-game devolves into pure number colliding; little moment-to-moment interaction.",
+    "q41": "Requests more side quests, home/farming/crafting/trade systems, romance/favorability, and male protagonist option; non-combat BGM feels flat."
+  },
+  {
+    "q0": 46915216,
+    "q9": -1,
+    "q10": "Daily routine feels tiring and many systems are still incomplete.",
+    "q41": "Several systems are unfinished in the test build."
+  },
+  {
+    "q0": 45064073,
+    "q41": "Only a female protagonist is available."
+  },
+  {
+    "q0": 46914634,
+    "q41": "Bug count is high in test but overall quality seems good; value depends on launch welfare."
+  },
+  {
+    "q0": 46914441,
+    "q41": "Cannot enter the game."
+  },
+  {
+    "q0": 46912967,
+    "q27": -2,
+    "q28": "Progress requires heavy spending; few players to help in hard co-op; weapon upgrade has no inheritance or resource refund.",
+    "q41": "Black-screen login bug; upgrade system deletes invested materials on switch; requested refund due to being unable to play."
+  },
+  {
+    "q0": 46912880,
+    "q41": "Frequent black screens and freezes."
+  },
+  {
+    "q0": 46912638,
+    "q41": "Water Mecha 'full-team guard' interaction inconsistent—boss special actions with Wind damage wipe the team even under guard."
+  },
+  {
+    "q0": 46912176,
+    "q9": -1,
+    "q10": "Low dungeon drop rates make farming dull without auto-hangup.",
+    "q41": "Requests horizontal mode; pixel chibi quality; need auto-farm for better late-game experience."
+  },
+  {
+    "q0": 46912163,
+    "q41": "Advertised landscape mode not actually available."
+  },
+  {
+    "q0": 46912141,
+    "q21": -1,
+    "q22": "Bugfixes keep breaking other systems; daily whack-a-mole issues persist.",
+    "q41": "Skill axis doesn’t apply; passives and skills fail to trigger; saved teams reset or switch elements unexpectedly."
+  },
+  {
+    "q0": 46911406,
+    "q41": "Progress/wallet will reset at launch despite lucky pulls in test."
+  },
+  {
+    "q0": 46909690
+  },
+  {
+    "q0": 46909260,
+    "q31": 1,
+    "q32": "Received around 10,000 premium currency in test."
+  },
+  {
+    "q0": 46909139,
+    "q41": "Huge variance in gacha luck between players."
+  },
+  {
+    "q0": 46908645,
+    "q41": "Battle pass/energy ('BP') rewards are too limited; over-restricted grinding."
+  },
+  {
+    "q0": 46906084,
+    "q41": "Customer support contact not easily found."
+  },
+  {
+    "q0": 46904513,
+    "q9": -2,
+    "q10": "Stuck at the 'Campfire talk' story step; dungeons won’t open.",
+    "q41": "Persistent story soft-lock at 'campfire night chat'."
+  },
+  {
+    "q0": 46830519,
+    "q9": -2,
+    "q10": "Very low drops and extreme grind across weapon sets and four mandatory elemental teams; no sweep and tight BP gates.",
+    "q23": true,
+    "q24": "Spark system with multiple UPs per banner; described as needing roughly 200 pulls to select one UP.",
+    "q25": -2,
+    "q26": "High cost to reach pity and diluted UP targeting make pulls poor value.",
+    "q29": -2,
+    "q30": "Forces investment into four teams and heavy weapon trees under tight BP limits; gacha design pushes spending.",
+    "q41": "No sweep; long fights despite auto; heavy BP gating; weapon set reworks reset progress; unsuitable as a side game."
+  },
+  {
+    "q0": 46904411,
+    "q41": "Game-breaking early-story bug; perception that the team ignores issues and may be cash-grabbing."
+  },
+  {
+    "q0": 46904258,
+    "q41": "Immediate black screen on login even after relaunching."
+  },
+  {
+    "q0": 46904229,
+    "q9": -2,
+    "q10": "Repeated crashes/black screens block progression (e.g., 'campfire talk' quest never completes).",
+    "q41": "Frequent crashes and black screens; quest completion not registering."
+  },
+  {
+    "q0": 46904050,
+    "q41": "World chat appears filled with bots; main story cannot progress; instance UI empty; gacha rates look high."
+  },
+  {
+    "q0": 46903989,
+    "q41": "Numerous critical bugs: wrong skill CDs making MC useless; weapon-plate predictor broken; assassin debuff applies to allies instead of enemies."
+  },
+  {
+    "q0": 46903937,
+    "q3": "Turn-based battles with many buffs/debuffs but poor feedback; bosses mostly auto-attack with little telegraphing.",
+    "q4": -1,
+    "q5": "Lack of damage feedback and effect descriptions; boss attacks feel bland.",
+    "q31": 1,
+    "q32": "Many pulls came from test mails; in normal play pull income felt low.",
+    "q41": "Desire for MC wardrobe; sparse map content; missing buff descriptions; frequent MC sprite bugs; low UP rates (400 pulls yielded few UPs)."
+  },
+  {
+    "q0": 46903930,
+    "q41": "Stuck on 'Apocalypse Knight—Late arrival' story step; restart doesn’t help."
+  },
+  {
+    "q0": 46903148,
+    "q41": "Vertical middle joystick is awkward; dialogue interaction buttons are hard to tap; story tone feels juvenile; prefers horizontal mode."
+  },
+  {
+    "q0": 46902867,
+    "q41": "Soft-locked at the very first stage; relaunching doesn’t resolve."
+  },
+  {
+    "q0": 46819510,
+    "q6": "GBF-like buildcraft around stacking skills and effect combinations.",
+    "q7": 1,
+    "q8": "Skill combo and build systems are the main appeal, despite balance/UI issues.",
+    "q29": -1,
+    "q30": "Monetization feels somewhat heavy; expect to pay later.",
+    "q41": "Many bugs; poor job balance for the protagonist; incomplete effect texts; UI stutter."
+  },
+  {
+    "q0": 46900742,
+    "q3": "Card-like turn-based battles; exploration separated from combat.",
+    "q4": -1,
+    "q5": "Turn-based format and map running make pacing feel wasted relative to the art and world."
+  },
+  {
+    "q0": 46900212,
+    "q4": -1,
+    "q5": "Gameplay is soporific and slow-paced."
+  },
+  {
+    "q0": 46898892,
+    "q11": -1,
+    "q12": "Water element suffers multiple damage/crit bugs while Wind feels stronger largely because it has fewer bugs.",
+    "q41": "Persistent bugs in skills, skill axis, and dungeon entry; critical issues with water-element mechanics (crit, multihit, freeze stack interactions)."
+  }
+]

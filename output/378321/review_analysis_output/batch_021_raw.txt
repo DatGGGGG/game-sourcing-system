@@ -1,0 +1,475 @@
+[
+  {
+    "q0": 37429191
+  },
+  {
+    "q0": 37416638
+  },
+  {
+    "q0": 37416104,
+    "q11": -1,
+    "q12": "Asks to buff the Winter faction (Kraken), implying that faction feels weak."
+  },
+  {
+    "q0": 37413297
+  },
+  {
+    "q0": 37411164
+  },
+  {
+    "q0": 37409793
+  },
+  {
+    "q0": 37367451,
+    "q41": "Hears story is mediocre; wants better narrative to match attractive characters."
+  },
+  {
+    "q0": 37363912,
+    "q3": "Idle/gacha RPG with stage pushing; several modes can’t be skipped (e.g., Absolute Crisis), and some runs must be fully watched.",
+    "q4": -2,
+    "q5": "Time-consuming dailies, unskippable/exitless modes, difficulty spikes; overall frustrating combat flow.",
+    "q9": -2,
+    "q10": "Constant resource shortages and low daily rewards block level/breakthrough progress.",
+    "q23": true,
+    "q24": "SSR pity every 50 pulls; banner rate-up only guaranteed after up to 3 off-banner SSRs; 10-pull costs 1500 diamonds; free tickets are scarce.",
+    "q25": -2,
+    "q26": "High number of pulls to secure banner units and limited free pulls make cost feel unreasonable.",
+    "q27": -2,
+    "q28": "Non-spenders struggle to obtain featured units; friend spent thousands without maxing stars.",
+    "q29": -2,
+    "q30": "Heavy reliance on spending to get desired characters; low free currency.",
+    "q31": -2,
+    "q32": "Daily/weekly rewards and free tickets are very limited.",
+    "q41": "Absolute Crisis cannot be exited; co-op carry needed; skip unlocks are limited; recommended power doesn’t match actual difficulty."
+  },
+  {
+    "q0": 37352304,
+    "q41": "Looks pleasing but gameplay offers no surprises."
+  },
+  {
+    "q0": 37350244,
+    "q41": "Gameplay feels ordinary; visuals are strong and target audience is clear."
+  },
+  {
+    "q0": 37343234,
+    "q41": "Appeals to art lovers; gameplay is easy."
+  },
+  {
+    "q0": 37342624,
+    "q41": "High visual appeal; seems suited for casual/light play."
+  },
+  {
+    "q0": 37342397,
+    "q1": true,
+    "q2": "Sexual/fanservice art likely censored in CN server.",
+    "q27": -2,
+    "q28": "F2P can play casually but can’t compete in rankings without spending.",
+    "q29": -2,
+    "q30": "Heavy spending required to be competitive."
+  },
+  {
+    "q0": 37340170,
+    "q3": "Auto-battle supported.",
+    "q4": -1,
+    "q5": "Fun is just average even though the art is a highlight."
+  },
+  {
+    "q0": 37330396
+  },
+  {
+    "q0": 37323377,
+    "q1": true,
+    "q2": "Will only play if sexual/fanservice art isn’t censored."
+  },
+  {
+    "q0": 37303028,
+    "q1": true,
+    "q2": "Sexy/fanservice art; skill animations.",
+    "q3": "Battles with skill-release animations; standard gacha RPG combat.",
+    "q6": "PvP arena (JJC).",
+    "q7": -1,
+    "q8": "Rarity dominates performance; stacking high-rarity units beats tactics.",
+    "q29": -1,
+    "q30": "Pull resources feel insufficient, pushing towards spending.",
+    "q31": -1,
+    "q32": "Not enough gacha resources for comfortable pulling."
+  },
+  {
+    "q0": 37285596
+  },
+  {
+    "q0": 37284591,
+    "q15": "Home/dorm decoration and light customization alongside viewing character art.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple, casual decorate-and-chill loop."
+  },
+  {
+    "q0": 37281520,
+    "q41": "Controls are simple; wants to unlock more modes/features."
+  },
+  {
+    "q0": 37280921,
+    "q41": "Gameplay needs upgrades; relying on art alone won’t retain players."
+  },
+  {
+    "q0": 37279866,
+    "q1": true,
+    "q2": "Expects heavy censorship of sexual/fanservice art in CN server."
+  },
+  {
+    "q0": 37276329,
+    "q31": -2,
+    "q32": "JP server welfare feels too low despite great art and voice acting."
+  },
+  {
+    "q0": 37259905
+  },
+  {
+    "q0": 37259221
+  },
+  {
+    "q0": 37259029,
+    "q1": true,
+    "q2": "JP server art is very explicit; hopes CN can preserve it or at least increase rewards."
+  },
+  {
+    "q0": 37257177
+  },
+  {
+    "q0": 37256840
+  },
+  {
+    "q0": 37256259,
+    "q29": -2,
+    "q30": "Foreign versions feel both grindy and monetized with many pay points."
+  },
+  {
+    "q0": 37254285
+  },
+  {
+    "q0": 37253303
+  },
+  {
+    "q0": 37240821,
+    "q31": 2,
+    "q32": "Claim that CN server offers permanent daily ten-pull."
+  },
+  {
+    "q0": 37238660,
+    "q41": "Worldbuilding seems flavorful; worried about writing quality and clarity."
+  },
+  {
+    "q0": 37238339,
+    "q3": "Needs a battle skip option.",
+    "q4": -1,
+    "q5": "No skip wastes limited daily time.",
+    "q41": "Requests a skip-battle feature."
+  },
+  {
+    "q0": 37237455,
+    "q3": "Skill animations look good.",
+    "q41": "Hopes monetization won’t be too heavy."
+  },
+  {
+    "q0": 37235615
+  },
+  {
+    "q0": 37235042,
+    "q1": true,
+    "q2": "Core appeal is sexual/fanservice art; expects CN censorship."
+  },
+  {
+    "q0": 37223898,
+    "q1": true,
+    "q2": "Very erotic art/CGs.",
+    "q3": "Stage-based combat with 2D ultimate animations and story CGs.",
+    "q9": -2,
+    "q10": "Severe stamina gating and level-gated features/banners; unlocks tied to account level.",
+    "q31": -1,
+    "q32": "Welfare is average.",
+    "q41": "Limited banners require reaching a certain level; daily stamina purchase capped."
+  },
+  {
+    "q0": 37230431
+  },
+  {
+    "q0": 37224547
+  },
+  {
+    "q0": 37222624,
+    "q1": true,
+    "q2": "CN release has ‘full coverage’ outfits implying added censorship."
+  },
+  {
+    "q0": 37221332,
+    "q1": true,
+    "q2": "Wants overseas uncensored art collection before potential CN censorship."
+  },
+  {
+    "q0": 37220396,
+    "q1": true,
+    "q2": "Censorship is inevitable; pleads to minimize it."
+  },
+  {
+    "q0": 37217707,
+    "q1": true,
+    "q2": "Asks how to view overseas (less censored) art in CN."
+  },
+  {
+    "q0": 37214255,
+    "q1": true,
+    "q2": "Censorship expected; hopes it’s minimal."
+  },
+  {
+    "q0": 37211617,
+    "q41": "Avatar art looks very similar to another game (Possible reskin concern)."
+  },
+  {
+    "q0": 37207009,
+    "q3": "Turn-based card game; feels like a reskin.",
+    "q4": -1,
+    "q5": "Perceived as a reskinned, generic turn-based card battler."
+  },
+  {
+    "q0": 37203794,
+    "q41": "International version is fine for killing time; art/VO good; story acceptable."
+  },
+  {
+    "q0": 37203734,
+    "q1": true,
+    "q2": "Promotional images appear censored (e.g., black drape covering)."
+  },
+  {
+    "q0": 37201456,
+    "q1": true,
+    "q2": "Asks not to censor sexual/fanservice content."
+  },
+  {
+    "q0": 37200697,
+    "q1": true,
+    "q2": "Hopes CN version keeps overseas art; otherwise loses appeal."
+  },
+  {
+    "q0": 37199567,
+    "q1": true,
+    "q2": "Overseas art is very explicit; asks about uncensor mods."
+  },
+  {
+    "q0": 37193227,
+    "q41": "Accuses game of being art-only cash grab; wishes failure at launch."
+  },
+  {
+    "q0": 37182219,
+    "q1": true,
+    "q2": "Expects CN censorship of sexy art.",
+    "q3": "Chibi auto-battle; initially no skip.",
+    "q4": -1,
+    "q5": "Very grindy with no early skip and lots of content to farm.",
+    "q9": -1,
+    "q10": "Hits brick walls later on (‘invincible’ stages)."
+  },
+  {
+    "q0": 37178848,
+    "q31": -2,
+    "q32": "Almost no welfare; same on international servers."
+  },
+  {
+    "q0": 37171292,
+    "q1": true,
+    "q2": "CN version expected to censor large-chested characters.",
+    "q6": "PvP presence.",
+    "q27": -2,
+    "q28": "Extremely low pull resources make it unplayable for F2P.",
+    "q29": -2,
+    "q30": "Very heavy monetization and PvP pressure.",
+    "q31": -2,
+    "q32": "Pull resources are extremely scarce."
+  },
+  {
+    "q0": 37168592
+  },
+  {
+    "q0": 37166456,
+    "q41": "Daily and event tasks are grindy; quit after a week."
+  },
+  {
+    "q0": 37163086,
+    "q29": -2,
+    "q30": "Very low gacha rates; high-star limiteds require spending; weapon star-up is costly.",
+    "q31": -1,
+    "q32": "Good launch rewards but drop off sharply later."
+  },
+  {
+    "q0": 37155265
+  },
+  {
+    "q0": 37151568
+  },
+  {
+    "q0": 37149466,
+    "q3": "Fully auto skill casting; optional manual weapon skill (often unimportant).",
+    "q4": -1,
+    "q5": "Combat feels very hands-off and lackluster."
+  },
+  {
+    "q0": 37148483,
+    "q23": true,
+    "q24": "50 or 60-pull SSR pity; rate-up guaranteed after 4 off-banners; disabling ultimate animations is locked until ~level 40.",
+    "q29": -2,
+    "q30": "Aggressive bundles/red dots; monetization feels in-your-face.",
+    "q41": "Dorm/dispatch systems feel useless; ultimate animation skip is locked behind level."
+  },
+  {
+    "q0": 37144106,
+    "q1": true,
+    "q2": "CN server’s art is censored vs. international.",
+    "q3": "Classic idle stage-push with card level gating.",
+    "q31": -1,
+    "q32": "Welfare appears plentiful but is actually average."
+  },
+  {
+    "q0": 37142771,
+    "q1": true,
+    "q2": "Worried about heavy censorship of the main selling point (art).",
+    "q41": "Only standout compared to other anime gachas is the art."
+  },
+  {
+    "q0": 37141859,
+    "q27": -2,
+    "q28": "Star/rarity progression punishes F2P; hard to get desired units.",
+    "q29": -2,
+    "q30": "Classic monetized card-RPG with many sinks and stingy rewards.",
+    "q31": -2,
+    "q32": "Welfare is stingy; white-knighting art can’t hide issues."
+  },
+  {
+    "q0": 37141818,
+    "q31": -2,
+    "q32": "Besides erotic art, welfare is very poor; CN server expected to be similar."
+  },
+  {
+    "q0": 37141346,
+    "q3": "Turn-based combat with autoplay; some skips locked (e.g., daily battles gated by VIP).",
+    "q4": -1,
+    "q5": "Combat is boring despite decent art.",
+    "q6": "Position-based leveling: 6 slots inherit level/gear/skills so you can swap characters into leveled slots.",
+    "q7": 1,
+    "q8": "Slot inheritance is a useful twist that streamlines team changes.",
+    "q41": "Very grindy dailies; some skip functions locked behind VIP."
+  },
+  {
+    "q0": 37140802
+  },
+  {
+    "q0": 37140033,
+    "q1": true,
+    "q2": "CN censorship expected; art is the only standout.",
+    "q6": "PvP focus and frequent new servers.",
+    "q29": -2,
+    "q30": "Heavy spending expected for a PvP-leaning game.",
+    "q31": -2,
+    "q32": "Don’t expect generous welfare."
+  },
+  {
+    "q0": 37139136,
+    "q3": "Has 2x speed but still slow; new-player rewards tied to pushing specific stages.",
+    "q9": -2,
+    "q10": "Stamina and power gates; must clear many stages to claim time-limited rewards.",
+    "q31": -2,
+    "q32": "Promised rewards are slow and grind-heavy; beginner SSR event is time-limited and difficult; low rates force pity."
+  },
+  {
+    "q0": 37134682
+  },
+  {
+    "q0": 37134325,
+    "q31": 1,
+    "q32": "Welfare felt decent; could pull dozens of times per week when saving."
+  },
+  {
+    "q0": 37130546,
+    "q41": "Game is positioned as art/voice-first; gameplay is secondary."
+  },
+  {
+    "q0": 37130059
+  },
+  {
+    "q0": 37128788
+  },
+  {
+    "q0": 37116465,
+    "q1": true,
+    "q2": "Lewd fanservice focus; expects CN ‘nerfs’.",
+    "q3": "Traditional Japanese-style card battler; easy to learn, little innovation."
+  },
+  {
+    "q0": 37092414,
+    "q1": true,
+    "q2": "Main selling point is sexual content; expects censorship in CN.",
+    "q3": "Turn-based card combat with auto, skill-skip and sweep (desired for QoL)."
+  },
+  {
+    "q0": 37089463,
+    "q1": true,
+    "q2": "Sexy art is the primary attraction.",
+    "q3": "Auto combat; can skip trash fights and sweep after clear; leveling inheritance makes swapping units easy.",
+    "q4": -1,
+    "q5": "Low gameplay depth but acceptable as a sub-game due to QoL and art.",
+    "q6": "Level/gear inheritance system for team slots.",
+    "q7": 1,
+    "q8": "Inheritance reduces resource pressure and makes team changes convenient.",
+    "q15": "Dorm/home decoration and base building.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Simple, casual decoration-focused loop."
+  },
+  {
+    "q0": 37090316,
+    "q1": true,
+    "q2": "Sexy art likely to be censored in CN.",
+    "q3": "Auto-battle; clears if power is sufficient.",
+    "q4": 1,
+    "q5": "Relaxing and not grindy; auto suffices for progression."
+  },
+  {
+    "q0": 37075774,
+    "q3": "Requests a skip-battle feature.",
+    "q4": -1,
+    "q5": "Wants skip to reduce time cost."
+  },
+  {
+    "q0": 37038035
+  },
+  {
+    "q0": 37036091
+  },
+  {
+    "q0": 37027365
+  },
+  {
+    "q0": 37017528
+  },
+  {
+    "q0": 37005693
+  },
+  {
+    "q0": 36925871
+  },
+  {
+    "q0": 36884018
+  },
+  {
+    "q0": 36876319
+  },
+  {
+    "q0": 36875917,
+    "q1": true,
+    "q2": "Very large/busty character art (sexualized)."
+  },
+  {
+    "q0": 36831025,
+    "q1": true,
+    "q2": "Very erotic art is the main highlight; expects full censorship in CN."
+  }
+]

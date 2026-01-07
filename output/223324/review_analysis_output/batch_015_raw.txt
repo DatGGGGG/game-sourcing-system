@@ -1,0 +1,465 @@
+[
+  {
+    "q0": 28809447
+  },
+  {
+    "q0": 28754036,
+    "q3": "Turn-based battles with manual/auto options; team is limited by stage-specific lineup restrictions; multi-wave encounters.",
+    "q4": 0,
+    "q5": "Standard turn-based loop feels okay but many UX frictions: lineup restriction feels bad, lack of wave indicators, unclear status/attribute info, auto can’t use some class skills.",
+    "q6": "Lineup restrictions in certain stages; multi-wave indicators (requested); class skills for roles like Light/Guard; status buffs/debuffs visibility; attributes like speed vs action order.",
+    "q7": 0,
+    "q8": "Some tactical layers exist (classes, waves, attributes), but execution/UX issues reduce practical depth.",
+    "q9": -1,
+    "q10": "Stamina sources are few and recovery is slow; event exchanges tedious; restrictions disrupt smooth progression.",
+    "q15": "Dispatch/escort missions where an NPC must reach an area; auto resolves but waits after enemies are cleared.",
+    "q16": false,
+    "q17": 0,
+    "q18": "Concept is simple but auto wastes turns after combat, making it feel tedious.",
+    "q27": 1,
+    "q28": "Playable even when unlucky; low-rarity units are easier to upgrade, enabling progress without top pulls.",
+    "q29": -1,
+    "q30": "Stamina purchases feel required due to limited recovery and few sources.",
+    "q41": "UI visibility issues (buttons blend with background, challenge entry not obvious); gacha skip speed too slow; lack of wave count display; attribute and weapon skill descriptions missing; status effects not clearly shown during battle; auto for some classes can’t fire skills; dispatch auto waits multiple idle turns; event shop only allows single exchanges; inconsistent terminology (magic vs construct)."
+  },
+  {
+    "q0": 28799856,
+    "q9": -1,
+    "q10": "Early level cap and breakthrough flow are confusing; need level-30 materials from low-level runs with RNG; no sweep and commission extends grind; performance lag/heating.",
+    "q41": "Tutorial is overly long with no skip; needs sweep instead of commission; optimization issues (heating, stutter); unclear if there is a reset/respec system."
+  },
+  {
+    "q0": 26854371,
+    "q3": "Grid-based tactics with class skills and terrain interaction; cinematic ult skills.",
+    "q4": 1,
+    "q5": "Skills and ult animations are engaging; mode offers a good tactical loop.",
+    "q6": "Terrain effects; auto mode (initially missing) and later added; stage challenges.",
+    "q7": 1,
+    "q8": "Terrain and class skills create tactical variation beyond basic moves.",
+    "q21": 1,
+    "q22": "Second test added auto and events; stability and content improved.",
+    "q31": 1,
+    "q32": "Event rewards are quite rich in the second test.",
+    "q41": "Early lack of auto and unskippable skill animations increased time cost; ascension also consumes currency; intrusive red dots; stage challenge entry not prominent."
+  },
+  {
+    "q0": 28744068,
+    "q9": -1,
+    "q10": "Difficulty feels high early and stamina scarcity slows resource collection.",
+    "q41": "Split-screen/picture-in-picture interrupts battles; returning to the game can freeze the UI; story feels cliché."
+  },
+  {
+    "q0": 28796923,
+    "q9": -1,
+    "q10": "Progression feels grindy without sweep; high time cost per run."
+  },
+  {
+    "q0": 28796761,
+    "q9": -1,
+    "q10": "Stamina recovery is slow and material yield is low, making growth inconvenient.",
+    "q29": -1,
+    "q30": "Multiple monetization pressure points implied through stamina/material bottlenecks.",
+    "q41": "Consider respec/refund for mis-invested units; clarify duplicate handling after max knowledge; request wave display; some evolved art quality lags."
+  },
+  {
+    "q0": 28789338,
+    "q9": -1,
+    "q10": "Material drops are low and stamina pool is small, limiting runs."
+  },
+  {
+    "q0": 26780264,
+    "q3": "Tactical grid-based combat with revised, smaller-range skill effects.",
+    "q4": 1,
+    "q5": "Visual/skill changes improved clarity and feel.",
+    "q13": -1,
+    "q14": "Some roles/characters have overly similar skills, risking unused characters later.",
+    "q41": "Inconsistent evolved art quality; hopes for universal Live2D on evolved art."
+  },
+  {
+    "q0": 28785496,
+    "q9": -1,
+    "q10": "Stamina sources are limited for daily play.",
+    "q41": "Knowledge upgrade costs too high; UI prioritizes gacha over growth; multi-step claim for tasks; audio desync on attacks; auto AI targets poorly (e.g., snipers into shields, mages into mages); wave count not shown; desire for more home customization."
+  },
+  {
+    "q0": 28783293,
+    "q41": "Feels unlucky with off-banner reds and late pity triggers; overall rates feel similar to peers but personal experience is poor."
+  },
+  {
+    "q0": 28734647,
+    "q9": -1,
+    "q10": "Very limited stamina (few canisters) constrains play and grind.",
+    "q15": "Base system focused on tea/tea room interactions.",
+    "q16": false,
+    "q17": 1,
+    "q18": "Secondary/base loop is simple and sparse (mostly tea).",
+    "q41": "Commission AI can’t replicate player runs; base system feels too simple with just tea."
+  },
+  {
+    "q0": 28780086,
+    "q9": -1,
+    "q10": "Slow stamina recovery and many resource types make early progression tough; hidden challenges/ratings raise entry difficulty.",
+    "q41": "Red dot bug in tea feature; class-specific drops vary unexpectedly; wants true sweep; confusing extra recruitment (征召) meaning; home layout prioritization; can’t buy stamina from pre-stage; small simplified material icons; onboarding to resource uses is weak; healer + self-damage DPS synergy noted."
+  },
+  {
+    "q0": 28777963,
+    "q4": -2,
+    "q5": "Auto ‘sweep’ replays full fights instead of instant sweep; frustration with class usefulness.",
+    "q11": -2,
+    "q12": "Perceived uselessness of Shield and Strategy classes outside of art.",
+    "q41": "Requests true sweep rather than auto-replay."
+  },
+  {
+    "q0": 28724893,
+    "q4": -1,
+    "q5": "Battle models/effects feel rough and less polished than genre leaders.",
+    "q9": -1,
+    "q10": "Early difficulty spike (e.g., 3-4) with high enemy HP/attack.",
+    "q41": "Requests better battle modeling/effects and smoother combat flow."
+  },
+  {
+    "q0": 28773334,
+    "q41": "Requests: toggle for ult animations; remove persistent red dots; skip for recruitment lock; cheaper knowledge cost for low-rarity; true one-tap claim across layers; smarter protection mechanics; more distinctive jump values by class; don’t pause draws on notification shade; smarter auto before spending ults; multiple bugs (roster slot placement, tea type mismatch, missing currency display, commission aborted by split-screen, protection stages wait for evac, cannot cancel aim, occasional missing kill voice); suggest clearer stage challenges, gentler difficulty curve, and simplified class counters."
+  },
+  {
+    "q0": 28770532,
+    "q4": -1,
+    "q5": "Effects need polish; frequent mis-taps leading to unintended standby.",
+    "q41": "Skill and standby buttons too easy to mis-tap."
+  },
+  {
+    "q0": 26855011,
+    "q9": -1,
+    "q10": "High stamina costs and early-stage consumption discourage early progression.",
+    "q41": "Clicks sometimes unresponsive; auto AI too weak; difficulty oscillates; repetitive perfect conditions (e.g., kill two simultaneously); frequent off-banner pulls."
+  },
+  {
+    "q0": 28768366,
+    "q9": -1,
+    "q10": "Frequent stamina shortages impede progress."
+  },
+  {
+    "q0": 26867540,
+    "q9": -1,
+    "q10": "Materials are slow to farm even with 2x; story isn’t engaging.",
+    "q41": "Some evolved art faces feel off; UI cluttered; add voices for damage/ult moments; audio volume bug (ult volume unaffected by global); gameplay feels tiring even with auto; concerns about limit-test distribution ethics."
+  },
+  {
+    "q0": 28759261,
+    "q9": -1,
+    "q10": "Stamina is scarce and commission auto feels bad.",
+    "q41": "Suggest removing random weapon affixes; commission auto-battle logic is poor."
+  },
+  {
+    "q0": 28754919,
+    "q9": -1,
+    "q10": "Stages feel too tedious and time-consuming."
+  },
+  {
+    "q0": 28715221,
+    "q9": -1,
+    "q10": "Complex growth with many materials and slow drops; difficulty spikes from chapter 3.",
+    "q41": "Story feels ordinary; documentation/education on artifacts is a plus."
+  },
+  {
+    "q0": 28753698
+  },
+  {
+    "q0": 28726695,
+    "q9": -1,
+    "q10": "Battle is complex, auto is not smart, and leveling gates are severe with scarce funds.",
+    "q41": "New player guidance is weak; many features require trial-and-error."
+  },
+  {
+    "q0": 28733227,
+    "q9": -1,
+    "q10": "Low stamina impedes early grind.",
+    "q41": "Request to keep player gender ambiguous; unclear material sources (needs jump-to); split-screen interrupts commission; wants sweep; consider using player name instead of 'Collector'."
+  },
+  {
+    "q0": 28751017,
+    "q9": -1,
+    "q10": "Difficulty spikes in chapter 2 while growth is already complex.",
+    "q31": -1,
+    "q32": "Closed test rewards feel stingy (e.g., survey only gives coins; no generous pulls).",
+    "q41": "Story lacks hooks and is mixed with tutorials; wants class counters/backstab; frequent mis-taps; prefers commission at 3x and to mirror player run; improve high-rarity draw animations."
+  },
+  {
+    "q0": 28750153,
+    "q4": 0,
+    "q5": "Classes feel interesting and animations cute, but battle pace is slow and forced replaying hurts flow.",
+    "q9": -1,
+    "q10": "Stamina sources are few; growth systems feel messy/unclear.",
+    "q41": "UI practicality issues; limited voice; uneven evolved art quality; high-rarity draw lacks impact; forced 'watching replays' instead of sweep; optimization causes heating."
+  },
+  {
+    "q0": 28748011,
+    "q31": -1,
+    "q32": "No newbie high-rarity guarantee and stingy early rewards (7-day SR, survey only coins).",
+    "q41": "Tutorial mixed into story; text size too small; battle loop not engaging to non-tactics fans."
+  },
+  {
+    "q0": 28744313,
+    "q13": -1,
+    "q14": "Treating class skills as actives reduces role differentiation and variety.",
+    "q9": -1,
+    "q10": "Complex growth and lack of sweep make farming tedious.",
+    "q41": "Unnecessary battle confirmations; task claim UX requires multiple taps; intrusive red dots; story/tutorial integration issues; request player gender selection or full ambiguity."
+  },
+  {
+    "q0": 28744044,
+    "q9": -1,
+    "q10": "Mainline lacks auto and difficulty spikes (e.g., 2-11) hinder smooth progress.",
+    "q41": "Battles take long; early bosses interesting; some art quality concerns."
+  },
+  {
+    "q0": 28741486,
+    "q31": 1,
+    "q32": "Developers sent 200 stamina and welfare feels okay overall.",
+    "q9": -1,
+    "q10": "Difficulty jumps (stuck at 2-3) despite welfare.",
+    "q41": "Cannot freely adjust camera; tapping small enemies is hard."
+  },
+  {
+    "q0": 28741051,
+    "q31": -1,
+    "q32": "Too few freebies/premium currency; cannot recharge in test yet blocks stamina purchases.",
+    "q41": "Stage rewards give very little premium currency."
+  },
+  {
+    "q0": 28738920,
+    "q4": -1,
+    "q5": "Battle, UI, and story feel messy/chaotic, hurting immersion.",
+    "q41": "Elements are small/cluttered; hard to focus on gameplay."
+  },
+  {
+    "q0": 28738505,
+    "q31": -2,
+    "q32": "Very stingy test rewards, barely any pulls; forced to use starters through chapter 3.",
+    "q41": "Complaints about overall stinginess and lack of gacha access during test."
+  },
+  {
+    "q0": 28737313,
+    "q31": -1,
+    "q32": "Closed test welfare is too stingy (only ~1 ten-pull/day; no newbie ten-pull).",
+    "q13": -1,
+    "q14": "Skills across roles feel very similar; stealth enemies harm experience.",
+    "q41": "Player gender presentation conflicts with claimed ambiguity; perceived platform favoritism; cumbersome enemy info; request tutorial skip."
+  },
+  {
+    "q0": 28735083,
+    "q41": "Voice acting feels awkward."
+  },
+  {
+    "q0": 28734256,
+    "q4": -1,
+    "q5": "Operations are cumbersome and ult animations cannot be skipped.",
+    "q9": -1,
+    "q10": "Growth is overly complex and demotivating.",
+    "q41": "No story replay; low-rarity pool feels too small and repetitive."
+  },
+  {
+    "q0": 28734263,
+    "q41": "Battle interaction needs polish; post-claim UI delays before closing."
+  },
+  {
+    "q0": 28733984,
+    "q9": -1,
+    "q10": "Overall experience feels exhausting/grindy."
+  },
+  {
+    "q0": 28733563
+  },
+  {
+    "q0": 28730920,
+    "q6": "Grid tactics with thoughtful planning; optional auto exists; multiple settings could simplify UI.",
+    "q7": 1,
+    "q8": "Meaningful planning makes it engaging when hand-controlled.",
+    "q9": -1,
+    "q10": "Stamina is limited, restricting playtime.",
+    "q41": "UI is cluttered; request better simplicity and clarity; gender ratio concerns (avoid male-heavy or ‘moe’ tilt)."
+  },
+  {
+    "q0": 28729808
+  },
+  {
+    "q0": 28729602
+  },
+  {
+    "q0": 28729245
+  },
+  {
+    "q0": 28728938,
+    "q9": -1,
+    "q10": "Character growth feels too fragmented/complex."
+  },
+  {
+    "q0": 28728811,
+    "q41": "Username flagged as sensitive despite being benign; filter may be too strict."
+  },
+  {
+    "q0": 28728539,
+    "q41": "City map looks low-res; app logs out quickly when backgrounded."
+  },
+  {
+    "q0": 28728411,
+    "q4": -1,
+    "q5": "Battle lacks immersion and feels repetitive even with speed/auto.",
+    "q9": -1,
+    "q10": "Too many material types with stamina limits and hidden achievements that are hard early.",
+    "q41": "Story average; UI messy; hidden achievements tuned for later; heavy time cost."
+  },
+  {
+    "q0": 28728357,
+    "q13": -1,
+    "q14": "Skills across characters feel too similar."
+  },
+  {
+    "q0": 28728007,
+    "q4": -1,
+    "q5": "Battle animations feel weak."
+  },
+  {
+    "q0": 28727235,
+    "q41": "Request to add sweep for cleared material stages."
+  },
+  {
+    "q0": 28725106,
+    "q4": -1,
+    "q5": "Combat feels generic and lacks novelty."
+  },
+  {
+    "q0": 28724680
+  },
+  {
+    "q0": 28724353,
+    "q41": "Cannot view full-body artwork in a gallery/inspection mode."
+  },
+  {
+    "q0": 28723982
+  },
+  {
+    "q0": 28723949
+  },
+  {
+    "q0": 28719119
+  },
+  {
+    "q0": 28714469
+  },
+  {
+    "q0": 28710834
+  },
+  {
+    "q0": 28710818
+  },
+  {
+    "q0": 28705848
+  },
+  {
+    "q0": 28672060
+  },
+  {
+    "q0": 28633333
+  },
+  {
+    "q0": 28098954
+  },
+  {
+    "q0": 27015960,
+    "q41": "Wants auto-battle; requests adjusting chibi animations (less ‘dancing’)."
+  },
+  {
+    "q0": 26912834,
+    "q11": -1,
+    "q12": "Some units feel poorly designed or outclassed (e.g., Wu King’s spear passive confusing; ‘Chatter Stele’ underpowered vs high-rarity alternatives).",
+    "q41": "Requests not to require star ascension; plays for favorite characters despite balance concerns."
+  },
+  {
+    "q0": 26907910,
+    "q11": -1,
+    "q12": "Red tank balance questionable vs other tanks; ‘true damage’ feels meaningless due to calculation; sniper class penalty feels too harsh.",
+    "q13": -1,
+    "q14": "Skill repetition across roles reduces uniqueness; resource bottlenecks limit roster variety.",
+    "q41": "Suggests equipment substat reroll or limited reforge; reduce/convert material types; auto unlock after first clear; training difficulty too high in test."
+  },
+  {
+    "q0": 26902586,
+    "q4": -1,
+    "q5": "Combat feels cumbersome with bland hit sounds and incomplete-feeling ult animations; some classes feel low impact; high skill repetition.",
+    "q13": -1,
+    "q14": "Many roles share similar skills, reducing distinctiveness.",
+    "q41": "Auto exists but AI priorities unclear; optimization and pacing concerns."
+  },
+  {
+    "q0": 26897806,
+    "q31": 1,
+    "q32": "Welfare felt decent in the first test.",
+    "q41": "Gacha rates feel too low with frequent dupes."
+  },
+  {
+    "q0": 26835616,
+    "q4": -1,
+    "q5": "No auto/sweep and tight grids cause eye strain; ult lacks cinematic; heating reported.",
+    "q9": -1,
+    "q10": "Too many materials required for growth; grind heavy without automation.",
+    "q41": "Unsure about attribute counters; story lacks live2D; Q-version scale vs grid density strains eyes."
+  },
+  {
+    "q0": 26892049,
+    "q4": -1,
+    "q5": "Ult animation feels awkward with many black-screen transitions.",
+    "q41": "UI and text are too small for comfort."
+  },
+  {
+    "q0": 26891602,
+    "q4": -1,
+    "q5": "Current skill effects feel cheap; clarity issues with active unit and buff stacks.",
+    "q41": "Requests sweep, default 2x, larger clickable areas, clearer current unit highlighting, and better on-phone tap targets."
+  },
+  {
+    "q0": 26837073,
+    "q4": -1,
+    "q5": "No auto and crowded grids make combat visually tiring; ult lacks animation impact.",
+    "q9": -1,
+    "q10": "Many materials to farm without automation increases grind and time cost.",
+    "q41": "Phone heats up; unsure about attribute counters; story feels generic; likes artifact presentation and audio."
+  },
+  {
+    "q0": 26889236,
+    "q4": -1,
+    "q5": "Average-feeling combat; needs skip for skill animations and persistent 2x speed option.",
+    "q41": "Wants clearer unique mechanics to stand out from peers; story didn’t hold interest."
+  },
+  {
+    "q0": 26888562
+  },
+  {
+    "q0": 26888059,
+    "q9": -1,
+    "q10": "Complex drop tables and no auto make material farming tedious.",
+    "q4": -1,
+    "q5": "Chibi ult looks rough and battle pacing drags without automation.",
+    "q41": "Story feels standard; wants more character interactions."
+  },
+  {
+    "q0": 26887984,
+    "q11": -1,
+    "q12": "Tank role impact feels low; role balance needs work.",
+    "q13": -1,
+    "q14": "Skills are repetitive across classes, reducing variety.",
+    "q9": -1,
+    "q10": "Hard growth, unreasonable drops vs stamina; no auto to ease grind.",
+    "q41": "Map cluttered with no zoom; battery drain is heavy; frequent mis-taps."
+  },
+  {
+    "q0": 26887938,
+    "q41": "Request to add a skip toggle for ult animations."
+  },
+  {
+    "q0": 26887612,
+    "q9": -1,
+    "q10": "Ascension materials recommend higher levels than current team; many materials and random gear stats make growth slow.",
+    "q41": "Random weapon substats disliked; mis-taps between skill and standby; story uses common tropes (amnesia)."
+  }
+]

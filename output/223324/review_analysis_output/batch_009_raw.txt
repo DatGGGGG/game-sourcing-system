@@ -1,0 +1,438 @@
+[
+  {
+    "q0": 39657829,
+    "q41": "Baiting downloads/traffic; user feels misled."
+  },
+  {
+    "q0": 39657827,
+    "q41": "Advertised test qualification but not allowed to enter; feels like bait download."
+  },
+  {
+    "q0": 39657787
+  },
+  {
+    "q0": 39657822,
+    "q41": "Claims test qualification but login blocked due to server full/registration cap."
+  },
+  {
+    "q0": 39657820,
+    "q41": "Getting test qualification does not equal getting a playable slot; misleading system."
+  },
+  {
+    "q0": 39657452,
+    "q3": "Turn-based combat; tap inputs often unresponsive.",
+    "q4": -1,
+    "q5": "Tap/clicks during turns frequently do not register.",
+    "q9": -1,
+    "q10": "Newbie tasks are numerous, difficult, and time-consuming.",
+    "q41": "Art/modeling issues (proportions off; faces/arms look misaligned)."
+  },
+  {
+    "q0": 39657777,
+    "q39": -2,
+    "q40": "Stuck at 100% loading; server crash; cannot enter.",
+    "q41": "Severe server instability."
+  },
+  {
+    "q0": 39657779,
+    "q37": -2,
+    "q38": "Roughly 4 GB mobile data spent; after download/update, registration cap prevents entry.",
+    "q41": "Bait download despite limited registration slots."
+  },
+  {
+    "q0": 39657772,
+    "q41": "TapTap showed qualification but game reports test full; feels like bait for downloads."
+  },
+  {
+    "q0": 39657755,
+    "q41": "No prior notice of slot limits; after downloading, shows full."
+  },
+  {
+    "q0": 39657742,
+    "q41": "Baiting downloads."
+  },
+  {
+    "q0": 39657735,
+    "q41": "Registration full yet still driving downloads; misleading."
+  },
+  {
+    "q0": 39657297,
+    "q41": "Heavy lag/crashes and swallowed rewards; tech quality poor and falling behind competition."
+  },
+  {
+    "q0": 39657687,
+    "q41": "Shows 'acquired test qualification' but blocked by 'registration cap reached'."
+  },
+  {
+    "q0": 39657473,
+    "q41": "Opened download without ensuring qualification; wasted time and data; user very upset."
+  },
+  {
+    "q0": 39657671,
+    "q23": true,
+    "q24": "Approx. 70-pull pity for highest rarity with a 50/50 chance to miss the rate-up; user reports 80–90 pulls still missing target.",
+    "q39": -2,
+    "q40": "Launch-day access issues; cannot enter.",
+    "q41": "Notes pity behavior (70 pity, 50/50) and poor launch accessibility."
+  },
+  {
+    "q0": 39657667,
+    "q41": "Bait download."
+  },
+  {
+    "q0": 39657661,
+    "q41": "Requests gating downloads behind confirmed qualification; current approach feels like traffic/heat baiting."
+  },
+  {
+    "q0": 39657653,
+    "q3": "Combat lacks impact/feedback; feels dull.",
+    "q4": -2,
+    "q5": "No hit/impact feeling during battles.",
+    "q7": -2,
+    "q8": "User felt there was no strategy at all; unengaging.",
+    "q41": "Character models/visuals not appealing."
+  },
+  {
+    "q0": 39657627,
+    "q41": "After downloading, told no qualification; frustrating."
+  },
+  {
+    "q0": 39657620,
+    "q41": "Accuses game of baiting downloads."
+  },
+  {
+    "q0": 39657605,
+    "q41": "Questions the legitimacy and process of test qualification distribution."
+  },
+  {
+    "q0": 39657597,
+    "q41": "Bait download; negative rating."
+  },
+  {
+    "q0": 39657590,
+    "q41": "Granted qualification and downloaded but cannot play; wasted time and emotion."
+  },
+  {
+    "q0": 39657583,
+    "q23": true,
+    "q24": "Gacha follows a Genshin-like pity/50-50 system.",
+    "q39": -2,
+    "q40": "Loading stuck at 100%; server issues unresolved.",
+    "q41": "Qualification also required separate registration; server instability."
+  },
+  {
+    "q0": 39657579,
+    "q41": "Got qualification but told downloads/slots are full."
+  },
+  {
+    "q0": 39657553,
+    "q4": -2,
+    "q5": "Gameplay described as boring.",
+    "q41": "Server quality criticized as very poor."
+  },
+  {
+    "q0": 39657552,
+    "q41": "Asks to stop baiting downloads; frustration with TapTap usage."
+  },
+  {
+    "q0": 39657545,
+    "q41": "Bait download; poor operations/management."
+  },
+  {
+    "q0": 39657536,
+    "q41": "Bait download; wasted data; immediate uninstall."
+  },
+  {
+    "q0": 39657533,
+    "q41": "Feels like a fishing/baiting operation."
+  },
+  {
+    "q0": 39657530,
+    "q41": "Pre-downloaded after getting qualification; later blocked by registration cap; 'qualification' still required separate registration."
+  },
+  {
+    "q0": 39657528,
+    "q41": "Download qualification is not the same as registration qualification."
+  },
+  {
+    "q0": 39657522,
+    "q41": "Qualification appears 'swallowed' and not recognized."
+  },
+  {
+    "q0": 39657513,
+    "q41": "Network instability; various narrative/UI polish concerns (unclear prompts, unnatural lines); limited character greeting lines."
+  },
+  {
+    "q0": 39657503,
+    "q41": "Got test qualification and downloaded; then told registration reached cap."
+  },
+  {
+    "q0": 39657488,
+    "q41": "Wasted data and time; suspects low-quality reskin relying on tricks."
+  },
+  {
+    "q0": 39657487,
+    "q41": "Still advertising downloads despite no test slots; seen as deceptive."
+  },
+  {
+    "q0": 39657477,
+    "q41": "Accuses devs of wordplay and blaming 'display errors'; calls game low quality."
+  },
+  {
+    "q0": 39657475,
+    "q41": "After giving qualification, app shows registration full; later messaging reframed as 'first-come registration'."
+  },
+  {
+    "q0": 39657472,
+    "q39": -2,
+    "q40": "Initial entry attempt OK, then subsequent logins fail; cannot get back in.",
+    "q41": "Stability issues despite having qualification."
+  },
+  {
+    "q0": 39657471
+  },
+  {
+    "q0": 39657467,
+    "q41": "Bait-and-switch: downloaded but not allowed to play."
+  },
+  {
+    "q0": 39657460,
+    "q39": -2,
+    "q40": "Stuck on loading; cannot proceed.",
+    "q41": "Mentions gacha luck felt good."
+  },
+  {
+    "q0": 39657406,
+    "q41": "Shows test qualification but then says registration cap; wasted 4+ GB; vows to skip launch."
+  },
+  {
+    "q0": 39657443,
+    "q41": "Shown as qualified yet cannot enter; wasted time downloading."
+  },
+  {
+    "q0": 39657436,
+    "q41": "Slot cap message is frustrating though user remains cautiously optimistic."
+  },
+  {
+    "q0": 39657435,
+    "q41": "Network errors at opening time; later shows registration full."
+  },
+  {
+    "q0": 39657428,
+    "q41": "Bait download accusation."
+  },
+  {
+    "q0": 39657422,
+    "q41": "Baiting downloads/traffic."
+  },
+  {
+    "q0": 39657418,
+    "q41": "Registered early yet told no slots; feels deceived."
+  },
+  {
+    "q0": 39657414,
+    "q41": "Long-term anticipation wasted; disappointment."
+  },
+  {
+    "q0": 39657408,
+    "q23": true,
+    "q24": "Reports 70 soft pity and 180 hard pity; dual limited banners; 50/50 style; 'constellation/shard' system requiring multiple dupes.",
+    "q29": -2,
+    "q30": "Constellation/shard system increases stats with dupes; whales can brute force content.",
+    "q31": -2,
+    "q32": "Only about 20 pulls granted in test despite issues.",
+    "q39": -2,
+    "q40": "Server crashes and stutter even in limited test; story segments also lag.",
+    "q41": "Very negative view of progression/payment meta and launch stability."
+  },
+  {
+    "q0": 39657397,
+    "q41": "Tried to log in at the open; server crash and no qualification; frustration."
+  },
+  {
+    "q0": 39657396,
+    "q41": "Played earlier tests; after long time only UI changed; overall still poor."
+  },
+  {
+    "q0": 39657394,
+    "q41": "At open time app was laggy; when it worked, showed slots full."
+  },
+  {
+    "q0": 39657390,
+    "q41": "Launch-day server crash; gave test qualification but blocked by cap; feels malicious."
+  },
+  {
+    "q0": 39657378,
+    "q41": "Test qualification is not equivalent to registration; wasted download time."
+  },
+  {
+    "q0": 39657367,
+    "q41": "Wasted mobile data; angry."
+  },
+  {
+    "q0": 39657365,
+    "q41": "Complains about wasted data costs."
+  },
+  {
+    "q0": 39657356,
+    "q41": "Questions TapTap's 'test qualification' as misleading."
+  },
+  {
+    "q0": 39657332,
+    "q3": "Turn-based tactics; presentation is weak (basic hits, minimal impact).",
+    "q4": -1,
+    "q5": "Battle visuals/UI feel like a mini-game; mismatch with fancy intro.",
+    "q7": 0,
+    "q8": "Some tactical playability exists, but overall feels half-finished.",
+    "q41": "Server crash; store/asset/UI visuals resemble low-quality mini-games."
+  },
+  {
+    "q0": 39657326,
+    "q3": "Turn-based tactics (war chess)."
+  },
+  {
+    "q0": 39657325,
+    "q41": "UI too ornate and cluttered; difficult to navigate."
+  },
+  {
+    "q0": 39657319,
+    "q41": "Couldn't enter at 11:00; later hit slot cap; requires both download and registration grabs; server crash."
+  },
+  {
+    "q0": 39657318,
+    "q41": "Warns others not to play; calls operations trash; claims it wastes data and money."
+  },
+  {
+    "q0": 39657316,
+    "q3": "War chess/tactics; feels cumbersome and boring.",
+    "q4": -2,
+    "q5": "Tactical gameplay perceived as tedious and dull.",
+    "q41": "Network issues; art/portraits not appealing."
+  },
+  {
+    "q0": 39657315,
+    "q41": "Given test qualification but still forced to re-grab slots; very off-putting."
+  },
+  {
+    "q0": 39657287,
+    "q41": "Tutorial frequently freezes; must relaunch."
+  },
+  {
+    "q0": 39657309,
+    "q23": true,
+    "q24": "Genshin-like system with six dupes ('constellations') needed for full power.",
+    "q29": -2,
+    "q30": "Requires multiple dupes (six) to maximize characters, driving spending pressure.",
+    "q41": "Character naming/theme feel awkward and inconsistent with guofeng positioning."
+  },
+  {
+    "q0": 39657298,
+    "q37": -1,
+    "q38": "Roughly 3 GB download wasted due to registration cap.",
+    "q41": "Test qualification still required separate registration; many users trapped by this."
+  },
+  {
+    "q0": 39657292,
+    "q7": -1,
+    "q8": "AI system criticized as poor; undermines tactical depth.",
+    "q9": -1,
+    "q10": "Challenge rewards are hard to obtain.",
+    "q41": "Visuals acceptable but AI is weak."
+  },
+  {
+    "q0": 39657282,
+    "q3": "War chess gameplay, simpler than typical titles.",
+    "q7": -1,
+    "q8": "Simplified tactics; better suited as a casual game.",
+    "q41": "UI is confusing with poor information hierarchy; hard to find buttons."
+  },
+  {
+    "q0": 39655634,
+    "q9": -2,
+    "q10": "Progress blocked (cannot pass 1-2) with repeated instability.",
+    "q41": "Feels odd to play; waiting for optimization."
+  },
+  {
+    "q0": 39657269
+  },
+  {
+    "q0": 39657254,
+    "q3": "Must move first then select attack/skill; each battle consumes several minutes.",
+    "q4": -1,
+    "q5": "Combat pace is slow per encounter.",
+    "q39": -2,
+    "q40": "Network instability; victories counted as losses and had to redo."
+  },
+  {
+    "q0": 39657251,
+    "q41": "Had to grab 'download qualification' and then faced registration cap; dislikes big-head chibi art."
+  },
+  {
+    "q0": 39657249,
+    "q41": "Awaiting compensation before adjusting rating."
+  },
+  {
+    "q0": 39657236,
+    "q41": "Recharge/payment cannot be processed."
+  },
+  {
+    "q0": 39657232,
+    "q41": "Bait download."
+  },
+  {
+    "q0": 39657230,
+    "q41": "Has 'qualification' but no actual slot; feels like a trick."
+  },
+  {
+    "q0": 39657224,
+    "q41": "Won qualification but had to pre-register; within ten minutes, slots were gone."
+  },
+  {
+    "q0": 39657216,
+    "q41": "Messaged about test qualification yet required first-come registration; feels like bait."
+  },
+  {
+    "q0": 39657215,
+    "q41": "Gave qualification but didn't allow play; chasing download metrics."
+  },
+  {
+    "q0": 39657213,
+    "q41": "Claims the game 'ate' test qualification; bait download."
+  },
+  {
+    "q0": 39657209,
+    "q41": "Said qualification was given, but after download, registration not possible; inflating download numbers."
+  },
+  {
+    "q0": 39657205,
+    "q37": -2,
+    "q38": "About 4 GB download wasted due to slot limits despite pre-download.",
+    "q41": "Over-issued test qualifications; many cannot play."
+  },
+  {
+    "q0": 39657203,
+    "q41": "Late-night qualification notice wasn't equal to registration; had to camp to secure entry."
+  },
+  {
+    "q0": 39656229,
+    "q41": "Obtained qualification yet still capped; also accuses devs of using shills."
+  },
+  {
+    "q0": 39657199,
+    "q41": "Qualification to download but must grab registration; sarcastically suggests selling registrations."
+  },
+  {
+    "q0": 39657198,
+    "q41": "Confused about what 'qualification' actually grants."
+  },
+  {
+    "q0": 39657197,
+    "q41": "Criticizes spending on marketing instead of operations."
+  },
+  {
+    "q0": 39657194,
+    "q39": -2,
+    "q40": "At open, network unstable for a long time; later showed registration cap; compensation unreachable.",
+    "q41": "Very poor first-time experience; wasted ~3 GB data."
+  }
+]

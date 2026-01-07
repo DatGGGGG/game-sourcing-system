@@ -1,0 +1,559 @@
+[
+  {
+    "q0": 39732859,
+    "q3": "Turn-based grid tactics with a six-unit squad; manual play and auto AI available; potential team synergies (e.g., Li Gui + Jin'ou Yonggu Cup/Yue King Sword).",
+    "q4": 1,
+    "q5": "Feels thoughtful to play with room for squad synergy, but auto AI and hidden-task tuning need improvement.",
+    "q6": "Six-member formations, synergy combos, hidden objectives, auto AI.",
+    "q7": 1,
+    "q8": "Framework for coordination exists, but units often act independently and auto AI underperforms.",
+    "q9": 0,
+    "q10": "Progress should be fine if materials aren’t too stingy; hidden tasks currently feel overtuned.",
+    "q11": 1,
+    "q12": "States balance is generally OK with few weak high-rarity units.",
+    "q13": 1,
+    "q14": "Six-person team and combo potential imply multiple viable builds even if not fully realized yet.",
+    "q15": "Base/building system with upgrade timers and UI management (red dot notifications).",
+    "q16": false,
+    "q17": -1,
+    "q18": "Upgrade timers and UI clutter make it feel cumbersome.",
+    "q41": "Art/style inconsistency among skins; UI clutter; wants auto AI optimization and easier hidden objectives; raise UP rate."
+  },
+  {
+    "q0": 39655711
+  },
+  {
+    "q0": 39733555,
+    "q9": -1,
+    "q10": "Level and material gating slow progression; stamina dependence makes sustaining play difficult.",
+    "q41": "Tutorial/story reappeared and soft-locked extra challenge (bug); recommend lowering cultivation cost and reliance on stamina items."
+  },
+  {
+    "q0": 39733227,
+    "q3": "War-chess tactical battles with roles (e.g., sniper, guard, caster, strategic).",
+    "q4": 1,
+    "q5": "Enjoys turn-based tactics and class variety, though some class mechanics feel unsatisfying.",
+    "q6": "Class differentiation; sniper-focused squads; melee vs. large bosses counting damage oddly.",
+    "q7": 1,
+    "q8": "Room for planning and team comp, but mage range/mobility and melee vs. large boss interactions need work.",
+    "q11": -1,
+    "q12": "Mages feel weak due to range/mobility; melee damage counting vs. big bosses feels unfair.",
+    "q41": "Character personality/dialogue needs polishing despite some standouts."
+  },
+  {
+    "q0": 39732974,
+    "q9": -2,
+    "q10": "Overly complex growth systems with severe stamina shortages gate progress.",
+    "q41": "Red weapon access is scarce and substats are random, increasing grind."
+  },
+  {
+    "q0": 39732765,
+    "q3": "Turn-based tactics; heavy emphasis on manual control and strategy; auto is limited.",
+    "q6": "High strategic and execution demand; skins obtainable via gameplay.",
+    "q7": 1,
+    "q8": "Requires planning and control; not fully free-command but rewards skillful play.",
+    "q41": "Voice lines incomplete and desynced; tapping cancels voice; hopes high test gacha rate remains."
+  },
+  {
+    "q0": 39732679,
+    "q9": 1,
+    "q10": "Main story difficulty is reasonable with no hard walls reported.",
+    "q27": 1,
+    "q28": "Played through events and story without spending; hopes to avoid paywalls at launch.",
+    "q41": "Occasional voice cutoff; some skins feel stylistically inconsistent; requests a story memory/recap feature."
+  },
+  {
+    "q0": 39732677,
+    "q3": "War-chess battles; first clears are manual, subsequent clears can use auto-commission after viewing a replay.",
+    "q4": 1,
+    "q5": "Core loop is solid and convenient with the auto commission system.",
+    "q6": "Auto commission/unlock after first clear, replay-based automation.",
+    "q7": 1,
+    "q8": "Automation reduces grind after initial manual learning.",
+    "q41": "Launch-day operations were frustrating; test pool drop rate was very high."
+  },
+  {
+    "q0": 39732644,
+    "q3": "War-chess tactics with role variety and a weekly equalized-level mode.",
+    "q6": "‘Winter Valley Competition’ where owned characters are normalized to level 50; public recruitment feature.",
+    "q7": 1,
+    "q8": "Modes encourage experimentation without heavy growth reliance.",
+    "q23": true,
+    "q24": "Approx. 2% top rarity with soft pity ramp from ~50 pulls; small pity at ~70; hard pity at ~180 for a top rarity; public recruitment exists.",
+    "q41": "Dialect+Mandarin voice mix feels inconsistent; occasional missing voice; some audio timing quirks."
+  },
+  {
+    "q0": 39732296,
+    "q3": "Turn-based with fixed round order; players cannot customize action sequence.",
+    "q4": -1,
+    "q5": "Lack of control over action order feels restrictive."
+  },
+  {
+    "q0": 39731558,
+    "q4": -1,
+    "q5": "Core gameplay feels weak.",
+    "q9": -1,
+    "q10": "Growth systems are tough and slow.",
+    "q41": "Perceived very high gacha hit rate."
+  },
+  {
+    "q0": 39731600
+  },
+  {
+    "q0": 39731067,
+    "q3": "Turn-based grid battles with long later maps; death forces restarts; hidden score conditions.",
+    "q4": -1,
+    "q5": "Later stages are lengthy and punishing; hidden conditions feel frustrating.",
+    "q6": "Distinct unit behaviors (e.g., heal over time, summons, burst, multi-hit dispersion); positional play; hidden objectives.",
+    "q7": 1,
+    "q8": "Unit kits allow varied tactics, but map length and punishment reduce enjoyment.",
+    "q9": -1,
+    "q10": "Steep map difficulty increase and hidden scoring make progression tiring.",
+    "q29": -1,
+    "q30": "Purchased level packs to ease progression pressure.",
+    "q31": -1,
+    "q32": "Stamina costly and rewards feel stingy.",
+    "q41": "Standard pool felt worse than rate-up; off-rate duplicates; hidden conditions feel unfair."
+  },
+  {
+    "q0": 39731204,
+    "q3": "War-chess tactics with story and side tales.",
+    "q4": 1,
+    "q5": "Enjoys the gameplay loop and vignettes; requests sweep feature."
+  },
+  {
+    "q0": 39655767,
+    "q3": "War-chess tactics; auto exists; post-clear commission system.",
+    "q6": "Replay-based auto commission; high-burst units and terrain use.",
+    "q7": 1,
+    "q8": "Convenient automation and strong unit kits create tactical variety.",
+    "q23": true,
+    "q24": "Small pity ~70 and hard pity ~180; a ‘newcomer market’ 40-pull guarantee that disappears if hit early.",
+    "q25": -1,
+    "q26": "Estimated ~15–16 RMB per pull; acceptable but still pricey for F2P.",
+    "q31": 1,
+    "q32": "Early rewards felt plentiful in test.",
+    "q39": -1,
+    "q40": "Frequent ‘network unstable’ prompts and long loading; accidental double-ten-pull due to lag.",
+    "q41": "Early registration rush was chaotic; weapon cap feels low vs. character cap; stamina limits early on."
+  },
+  {
+    "q0": 39731043,
+    "q27": -2,
+    "q28": "Claims non-spenders can’t really play; constant resource shortage.",
+    "q29": -2,
+    "q30": "High pressure from resources/stamina scarcity.",
+    "q31": -2,
+    "q32": "Persistent lack of stamina and materials."
+  },
+  {
+    "q0": 39730963,
+    "q41": "Story has flaws; gacha felt fair with little off-rate."
+  },
+  {
+    "q0": 39730378,
+    "q9": -1,
+    "q10": "Stamina feels insufficient, hampering growth and progress.",
+    "q41": "Wants pity exchange improved (e.g., dual-pool UP select); hopes for social and competitive modes."
+  },
+  {
+    "q0": 39729477,
+    "q3": "War-chess with role-based kits, hidden conditions, and boss mechanics.",
+    "q4": 1,
+    "q5": "Tactical play is engaging, but stamina demands and speed system issues detract.",
+    "q6": "Hidden objectives; boss mechanics; speed/turn order system; two challenge modes (debuff gauntlet; equalized roster with non-reuse); class synergies.",
+    "q7": 1,
+    "q8": "Multiple modes and mechanics support planning; speed control limitations hinder deeper synergies.",
+    "q9": -1,
+    "q10": "Heavy stamina needs and event pacing make it hard to keep up after day 6.",
+    "q23": true,
+    "q24": "Approx. 70-pull pity and 180-pull hard pity; perceived high top-rarity hit rate.",
+    "q31": -1,
+    "q32": "Requests higher stamina cap or more free stamina to sustain play.",
+    "q41": "Later-region story clarity drops; speed system lacks player-adjustable tools."
+  },
+  {
+    "q0": 39729517,
+    "q3": "War-chess, but auto AI and lack of zoom hurt usability.",
+    "q4": -1,
+    "q5": "Gameplay feels dated; misclicks and weak auto raise frustration.",
+    "q6": "Auto battle; daily task load; multiple growth currencies.",
+    "q7": -1,
+    "q8": "Strategy doesn’t shine due to clunky controls and poor auto AI.",
+    "q9": -1,
+    "q10": "Overloaded daily/upgrade systems and timed mechanics slow progress.",
+    "q15": "Weapon crafting with timers; character recruitment; daily task loops.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Too many systems and timers create friction.",
+    "q19": -1,
+    "q20": "Crafting and recruitment feel stingy for the time investment.",
+    "q41": "Cannot zoom; frequent misclicks; suggests simplifying gameplay and growth systems."
+  },
+  {
+    "q0": 39729181
+  },
+  {
+    "q0": 39728451,
+    "q39": -2,
+    "q40": "Stuck at 1-1 cutscene and couldn’t proceed despite claimed fix.",
+    "q41": "Severe early blocking bug prevented any testing."
+  },
+  {
+    "q0": 39727991,
+    "q3": "War-chess tactics appealing to fans of the genre.",
+    "q4": 1,
+    "q5": "Genre fans will likely enjoy the core combat."
+  },
+  {
+    "q0": 39727826
+  },
+  {
+    "q0": 39727721,
+    "q3": "War-chess with hidden conditions and boss telegraphs; mobile controls prone to mis-taps.",
+    "q4": 1,
+    "q5": "Finds tactical puzzles interesting despite flaws.",
+    "q6": "Hidden objectives; boss delayed attacks; UI aids requested (enemy count, buff icons, danger indicators).",
+    "q7": 0,
+    "q8": "Potential is there but current UI/telegraphing hurts tactical clarity.",
+    "q9": -1,
+    "q10": "Large difficulty spikes gate main story progress.",
+    "q15": "Weapon manufacturing/orders; base/dispatch systems; UI meta loops.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Systems feel complex and visually noisy.",
+    "q19": -1,
+    "q20": "Manufacturing/dispatch rewards feel underwhelming.",
+    "q41": "UI clutter; red-dot spam; story feels weak/AI-like; wants clearer combat indicators and simplified systems."
+  },
+  {
+    "q0": 39727718,
+    "q41": "High framerate toggle delay; BGM transitions abrupt; voice/text pacing mismatch and tap cancels voice; touch feedback too large; multi-screen forces pause."
+  },
+  {
+    "q0": 39727099,
+    "q3": "War-chess; auto pauses with split-screen; unclear action order; some stages require zone capture to win.",
+    "q4": -1,
+    "q5": "Combat flow is clunky and unclear, especially with auto and turn order.",
+    "q9": -2,
+    "q10": "High resource costs, low drops (20 stamina per run for 1 item) cause early gating.",
+    "q31": -2,
+    "q32": "Stamina recovery is slow with no extra time windows; low resource yields.",
+    "q41": "Male/female art quality disparity; some voices unfitting; many bugs; minigames (Connect Four/2048) more engaging than core loop."
+  },
+  {
+    "q0": 39726994,
+    "q9": -1,
+    "q10": "Upgrading is tedious and battles take too long.",
+    "q23": true,
+    "q24": "Pity progress does not carry between pools; hitting two top-rarity pulls can still miss the UP.",
+    "q41": "Wants pity changes and faster gacha flow despite decent rates."
+  },
+  {
+    "q0": 39726693,
+    "q4": -1,
+    "q5": "War-chess combat felt boring to the reviewer.",
+    "q41": "Frequent off-rate pulls and many pity hits; wants skippable battle animations and lower main story numbers."
+  },
+  {
+    "q0": 39725933,
+    "q41": "Story underwhelming but art/music are appealing; may play as a light side game."
+  },
+  {
+    "q0": 39725928,
+    "q23": false,
+    "q24": "Reviewer states there is no common large/small pity, and rate-ups are brief.",
+    "q41": "UI feels like ‘refined clutter’; desires larger character focus on home; many skins less appealing than base."
+  },
+  {
+    "q0": 39725468,
+    "q9": -2,
+    "q10": "Very grindy with low material income.",
+    "q31": -2,
+    "q32": "Material income is low; feels stingy.",
+    "q39": -2,
+    "q40": "Frequent disconnections and unstable service."
+  },
+  {
+    "q0": 39725421,
+    "q3": "War-chess tactics with manual control and skill selection.",
+    "q4": 1,
+    "q5": "Good tactical potential with a learning curve.",
+    "q41": "Tap detection issues for basic attacks; reward/obtained animations feel slow; mainline UI overloaded; early story pacing is slow."
+  },
+  {
+    "q0": 39724635,
+    "q9": -1,
+    "q10": "Hidden conditions and boss designs feel anti-player.",
+    "q41": "Suggests optimizing hidden conditions and boss mechanics."
+  },
+  {
+    "q0": 39724253,
+    "q27": 1,
+    "q28": "Reports generous rewards, multiple top-rarity pulls, and manageable difficulty.",
+    "q31": 1,
+    "q32": "Felt the test rewards were plentiful.",
+    "q41": "Launch day was very laggy; story needs polish; more dialect voice lines requested; wants growth refund feature."
+  },
+  {
+    "q0": 39724208,
+    "q41": "Difficulty acceptable; gacha probability felt fine."
+  },
+  {
+    "q0": 39655819,
+    "q31": 1,
+    "q32": "Perceived good welfare during test; higher drop rate than some competitors.",
+    "q39": -1,
+    "q40": "Launch-day network and new-player issues noted."
+  },
+  {
+    "q0": 28770756,
+    "q23": true,
+    "q24": "Dual currencies; small/large pity; public recruitment; 5-pick-1 forced UP; planned hard pity reduced to 160 and pity shared between dual-UP pools; non-inherited ‘定轨’ with pity converted to shop tokens.",
+    "q29": 1,
+    "q30": "States acquisition pressure is lighter due to multiple safety nets and token conversions.",
+    "q31": 1,
+    "q32": "Pool changes during test granted two ten-pulls; generally felt generous.",
+    "q41": "AI improved but still makes odd choices; weekly tasks feel heavy; unclear weapon vendor outputs; PVE ‘Winter Valley’ equalizes level/constellations and offers red/gold token exchange."
+  },
+  {
+    "q0": 39722097,
+    "q9": -1,
+    "q10": "Slow stamina recovery and many growth dimensions/mats gate progress.",
+    "q41": "Combat UI prone to mis-taps; overlays obscure targets causing accidental backs and reselects."
+  },
+  {
+    "q0": 39721732,
+    "q39": -1,
+    "q40": "Frequent ‘network unstable’ prompts harmed experience.",
+    "q41": "Gameplay not to taste despite attractive art."
+  },
+  {
+    "q0": 39721640,
+    "q41": "Home screen is noisy; wants 3x auto speed; notes many small sub-modes."
+  },
+  {
+    "q0": 39721498,
+    "q3": "Tower-defense-like tactical stages; auto not recommended.",
+    "q4": 1,
+    "q5": "Finds stage design interesting when played manually.",
+    "q9": -1,
+    "q10": "Resource gating: Ch3 suggests level 70+ but key mats open in Ch4; synthesis needs multiple ingredients.",
+    "q23": true,
+    "q24": "Pity does not carry between pools; pool progress converts to shop currency."
+  },
+  {
+    "q0": 39721201,
+    "q3": "Retro, low-stress tactical combat.",
+    "q4": 1,
+    "q5": "Described as not brain-taxing and approachable."
+  },
+  {
+    "q0": 39720251,
+    "q4": -2,
+    "q5": "Auto-battle described as terrible.",
+    "q29": -2,
+    "q30": "Non-stop off-rate pulls and resource scarcity create heavy pressure.",
+    "q31": -2,
+    "q32": "Stamina and resource income feel very low."
+  },
+  {
+    "q0": 39719814,
+    "q11": -1,
+    "q12": "Perceives male characters’ kits as stronger than female characters.",
+    "q41": "Requests original-skin model preview; wants pity shared across UP pools; clearer next-wave spawn cues; green-heavy UI; red-dot logic inconsistent."
+  },
+  {
+    "q0": 39719728,
+    "q1": true,
+    "q2": "Many young-looking (‘loli’) character designs; reviewer felt uncomfortable.",
+    "q41": "UI inconvenient; in-battle feature set incomplete; prefers competitor in same genre."
+  },
+  {
+    "q0": 39719268
+  },
+  {
+    "q0": 39719178
+  },
+  {
+    "q0": 39664438,
+    "q4": -1,
+    "q5": "Doesn’t enjoy combat; auto sometimes forgets to basic attack; perfect clears feel tedious.",
+    "q15": "Music player; dispatch; production/crafting with timers; teahouse minigames (Connect Four/2048).",
+    "q16": false,
+    "q17": -1,
+    "q18": "Production times are long; minigames and tasks feel like chores.",
+    "q19": -1,
+    "q20": "Crafting/dispatch rewards feel too low for time spent.",
+    "q41": "Voice pacing lags; some art inconsistency; wants sweep, voice replay, smarter auto, clearer special mechanics; reduce task difficulty and extend event time."
+  },
+  {
+    "q0": 39718397,
+    "q41": "Quick recruitment yielded top rarity twice in a row (noted as lucky)."
+  },
+  {
+    "q0": 39717334,
+    "q3": "War-chess; limited terrain/kit variety; many hazards benefit only enemies; maps often funnel into cramped brawls.",
+    "q4": -1,
+    "q5": "Homogenized kits and enemy-favored mechanics make combat feel stale and unfair.",
+    "q6": "Terrain hazards mostly enemy-favored; limited environmental interactions; mini-games gated rewards.",
+    "q7": -1,
+    "q8": "Strategic depth is undercut by one-sided mechanics and limited map variety.",
+    "q31": -1,
+    "q32": "Initial welfare OK but ongoing income feels weak; weekly mode yields few pulls.",
+    "q15": "Base systems with limited utility; two minigames each holding 3 pulls to lure engagement.",
+    "q16": false,
+    "q17": -1,
+    "q18": "Base loops feel bloated without meaningful payoff.",
+    "q19": -1,
+    "q20": "Weekly/base loops provide modest rewards relative to time.",
+    "q41": "Skins released too many at once; recommends capping per cycle."
+  },
+  {
+    "q0": 39716894,
+    "q3": "War-chess with movement and skill range constraints; distant skill casts force moving forward.",
+    "q4": -2,
+    "q5": "Skill design forces awkward movement; boss fight lasted 13 minutes with immunities and terrain RNG.",
+    "q9": -2,
+    "q10": "Severe early difficulty spike (1-15) despite high levels relative to recommendation.",
+    "q39": -1,
+    "q40": "Network hiccups at launch caused stuck onboarding steps.",
+    "q41": "Art style inconsistency; survey gated behind 2-1 despite being blocked earlier."
+  },
+  {
+    "q0": 39716714,
+    "q41": "Music praised."
+  },
+  {
+    "q0": 39716616,
+    "q4": -1,
+    "q5": "Auto-battle issues reduce combat satisfaction.",
+    "q31": -1,
+    "q32": "Newbie event/resource setup felt problematic.",
+    "q41": "Concerns about gacha probabilities and auto behavior."
+  },
+  {
+    "q0": 39716016,
+    "q9": -2,
+    "q10": "Frequent level caps and multi-step unlocks make growth tedious and discouraging.",
+    "q31": -1,
+    "q32": "Materials have low yields vs. high costs; many breakthrough items needed.",
+    "q41": "Wants simplified growth; compares unfavorably to peers’ streamlined systems."
+  },
+  {
+    "q0": 39715525,
+    "q9": -1,
+    "q10": "Forming a functional 6–8 unit roster is resource-heavy during a short test window.",
+    "q41": "Map small on mobile causing mis-taps; wants double-tap confirmations; micro-stutters on multi-level-up; critique of a character illustration detail."
+  },
+  {
+    "q0": 39715424,
+    "q41": "Sweep feature feels indirect; wants a more straightforward implementation."
+  },
+  {
+    "q0": 39700478,
+    "q41": "UP off-rate occurs frequently; received duplicate high-rarity; requests gacha mechanism changes."
+  },
+  {
+    "q0": 39657497,
+    "q39": -1,
+    "q40": "Minimized window auto-paused gameplay (was later improved).",
+    "q41": "Perceived high overall drop rate but specific banner felt worse; auto-pause annoyance; continues playing despite issues."
+  },
+  {
+    "q0": 39714159,
+    "q9": -2,
+    "q10": "Difficulty spikes early; stamina recovery slow; event design reduces effective combat strength.",
+    "q31": -1,
+    "q32": "Few extra stamina opportunities; runs are time-consuming.",
+    "q39": -1,
+    "q40": "Persistent ‘connecting to HQ’ and lag.",
+    "q41": "Rarity doesn’t match perceived artifact value; some character designs acceptable; mileage varies."
+  },
+  {
+    "q0": 39712713,
+    "q9": -1,
+    "q10": "Events consume too much stamina.",
+    "q39": -1,
+    "q40": "Network lag spikes; cumbersome startup announcements.",
+    "q41": "Frequent off-rate duplicates; wants ultimate animation toggle and targeted hard pity in standard pool."
+  },
+  {
+    "q0": 39655749,
+    "q41": "Ground effect VFX unclear; hidden chests and event cost design feel punishing; story fully voiced early; UI/visuals strong; 3rd/6th dup power spikes notable."
+  },
+  {
+    "q0": 39711733,
+    "q41": "Multiple ten-pulls yielded top rarity during test (notes high test rates)."
+  },
+  {
+    "q0": 39711256,
+    "q41": "Strong personal attachment to T-shaped Silk Painting character motivates continued play."
+  },
+  {
+    "q0": 39710722,
+    "q9": -1,
+    "q10": "Newcomer advancement requires specific solutions, feeling restrictive and unfriendly.",
+    "q41": "Tutorial design perceived as overly prescriptive."
+  },
+  {
+    "q0": 39656291,
+    "q41": "Found one character voice grating; only first chapter fully voiced; 2048 minigame too long; story writing feels disconnected from reality and awkward."
+  },
+  {
+    "q0": 39710247,
+    "q41": "Some male character art looks odd; music good; gacha luck good for UPs."
+  },
+  {
+    "q0": 28726082,
+    "q41": "CV change for Tianwang Gui disliked; likes UI/art; perceives drop rate slightly low."
+  },
+  {
+    "q0": 39657649,
+    "q23": true,
+    "q24": "Small pity ~70; hard pity 180 (planned to 160); UP share across dual UP pools planned; UP rate share suggested to increase; pity converts between pools via tokens.",
+    "q41": "Wants sweep, lower main difficulty, lighter dailies, higher rates, reduced growth cost; many QoL asks (skip enemy turn, repeat craft, growth refund, pity pooling)."
+  },
+  {
+    "q0": 39679260,
+    "q3": "War-chess with role separation; strategic but can feel monotonous if autoed.",
+    "q4": 0,
+    "q5": "Neutral on combat; enjoys art more than gameplay.",
+    "q23": true,
+    "q24": "70-pull pity and 180-pull hard pity; pity does not carry; leftover pity converts to low-value points mainly for generic mats.",
+    "q29": -2,
+    "q30": "Gacha design (non-carrying pity and low-value pity points) feels punishing and expensive long-term.",
+    "q41": "Outstanding art; growth is long due to extensive skill trees and mat/time costs; UI/UX feels awkward."
+  },
+  {
+    "q0": 39708876,
+    "q9": -1,
+    "q10": "Weak sense of power growth; progression feels dull over time.",
+    "q31": -1,
+    "q32": "Test welfare felt stingy; weapon drops are chance-based and can miss.",
+    "q41": "Weapon system requires farming with RNG and reinforcement; overall core loop feels middling unless you love the theme."
+  },
+  {
+    "q0": 39708139,
+    "q4": -1,
+    "q5": "Core gameplay feels a bit too single-note; requests more varied modes.",
+    "q41": "Art/theme well-liked."
+  },
+  {
+    "q0": 39707884,
+    "q31": 1,
+    "q32": "Early rewards and activities felt generous.",
+    "q6": "Commission/agent system with 3x speed but early cap on proxy runs.",
+    "q7": 0,
+    "q8": "Proxy system exists but pathing/logic issues reduce value.",
+    "q41": "Early bugs and lag; agent pathing misbehaves; wants ultimate animation toggle."
+  },
+  {
+    "q0": 39649818,
+    "q25": -1,
+    "q26": "Without first-purchase double, ~18 RMB per pull (or ~15 RMB with large pack) feels pricey.",
+    "q39": -2,
+    "q40": "Black screen crash and hangs; overall instability.",
+    "q41": "UI colors dark and busy; no sweep; many auto stages but core loop feels boring; daily reward claims feel unsatisfying."
+  }
+]
